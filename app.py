@@ -267,9 +267,10 @@ if(format_type and series_name and match_name):
     match_df = format_df[(format_df['CompetitionName'] == series_name) & (format_df['MatchOrder'] == match_name)]
     match_id = match_df['MatchID'].unique()[0]
     max_overs = match_df['MATCH_NO_OF_OVERS'].unique()[0]
-    max_shot_data_overs = shot_data_df[shot_data_df['MatchID'] == match_id]['OverNo'].max()
-    max_shot_data_inns = shot_data_df[shot_data_df['MatchID'] == match_id]['InningsNo'].max()
+    # max_shot_data_inns = shot_data_df[shot_data_df['MatchID'] == match_id]['InningsNo'].max()
+    # max_shot_data_overs = shot_data_df[(shot_data_df['MatchID'] == match_id) & (shot_data_df['InningsNo'] == max_shot_data_inns)]['OverNo'].max()
     match_shot_data = shot_data_df[shot_data_df['MatchID'] == match_id]
+    max_len_shot_data = len(match_shot_data)
 
     over_range = st.slider(
         "Select custom range", 0, max_overs, (0, max_overs)
@@ -286,14 +287,17 @@ if(format_type and series_name and match_name):
 
     try:
         hawk_eye_df = pd.read_csv(f"./bcci_hawkeye_data/{match_id}.csv", low_memory=False)
-        max_hawkeye_overs = hawk_eye_df['OverNo'].max()
-        max_hawkeye_inns = hawk_eye_df['InningsNo'].max()
+        max_len_hawk_eye_data = len(hawk_eye_df)
+        # max_hawkeye_inns = hawk_eye_df['InningsNo'].max()
+        # max_hawkeye_overs = hawk_eye_df['OverNo'].max()
         hawk_eye_df = hawk_eye_df[hawk_eye_df['OverNo'].between(over_range[0], over_range[1])]
         hawk_eye_delivery_type_list = hawk_eye_df['delivery_type'].dropna().unique()
 
         hawkid_matchid_df = pd.read_csv(f"./bcci_shot_data/{cat}/hawkeyeid_matchid.csv", low_memory=False)
         hawkeye_available = hawkid_matchid_df["MatchID"].isin([match_id])
-        if((max_hawkeye_inns < max_shot_data_inns) or (max_hawkeye_overs < max_shot_data_overs)):
+        # if((max_hawkeye_inns < max_shot_data_inns) or (max_hawkeye_overs < max_shot_data_overs)):
+        print(max_len_shot_data, max_len_hawk_eye_data)
+        if(max_len_hawk_eye_data < max_len_shot_data):
             st.success("Hawkeye can be Updated!")
             available_hawkeye_id = hawkid_matchid_df[hawkid_matchid_df['MatchID'] == match_id]["HawkeyeID"].unique()[0]
             if st.button("Get Hawkeye Data"):
