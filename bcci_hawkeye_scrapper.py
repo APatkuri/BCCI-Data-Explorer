@@ -3,6 +3,7 @@ from data_scrapper import *
 from process_data import *
 import numpy as np
 import pandas as pd
+import os
 
 FIELDS = ['MatchID', 'InningsNo', 'BattingTeamID',
           'TeamName', 'BatsManName', 'BowlerName', 'BowlerType', 'OverNo',
@@ -38,10 +39,7 @@ def hawkeye_main(cat, matchid, hawkeyeid):
     max_over = match_info_df['MATCH_NO_OF_OVERS'].max().astype(int)
     seasons = ['']
 
-    if max_over == 200:
-        max_innings = 4
-    else:
-        max_innings = 2
+    max_innings = 4 if match_info_df['MATCH_NO_OF_OVERS'].max() == 200 else 2
 
 
     # iterate over the matches
@@ -63,10 +61,26 @@ def hawkeye_main(cat, matchid, hawkeyeid):
             print(f"Error: File '{match_str}' not found. Skipping this match.")
             continue
 
+        max_overs_per_innings = t20bbb.groupby('InningsNo')['OverNo'].max()
         # t20bbb = pd.read_csv(match_str, dtype = {'line': str, 'length': str, 'shot': str})
-        count = 0
+        if os.path.exists(OUT_FILENAME):
+            print("YESS")
+            # If it exists, read the existing data into a DataFrame
+            hawkeye_data = pd.read_csv(OUT_FILENAME)
+            existing_data_count = len(hawkeye_data)
+        else:
+            # If it doesn't exist, initialize an empty list for new data
+            hawkeye_data = pd.DataFrame(columns=FIELDS)
+            existing_data_count = 0
+
+        count = existing_data_count
 
         for inning in range(1, max_innings+1):
+
+            if inning not in max_overs_per_innings:
+                continue
+            max_over = max_overs_per_innings.get(inning, 0)
+
             for over in range(1, max_over+1):
                 ball = 1
 
@@ -110,7 +124,9 @@ def hawkeye_main(cat, matchid, hawkeyeid):
                     ball += 1
                     count += 1
 
-        hawkeye_data = pd.DataFrame(ball_data_all)
+        new_data_df = pd.DataFrame(ball_data_all)
+        # hawkeye_data = pd.DataFrame(ball_data_all)
+        hawkeye_data = pd.concat([hawkeye_data, new_data_df], ignore_index=True)
         hawkeye_data.to_csv(OUT_FILENAME, index = False)       
         print(f'{matchID} {count} done')
 

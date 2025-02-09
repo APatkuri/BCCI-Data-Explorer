@@ -18,9 +18,13 @@ if 'button_clicked' not in st.session_state:
 
 submit_button = st.button('Update Data')
 
+cat = st.selectbox(
+    'Category',
+    ['Men', 'Women'])
+
 if submit_button:
     st.session_state.button_clicked = True  # Set the flag to True when clicked
-    main_func()
+    main_func(cat)
 
 if st.session_state.button_clicked:
     st.success("Update completed successfully!")
@@ -29,10 +33,6 @@ if st.session_state.button_clicked:
 # submit_button = st.button("Update Data")
 # if submit_button:
 #     run_task()
-
-cat = st.selectbox(
-    'Category',
-    ['Men', 'Women'])
 try:
     shot_data_df = pd.read_csv(f"./bcci_shot_data/{cat}/combined_shot_data.csv", low_memory=False)
     match_list_df = pd.read_csv(f"./bcci_shot_data/{cat}/bcci_match_list.csv", low_memory=False)
@@ -268,6 +268,7 @@ if(format_type and series_name and match_name):
     match_id = match_df['MatchID'].unique()[0]
     max_overs = match_df['MATCH_NO_OF_OVERS'].unique()[0]
     max_shot_data_overs = shot_data_df[shot_data_df['MatchID'] == match_id]['OverNo'].max()
+    max_shot_data_inns = shot_data_df[shot_data_df['MatchID'] == match_id]['InningsNo'].max()
     match_shot_data = shot_data_df[shot_data_df['MatchID'] == match_id]
 
     over_range = st.slider(
@@ -286,12 +287,13 @@ if(format_type and series_name and match_name):
     try:
         hawk_eye_df = pd.read_csv(f"./bcci_hawkeye_data/{match_id}.csv", low_memory=False)
         max_hawkeye_overs = hawk_eye_df['OverNo'].max()
+        max_hawkeye_inns = hawk_eye_df['InningsNo'].max()
         hawk_eye_df = hawk_eye_df[hawk_eye_df['OverNo'].between(over_range[0], over_range[1])]
         hawk_eye_delivery_type_list = hawk_eye_df['delivery_type'].dropna().unique()
 
         hawkid_matchid_df = pd.read_csv(f"./bcci_shot_data/{cat}/hawkeyeid_matchid.csv", low_memory=False)
         hawkeye_available = hawkid_matchid_df["MatchID"].isin([match_id])
-        if(max_hawkeye_overs < max_shot_data_overs):
+        if((max_hawkeye_inns < max_shot_data_inns) or (max_hawkeye_overs < max_shot_data_overs)):
             st.success("Hawkeye can be Updated!")
             available_hawkeye_id = hawkid_matchid_df[hawkid_matchid_df['MatchID'] == match_id]["HawkeyeID"].unique()[0]
             if st.button("Get Hawkeye Data"):

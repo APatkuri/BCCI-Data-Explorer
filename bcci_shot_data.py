@@ -248,14 +248,13 @@ def hawkeye_data(cat):
         for i, j in hawkeye_ids:
             file.write(f"{i}, {j}\n")
 
-def main_func():
+def main_func(cat):
     # category = ["Men", "Women"]
-    category = ["Men", "Women"]
 
-    for cat in category:
-        bcci_match_list = bcci_shot_data_json(cat)
-        match_data_procees(bcci_match_list, cat)
-        hawkeye_data(cat)
+    # for cat in category:
+    bcci_match_list = bcci_shot_data_json(cat)
+    match_data_procees(bcci_match_list, cat)
+    hawkeye_data(cat)
 
 if __name__ == '__main__':
     main_func()
