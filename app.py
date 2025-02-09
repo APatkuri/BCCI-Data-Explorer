@@ -374,6 +374,4 @@ if (format_type and series_name and match_name and available_shot_data and len(f
 
     if(selected_option):
         plotting_func(selected_option)
-else:
-    st.error("No Data Available")
     # st.dataframe(match_shot_data, use_container_width=True)
