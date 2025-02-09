@@ -1,0 +1,242 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,344,1,1,India,Prithvi Shaw,Dushmantha Chameera,,1,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,0.1,2,1,0,130951,,,0,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+1,2,344,1,1,India,Sanju Samson,Dushmantha Chameera,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,130952,-48.00,-120.50,1,0,,42,OUTSWINGER,44,GLIDE,0,0,2,0,1,1,2,0,0,0,0,0,0,0
+2,3,344,1,1,India,Shikhar Dhawan,Dushmantha Chameera,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,130953,-47.50,46.00,1,0,,41,INSWINGER,27,FORWARD PUSH,0,0,3,0,2,1,0,0,0,0,0,0,0,0
+3,4,344,1,1,India,Sanju Samson,Dushmantha Chameera,,1,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,130954,152.00,6.00,2,0,,42,OUTSWINGER,40,FLICK,0,0,4,0,4,1,0,0,0,0,0,0,0,0
+4,5,344,1,1,India,Sanju Samson,Dushmantha Chameera,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,130955,152.00,6.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,5,0,4,1,0,0,0,0,0,0,0,0
+5,6,344,1,1,India,Sanju Samson,Dushmantha Chameera,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,130956,152.00,6.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,0,4,1,0,0,0,0,0,0,0,0
+6,1,344,1,1,India,Shikhar Dhawan,Chamika Karunaratne,,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,130957,-6.00,134.00,1,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,1,1,5,1,1,0,0,0,0,0,0,0
+7,2,344,1,1,India,Sanju Samson,Chamika Karunaratne,,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,130958,-89.50,-93.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,1,6,1,0,0,0,0,0,0,0,0
+8,3,344,1,1,India,Shikhar Dhawan,Chamika Karunaratne,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,130959,27.00,20.50,0,0,,41,INSWINGER,49,FORWARD DEFENCE,0,0,3,1,6,1,0,0,0,0,0,0,0,0
+9,4,344,1,1,India,Shikhar Dhawan,Chamika Karunaratne,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,130960,79.00,98.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,1,7,1,0,0,0,0,0,0,0,0
+10,5,344,1,1,India,Sanju Samson,Chamika Karunaratne,,2,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,130961,37.50,63.50,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,5,1,8,1,0,0,0,0,0,0,0,0
+11,6,344,1,1,India,Shikhar Dhawan,Chamika Karunaratne,,2,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.6,2,1,0,130962,166.50,116.00,4,0,,,Knuckleball,89,SD COVER,0,0,6,1,12,1,0,0,0,0,0,0,0,0
+12,1,344,1,1,India,Sanju Samson,Dushmantha Chameera,,3,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.1,2,1,0,130963,-146.50,-70.50,4,0,,,Knuckleball,5,LOFT OFF,0,0,1,2,16,1,1,0,0,0,0,0,0,0
+13,2,344,1,1,India,Sanju Samson,Dushmantha Chameera,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,130964,-90.50,6.50,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,2,16,1,0,0,0,0,0,0,0,0
+14,3,344,1,1,India,Sanju Samson,Dushmantha Chameera,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,130965,-90.50,6.50,0,0,,36,BOUNCER,58,PULL SHOT,1,0,3,2,16,1,0,0,0,0,0,0,0,0
+15,4,344,1,1,India,Sanju Samson,Dushmantha Chameera,,3,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,130966,-69.00,-97.50,1,0,,46,LEGCUTTER,44,GLIDE,0,0,4,2,17,1,0,0,0,0,0,0,0,0
+16,5,344,1,1,India,Shikhar Dhawan,Dushmantha Chameera,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,130967,95.00,35.50,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,2,17,1,0,0,0,0,0,0,0,0
+17,6,344,1,1,India,Shikhar Dhawan,Dushmantha Chameera,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,130968,-104.50,-1.00,1,0,,,Knuckleball,40,FLICK,0,0,6,2,18,1,0,0,0,0,0,0,0,0
+18,1,344,1,1,India,Shikhar Dhawan,Akila Dananjaya,,4,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.1,2,1,0,130969,-194.50,-7.50,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,3,22,1,1,0,0,0,0,0,0,0
+19,2,344,1,1,India,Shikhar Dhawan,Akila Dananjaya,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,130970,-83.50,-7.50,0,0,,,Knuckleball,40,FLICK,0,0,2,3,22,1,0,0,0,0,0,0,0,0
+20,3,344,1,1,India,Shikhar Dhawan,Akila Dananjaya,,4,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,130971,117.00,139.00,2,0,,,Knuckleball,84,OFF DRIVE,0,0,3,3,24,1,0,0,0,0,0,0,0,0
+21,4,344,1,1,India,Shikhar Dhawan,Akila Dananjaya,,4,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.4,2,1,0,130972,-161.50,-81.00,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,3,28,1,0,0,0,0,0,0,0,0
+22,5,344,1,1,India,Shikhar Dhawan,Akila Dananjaya,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,130973,-161.50,-81.00,0,0,,23,ARM BALL,58,PULL SHOT,0,0,5,3,28,1,0,0,0,0,0,0,0,0
+23,6,344,1,1,India,Shikhar Dhawan,Akila Dananjaya,,4,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,3.6,2,1,1,130974,-40.00,13.50,1,0,,,Knuckleball,54,LEG GLANCE,0,0,6,3,29,1,0,0,0,0,0,0,0,0
+24,1,344,1,1,India,Shikhar Dhawan,Isuru Udana,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,130975,137.50,-24.50,1,0,,,Knuckleball,5,LOFT OFF,0,0,1,4,30,1,1,0,0,0,0,0,0,0
+25,2,344,1,1,India,Sanju Samson,Isuru Udana,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,130976,-62.00,44.00,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,2,4,30,1,0,0,0,0,0,0,0,0
+26,3,344,1,1,India,Sanju Samson,Isuru Udana,,5,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,130977,76.50,-18.00,1,0,,49,SLOW YORKER,27,FORWARD PUSH,0,0,3,4,31,1,0,0,0,0,0,0,0,0
+27,4,344,1,1,India,Shikhar Dhawan,Isuru Udana,,5,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,130978,141.50,26.50,2,0,,,Knuckleball,114,SDL COVER,0,0,4,4,33,1,0,0,0,0,0,0,0,0
+28,5,344,1,1,India,Shikhar Dhawan,Isuru Udana,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,130979,-71.00,100.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,4,34,1,0,0,0,0,0,0,0,0
+29,6,344,1,1,India,Sanju Samson,Isuru Udana,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,130980,-143.50,20.00,1,0,,,Knuckleball,96,Slice,0,0,6,4,35,1,0,0,0,0,0,0,0,0
+30,1,344,1,1,India,Sanju Samson,Akila Dananjaya,,6,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,5.1,2,1,0,130981,-12.00,218.00,6,0,,,Knuckleball,69,SDL STRAIGHT,0,0,1,5,41,1,1,0,0,0,0,0,0,0
+31,2,344,1,1,India,Sanju Samson,Akila Dananjaya,,6,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,5.2,2,1,1,130982,-12.00,218.00,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,5,42,1,0,0,0,0,0,0,0,0
+32,3,344,1,1,India,Sanju Samson,Akila Dananjaya,,6,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.2,2,1,0,130983,-149.00,153.50,4,0,,,Knuckleball,61,INSIDE OUT,0,0,3,5,46,1,0,0,0,0,0,0,0,0
+33,4,344,1,1,India,Sanju Samson,Akila Dananjaya,,6,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,130984,107.00,137.00,2,0,,,Knuckleball,47,ON DRIVE,0,0,4,5,48,1,0,0,0,0,0,0,0,0
+34,5,344,1,1,India,Sanju Samson,Akila Dananjaya,,6,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,130985,80.50,95.50,2,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,5,50,1,0,1,1,0,1,0,0,0
+35,6,344,1,1,India,Sanju Samson,Akila Dananjaya,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,130986,22.00,64.50,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,5,50,1,0,0,1,0,0,0,0,0
+36,7,344,1,1,India,Sanju Samson,Akila Dananjaya,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,130987,92.00,90.50,1,0,,,Knuckleball,47,ON DRIVE,0,0,7,5,51,1,0,0,1,0,0,0,0,0
+37,1,344,1,1,India,Sanju Samson,Wanindu Hasaranga,,7,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,6.1,2,1,0,130988,92.00,90.50,0,0,,28,GOOGLY,49,FORWARD DEFENCE,0,0,1,6,51,2,1,0,1,0,0,0,0,0
+38,2,344,1,1,India,Suryakumar Yadav,Wanindu Hasaranga,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,130989,94.50,106.50,1,0,,28,GOOGLY,101,BACKFOOT ON DRIVE,0,0,2,6,52,2,2,0,1,0,0,0,0,0
+39,3,344,1,1,India,Shikhar Dhawan,Wanindu Hasaranga,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,130990,-30.00,14.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,6,52,2,0,0,1,0,0,0,0,0
+40,4,344,1,1,India,Shikhar Dhawan,Wanindu Hasaranga,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,130991,20.50,28.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,6,52,2,0,0,1,0,0,0,0,0
+41,5,344,1,1,India,Shikhar Dhawan,Wanindu Hasaranga,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,130992,-111.50,81.00,1,0,,,Knuckleball,37,SD FLICK,0,0,5,6,53,2,0,0,1,0,0,0,0,0
+42,6,344,1,1,India,Suryakumar Yadav,Wanindu Hasaranga,,7,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,130993,-131.50,-24.50,2,0,,,Knuckleball,5,LOFT OFF,0,0,6,6,55,2,0,0,1,0,0,0,0,0
+43,1,344,1,1,India,Shikhar Dhawan,Dasun Shanaka,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,130994,-47.50,38.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,7,56,2,1,0,1,0,0,0,0,0
+44,2,344,1,1,India,Suryakumar Yadav,Dasun Shanaka,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,130995,-54.00,80.50,0,0,,,Knuckleball,84,OFF DRIVE,0,0,2,7,56,2,0,0,1,0,0,0,0,0
+45,3,344,1,1,India,Suryakumar Yadav,Dasun Shanaka,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,130996,146.00,64.50,1,0,,,Knuckleball,40,FLICK,0,0,3,7,57,2,0,0,1,0,0,0,0,0
+46,4,344,1,1,India,Shikhar Dhawan,Dasun Shanaka,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,130997,-96.50,-64.50,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,7,58,2,0,0,1,0,0,0,0,0
+47,5,344,1,1,India,Suryakumar Yadav,Dasun Shanaka,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,130998,-96.50,-64.50,0,0,,,Knuckleball,58,PULL SHOT,0,0,5,7,58,2,0,0,1,0,0,0,0,0
+48,6,344,1,1,India,Suryakumar Yadav,Dasun Shanaka,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,130999,-75.50,137.50,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,6,7,59,2,0,0,1,0,0,0,0,0
+49,1,344,1,1,India,Suryakumar Yadav,Wanindu Hasaranga,,9,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.1,2,1,0,131000,146.00,156.50,4,0,,,Knuckleball,11,LOFT ON,0,0,1,8,63,2,1,0,1,0,0,0,0,0
+50,2,344,1,1,India,Suryakumar Yadav,Wanindu Hasaranga,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,131001,-72.50,-9.50,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,8,63,2,0,0,1,0,0,0,0,0
+51,3,344,1,1,India,Suryakumar Yadav,Wanindu Hasaranga,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,131002,95.00,123.50,1,0,,,Knuckleball,11,LOFT ON,0,0,3,8,64,2,0,0,1,0,0,0,0,0
+52,4,344,1,1,India,Shikhar Dhawan,Wanindu Hasaranga,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,131003,-83.00,-16.00,1,0,,,Knuckleball,40,FLICK,0,0,4,8,65,2,0,0,1,0,0,0,0,0
+53,5,344,1,1,India,Suryakumar Yadav,Wanindu Hasaranga,,9,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.5,2,1,0,131004,-150.00,-75.50,4,0,,,Knuckleball,36,CUT SHOT,0,0,5,8,69,2,0,0,1,0,0,0,0,0
+54,6,344,1,1,India,Suryakumar Yadav,Wanindu Hasaranga,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,131005,87.00,126.50,1,0,,,Knuckleball,47,ON DRIVE,0,0,6,8,70,2,0,0,1,0,0,0,0,0
+55,1,344,1,1,India,Suryakumar Yadav,Isuru Udana,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,131006,-70.50,-25.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,9,70,2,1,0,1,0,0,0,0,0
+56,2,344,1,1,India,Suryakumar Yadav,Isuru Udana,,10,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.2,2,1,0,131007,-148.00,149.50,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,9,74,2,0,0,1,0,0,0,0,0
+57,3,344,1,1,India,Suryakumar Yadav,Isuru Udana,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,131008,8.50,143.50,1,0,,,Knuckleball,33,CHIP SHOT,0,0,3,9,75,2,0,0,1,0,0,0,0,0
+58,4,344,1,1,India,Shikhar Dhawan,Isuru Udana,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,131009,144.00,22.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,9,76,2,0,0,1,0,0,0,0,0
+59,5,344,1,1,India,Suryakumar Yadav,Isuru Udana,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,131010,-72.50,-34.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,9,76,2,0,0,1,0,0,0,0,0
+60,6,344,1,1,India,Suryakumar Yadav,Isuru Udana,,10,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,131011,-130.50,104.00,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,9,78,2,0,0,1,0,0,0,0,0
+61,1,344,1,1,India,Shikhar Dhawan,Chamika Karunaratne,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,131012,-140.00,-27.50,1,0,,,Knuckleball,58,PULL SHOT,0,0,1,10,79,2,1,0,1,0,0,0,0,0
+62,2,344,1,1,India,Suryakumar Yadav,Chamika Karunaratne,,11,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.2,2,1,0,131013,15.00,-148.50,4,0,,,Knuckleball,99,SCOOP,0,0,2,10,83,2,0,0,1,0,0,0,0,0
+63,3,344,1,1,India,Suryakumar Yadav,Chamika Karunaratne,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,131014,87.00,21.50,1,0,,20,BACKHAND SLOWER,35,LATE CUT,0,0,3,10,84,2,0,0,1,0,0,0,0,0
+64,4,344,1,1,India,Shikhar Dhawan,Chamika Karunaratne,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,131015,87.00,21.50,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,10,85,2,0,0,1,0,0,0,0,0
+65,5,344,1,1,India,Suryakumar Yadav,Chamika Karunaratne,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,131016,-63.50,-22.00,0,0,,20,BACKHAND SLOWER,40,FLICK,0,0,5,10,85,2,0,0,1,0,0,0,0,0
+66,6,344,1,1,India,Suryakumar Yadav,Chamika Karunaratne,,11,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,10.6,2,1,1,131017,-63.50,-22.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,10,86,2,0,0,1,0,0,0,0,0
+67,7,344,1,1,India,Suryakumar Yadav,Chamika Karunaratne,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,131018,68.00,120.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,7,10,87,2,0,0,1,0,0,0,0,0
+68,1,344,1,1,India,Suryakumar Yadav,Akila Dananjaya,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,131019,92.50,122.50,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,1,11,88,2,1,0,1,0,0,0,0,0
+69,2,344,1,1,India,Shikhar Dhawan,Akila Dananjaya,,12,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,11.2,2,1,0,131020,-188.00,74.00,6,0,,,Knuckleball,94,SDL ON,0,0,2,11,94,2,0,0,1,0,0,0,0,0
+70,3,344,1,1,India,Shikhar Dhawan,Akila Dananjaya,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,131021,79.00,19.50,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,11,95,2,0,0,1,0,0,0,0,0
+71,4,344,1,1,India,Suryakumar Yadav,Akila Dananjaya,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,131022,115.50,102.00,1,0,,,Knuckleball,37,SD FLICK,0,0,4,11,96,2,0,0,1,0,0,0,0,0
+72,5,344,1,1,India,Shikhar Dhawan,Akila Dananjaya,,12,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.5,2,1,0,131023,53.50,206.00,4,0,,,Knuckleball,69,SDL STRAIGHT,0,0,5,11,100,2,0,1,2,0,0,1,0,0
+73,6,344,1,1,India,Shikhar Dhawan,Akila Dananjaya,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,131024,-72.00,94.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,11,101,2,0,0,2,0,0,0,0,0
+74,1,344,1,1,India,Shikhar Dhawan,Wanindu Hasaranga,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,131025,-98.50,86.00,1,0,,,Knuckleball,37,SD FLICK,0,0,1,12,102,2,1,0,2,0,0,0,0,0
+75,2,344,1,1,India,Suryakumar Yadav,Wanindu Hasaranga,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,131026,100.00,-14.00,1,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,2,12,103,2,0,0,2,0,0,0,0,0
+76,3,344,1,1,India,Shikhar Dhawan,Wanindu Hasaranga,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,131027,-74.00,-9.00,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,12,103,2,0,0,2,0,0,0,0,0
+77,4,344,1,1,India,Shikhar Dhawan,Wanindu Hasaranga,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,131028,-76.50,-22.00,1,0,,,Knuckleball,40,FLICK,0,0,4,12,104,2,0,0,2,0,0,0,0,0
+78,5,344,1,1,India,Suryakumar Yadav,Wanindu Hasaranga,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,131029,-76.50,-22.00,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,12,104,2,0,0,2,0,0,0,0,0
+79,6,344,1,1,India,Suryakumar Yadav,Wanindu Hasaranga,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,131030,130.50,14.50,1,0,,,Knuckleball,94,SDL ON,0,0,6,12,105,2,0,0,2,0,0,0,0,0
+80,1,344,1,1,India,Suryakumar Yadav,Isuru Udana,,14,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.1,2,1,0,131031,177.50,-52.00,4,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,13,109,2,1,0,2,0,0,0,0,0
+81,2,344,1,1,India,Suryakumar Yadav,Isuru Udana,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,131032,177.50,-52.00,0,0,,47,SLOWER BALL,58,PULL SHOT,0,0,2,13,109,2,0,0,2,0,0,0,0,0
+82,3,344,1,1,India,Suryakumar Yadav,Isuru Udana,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,131033,117.00,104.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,13,110,2,0,0,2,0,0,0,0,0
+83,4,344,1,1,India,Shikhar Dhawan,Isuru Udana,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,131034,117.00,104.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,13,110,2,0,0,2,0,0,0,0,0
+84,5,344,1,1,India,Shikhar Dhawan,Isuru Udana,,14,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,131035,-152.00,-18.50,2,0,,,Knuckleball,58,PULL SHOT,0,0,5,13,112,2,0,0,2,0,0,0,0,0
+85,6,344,1,1,India,Shikhar Dhawan,Isuru Udana,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,131036,-101.00,143.50,1,0,,,Knuckleball,11,LOFT ON,0,0,6,13,113,2,0,0,2,0,0,0,0,0
+86,1,344,1,1,India,Shikhar Dhawan,Chamika Karunaratne,,15,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,14.1,2,1,0,131037,-141.00,-44.50,0,0,,,Knuckleball,94,SDL ON,0,0,1,14,113,3,1,0,2,0,0,0,0,0
+87,2,344,1,1,India,Suryakumar Yadav,Chamika Karunaratne,,15,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,14.2,2,1,1,131038,-141.00,-44.50,1,0,,39,ANGLED IN,18,SLOG SHOT,0,0,2,14,114,3,2,0,2,0,0,0,0,0
+88,3,344,1,1,India,Suryakumar Yadav,Chamika Karunaratne,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,131039,-141.00,-44.50,0,0,,,Knuckleball,35,LATE CUT,0,0,3,14,114,3,0,0,2,0,0,0,0,0
+89,4,344,1,1,India,Suryakumar Yadav,Chamika Karunaratne,,15,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,14.3,2,1,0,131040,188.00,-34.50,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,14,120,3,0,0,2,0,0,0,0,0
+90,5,344,1,1,India,Suryakumar Yadav,Chamika Karunaratne,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,131041,-46.00,-54.50,0,0,,,Knuckleball,35,LATE CUT,0,0,5,14,120,3,0,0,2,0,0,0,0,0
+91,6,344,1,1,India,Suryakumar Yadav,Chamika Karunaratne,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,131042,-140.50,-6.00,1,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,6,14,121,3,0,0,2,0,0,0,0,0
+92,7,344,1,1,India,Hardik Pandya,Chamika Karunaratne,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,131043,-56.00,59.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,7,14,121,3,0,0,2,0,0,0,0,0
+93,1,344,1,1,India,Suryakumar Yadav,Wanindu Hasaranga,,16,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.1,2,1,0,131044,15.00,215.00,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,1,15,127,3,1,0,2,0,0,0,0,0
+94,2,344,1,1,India,Suryakumar Yadav,Wanindu Hasaranga,,16,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,15.2,2,1,0,131045,-94.50,143.00,0,0,,,Knuckleball,61,INSIDE OUT,0,0,2,15,127,4,2,0,2,0,0,0,0,0
+95,3,344,1,1,India,Hardik Pandya,Wanindu Hasaranga,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,131046,0.50,9.50,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,15,127,4,3,0,2,0,0,0,0,0
+96,4,344,1,1,India,Hardik Pandya,Wanindu Hasaranga,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,131047,-48.00,19.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,15,128,4,0,0,2,0,0,0,0,0
+97,5,344,1,1,India,Ishan Kishan,Wanindu Hasaranga,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,131048,-91.00,98.50,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,15,129,4,0,0,2,0,0,0,0,0
+98,6,344,1,1,India,Hardik Pandya,Wanindu Hasaranga,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,131049,-117.50,48.50,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,15,130,4,0,0,2,0,0,0,0,0
+99,1,344,1,1,India,Hardik Pandya,Dushmantha Chameera,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,131050,106.00,102.50,1,0,,,Knuckleball,47,ON DRIVE,0,0,1,16,131,4,1,0,2,0,0,0,0,0
+100,2,344,1,1,India,Ishan Kishan,Dushmantha Chameera,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,131051,78.00,75.50,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,16,131,4,0,0,2,0,0,0,0,0
+101,3,344,1,1,India,Ishan Kishan,Dushmantha Chameera,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,131052,78.00,75.50,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,3,16,131,4,0,0,2,0,0,0,0,0
+102,4,344,1,1,India,Ishan Kishan,Dushmantha Chameera,,17,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.4,2,1,0,131053,158.00,-67.00,4,0,,,Knuckleball,59,SQUARE DRIVE,0,0,4,16,135,4,0,0,2,0,0,0,0,0
+103,5,344,1,1,India,Ishan Kishan,Dushmantha Chameera,,17,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,16.5,2,1,1,131054,158.00,-67.00,1,0,,20,BACKHAND SLOWER,55,SWEEP SHOT,0,0,5,16,136,4,0,0,2,0,0,0,0,0
+104,6,344,1,1,India,Hardik Pandya,Dushmantha Chameera,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,131055,-44.50,36.50,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,16,137,4,0,0,2,0,0,0,0,0
+105,1,344,1,1,India,Hardik Pandya,Isuru Udana,,18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,131056,-44.50,36.50,0,0,,47,SLOWER BALL,36,CUT SHOT,0,0,1,17,137,4,1,0,2,0,0,0,0,0
+106,2,344,1,1,India,Hardik Pandya,Isuru Udana,,18,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,131057,99.50,111.00,2,0,,,Knuckleball,47,ON DRIVE,0,0,2,17,139,4,0,0,2,0,0,0,0,0
+107,3,344,1,1,India,Hardik Pandya,Isuru Udana,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,131058,120.00,129.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,17,140,4,0,0,2,0,0,0,0,0
+108,4,344,1,1,India,Ishan Kishan,Isuru Udana,,18,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,131059,9.00,63.50,0,0,,,Knuckleball,84,OFF DRIVE,0,0,4,17,140,4,0,0,2,0,0,0,0,0
+109,5,344,1,1,India,Ishan Kishan,Isuru Udana,,18,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.5,2,1,0,131060,-148.50,129.50,6,0,,,Knuckleball,11,LOFT ON,0,0,5,17,146,4,0,0,2,0,0,0,0,0
+110,6,344,1,1,India,Ishan Kishan,Isuru Udana,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,131061,-55.00,33.00,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,17,147,4,0,0,2,0,0,0,0,0
+111,1,344,1,1,India,Ishan Kishan,Dushmantha Chameera,,19,1,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,0,,,0,18.1,2,1,1,131062,-55.00,33.00,2,0,,36,BOUNCER,105,LEFT ALONE,1,0,1,18,149,4,1,0,2,0,0,0,0,0
+112,2,344,1,1,India,Hardik Pandya,Dushmantha Chameera,,19,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,131063,-119.50,84.50,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,18,151,4,0,1,3,0,0,0,0,0
+113,3,344,1,1,India,Hardik Pandya,Dushmantha Chameera,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,131064,94.00,133.50,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,18,152,4,0,0,3,0,0,0,0,0
+114,4,344,1,1,India,Ishan Kishan,Dushmantha Chameera,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,131065,-156.50,-7.50,1,0,,47,SLOWER BALL,11,LOFT ON,0,0,4,18,153,4,0,0,3,0,0,0,0,0
+115,5,344,1,1,India,Hardik Pandya,Dushmantha Chameera,,19,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.4,2,1,0,131066,-8.00,-21.50,0,0,,,Knuckleball,96,Slice,0,0,5,18,153,5,1,0,3,0,0,0,0,0
+116,6,344,1,1,India,Krunal Pandya,Dushmantha Chameera,,19,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.5,2,1,0,131067,90.00,-30.50,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,6,18,154,5,2,0,3,0,0,0,0,0
+117,7,344,1,1,India,Ishan Kishan,Dushmantha Chameera,,19,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.6,2,1,0,131068,66.00,121.50,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,7,18,155,5,0,0,3,0,0,0,0,0
+118,1,344,1,1,India,Ishan Kishan,Chamika Karunaratne,,20,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.1,2,1,0,131069,104.00,143.50,2,0,,,Knuckleball,18,SLOG SHOT,0,0,1,19,157,5,1,0,3,0,0,0,0,0
+119,2,344,1,1,India,Ishan Kishan,Chamika Karunaratne,,20,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.2,2,1,0,131070,-96.50,-1.00,1,0,,,Knuckleball,18,SLOG SHOT,0,0,2,19,158,5,0,0,3,0,0,0,0,0
+120,3,344,1,1,India,Krunal Pandya,Chamika Karunaratne,,20,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.3,2,1,0,131071,-78.00,121.50,1,0,,47,SLOWER BALL,18,SLOG SHOT,0,0,3,19,159,5,0,0,3,0,0,0,0,0
+121,4,344,1,1,India,Ishan Kishan,Chamika Karunaratne,,20,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.4,2,1,0,131072,128.00,-56.50,2,0,,,Knuckleball,96,Slice,0,0,4,19,161,5,0,0,3,0,0,0,0,0
+122,5,344,1,1,India,Ishan Kishan,Chamika Karunaratne,,20,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.5,2,1,0,131073,118.00,113.00,1,0,,,Knuckleball,18,SLOG SHOT,0,0,5,19,162,5,0,0,3,0,0,0,0,0
+123,6,344,1,1,India,Krunal Pandya,Chamika Karunaratne,,20,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,19.6,2,1,1,131074,118.00,113.00,1,0,,,Knuckleball,105,LEFT ALONE,0,0,6,19,163,5,0,0,3,0,0,0,0,0
+124,7,344,1,1,India,Krunal Pandya,Chamika Karunaratne,,20,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.6,2,1,0,131075,-110.00,112.50,1,0,,,Knuckleball,58,PULL SHOT,0,0,7,19,164,5,0,0,3,0,0,0,0,0
+125,1,344,2,6,Sri Lanka,Avishka Fernando,Bhuvneshwar Kumar,,1,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.1,2,1,0,131076,-31.50,-149.50,4,0,,42,OUTSWINGER,47,ON DRIVE,0,0,1,0,4,0,1,0,0,0,0,0,0,0
+126,2,344,2,6,Sri Lanka,Avishka Fernando,Bhuvneshwar Kumar,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,131077,-22.00,28.00,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,2,0,4,0,0,0,0,0,0,0,0,0
+127,3,344,2,6,Sri Lanka,Avishka Fernando,Bhuvneshwar Kumar,,1,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,131078,112.00,-80.50,2,0,,41,INSWINGER,40,FLICK,0,0,3,0,6,0,0,0,0,0,0,0,0,0
+128,4,344,2,6,Sri Lanka,Avishka Fernando,Bhuvneshwar Kumar,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,131079,-54.00,-105.00,1,0,,42,OUTSWINGER,44,GLIDE,0,0,4,0,7,0,0,0,0,0,0,0,0,0
+129,5,344,2,6,Sri Lanka,Minod Bhanuka,Bhuvneshwar Kumar,,1,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.5,2,1,1,131080,-54.00,-105.00,1,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,5,0,8,0,0,0,0,0,0,0,0,0
+130,6,344,2,6,Sri Lanka,Minod Bhanuka,Bhuvneshwar Kumar,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,131081,-21.50,4.00,0,0,,,Knuckleball,40,FLICK,0,0,6,0,8,0,0,0,0,0,0,0,0,0
+131,7,344,2,6,Sri Lanka,Minod Bhanuka,Bhuvneshwar Kumar,,1,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.6,2,1,1,131082,-21.50,4.00,1,0,,41,INSWINGER,105,LEFT ALONE,0,0,7,0,9,0,0,0,0,0,0,0,0,0
+132,8,344,2,6,Sri Lanka,Minod Bhanuka,Bhuvneshwar Kumar,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,131083,49.00,-104.00,1,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,8,0,10,0,0,0,0,0,0,0,0,0
+133,1,344,2,6,Sri Lanka,Minod Bhanuka,Deepak Chahar,,2,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.1,2,1,0,131084,-102.00,-124.50,4,0,,42,OUTSWINGER,99,SCOOP,0,0,1,1,14,0,1,0,0,0,0,0,0,0
+134,2,344,2,6,Sri Lanka,Minod Bhanuka,Deepak Chahar,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,131085,-102.00,-124.50,0,0,,42,OUTSWINGER,36,CUT SHOT,0,0,2,1,14,0,0,0,0,0,0,0,0,0
+135,3,344,2,6,Sri Lanka,Minod Bhanuka,Deepak Chahar,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,131086,97.50,76.00,1,0,,42,OUTSWINGER,15,LOFT COVER,0,0,3,1,15,0,0,0,0,0,0,0,0,0
+136,4,344,2,6,Sri Lanka,Avishka Fernando,Deepak Chahar,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,131087,97.50,76.00,0,0,,37,NIPPED AWAY,50,BACKFOOT DEFENCE,0,0,4,1,15,0,0,0,0,0,0,0,0,0
+137,5,344,2,6,Sri Lanka,Avishka Fernando,Deepak Chahar,,2,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,131088,-74.00,-95.00,1,0,,42,OUTSWINGER,44,GLIDE,0,0,5,1,16,0,0,0,0,0,0,0,0,0
+138,6,344,2,6,Sri Lanka,Minod Bhanuka,Deepak Chahar,,2,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.6,2,1,0,131089,-153.50,-79.00,4,0,,,Knuckleball,40,FLICK,0,0,6,1,20,0,0,0,0,0,0,0,0,0
+139,1,344,2,6,Sri Lanka,Avishka Fernando,Krunal Pandya,,3,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,131090,-142.00,92.00,2,0,,,Knuckleball,61,INSIDE OUT,0,0,1,2,22,0,1,0,0,0,0,0,0,0
+140,2,344,2,6,Sri Lanka,Avishka Fernando,Krunal Pandya,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,131091,55.50,-32.50,1,0,,,Knuckleball,54,LEG GLANCE,0,0,2,2,23,0,0,0,0,0,0,0,0,0
+141,3,344,2,6,Sri Lanka,Minod Bhanuka,Krunal Pandya,,3,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,2.3,2,1,0,131092,79.00,66.00,0,0,,,Knuckleball,61,INSIDE OUT,0,0,3,2,23,1,1,0,0,0,0,0,0,0
+142,4,344,2,6,Sri Lanka,Dhananjaya de Silva,Krunal Pandya,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,131093,79.00,66.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,2,23,1,2,0,0,0,0,0,0,0
+143,5,344,2,6,Sri Lanka,Dhananjaya de Silva,Krunal Pandya,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,131094,94.50,-49.00,1,0,,,Knuckleball,40,FLICK,0,0,5,2,24,1,0,0,0,0,0,0,0,0
+144,6,344,2,6,Sri Lanka,Avishka Fernando,Krunal Pandya,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,131095,81.00,87.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,2,25,1,0,0,0,0,0,0,0,0
+145,1,344,2,6,Sri Lanka,Avishka Fernando,Deepak Chahar,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,131096,-104.50,31.50,0,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,1,3,25,1,1,0,0,0,0,0,0,0
+146,2,344,2,6,Sri Lanka,Avishka Fernando,Deepak Chahar,,4,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.2,2,1,0,131097,-166.00,-49.50,4,0,,,Knuckleball,36,CUT SHOT,0,0,2,3,29,1,0,0,0,0,0,0,0,0
+147,3,344,2,6,Sri Lanka,Avishka Fernando,Deepak Chahar,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,131098,51.00,107.50,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,3,29,1,0,0,0,0,0,0,0,0
+148,4,344,2,6,Sri Lanka,Avishka Fernando,Deepak Chahar,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,131099,84.00,99.50,0,0,,,Knuckleball,47,ON DRIVE,0,0,4,3,29,1,0,0,0,0,0,0,0,0
+149,5,344,2,6,Sri Lanka,Avishka Fernando,Deepak Chahar,,4,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.5,2,1,0,131100,-40.00,206.00,4,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,5,3,33,1,0,0,0,0,0,0,0,0
+150,6,344,2,6,Sri Lanka,Avishka Fernando,Deepak Chahar,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,131101,55.00,40.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,3,33,1,0,0,0,0,0,0,0,0
+151,1,344,2,6,Sri Lanka,Dhananjaya de Silva,Krunal Pandya,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,131102,98.00,26.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,4,34,1,1,0,0,0,0,0,0,0
+152,2,344,2,6,Sri Lanka,Avishka Fernando,Krunal Pandya,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,131103,77.00,100.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,4,35,1,0,0,0,0,0,0,0,0
+153,3,344,2,6,Sri Lanka,Dhananjaya de Silva,Krunal Pandya,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,131104,77.00,100.00,0,0,,23,ARM BALL,55,SWEEP SHOT,0,0,3,4,35,1,0,0,0,0,0,0,0,0
+154,4,344,2,6,Sri Lanka,Dhananjaya de Silva,Krunal Pandya,,5,4,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,0,,,0,4.4,2,1,1,131105,26.50,-57.00,2,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,4,37,1,0,0,0,0,0,0,0,0
+155,5,344,2,6,Sri Lanka,Avishka Fernando,Krunal Pandya,,5,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,131106,115.50,100.50,2,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,5,4,39,1,0,0,0,0,0,0,0,0
+156,6,344,2,6,Sri Lanka,Avishka Fernando,Krunal Pandya,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,131107,66.00,112.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,4,40,1,0,0,0,0,0,0,0,0
+157,7,344,2,6,Sri Lanka,Dhananjaya de Silva,Krunal Pandya,,5,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.6,2,1,0,131108,116.50,178.50,4,0,,,Knuckleball,11,LOFT ON,0,0,7,4,44,1,0,0,0,0,0,0,0,0
+158,1,344,2,6,Sri Lanka,Avishka Fernando,Varun Chakaravarthy,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,131109,28.00,58.50,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,5,44,1,1,0,0,0,0,0,0,0
+159,2,344,2,6,Sri Lanka,Avishka Fernando,Varun Chakaravarthy,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,131110,8.00,55.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,5,44,1,0,0,0,0,0,0,0,0
+160,3,344,2,6,Sri Lanka,Avishka Fernando,Varun Chakaravarthy,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,131111,147.00,33.00,1,0,,,Knuckleball,40,FLICK,0,0,3,5,45,1,0,0,0,0,0,0,0,0
+161,4,344,2,6,Sri Lanka,Dhananjaya de Silva,Varun Chakaravarthy,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,131112,147.00,33.00,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,5,45,1,0,0,0,0,0,0,0,0
+162,5,344,2,6,Sri Lanka,Dhananjaya de Silva,Varun Chakaravarthy,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,131113,-7.00,62.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,5,45,1,0,0,0,0,0,0,0,0
+163,6,344,2,6,Sri Lanka,Dhananjaya de Silva,Varun Chakaravarthy,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,131114,135.00,-8.50,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,5,46,1,0,0,0,0,0,0,0,0
+164,1,344,2,6,Sri Lanka,Dhananjaya de Silva,Yuzvendra Chahal,,7,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,131115,83.00,161.00,2,0,,,Knuckleball,11,LOFT ON,0,0,1,6,48,1,1,0,0,0,0,0,0,0
+165,2,344,2,6,Sri Lanka,Dhananjaya de Silva,Yuzvendra Chahal,,7,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,6.2,2,1,0,131116,83.00,161.00,0,0,,24,LEG SPIN,50,BACKFOOT DEFENCE,0,0,2,6,48,2,2,0,0,0,0,0,0,0
+166,3,344,2,6,Sri Lanka,Charith Asalanka,Yuzvendra Chahal,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,131117,-82.00,-12.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,6,49,2,3,0,0,0,0,0,0,0
+167,4,344,2,6,Sri Lanka,Avishka Fernando,Yuzvendra Chahal,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,131118,-62.50,132.50,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,6,50,2,0,1,1,0,1,0,0,0
+168,5,344,2,6,Sri Lanka,Charith Asalanka,Yuzvendra Chahal,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,131119,24.00,23.50,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,6,50,2,0,0,1,0,0,0,0,0
+169,6,344,2,6,Sri Lanka,Charith Asalanka,Yuzvendra Chahal,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,131120,24.00,23.50,0,0,,24,LEG SPIN,54,LEG GLANCE,0,0,6,6,50,2,0,0,1,0,0,0,0,0
+170,1,344,2,6,Sri Lanka,Avishka Fernando,Bhuvneshwar Kumar,,8,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,7.1,2,1,0,131121,131.00,-53.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,1,7,50,3,1,0,1,0,0,0,0,0
+171,2,344,2,6,Sri Lanka,Ashen Bandara,Bhuvneshwar Kumar,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,131122,-71.00,5.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,7,50,3,2,0,1,0,0,0,0,0
+172,3,344,2,6,Sri Lanka,Ashen Bandara,Bhuvneshwar Kumar,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,131123,-48.50,-110.50,1,0,,,Knuckleball,44,GLIDE,0,0,3,7,51,3,0,0,1,0,0,0,0,0
+173,4,344,2,6,Sri Lanka,Charith Asalanka,Bhuvneshwar Kumar,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,131124,39.50,116.00,0,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,4,7,51,3,0,0,1,0,0,0,0,0
+174,5,344,2,6,Sri Lanka,Charith Asalanka,Bhuvneshwar Kumar,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,131125,60.00,-109.00,1,0,,,Knuckleball,44,GLIDE,0,0,5,7,52,3,0,0,1,0,0,0,0,0
+175,6,344,2,6,Sri Lanka,Ashen Bandara,Bhuvneshwar Kumar,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,131126,60.00,-109.00,0,0,,41,INSWINGER,49,FORWARD DEFENCE,0,0,6,7,52,3,0,0,1,0,0,0,0,0
+176,1,344,2,6,Sri Lanka,Charith Asalanka,Yuzvendra Chahal,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,131127,60.00,-109.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,8,52,3,1,0,1,0,0,0,0,0
+177,2,344,2,6,Sri Lanka,Charith Asalanka,Yuzvendra Chahal,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,131128,-122.50,-23.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,8,53,3,0,0,1,0,0,0,0,0
+178,3,344,2,6,Sri Lanka,Ashen Bandara,Yuzvendra Chahal,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,131129,-38.00,34.00,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,8,54,3,0,0,1,0,0,0,0,0
+179,4,344,2,6,Sri Lanka,Charith Asalanka,Yuzvendra Chahal,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,131130,-138.00,-17.00,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,8,55,3,0,0,1,0,0,0,0,0
+180,5,344,2,6,Sri Lanka,Ashen Bandara,Yuzvendra Chahal,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,131131,-138.00,-17.00,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,5,8,55,3,0,0,1,0,0,0,0,0
+181,6,344,2,6,Sri Lanka,Ashen Bandara,Yuzvendra Chahal,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,131132,-41.50,47.50,0,0,,,Knuckleball,77,SD DEFENCE,0,0,6,8,55,3,0,0,1,0,0,0,0,0
+182,1,344,2,6,Sri Lanka,Charith Asalanka,Hardik Pandya,,10,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,9.1,2,1,0,131133,-163.00,128.50,6,0,,,Knuckleball,58,PULL SHOT,0,0,1,9,61,3,1,0,1,0,0,0,0,0
+183,2,344,2,6,Sri Lanka,Charith Asalanka,Hardik Pandya,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,131134,-49.50,20.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,9,62,3,0,0,1,0,0,0,0,0
+184,3,344,2,6,Sri Lanka,Ashen Bandara,Hardik Pandya,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,131135,-49.50,20.00,0,0,,36,BOUNCER,58,PULL SHOT,1,0,3,9,62,3,0,0,1,0,0,0,0,0
+185,4,344,2,6,Sri Lanka,Ashen Bandara,Hardik Pandya,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,131136,28.50,30.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,9,62,3,0,0,1,0,0,0,0,0
+186,5,344,2,6,Sri Lanka,Ashen Bandara,Hardik Pandya,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,131137,-74.50,-20.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,9,62,3,0,0,1,0,0,0,0,0
+187,6,344,2,6,Sri Lanka,Ashen Bandara,Hardik Pandya,,10,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,131138,81.50,76.00,2,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,9,64,3,0,0,1,0,0,0,0,0
+188,1,344,2,6,Sri Lanka,Charith Asalanka,Yuzvendra Chahal,,11,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.1,2,1,0,131139,-152.00,-72.00,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,10,68,3,1,0,1,0,0,0,0,0
+189,2,344,2,6,Sri Lanka,Charith Asalanka,Yuzvendra Chahal,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,131140,-55.00,41.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,10,69,3,0,0,1,0,0,0,0,0
+190,3,344,2,6,Sri Lanka,Ashen Bandara,Yuzvendra Chahal,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,131141,-82.50,-15.50,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,10,69,3,0,0,1,0,0,0,0,0
+191,4,344,2,6,Sri Lanka,Ashen Bandara,Yuzvendra Chahal,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,131142,128.50,-42.50,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,10,70,3,0,0,1,0,0,0,0,0
+192,5,344,2,6,Sri Lanka,Charith Asalanka,Yuzvendra Chahal,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,131143,-30.00,-59.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,5,10,71,3,0,0,1,0,0,0,0,0
+193,6,344,2,6,Sri Lanka,Ashen Bandara,Yuzvendra Chahal,,11,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,10.6,2,1,1,131144,-30.00,-59.00,1,0,,,Knuckleball,105,LEFT ALONE,0,0,6,10,72,3,0,0,1,0,0,0,0,0
+194,7,344,2,6,Sri Lanka,Ashen Bandara,Yuzvendra Chahal,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,131145,134.50,10.00,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,7,10,73,3,0,0,1,0,0,0,0,0
+195,1,344,2,6,Sri Lanka,Ashen Bandara,Varun Chakaravarthy,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,131146,-79.50,146.50,1,0,,,Knuckleball,21,SD OFF,0,0,1,11,74,3,1,0,1,0,0,0,0,0
+196,2,344,2,6,Sri Lanka,Charith Asalanka,Varun Chakaravarthy,,12,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,11.2,2,1,0,131147,-171.50,101.00,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,2,11,80,3,0,0,1,0,0,0,0,0
+197,3,344,2,6,Sri Lanka,Charith Asalanka,Varun Chakaravarthy,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,131148,49.00,-52.50,1,0,,,Knuckleball,40,FLICK,0,0,3,11,81,3,0,0,1,0,0,0,0,0
+198,4,344,2,6,Sri Lanka,Ashen Bandara,Varun Chakaravarthy,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,131149,-23.50,31.50,0,0,,,Knuckleball,77,SD DEFENCE,0,0,4,11,81,3,0,0,1,0,0,0,0,0
+199,5,344,2,6,Sri Lanka,Ashen Bandara,Varun Chakaravarthy,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,131150,54.50,48.50,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,11,82,3,0,0,1,0,0,0,0,0
+200,6,344,2,6,Sri Lanka,Charith Asalanka,Varun Chakaravarthy,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,131151,54.50,48.50,0,0,,,Knuckleball,35,LATE CUT,0,0,6,11,82,3,0,0,1,0,0,0,0,0
+201,1,344,2,6,Sri Lanka,Ashen Bandara,Hardik Pandya,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,131152,54.50,48.50,0,0,,,Knuckleball,18,SLOG SHOT,0,0,1,12,82,3,1,0,1,0,0,0,0,0
+202,2,344,2,6,Sri Lanka,Ashen Bandara,Hardik Pandya,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,131153,72.00,141.00,1,0,,,Knuckleball,11,LOFT ON,0,0,2,12,83,3,0,0,1,0,0,0,0,0
+203,3,344,2,6,Sri Lanka,Charith Asalanka,Hardik Pandya,,13,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.3,2,1,0,131154,169.00,128.50,4,0,,,Knuckleball,15,LOFT COVER,0,0,3,12,87,3,0,0,1,0,0,0,0,0
+204,4,344,2,6,Sri Lanka,Charith Asalanka,Hardik Pandya,,13,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,131155,-96.50,-88.50,2,0,,,Knuckleball,40,FLICK,0,0,4,12,89,3,0,0,1,0,0,0,0,0
+205,5,344,2,6,Sri Lanka,Charith Asalanka,Hardik Pandya,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,131156,31.50,-59.50,1,0,,,Knuckleball,44,GLIDE,0,0,5,12,90,3,0,0,1,0,0,0,0,0
+206,6,344,2,6,Sri Lanka,Ashen Bandara,Hardik Pandya,,13,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,12.6,2,1,0,131157,31.50,-59.50,0,0,,8,OFF CUTTER,58,PULL SHOT,0,0,6,12,90,4,1,0,1,0,0,0,0,0
+207,1,344,2,6,Sri Lanka,Charith Asalanka,Varun Chakaravarthy,,14,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,13.1,2,1,0,131158,-176.00,79.50,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,13,96,4,2,0,1,0,0,0,0,0
+208,2,344,2,6,Sri Lanka,Charith Asalanka,Varun Chakaravarthy,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,131159,-112.00,122.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,13,97,4,0,0,1,0,0,0,0,0
+209,3,344,2,6,Sri Lanka,Dasun Shanaka,Varun Chakaravarthy,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,131160,74.00,122.50,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,13,98,4,0,0,1,0,0,0,0,0
+210,4,344,2,6,Sri Lanka,Charith Asalanka,Varun Chakaravarthy,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,131161,34.50,-64.00,1,0,,,Knuckleball,35,LATE CUT,0,0,4,13,99,4,0,0,1,0,0,0,0,0
+211,5,344,2,6,Sri Lanka,Dasun Shanaka,Varun Chakaravarthy,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,131162,70.50,-39.50,1,0,,,Knuckleball,54,LEG GLANCE,0,0,5,13,100,4,0,1,2,0,0,1,0,0
+212,6,344,2,6,Sri Lanka,Charith Asalanka,Varun Chakaravarthy,,14,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.6,2,1,0,131163,-176.00,-50.00,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,13,104,4,0,0,2,0,0,0,0,0
+213,1,344,2,6,Sri Lanka,Dasun Shanaka,Yuzvendra Chahal,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,131164,29.50,-54.00,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,14,105,4,1,0,2,0,0,0,0,0
+214,2,344,2,6,Sri Lanka,Charith Asalanka,Yuzvendra Chahal,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,131165,29.50,-54.00,0,0,,28,GOOGLY,50,BACKFOOT DEFENCE,0,0,2,14,105,4,0,0,2,0,0,0,0,0
+215,3,344,2,6,Sri Lanka,Charith Asalanka,Yuzvendra Chahal,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,131166,-12.00,-32.50,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,3,14,106,4,0,0,2,0,0,0,0,0
+216,4,344,2,6,Sri Lanka,Dasun Shanaka,Yuzvendra Chahal,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,131167,-12.00,-32.50,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,14,106,4,0,0,2,0,0,0,0,0
+217,5,344,2,6,Sri Lanka,Dasun Shanaka,Yuzvendra Chahal,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,131168,-44.00,46.50,0,0,,,Knuckleball,77,SD DEFENCE,0,0,5,14,106,4,0,0,2,0,0,0,0,0
+218,6,344,2,6,Sri Lanka,Dasun Shanaka,Yuzvendra Chahal,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,131169,-79.00,73.50,1,0,,,Knuckleball,89,SD COVER,0,0,6,14,107,4,0,0,2,0,0,0,0,0
+219,1,344,2,6,Sri Lanka,Dasun Shanaka,Deepak Chahar,,16,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,131170,65.50,-105.50,2,0,,,Knuckleball,40,FLICK,0,0,1,15,109,4,1,0,2,0,0,0,0,0
+220,2,344,2,6,Sri Lanka,Dasun Shanaka,Deepak Chahar,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,131171,-90.50,-7.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,15,110,4,0,0,2,0,0,0,0,0
+221,3,344,2,6,Sri Lanka,Charith Asalanka,Deepak Chahar,,16,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,15.3,2,1,1,131172,-90.50,-7.50,1,0,,,Knuckleball,105,LEFT ALONE,0,0,3,15,111,4,0,0,2,0,0,0,0,0
+222,4,344,2,6,Sri Lanka,Charith Asalanka,Deepak Chahar,,16,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,15.3,2,1,0,131173,-128.00,105.50,0,0,,8,OFF CUTTER,58,PULL SHOT,0,0,4,15,111,5,1,0,2,0,0,0,0,0
+223,5,344,2,6,Sri Lanka,Wanindu Hasaranga,Deepak Chahar,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,131174,-128.00,105.50,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,5,15,111,5,2,0,2,0,0,0,0,0
+224,6,344,2,6,Sri Lanka,Wanindu Hasaranga,Deepak Chahar,,16,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,15.5,2,1,0,131175,-128.00,105.50,0,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,6,15,111,6,3,0,2,0,0,0,0,0
+225,7,344,2,6,Sri Lanka,Chamika Karunaratne,Deepak Chahar,,16,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,131176,-98.50,-84.50,2,0,,,Knuckleball,44,GLIDE,0,0,7,15,113,6,4,0,2,0,0,0,0,0
+226,1,344,2,6,Sri Lanka,Dasun Shanaka,Bhuvneshwar Kumar,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,131177,-128.00,15.00,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,1,16,114,6,5,0,2,0,0,0,0,0
+227,2,344,2,6,Sri Lanka,Chamika Karunaratne,Bhuvneshwar Kumar,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,131178,150.50,153.50,1,0,,,Knuckleball,21,SD OFF,0,0,2,16,115,6,0,0,2,0,0,0,0,0
+228,3,344,2,6,Sri Lanka,Dasun Shanaka,Bhuvneshwar Kumar,,17,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,16.3,2,1,0,131179,150.50,153.50,6,0,,,Knuckleball,11,LOFT ON,0,0,3,16,121,6,0,0,2,0,0,0,0,0
+229,4,344,2,6,Sri Lanka,Dasun Shanaka,Bhuvneshwar Kumar,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,131180,-93.50,143.50,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,16,122,6,0,0,2,0,0,0,0,0
+230,5,344,2,6,Sri Lanka,Chamika Karunaratne,Bhuvneshwar Kumar,,17,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,131181,-93.50,143.50,0,0,,,Knuckleball,105,LEFT ALONE,0,0,5,16,122,6,0,0,2,0,0,0,0,0
+231,6,344,2,6,Sri Lanka,Chamika Karunaratne,Bhuvneshwar Kumar,,17,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,16.6,2,1,0,131182,-93.50,143.50,0,0,,,Knuckleball,18,SLOG SHOT,0,0,6,16,122,7,1,0,2,0,0,0,0,0
+232,1,344,2,6,Sri Lanka,Dasun Shanaka,Varun Chakaravarthy,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,131183,-94.00,126.50,1,0,,,Knuckleball,5,LOFT OFF,0,0,1,17,123,7,2,0,2,0,0,0,0,0
+233,2,344,2,6,Sri Lanka,Isuru Udana,Varun Chakaravarthy,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,131184,-30.00,28.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,17,124,7,0,0,2,0,0,0,0,0
+234,3,344,2,6,Sri Lanka,Dasun Shanaka,Varun Chakaravarthy,,18,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,131185,-30.00,28.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,17,124,7,0,0,2,0,0,0,0,0
+235,4,344,2,6,Sri Lanka,Dasun Shanaka,Varun Chakaravarthy,,18,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Stumped,WICKET,1,17.4,2,1,0,131186,-30.00,28.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,17,124,8,1,0,2,0,0,0,0,0
+236,5,344,2,6,Sri Lanka,Dushmantha Chameera,Varun Chakaravarthy,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,131187,128.50,-42.50,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,17,125,8,2,0,2,0,0,0,0,0
+237,6,344,2,6,Sri Lanka,Dushmantha Chameera,Varun Chakaravarthy,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,131188,128.50,-42.50,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,17,125,8,0,0,2,0,0,0,0,0
+238,1,344,2,6,Sri Lanka,Isuru Udana,Bhuvneshwar Kumar,,19,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.1,2,1,0,131189,74.50,163.50,0,0,,47,SLOWER BALL,11,LOFT ON,0,0,1,18,125,9,1,0,2,0,0,0,0,0
+239,2,344,2,6,Sri Lanka,Akila Dananjaya,Bhuvneshwar Kumar,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,131190,-80.00,145.00,1,0,,,Knuckleball,18,SLOG SHOT,0,0,2,18,126,9,2,0,2,0,0,0,0,0
+240,3,344,2,6,Sri Lanka,Dushmantha Chameera,Bhuvneshwar Kumar,,19,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.3,2,1,0,131191,148.00,90.50,0,0,,,Knuckleball,11,LOFT ON,0,0,3,18,126,10,3,0,2,0,0,0,0,0

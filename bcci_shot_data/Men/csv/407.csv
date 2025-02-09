@@ -1,0 +1,624 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,407,1,5,South Africa,Quinton De Kock,Jasprit Bumrah,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,171973,-36.22,61.37,0,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,407,1,5,South Africa,Quinton De Kock,Jasprit Bumrah,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,171974,28.70,14.86,0,0,,38,STRAIGHT BALL,40,FRONTFOOT FLICK,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2,3,407,1,5,South Africa,Quinton De Kock,Jasprit Bumrah,,1,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.3,2,1,1,171975,28.70,14.86,1,0,,38,STRAIGHT BALL,54,LEG GLANCE,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+3,4,407,1,5,South Africa,Quinton De Kock,Jasprit Bumrah,,1,3,4 (LB),4,0,0,0,0,1,4,0,0,0,1,1,0,0,,,0,0.3,2,1,1,171976,28.70,14.86,4,0,,38,STRAIGHT BALL,54,LEG GLANCE,0,0,4,0,5,0,0,0,0,0,0,0,0,0
+4,5,407,1,5,South Africa,Quinton De Kock,Jasprit Bumrah,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,171977,27.78,-51.44,0,0,,30,ANGLED ACROSS,44,GLIDE,0,0,5,0,5,0,0,0,0,0,0,0,0,0
+5,6,407,1,5,South Africa,Quinton De Kock,Jasprit Bumrah,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,171978,72.90,-26.12,0,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,6,0,5,0,0,0,0,0,0,0,0,0
+6,7,407,1,5,South Africa,Quinton De Kock,Jasprit Bumrah,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,171979,-79.96,-93.80,1,0,,38,STRAIGHT BALL,54,LEG GLANCE,0,0,7,0,6,0,0,0,0,0,0,0,0,0
+7,1,407,1,5,South Africa,Quinton De Kock,Bhuvneshwar Kumar,,2,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,171980,142.89,-10.92,2,0,,30,ANGLED ACROSS,59,FRONTFOOT SQUARE DRIVE,0,0,1,1,8,0,1,0,0,0,0,0,0,0
+8,2,407,1,5,South Africa,Quinton De Kock,Bhuvneshwar Kumar,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,171981,142.89,-10.92,0,0,,37,NIPPED AWAY,49,FORWARD DEFENCE,0,0,2,1,8,0,0,0,0,0,0,0,0,0
+9,3,407,1,5,South Africa,Quinton De Kock,Bhuvneshwar Kumar,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,171982,71.98,52.16,0,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,3,1,8,0,0,0,0,0,0,0,0,0
+10,4,407,1,5,South Africa,Quinton De Kock,Bhuvneshwar Kumar,,2,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,1.4,2,1,1,171983,71.98,52.16,1,0,,41,INSWINGER,37,STEP DOWN FLICK,0,0,4,1,9,0,0,0,0,0,0,0,0,0
+11,5,407,1,5,South Africa,Quinton De Kock,Bhuvneshwar Kumar,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,171984,34.69,10.26,0,0,,38,STRAIGHT BALL,77,STEP DOWN DEFENCE,0,0,5,1,9,0,0,0,0,0,0,0,0,0
+12,6,407,1,5,South Africa,Quinton De Kock,Bhuvneshwar Kumar,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,171985,83.03,-12.30,0,0,,30,ANGLED ACROSS,21,STEP DOWN OFF DRIVE,0,0,6,1,9,0,0,0,0,0,0,0,0,0
+13,7,407,1,5,South Africa,Quinton De Kock,Bhuvneshwar Kumar,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,171986,-53.72,46.17,0,0,,38,STRAIGHT BALL,74,STEP DOWN ON DRIVE,0,0,7,1,9,0,0,0,0,0,0,0,0,0
+14,1,407,1,5,South Africa,Janneman Malan,Jasprit Bumrah,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,171987,48.96,32.82,0,0,,41,INSWINGER,49,FORWARD DEFENCE,0,0,1,2,9,0,1,0,0,0,0,0,0,0
+15,2,407,1,5,South Africa,Janneman Malan,Jasprit Bumrah,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,171988,38.83,28.68,0,0,,41,INSWINGER,49,FORWARD DEFENCE,0,0,2,2,9,0,0,0,0,0,0,0,0,0
+16,3,407,1,5,South Africa,Janneman Malan,Jasprit Bumrah,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,171989,-69.37,-87.35,1,0,,42,OUTSWINGER,44,GLIDE,0,0,3,2,10,0,0,0,0,0,0,0,0,0
+17,4,407,1,5,South Africa,Quinton De Kock,Jasprit Bumrah,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,171990,-69.37,-87.35,0,0,,42,OUTSWINGER,105,LEFT ALONE,0,0,4,2,10,0,0,0,0,0,0,0,0,0
+18,5,407,1,5,South Africa,Quinton De Kock,Jasprit Bumrah,,3,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.5,2,1,0,171991,175.12,52.16,4,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,5,2,14,0,0,0,0,0,0,0,0,0
+19,6,407,1,5,South Africa,Quinton De Kock,Jasprit Bumrah,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,171992,34.23,18.09,0,0,,42,OUTSWINGER,50,BACKFOOT DEFENCE,0,0,6,2,14,0,0,0,0,0,0,0,0,0
+20,1,407,1,5,South Africa,Janneman Malan,Bhuvneshwar Kumar,,4,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.1,2,1,0,171993,-170.21,-31.18,4,0,,42,OUTSWINGER,16,BACKFOOT SQUARE DRIVE,0,0,1,3,18,0,1,0,0,0,0,0,0,0
+21,2,407,1,5,South Africa,Janneman Malan,Bhuvneshwar Kumar,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,171994,-57.40,18.55,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,2,3,18,0,0,0,0,0,0,0,0,0
+22,3,407,1,5,South Africa,Janneman Malan,Bhuvneshwar Kumar,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,171995,-58.32,29.60,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,3,3,18,0,0,0,0,0,0,0,0,0
+23,4,407,1,5,South Africa,Janneman Malan,Bhuvneshwar Kumar,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,171996,66.00,36.96,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,4,3,18,0,0,0,0,0,0,0,0,0
+24,5,407,1,5,South Africa,Janneman Malan,Bhuvneshwar Kumar,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,171997,-102.52,-71.24,1,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,5,3,19,0,0,0,0,0,0,0,0,0
+25,6,407,1,5,South Africa,Quinton De Kock,Bhuvneshwar Kumar,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,171998,57.25,94.98,0,0,,30,ANGLED ACROSS,21,STEP DOWN OFF DRIVE,0,0,6,3,19,0,0,0,0,0,0,0,0,0
+26,1,407,1,5,South Africa,Janneman Malan,Jasprit Bumrah,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,171999,57.25,94.98,0,0,,42,OUTSWINGER,105,LEFT ALONE,0,0,1,4,19,0,1,0,0,0,0,0,0,0
+27,2,407,1,5,South Africa,Janneman Malan,Jasprit Bumrah,,5,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,4.2,2,1,0,172000,57.25,94.98,0,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,2,4,19,1,2,0,0,0,0,0,0,0
+28,3,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,172001,-22.87,-39.01,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,3,4,19,1,3,0,0,0,0,0,0,0
+29,4,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,172002,-22.87,-39.01,0,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,4,4,19,1,0,0,0,0,0,0,0,0
+30,5,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,172003,-67.99,-31.18,0,0,,42,OUTSWINGER,97,BACKFOOT PUSH,0,0,5,4,19,1,0,0,0,0,0,0,0,0
+31,6,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,5,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.6,2,1,0,172004,-177.57,89.91,4,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,6,4,23,1,0,0,0,0,0,0,0,0
+32,1,407,1,5,South Africa,Quinton De Kock,Bhuvneshwar Kumar,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,172005,77.97,-18.75,0,0,,30,ANGLED ACROSS,21,STEP DOWN OFF DRIVE,0,0,1,5,23,1,1,0,0,0,0,0,0,0
+33,2,407,1,5,South Africa,Quinton De Kock,Bhuvneshwar Kumar,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,172006,77.97,-18.75,0,0,,37,NIPPED AWAY,50,BACKFOOT DEFENCE,0,0,2,5,23,1,0,0,0,0,0,0,0,0
+34,3,407,1,5,South Africa,Quinton De Kock,Bhuvneshwar Kumar,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,172007,-97.92,-77.68,1,0,,41,INSWINGER,37,STEP DOWN FLICK,0,0,3,5,24,1,0,0,0,0,0,0,0,0
+35,4,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,172008,-97.92,-77.68,0,0,,38,STRAIGHT BALL,49,FORWARD DEFENCE,0,0,4,5,24,1,0,0,0,0,0,0,0,0
+36,5,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,172009,42.97,102.35,0,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,5,5,24,1,0,0,0,0,0,0,0,0
+37,6,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,172010,-3.07,-36.24,0,0,,37,NIPPED AWAY,50,BACKFOOT DEFENCE,0,0,6,5,24,1,0,0,0,0,0,0,0,0
+38,1,407,1,5,South Africa,Quinton De Kock,Jasprit Bumrah,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,172011,-81.34,-62.49,1,0,,30,ANGLED ACROSS,54,LEG GLANCE,0,0,1,6,25,1,1,0,0,0,0,0,0,0
+39,2,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,172012,-69.37,44.33,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,2,6,25,1,0,0,0,0,0,0,0,0
+40,3,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,172013,-42.67,37.42,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,3,6,25,1,0,0,0,0,0,0,0,0
+41,4,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,172014,-42.67,37.42,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,4,6,25,1,0,0,0,0,0,0,0,0
+42,5,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,172015,-79.96,24.53,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,5,6,25,1,0,0,0,0,0,0,0,0
+43,6,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,172016,78.43,100.96,1,0,,39,ANGLED IN,74,STEP DOWN ON DRIVE,0,0,6,6,26,1,0,0,0,0,0,0,0,0
+44,1,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,172017,10.74,49.86,0,0,,42,OUTSWINGER,77,STEP DOWN DEFENCE,0,0,1,7,26,1,1,0,0,0,0,0,0,0
+45,2,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,172018,47.12,103.73,1,0,,39,ANGLED IN,74,STEP DOWN ON DRIVE,0,0,2,7,27,1,0,0,0,0,0,0,0,0
+46,3,407,1,5,South Africa,Quinton De Kock,Bhuvneshwar Kumar,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,172019,-129.69,-31.64,1,0,,38,STRAIGHT BALL,37,STEP DOWN FLICK,0,0,3,7,28,1,0,0,0,0,0,0,0,0
+47,4,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,172020,-16.88,53.54,0,0,,39,ANGLED IN,77,STEP DOWN DEFENCE,0,0,4,7,28,1,0,0,0,0,0,0,0,0
+48,5,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,172021,49.88,101.88,1,0,,42,OUTSWINGER,21,STEP DOWN OFF DRIVE,0,0,5,7,29,1,0,0,0,0,0,0,0,0
+49,6,407,1,5,South Africa,Quinton De Kock,Bhuvneshwar Kumar,,8,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,172022,-5.37,174.63,2,0,,30,ANGLED ACROSS,1,STEP DOWN STRAIGHT DRIVE,0,0,6,7,31,1,0,0,0,0,0,0,0,0
+50,1,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,172023,65.08,-98.40,1,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,1,8,32,1,1,0,0,0,0,0,0,0
+51,2,407,1,5,South Africa,Quinton De Kock,Shardul Thakur,,9,2,1 (NB),1,0,0,0,0,1,1,0,1,0,0,0,0,0,,,0,8.2,2,1,1,172024,65.08,-98.40,1,0,,38,STRAIGHT BALL,37,STEP DOWN FLICK,0,0,2,8,33,1,0,0,0,0,0,0,0,0
+52,3,407,1,5,South Africa,Quinton De Kock,Shardul Thakur,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,172025,-44.05,77.02,0,0,,30,ANGLED ACROSS,11,LOFTED ON DRIVE,0,0,3,8,33,1,0,0,0,0,0,0,0,0
+53,4,407,1,5,South Africa,Quinton De Kock,Shardul Thakur,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,172026,44.36,39.73,0,0,,37,NIPPED AWAY,50,BACKFOOT DEFENCE,0,0,4,8,33,1,0,0,0,0,0,0,0,0
+54,5,407,1,5,South Africa,Quinton De Kock,Shardul Thakur,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,172027,-16.42,85.77,1,0,,30,ANGLED ACROSS,53,FRONTFOOT STRAIGHT DRIVE,0,0,5,8,34,1,0,0,0,0,0,0,0,0
+55,6,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,172028,141.05,-21.51,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,6,8,35,1,0,0,0,0,0,0,0,0
+56,7,407,1,5,South Africa,Quinton De Kock,Shardul Thakur,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,172029,141.05,-21.51,0,0,,38,STRAIGHT BALL,37,STEP DOWN FLICK,0,0,7,8,35,1,0,0,0,0,0,0,0,0
+57,1,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,172030,42.97,77.94,0,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,1,9,35,1,1,0,0,0,0,0,0,0
+58,2,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,172031,87.18,49.86,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,2,9,35,1,0,0,0,0,0,0,0,0
+59,3,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,10,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,172032,143.81,76.10,2,0,,39,ANGLED IN,94,STEP DOWN LOFTED ON DRIVE,0,0,3,9,37,1,0,0,0,0,0,0,0,0
+60,4,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,172033,-79.96,-30.26,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,4,9,38,1,0,0,0,0,0,0,0,0
+61,5,407,1,5,South Africa,Quinton De Kock,Bhuvneshwar Kumar,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,172034,-62.46,94.06,1,0,,30,ANGLED ACROSS,74,STEP DOWN ON DRIVE,0,0,5,9,39,1,0,0,0,0,0,0,0,0
+62,6,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,172035,-35.76,42.03,0,0,,39,ANGLED IN,77,STEP DOWN DEFENCE,0,0,6,9,39,1,0,0,0,0,0,0,0,0
+63,1,407,1,5,South Africa,Quinton De Kock,Shardul Thakur,,11,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.1,2,1,0,172036,149.79,148.85,4,0,,30,ANGLED ACROSS,15,LOFTED COVER DRIVE,0,0,1,10,43,1,1,0,0,0,0,0,0,0
+64,2,407,1,5,South Africa,Quinton De Kock,Shardul Thakur,,11,2,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,10.2,2,1,1,172037,149.79,148.85,1,0,,30,ANGLED ACROSS,99,SCOOP,0,0,2,10,44,1,0,0,0,0,0,0,0,0
+65,3,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,172038,149.79,148.85,0,0,,39,ANGLED IN,54,LEG GLANCE,0,0,3,10,44,1,0,0,0,0,0,0,0,0
+66,4,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,172039,-38.98,62.29,0,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,4,10,44,1,0,0,0,0,0,0,0,0
+67,5,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,172040,151.64,45.71,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,5,10,45,1,0,0,0,0,0,0,0,0
+68,6,407,1,5,South Africa,Quinton De Kock,Shardul Thakur,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,172041,-70.75,137.80,1,0,,30,ANGLED ACROSS,74,STEP DOWN ON DRIVE,0,0,6,10,46,1,0,0,0,0,0,0,0,0
+69,1,407,1,5,South Africa,Quinton De Kock,Ravichandran Ashwin,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,172042,-93.31,27.29,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,1,11,47,1,1,0,0,0,0,0,0,0
+70,2,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,172043,131.84,47.55,1,0,,25,OFF SPIN,40,FRONTFOOT FLICK,0,0,2,11,48,1,0,0,0,0,0,0,0,0
+71,3,407,1,5,South Africa,Quinton De Kock,Ravichandran Ashwin,,12,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,172044,124.01,-37.17,2,0,,25,OFF SPIN,15,LOFTED COVER DRIVE,0,0,3,11,50,1,0,1,1,0,1,0,0,0
+72,4,407,1,5,South Africa,Quinton De Kock,Ravichandran Ashwin,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,172045,79.35,126.29,1,0,,25,OFF SPIN,84,FRONTFOOT OFF DRIVE,0,0,4,11,51,1,0,0,1,0,0,0,0,0
+73,5,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,172046,-62.46,49.86,0,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,5,11,51,1,0,0,1,0,0,0,0,0
+74,6,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,172047,59.09,141.48,1,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,6,11,52,1,0,0,1,0,0,0,0,0
+75,1,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,172048,-67.99,-29.80,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,1,12,52,1,1,0,1,0,0,0,0,0
+76,2,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,172049,65.08,54.46,0,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,2,12,52,1,0,0,1,0,0,0,0,0
+77,3,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,172050,67.84,53.08,0,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,3,12,52,1,0,0,1,0,0,0,0,0
+78,4,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,13,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,172051,-49.57,42.95,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,4,12,52,1,0,0,1,0,0,0,0,0
+79,5,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,172052,-73.05,-6.78,0,0,,42,OUTSWINGER,21,STEP DOWN OFF DRIVE,0,0,5,12,52,1,0,0,1,0,0,0,0,0
+80,6,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,172053,-73.05,-6.78,0,0,,38,STRAIGHT BALL,44,GLIDE,0,0,6,12,52,1,0,0,1,0,0,0,0,0
+81,1,407,1,5,South Africa,Quinton De Kock,Ravichandran Ashwin,,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,172054,68.30,52.62,0,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,1,13,52,1,1,0,1,0,0,0,0,0
+82,2,407,1,5,South Africa,Quinton De Kock,Ravichandran Ashwin,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,172055,-86.87,134.12,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,2,13,53,1,0,0,1,0,0,0,0,0
+83,3,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,172056,-0.77,64.59,0,0,,25,OFF SPIN,53,FRONTFOOT STRAIGHT DRIVE,0,0,3,13,53,1,0,0,1,0,0,0,0,0
+84,4,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,172057,-54.18,56.30,0,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,4,13,53,1,0,0,1,0,0,0,0,0
+85,5,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,172058,-54.18,56.30,0,0,,25,OFF SPIN,22,FRONTFOOT PADDLE SWEEP,0,0,5,13,53,1,0,0,1,0,0,0,0,0
+86,6,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,172059,-65.23,97.28,0,0,,25,OFF SPIN,84,FRONTFOOT OFF DRIVE,0,0,6,13,53,1,0,0,1,0,0,0,0,0
+87,1,407,1,5,South Africa,Quinton De Kock,Yuzvendra Chahal,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,172060,-86.41,89.45,1,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,1,14,54,1,1,0,1,0,0,0,0,0
+88,2,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,172061,60.93,151.61,1,0,,24,LEG SPIN,47,FRONTFOOT ON DRIVE,0,0,2,14,55,1,0,0,1,0,0,0,0,0
+89,3,407,1,5,South Africa,Quinton De Kock,Yuzvendra Chahal,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,172062,-77.66,108.79,1,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,3,14,56,1,0,0,1,0,0,0,0,0
+90,4,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,172063,90.40,146.55,1,0,,24,LEG SPIN,47,FRONTFOOT ON DRIVE,0,0,4,14,57,1,0,0,1,0,0,0,0,0
+91,5,407,1,5,South Africa,Quinton De Kock,Yuzvendra Chahal,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,172064,59.55,53.08,0,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,5,14,57,1,0,0,1,0,0,0,0,0
+92,6,407,1,5,South Africa,Quinton De Kock,Yuzvendra Chahal,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,172065,80.73,85.31,1,0,,24,LEG SPIN,84,FRONTFOOT OFF DRIVE,0,0,6,14,58,1,0,0,1,0,0,0,0,0
+93,1,407,1,5,South Africa,Quinton De Kock,Ravichandran Ashwin,,16,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,15.1,2,1,0,172066,80.73,85.31,0,0,,23,ARM BALL,36,CUT SHOT,0,0,1,15,58,2,1,0,1,0,0,0,0,0
+94,2,407,1,5,South Africa,Aiden Markram,Ravichandran Ashwin,,16,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,172067,-3.07,60.91,0,0,,25,OFF SPIN,53,FRONTFOOT STRAIGHT DRIVE,0,0,2,15,58,2,2,0,1,0,0,0,0,0
+95,3,407,1,5,South Africa,Aiden Markram,Ravichandran Ashwin,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,172068,59.09,137.34,1,0,,33,CARROM BALL,47,FRONTFOOT ON DRIVE,0,0,3,15,59,2,0,0,1,0,0,0,0,0
+96,4,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,172069,-108.51,9.34,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,4,15,60,2,0,0,1,0,0,0,0,0
+97,5,407,1,5,South Africa,Aiden Markram,Ravichandran Ashwin,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,172070,68.76,139.18,1,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,5,15,61,2,0,0,1,0,0,0,0,0
+98,6,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,16,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.6,2,1,0,172071,-151.33,125.37,4,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,6,15,65,2,0,0,1,0,0,0,0,0
+99,1,407,1,5,South Africa,Aiden Markram,Yuzvendra Chahal,,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,172072,-12.28,-18.29,0,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,1,16,65,2,1,0,1,0,0,0,0,0
+100,2,407,1,5,South Africa,Aiden Markram,Yuzvendra Chahal,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,172073,-12.28,-18.29,0,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,2,16,65,2,0,0,1,0,0,0,0,0
+101,3,407,1,5,South Africa,Aiden Markram,Yuzvendra Chahal,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,172074,23.18,17.63,0,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,3,16,65,2,0,0,1,0,0,0,0,0
+102,4,407,1,5,South Africa,Aiden Markram,Yuzvendra Chahal,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,172075,-31.62,40.65,0,0,,24,LEG SPIN,47,FRONTFOOT ON DRIVE,0,0,4,16,65,2,0,0,1,0,0,0,0,0
+103,5,407,1,5,South Africa,Aiden Markram,Yuzvendra Chahal,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,172076,-64.77,15.32,1,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,5,16,66,2,0,0,1,0,0,0,0,0
+104,6,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,17,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,172077,64.62,47.09,0,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,6,16,66,2,0,0,1,0,0,0,0,0
+105,1,407,1,5,South Africa,Aiden Markram,Ravichandran Ashwin,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,172078,87.64,133.19,1,0,,25,OFF SPIN,74,STEP DOWN ON DRIVE,0,0,1,17,67,2,1,0,1,0,0,0,0,0
+106,2,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,172079,-128.77,-14.60,1,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,2,17,68,2,0,0,1,0,0,0,0,0
+107,3,407,1,5,South Africa,Aiden Markram,Ravichandran Ashwin,,18,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,172080,55.41,64.13,0,0,,25,OFF SPIN,74,STEP DOWN ON DRIVE,0,0,3,17,68,2,0,0,1,0,0,0,0,0
+108,4,407,1,5,South Africa,Aiden Markram,Ravichandran Ashwin,,18,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,17.4,2,1,0,172081,-58.32,91.29,0,0,,33,CARROM BALL,84,FRONTFOOT OFF DRIVE,0,0,4,17,68,3,0,0,1,0,0,0,0,0
+109,5,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,18,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,172082,146.11,71.50,2,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,5,17,70,3,0,0,1,0,0,0,0,0
+110,6,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,172083,-30.69,53.54,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,6,17,70,3,0,0,1,0,0,0,0,0
+111,1,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,19,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,172084,-63.85,55.84,0,0,,24,LEG SPIN,51,FRONTFOOT COVERDRIVE,0,0,1,18,70,3,1,0,1,0,0,0,0,0
+112,2,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,172085,-67.53,-8.62,0,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,2,18,70,3,0,0,1,0,0,0,0,0
+113,3,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,19,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.3,2,1,0,172086,-168.82,-33.94,4,0,,24,LEG SPIN,56,REVERSE SWEEP,0,0,3,18,74,3,0,0,1,0,0,0,0,0
+114,4,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,172087,-44.97,17.63,0,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,4,18,74,3,0,0,1,0,0,0,0,0
+115,5,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,19,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.5,2,1,0,172088,-84.56,-90.12,2,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,5,18,76,3,0,0,1,0,0,0,0,0
+116,6,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,19,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.6,2,1,0,172089,-14.12,62.29,0,0,,24,LEG SPIN,53,FRONTFOOT STRAIGHT DRIVE,0,0,6,18,76,3,0,0,1,0,0,0,0,0
+117,1,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.1,2,1,0,172090,57.25,92.22,1,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,1,19,77,3,1,0,1,0,0,0,0,0
+118,2,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,20,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.2,2,1,0,172091,69.22,-90.12,1,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,2,19,78,3,0,0,1,0,0,0,0,0
+119,3,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,20,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.3,2,1,0,172092,129.54,65.05,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,3,19,79,3,0,0,1,0,0,0,0,0
+120,4,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,20,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.4,2,1,0,172093,129.54,65.05,0,0,,33,CARROM BALL,50,BACKFOOT DEFENCE,0,0,4,19,79,3,0,0,1,0,0,0,0,0
+121,5,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,20,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,19.5,2,1,1,172094,129.54,65.05,1,0,,33,CARROM BALL,22,FRONTFOOT PADDLE SWEEP,0,0,5,19,80,3,0,0,1,0,0,0,0,0
+122,6,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,20,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.5,2,1,0,172095,129.54,65.05,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,6,19,80,3,0,0,1,0,0,0,0,0
+123,7,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,20,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.6,2,1,0,172096,61.85,38.81,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,7,19,80,3,0,0,1,0,0,0,0,0
+124,1,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,21,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,20.1,2,1,0,172097,-73.51,23.61,0,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,1,20,80,3,1,0,1,0,0,0,0,0
+125,2,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,21,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,20.2,2,1,0,172098,61.85,70.58,0,0,,24,LEG SPIN,47,FRONTFOOT ON DRIVE,0,0,2,20,80,3,0,0,1,0,0,0,0,0
+126,3,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,21,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,20.3,2,1,0,172099,-78.12,31.44,0,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,3,20,80,3,0,0,1,0,0,0,0,0
+127,4,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,21,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,20.4,2,1,0,172100,-72.59,13.02,1,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,4,20,81,3,0,0,1,0,0,0,0,0
+128,5,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,21,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,20.5,2,1,0,172101,167.29,-21.97,4,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,5,20,85,3,0,0,1,0,0,0,0,0
+129,6,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,21,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,20.6,2,1,0,172102,76.13,-18.29,1,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,6,20,86,3,0,0,1,0,0,0,0,0
+130,1,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,22,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,21.1,2,1,0,172103,-71.21,16.71,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,1,21,87,3,1,0,1,0,0,0,0,0
+131,2,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,22,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,21.2,2,1,0,172104,35.15,-103.47,2,0,,25,OFF SPIN,22,FRONTFOOT PADDLE SWEEP,0,0,2,21,89,3,0,0,1,0,0,0,0,0
+132,3,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,22,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,21.3,2,1,0,172105,50.34,135.96,1,0,,25,OFF SPIN,101,BACKFOOT ON DRIVE,0,0,3,21,90,3,0,0,1,0,0,0,0,0
+133,4,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,22,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,21.4,2,1,0,172106,50.34,135.96,0,0,,33,CARROM BALL,84,FRONTFOOT OFF DRIVE,0,0,4,21,90,3,0,0,1,0,0,0,0,0
+134,5,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,22,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,21.5,2,1,0,172107,-60.16,-84.13,1,0,,33,CARROM BALL,27,FORWARD PUSH,0,0,5,21,91,3,0,0,1,0,0,0,0,0
+135,6,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,22,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,21.6,2,1,0,172108,-106.67,-38.09,1,0,,33,CARROM BALL,27,FORWARD PUSH,0,0,6,21,92,3,0,0,1,0,0,0,0,0
+136,1,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,23,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,22.1,2,1,0,172109,-40.36,19.01,0,0,,24,LEG SPIN,52,BACKFOOT COVERDRIVE,0,0,1,22,92,3,1,0,1,0,0,0,0,0
+137,2,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,23,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,22.2,2,1,0,172110,82.57,131.35,1,0,,24,LEG SPIN,47,FRONTFOOT ON DRIVE,0,0,2,22,93,3,0,0,1,0,0,0,0,0
+138,3,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,23,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,22.3,2,1,0,172111,181.56,81.63,4,0,,24,LEG SPIN,95,SLOG SWEEP,0,0,3,22,97,3,0,0,1,0,0,0,0,0
+139,4,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,23,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,22.4,2,1,0,172112,160.38,-14.60,2,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,4,22,99,3,0,0,1,0,0,0,0,0
+140,5,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,23,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,22.5,2,1,0,172113,-56.94,29.60,0,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,5,22,99,3,0,0,1,0,0,0,0,0
+141,6,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,23,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,22.6,2,1,0,172114,153.02,-10.46,1,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,6,22,100,3,0,1,2,0,0,1,0,0
+143,1,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,24,1,1 (NB),1,0,0,0,0,1,1,0,1,0,0,0,0,0,,,0,23.1,2,1,1,172115,-9.05,-32.56,1,0,,43,NIPBACKER,27,FORWARD PUSH,0,0,1,23,101,3,1,0,2,0,0,0,0,0
+144,2,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,24,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,23.1,2,1,0,172116,88.10,201.80,6,0,,38,STRAIGHT BALL,11,LOFTED ON DRIVE,0,0,2,23,107,3,0,0,2,0,0,0,0,0
+145,3,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,24,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,23.2,2,1,0,172117,-66.15,-24.73,0,0,,37,NIPPED AWAY,49,FORWARD DEFENCE,0,0,3,23,107,3,0,0,2,0,0,0,0,0
+146,4,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,24,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,23.3,2,1,0,172118,-62.46,35.58,0,0,,42,OUTSWINGER,77,STEP DOWN DEFENCE,0,0,4,23,107,3,0,0,2,0,0,0,0,0
+147,5,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,24,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,23.4,2,1,0,172119,-64.31,42.95,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,5,23,107,3,0,0,2,0,0,0,0,0
+148,6,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,24,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,23.5,2,1,0,172120,107.44,31.44,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,6,23,108,3,0,0,2,0,0,0,0,0
+149,7,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,24,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,23.6,2,1,0,172121,49.88,45.25,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,7,23,109,3,0,0,2,0,0,0,0,0
+150,1,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,25,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,24.1,2,1,0,172122,49.88,45.25,0,0,,28,GOOGLY,49,FORWARD DEFENCE,0,0,1,24,109,3,1,0,2,0,0,0,0,0
+151,2,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,25,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,24.2,2,1,0,172123,180.18,84.85,4,0,,24,LEG SPIN,95,SLOG SWEEP,0,0,2,24,113,3,0,0,2,0,0,0,0,0
+152,3,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,25,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,24.3,2,1,0,172124,180.18,84.85,0,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,3,24,113,3,0,0,2,0,0,0,0,0
+153,4,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,25,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,24.4,2,1,0,172125,-62.92,-0.33,0,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,4,24,113,3,0,0,2,0,0,0,0,0
+154,5,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,25,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,24.5,2,1,0,172126,-150.41,127.21,4,0,,24,LEG SPIN,51,FRONTFOOT COVERDRIVE,0,0,5,24,117,3,0,0,2,0,0,0,0,0
+155,6,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,25,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,24.6,2,1,0,172127,-64.31,20.85,1,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,6,24,118,3,0,0,2,0,0,0,0,0
+156,1,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,26,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,25.1,2,1,0,172128,-65.69,41.57,0,0,,37,NIPPED AWAY,97,BACKFOOT PUSH,0,0,1,25,118,3,1,0,2,0,0,0,0,0
+157,2,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,26,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,25.2,2,1,0,172129,-128.77,49.86,1,0,,37,NIPPED AWAY,27,FORWARD PUSH,0,0,2,25,119,3,0,0,2,0,0,0,0,0
+158,3,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,26,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,25.3,2,1,0,172130,87.64,16.24,1,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,3,25,120,3,0,0,2,0,0,0,0,0
+159,4,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,26,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,25.4,2,1,0,172131,-129.69,2.43,1,0,,38,STRAIGHT BALL,97,BACKFOOT PUSH,0,0,4,25,121,3,0,0,2,0,0,0,0,0
+160,5,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,26,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,25.5,2,1,0,172132,-67.53,-86.43,1,0,,37,NIPPED AWAY,97,BACKFOOT PUSH,0,0,5,25,122,3,0,0,2,0,0,0,0,0
+161,6,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,26,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,25.6,2,1,0,172133,110.66,-44.07,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,6,25,123,3,0,0,2,0,0,0,0,0
+162,1,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,27,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,26.1,2,1,0,172134,110.66,-44.07,0,0,,37,NIPPED AWAY,50,BACKFOOT DEFENCE,0,0,1,26,123,3,1,0,2,0,0,0,0,0
+163,2,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,27,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,26.2,2,1,0,172135,-143.96,-9.54,2,0,,39,ANGLED IN,59,FRONTFOOT SQUARE DRIVE,0,0,2,26,125,3,0,0,2,0,0,0,0,0
+164,3,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,27,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,26.3,2,1,0,172136,-143.96,-9.54,0,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,3,26,125,3,0,0,2,0,0,0,0,0
+165,4,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,27,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,26.4,2,1,0,172137,-53.72,-23.81,0,0,,8,OFF CUTTER,50,BACKFOOT DEFENCE,0,0,4,26,125,3,0,0,2,0,0,0,0,0
+166,5,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,27,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,26.5,2,1,0,172138,149.79,48.94,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,5,26,126,3,0,0,2,0,0,0,0,0
+167,6,407,1,5,South Africa,Rassie van der Dussen,Jasprit Bumrah,,27,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,26.6,2,1,0,172139,65.54,45.71,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,6,26,126,3,0,0,2,0,0,0,0,0
+168,1,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,28,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,27.1,2,1,0,172140,-21.95,12.10,0,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,1,27,126,3,1,0,2,0,0,0,0,0
+169,2,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,28,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,27.2,2,1,0,172141,121.71,-49.14,1,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,2,27,127,3,0,0,2,0,0,0,0,0
+170,3,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,28,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,27.3,2,1,0,172142,151.64,56.76,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,3,27,128,3,0,0,2,0,0,0,0,0
+171,4,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,28,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,27.4,2,1,0,172143,-67.07,34.20,1,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,4,27,129,3,0,0,2,0,0,0,0,0
+172,5,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,28,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,27.5,2,1,0,172144,-76.74,-22.43,0,0,,37,NIPPED AWAY,27,FORWARD PUSH,0,0,5,27,129,3,0,0,2,0,0,0,0,0
+173,6,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,28,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,27.6,2,1,0,172145,54.49,-134.32,4,0,,39,ANGLED IN,54,LEG GLANCE,0,0,6,27,133,3,0,0,2,0,0,0,0,0
+174,1,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,29,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,28.1,2,1,0,172146,111.58,-54.66,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,1,28,134,3,1,0,2,0,0,0,0,0
+175,2,407,1,5,South Africa,Rassie van der Dussen,Jasprit Bumrah,,29,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,28.2,2,1,0,172147,111.58,-54.66,0,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,2,28,134,3,0,0,2,0,0,0,0,0
+176,3,407,1,5,South Africa,Rassie van der Dussen,Jasprit Bumrah,,29,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,28.3,2,1,0,172148,102.83,25.91,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,3,28,135,3,0,0,2,0,0,0,0,0
+177,4,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,29,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,28.4,2,1,0,172149,-18.72,-153.19,4,0,,38,STRAIGHT BALL,58,BACKFOOT PULL SHOT,0,0,4,28,139,3,0,0,2,0,0,0,0,0
+178,5,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,29,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,28.5,2,1,0,172150,-115.41,60.91,1,0,,8,OFF CUTTER,44,GLIDE,0,0,5,28,140,3,0,0,2,0,0,0,0,0
+179,6,407,1,5,South Africa,Rassie van der Dussen,Jasprit Bumrah,,29,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,28.6,2,1,0,172151,-115.41,60.91,1,0,,39,ANGLED IN,51,FRONTFOOT COVERDRIVE,0,0,6,28,141,3,0,0,2,0,0,0,0,0
+180,1,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,30,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,29.1,2,1,0,172152,-124.16,57.68,1,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,1,29,142,3,1,0,2,0,0,0,0,0
+181,2,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,30,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,29.2,2,1,0,172153,-142.58,16.24,1,0,,24,LEG SPIN,52,BACKFOOT COVERDRIVE,0,0,2,29,143,3,0,0,2,0,0,0,0,0
+182,3,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,30,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,29.3,2,1,0,172154,129.08,-19.21,1,0,,24,LEG SPIN,40,FRONTFOOT FLICK,0,0,3,29,144,3,0,0,2,0,0,0,0,0
+183,4,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,30,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,29.4,2,1,0,172155,-81.34,-5.86,0,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,4,29,144,3,0,0,2,0,0,0,0,0
+184,5,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,30,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,29.5,2,1,0,172156,28.24,-142.60,4,0,,24,LEG SPIN,22,FRONTFOOT PADDLE SWEEP,0,0,5,29,148,3,0,0,2,0,0,0,0,0
+185,6,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,30,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,29.6,2,1,0,172157,-54.18,21.31,0,0,,28,GOOGLY,49,FORWARD DEFENCE,0,0,6,29,148,3,0,0,2,0,0,0,0,0
+186,1,407,1,5,South Africa,Rassie van der Dussen,Bhuvneshwar Kumar,,31,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,30.1,2,1,0,172158,-120.02,32.82,1,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,1,30,149,3,1,0,2,0,0,0,0,0
+187,2,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,31,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,30.2,2,1,0,172159,-120.02,32.82,0,0,,36,BOUNCER,36,CUT SHOT,1,0,2,30,149,3,0,0,2,0,0,0,0,0
+188,3,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,31,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,30.3,2,1,0,172160,-70.75,33.28,0,0,,38,STRAIGHT BALL,97,BACKFOOT PUSH,0,0,3,30,149,3,0,0,2,0,0,0,0,0
+189,4,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,31,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,30.4,2,1,0,172161,-51.87,68.73,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,4,30,150,3,0,1,3,0,0,0,0,0
+190,5,407,1,5,South Africa,Rassie van der Dussen,Bhuvneshwar Kumar,,31,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,30.5,2,1,0,172162,-79.04,0.13,0,0,,38,STRAIGHT BALL,50,BACKFOOT DEFENCE,0,0,5,30,150,3,0,0,3,0,0,0,0,0
+191,6,407,1,5,South Africa,Rassie van der Dussen,Bhuvneshwar Kumar,,31,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,30.6,2,1,0,172163,-129.69,43.87,1,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,6,30,151,3,0,0,3,0,0,0,0,0
+192,1,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,32,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,31.1,2,1,0,172164,-67.99,42.03,0,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,1,31,151,3,1,0,3,0,0,0,0,0
+193,2,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,32,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,31.2,2,1,0,172165,-44.51,71.96,0,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,2,31,151,3,0,0,3,0,0,0,0,0
+194,3,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,32,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,31.3,2,1,0,172166,164.53,13.48,2,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,3,31,153,3,0,0,3,0,0,0,0,0
+195,4,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,32,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,31.4,2,1,0,172167,-17.80,59.06,0,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,4,31,153,3,0,0,3,0,0,0,0,0
+196,5,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,32,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,31.5,2,1,0,172168,138.74,-19.21,1,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,5,31,154,3,0,0,3,0,0,0,0,0
+197,6,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,32,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,31.6,2,1,0,172169,134.60,83.47,1,0,,24,LEG SPIN,47,FRONTFOOT ON DRIVE,0,0,6,31,155,3,0,0,3,0,0,0,0,0
+198,1,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,33,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,32.1,2,1,1,172170,134.60,83.47,1,0,,47,SLOWER BALL,51,FRONTFOOT COVERDRIVE,0,0,1,32,156,3,1,0,3,0,0,0,0,0
+199,2,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,33,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,32.1,2,1,0,172171,-91.01,82.09,1,0,,47,SLOWER BALL,84,FRONTFOOT OFF DRIVE,0,0,2,32,157,3,0,0,3,0,0,0,0,0
+200,3,407,1,5,South Africa,Rassie van der Dussen,Bhuvneshwar Kumar,,33,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,32.2,2,1,0,172172,-91.01,82.09,0,0,,38,STRAIGHT BALL,49,FORWARD DEFENCE,0,0,3,32,157,3,0,0,3,0,0,0,0,0
+201,4,407,1,5,South Africa,Rassie van der Dussen,Bhuvneshwar Kumar,,33,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,32.3,2,1,0,172173,-73.05,-94.26,1,0,,39,ANGLED IN,44,GLIDE,0,0,4,32,158,3,0,0,3,0,0,0,0,0
+202,5,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,33,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,32.4,2,1,0,172174,-135.67,-12.76,2,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,5,32,160,3,0,0,3,0,0,0,0,0
+203,6,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,33,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,32.5,2,1,0,172175,131.38,-8.62,2,0,,46,LEGCUTTER,40,FRONTFOOT FLICK,0,0,6,32,162,3,0,0,3,0,0,0,0,0
+204,7,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,33,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,32.6,2,1,0,172176,-121.40,57.68,1,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,7,32,163,3,0,0,3,0,0,0,0,0
+205,1,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,34,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,33.1,2,1,0,172177,-121.40,57.68,0,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,1,33,163,3,1,0,3,0,0,0,0,0
+206,2,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,34,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,33.2,2,1,0,172178,135.98,63.67,1,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,2,33,164,3,0,0,3,0,0,0,0,0
+207,3,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,34,3,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,33.3,2,1,0,172179,140.13,100.04,3,0,,24,LEG SPIN,47,FRONTFOOT ON DRIVE,0,0,3,33,167,3,0,0,3,0,0,0,0,0
+208,4,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,34,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,33.4,2,1,0,172180,-116.79,30.52,1,0,,24,LEG SPIN,51,FRONTFOOT COVERDRIVE,0,0,4,33,168,3,0,0,3,0,0,0,0,0
+209,5,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,34,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,33.5,2,1,0,172181,-121.40,52.16,1,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,5,33,169,3,0,0,3,0,0,0,0,0
+210,6,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,34,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,33.6,2,1,0,172182,57.71,98.20,0,0,,24,LEG SPIN,47,FRONTFOOT ON DRIVE,0,0,6,33,169,3,0,0,3,0,0,0,0,0
+211,1,407,1,5,South Africa,Rassie van der Dussen,Bhuvneshwar Kumar,,35,1,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,,,0,34.1,2,1,0,172183,-99.76,10.72,5,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,1,34,174,3,1,0,3,0,0,0,0,0
+212,2,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,35,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,34.2,2,1,0,172184,54.03,48.01,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,2,34,174,3,0,0,3,0,0,0,0,0
+213,3,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,35,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,34.3,2,1,0,172185,71.98,45.25,0,0,,38,STRAIGHT BALL,18,SLOG SHOT,0,0,3,34,174,3,0,0,3,0,0,0,0,0
+214,4,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,35,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,34.4,2,1,0,172186,160.38,114.78,4,0,,46,LEGCUTTER,46,FRONTFOOT PULL SHOT,0,0,4,34,178,3,0,0,3,0,0,0,0,0
+215,5,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,35,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,34.5,2,1,1,172187,160.38,114.78,1,0,,46,LEGCUTTER,105,LEFT ALONE,0,0,5,34,179,3,0,0,3,0,0,0,0,0
+216,6,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,35,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,34.5,2,1,0,172188,-127.38,74.26,2,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,6,34,181,3,0,0,3,0,0,0,0,0
+217,7,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,35,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,34.6,2,1,0,172189,-69.37,41.57,0,0,,46,LEGCUTTER,51,FRONTFOOT COVERDRIVE,0,0,7,34,181,3,0,0,3,0,0,0,0,0
+218,1,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,36,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,35.1,2,1,0,172190,-69.37,41.57,0,0,,24,LEG SPIN,105,LEFT ALONE,0,0,1,35,181,3,1,0,3,0,0,0,0,0
+219,2,407,1,5,South Africa,Rassie van der Dussen,Yuzvendra Chahal,,36,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,35.2,2,1,0,172191,-123.24,41.11,1,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,2,35,182,3,0,0,3,0,0,0,0,0
+220,3,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,36,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,35.3,2,1,0,172192,-62.46,36.04,0,0,,24,LEG SPIN,52,BACKFOOT COVERDRIVE,0,0,3,35,182,3,0,0,3,0,0,0,0,0
+221,4,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,36,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,35.4,2,1,0,172193,-73.51,52.16,0,0,,24,LEG SPIN,51,FRONTFOOT COVERDRIVE,0,0,4,35,182,3,0,0,3,0,0,0,0,0
+222,5,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,36,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,35.5,2,1,0,172194,-80.42,-12.76,0,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,5,35,182,3,0,0,3,0,0,0,0,0
+223,6,407,1,5,South Africa,Temba Bavuma,Yuzvendra Chahal,,36,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,35.6,2,1,0,172195,-37.14,19.47,0,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,6,35,182,3,0,0,3,0,0,0,0,0
+224,1,407,1,5,South Africa,Rassie van der Dussen,Jasprit Bumrah,,37,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,36.1,2,1,0,172196,-76.74,-15.06,0,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,1,36,182,3,1,0,3,0,0,0,0,0
+225,2,407,1,5,South Africa,Rassie van der Dussen,Jasprit Bumrah,,37,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,36.2,2,1,0,172197,-134.29,-84.59,4,0,,36,BOUNCER,31,UPPER CUT,1,0,2,36,186,3,0,0,3,0,0,0,0,0
+226,3,407,1,5,South Africa,Rassie van der Dussen,Jasprit Bumrah,,37,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,36.3,2,1,0,172198,-132.91,47.09,1,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,3,36,187,3,0,0,3,0,0,0,0,0
+227,4,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,37,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,36.4,2,1,0,172199,64.15,36.50,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,4,36,188,3,0,0,3,0,0,0,0,0
+228,5,407,1,5,South Africa,Rassie van der Dussen,Jasprit Bumrah,,37,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,36.5,2,1,0,172200,-82.26,-86.43,1,0,,39,ANGLED IN,44,GLIDE,0,0,5,36,189,3,0,0,3,0,0,0,0,0
+229,6,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,37,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,36.6,2,1,0,172201,-63.85,-94.72,1,0,,39,ANGLED IN,44,GLIDE,0,0,6,36,190,3,0,0,3,0,0,0,0,0
+230,1,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,38,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,37.1,2,1,0,172202,68.76,138.72,1,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,1,37,191,3,1,0,3,0,0,0,0,0
+231,2,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,38,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,37.2,2,1,0,172203,-129.69,52.16,2,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,2,37,193,3,0,0,3,0,0,0,0,0
+232,3,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,38,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,37.3,2,1,0,172204,97.31,-10.92,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,3,37,194,3,0,0,3,0,0,0,0,0
+233,4,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,38,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,37.4,2,1,1,172205,97.31,-10.92,1,0,,33,CARROM BALL,22,FRONTFOOT PADDLE SWEEP,0,0,4,37,195,3,0,0,3,0,0,0,0,0
+234,5,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,38,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,37.4,2,1,0,172206,94.08,127.21,1,0,,33,CARROM BALL,47,FRONTFOOT ON DRIVE,0,0,5,37,196,3,0,0,3,0,0,0,0,0
+235,6,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,38,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,37.5,2,1,0,172207,-121.40,36.50,1,0,,33,CARROM BALL,97,BACKFOOT PUSH,0,0,6,37,197,3,0,0,3,0,0,0,0,0
+236,7,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,38,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,37.6,2,1,1,172208,-121.40,36.50,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,7,37,198,3,0,0,3,0,0,0,0,0
+237,1,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,39,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,38.1,2,1,0,172209,130.92,-35.78,2,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,1,38,200,3,1,1,4,0,0,0,1,0
+238,2,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,39,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,38.2,2,1,0,172210,30.08,10.72,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,2,38,200,3,0,0,4,0,0,0,0,0
+239,3,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,39,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,38.3,2,1,0,172211,-73.51,2.89,0,0,,39,ANGLED IN,51,FRONTFOOT COVERDRIVE,0,0,3,38,200,3,0,0,4,0,0,0,0,0
+240,4,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,39,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,38.4,2,1,0,172212,60.93,42.95,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,4,38,200,3,0,0,4,0,0,0,0,0
+241,5,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,39,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,38.5,2,1,0,172213,79.81,64.13,2,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,5,38,202,3,0,0,4,0,0,0,0,0
+242,6,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,39,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,38.6,2,1,0,172214,-73.51,-75.84,1,0,,39,ANGLED IN,44,GLIDE,0,0,6,38,203,3,0,0,4,0,0,0,0,0
+243,1,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,40,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,39.1,2,1,0,172215,139.21,38.35,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,1,39,204,3,1,0,4,0,0,0,0,0
+244,2,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,40,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,39.2,2,1,0,172216,-116.79,-22.89,1,0,,33,CARROM BALL,56,REVERSE SWEEP,0,0,2,39,205,3,0,0,4,0,0,0,0,0
+245,3,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,40,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,39.3,2,1,0,172217,96.38,-15.53,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,3,39,206,3,0,0,4,0,0,0,0,0
+246,4,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,40,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,39.4,2,1,0,172218,-170.67,88.99,4,0,,33,CARROM BALL,51,FRONTFOOT COVERDRIVE,0,0,4,39,210,3,0,0,4,0,0,0,0,0
+247,5,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,40,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,39.5,2,1,0,172219,60.93,53.54,0,0,,33,CARROM BALL,27,FORWARD PUSH,0,0,5,39,210,3,0,0,4,0,0,0,0,0
+248,6,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,40,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,39.6,2,1,0,172220,21.79,19.47,0,0,,33,CARROM BALL,49,FORWARD DEFENCE,0,0,6,39,210,3,0,0,4,0,0,0,0,0
+249,1,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,41,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,40.1,2,1,0,172221,142.43,62.29,2,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,1,40,212,3,1,0,4,0,0,0,0,0
+250,2,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,41,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,40.2,2,1,0,172222,152.10,22.23,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,2,40,213,3,0,0,4,0,0,0,0,0
+251,3,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,41,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,40.3,2,1,0,172223,-81.80,-74.00,1,0,,37,NIPPED AWAY,27,FORWARD PUSH,0,0,3,40,214,3,0,0,4,0,0,0,0,0
+252,4,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,41,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,40.4,2,1,1,172224,-81.80,-74.00,1,0,,16,SLOW BOUNCER,105,LEFT ALONE,0,0,4,40,215,3,0,0,4,0,0,0,0,0
+253,5,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,41,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,40.4,2,1,0,172225,-16.42,-0.79,0,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,5,40,215,3,0,0,4,0,0,0,0,0
+254,6,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,41,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,40.5,2,1,0,172226,-67.07,-28.88,0,0,,38,STRAIGHT BALL,59,FRONTFOOT SQUARE DRIVE,0,0,6,40,215,3,0,0,4,0,0,0,0,0
+255,7,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,41,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,40.6,2,1,0,172227,32.38,164.50,1,0,,39,ANGLED IN,53,FRONTFOOT STRAIGHT DRIVE,0,0,7,40,216,3,0,0,4,0,0,0,0,0
+256,1,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,42,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,41.1,2,1,0,172228,-91.01,24.07,1,0,,33,CARROM BALL,49,FORWARD DEFENCE,0,0,1,41,217,3,1,0,4,0,0,0,0,0
+257,2,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,42,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,41.2,2,1,0,172229,-124.16,-53.28,2,0,,33,CARROM BALL,56,REVERSE SWEEP,0,0,2,41,219,3,0,0,4,0,0,0,0,0
+258,3,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,42,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,41.3,2,1,0,172230,-73.05,50.78,0,0,,33,CARROM BALL,27,FORWARD PUSH,0,0,3,41,219,3,0,0,4,0,0,0,0,0
+259,4,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,42,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,41.4,2,1,0,172231,-125.54,-9.08,1,0,,33,CARROM BALL,36,CUT SHOT,0,0,4,41,220,3,0,0,4,0,0,0,0,0
+260,5,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,42,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,41.5,2,1,0,172232,-105.28,-8.16,1,0,,33,CARROM BALL,97,BACKFOOT PUSH,0,0,5,41,221,3,0,0,4,0,0,0,0,0
+261,6,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,42,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,41.6,2,1,0,172233,58.17,149.77,1,0,,33,CARROM BALL,101,BACKFOOT ON DRIVE,0,0,6,41,222,3,0,0,4,0,0,0,0,0
+263,1,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,43,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,42.1,2,1,0,172234,65.08,50.78,0,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,1,42,222,3,1,0,4,0,0,0,0,0
+264,2,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,43,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,42.2,2,1,0,172235,136.90,57.68,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,2,42,223,3,0,0,4,0,0,0,0,0
+265,3,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,43,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,42.3,2,1,0,172236,-73.51,-69.40,1,0,,39,ANGLED IN,44,GLIDE,0,0,3,42,224,3,0,0,4,0,0,0,0,0
+266,4,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,43,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,42.4,2,1,0,172237,170.97,-26.58,6,0,,39,ANGLED IN,18,SLOG SHOT,0,0,4,42,230,3,0,0,4,0,0,0,0,0
+267,5,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,43,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,42.5,2,1,0,172238,-80.42,-5.40,0,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,5,42,230,3,0,0,4,0,0,0,0,0
+268,6,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,43,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,42.6,2,1,0,172239,-173.43,-10.46,4,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,6,42,234,3,0,0,4,0,0,0,0,0
+269,1,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,44,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,43.1,2,1,0,172240,102.83,124.45,1,0,,33,CARROM BALL,47,FRONTFOOT ON DRIVE,0,0,1,43,235,3,1,0,4,0,0,0,0,0
+270,2,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,44,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,43.2,2,1,0,172241,-68.91,41.57,0,0,,33,CARROM BALL,27,FORWARD PUSH,0,0,2,43,235,3,0,0,4,0,0,0,0,0
+271,3,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,44,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,43.3,2,1,0,172242,88.56,-15.06,1,0,,33,CARROM BALL,27,FORWARD PUSH,0,0,3,43,236,3,0,0,4,0,0,0,0,0
+272,4,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,44,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,43.4,2,1,0,172243,72.44,134.12,1,0,,33,CARROM BALL,101,BACKFOOT ON DRIVE,0,0,4,43,237,3,0,0,4,0,0,0,0,0
+273,5,407,1,5,South Africa,Rassie van der Dussen,Ravichandran Ashwin,,44,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,43.5,2,1,0,172244,-131.07,-16.91,1,0,,33,CARROM BALL,36,CUT SHOT,0,0,5,43,238,3,0,0,4,0,0,0,0,0
+274,6,407,1,5,South Africa,Temba Bavuma,Ravichandran Ashwin,,44,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,43.6,2,1,0,172245,-129.23,57.68,1,0,,33,CARROM BALL,51,FRONTFOOT COVERDRIVE,0,0,6,43,239,3,0,0,4,0,0,0,0,0
+275,1,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,45,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,44.1,2,1,0,172246,65.54,54.46,0,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,1,44,239,3,1,0,4,0,0,0,0,0
+276,2,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,45,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,44.2,2,1,0,172247,-67.99,42.95,0,0,,38,STRAIGHT BALL,97,BACKFOOT PUSH,0,0,2,44,239,3,0,0,4,0,0,0,0,0
+277,3,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,45,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,44.3,2,1,0,172248,-70.29,-13.68,0,0,,37,NIPPED AWAY,84,FRONTFOOT OFF DRIVE,0,0,3,44,239,3,0,0,4,0,0,0,0,0
+278,4,407,1,5,South Africa,Temba Bavuma,Shardul Thakur,,45,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,44.4,2,1,0,172249,-122.32,68.73,1,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,4,44,240,3,0,0,4,0,0,0,0,0
+279,5,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,45,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,44.5,2,1,0,172250,-154.09,128.59,4,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,5,44,244,3,0,0,4,0,0,0,0,0
+280,6,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,45,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,44.6,2,1,0,172251,113.42,100.04,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,6,44,245,3,0,0,4,0,0,0,0,0
+281,1,407,1,5,South Africa,Rassie van der Dussen,Bhuvneshwar Kumar,,46,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,45.1,2,1,0,172252,133.68,19.93,2,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,1,45,247,3,1,0,4,0,0,0,0,0
+282,2,407,1,5,South Africa,Rassie van der Dussen,Bhuvneshwar Kumar,,46,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,45.2,2,1,0,172253,82.57,137.80,1,0,,39,ANGLED IN,74,STEP DOWN ON DRIVE,0,0,2,45,248,3,0,0,4,0,0,0,0,0
+283,3,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,46,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,45.3,2,1,0,172254,82.11,121.22,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,3,45,249,3,0,0,4,0,0,0,0,0
+284,4,407,1,5,South Africa,Rassie van der Dussen,Bhuvneshwar Kumar,,46,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,45.4,2,1,0,172255,137.82,-4.94,1,0,,46,LEGCUTTER,70,STEP DOWN PULL SHOT,0,0,4,45,250,3,0,1,5,0,0,0,0,0
+285,5,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,46,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,45.5,2,1,0,172256,-33.92,-143.06,4,0,,46,LEGCUTTER,36,CUT SHOT,0,0,5,45,254,3,0,0,5,0,0,0,0,0
+286,6,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,46,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,45.6,2,1,0,172257,116.18,74.72,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,6,45,255,3,0,0,5,0,0,0,0,0
+287,1,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,47,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,46.1,2,1,0,172258,151.18,17.63,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,1,46,256,3,1,0,5,0,0,0,0,0
+288,2,407,1,5,South Africa,Rassie van der Dussen,Jasprit Bumrah,,47,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,46.2,2,1,0,172259,-128.31,-14.60,1,0,,46,LEGCUTTER,27,FORWARD PUSH,0,0,2,46,257,3,0,0,5,0,0,0,0,0
+289,3,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,47,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,46.3,2,1,0,172260,-128.31,-14.60,0,0,,39,ANGLED IN,99,SCOOP,0,0,3,46,257,3,0,0,5,0,0,0,0,0
+290,4,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,47,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,46.4,2,1,0,172261,-128.31,-14.60,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,4,46,257,3,0,0,5,0,0,0,0,0
+291,5,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,47,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,46.5,2,1,0,172262,64.62,24.99,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,5,46,258,3,0,0,5,0,0,0,0,0
+292,6,407,1,5,South Africa,Rassie van der Dussen,Jasprit Bumrah,,47,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,46.6,2,1,0,172263,83.49,115.24,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,6,46,259,3,0,0,5,0,0,0,0,0
+293,1,407,1,5,South Africa,Rassie van der Dussen,Bhuvneshwar Kumar,,48,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,47.1,2,1,0,172264,83.03,-65.71,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,1,47,260,3,1,0,5,0,0,0,0,0
+294,2,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,48,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,47.2,2,1,0,172265,-16.42,-82.29,1,0,,39,ANGLED IN,18,SLOG SHOT,0,0,2,47,261,3,0,0,5,0,0,0,0,0
+295,3,407,1,5,South Africa,Rassie van der Dussen,Bhuvneshwar Kumar,,48,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,47.3,2,1,0,172266,164.99,1.97,1,0,,39,ANGLED IN,37,STEP DOWN FLICK,0,0,3,47,262,3,0,0,5,0,0,0,0,0
+296,4,407,1,5,South Africa,Temba Bavuma,Bhuvneshwar Kumar,,48,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,47.4,2,1,0,172267,112.96,119.38,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,4,47,263,3,0,0,5,0,0,0,0,0
+297,5,407,1,5,South Africa,Rassie van der Dussen,Bhuvneshwar Kumar,,48,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,47.5,2,1,1,172268,112.96,119.38,1,0,,46,LEGCUTTER,36,CUT SHOT,0,0,5,47,264,3,0,0,5,0,0,0,0,0
+298,6,407,1,5,South Africa,Rassie van der Dussen,Bhuvneshwar Kumar,,48,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,47.5,2,1,0,172269,136.90,-102.09,6,0,,39,ANGLED IN,18,SLOG SHOT,0,0,6,47,270,3,0,0,5,0,0,0,0,0
+299,7,407,1,5,South Africa,Rassie van der Dussen,Bhuvneshwar Kumar,,48,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,47.6,2,1,0,172270,-131.07,-40.39,2,0,,46,LEGCUTTER,36,CUT SHOT,0,0,7,47,272,3,0,0,5,0,0,0,0,0
+300,1,407,1,5,South Africa,Temba Bavuma,Jasprit Bumrah,,49,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,48.1,2,1,0,172271,74.28,124.45,0,0,,39,ANGLED IN,11,LOFTED ON DRIVE,0,0,1,48,272,4,1,0,5,0,0,0,0,0
+301,2,407,1,5,South Africa,Rassie van der Dussen,Jasprit Bumrah,,49,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,48.2,2,1,0,172272,119.41,95.90,2,0,,39,ANGLED IN,74,STEP DOWN ON DRIVE,0,0,2,48,274,4,2,0,5,0,0,0,0,0
+302,3,407,1,5,South Africa,Rassie van der Dussen,Jasprit Bumrah,,49,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,48.3,2,1,0,172273,102.37,114.78,2,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,3,48,276,4,0,0,5,0,0,0,0,0
+303,4,407,1,5,South Africa,Rassie van der Dussen,Jasprit Bumrah,,49,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,48.4,2,1,0,172274,86.72,136.88,1,0,,38,STRAIGHT BALL,74,STEP DOWN ON DRIVE,0,0,4,48,277,4,0,0,5,0,0,0,0,0
+304,5,407,1,5,South Africa,David Miller,Jasprit Bumrah,,49,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,48.5,2,1,0,172275,-110.81,51.70,1,0,,38,STRAIGHT BALL,47,FRONTFOOT ON DRIVE,0,0,5,48,278,4,0,0,5,0,0,0,0,0
+305,6,407,1,5,South Africa,Rassie van der Dussen,Jasprit Bumrah,,49,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,48.6,2,1,0,172276,105.59,112.94,1,0,,39,ANGLED IN,11,LOFTED ON DRIVE,0,0,6,48,279,4,0,0,5,0,0,0,0,0
+306,1,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,50,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,49.1,2,1,0,172277,87.64,126.75,2,0,,38,STRAIGHT BALL,74,STEP DOWN ON DRIVE,0,0,1,49,281,4,1,0,5,0,0,0,0,0
+307,2,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,50,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,49.2,2,1,0,172278,31.46,-58.81,1,0,,38,STRAIGHT BALL,84,FRONTFOOT OFF DRIVE,0,0,2,49,282,4,0,0,5,0,0,0,0,0
+308,3,407,1,5,South Africa,David Miller,Shardul Thakur,,50,3,2 (NB),2,1,1,0,0,0,1,0,1,0,0,0,0,0,,,0,49.3,2,1,1,172279,142.89,-27.50,2,0,,30,ANGLED ACROSS,96,SLICED OVER POINT,0,0,4,49,285,4,0,0,5,0,0,0,0,0
+309,4,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,50,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,49.3,2,1,1,172280,142.89,-27.50,1,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,3,49,283,4,0,0,5,0,0,0,0,0
+310,5,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,50,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,49.3,2,1,0,172281,169.13,117.54,6,0,,39,ANGLED IN,18,SLOG SHOT,0,0,5,49,291,4,0,0,5,0,0,0,0,0
+311,6,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,50,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,49.4,2,1,0,172282,169.13,117.54,0,0,,38,STRAIGHT BALL,11,LOFTED ON DRIVE,0,0,6,49,291,4,0,0,5,0,0,0,0,0
+312,7,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,50,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,49.5,2,1,0,172283,151.18,135.04,4,0,,39,ANGLED IN,11,LOFTED ON DRIVE,0,0,7,49,295,4,0,0,5,0,0,0,0,0
+313,8,407,1,5,South Africa,Rassie van der Dussen,Shardul Thakur,,50,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,49.6,2,1,0,172284,121.71,94.52,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,8,49,296,4,0,0,5,0,0,0,0,0
+315,1,407,2,1,India,K L Rahul,Aiden Markram,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,172285,124.47,45.71,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+316,2,407,2,1,India,Shikhar Dhawan,Aiden Markram,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,172286,51.72,32.36,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+317,3,407,2,1,India,Shikhar Dhawan,Aiden Markram,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,172287,-107.59,77.48,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,3,0,2,0,0,0,0,0,0,0,0,0
+318,4,407,2,1,India,K L Rahul,Aiden Markram,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,172288,-21.03,55.84,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,4,0,2,0,0,0,0,0,0,0,0,0
+319,5,407,2,1,India,K L Rahul,Aiden Markram,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,172289,72.44,38.35,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,5,0,2,0,0,0,0,0,0,0,0,0
+320,6,407,2,1,India,K L Rahul,Aiden Markram,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,172290,10.74,62.29,0,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,6,0,2,0,0,0,0,0,0,0,0,0
+321,1,407,2,1,India,Shikhar Dhawan,Marco Jansen,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,172291,68.76,-25.65,0,0,,42,OUTSWINGER,97,BACKFOOT PUSH,0,0,1,1,2,0,1,0,0,0,0,0,0,0
+322,2,407,2,1,India,Shikhar Dhawan,Marco Jansen,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,172292,68.76,-25.65,0,0,,42,OUTSWINGER,105,LEFT ALONE,0,0,2,1,2,0,0,0,0,0,0,0,0,0
+323,3,407,2,1,India,Shikhar Dhawan,Marco Jansen,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,172293,-67.07,35.12,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,3,1,2,0,0,0,0,0,0,0,0,0
+324,4,407,2,1,India,Shikhar Dhawan,Marco Jansen,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,172295,76.59,-29.34,0,0,,42,OUTSWINGER,36,CUT SHOT,0,0,4,1,2,0,0,0,0,0,0,0,0,0
+325,5,407,2,1,India,Shikhar Dhawan,Marco Jansen,,2,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.5,2,1,0,172297,-63.38,-133.86,4,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,5,1,6,0,0,0,0,0,0,0,0,0
+326,6,407,2,1,India,Shikhar Dhawan,Marco Jansen,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,172300,87.64,-17.37,0,0,,42,OUTSWINGER,97,BACKFOOT PUSH,0,0,6,1,6,0,0,0,0,0,0,0,0,0
+327,1,407,2,1,India,K L Rahul,Aiden Markram,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,172302,-62.00,97.74,1,0,,25,OFF SPIN,84,FRONTFOOT OFF DRIVE,0,0,1,2,7,0,1,0,0,0,0,0,0,0
+328,2,407,2,1,India,Shikhar Dhawan,Aiden Markram,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,172304,96.85,131.35,1,0,,25,OFF SPIN,84,FRONTFOOT OFF DRIVE,0,0,2,2,8,0,0,0,0,0,0,0,0,0
+329,3,407,2,1,India,K L Rahul,Aiden Markram,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,172305,-21.03,63.21,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,3,2,8,0,0,0,0,0,0,0,0,0
+330,4,407,2,1,India,K L Rahul,Aiden Markram,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,172306,39.75,33.74,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,4,2,8,0,0,0,0,0,0,0,0,0
+331,5,407,2,1,India,K L Rahul,Aiden Markram,,3,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,172307,-60.62,108.79,2,0,,25,OFF SPIN,21,STEP DOWN OFF DRIVE,0,0,5,2,10,0,0,0,0,0,0,0,0,0
+332,6,407,2,1,India,K L Rahul,Aiden Markram,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,172309,65.54,39.27,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,6,2,10,0,0,0,0,0,0,0,0,0
+333,1,407,2,1,India,Shikhar Dhawan,Marco Jansen,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,172311,-55.56,36.50,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,1,3,10,0,1,0,0,0,0,0,0,0
+334,2,407,2,1,India,Shikhar Dhawan,Marco Jansen,,4,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,172312,-131.07,-37.17,2,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,2,3,12,0,0,0,0,0,0,0,0,0
+335,3,407,2,1,India,Shikhar Dhawan,Marco Jansen,,4,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.3,2,1,0,172314,174.20,78.86,4,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,3,3,16,0,0,0,0,0,0,0,0,0
+336,4,407,2,1,India,Shikhar Dhawan,Marco Jansen,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,172316,-40.36,27.29,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,4,3,16,0,0,0,0,0,0,0,0,0
+337,5,407,2,1,India,Shikhar Dhawan,Marco Jansen,,4,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,172319,-45.43,-112.68,2,0,,39,ANGLED IN,54,LEG GLANCE,0,0,5,3,18,0,0,0,0,0,0,0,0,0
+338,6,407,2,1,India,Shikhar Dhawan,Marco Jansen,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,172320,-89.63,21.77,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,6,3,18,0,0,0,0,0,0,0,0,0
+339,1,407,2,1,India,K L Rahul,Aiden Markram,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,172323,135.98,14.40,1,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,1,4,19,0,1,0,0,0,0,0,0,0
+340,2,407,2,1,India,Shikhar Dhawan,Aiden Markram,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,172325,-0.77,49.86,0,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,2,4,19,0,0,0,0,0,0,0,0,0
+341,3,407,2,1,India,Shikhar Dhawan,Aiden Markram,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,172326,-80.42,30.52,0,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,3,4,19,0,0,0,0,0,0,0,0,0
+342,4,407,2,1,India,Shikhar Dhawan,Aiden Markram,,5,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.4,2,1,0,172328,-142.58,160.36,4,0,,25,OFF SPIN,94,STEP DOWN LOFTED ON DRIVE,0,0,4,4,23,0,0,0,0,0,0,0,0,0
+343,5,407,2,1,India,Shikhar Dhawan,Aiden Markram,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,172329,67.84,123.53,1,0,,25,OFF SPIN,84,FRONTFOOT OFF DRIVE,0,0,5,4,24,0,0,0,0,0,0,0,0,0
+344,6,407,2,1,India,K L Rahul,Aiden Markram,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,172331,52.18,41.11,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,6,4,24,0,0,0,0,0,0,0,0,0
+345,1,407,2,1,India,Shikhar Dhawan,Marco Jansen,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,172333,52.18,41.11,0,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,1,5,24,0,1,0,0,0,0,0,0,0
+346,2,407,2,1,India,Shikhar Dhawan,Marco Jansen,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,172335,77.05,-27.04,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,2,5,24,0,0,0,0,0,0,0,0,0
+347,3,407,2,1,India,Shikhar Dhawan,Marco Jansen,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,172336,-60.62,28.68,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,3,5,24,0,0,0,0,0,0,0,0,0
+348,4,407,2,1,India,Shikhar Dhawan,Marco Jansen,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.4,2,1,0,172338,-163.76,111.09,4,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,4,5,28,0,0,0,0,0,0,0,0,0
+349,5,407,2,1,India,Shikhar Dhawan,Marco Jansen,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,172340,-163.76,111.09,0,0,,37,NIPPED AWAY,36,CUT SHOT,0,0,5,5,28,0,0,0,0,0,0,0,0,0
+350,6,407,2,1,India,Shikhar Dhawan,Marco Jansen,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,172342,82.57,29.60,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,6,5,28,0,0,0,0,0,0,0,0,0
+351,1,407,2,1,India,K L Rahul,Aiden Markram,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,172345,153.02,68.73,1,0,,25,OFF SPIN,94,STEP DOWN LOFTED ON DRIVE,0,0,1,6,29,0,1,0,0,0,0,0,0,0
+352,2,407,2,1,India,Shikhar Dhawan,Aiden Markram,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,172346,-73.51,73.34,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,2,6,30,0,0,0,0,0,0,0,0,0
+353,3,407,2,1,India,K L Rahul,Aiden Markram,,7,3,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,172348,52.18,-96.10,3,0,,25,OFF SPIN,11,LOFTED ON DRIVE,0,0,3,6,33,0,0,0,0,0,0,0,0,0
+354,4,407,2,1,India,Shikhar Dhawan,Aiden Markram,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,172349,77.05,-11.38,0,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,4,6,33,0,0,0,0,0,0,0,0,0
+355,5,407,2,1,India,Shikhar Dhawan,Aiden Markram,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,172350,-56.94,143.32,1,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,5,6,34,0,0,0,0,0,0,0,0,0
+356,6,407,2,1,India,K L Rahul,Aiden Markram,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,172351,121.71,-7.24,1,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,6,6,35,0,0,0,0,0,0,0,0,0
+357,1,407,2,1,India,K L Rahul,Marco Jansen,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,172354,-84.56,-68.01,1,0,,30,ANGLED ACROSS,44,GLIDE,0,0,1,7,36,0,1,0,0,0,0,0,0,0
+358,2,407,2,1,India,Shikhar Dhawan,Marco Jansen,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,172356,77.51,43.41,0,0,,39,ANGLED IN,114,STEP DOWN LOFTED COVER DRIVE,0,0,2,7,36,0,0,0,0,0,0,0,0,0
+359,3,407,2,1,India,Shikhar Dhawan,Marco Jansen,,8,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.3,2,1,0,172359,-184.02,22.23,4,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,3,7,40,0,0,0,0,0,0,0,0,0
+360,4,407,2,1,India,Shikhar Dhawan,Marco Jansen,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,172360,89.48,34.66,0,0,,38,STRAIGHT BALL,52,BACKFOOT COVERDRIVE,0,0,4,7,40,0,0,0,0,0,0,0,0,0
+361,5,407,2,1,India,Shikhar Dhawan,Marco Jansen,,8,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.5,2,1,0,172362,159.92,-58.35,4,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,5,7,44,0,0,0,0,0,0,0,0,0
+362,6,407,2,1,India,Shikhar Dhawan,Marco Jansen,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,172364,74.28,54.92,0,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,6,7,44,0,0,0,0,0,0,0,0,0
+363,1,407,2,1,India,K L Rahul,Aiden Markram,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,172367,91.78,-10.92,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,1,8,45,0,1,0,0,0,0,0,0,0
+364,2,407,2,1,India,Shikhar Dhawan,Aiden Markram,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,172369,67.38,141.02,1,0,,25,OFF SPIN,33,CHIP SHOT,0,0,2,8,46,0,0,0,0,0,0,0,0,0
+365,3,407,2,1,India,K L Rahul,Aiden Markram,,9,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,8.3,2,1,0,172370,67.38,141.02,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,3,8,46,1,1,0,0,0,0,0,0,0
+366,4,407,2,1,India,Virat Kohli,Aiden Markram,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,172373,58.63,67.81,0,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,4,8,46,1,2,0,0,0,0,0,0,0
+367,5,407,2,1,India,Virat Kohli,Aiden Markram,,9,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.5,2,1,0,172375,170.51,-18.29,4,0,,25,OFF SPIN,58,BACKFOOT PULL SHOT,0,0,5,8,50,1,0,1,1,0,1,0,0,0
+368,6,407,2,1,India,Virat Kohli,Aiden Markram,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,172377,66.46,65.97,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,6,8,50,1,0,0,1,0,0,0,0,0
+369,1,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,10,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.1,2,1,0,172380,-56.02,-143.53,4,0,,10,ORTHODOX,58,BACKFOOT PULL SHOT,0,0,1,9,54,1,1,0,1,0,0,0,0,0
+370,2,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,172382,-31.62,24.99,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,2,9,54,1,0,0,1,0,0,0,0,0
+371,3,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,172384,-111.27,53.08,1,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,3,9,55,1,0,0,1,0,0,0,0,0
+372,4,407,2,1,India,Virat Kohli,Keshav Maharaj,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,172385,-58.32,29.60,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,4,9,55,1,0,0,1,0,0,0,0,0
+373,5,407,2,1,India,Virat Kohli,Keshav Maharaj,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,172386,48.96,42.03,0,0,,10,ORTHODOX,50,BACKFOOT DEFENCE,0,0,5,9,55,1,0,0,1,0,0,0,0,0
+374,6,407,2,1,India,Virat Kohli,Keshav Maharaj,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,172388,-30.69,56.30,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,6,9,55,1,0,0,1,0,0,0,0,0
+375,1,407,2,1,India,Shikhar Dhawan,Aiden Markram,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,172390,126.31,51.24,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,1,10,56,1,1,0,1,0,0,0,0,0
+376,2,407,2,1,India,Virat Kohli,Aiden Markram,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,172391,74.28,39.73,0,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,2,10,56,1,0,0,1,0,0,0,0,0
+377,3,407,2,1,India,Virat Kohli,Aiden Markram,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,172393,97.77,25.91,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,3,10,56,1,0,0,1,0,0,0,0,0
+378,4,407,2,1,India,Virat Kohli,Aiden Markram,,11,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,10.4,2,1,1,172394,97.77,25.91,1,0,,25,OFF SPIN,105,LEFT ALONE,0,0,4,10,57,1,0,0,1,0,0,0,0,0
+379,5,407,2,1,India,Virat Kohli,Aiden Markram,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,172396,135.98,52.62,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,5,10,58,1,0,0,1,0,0,0,0,0
+380,6,407,2,1,India,Shikhar Dhawan,Aiden Markram,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,172397,-23.79,149.31,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,6,10,59,1,0,0,1,0,0,0,0,0
+381,7,407,2,1,India,Virat Kohli,Aiden Markram,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,172399,66.00,145.63,1,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,7,10,60,1,0,0,1,0,0,0,0,0
+382,1,407,2,1,India,Virat Kohli,Keshav Maharaj,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,172401,-64.77,129.97,1,0,,10,ORTHODOX,84,FRONTFOOT OFF DRIVE,0,0,1,11,61,1,1,0,1,0,0,0,0,0
+383,2,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,12,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,172403,-128.31,17.17,2,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,2,11,63,1,0,0,1,0,0,0,0,0
+384,3,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,172404,30.08,-7.24,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,3,11,63,1,0,0,1,0,0,0,0,0
+385,4,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,172405,-23.79,55.38,0,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,4,11,63,1,0,0,1,0,0,0,0,0
+386,5,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,172406,50.80,11.64,0,0,,10,ORTHODOX,50,BACKFOOT DEFENCE,0,0,5,11,63,1,0,0,1,0,0,0,0,0
+387,6,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,12,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.6,2,1,0,172407,36.53,-143.06,4,0,,23,ARM BALL,50,BACKFOOT DEFENCE,0,0,6,11,67,1,0,0,1,0,0,0,0,0
+388,1,407,2,1,India,Virat Kohli,Lungisani Ngidi,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,172411,-70.29,99.12,1,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,1,12,68,1,1,0,1,0,0,0,0,0
+389,2,407,2,1,India,Shikhar Dhawan,Lungisani Ngidi,,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,172413,-70.29,99.12,0,0,,30,ANGLED ACROSS,84,FRONTFOOT OFF DRIVE,0,0,2,12,68,1,0,0,1,0,0,0,0,0
+390,3,407,2,1,India,Shikhar Dhawan,Lungisani Ngidi,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,172415,63.69,94.06,0,0,,8,OFF CUTTER,84,FRONTFOOT OFF DRIVE,0,0,3,12,68,1,0,0,1,0,0,0,0,0
+391,4,407,2,1,India,Shikhar Dhawan,Lungisani Ngidi,,13,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,172417,54.95,9.80,0,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,4,12,68,1,0,0,1,0,0,0,0,0
+392,5,407,2,1,India,Shikhar Dhawan,Lungisani Ngidi,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,172418,143.81,4.27,1,0,,30,ANGLED ACROSS,52,BACKFOOT COVERDRIVE,0,0,5,12,69,1,0,0,1,0,0,0,0,0
+393,6,407,2,1,India,Virat Kohli,Lungisani Ngidi,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,172420,72.44,-18.75,1,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,6,12,70,1,0,0,1,0,0,0,0,0
+394,1,407,2,1,India,Virat Kohli,Keshav Maharaj,,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,172422,-45.89,88.53,0,0,,10,ORTHODOX,47,FRONTFOOT ON DRIVE,0,0,1,13,70,1,1,0,1,0,0,0,0,0
+395,2,407,2,1,India,Virat Kohli,Keshav Maharaj,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,172423,100.07,14.40,1,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,2,13,71,1,0,0,1,0,0,0,0,0
+396,3,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,172425,-78.12,8.88,1,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,3,13,72,1,0,0,1,0,0,0,0,0
+397,4,407,2,1,India,Virat Kohli,Keshav Maharaj,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,172427,109.74,93.14,1,0,,10,ORTHODOX,47,FRONTFOOT ON DRIVE,0,0,4,13,73,1,0,0,1,0,0,0,0,0
+398,5,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,172429,-59.70,37.42,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,5,13,73,1,0,0,1,0,0,0,0,0
+399,6,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,172430,-61.54,23.61,1,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,6,13,74,1,0,0,1,0,0,0,0,0
+401,1,407,2,1,India,Shikhar Dhawan,Lungisani Ngidi,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,172433,74.74,66.43,1,0,,30,ANGLED ACROSS,89,STEP DOWN COVER DRIVE,0,0,1,14,75,1,1,0,1,0,0,0,0,0
+402,2,407,2,1,India,Virat Kohli,Lungisani Ngidi,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,172434,138.74,-14.14,1,0,,8,OFF CUTTER,40,FRONTFOOT FLICK,0,0,2,14,76,1,0,0,1,0,0,0,0,0
+403,3,407,2,1,India,Shikhar Dhawan,Lungisani Ngidi,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,172436,130.92,59.99,1,0,,8,OFF CUTTER,51,FRONTFOOT COVERDRIVE,0,0,3,14,77,1,0,0,1,0,0,0,0,0
+404,4,407,2,1,India,Virat Kohli,Lungisani Ngidi,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,172438,95.92,-53.28,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,4,14,78,1,0,0,1,0,0,0,0,0
+405,5,407,2,1,India,Shikhar Dhawan,Lungisani Ngidi,,15,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,172441,-115.41,-65.25,2,0,,38,STRAIGHT BALL,40,FRONTFOOT FLICK,0,0,5,14,80,1,0,0,1,0,0,0,0,0
+406,6,407,2,1,India,Shikhar Dhawan,Lungisani Ngidi,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,172443,62.77,61.83,0,0,,8,OFF CUTTER,21,STEP DOWN OFF DRIVE,0,0,6,14,80,1,0,0,1,0,0,0,0,0
+407,1,407,2,1,India,Virat Kohli,Keshav Maharaj,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,172444,-42.67,21.77,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,1,15,80,1,1,0,1,0,0,0,0,0
+408,2,407,2,1,India,Virat Kohli,Keshav Maharaj,,16,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,172446,133.68,-18.29,2,0,,23,ARM BALL,40,FRONTFOOT FLICK,0,0,2,15,82,1,0,0,1,0,0,0,0,0
+409,3,407,2,1,India,Virat Kohli,Keshav Maharaj,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,172447,-38.52,19.93,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,3,15,82,1,0,0,1,0,0,0,0,0
+410,4,407,2,1,India,Virat Kohli,Keshav Maharaj,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,172448,142.43,28.22,1,0,,10,ORTHODOX,40,FRONTFOOT FLICK,0,0,4,15,83,1,0,0,1,0,0,0,0,0
+411,5,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,172450,57.25,30.98,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,5,15,83,1,0,0,1,0,0,0,0,0
+412,6,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,172451,42.51,46.63,0,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,6,15,83,1,0,0,1,0,0,0,0,0
+413,1,407,2,1,India,Virat Kohli,Lungisani Ngidi,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,172454,-80.42,-72.16,1,0,,38,STRAIGHT BALL,44,GLIDE,0,0,1,16,84,1,1,0,1,0,0,0,0,0
+414,2,407,2,1,India,Shikhar Dhawan,Lungisani Ngidi,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,172456,143.35,-9.08,1,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,2,16,85,1,0,0,1,0,0,0,0,0
+415,3,407,2,1,India,Virat Kohli,Lungisani Ngidi,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,172458,143.35,-9.08,0,0,,36,BOUNCER,57,HOOK SHOT,1,0,3,16,85,1,0,0,1,0,0,0,0,0
+416,4,407,2,1,India,Virat Kohli,Lungisani Ngidi,,17,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.4,2,1,0,172459,149.33,139.64,4,0,,39,ANGLED IN,74,STEP DOWN ON DRIVE,0,0,4,16,89,1,0,0,1,0,0,0,0,0
+417,5,407,2,1,India,Virat Kohli,Lungisani Ngidi,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,172461,-115.87,81.17,1,0,,38,STRAIGHT BALL,89,STEP DOWN COVER DRIVE,0,0,5,16,90,1,0,0,1,0,0,0,0,0
+418,6,407,2,1,India,Shikhar Dhawan,Lungisani Ngidi,,17,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,172463,-115.87,81.17,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,6,16,90,1,0,0,1,0,0,0,0,0
+419,1,407,2,1,India,Virat Kohli,Keshav Maharaj,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,172466,92.24,15.32,1,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,1,17,91,1,1,0,1,0,0,0,0,0
+420,2,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,172467,128.62,12.10,1,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,2,17,92,1,0,0,1,0,0,0,0,0
+421,3,407,2,1,India,Virat Kohli,Keshav Maharaj,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,172469,145.65,14.40,1,0,,10,ORTHODOX,40,FRONTFOOT FLICK,0,0,3,17,93,1,0,0,1,0,0,0,0,0
+422,4,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,172471,-67.07,31.44,1,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,4,17,94,1,0,0,1,0,0,0,0,0
+423,5,407,2,1,India,Virat Kohli,Keshav Maharaj,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,172473,-38.52,25.91,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,5,17,94,1,0,0,1,0,0,0,0,0
+424,6,407,2,1,India,Virat Kohli,Keshav Maharaj,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,172474,89.02,15.32,0,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,6,17,94,1,0,0,1,0,0,0,0,0
+425,1,407,2,1,India,Shikhar Dhawan,Lungisani Ngidi,,19,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,172475,146.57,-31.18,2,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,1,18,96,1,1,0,1,0,0,0,0,0
+426,2,407,2,1,India,Shikhar Dhawan,Lungisani Ngidi,,19,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.2,2,1,0,172477,162.69,126.75,4,0,,8,OFF CUTTER,15,LOFTED COVER DRIVE,0,0,2,18,100,1,0,1,2,0,0,1,0,0
+427,3,407,2,1,India,Shikhar Dhawan,Lungisani Ngidi,,19,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,172481,54.03,13.48,0,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,3,18,100,1,0,0,2,0,0,0,0,0
+428,4,407,2,1,India,Shikhar Dhawan,Lungisani Ngidi,,19,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,18.4,2,1,1,172484,54.03,13.48,1,0,,36,BOUNCER,105,LEFT ALONE,1,0,4,18,101,1,0,0,2,0,0,0,0,0
+429,5,407,2,1,India,Shikhar Dhawan,Lungisani Ngidi,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,172485,54.49,-89.65,1,0,,30,ANGLED ACROSS,58,BACKFOOT PULL SHOT,0,0,5,18,102,1,0,0,2,0,0,0,0,0
+430,6,407,2,1,India,Virat Kohli,Lungisani Ngidi,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,2,1,0,172487,-75.82,-13.68,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,6,18,102,1,0,0,2,0,0,0,0,0
+431,7,407,2,1,India,Virat Kohli,Lungisani Ngidi,,19,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.6,2,1,0,172489,-81.80,-9.54,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,7,18,102,1,0,0,2,0,0,0,0,0
+432,1,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,20,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.1,2,1,0,172496,-55.10,-30.72,0,0,,10,ORTHODOX,54,LEG GLANCE,0,0,1,19,102,1,1,0,2,0,0,0,0,0
+433,2,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,20,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.2,2,1,0,172498,67.84,14.86,1,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,2,19,103,1,0,0,2,0,0,0,0,0
+434,3,407,2,1,India,Virat Kohli,Keshav Maharaj,,20,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.3,2,1,0,172500,46.66,77.94,0,0,,10,ORTHODOX,47,FRONTFOOT ON DRIVE,0,0,3,19,103,1,0,0,2,0,0,0,0,0
+435,4,407,2,1,India,Virat Kohli,Keshav Maharaj,,20,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.4,2,1,0,172503,46.66,77.94,0,0,,10,ORTHODOX,40,FRONTFOOT FLICK,0,0,4,19,103,1,0,0,2,0,0,0,0,0
+436,5,407,2,1,India,Virat Kohli,Keshav Maharaj,,20,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.5,2,1,0,172504,-88.71,129.97,1,0,,10,ORTHODOX,84,FRONTFOOT OFF DRIVE,0,0,5,19,104,1,0,0,2,0,0,0,0,0
+437,6,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,20,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.6,2,1,0,172506,-66.61,-27.96,0,0,,10,ORTHODOX,37,STEP DOWN FLICK,0,0,6,19,104,1,0,0,2,0,0,0,0,0
+438,1,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,21,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,20.1,2,1,1,172507,-66.61,-27.96,1,0,,34,CHINAMAN,54,LEG GLANCE,0,0,1,20,105,1,1,0,2,0,0,0,0,0
+439,2,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,21,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,20.1,2,1,0,172508,-48.19,33.74,0,0,,34,CHINAMAN,97,BACKFOOT PUSH,0,0,2,20,105,1,0,0,2,0,0,0,0,0
+440,3,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,21,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,20.2,2,1,0,172509,100.99,22.23,1,0,,34,CHINAMAN,40,FRONTFOOT FLICK,0,0,3,20,106,1,0,0,2,0,0,0,0,0
+441,4,407,2,1,India,Shikhar Dhawan,Tabraiz Shamsi,,21,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,20.3,2,1,0,172510,-130.61,119.84,2,0,,34,CHINAMAN,58,BACKFOOT PULL SHOT,0,0,4,20,108,1,0,0,2,0,0,0,0,0
+442,5,407,2,1,India,Shikhar Dhawan,Tabraiz Shamsi,,21,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,20.4,2,1,0,172511,-156.85,-62.49,4,0,,34,CHINAMAN,55,SWEEP SHOT,0,0,5,20,112,1,0,0,2,0,0,0,0,0
+443,6,407,2,1,India,Shikhar Dhawan,Tabraiz Shamsi,,21,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,20.5,2,1,0,172513,1.08,52.16,0,0,,34,CHINAMAN,97,BACKFOOT PUSH,0,0,6,20,112,1,0,0,2,0,0,0,0,0
+444,7,407,2,1,India,Shikhar Dhawan,Tabraiz Shamsi,,21,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,20.6,2,1,0,172514,122.17,-14.14,1,0,,34,CHINAMAN,36,CUT SHOT,0,0,7,20,113,1,0,0,2,0,0,0,0,0
+445,1,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,22,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,21.1,2,1,0,172518,67.38,-23.35,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,1,21,113,1,1,0,2,0,0,0,0,0
+446,2,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,22,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,21.2,2,1,0,172519,-143.04,23.61,1,0,,10,ORTHODOX,95,SLOG SWEEP,0,0,2,21,114,1,0,0,2,0,0,0,0,0
+447,3,407,2,1,India,Virat Kohli,Keshav Maharaj,,22,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,21.3,2,1,0,172521,82.57,26.83,0,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,3,21,114,1,0,0,2,0,0,0,0,0
+448,4,407,2,1,India,Virat Kohli,Keshav Maharaj,,22,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,21.4,2,1,0,172523,39.75,-46.83,1,0,,23,ARM BALL,54,LEG GLANCE,0,0,4,21,115,1,0,0,2,0,0,0,0,0
+449,5,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,22,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,21.5,2,1,0,172524,72.44,-24.73,1,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,5,21,116,1,0,0,2,0,0,0,0,0
+450,6,407,2,1,India,Virat Kohli,Keshav Maharaj,,22,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,21.6,2,1,0,172526,6.14,153.45,1,0,,10,ORTHODOX,69,STEP DOWN LOFTED STRAIGHT DRIVE,0,0,6,21,117,1,0,0,2,0,0,0,0,0
+451,1,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,23,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,22.1,2,1,1,172529,6.14,153.45,1,0,,34,CHINAMAN,105,LEFT ALONE,0,0,1,22,118,1,1,0,2,0,0,0,0,0
+452,2,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,23,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,22.1,2,1,0,172531,152.10,28.68,2,0,,34,CHINAMAN,95,SLOG SWEEP,0,0,2,22,120,1,0,0,2,0,0,0,0,0
+453,3,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,23,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,22.2,2,1,0,172533,-20.56,174.63,1,0,,34,CHINAMAN,53,FRONTFOOT STRAIGHT DRIVE,0,0,3,22,121,1,0,0,2,0,0,0,0,0
+454,4,407,2,1,India,Shikhar Dhawan,Tabraiz Shamsi,,23,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,22.3,2,1,0,172535,132.30,-8.16,1,0,,34,CHINAMAN,36,CUT SHOT,0,0,4,22,122,1,0,0,2,0,0,0,0,0
+455,5,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,23,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,22.4,2,1,0,172536,63.23,46.63,0,0,,34,CHINAMAN,27,FORWARD PUSH,0,0,5,22,122,1,0,0,2,0,0,0,0,0
+456,6,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,23,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,22.5,2,1,0,172538,147.95,77.48,2,0,,34,CHINAMAN,95,SLOG SWEEP,0,0,6,22,124,1,0,0,2,0,0,0,0,0
+457,7,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,23,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,22.6,2,1,0,172540,89.94,126.75,1,0,,34,CHINAMAN,47,FRONTFOOT ON DRIVE,0,0,7,22,125,1,0,0,2,0,0,0,0,0
+458,1,407,2,1,India,Virat Kohli,Keshav Maharaj,,24,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,23.1,2,1,0,172544,60.93,30.98,0,0,,10,ORTHODOX,50,BACKFOOT DEFENCE,0,0,1,23,125,1,1,0,2,0,0,0,0,0
+459,2,407,2,1,India,Virat Kohli,Keshav Maharaj,,24,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,23.2,2,1,0,172546,122.63,33.74,1,0,,10,ORTHODOX,58,BACKFOOT PULL SHOT,0,0,2,23,126,1,0,0,2,0,0,0,0,0
+460,3,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,24,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,23.3,2,1,0,172547,56.79,27.29,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,3,23,126,1,0,0,2,0,0,0,0,0
+461,4,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,24,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,23.4,2,1,0,172548,137.36,32.82,1,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,4,23,127,1,0,0,2,0,0,0,0,0
+462,5,407,2,1,India,Virat Kohli,Keshav Maharaj,,24,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,23.5,2,1,0,172550,-103.44,21.31,1,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,5,23,128,1,0,0,2,0,0,0,0,0
+463,6,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,24,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,23.6,2,1,0,172552,-84.10,27.29,1,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,6,23,129,1,0,0,2,0,0,0,0,0
+464,1,407,2,1,India,Shikhar Dhawan,Tabraiz Shamsi,,25,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,24.1,2,1,0,172557,-56.48,141.02,1,0,,34,CHINAMAN,101,BACKFOOT ON DRIVE,0,0,1,24,130,1,1,0,2,0,0,0,0,0
+465,2,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,25,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,24.2,2,1,0,172558,147.49,-62.03,4,0,,34,CHINAMAN,58,BACKFOOT PULL SHOT,0,0,2,24,134,1,0,0,2,0,0,0,0,0
+466,3,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,25,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,24.3,2,1,0,172559,76.59,115.70,1,0,,34,CHINAMAN,33,CHIP SHOT,0,0,3,24,135,1,0,0,2,0,0,0,0,0
+467,4,407,2,1,India,Shikhar Dhawan,Tabraiz Shamsi,,25,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,24.4,2,1,0,172561,-67.99,131.35,1,0,,34,CHINAMAN,101,BACKFOOT ON DRIVE,0,0,4,24,136,1,0,0,2,0,0,0,0,0
+468,5,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,25,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,24.5,2,1,0,172562,28.70,-52.82,1,0,,34,CHINAMAN,54,LEG GLANCE,0,0,5,24,137,1,0,0,2,0,0,0,0,0
+469,6,407,2,1,India,Shikhar Dhawan,Tabraiz Shamsi,,25,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,24.6,2,1,0,172564,-54.64,52.16,0,0,,34,CHINAMAN,55,SWEEP SHOT,0,0,6,24,137,1,0,0,2,0,0,0,0,0
+470,1,407,2,1,India,Virat Kohli,Keshav Maharaj,,26,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,25.1,2,1,0,172568,67.84,148.39,1,0,,10,ORTHODOX,47,FRONTFOOT ON DRIVE,0,0,1,25,138,1,1,0,2,0,0,0,0,0
+471,2,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,26,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,25.2,2,1,0,172570,65.54,51.24,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,2,25,138,1,0,0,2,0,0,0,0,0
+472,3,407,2,1,India,Shikhar Dhawan,Keshav Maharaj,,26,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,25.3,2,1,0,172571,65.54,51.24,0,0,,10,ORTHODOX,36,CUT SHOT,0,0,3,25,138,2,1,0,2,0,0,0,0,0
+473,4,407,2,1,India,Rishabh Pant,Keshav Maharaj,,26,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,25.4,2,1,0,172578,-55.56,54.46,0,0,,10,ORTHODOX,74,STEP DOWN ON DRIVE,0,0,4,25,138,2,2,0,2,0,0,0,0,0
+474,5,407,2,1,India,Rishabh Pant,Keshav Maharaj,,26,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,25.5,2,1,0,172579,-119.10,-27.04,1,0,,10,ORTHODOX,58,BACKFOOT PULL SHOT,0,0,5,25,139,2,0,0,2,0,0,0,0,0
+475,6,407,2,1,India,Virat Kohli,Keshav Maharaj,,26,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,25.6,2,1,0,172581,100.53,122.14,1,0,,10,ORTHODOX,47,FRONTFOOT ON DRIVE,0,0,6,25,140,2,0,0,2,0,0,0,0,0
+476,1,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,27,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,26.1,2,1,0,172583,135.06,6.12,1,0,,34,CHINAMAN,40,FRONTFOOT FLICK,0,0,1,26,141,2,1,0,2,0,0,0,0,0
+477,2,407,2,1,India,Rishabh Pant,Tabraiz Shamsi,,27,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,26.2,2,1,0,172587,67.38,-2.63,1,0,,31,WRONG ONE,49,FORWARD DEFENCE,0,0,2,26,142,2,0,0,2,0,0,0,0,0
+478,3,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,27,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,26.3,2,1,1,172589,67.38,-2.63,1,0,,34,CHINAMAN,105,LEFT ALONE,0,0,3,26,143,2,0,0,2,0,0,0,0,0
+479,4,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,27,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,26.3,2,1,0,172590,-16.88,186.14,2,0,,34,CHINAMAN,53,FRONTFOOT STRAIGHT DRIVE,0,0,4,26,145,2,0,0,2,0,0,0,0,0
+480,5,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,27,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,26.4,2,1,0,172591,78.43,59.53,0,0,,34,CHINAMAN,27,FORWARD PUSH,0,0,5,26,145,2,0,0,2,0,0,0,0,0
+481,6,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,27,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,26.5,2,1,0,172592,120.79,-7.70,1,0,,34,CHINAMAN,40,FRONTFOOT FLICK,0,0,6,26,146,2,0,0,2,0,0,0,0,0
+482,7,407,2,1,India,Rishabh Pant,Tabraiz Shamsi,,27,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,26.6,2,1,0,172594,-27.01,25.45,0,0,,34,CHINAMAN,50,BACKFOOT DEFENCE,0,0,7,26,146,2,0,0,2,0,0,0,0,0
+483,1,407,2,1,India,Virat Kohli,Keshav Maharaj,,28,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,27.1,2,1,1,172597,-27.01,25.45,1,0,,10,ORTHODOX,105,LEFT ALONE,0,0,1,27,147,2,1,0,2,0,0,0,0,0
+484,2,407,2,1,India,Virat Kohli,Keshav Maharaj,,28,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,27.1,2,1,0,172599,68.76,-65.25,1,0,,23,ARM BALL,54,LEG GLANCE,0,0,2,27,148,2,0,0,2,0,0,0,0,0
+485,3,407,2,1,India,Rishabh Pant,Keshav Maharaj,,28,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,27.2,2,1,0,172602,-79.96,51.70,1,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,3,27,149,2,0,0,2,0,0,0,0,0
+486,4,407,2,1,India,Virat Kohli,Keshav Maharaj,,28,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,27.3,2,1,0,172603,-29.77,55.38,0,0,,10,ORTHODOX,84,FRONTFOOT OFF DRIVE,0,0,4,27,149,2,0,0,2,0,0,0,0,0
+487,5,407,2,1,India,Virat Kohli,Keshav Maharaj,,28,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,27.4,2,1,0,172604,113.42,10.72,1,0,,10,ORTHODOX,40,FRONTFOOT FLICK,0,0,5,27,150,2,0,1,3,0,0,0,0,0
+488,6,407,2,1,India,Rishabh Pant,Keshav Maharaj,,28,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,27.5,2,1,0,172605,-121.40,70.12,1,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,6,27,151,2,0,0,3,0,0,0,0,0
+489,7,407,2,1,India,Virat Kohli,Keshav Maharaj,,28,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,27.6,2,1,0,172606,-92.85,129.05,1,0,,10,ORTHODOX,84,FRONTFOOT OFF DRIVE,0,0,7,27,152,2,0,0,3,0,0,0,0,0
+490,1,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,29,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,28.1,2,1,0,172608,65.08,34.66,0,0,,34,CHINAMAN,49,FORWARD DEFENCE,0,0,1,28,152,2,1,0,3,0,0,0,0,0
+491,2,407,2,1,India,Virat Kohli,Tabraiz Shamsi,,29,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,28.2,2,1,0,172609,65.08,34.66,0,0,,34,CHINAMAN,55,SWEEP SHOT,0,0,2,28,152,3,2,0,3,0,0,0,0,0
+492,3,407,2,1,India,Shreyas Iyer,Tabraiz Shamsi,,29,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,28.3,2,1,0,172614,139.21,27.76,1,0,,31,WRONG ONE,40,FRONTFOOT FLICK,0,0,3,28,153,3,3,0,3,0,0,0,0,0
+493,4,407,2,1,India,Rishabh Pant,Tabraiz Shamsi,,29,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,28.4,2,1,0,172616,-51.87,-29.80,0,0,,34,CHINAMAN,55,SWEEP SHOT,0,0,4,28,153,3,0,0,3,0,0,0,0,0
+494,5,407,2,1,India,Rishabh Pant,Tabraiz Shamsi,,29,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,28.5,2,1,0,172618,32.38,-24.27,0,0,,34,CHINAMAN,44,GLIDE,0,0,5,28,153,3,0,0,3,0,0,0,0,0
+495,6,407,2,1,India,Rishabh Pant,Tabraiz Shamsi,,29,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,28.6,2,1,0,172619,32.38,-24.27,0,0,,34,CHINAMAN,49,FORWARD DEFENCE,0,0,6,28,153,3,0,0,3,0,0,0,0,0
+496,1,407,2,1,India,Shreyas Iyer,Marco Jansen,,30,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,29.1,2,1,0,172624,-45.43,33.74,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,1,29,153,3,1,0,3,0,0,0,0,0
+497,2,407,2,1,India,Shreyas Iyer,Marco Jansen,,30,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,29.2,2,1,0,172625,-117.72,37.88,1,0,,39,ANGLED IN,51,FRONTFOOT COVERDRIVE,0,0,2,29,154,3,0,0,3,0,0,0,0,0
+498,3,407,2,1,India,Rishabh Pant,Marco Jansen,,30,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,29.3,2,1,0,172626,82.11,-71.70,1,0,,39,ANGLED IN,44,GLIDE,0,0,3,29,155,3,0,0,3,0,0,0,0,0
+499,4,407,2,1,India,Shreyas Iyer,Marco Jansen,,30,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,29.4,2,1,0,172627,-47.73,-44.99,1,0,,39,ANGLED IN,44,GLIDE,0,0,4,29,156,3,0,0,3,0,0,0,0,0
+500,5,407,2,1,India,Rishabh Pant,Marco Jansen,,30,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,29.5,2,1,0,172629,-33.92,71.50,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,5,29,156,3,0,0,3,0,0,0,0,0
+501,6,407,2,1,India,Rishabh Pant,Marco Jansen,,30,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,29.6,2,1,0,172631,-59.70,49.40,0,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,6,29,156,3,0,0,3,0,0,0,0,0
+502,1,407,2,1,India,Shreyas Iyer,Tabraiz Shamsi,,31,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,30.1,2,1,0,172632,-119.10,59.99,1,0,,34,CHINAMAN,52,BACKFOOT COVERDRIVE,0,0,1,30,157,3,1,0,3,0,0,0,0,0
+503,2,407,2,1,India,Rishabh Pant,Tabraiz Shamsi,,31,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,30.2,2,1,0,172633,-142.58,-29.80,1,0,,34,CHINAMAN,55,SWEEP SHOT,0,0,2,30,158,3,0,0,3,0,0,0,0,0
+504,3,407,2,1,India,Shreyas Iyer,Tabraiz Shamsi,,31,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,30.3,2,1,0,172636,79.81,-22.43,0,0,,34,CHINAMAN,40,FRONTFOOT FLICK,0,0,3,30,158,3,0,0,3,0,0,0,0,0
+505,4,407,2,1,India,Shreyas Iyer,Tabraiz Shamsi,,31,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,30.4,2,1,0,172638,135.52,-9.08,1,0,,23,ARM BALL,40,FRONTFOOT FLICK,0,0,4,30,159,3,0,0,3,0,0,0,0,0
+506,5,407,2,1,India,Rishabh Pant,Tabraiz Shamsi,,31,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,30.5,2,1,0,172640,70.60,60.45,0,0,,34,CHINAMAN,51,FRONTFOOT COVERDRIVE,0,0,5,30,159,3,0,0,3,0,0,0,0,0
+507,6,407,2,1,India,Rishabh Pant,Tabraiz Shamsi,,31,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,30.6,2,1,0,172643,-108.97,-47.76,1,0,,34,CHINAMAN,55,SWEEP SHOT,0,0,6,30,160,3,0,0,3,0,0,0,0,0
+508,1,407,2,1,India,Rishabh Pant,Marco Jansen,,32,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,31.1,2,1,0,172645,-38.52,199.96,4,0,,39,ANGLED IN,53,FRONTFOOT STRAIGHT DRIVE,0,0,1,31,164,3,1,0,3,0,0,0,0,0
+509,2,407,2,1,India,Rishabh Pant,Marco Jansen,,32,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,31.2,2,1,0,172647,-75.82,32.82,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,2,31,165,3,0,0,3,0,0,0,0,0
+510,3,407,2,1,India,Shreyas Iyer,Marco Jansen,,32,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,31.3,2,1,0,172650,125.39,-31.64,1,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,3,31,166,3,0,0,3,0,0,0,0,0
+511,4,407,2,1,India,Rishabh Pant,Marco Jansen,,32,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,31.4,2,1,0,172652,125.39,-31.64,0,0,,38,STRAIGHT BALL,15,LOFTED COVER DRIVE,0,0,4,31,166,3,0,0,3,0,0,0,0,0
+512,5,407,2,1,India,Rishabh Pant,Marco Jansen,,32,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,31.5,2,1,0,172655,-122.78,-32.10,1,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,5,31,167,3,0,0,3,0,0,0,0,0
+513,6,407,2,1,India,Shreyas Iyer,Marco Jansen,,32,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,31.6,2,1,0,172656,-121.86,68.73,1,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,6,31,168,3,0,0,3,0,0,0,0,0
+514,1,407,2,1,India,Shreyas Iyer,Andile Phehlukwayo,,33,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,32.1,2,1,0,172661,79.81,85.77,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,1,32,169,3,1,0,3,0,0,0,0,0
+515,2,407,2,1,India,Rishabh Pant,Andile Phehlukwayo,,33,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,32.2,2,1,0,172664,-22.87,-27.50,1,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,2,32,170,3,0,0,3,0,0,0,0,0
+516,3,407,2,1,India,Shreyas Iyer,Andile Phehlukwayo,,33,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,32.3,2,1,0,172666,47.58,-53.74,0,0,,39,ANGLED IN,54,LEG GLANCE,0,0,3,32,170,3,0,0,3,0,0,0,0,0
+517,4,407,2,1,India,Shreyas Iyer,Andile Phehlukwayo,,33,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,32.4,2,1,0,172668,121.71,-99.32,4,0,,39,ANGLED IN,54,LEG GLANCE,0,0,4,32,174,3,0,0,3,0,0,0,0,0
+518,5,407,2,1,India,Shreyas Iyer,Andile Phehlukwayo,,33,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,32.5,2,1,0,172671,-124.16,-51.44,2,0,,38,STRAIGHT BALL,59,FRONTFOOT SQUARE DRIVE,0,0,5,32,176,3,0,0,3,0,0,0,0,0
+519,6,407,2,1,India,Shreyas Iyer,Andile Phehlukwayo,,33,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,32.6,2,1,0,172674,121.71,-23.81,1,0,,38,STRAIGHT BALL,58,BACKFOOT PULL SHOT,0,0,6,32,177,3,0,0,3,0,0,0,0,0
+520,1,407,2,1,India,Shreyas Iyer,Lungisani Ngidi,,34,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,33.1,2,1,0,172677,-61.08,-60.65,1,0,,39,ANGLED IN,44,GLIDE,0,0,1,33,178,3,1,0,3,0,0,0,0,0
+521,2,407,2,1,India,Rishabh Pant,Lungisani Ngidi,,34,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,33.2,2,1,0,172680,-79.50,-87.35,1,0,,38,STRAIGHT BALL,54,LEG GLANCE,0,0,2,33,179,3,0,0,3,0,0,0,0,0
+522,3,407,2,1,India,Shreyas Iyer,Lungisani Ngidi,,34,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,33.3,2,1,0,172683,-69.37,-75.84,1,0,,39,ANGLED IN,44,GLIDE,0,0,3,33,180,3,0,0,3,0,0,0,0,0
+523,4,407,2,1,India,Rishabh Pant,Lungisani Ngidi,,34,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,33.4,2,1,0,172684,-139.82,-18.29,1,0,,30,ANGLED ACROSS,58,BACKFOOT PULL SHOT,0,0,4,33,181,3,0,0,3,0,0,0,0,0
+524,5,407,2,1,India,Shreyas Iyer,Lungisani Ngidi,,34,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,33.5,2,1,0,172687,-139.82,-18.29,0,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,5,33,181,4,1,0,3,0,0,0,0,0
+525,6,407,2,1,India,Venkatesh Iyer,Lungisani Ngidi,,34,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,33.6,2,1,0,172698,-139.82,-18.29,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,6,33,181,4,2,0,3,0,0,0,0,0
+526,1,407,2,1,India,Rishabh Pant,Andile Phehlukwayo,,35,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,1,Stumped,WICKET,1,34.1,2,1,1,172702,-139.82,-18.29,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,1,34,182,5,3,0,3,0,0,0,0,0
+527,2,407,2,1,India,Ravichandran Ashwin,Andile Phehlukwayo,,35,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,34.1,2,1,0,172706,89.94,51.70,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,2,34,183,5,4,0,3,0,0,0,0,0
+528,3,407,2,1,India,Venkatesh Iyer,Andile Phehlukwayo,,35,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,34.1,2,1,0,172707,89.94,51.70,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,3,34,183,5,0,0,3,0,0,0,0,0
+529,4,407,2,1,India,Venkatesh Iyer,Andile Phehlukwayo,,35,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,34.2,2,1,0,172708,89.94,51.70,1,0,,39,ANGLED IN,35,LATE CUT,0,0,4,34,184,5,0,0,3,0,0,0,0,0
+530,5,407,2,1,India,Ravichandran Ashwin,Andile Phehlukwayo,,35,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,34.3,2,1,0,172710,89.94,51.70,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,5,34,184,5,0,0,3,0,0,0,0,0
+531,6,407,2,1,India,Ravichandran Ashwin,Andile Phehlukwayo,,35,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,34.4,2,1,0,172712,89.94,51.70,1,0,,38,STRAIGHT BALL,52,BACKFOOT COVERDRIVE,0,0,6,34,185,5,0,0,3,0,0,0,0,0
+532,7,407,2,1,India,Venkatesh Iyer,Andile Phehlukwayo,,35,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,34.5,2,1,0,172714,89.94,51.70,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,7,34,185,5,0,0,3,0,0,0,0,0
+533,1,407,2,1,India,Ravichandran Ashwin,Lungisani Ngidi,,36,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,35.1,2,1,0,172716,-85.03,-29.34,1,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,1,35,186,5,1,0,3,0,0,0,0,0
+534,2,407,2,1,India,Venkatesh Iyer,Lungisani Ngidi,,36,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,35.2,2,1,0,172717,67.84,-26.12,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,2,35,186,5,0,0,3,0,0,0,0,0
+535,3,407,2,1,India,Venkatesh Iyer,Lungisani Ngidi,,36,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,35.3,2,1,0,172718,125.85,-15.99,1,0,,8,OFF CUTTER,59,FRONTFOOT SQUARE DRIVE,0,0,3,35,187,5,0,0,3,0,0,0,0,0
+536,4,407,2,1,India,Ravichandran Ashwin,Lungisani Ngidi,,36,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,35.4,2,1,0,172719,-79.50,14.40,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,4,35,188,5,0,0,3,0,0,0,0,0
+537,5,407,2,1,India,Venkatesh Iyer,Lungisani Ngidi,,36,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,35.5,2,1,0,172722,-141.66,26.37,0,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,5,35,188,6,1,0,3,0,0,0,0,0
+538,6,407,2,1,India,Shardul Thakur,Lungisani Ngidi,,36,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,35.6,2,1,0,172724,-74.90,21.31,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,6,35,188,6,2,0,3,0,0,0,0,0
+539,1,407,2,1,India,Ravichandran Ashwin,Andile Phehlukwayo,,37,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,36.1,2,1,0,172729,49.42,95.90,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,1,36,188,6,3,0,3,0,0,0,0,0
+540,2,407,2,1,India,Ravichandran Ashwin,Andile Phehlukwayo,,37,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,36.2,2,1,0,172731,135.98,60.45,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,2,36,189,6,0,0,3,0,0,0,0,0
+541,3,407,2,1,India,Shardul Thakur,Andile Phehlukwayo,,37,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,36.3,2,1,0,172732,-60.62,16.24,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,3,36,189,6,0,0,3,0,0,0,0,0
+542,4,407,2,1,India,Shardul Thakur,Andile Phehlukwayo,,37,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,36.4,2,1,0,172734,66.00,50.78,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,4,36,189,6,0,0,3,0,0,0,0,0
+543,5,407,2,1,India,Shardul Thakur,Andile Phehlukwayo,,37,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,36.5,2,1,0,172736,-146.72,57.22,1,0,,39,ANGLED IN,51,FRONTFOOT COVERDRIVE,0,0,5,36,190,6,0,0,3,0,0,0,0,0
+544,6,407,2,1,India,Ravichandran Ashwin,Andile Phehlukwayo,,37,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,36.6,2,1,0,172738,-75.82,42.49,0,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,6,36,190,6,0,0,3,0,0,0,0,0
+545,1,407,2,1,India,Shardul Thakur,Lungisani Ngidi,,38,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,37.1,2,1,1,172742,-75.82,42.49,1,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,1,37,191,6,1,0,3,0,0,0,0,0
+546,2,407,2,1,India,Shardul Thakur,Lungisani Ngidi,,38,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,37.1,2,1,0,172743,61.39,-140.76,4,0,,39,ANGLED IN,54,LEG GLANCE,0,0,2,37,195,6,0,0,3,0,0,0,0,0
+547,3,407,2,1,India,Shardul Thakur,Lungisani Ngidi,,38,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,37.2,2,1,0,172745,35.15,-33.94,1,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,3,37,196,6,0,0,3,0,0,0,0,0
+548,4,407,2,1,India,Ravichandran Ashwin,Lungisani Ngidi,,38,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,37.3,2,1,0,172747,-67.99,1.97,0,0,,8,OFF CUTTER,36,CUT SHOT,0,0,4,37,196,6,0,0,3,0,0,0,0,0
+549,5,407,2,1,India,Ravichandran Ashwin,Lungisani Ngidi,,38,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,37.4,2,1,0,172750,-68.45,52.16,0,0,,8,OFF CUTTER,51,FRONTFOOT COVERDRIVE,0,0,5,37,196,6,0,0,3,0,0,0,0,0
+550,6,407,2,1,India,Ravichandran Ashwin,Lungisani Ngidi,,38,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,37.5,2,1,0,172753,-62.46,-88.27,1,0,,8,OFF CUTTER,44,GLIDE,0,0,6,37,197,6,0,0,3,0,0,0,0,0
+551,7,407,2,1,India,Shardul Thakur,Lungisani Ngidi,,38,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,37.6,2,1,0,172754,-81.80,-20.13,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,7,37,197,6,0,0,3,0,0,0,0,0
+552,1,407,2,1,India,Ravichandran Ashwin,Andile Phehlukwayo,,39,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,38.1,2,1,0,172757,-153.17,-27.04,1,0,,39,ANGLED IN,36,CUT SHOT,0,0,1,38,198,6,1,0,3,0,0,0,0,0
+553,2,407,2,1,India,Shardul Thakur,Andile Phehlukwayo,,39,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,38.2,2,1,0,172759,143.81,42.49,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,2,38,199,6,0,0,3,0,0,0,0,0
+554,3,407,2,1,India,Ravichandran Ashwin,Andile Phehlukwayo,,39,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,38.3,2,1,0,172762,143.81,42.49,0,0,,43,NIPBACKER,59,FRONTFOOT SQUARE DRIVE,0,0,3,38,199,7,1,0,3,0,0,0,0,0
+555,4,407,2,1,India,Bhuvneshwar Kumar,Andile Phehlukwayo,,39,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,38.4,2,1,0,172764,55.41,86.69,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,4,38,199,7,2,0,3,0,0,0,0,0
+556,5,407,2,1,India,Bhuvneshwar Kumar,Andile Phehlukwayo,,39,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,38.5,2,1,0,172766,-61.54,35.12,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,5,38,199,7,0,0,3,0,0,0,0,0
+557,6,407,2,1,India,Bhuvneshwar Kumar,Andile Phehlukwayo,,39,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,38.6,2,1,0,172768,-137.97,-30.72,1,0,,38,STRAIGHT BALL,97,BACKFOOT PUSH,0,0,6,38,200,7,0,1,4,0,0,0,1,0
+558,1,407,2,1,India,Bhuvneshwar Kumar,Lungisani Ngidi,,40,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,39.1,2,1,1,172771,-137.97,-30.72,1,0,,38,STRAIGHT BALL,105,LEFT ALONE,0,0,1,39,201,7,1,0,4,0,0,0,0,0
+559,2,407,2,1,India,Bhuvneshwar Kumar,Lungisani Ngidi,,40,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,39.1,2,1,0,172772,-107.59,55.38,1,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,2,39,202,7,0,0,4,0,0,0,0,0
+560,3,407,2,1,India,Shardul Thakur,Lungisani Ngidi,,40,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,39.2,2,1,0,172775,-22.87,67.81,0,0,,39,ANGLED IN,53,FRONTFOOT STRAIGHT DRIVE,0,0,3,39,202,7,0,0,4,0,0,0,0,0
+561,4,407,2,1,India,Shardul Thakur,Lungisani Ngidi,,40,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,39.3,2,1,0,172776,-22.87,67.81,0,0,,8,OFF CUTTER,49,FORWARD DEFENCE,0,0,4,39,202,7,0,0,4,0,0,0,0,0
+562,5,407,2,1,India,Shardul Thakur,Lungisani Ngidi,,40,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,39.4,2,1,0,172777,-137.51,44.79,1,0,,38,STRAIGHT BALL,52,BACKFOOT COVERDRIVE,0,0,5,39,203,7,0,0,4,0,0,0,0,0
+563,6,407,2,1,India,Bhuvneshwar Kumar,Lungisani Ngidi,,40,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,39.5,2,1,0,172780,-52.33,13.48,0,0,,8,OFF CUTTER,49,FORWARD DEFENCE,0,0,6,39,203,7,0,0,4,0,0,0,0,0
+564,7,407,2,1,India,Bhuvneshwar Kumar,Lungisani Ngidi,,40,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,39.6,2,1,0,172782,-67.07,-13.68,0,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,7,39,203,7,0,0,4,0,0,0,0,0
+565,1,407,2,1,India,Shardul Thakur,Andile Phehlukwayo,,41,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,40.1,2,1,0,172786,47.58,-142.60,4,0,,39,ANGLED IN,54,LEG GLANCE,0,0,1,40,207,7,1,0,4,0,0,0,0,0
+566,2,407,2,1,India,Shardul Thakur,Andile Phehlukwayo,,41,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,40.2,2,1,0,172788,-22.87,129.05,0,0,,39,ANGLED IN,53,FRONTFOOT STRAIGHT DRIVE,0,0,2,40,207,7,0,0,4,0,0,0,0,0
+567,3,407,2,1,India,Shardul Thakur,Andile Phehlukwayo,,41,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,40.3,2,1,0,172789,52.18,55.38,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,3,40,207,7,0,0,4,0,0,0,0,0
+568,4,407,2,1,India,Shardul Thakur,Andile Phehlukwayo,,41,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,40.4,2,1,0,172791,-144.42,137.34,4,0,,39,ANGLED IN,51,FRONTFOOT COVERDRIVE,0,0,4,40,211,7,0,0,4,0,0,0,0,0
+569,5,407,2,1,India,Shardul Thakur,Andile Phehlukwayo,,41,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,40.5,2,1,0,172793,45.74,15.32,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,5,40,211,7,0,0,4,0,0,0,0,0
+570,6,407,2,1,India,Shardul Thakur,Andile Phehlukwayo,,41,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,40.6,2,1,0,172795,45.74,15.32,0,0,,8,OFF CUTTER,44,GLIDE,0,0,6,40,211,7,0,0,4,0,0,0,0,0
+571,1,407,2,1,India,Bhuvneshwar Kumar,Marco Jansen,,42,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,41.1,2,1,0,172799,-73.97,11.18,1,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,1,41,212,7,1,0,4,0,0,0,0,0
+572,2,407,2,1,India,Shardul Thakur,Marco Jansen,,42,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,41.2,2,1,0,172800,-39.44,24.07,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,2,41,212,7,0,0,4,0,0,0,0,0
+573,3,407,2,1,India,Shardul Thakur,Marco Jansen,,42,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,41.3,2,1,0,172802,52.64,127.67,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,3,41,213,7,0,0,4,0,0,0,0,0
+574,4,407,2,1,India,Bhuvneshwar Kumar,Marco Jansen,,42,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,41.4,2,1,0,172804,-63.38,48.47,0,0,,8,OFF CUTTER,27,FORWARD PUSH,0,0,4,41,213,7,0,0,4,0,0,0,0,0
+575,5,407,2,1,India,Bhuvneshwar Kumar,Marco Jansen,,42,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,41.5,2,1,0,172807,65.54,140.10,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,5,41,214,7,0,0,4,0,0,0,0,0
+576,6,407,2,1,India,Shardul Thakur,Marco Jansen,,42,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,41.6,2,1,0,172809,-81.34,-15.99,0,0,,38,STRAIGHT BALL,59,FRONTFOOT SQUARE DRIVE,0,0,6,41,214,7,0,0,4,0,0,0,0,0
+577,1,407,2,1,India,Bhuvneshwar Kumar,Tabraiz Shamsi,,43,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,42.1,2,1,0,172811,-81.34,-15.99,0,0,,34,CHINAMAN,40,FRONTFOOT FLICK,0,0,1,42,214,7,1,0,4,0,0,0,0,0
+578,2,407,2,1,India,Bhuvneshwar Kumar,Tabraiz Shamsi,,43,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,42.2,2,1,0,172814,60.01,48.01,0,0,,34,CHINAMAN,27,FORWARD PUSH,0,0,2,42,214,8,2,0,4,0,0,0,0,0
+579,3,407,2,1,India,Jasprit Bumrah,Tabraiz Shamsi,,43,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,42.3,2,1,0,172818,73.36,53.08,0,0,,34,CHINAMAN,97,BACKFOOT PUSH,0,0,3,42,214,8,3,0,4,0,0,0,0,0
+580,4,407,2,1,India,Jasprit Bumrah,Tabraiz Shamsi,,43,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,42.4,2,1,0,172820,73.36,53.08,0,0,,31,WRONG ONE,105,LEFT ALONE,0,0,4,42,214,8,0,0,4,0,0,0,0,0
+581,5,407,2,1,India,Jasprit Bumrah,Tabraiz Shamsi,,43,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,42.5,2,1,0,172821,-51.41,10.72,0,0,,31,WRONG ONE,50,BACKFOOT DEFENCE,0,0,5,42,214,8,0,0,4,0,0,0,0,0
+582,6,407,2,1,India,Jasprit Bumrah,Tabraiz Shamsi,,43,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,42.6,2,1,0,172822,71.06,56.76,0,0,,34,CHINAMAN,97,BACKFOOT PUSH,0,0,6,42,214,8,0,0,4,0,0,0,0,0
+583,1,407,2,1,India,Shardul Thakur,Marco Jansen,,44,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,43.1,2,1,0,172826,83.49,55.38,0,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,1,43,214,8,1,0,4,0,0,0,0,0
+584,2,407,2,1,India,Shardul Thakur,Marco Jansen,,44,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,43.2,2,1,0,172828,151.18,53.08,1,0,,8,OFF CUTTER,58,BACKFOOT PULL SHOT,0,0,2,43,215,8,0,0,4,0,0,0,0,0
+585,3,407,2,1,India,Jasprit Bumrah,Marco Jansen,,44,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,43.3,2,1,1,172831,151.18,53.08,1,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,3,43,216,8,0,0,4,0,0,0,0,0
+586,4,407,2,1,India,Jasprit Bumrah,Marco Jansen,,44,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,43.3,2,1,0,172832,50.34,88.07,0,0,,38,STRAIGHT BALL,49,FORWARD DEFENCE,0,0,4,43,216,8,0,0,4,0,0,0,0,0
+587,5,407,2,1,India,Jasprit Bumrah,Marco Jansen,,44,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,43.4,2,1,0,172833,50.34,88.07,0,0,,30,ANGLED ACROSS,18,SLOG SHOT,0,0,5,43,216,8,0,0,4,0,0,0,0,0
+588,6,407,2,1,India,Jasprit Bumrah,Marco Jansen,,44,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,43.5,2,1,0,172836,106.51,109.71,2,0,,38,STRAIGHT BALL,47,FRONTFOOT ON DRIVE,0,0,6,43,218,8,0,0,4,0,0,0,0,0
+589,7,407,2,1,India,Jasprit Bumrah,Marco Jansen,,44,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,43.6,2,1,0,172838,-36.22,24.07,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,7,43,218,8,0,0,4,0,0,0,0,0
+590,1,407,2,1,India,Shardul Thakur,Tabraiz Shamsi,,45,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,44.1,2,1,0,172839,-29.31,166.81,1,0,,34,CHINAMAN,53,FRONTFOOT STRAIGHT DRIVE,0,0,1,44,219,8,1,0,4,0,0,0,0,0
+591,2,407,2,1,India,Jasprit Bumrah,Tabraiz Shamsi,,45,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,44.2,2,1,0,172840,-29.31,166.81,0,0,,34,CHINAMAN,55,SWEEP SHOT,0,0,2,44,219,8,0,0,4,0,0,0,0,0
+592,3,407,2,1,India,Jasprit Bumrah,Tabraiz Shamsi,,45,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,44.3,2,1,0,172842,107.44,13.02,1,0,,31,WRONG ONE,97,BACKFOOT PUSH,0,0,3,44,220,8,0,0,4,0,0,0,0,0
+593,4,407,2,1,India,Shardul Thakur,Tabraiz Shamsi,,45,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,44.4,2,1,0,172844,14.89,-92.42,2,0,,34,CHINAMAN,22,FRONTFOOT PADDLE SWEEP,0,0,4,44,222,8,0,0,4,0,0,0,0,0
+594,5,407,2,1,India,Shardul Thakur,Tabraiz Shamsi,,45,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,44.5,2,1,0,172846,66.00,51.24,0,0,,34,CHINAMAN,47,FRONTFOOT ON DRIVE,0,0,5,44,222,8,0,0,4,0,0,0,0,0
+595,6,407,2,1,India,Shardul Thakur,Tabraiz Shamsi,,45,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,44.6,2,1,0,172847,96.38,-70.78,2,0,,31,WRONG ONE,58,BACKFOOT PULL SHOT,0,0,6,44,224,8,0,0,4,0,0,0,0,0
+596,1,407,2,1,India,Jasprit Bumrah,Marco Jansen,,46,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,45.1,2,1,0,172849,61.85,-138.46,4,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,1,45,228,8,1,0,4,0,0,0,0,0
+597,2,407,2,1,India,Jasprit Bumrah,Marco Jansen,,46,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,45.2,2,1,0,172851,62.31,53.54,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,2,45,228,8,0,0,4,0,0,0,0,0
+598,3,407,2,1,India,Jasprit Bumrah,Marco Jansen,,46,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,45.3,2,1,0,172853,-87.33,-85.51,1,0,,8,OFF CUTTER,44,GLIDE,0,0,3,45,229,8,0,0,4,0,0,0,0,0
+599,4,407,2,1,India,Shardul Thakur,Marco Jansen,,46,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,45.4,2,1,0,172855,-62.00,93.60,0,0,,8,OFF CUTTER,84,FRONTFOOT OFF DRIVE,0,0,4,45,229,8,0,0,4,0,0,0,0,0
+600,5,407,2,1,India,Shardul Thakur,Marco Jansen,,46,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,45.5,2,1,0,172857,29.16,176.47,1,0,,39,ANGLED IN,53,FRONTFOOT STRAIGHT DRIVE,0,0,5,45,230,8,0,0,4,0,0,0,0,0
+601,6,407,2,1,India,Jasprit Bumrah,Marco Jansen,,46,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,45.6,2,1,0,172859,-53.72,82.55,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,6,45,230,8,0,0,4,0,0,0,0,0
+602,1,407,2,1,India,Shardul Thakur,Tabraiz Shamsi,,47,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,46.1,2,1,0,172861,160.38,11.18,1,0,,34,CHINAMAN,95,SLOG SWEEP,0,0,1,46,231,8,1,0,4,0,0,0,0,0
+603,2,407,2,1,India,Jasprit Bumrah,Tabraiz Shamsi,,47,2,2 (BY),2,0,0,0,0,1,2,0,0,1,0,0,0,0,,,0,46.2,2,1,1,172862,160.38,11.18,2,0,,34,CHINAMAN,84,FRONTFOOT OFF DRIVE,0,0,2,46,233,8,0,0,4,0,0,0,0,0
+604,3,407,2,1,India,Jasprit Bumrah,Tabraiz Shamsi,,47,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,46.3,2,1,0,172864,58.63,4.73,1,0,,34,CHINAMAN,50,BACKFOOT DEFENCE,0,0,3,46,234,8,0,0,4,0,0,0,0,0
+605,4,407,2,1,India,Shardul Thakur,Tabraiz Shamsi,,47,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,46.4,2,1,0,172866,-74.44,40.19,0,0,,34,CHINAMAN,52,BACKFOOT COVERDRIVE,0,0,4,46,234,8,0,0,4,0,0,0,0,0
+606,5,407,2,1,India,Shardul Thakur,Tabraiz Shamsi,,47,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,46.5,2,1,0,172868,122.63,-54.20,2,0,,34,CHINAMAN,55,SWEEP SHOT,0,0,5,46,236,8,0,0,4,0,0,0,0,0
+607,6,407,2,1,India,Shardul Thakur,Tabraiz Shamsi,,47,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,46.6,2,1,0,172869,-87.79,124.45,1,0,,34,CHINAMAN,84,FRONTFOOT OFF DRIVE,0,0,6,46,237,8,0,0,4,0,0,0,0,0
+608,1,407,2,1,India,Shardul Thakur,Lungisani Ngidi,,48,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,47.1,2,1,0,172872,154.40,53.54,1,0,,39,ANGLED IN,18,SLOG SHOT,0,0,1,47,238,8,1,0,4,0,0,0,0,0
+609,2,407,2,1,India,Jasprit Bumrah,Lungisani Ngidi,,48,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,47.2,2,1,0,172873,-67.99,135.96,1,0,,8,OFF CUTTER,5,LOFTED OFF DRIVE,0,0,2,47,239,8,0,0,4,0,0,0,0,0
+610,3,407,2,1,India,Shardul Thakur,Lungisani Ngidi,,48,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,47.3,2,1,0,172875,-159.15,133.65,4,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,3,47,243,8,0,0,4,0,0,0,0,0
+611,4,407,2,1,India,Shardul Thakur,Lungisani Ngidi,,48,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,47.4,2,1,0,172877,-33.92,-140.30,4,0,,8,OFF CUTTER,11,LOFTED ON DRIVE,0,0,4,47,247,8,0,0,4,0,0,0,0,0
+612,5,407,2,1,India,Shardul Thakur,Lungisani Ngidi,,48,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,47.5,2,1,0,172879,166.83,-46.83,6,0,,8,OFF CUTTER,18,SLOG SHOT,0,0,5,47,253,8,0,1,5,0,0,0,0,0
+613,6,407,2,1,India,Shardul Thakur,Lungisani Ngidi,,48,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,47.6,2,1,0,172881,-135.67,95.44,1,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,6,47,254,8,0,0,5,0,0,0,0,0
+614,1,407,2,1,India,Shardul Thakur,Tabraiz Shamsi,,49,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,48.1,2,1,0,172884,77.97,40.19,1,0,,34,CHINAMAN,97,BACKFOOT PUSH,0,0,1,48,255,8,1,0,5,0,0,0,0,0
+615,2,407,2,1,India,Jasprit Bumrah,Tabraiz Shamsi,,49,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,48.2,2,1,0,172885,140.13,47.55,1,0,,34,CHINAMAN,95,SLOG SWEEP,0,0,2,48,256,8,0,0,5,0,0,0,0,0
+616,3,407,2,1,India,Shardul Thakur,Tabraiz Shamsi,,49,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,48.3,2,1,0,172886,42.51,-55.58,1,0,,34,CHINAMAN,58,BACKFOOT PULL SHOT,0,0,3,48,257,8,0,0,5,0,0,0,0,0
+617,4,407,2,1,India,Jasprit Bumrah,Tabraiz Shamsi,,49,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,48.4,2,1,0,172888,141.05,72.88,1,0,,34,CHINAMAN,47,FRONTFOOT ON DRIVE,0,0,4,48,258,8,0,0,5,0,0,0,0,0
+618,5,407,2,1,India,Shardul Thakur,Tabraiz Shamsi,,49,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,48.5,2,1,0,172889,86.26,36.50,1,0,,34,CHINAMAN,55,SWEEP SHOT,0,0,5,48,259,8,0,0,5,0,0,0,0,0
+619,6,407,2,1,India,Jasprit Bumrah,Tabraiz Shamsi,,49,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,48.6,2,1,0,172890,-44.51,24.07,0,0,,28,GOOGLY,50,BACKFOOT DEFENCE,0,0,6,48,259,8,0,0,5,0,0,0,0,0
+620,1,407,2,1,India,Shardul Thakur,Lungisani Ngidi,,50,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,49.1,2,1,0,172892,-122.32,84.39,1,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,1,49,260,8,1,0,5,0,0,0,0,0
+621,2,407,2,1,India,Jasprit Bumrah,Lungisani Ngidi,,50,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,49.2,2,1,0,172894,-122.32,84.39,0,0,,38,STRAIGHT BALL,44,GLIDE,0,0,2,49,260,8,0,0,5,0,0,0,0,0
+622,3,407,2,1,India,Jasprit Bumrah,Lungisani Ngidi,,50,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,49.3,2,1,1,172896,-122.32,84.39,1,0,,38,STRAIGHT BALL,44,GLIDE,0,0,3,49,261,8,0,0,5,0,0,0,0,0
+623,4,407,2,1,India,Jasprit Bumrah,Lungisani Ngidi,,50,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,49.3,2,1,0,172897,-109.89,-65.71,1,0,,38,STRAIGHT BALL,44,GLIDE,0,0,4,49,262,8,0,0,5,0,0,0,0,0
+624,5,407,2,1,India,Shardul Thakur,Lungisani Ngidi,,50,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,49.4,2,1,0,172899,-62.46,139.64,1,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,5,49,263,8,0,0,5,0,0,0,0,0
+625,6,407,2,1,India,Jasprit Bumrah,Lungisani Ngidi,,50,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,49.5,2,1,0,172900,-84.10,27.76,1,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,6,49,264,8,0,0,5,0,0,0,0,0
+626,7,407,2,1,India,Shardul Thakur,Lungisani Ngidi,,50,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,49.6,2,1,0,172902,-129.23,88.53,1,0,,38,STRAIGHT BALL,15,LOFTED COVER DRIVE,0,0,7,49,265,8,0,0,5,0,0,0,0,0

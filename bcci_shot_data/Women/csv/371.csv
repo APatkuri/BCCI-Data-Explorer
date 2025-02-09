@@ -1,0 +1,239 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,371,1,4,New Zealand,Martin Guptill,Shaheen Afridi,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,149757,8.00,66.00,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,371,1,4,New Zealand,Martin Guptill,Shaheen Afridi,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,149758,8.00,66.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2,3,371,1,4,New Zealand,Martin Guptill,Shaheen Afridi,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,149759,82.50,106.00,0,0,,,Knuckleball,47,ON DRIVE,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+3,4,371,1,4,New Zealand,Martin Guptill,Shaheen Afridi,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,149760,23.00,57.50,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+4,5,371,1,4,New Zealand,Martin Guptill,Shaheen Afridi,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,149761,-73.00,-13.50,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,0,0,0,0,0,0,0,0,0,0,0
+5,6,371,1,4,New Zealand,Martin Guptill,Shaheen Afridi,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,149762,-73.00,-13.50,0,0,,30,ANGLED ACROSS,47,ON DRIVE,0,0,6,0,0,0,0,0,0,0,0,0,0,0
+6,1,371,1,4,New Zealand,Daryl Mitchell,Imad Wasim,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,149763,-72.00,6.50,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,1,0,0,1,0,0,0,0,0,0,0
+7,2,371,1,4,New Zealand,Daryl Mitchell,Imad Wasim,,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,149764,133.00,85.50,1,0,,,Knuckleball,37,SD FLICK,0,0,2,1,1,0,0,0,0,0,0,0,0,0
+8,3,371,1,4,New Zealand,Martin Guptill,Imad Wasim,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,149765,-68.50,41.50,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,1,1,0,0,0,0,0,0,0,0,0
+9,4,371,1,4,New Zealand,Martin Guptill,Imad Wasim,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,149766,-41.00,-48.00,1,0,,,Knuckleball,44,GLIDE,0,0,4,1,2,0,0,0,0,0,0,0,0,0
+10,5,371,1,4,New Zealand,Daryl Mitchell,Imad Wasim,,2,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,149767,116.50,-51.00,1,0,,,Knuckleball,40,FLICK,0,0,5,1,3,0,0,0,0,0,0,0,0,0
+11,6,371,1,4,New Zealand,Martin Guptill,Imad Wasim,,2,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.6,2,1,0,149768,-178.00,26.00,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,1,7,0,0,0,0,0,0,0,0,0
+12,1,371,1,4,New Zealand,Daryl Mitchell,Shaheen Afridi,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,149769,52.00,26.50,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,2,7,0,1,0,0,0,0,0,0,0
+13,2,371,1,4,New Zealand,Daryl Mitchell,Shaheen Afridi,,3,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,149770,147.50,28.50,2,0,,,Knuckleball,40,FLICK,0,0,2,2,9,0,0,0,0,0,0,0,0,0
+14,3,371,1,4,New Zealand,Daryl Mitchell,Shaheen Afridi,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,149771,-38.50,105.00,1,0,,30,ANGLED ACROSS,84,OFF DRIVE,0,0,3,2,10,0,0,0,0,0,0,0,0,0
+15,4,371,1,4,New Zealand,Martin Guptill,Shaheen Afridi,,3,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,149772,149.00,20.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,2,11,0,0,0,0,0,0,0,0,0
+16,5,371,1,4,New Zealand,Daryl Mitchell,Shaheen Afridi,,3,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.5,2,1,0,149773,-155.00,133.50,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,2,15,0,0,0,0,0,0,0,0,0
+17,6,371,1,4,New Zealand,Daryl Mitchell,Shaheen Afridi,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,149774,-155.00,133.50,0,0,,,Knuckleball,40,FLICK,0,0,6,2,15,0,0,0,0,0,0,0,0,0
+18,1,371,1,4,New Zealand,Martin Guptill,Imad Wasim,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,149775,-89.00,23.00,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,3,15,0,1,0,0,0,0,0,0,0
+19,2,371,1,4,New Zealand,Martin Guptill,Imad Wasim,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,149776,54.50,-47.50,0,0,,,Knuckleball,40,FLICK,0,0,2,3,15,0,0,0,0,0,0,0,0,0
+20,3,371,1,4,New Zealand,Martin Guptill,Imad Wasim,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,149777,-12.00,52.50,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,3,15,0,0,0,0,0,0,0,0,0
+21,4,371,1,4,New Zealand,Martin Guptill,Imad Wasim,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,149778,84.50,140.50,1,0,,,Knuckleball,47,ON DRIVE,0,0,4,3,16,0,0,0,0,0,0,0,0,0
+22,5,371,1,4,New Zealand,Daryl Mitchell,Imad Wasim,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,149779,118.50,133.50,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,5,3,17,0,0,0,0,0,0,0,0,0
+23,6,371,1,4,New Zealand,Martin Guptill,Imad Wasim,,4,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.6,2,1,0,149780,-190.50,20.00,4,0,,,Knuckleball,36,CUT SHOT,0,0,6,3,21,0,0,0,0,0,0,0,0,0
+24,1,371,1,4,New Zealand,Daryl Mitchell,Hasan Ali,,5,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,4.1,2,1,0,149781,86.00,202.50,6,0,,,Knuckleball,11,LOFT ON,0,0,1,4,27,0,1,0,0,0,0,0,0,0
+25,2,371,1,4,New Zealand,Daryl Mitchell,Hasan Ali,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,149782,59.00,102.50,1,0,,39,ANGLED IN,52,BACKFOOT COVERDRIVE,0,0,2,4,28,0,0,0,0,0,0,0,0,0
+26,3,371,1,4,New Zealand,Martin Guptill,Hasan Ali,,5,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,149783,49.00,-83.50,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,4,29,0,0,0,0,0,0,0,0,0
+27,4,371,1,4,New Zealand,Daryl Mitchell,Hasan Ali,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,149784,18.50,18.50,0,0,,,Knuckleball,58,PULL SHOT,0,0,4,4,29,0,0,0,0,0,0,0,0,0
+28,5,371,1,4,New Zealand,Daryl Mitchell,Hasan Ali,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,149785,38.50,65.50,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,4,30,0,0,0,0,0,0,0,0,0
+29,6,371,1,4,New Zealand,Martin Guptill,Hasan Ali,,5,6,5 (NB),5,4,0,0,0,0,1,0,1,0,0,1,0,0,,,0,4.6,2,1,1,149786,-180.00,-24.50,5,0,,39,ANGLED IN,36,CUT SHOT,0,0,6,4,35,0,0,0,0,0,0,0,0,0
+30,7,371,1,4,New Zealand,Martin Guptill,Hasan Ali,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,149787,110.00,-21.50,1,0,,,Knuckleball,47,ON DRIVE,0,0,7,4,36,0,0,0,0,0,0,0,0,0
+31,1,371,1,4,New Zealand,Martin Guptill,Haris Rauf,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,149788,110.00,-21.50,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,5,36,0,1,0,0,0,0,0,0,0
+32,2,371,1,4,New Zealand,Martin Guptill,Haris Rauf,,6,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,5.2,2,1,0,149789,110.00,-21.50,0,0,,,Knuckleball,40,FLICK,0,0,2,5,36,1,2,0,0,0,0,0,0,0
+33,3,371,1,4,New Zealand,Kane Williamson,Haris Rauf,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,149790,142.50,45.50,1,0,,,Knuckleball,40,FLICK,0,0,3,5,37,1,3,0,0,0,0,0,0,0
+34,4,371,1,4,New Zealand,Daryl Mitchell,Haris Rauf,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,149791,146.00,84.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,5,38,1,0,0,0,0,0,0,0,0
+35,5,371,1,4,New Zealand,Kane Williamson,Haris Rauf,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,149792,-46.00,114.50,0,0,,,Knuckleball,84,OFF DRIVE,0,0,5,5,38,1,0,0,0,0,0,0,0,0
+36,6,371,1,4,New Zealand,Kane Williamson,Haris Rauf,,6,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.6,2,1,0,149793,64.00,-145.50,4,0,,,Knuckleball,40,FLICK,0,0,6,5,42,1,0,0,0,0,0,0,0,0
+37,1,371,1,4,New Zealand,Daryl Mitchell,Imad Wasim,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,149794,107.50,115.00,1,0,,,Knuckleball,74,SD ON,0,0,1,6,43,1,1,0,0,0,0,0,0,0
+38,2,371,1,4,New Zealand,Kane Williamson,Imad Wasim,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,149795,107.00,137.00,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,2,6,44,1,0,0,0,0,0,0,0,0
+39,3,371,1,4,New Zealand,Daryl Mitchell,Imad Wasim,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,149796,-2.50,38.50,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,6,44,1,0,0,0,0,0,0,0,0
+40,4,371,1,4,New Zealand,Daryl Mitchell,Imad Wasim,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,149797,88.00,107.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,6,45,1,0,0,0,0,0,0,0,0
+41,5,371,1,4,New Zealand,Kane Williamson,Imad Wasim,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,149798,-80.50,53.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,6,45,1,0,0,0,0,0,0,0,0
+42,6,371,1,4,New Zealand,Kane Williamson,Imad Wasim,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,149799,-73.00,-19.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,6,45,1,0,0,0,0,0,0,0,0
+43,1,371,1,4,New Zealand,Daryl Mitchell,Shadab Khan,,8,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,7.1,2,1,1,149800,-73.00,-19.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,7,46,1,1,0,0,0,0,0,0,0
+44,2,371,1,4,New Zealand,Kane Williamson,Shadab Khan,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,149801,-68.00,44.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,7,46,1,0,0,0,0,0,0,0,0
+45,3,371,1,4,New Zealand,Kane Williamson,Shadab Khan,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,149802,-74.50,-21.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,7,46,1,0,0,0,0,0,0,0,0
+46,4,371,1,4,New Zealand,Kane Williamson,Shadab Khan,,8,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,149803,113.50,119.50,2,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,4,7,48,1,0,0,0,0,0,0,0,0
+47,5,371,1,4,New Zealand,Kane Williamson,Shadab Khan,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,149804,-81.50,-13.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,7,48,1,0,0,0,0,0,0,0,0
+48,6,371,1,4,New Zealand,Kane Williamson,Shadab Khan,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,149805,-59.50,32.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,7,48,1,0,0,0,0,0,0,0,0
+49,1,371,1,4,New Zealand,Daryl Mitchell,Imad Wasim,,9,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,8.1,2,1,0,149806,-65.00,212.00,6,0,,,Knuckleball,5,LOFT OFF,0,0,1,8,54,1,1,1,1,0,1,0,0,0
+50,2,371,1,4,New Zealand,Daryl Mitchell,Imad Wasim,,9,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,8.2,2,1,0,149807,109.50,140.00,0,0,,,Knuckleball,11,LOFT ON,0,0,2,8,54,2,2,0,1,0,0,0,0,0
+51,3,371,1,4,New Zealand,Kane Williamson,Imad Wasim,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,149808,-71.50,-19.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,8,54,2,3,0,1,0,0,0,0,0
+52,4,371,1,4,New Zealand,Kane Williamson,Imad Wasim,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,149809,-151.50,-18.50,1,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,4,8,55,2,0,0,1,0,0,0,0,0
+53,5,371,1,4,New Zealand,James Neesham,Imad Wasim,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,149810,43.00,-58.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,8,56,2,0,0,1,0,0,0,0,0
+54,6,371,1,4,New Zealand,Kane Williamson,Imad Wasim,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,149811,-52.00,17.50,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,8,56,2,0,0,1,0,0,0,0,0
+55,1,371,1,4,New Zealand,James Neesham,Mohammad Hafeez,,10,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,9.1,2,1,0,149812,-135.00,61.00,0,0,,,Knuckleball,,,0,0,1,9,56,3,1,0,1,0,0,0,0,0
+56,2,371,1,4,New Zealand,Kane Williamson,Mohammad Hafeez,,10,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,149813,-132.50,74.00,2,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,9,58,3,2,0,1,0,0,0,0,0
+57,3,371,1,4,New Zealand,Kane Williamson,Mohammad Hafeez,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,149814,-44.50,7.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,9,58,3,0,0,1,0,0,0,0,0
+58,4,371,1,4,New Zealand,Kane Williamson,Mohammad Hafeez,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,149815,91.00,144.00,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,4,9,59,3,0,0,1,0,0,0,0,0
+59,5,371,1,4,New Zealand,Devon Conway,Mohammad Hafeez,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,149816,-52.50,130.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,9,60,3,0,0,1,0,0,0,0,0
+60,6,371,1,4,New Zealand,Kane Williamson,Mohammad Hafeez,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,149817,10.50,47.50,0,0,,,Knuckleball,77,SD DEFENCE,0,0,6,9,60,3,0,0,1,0,0,0,0,0
+61,1,371,1,4,New Zealand,Devon Conway,Shadab Khan,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,149818,45.00,-52.50,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,1,10,60,3,1,0,1,0,0,0,0,0
+62,2,371,1,4,New Zealand,Devon Conway,Shadab Khan,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,149819,-35.00,-52.00,1,0,,,Knuckleball,40,FLICK,0,0,2,10,61,3,0,0,1,0,0,0,0,0
+63,3,371,1,4,New Zealand,Kane Williamson,Shadab Khan,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,149820,-35.00,-52.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,10,61,3,0,0,1,0,0,0,0,0
+64,4,371,1,4,New Zealand,Kane Williamson,Shadab Khan,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,149821,153.00,-25.50,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,10,62,3,0,0,1,0,0,0,0,0
+65,5,371,1,4,New Zealand,Devon Conway,Shadab Khan,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,149822,-14.00,62.50,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,10,62,3,0,0,1,0,0,0,0,0
+66,6,371,1,4,New Zealand,Devon Conway,Shadab Khan,,11,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,10.6,2,1,1,149823,-14.00,62.50,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,10,63,3,0,0,1,0,0,0,0,0
+67,1,371,1,4,New Zealand,Devon Conway,Mohammad Hafeez,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,149824,-18.00,58.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,11,63,3,1,0,1,0,0,0,0,0
+68,2,371,1,4,New Zealand,Devon Conway,Mohammad Hafeez,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,149825,-37.00,-57.00,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,11,64,3,0,0,1,0,0,0,0,0
+69,3,371,1,4,New Zealand,Kane Williamson,Mohammad Hafeez,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,149826,176.50,102.00,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,11,64,3,0,0,1,0,0,0,0,0
+70,4,371,1,4,New Zealand,Kane Williamson,Mohammad Hafeez,,12,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.4,2,1,0,149827,176.50,102.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,4,11,68,3,0,0,1,0,0,0,0,0
+71,5,371,1,4,New Zealand,Kane Williamson,Mohammad Hafeez,,12,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,11.5,2,1,0,149828,87.50,216.50,6,0,,,Knuckleball,94,SDL ON,0,0,5,11,74,3,0,0,1,0,0,0,0,0
+72,6,371,1,4,New Zealand,Kane Williamson,Mohammad Hafeez,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,149829,-66.50,31.50,1,0,,,Knuckleball,56,REVERSE SWEEP,0,0,6,11,75,3,0,0,1,0,0,0,0,0
+73,1,371,1,4,New Zealand,Kane Williamson,Shadab Khan,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,149830,-63.50,-34.50,1,0,,24,LEG SPIN,44,GLIDE,0,0,1,12,76,3,1,0,1,0,0,0,0,0
+74,2,371,1,4,New Zealand,Devon Conway,Shadab Khan,,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,149831,63.00,-42.00,0,0,,24,LEG SPIN,56,REVERSE SWEEP,0,0,2,12,76,3,0,0,1,0,0,0,0,0
+75,3,371,1,4,New Zealand,Devon Conway,Shadab Khan,,13,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,149832,-125.50,72.00,2,0,,24,LEG SPIN,40,FLICK,0,0,3,12,78,3,0,0,1,0,0,0,0,0
+76,4,371,1,4,New Zealand,Devon Conway,Shadab Khan,,13,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.4,2,1,0,149833,-173.50,-39.50,4,0,,28,GOOGLY,55,SWEEP SHOT,0,0,4,12,82,3,0,0,1,0,0,0,0,0
+77,5,371,1,4,New Zealand,Devon Conway,Shadab Khan,,13,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.5,2,1,0,149834,-194.00,27.50,4,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,5,12,86,3,0,0,1,0,0,0,0,0
+78,6,371,1,4,New Zealand,Devon Conway,Shadab Khan,,13,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.6,2,1,0,149835,61.50,-143.00,4,0,,24,LEG SPIN,56,REVERSE SWEEP,0,0,6,12,90,3,0,0,1,0,0,0,0,0
+79,1,371,1,4,New Zealand,Kane Williamson,Hasan Ali,,14,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,13.1,2,1,0,149836,-45.00,35.50,0,0,,8,OFF CUTTER,97,BACKFOOT PUSH,0,0,1,13,90,4,1,0,1,0,0,0,0,0
+80,2,371,1,4,New Zealand,Glenn Phillips,Hasan Ali,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,149837,-57.00,20.00,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,2,13,90,4,0,0,1,0,0,0,0,0
+81,3,371,1,4,New Zealand,Glenn Phillips,Hasan Ali,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,149838,-52.00,15.00,0,0,,43,NIPBACKER,40,FLICK,0,0,3,13,90,4,0,0,1,0,0,0,0,0
+82,4,371,1,4,New Zealand,Glenn Phillips,Hasan Ali,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,149839,135.00,-9.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,13,91,4,0,0,1,0,0,0,0,0
+83,5,371,1,4,New Zealand,Devon Conway,Hasan Ali,,14,5,2 (NB),2,0,0,0,0,1,2,0,1,0,1,0,0,0,,,0,13.5,2,1,1,149840,135.00,-9.00,2,0,,,Knuckleball,40,FLICK,0,0,5,13,93,4,0,0,1,0,0,0,0,0
+84,6,371,1,4,New Zealand,Glenn Phillips,Hasan Ali,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,149841,137.50,-24.00,1,0,,,Knuckleball,,,0,0,6,13,94,4,0,0,1,0,0,0,0,0
+85,7,371,1,4,New Zealand,Devon Conway,Hasan Ali,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,149842,-111.50,63.50,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,7,13,95,4,0,0,1,0,0,0,0,0
+86,1,371,1,4,New Zealand,Devon Conway,Haris Rauf,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,149843,-124.50,80.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,14,96,4,1,0,1,0,0,0,0,0
+87,2,371,1,4,New Zealand,Glenn Phillips,Haris Rauf,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,149844,132.50,87.00,1,0,,,Knuckleball,40,FLICK,0,0,2,14,97,4,0,0,1,0,0,0,0,0
+88,3,371,1,4,New Zealand,Devon Conway,Haris Rauf,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,149845,-117.00,89.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,14,98,4,0,0,1,0,0,0,0,0
+89,4,371,1,4,New Zealand,Glenn Phillips,Haris Rauf,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,149846,70.50,72.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,14,99,4,0,0,1,0,0,0,0,0
+90,5,371,1,4,New Zealand,Devon Conway,Haris Rauf,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,149847,-125.50,55.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,14,100,4,0,1,2,0,0,1,0,0
+91,6,371,1,4,New Zealand,Glenn Phillips,Haris Rauf,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,149848,-125.50,55.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,6,14,100,4,0,0,2,0,0,0,0,0
+92,1,371,1,4,New Zealand,Devon Conway,Hasan Ali,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,149849,-74.50,157.50,1,0,,,Knuckleball,47,ON DRIVE,0,0,1,15,101,4,1,0,2,0,0,0,0,0
+93,2,371,1,4,New Zealand,Glenn Phillips,Hasan Ali,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,149850,62.00,160.00,1,0,,,Knuckleball,11,LOFT ON,0,0,2,15,102,4,0,0,2,0,0,0,0,0
+94,3,371,1,4,New Zealand,Devon Conway,Hasan Ali,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,149851,139.50,43.50,1,0,,,Knuckleball,89,SD COVER,0,0,3,15,103,4,0,0,2,0,0,0,0,0
+95,4,371,1,4,New Zealand,Glenn Phillips,Hasan Ali,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,149852,77.00,144.50,1,0,,,Knuckleball,47,ON DRIVE,0,0,4,15,104,4,0,0,2,0,0,0,0,0
+96,5,371,1,4,New Zealand,Devon Conway,Hasan Ali,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,149853,-128.00,-10.50,1,0,,,Knuckleball,40,FLICK,0,0,5,15,105,4,0,0,2,0,0,0,0,0
+97,6,371,1,4,New Zealand,Glenn Phillips,Hasan Ali,,16,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,149854,122.00,84.50,2,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,15,107,4,0,0,2,0,0,0,0,0
+98,1,371,1,4,New Zealand,Devon Conway,Shaheen Afridi,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,149855,-111.50,50.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,16,108,4,1,0,2,0,0,0,0,0
+99,2,371,1,4,New Zealand,Glenn Phillips,Shaheen Afridi,,17,2,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,16.2,2,1,1,149856,-134.00,76.00,1,0,,,Knuckleball,18,SLOG SHOT,0,0,2,16,109,4,0,0,2,0,0,0,0,0
+100,3,371,1,4,New Zealand,Devon Conway,Shaheen Afridi,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,149857,-134.00,76.00,1,0,,,Knuckleball,40,FLICK,0,0,3,16,110,4,0,0,2,0,0,0,0,0
+101,4,371,1,4,New Zealand,Glenn Phillips,Shaheen Afridi,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,149858,146.00,-36.00,1,0,,,Knuckleball,40,FLICK,0,0,4,16,111,4,0,0,2,0,0,0,0,0
+102,5,371,1,4,New Zealand,Devon Conway,Shaheen Afridi,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,149859,-37.00,-55.00,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,16,112,4,0,0,2,0,0,0,0,0
+103,6,371,1,4,New Zealand,Glenn Phillips,Shaheen Afridi,,17,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.6,2,1,0,149860,-44.00,222.50,4,0,,,Knuckleball,84,OFF DRIVE,0,0,6,16,116,4,0,0,2,0,0,0,0,0
+104,1,371,1,4,New Zealand,Devon Conway,Haris Rauf,,18,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,17.1,2,1,0,149861,-133.00,85.50,0,0,,,Knuckleball,11,LOFT ON,0,0,1,17,116,5,1,0,2,0,0,0,0,0
+105,2,371,1,4,New Zealand,Glenn Phillips,Haris Rauf,,18,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,149862,-133.00,85.50,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,17,116,5,2,0,2,0,0,0,0,0
+106,3,371,1,4,New Zealand,Glenn Phillips,Haris Rauf,,18,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,17.3,2,1,0,149863,134.00,63.50,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,17,116,6,3,0,2,0,0,0,0,0
+107,4,371,1,4,New Zealand,Tim Seifert,Haris Rauf,,18,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,149864,151.50,54.00,2,0,,,Knuckleball,40,FLICK,0,0,4,17,118,6,4,0,2,0,0,0,0,0
+108,5,371,1,4,New Zealand,Tim Seifert,Haris Rauf,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,149865,-10.00,64.00,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,5,17,118,6,0,0,2,0,0,0,0,0
+109,6,371,1,4,New Zealand,Tim Seifert,Haris Rauf,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,149866,81.00,166.50,1,0,,,Knuckleball,47,ON DRIVE,0,0,6,17,119,6,0,0,2,0,0,0,0,0
+110,1,371,1,4,New Zealand,Tim Seifert,Shaheen Afridi,,19,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,149867,81.00,166.50,0,0,,,Knuckleball,58,PULL SHOT,0,0,1,18,119,6,1,0,2,0,0,0,0,0
+111,2,371,1,4,New Zealand,Tim Seifert,Shaheen Afridi,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,149868,81.00,166.50,0,0,,,Knuckleball,40,FLICK,0,0,2,18,119,6,0,0,2,0,0,0,0,0
+112,3,371,1,4,New Zealand,Tim Seifert,Shaheen Afridi,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,149869,119.00,109.50,1,0,,,Knuckleball,11,LOFT ON,0,0,3,18,120,6,0,0,2,0,0,0,0,0
+113,4,371,1,4,New Zealand,Mitchell Santner,Shaheen Afridi,,19,4,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,18.4,2,1,1,149870,119.00,109.50,1,0,,,Knuckleball,40,FLICK,0,0,4,18,121,6,0,0,2,0,0,0,0,0
+114,5,371,1,4,New Zealand,Tim Seifert,Shaheen Afridi,,19,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.5,2,1,0,149871,77.50,-145.00,4,0,,,Knuckleball,22,PADDLE SWEEP,0,0,5,18,125,6,0,0,2,0,0,0,0,0
+115,6,371,1,4,New Zealand,Tim Seifert,Shaheen Afridi,,19,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.6,2,1,0,149872,-40.50,-47.50,0,0,,,Knuckleball,18,SLOG SHOT,0,0,6,18,125,7,1,0,2,0,0,0,0,0
+116,1,371,1,4,New Zealand,Ish Sodhi,Haris Rauf,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.1,2,1,0,149873,-46.50,-116.00,1,0,,,Knuckleball,44,GLIDE,0,0,1,19,126,7,2,0,2,0,0,0,0,0
+117,2,371,1,4,New Zealand,Mitchell Santner,Haris Rauf,,20,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.2,2,1,0,149874,82.00,98.00,2,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,19,128,7,0,0,2,0,0,0,0,0
+118,3,371,1,4,New Zealand,Mitchell Santner,Haris Rauf,,20,3,1 (BY),1,0,0,0,0,1,1,0,0,1,0,0,0,0,,,0,19.3,2,1,1,149875,82.00,98.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,19,129,7,0,0,2,0,0,0,0,0
+119,4,371,1,4,New Zealand,Ish Sodhi,Haris Rauf,,20,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.4,2,1,0,149876,-148.50,9.50,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,19,130,7,0,0,2,0,0,0,0,0
+120,5,371,1,4,New Zealand,Mitchell Santner,Haris Rauf,,20,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.5,2,1,0,149877,166.50,137.50,4,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,5,19,134,7,0,0,2,0,0,0,0,0
+121,6,371,1,4,New Zealand,Mitchell Santner,Haris Rauf,,20,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,19.6,2,1,0,149878,166.50,137.50,0,0,,8,OFF CUTTER,58,PULL SHOT,0,0,6,19,134,8,1,0,2,0,0,0,0,0
+122,1,371,2,8,Pakistan,Mohammad Rizwan,Mitchell Santner,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,149879,51.00,10.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+123,2,371,2,8,Pakistan,Mohammad Rizwan,Mitchell Santner,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,149880,64.50,131.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+124,3,371,2,8,Pakistan,Babar Azam,Mitchell Santner,,1,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.3,2,1,0,149881,-101.50,197.50,4,0,,,Knuckleball,5,LOFT OFF,0,0,3,0,5,0,0,0,0,0,0,0,0,0
+125,4,371,2,8,Pakistan,Babar Azam,Mitchell Santner,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,149882,100.50,87.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,0,6,0,0,0,0,0,0,0,0,0
+126,5,371,2,8,Pakistan,Mohammad Rizwan,Mitchell Santner,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,149883,113.50,15.00,1,0,,,Knuckleball,40,FLICK,0,0,5,0,7,0,0,0,0,0,0,0,0,0
+127,6,371,2,8,Pakistan,Babar Azam,Mitchell Santner,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,149884,-91.50,38.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,0,7,0,0,0,0,0,0,0,0,0
+128,1,371,2,8,Pakistan,Mohammad Rizwan,Tim Southee,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,149885,72.50,13.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,1,7,0,1,0,0,0,0,0,0,0
+129,2,371,2,8,Pakistan,Mohammad Rizwan,Tim Southee,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,149886,31.50,60.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,1,7,0,0,0,0,0,0,0,0,0
+130,3,371,2,8,Pakistan,Mohammad Rizwan,Tim Southee,,2,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,1.3,2,1,1,149887,31.50,60.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,3,1,8,0,0,0,0,0,0,0,0,0
+131,4,371,2,8,Pakistan,Mohammad Rizwan,Tim Southee,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,149888,69.50,23.00,0,0,,,Knuckleball,40,FLICK,0,0,4,1,8,0,0,0,0,0,0,0,0,0
+132,5,371,2,8,Pakistan,Mohammad Rizwan,Tim Southee,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,149889,41.00,-109.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,1,9,0,0,0,0,0,0,0,0,0
+133,6,371,2,8,Pakistan,Babar Azam,Tim Southee,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,149890,59.50,15.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,1,9,0,0,0,0,0,0,0,0,0
+134,7,371,2,8,Pakistan,Babar Azam,Tim Southee,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,149891,59.50,15.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,7,1,9,0,0,0,0,0,0,0,0,0
+135,1,371,2,8,Pakistan,Mohammad Rizwan,Trent Boult,,3,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.1,2,1,0,149892,188.50,36.50,4,0,,,Knuckleball,58,PULL SHOT,0,0,1,2,13,0,1,0,0,0,0,0,0,0
+136,2,371,2,8,Pakistan,Mohammad Rizwan,Trent Boult,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,149893,-83.00,46.50,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,2,13,0,0,0,0,0,0,0,0,0
+137,3,371,2,8,Pakistan,Mohammad Rizwan,Trent Boult,,3,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,2.3,2,1,1,149894,-83.00,46.50,1,0,,,Knuckleball,54,LEG GLANCE,0,0,3,2,14,0,0,0,0,0,0,0,0,0
+138,4,371,2,8,Pakistan,Mohammad Rizwan,Trent Boult,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,149895,-46.00,-14.00,0,0,,,Knuckleball,44,GLIDE,0,0,4,2,14,0,0,0,0,0,0,0,0,0
+139,5,371,2,8,Pakistan,Mohammad Rizwan,Trent Boult,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,149896,-69.50,-10.50,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,2,14,0,0,0,0,0,0,0,0,0
+140,6,371,2,8,Pakistan,Mohammad Rizwan,Trent Boult,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,149897,-69.50,-10.50,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,2,14,0,0,0,0,0,0,0,0,0
+141,7,371,2,8,Pakistan,Mohammad Rizwan,Trent Boult,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,149898,-69.50,-10.50,0,0,,,Knuckleball,58,PULL SHOT,0,0,7,2,14,0,0,0,0,0,0,0,0,0
+142,1,371,2,8,Pakistan,Babar Azam,Tim Southee,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,149899,68.00,66.50,0,0,,39,ANGLED IN,58,PULL SHOT,0,0,1,3,14,0,1,0,0,0,0,0,0,0
+143,2,371,2,8,Pakistan,Babar Azam,Tim Southee,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,149900,119.50,-28.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,3,15,0,0,0,0,0,0,0,0,0
+144,3,371,2,8,Pakistan,Mohammad Rizwan,Tim Southee,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,149901,60.50,46.00,0,0,,46,LEGCUTTER,40,FLICK,0,0,3,3,15,0,0,0,0,0,0,0,0,0
+145,4,371,2,8,Pakistan,Mohammad Rizwan,Tim Southee,,4,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.4,2,1,0,149902,86.50,-138.50,4,0,,39,ANGLED IN,58,PULL SHOT,0,0,4,3,19,0,0,0,0,0,0,0,0,0
+146,5,371,2,8,Pakistan,Mohammad Rizwan,Tim Southee,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,149903,93.00,-79.50,1,0,,39,ANGLED IN,58,PULL SHOT,0,0,5,3,20,0,0,0,0,0,0,0,0,0
+147,6,371,2,8,Pakistan,Babar Azam,Tim Southee,,4,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,149904,133.50,80.50,2,0,,8,OFF CUTTER,58,PULL SHOT,0,0,6,3,22,0,0,0,0,0,0,0,0,0
+148,1,371,2,8,Pakistan,Mohammad Rizwan,Trent Boult,,5,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.1,2,1,0,149905,-173.00,-40.00,4,0,,,Knuckleball,36,CUT SHOT,0,0,1,4,26,0,1,0,0,0,0,0,0,0
+149,2,371,2,8,Pakistan,Mohammad Rizwan,Trent Boult,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,149906,-173.00,-40.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,4,26,0,0,0,0,0,0,0,0,0
+150,3,371,2,8,Pakistan,Mohammad Rizwan,Trent Boult,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,149907,76.00,27.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,4,26,0,0,0,0,0,0,0,0,0
+151,4,371,2,8,Pakistan,Mohammad Rizwan,Trent Boult,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,149908,132.50,-26.00,1,0,,30,ANGLED ACROSS,58,PULL SHOT,0,0,4,4,27,0,0,0,0,0,0,0,0,0
+152,5,371,2,8,Pakistan,Babar Azam,Trent Boult,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,149909,23.50,58.50,0,0,,,Knuckleball,47,ON DRIVE,0,0,5,4,27,0,0,0,0,0,0,0,0,0
+153,6,371,2,8,Pakistan,Babar Azam,Trent Boult,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,149910,-49.50,108.50,1,0,,,Knuckleball,84,OFF DRIVE,0,0,6,4,28,0,0,0,0,0,0,0,0,0
+154,1,371,2,8,Pakistan,Babar Azam,Tim Southee,,6,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,5.1,2,1,0,149911,-49.50,108.50,0,0,,,Knuckleball,47,ON DRIVE,0,0,1,5,28,1,1,0,0,0,0,0,0,0
+155,2,371,2,8,Pakistan,Fakhar Zaman,Tim Southee,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,149912,-127.00,-24.50,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,5,29,1,2,0,0,0,0,0,0,0
+156,3,371,2,8,Pakistan,Mohammad Rizwan,Tim Southee,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,149913,80.50,100.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,5,30,1,0,0,0,0,0,0,0,0
+157,4,371,2,8,Pakistan,Fakhar Zaman,Tim Southee,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,149914,80.50,100.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,5,30,1,0,0,0,0,0,0,0,0
+158,5,371,2,8,Pakistan,Fakhar Zaman,Tim Southee,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,149915,-127.00,-24.50,0,0,,,Knuckleball,40,FLICK,0,0,5,5,30,1,0,0,0,0,0,0,0,0
+159,6,371,2,8,Pakistan,Fakhar Zaman,Tim Southee,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,149916,98.50,13.00,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,5,30,1,0,0,0,0,0,0,0,0
+160,1,371,2,8,Pakistan,Mohammad Rizwan,Mitchell Santner,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,149917,25.50,19.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,6,30,1,1,0,0,0,0,0,0,0
+161,2,371,2,8,Pakistan,Mohammad Rizwan,Mitchell Santner,,7,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.2,2,1,0,149918,48.50,-151.00,4,0,,,Knuckleball,22,PADDLE SWEEP,0,0,2,6,34,1,0,0,0,0,0,0,0,0
+162,3,371,2,8,Pakistan,Mohammad Rizwan,Mitchell Santner,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,149919,134.00,74.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,6,35,1,0,0,0,0,0,0,0,0
+163,4,371,2,8,Pakistan,Fakhar Zaman,Mitchell Santner,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,149920,77.00,41.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,6,35,1,0,0,0,0,0,0,0,0
+164,5,371,2,8,Pakistan,Fakhar Zaman,Mitchell Santner,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,149921,72.00,23.50,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,6,35,1,0,0,0,0,0,0,0,0
+165,6,371,2,8,Pakistan,Fakhar Zaman,Mitchell Santner,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,149922,-97.00,-121.00,1,0,,,Knuckleball,40,FLICK,0,0,6,6,36,1,0,0,0,0,0,0,0,0
+166,1,371,2,8,Pakistan,Fakhar Zaman,James Neesham,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,149923,-58.50,-83.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,1,7,37,1,1,0,0,0,0,0,0,0
+167,2,371,2,8,Pakistan,Mohammad Rizwan,James Neesham,,8,2,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,7.2,2,1,1,149924,-58.50,-83.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,7,38,1,0,0,0,0,0,0,0,0
+168,3,371,2,8,Pakistan,Fakhar Zaman,James Neesham,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,149925,-58.50,-83.00,0,0,,,Knuckleball,94,SDL ON,0,0,3,7,38,1,0,0,0,0,0,0,0,0
+169,4,371,2,8,Pakistan,Fakhar Zaman,James Neesham,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,149926,98.00,29.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,7,38,1,0,0,0,0,0,0,0,0
+170,5,371,2,8,Pakistan,Fakhar Zaman,James Neesham,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,149927,98.00,29.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,7,38,1,0,0,0,0,0,0,0,0
+171,6,371,2,8,Pakistan,Fakhar Zaman,James Neesham,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,149928,-55.00,148.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,6,7,39,1,0,0,0,0,0,0,0,0
+172,1,371,2,8,Pakistan,Fakhar Zaman,Ish Sodhi,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,149929,49.00,-43.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,8,39,1,1,0,0,0,0,0,0,0
+173,2,371,2,8,Pakistan,Fakhar Zaman,Ish Sodhi,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,149930,36.50,-56.50,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,2,8,39,1,0,0,0,0,0,0,0,0
+174,3,371,2,8,Pakistan,Fakhar Zaman,Ish Sodhi,,9,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,8.3,2,1,0,149931,-164.00,111.00,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,3,8,45,1,0,0,0,0,0,0,0,0
+175,4,371,2,8,Pakistan,Fakhar Zaman,Ish Sodhi,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,149932,-132.00,14.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,8,46,1,0,0,0,0,0,0,0,0
+176,5,371,2,8,Pakistan,Mohammad Rizwan,Ish Sodhi,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,149933,-109.50,138.50,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,8,47,1,0,0,0,0,0,0,0,0
+177,6,371,2,8,Pakistan,Fakhar Zaman,Ish Sodhi,,9,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,8.6,2,1,0,149934,-109.50,138.50,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,8,47,2,1,0,0,0,0,0,0,0
+178,1,371,2,8,Pakistan,Mohammad Rizwan,James Neesham,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,149935,136.00,41.50,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,9,47,2,2,0,0,0,0,0,0,0
+179,2,371,2,8,Pakistan,Mohammad Rizwan,James Neesham,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,149936,136.00,41.50,1,0,,,Knuckleball,40,FLICK,0,0,2,9,48,2,0,0,0,0,0,0,0,0
+180,3,371,2,8,Pakistan,Mohammad Hafeez,James Neesham,,10,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,9.3,2,1,0,149937,-171.50,116.50,6,0,,,Knuckleball,15,LOFT COVER,0,0,3,9,54,2,0,1,1,0,1,0,0,0
+181,4,371,2,8,Pakistan,Mohammad Hafeez,James Neesham,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,149938,59.00,167.50,1,0,,,Knuckleball,47,ON DRIVE,0,0,4,9,55,2,0,0,1,0,0,0,0,0
+182,5,371,2,8,Pakistan,Mohammad Rizwan,James Neesham,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,149939,135.00,-13.00,1,0,,,Knuckleball,40,FLICK,0,0,5,9,56,2,0,0,1,0,0,0,0,0
+183,6,371,2,8,Pakistan,Mohammad Hafeez,James Neesham,,10,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,149940,131.50,98.50,2,0,,,Knuckleball,40,FLICK,0,0,6,9,58,2,0,0,1,0,0,0,0,0
+184,1,371,2,8,Pakistan,Mohammad Rizwan,Mitchell Santner,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,149941,-79.00,-13.50,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,10,59,2,1,0,1,0,0,0,0,0
+185,2,371,2,8,Pakistan,Mohammad Hafeez,Mitchell Santner,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,149942,129.00,-46.50,1,0,,,Knuckleball,40,FLICK,0,0,2,10,60,2,0,0,1,0,0,0,0,0
+186,3,371,2,8,Pakistan,Mohammad Rizwan,Mitchell Santner,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,149943,110.00,-52.50,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,10,61,2,0,0,1,0,0,0,0,0
+187,4,371,2,8,Pakistan,Mohammad Hafeez,Mitchell Santner,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,149944,-64.00,147.50,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,4,10,62,2,0,0,1,0,0,0,0,0
+188,5,371,2,8,Pakistan,Mohammad Rizwan,Mitchell Santner,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,149945,-148.00,-14.50,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,10,63,2,0,0,1,0,0,0,0,0
+189,6,371,2,8,Pakistan,Mohammad Hafeez,Mitchell Santner,,11,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,10.6,2,1,0,149946,-105.00,143.50,0,0,,,Knuckleball,122,SDL OFF,0,0,6,10,63,3,1,0,1,0,0,0,0,0
+190,1,371,2,8,Pakistan,Shoaib Malik,Ish Sodhi,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,149947,7.50,35.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,11,63,3,2,0,1,0,0,0,0,0
+191,2,371,2,8,Pakistan,Shoaib Malik,Ish Sodhi,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,149948,-144.00,9.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,11,64,3,0,0,1,0,0,0,0,0
+192,3,371,2,8,Pakistan,Mohammad Rizwan,Ish Sodhi,,12,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.3,2,1,0,149949,164.50,132.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,3,11,68,3,0,0,1,0,0,0,0,0
+193,4,371,2,8,Pakistan,Mohammad Rizwan,Ish Sodhi,,12,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,11.4,2,1,1,149950,164.50,132.00,1,0,,,Knuckleball,105,LEFT ALONE,0,0,4,11,69,3,0,0,1,0,0,0,0,0
+194,5,371,2,8,Pakistan,Mohammad Rizwan,Ish Sodhi,,12,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,11.4,2,1,0,149951,164.50,132.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,11,69,4,1,0,1,0,0,0,0,0
+195,6,371,2,8,Pakistan,Imad Wasim,Ish Sodhi,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,149952,-32.00,68.50,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,11,69,4,2,0,1,0,0,0,0,0
+196,7,371,2,8,Pakistan,Imad Wasim,Ish Sodhi,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,149953,-41.00,-16.00,1,0,,,Knuckleball,40,FLICK,0,0,7,11,70,4,0,0,1,0,0,0,0,0
+197,1,371,2,8,Pakistan,Imad Wasim,James Neesham,,13,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,149954,42.00,177.00,2,0,,,Knuckleball,122,SDL OFF,0,0,1,12,72,4,1,0,1,0,0,0,0,0
+198,2,371,2,8,Pakistan,Imad Wasim,James Neesham,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,149955,128.50,-8.50,1,0,,39,ANGLED IN,59,SQUARE DRIVE,0,0,2,12,73,4,0,0,1,0,0,0,0,0
+199,3,371,2,8,Pakistan,Shoaib Malik,James Neesham,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,149956,56.00,30.50,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,12,73,4,0,0,1,0,0,0,0,0
+200,4,371,2,8,Pakistan,Shoaib Malik,James Neesham,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,149957,-62.50,26.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,12,74,4,0,0,1,0,0,0,0,0
+201,5,371,2,8,Pakistan,Imad Wasim,James Neesham,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,149958,-62.50,26.00,0,0,,,Knuckleball,40,FLICK,0,0,5,12,74,4,0,0,1,0,0,0,0,0
+202,6,371,2,8,Pakistan,Imad Wasim,James Neesham,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,149959,76.50,69.50,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,12,75,4,0,0,1,0,0,0,0,0
+203,1,371,2,8,Pakistan,Imad Wasim,Ish Sodhi,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,149960,100.00,128.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,13,76,4,1,0,1,0,0,0,0,0
+204,2,371,2,8,Pakistan,Shoaib Malik,Ish Sodhi,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,149961,100.50,146.00,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,2,13,77,4,0,0,1,0,0,0,0,0
+205,3,371,2,8,Pakistan,Imad Wasim,Ish Sodhi,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,149962,100.50,146.00,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,13,77,4,0,0,1,0,0,0,0,0
+206,4,371,2,8,Pakistan,Imad Wasim,Ish Sodhi,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,149963,76.00,135.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,13,78,4,0,0,1,0,0,0,0,0
+207,5,371,2,8,Pakistan,Shoaib Malik,Ish Sodhi,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,149964,140.50,-18.00,1,0,,,Knuckleball,40,FLICK,0,0,5,13,79,4,0,0,1,0,0,0,0,0
+208,6,371,2,8,Pakistan,Imad Wasim,Ish Sodhi,,14,6,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,0,,,0,13.6,2,1,1,149965,140.50,-18.00,2,0,,,Knuckleball,40,FLICK,0,0,6,13,81,4,0,0,1,0,0,0,0,0
+209,7,371,2,8,Pakistan,Shoaib Malik,Ish Sodhi,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,149966,-63.50,-55.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,7,13,82,4,0,0,1,0,0,0,0,0
+210,1,371,2,8,Pakistan,Shoaib Malik,Trent Boult,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,149967,-80.00,50.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,14,82,4,1,0,1,0,0,0,0,0
+211,2,371,2,8,Pakistan,Shoaib Malik,Trent Boult,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,149968,-16.00,-61.00,1,0,,,Knuckleball,44,GLIDE,0,0,2,14,83,4,0,0,1,0,0,0,0,0
+212,3,371,2,8,Pakistan,Imad Wasim,Trent Boult,,15,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,149969,-16.00,-61.00,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,14,83,4,0,0,1,0,0,0,0,0
+213,4,371,2,8,Pakistan,Imad Wasim,Trent Boult,,15,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.4,2,1,0,149970,160.50,111.00,4,0,,,Knuckleball,15,LOFT COVER,0,0,4,14,87,4,0,0,1,0,0,0,0,0
+214,5,371,2,8,Pakistan,Imad Wasim,Trent Boult,,15,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,14.5,2,1,0,149971,160.50,111.00,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,5,14,87,5,1,0,1,0,0,0,0,0
+215,6,371,2,8,Pakistan,Asif Ali,Trent Boult,,15,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.6,2,1,0,149972,-102.00,-129.50,4,0,,,Knuckleball,44,GLIDE,0,0,6,14,91,5,2,0,1,0,0,0,0,0
+216,1,371,2,8,Pakistan,Shoaib Malik,Ish Sodhi,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,149973,108.00,139.00,1,0,,,Knuckleball,74,SD ON,0,0,1,15,92,5,3,0,1,0,0,0,0,0
+217,2,371,2,8,Pakistan,Asif Ali,Ish Sodhi,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,149974,-43.50,-47.00,1,0,,,Knuckleball,44,GLIDE,0,0,2,15,93,5,0,0,1,0,0,0,0,0
+218,3,371,2,8,Pakistan,Shoaib Malik,Ish Sodhi,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,149975,-70.00,56.50,0,0,,,Knuckleball,89,SD COVER,0,0,3,15,93,5,0,0,1,0,0,0,0,0
+219,4,371,2,8,Pakistan,Shoaib Malik,Ish Sodhi,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,149976,-70.00,56.50,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,15,93,5,0,0,1,0,0,0,0,0
+220,5,371,2,8,Pakistan,Shoaib Malik,Ish Sodhi,,16,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.5,2,1,0,149977,62.00,206.00,4,0,,,Knuckleball,94,SDL ON,0,0,5,15,97,5,0,0,1,0,0,0,0,0
+221,6,371,2,8,Pakistan,Shoaib Malik,Ish Sodhi,,16,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,15.6,2,1,1,149978,62.00,206.00,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,15,98,5,0,0,1,0,0,0,0,0
+222,1,371,2,8,Pakistan,Shoaib Malik,Tim Southee,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,149979,-147.00,-21.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,16,99,5,1,0,1,0,0,0,0,0
+223,2,371,2,8,Pakistan,Asif Ali,Tim Southee,,17,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,16.2,2,1,0,149980,-18.50,214.50,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,2,16,105,5,0,1,2,0,0,1,0,0
+224,3,371,2,8,Pakistan,Asif Ali,Tim Southee,,17,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,16.3,2,1,0,149981,63.00,214.00,6,0,,,Knuckleball,11,LOFT ON,0,0,3,16,111,5,0,0,2,0,0,0,0,0
+225,4,371,2,8,Pakistan,Asif Ali,Tim Southee,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,149982,63.00,214.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,4,16,111,5,0,0,2,0,0,0,0,0
+226,5,371,2,8,Pakistan,Asif Ali,Tim Southee,,17,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,149983,63.00,214.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,5,16,111,5,0,0,2,0,0,0,0,0
+227,6,371,2,8,Pakistan,Asif Ali,Tim Southee,,17,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,149984,63.00,214.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,6,16,111,5,0,0,2,0,0,0,0,0
+228,1,371,2,8,Pakistan,Shoaib Malik,Mitchell Santner,,18,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.1,2,1,0,149985,-171.50,-33.50,4,0,,,Knuckleball,36,CUT SHOT,0,0,1,17,115,5,1,0,2,0,0,0,0,0
+229,2,371,2,8,Pakistan,Shoaib Malik,Mitchell Santner,,18,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,149986,126.00,76.50,2,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,17,117,5,0,0,2,0,0,0,0,0
+230,3,371,2,8,Pakistan,Shoaib Malik,Mitchell Santner,,18,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.3,2,1,0,149987,-30.00,221.00,6,0,,,Knuckleball,69,SDL STRAIGHT,0,0,3,17,123,5,0,0,2,0,0,0,0,0
+231,4,371,2,8,Pakistan,Shoaib Malik,Mitchell Santner,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,149988,112.00,89.00,1,0,,,Knuckleball,40,FLICK,0,0,4,17,124,5,0,0,2,0,0,0,0,0
+232,5,371,2,8,Pakistan,Asif Ali,Mitchell Santner,,18,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,149989,134.50,-15.50,2,0,,,Knuckleball,40,FLICK,0,0,5,17,126,5,0,0,2,0,0,0,0,0
+233,6,371,2,8,Pakistan,Asif Ali,Mitchell Santner,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,149990,-49.50,39.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,17,126,5,0,0,2,0,0,0,0,0
+234,1,371,2,8,Pakistan,Shoaib Malik,Trent Boult,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,149991,155.00,74.00,1,0,,,Knuckleball,18,SLOG SHOT,0,0,1,18,127,5,1,0,2,0,0,0,0,0
+235,2,371,2,8,Pakistan,Asif Ali,Trent Boult,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,149992,155.00,74.00,0,0,,,Knuckleball,40,FLICK,0,0,2,18,127,5,0,0,2,0,0,0,0,0
+236,3,371,2,8,Pakistan,Asif Ali,Trent Boult,,19,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.3,2,1,0,149993,144.50,153.50,6,0,,,Knuckleball,58,PULL SHOT,0,0,3,18,133,5,0,0,2,0,0,0,0,0
+237,4,371,2,8,Pakistan,Asif Ali,Trent Boult,,19,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,149994,-137.00,104.50,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,18,135,5,0,0,2,0,0,0,0,0

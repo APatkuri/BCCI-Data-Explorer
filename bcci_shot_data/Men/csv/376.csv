@@ -1,0 +1,246 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,376,1,9,Afghanistan,Hazratullah Zazai,Shaheen Afridi,,1,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.1,2,1,1,150934,,,1,0,,,Knuckleball,40,FLICK,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+1,2,376,1,9,Afghanistan,Hazratullah Zazai,Shaheen Afridi,,1,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,0.1,2,1,1,150935,-94.23,5.19,1,0,,,Knuckleball,40,FLICK,0,0,2,0,2,0,0,0,0,0,0,0,0,0
+2,3,376,1,9,Afghanistan,Mohammad Shahzad,Shaheen Afridi,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,150936,-94.23,5.19,0,0,,,Knuckleball,21,SD OFF,0,0,3,0,2,0,0,0,0,0,0,0,0,0
+3,4,376,1,9,Afghanistan,Mohammad Shahzad,Shaheen Afridi,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,150937,-84.56,-105.31,1,0,,,Knuckleball,44,GLIDE,0,0,4,0,3,0,0,0,0,0,0,0,0,0
+4,5,376,1,9,Afghanistan,Hazratullah Zazai,Shaheen Afridi,,1,4,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,0.4,2,1,1,150938,-75.36,4.27,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,0,4,0,0,0,0,0,0,0,0,0
+5,6,376,1,9,Afghanistan,Mohammad Shahzad,Shaheen Afridi,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,150939,-93.77,55.38,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,0,5,0,0,0,0,0,0,0,0,0
+6,7,376,1,9,Afghanistan,Hazratullah Zazai,Shaheen Afridi,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,150940,29.62,6.12,0,0,,,Knuckleball,40,FLICK,0,0,7,0,5,0,0,0,0,0,0,0,0,0
+7,1,376,1,9,Afghanistan,Mohammad Shahzad,Imad Wasim,,2,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,1.1,2,1,1,150941,29.62,6.12,1,0,,,Knuckleball,54,LEG GLANCE,0,0,1,1,6,0,1,0,0,0,0,0,0,0
+8,2,376,1,9,Afghanistan,Mohammad Shahzad,Imad Wasim,,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,150942,66.46,-33.02,1,0,,,Knuckleball,40,FLICK,0,0,2,1,7,0,0,0,0,0,0,0,0,0
+9,3,376,1,9,Afghanistan,Hazratullah Zazai,Imad Wasim,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,150943,49.88,-51.44,0,0,,,Knuckleball,44,GLIDE,0,0,3,1,7,0,0,0,0,0,0,0,0,0
+10,4,376,1,9,Afghanistan,Hazratullah Zazai,Imad Wasim,,2,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,1.3,2,1,0,150944,49.88,-51.44,0,0,,,Knuckleball,18,SLOG SHOT,0,0,4,1,7,1,1,0,0,0,0,0,0,0
+11,5,376,1,9,Afghanistan,Mohammad Shahzad,Imad Wasim,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,150945,70.60,-36.24,1,0,,,Knuckleball,40,FLICK,0,0,5,1,8,1,2,0,0,0,0,0,0,0
+12,6,376,1,9,Afghanistan,Rahmanullah Gurbaz,Imad Wasim,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,150946,42.97,73.34,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,1,8,1,0,0,0,0,0,0,0,0
+13,7,376,1,9,Afghanistan,Rahmanullah Gurbaz,Imad Wasim,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,150947,52.18,68.27,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,7,1,8,1,0,0,0,0,0,0,0,0
+14,1,376,1,9,Afghanistan,Mohammad Shahzad,Shaheen Afridi,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,150948,-72.13,66.89,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,2,8,1,1,0,0,0,0,0,0,0
+15,2,376,1,9,Afghanistan,Mohammad Shahzad,Shaheen Afridi,,3,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,2.2,2,1,1,150949,-72.13,66.89,1,0,,,Knuckleball,105,LEFT ALONE,0,0,2,2,9,1,0,0,0,0,0,0,0,0
+16,3,376,1,9,Afghanistan,Mohammad Shahzad,Shaheen Afridi,,3,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.2,2,1,0,150950,-168.82,141.48,4,0,,,Knuckleball,15,LOFT COVER,0,0,3,2,13,1,0,0,0,0,0,0,0,0
+17,4,376,1,9,Afghanistan,Mohammad Shahzad,Shaheen Afridi,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,150951,-168.82,141.48,0,0,,,Knuckleball,,,0,0,4,2,13,1,0,0,0,0,0,0,0,0
+18,5,376,1,9,Afghanistan,Mohammad Shahzad,Shaheen Afridi,,3,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,2.4,2,1,0,150952,-168.82,141.48,0,0,,,Knuckleball,11,LOFT ON,0,0,5,2,13,2,1,0,0,0,0,0,0,0
+19,6,376,1,9,Afghanistan,Asghar Afghan,Shaheen Afridi,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,150953,58.17,-50.52,0,0,,,Knuckleball,40,FLICK,0,0,6,2,13,2,2,0,0,0,0,0,0,0
+20,7,376,1,9,Afghanistan,Asghar Afghan,Shaheen Afridi,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,150954,77.05,103.73,0,0,,,Knuckleball,47,ON DRIVE,0,0,7,2,13,2,0,0,0,0,0,0,0,0
+21,1,376,1,9,Afghanistan,Rahmanullah Gurbaz,Imad Wasim,,4,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.1,2,1,0,150955,178.34,86.69,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,3,19,2,1,0,0,0,0,0,0,0
+22,2,376,1,9,Afghanistan,Rahmanullah Gurbaz,Imad Wasim,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,150956,62.31,-53.74,1,0,,,Knuckleball,54,LEG GLANCE,0,0,2,3,20,2,0,0,0,0,0,0,0,0
+23,3,376,1,9,Afghanistan,Asghar Afghan,Imad Wasim,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,150957,-75.82,53.08,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,3,20,2,0,0,0,0,0,0,0,0
+24,4,376,1,9,Afghanistan,Asghar Afghan,Imad Wasim,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,150958,78.89,39.73,0,0,,,Knuckleball,40,FLICK,0,0,4,3,20,2,0,0,0,0,0,0,0,0
+25,5,376,1,9,Afghanistan,Asghar Afghan,Imad Wasim,,4,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.5,2,1,0,150959,184.33,-10.92,6,0,,,Knuckleball,37,SD FLICK,0,0,5,3,26,2,0,0,0,0,0,0,0,0
+26,6,376,1,9,Afghanistan,Asghar Afghan,Imad Wasim,,4,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.6,2,1,0,150960,154.86,-104.85,4,0,,,Knuckleball,40,FLICK,0,0,6,3,30,2,0,0,0,0,0,0,0,0
+27,1,376,1,9,Afghanistan,Rahmanullah Gurbaz,Haris Rauf,,5,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,150961,112.50,-55.12,2,0,,,Knuckleball,40,FLICK,0,0,1,4,32,2,1,0,0,0,0,0,0,0
+28,2,376,1,9,Afghanistan,Rahmanullah Gurbaz,Haris Rauf,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,150962,-91.47,-84.13,1,0,,,Knuckleball,44,GLIDE,0,0,2,4,33,2,0,0,0,0,0,0,0,0
+29,3,376,1,9,Afghanistan,Asghar Afghan,Haris Rauf,,5,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught & Bowled,WICKET,1,4.3,2,1,0,150963,-91.47,-84.13,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,4,33,3,1,0,0,0,0,0,0,0
+30,4,376,1,9,Afghanistan,Karim Janat,Haris Rauf,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,150964,-81.34,14.40,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,4,33,3,2,0,0,0,0,0,0,0
+31,5,376,1,9,Afghanistan,Karim Janat,Haris Rauf,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,150965,-60.62,41.11,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,4,33,3,0,0,0,0,0,0,0,0
+32,6,376,1,9,Afghanistan,Karim Janat,Haris Rauf,,5,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,4.6,2,1,0,150966,-134.29,-95.64,6,0,,,Knuckleball,36,CUT SHOT,0,0,6,4,39,3,0,0,0,0,0,0,0,0
+33,1,376,1,9,Afghanistan,Rahmanullah Gurbaz,Hasan Ali,,6,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.1,2,1,0,150967,-134.29,-95.64,0,0,,,Knuckleball,58,PULL SHOT,0,0,1,5,39,4,1,0,0,0,0,0,0,0
+34,2,376,1,9,Afghanistan,Karim Janat,Hasan Ali,,6,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.2,2,1,0,150968,53.56,-136.16,4,0,,39,ANGLED IN,54,LEG GLANCE,0,0,2,5,43,4,2,0,0,0,0,0,0,0
+35,3,376,1,9,Afghanistan,Karim Janat,Hasan Ali,,6,3,1 (NB),1,0,0,0,0,1,1,0,1,0,0,0,0,0,,,0,5.3,2,1,1,150969,-60.62,31.90,1,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,3,5,44,4,0,0,0,0,0,0,0,0
+36,4,376,1,9,Afghanistan,Karim Janat,Hasan Ali,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,150970,16.73,54.46,0,0,,,Knuckleball,40,FLICK,0,0,4,5,44,4,0,0,0,0,0,0,0,0
+37,5,376,1,9,Afghanistan,Karim Janat,Hasan Ali,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,150971,-65.23,77.94,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,5,45,4,0,0,0,0,0,0,0,0
+38,6,376,1,9,Afghanistan,Najibullah Zadran,Hasan Ali,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,150972,88.56,22.23,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,5,45,4,0,0,0,0,0,0,0,0
+39,7,376,1,9,Afghanistan,Najibullah Zadran,Hasan Ali,,6,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.6,2,1,0,150973,184.79,-29.34,4,0,,,Knuckleball,36,CUT SHOT,0,0,7,5,49,4,0,0,0,0,0,0,0,0
+40,1,376,1,9,Afghanistan,Karim Janat,Shadab Khan,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,150974,-80.88,-21.05,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,6,49,4,1,0,0,0,0,0,0,0
+41,2,376,1,9,Afghanistan,Karim Janat,Shadab Khan,,7,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,150975,-140.28,-37.63,2,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,2,6,51,4,0,1,1,0,1,0,0,0
+42,3,376,1,9,Afghanistan,Karim Janat,Shadab Khan,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,150976,-56.48,78.86,0,0,,,Knuckleball,84,OFF DRIVE,0,0,3,6,51,4,0,0,1,0,0,0,0,0
+43,4,376,1,9,Afghanistan,Karim Janat,Shadab Khan,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,150977,-70.29,-27.04,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,6,51,4,0,0,1,0,0,0,0,0
+44,5,376,1,9,Afghanistan,Karim Janat,Shadab Khan,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,150978,-84.56,53.08,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,6,51,4,0,0,1,0,0,0,0,0
+45,6,376,1,9,Afghanistan,Karim Janat,Shadab Khan,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,150979,-74.44,-31.18,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,6,51,4,0,0,1,0,0,0,0,0
+46,1,376,1,9,Afghanistan,Najibullah Zadran,Imad Wasim,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,150980,51.26,24.07,0,0,,,Knuckleball,40,FLICK,0,0,1,7,51,4,1,0,1,0,0,0,0,0
+47,2,376,1,9,Afghanistan,Najibullah Zadran,Imad Wasim,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,150981,42.05,-31.64,0,0,,,Knuckleball,44,GLIDE,0,0,2,7,51,4,0,0,1,0,0,0,0,0
+48,3,376,1,9,Afghanistan,Najibullah Zadran,Imad Wasim,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,150982,-46.81,-55.58,1,0,,,Knuckleball,40,FLICK,0,0,3,7,52,4,0,0,1,0,0,0,0,0
+49,4,376,1,9,Afghanistan,Karim Janat,Imad Wasim,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,150983,-69.37,-32.10,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,7,52,4,0,0,1,0,0,0,0,0
+50,5,376,1,9,Afghanistan,Karim Janat,Imad Wasim,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,150984,92.24,110.17,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,7,53,4,0,0,1,0,0,0,0,0
+51,6,376,1,9,Afghanistan,Najibullah Zadran,Imad Wasim,,8,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,150985,-124.62,-71.70,2,0,,,Knuckleball,58,PULL SHOT,0,0,6,7,55,4,0,0,1,0,0,0,0,0
+52,1,376,1,9,Afghanistan,Karim Janat,Shadab Khan,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,150986,-156.39,42.49,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,8,56,4,1,0,1,0,0,0,0,0
+53,2,376,1,9,Afghanistan,Najibullah Zadran,Shadab Khan,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,150987,-29.31,48.47,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,8,56,4,0,0,1,0,0,0,0,0
+54,3,376,1,9,Afghanistan,Najibullah Zadran,Shadab Khan,,9,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.3,2,1,0,150988,169.13,-84.13,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,8,60,4,0,0,1,0,0,0,0,0
+55,4,376,1,9,Afghanistan,Najibullah Zadran,Shadab Khan,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,150989,93.16,29.14,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,8,60,4,0,0,1,0,0,0,0,0
+56,5,376,1,9,Afghanistan,Najibullah Zadran,Shadab Khan,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,150990,-52.33,-49.60,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,8,60,4,0,0,1,0,0,0,0,0
+57,6,376,1,9,Afghanistan,Najibullah Zadran,Shadab Khan,,9,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.6,2,1,0,150991,-153.17,-80.91,4,0,,,Knuckleball,58,PULL SHOT,0,0,6,8,64,4,0,0,1,0,0,0,0,0
+58,1,376,1,9,Afghanistan,Karim Janat,Imad Wasim,,10,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,9.1,2,1,0,150992,-153.17,-80.91,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,9,64,5,1,0,1,0,0,0,0,0
+59,2,376,1,9,Afghanistan,Mohammad Nabi,Imad Wasim,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,150993,-72.13,-3.55,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,9,64,5,2,0,1,0,0,0,0,0
+60,3,376,1,9,Afghanistan,Mohammad Nabi,Imad Wasim,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,150994,-83.18,7.04,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,9,64,5,0,0,1,0,0,0,0,0
+61,4,376,1,9,Afghanistan,Mohammad Nabi,Imad Wasim,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,150995,-83.18,7.04,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,9,64,5,0,0,1,0,0,0,0,0
+62,5,376,1,9,Afghanistan,Mohammad Nabi,Imad Wasim,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,150996,98.69,18.55,1,0,,,Knuckleball,40,FLICK,0,0,5,9,65,5,0,0,1,0,0,0,0,0
+63,6,376,1,9,Afghanistan,Najibullah Zadran,Imad Wasim,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,150997,25.48,44.33,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,9,65,5,0,0,1,0,0,0,0,0
+64,1,376,1,9,Afghanistan,Mohammad Nabi,Shadab Khan,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,150998,131.84,94.98,1,0,,,Knuckleball,40,FLICK,0,0,1,10,66,5,1,0,1,0,0,0,0,0
+65,2,376,1,9,Afghanistan,Najibullah Zadran,Shadab Khan,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,150999,-110.81,-9.54,1,0,,,Knuckleball,40,FLICK,0,0,2,10,67,5,0,0,1,0,0,0,0,0
+66,3,376,1,9,Afghanistan,Mohammad Nabi,Shadab Khan,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,151000,-74.90,66.43,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,10,67,5,0,0,1,0,0,0,0,0
+67,4,376,1,9,Afghanistan,Mohammad Nabi,Shadab Khan,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,151001,-95.62,46.17,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,10,67,5,0,0,1,0,0,0,0,0
+68,5,376,1,9,Afghanistan,Mohammad Nabi,Shadab Khan,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,151002,-54.18,44.79,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,10,67,5,0,0,1,0,0,0,0,0
+69,6,376,1,9,Afghanistan,Mohammad Nabi,Shadab Khan,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,151003,-67.53,-33.48,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,10,67,5,0,0,1,0,0,0,0,0
+70,1,376,1,9,Afghanistan,Najibullah Zadran,Hasan Ali,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,151004,27.32,59.99,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,11,67,5,1,0,1,0,0,0,0,0
+71,2,376,1,9,Afghanistan,Najibullah Zadran,Hasan Ali,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,151005,-25.17,64.13,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,11,67,5,0,0,1,0,0,0,0,0
+72,3,376,1,9,Afghanistan,Najibullah Zadran,Hasan Ali,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,151006,-25.17,64.13,0,0,,,Knuckleball,105,LEFT ALONE,0,0,3,11,67,5,0,0,1,0,0,0,0,0
+73,4,376,1,9,Afghanistan,Najibullah Zadran,Hasan Ali,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,151007,90.40,39.73,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,11,67,5,0,0,1,0,0,0,0,0
+74,5,376,1,9,Afghanistan,Najibullah Zadran,Hasan Ali,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,151008,74.28,-25.65,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,11,67,5,0,0,1,0,0,0,0,0
+75,6,376,1,9,Afghanistan,Najibullah Zadran,Hasan Ali,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,151009,74.74,-28.88,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,6,11,67,5,0,0,1,0,0,0,0,0
+76,1,376,1,9,Afghanistan,Mohammad Nabi,Shadab Khan,,13,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,151010,145.19,13.02,2,0,,,Knuckleball,40,FLICK,0,0,1,12,69,5,1,0,1,0,0,0,0,0
+77,2,376,1,9,Afghanistan,Mohammad Nabi,Shadab Khan,,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,151011,122.17,91.76,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,12,69,5,0,0,1,0,0,0,0,0
+78,3,376,1,9,Afghanistan,Mohammad Nabi,Shadab Khan,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,151012,122.17,91.76,1,0,,,Knuckleball,40,FLICK,0,0,3,12,70,5,0,0,1,0,0,0,0,0
+79,4,376,1,9,Afghanistan,Najibullah Zadran,Shadab Khan,,13,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,12.4,2,1,0,151013,-156.85,-60.19,6,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,12,76,5,0,0,1,0,0,0,0,0
+80,5,376,1,9,Afghanistan,Najibullah Zadran,Shadab Khan,,13,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,12.5,2,1,0,151014,-156.85,-60.19,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,12,76,6,1,0,1,0,0,0,0,0
+81,6,376,1,9,Afghanistan,Gulbadin Naib,Shadab Khan,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,151015,-84.56,4.27,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,12,76,6,2,0,1,0,0,0,0,0
+82,1,376,1,9,Afghanistan,Mohammad Nabi,Haris Rauf,,14,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.1,2,1,0,151016,-53.72,-147.21,4,0,,,Knuckleball,36,CUT SHOT,0,0,1,13,80,6,3,0,1,0,0,0,0,0
+83,2,376,1,9,Afghanistan,Mohammad Nabi,Haris Rauf,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,151017,-64.77,48.94,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,13,80,6,0,0,1,0,0,0,0,0
+84,3,376,1,9,Afghanistan,Mohammad Nabi,Haris Rauf,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,151018,-82.26,-9.54,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,13,80,6,0,0,1,0,0,0,0,0
+85,4,376,1,9,Afghanistan,Mohammad Nabi,Haris Rauf,,14,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,13.4,2,1,1,151019,-82.26,-9.54,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,13,81,6,0,0,1,0,0,0,0,0
+86,5,376,1,9,Afghanistan,Mohammad Nabi,Haris Rauf,,14,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.4,2,1,0,151020,-177.11,117.54,4,0,,,Knuckleball,15,LOFT COVER,0,0,5,13,85,6,0,0,1,0,0,0,0,0
+87,6,376,1,9,Afghanistan,Mohammad Nabi,Haris Rauf,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,151021,-54.18,48.01,0,0,,,Knuckleball,40,FLICK,0,0,6,13,85,6,0,0,1,0,0,0,0,0
+88,7,376,1,9,Afghanistan,Mohammad Nabi,Haris Rauf,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,151022,60.93,-50.06,1,0,,,Knuckleball,40,FLICK,0,0,7,13,86,6,0,0,1,0,0,0,0,0
+89,1,376,1,9,Afghanistan,Mohammad Nabi,Hasan Ali,,15,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,14.1,2,1,1,151023,60.93,-50.06,1,0,,,Knuckleball,54,LEG GLANCE,0,0,1,14,87,6,1,0,1,0,0,0,0,0
+90,2,376,1,9,Afghanistan,Mohammad Nabi,Hasan Ali,,15,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.1,2,1,0,151024,-180.79,139.18,4,0,,,Knuckleball,15,LOFT COVER,0,0,2,14,91,6,0,0,1,0,0,0,0,0
+91,3,376,1,9,Afghanistan,Mohammad Nabi,Hasan Ali,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,151025,-180.79,139.18,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,14,91,6,0,0,1,0,0,0,0,0
+92,4,376,1,9,Afghanistan,Mohammad Nabi,Hasan Ali,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,151026,123.09,-63.87,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,14,92,6,0,0,1,0,0,0,0,0
+93,5,376,1,9,Afghanistan,Gulbadin Naib,Hasan Ali,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,151027,72.44,62.29,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,14,92,6,0,0,1,0,0,0,0,0
+94,6,376,1,9,Afghanistan,Gulbadin Naib,Hasan Ali,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,151028,-51.41,59.53,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,14,92,6,0,0,1,0,0,0,0,0
+95,7,376,1,9,Afghanistan,Gulbadin Naib,Hasan Ali,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,151029,153.02,-8.62,1,0,,,Knuckleball,40,FLICK,0,0,7,14,93,6,0,0,1,0,0,0,0,0
+96,1,376,1,9,Afghanistan,Gulbadin Naib,Shaheen Afridi,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,151030,12.59,56.30,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,15,93,6,1,0,1,0,0,0,0,0
+97,2,376,1,9,Afghanistan,Gulbadin Naib,Shaheen Afridi,,16,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,15.2,2,1,1,151031,12.59,56.30,1,0,,,Knuckleball,105,LEFT ALONE,0,0,2,15,94,6,0,0,1,0,0,0,0,0
+98,3,376,1,9,Afghanistan,Gulbadin Naib,Shaheen Afridi,,16,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.2,2,1,0,151032,159.46,-88.73,4,0,,,Knuckleball,40,FLICK,0,0,3,15,98,6,0,0,1,0,0,0,0,0
+99,4,376,1,9,Afghanistan,Gulbadin Naib,Shaheen Afridi,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,151033,-89.63,1.97,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,15,99,6,0,0,1,0,0,0,0,0
+100,5,376,1,9,Afghanistan,Mohammad Nabi,Shaheen Afridi,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,151034,-113.57,-8.16,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,15,100,6,0,1,2,0,0,1,0,0
+101,6,376,1,9,Afghanistan,Gulbadin Naib,Shaheen Afridi,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,151035,-101.14,46.63,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,15,101,6,0,0,2,0,0,0,0,0
+102,7,376,1,9,Afghanistan,Mohammad Nabi,Shaheen Afridi,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,151036,-6.29,33.74,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,7,15,101,6,0,0,2,0,0,0,0,0
+103,1,376,1,9,Afghanistan,Gulbadin Naib,Haris Rauf,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,151037,138.74,-47.29,1,0,,,Knuckleball,40,FLICK,0,0,1,16,102,6,1,0,2,0,0,0,0,0
+104,2,376,1,9,Afghanistan,Mohammad Nabi,Haris Rauf,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,151038,-79.04,-5.40,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,16,103,6,0,0,2,0,0,0,0,0
+105,3,376,1,9,Afghanistan,Gulbadin Naib,Haris Rauf,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,151039,-79.04,-5.40,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,16,103,6,0,0,2,0,0,0,0,0
+106,4,376,1,9,Afghanistan,Gulbadin Naib,Haris Rauf,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,151040,-79.04,-5.40,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,16,103,6,0,0,2,0,0,0,0,0
+107,5,376,1,9,Afghanistan,Gulbadin Naib,Haris Rauf,,17,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,151041,-0.77,71.04,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,5,16,103,6,0,0,2,0,0,0,0,0
+108,6,376,1,9,Afghanistan,Gulbadin Naib,Haris Rauf,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,151042,152.56,-9.54,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,16,104,6,0,0,2,0,0,0,0,0
+109,1,376,1,9,Afghanistan,Gulbadin Naib,Hasan Ali,,18,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.1,2,1,0,151043,188.93,-7.24,6,0,,,Knuckleball,58,PULL SHOT,0,0,1,17,110,6,1,0,2,0,0,0,0,0
+110,2,376,1,9,Afghanistan,Gulbadin Naib,Hasan Ali,,18,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.2,2,1,0,151044,176.04,146.55,4,0,,,Knuckleball,18,SLOG SHOT,0,0,2,17,114,6,0,0,2,0,0,0,0,0
+111,3,376,1,9,Afghanistan,Gulbadin Naib,Hasan Ali,,18,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,151045,152.56,21.77,2,0,,,Knuckleball,18,SLOG SHOT,0,0,3,17,116,6,0,0,2,0,0,0,0,0
+112,4,376,1,9,Afghanistan,Gulbadin Naib,Hasan Ali,,18,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,151046,-148.56,88.07,2,0,,,Knuckleball,15,LOFT COVER,0,0,4,17,118,6,0,0,2,0,0,0,0,0
+113,5,376,1,9,Afghanistan,Gulbadin Naib,Hasan Ali,,18,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.5,2,1,0,151047,131.38,175.09,4,0,,,Knuckleball,11,LOFT ON,0,0,5,17,122,6,0,0,2,0,0,0,0,0
+114,6,376,1,9,Afghanistan,Gulbadin Naib,Hasan Ali,,18,6,2 (NB),2,1,1,0,0,0,1,0,1,0,0,0,0,0,,,0,17.6,2,1,1,151048,-51.41,44.33,2,0,,,Knuckleball,18,SLOG SHOT,0,0,6,17,124,6,0,0,2,0,0,0,0,0
+115,7,376,1,9,Afghanistan,Mohammad Nabi,Hasan Ali,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,151049,25.48,185.22,1,0,,,Knuckleball,47,ON DRIVE,0,0,7,17,125,6,0,0,2,0,0,0,0,0
+116,1,376,1,9,Afghanistan,Mohammad Nabi,Haris Rauf,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,151050,142.89,91.29,1,0,,,Knuckleball,58,PULL SHOT,0,0,1,18,126,6,1,0,2,0,0,0,0,0
+117,2,376,1,9,Afghanistan,Gulbadin Naib,Haris Rauf,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,151051,129.08,21.77,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,18,127,6,0,0,2,0,0,0,0,0
+118,3,376,1,9,Afghanistan,Mohammad Nabi,Haris Rauf,,19,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.3,2,1,0,151052,126.77,74.72,4,0,,,Knuckleball,18,SLOG SHOT,0,0,3,18,131,6,0,0,2,0,0,0,0,0
+119,4,376,1,9,Afghanistan,Mohammad Nabi,Haris Rauf,,19,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.4,2,1,0,151053,126.77,74.72,4,0,,,Knuckleball,58,PULL SHOT,0,0,4,18,135,6,0,0,2,0,0,0,0,0
+120,5,376,1,9,Afghanistan,Mohammad Nabi,Haris Rauf,,19,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.5,2,1,0,151054,126.77,74.72,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,18,136,6,0,0,2,0,0,0,0,0
+121,6,376,1,9,Afghanistan,Gulbadin Naib,Haris Rauf,,19,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.6,2,1,0,151055,155.78,-91.04,4,0,,,Knuckleball,58,PULL SHOT,0,0,6,18,140,6,0,0,2,0,0,0,0,0
+122,1,376,1,9,Afghanistan,Mohammad Nabi,Shaheen Afridi,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.1,2,1,0,151056,110.20,152.99,1,0,,,Knuckleball,18,SLOG SHOT,0,0,1,19,141,6,1,0,2,0,0,0,0,0
+123,2,376,1,9,Afghanistan,Gulbadin Naib,Shaheen Afridi,,20,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.2,2,1,0,151057,-51.41,73.34,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,19,142,6,0,0,2,0,0,0,0,0
+124,3,376,1,9,Afghanistan,Mohammad Nabi,Shaheen Afridi,,20,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.3,2,1,0,151058,159.46,28.68,1,0,,,Knuckleball,40,FLICK,0,0,3,19,143,6,0,0,2,0,0,0,0,0
+125,4,376,1,9,Afghanistan,Gulbadin Naib,Shaheen Afridi,,20,4,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,19.4,2,1,1,151059,159.46,28.68,1,0,,,Knuckleball,40,FLICK,0,0,4,19,144,6,0,0,2,0,0,0,0,0
+126,5,376,1,9,Afghanistan,Mohammad Nabi,Shaheen Afridi,,20,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.5,2,1,0,151060,-7.67,184.76,1,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,5,19,145,6,0,0,2,0,0,0,0,0
+127,6,376,1,9,Afghanistan,Gulbadin Naib,Shaheen Afridi,,20,6,1 (NB),1,0,0,0,0,1,1,0,1,0,0,0,0,0,,,0,19.6,2,1,1,151061,-7.67,184.76,1,0,,,Knuckleball,15,LOFT COVER,0,0,6,19,146,6,0,0,2,0,0,0,0,0
+128,7,376,1,9,Afghanistan,Gulbadin Naib,Shaheen Afridi,,20,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.6,2,1,0,151062,146.11,-21.05,1,0,,,Knuckleball,40,FLICK,0,0,7,19,147,6,0,0,2,0,0,0,0,0
+129,1,376,2,8,Pakistan,Mohammad Rizwan,Mujeeb Ur Rahman,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,151063,62.77,42.03,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+130,2,376,2,8,Pakistan,Mohammad Rizwan,Mujeeb Ur Rahman,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,151064,63.23,160.82,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+131,3,376,2,8,Pakistan,Babar Azam,Mujeeb Ur Rahman,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,151065,-59.24,87.15,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+132,4,376,2,8,Pakistan,Babar Azam,Mujeeb Ur Rahman,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,151066,82.11,154.37,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,0,2,0,0,0,0,0,0,0,0,0
+133,5,376,2,8,Pakistan,Mohammad Rizwan,Mujeeb Ur Rahman,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,151067,-15.04,62.75,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,0,2,0,0,0,0,0,0,0,0,0
+134,6,376,2,8,Pakistan,Mohammad Rizwan,Mujeeb Ur Rahman,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,151068,65.08,22.69,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,0,3,0,0,0,0,0,0,0,0,0
+135,1,376,2,8,Pakistan,Mohammad Rizwan,Mohammad Nabi,,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,151069,99.15,30.98,1,0,,,Knuckleball,40,FLICK,0,0,1,1,4,0,1,0,0,0,0,0,0,0
+136,2,376,2,8,Pakistan,Babar Azam,Mohammad Nabi,,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,151070,68.30,23.61,1,0,,,Knuckleball,40,FLICK,0,0,2,1,5,0,0,0,0,0,0,0,0,0
+137,3,376,2,8,Pakistan,Mohammad Rizwan,Mohammad Nabi,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,151071,-65.23,-41.77,1,0,,,Knuckleball,44,GLIDE,0,0,3,1,6,0,0,0,0,0,0,0,0,0
+138,4,376,2,8,Pakistan,Babar Azam,Mohammad Nabi,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,151072,113.88,-38.09,1,0,,,Knuckleball,40,FLICK,0,0,4,1,7,0,0,0,0,0,0,0,0,0
+139,5,376,2,8,Pakistan,Mohammad Rizwan,Mohammad Nabi,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,151073,9.82,55.38,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,1,7,0,0,0,0,0,0,0,0,0
+140,6,376,2,8,Pakistan,Mohammad Rizwan,Mohammad Nabi,,2,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.6,2,1,0,151074,135.52,-101.63,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,1,11,0,0,0,0,0,0,0,0,0
+141,1,376,2,8,Pakistan,Babar Azam,Mujeeb Ur Rahman,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,151075,-71.67,97.74,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,2,12,0,1,0,0,0,0,0,0,0
+142,2,376,2,8,Pakistan,Mohammad Rizwan,Mujeeb Ur Rahman,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,151076,-23.33,119.84,0,0,,,Knuckleball,84,OFF DRIVE,0,0,2,2,12,0,0,0,0,0,0,0,0,0
+143,3,376,2,8,Pakistan,Mohammad Rizwan,Mujeeb Ur Rahman,,3,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,2.3,2,1,0,151077,-23.33,119.84,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,2,12,1,1,0,0,0,0,0,0,0
+144,4,376,2,8,Pakistan,Fakhar Zaman,Mujeeb Ur Rahman,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,151078,-84.10,39.73,0,0,,,Knuckleball,40,FLICK,0,0,4,2,12,1,2,0,0,0,0,0,0,0
+145,5,376,2,8,Pakistan,Fakhar Zaman,Mujeeb Ur Rahman,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,151079,-80.42,-8.16,1,0,,,Knuckleball,40,FLICK,0,0,5,2,13,1,0,0,0,0,0,0,0,0
+146,6,376,2,8,Pakistan,Babar Azam,Mujeeb Ur Rahman,,3,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,151080,140.59,84.39,2,0,,,Knuckleball,40,FLICK,0,0,6,2,15,1,0,0,0,0,0,0,0,0
+147,1,376,2,8,Pakistan,Fakhar Zaman,Mohammad Nabi,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,151081,-101.14,93.14,1,0,,,Knuckleball,40,FLICK,0,0,1,3,16,1,1,0,0,0,0,0,0,0
+148,2,376,2,8,Pakistan,Babar Azam,Mohammad Nabi,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,151082,127.23,94.98,1,0,,,Knuckleball,40,FLICK,0,0,2,3,17,1,0,0,0,0,0,0,0,0
+149,3,376,2,8,Pakistan,Fakhar Zaman,Mohammad Nabi,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,151083,60.47,-40.39,1,0,,,Knuckleball,44,GLIDE,0,0,3,3,18,1,0,0,0,0,0,0,0,0
+150,4,376,2,8,Pakistan,Babar Azam,Mohammad Nabi,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,151084,-111.27,32.82,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,3,19,1,0,0,0,0,0,0,0,0
+151,5,376,2,8,Pakistan,Fakhar Zaman,Mohammad Nabi,,4,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.5,2,1,0,151085,-178.95,114.32,4,0,,,Knuckleball,95,SLOG SWEEP,0,0,5,3,23,1,0,0,0,0,0,0,0,0
+152,6,376,2,8,Pakistan,Fakhar Zaman,Mohammad Nabi,,4,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.6,2,1,0,151086,-156.85,164.50,6,0,,,Knuckleball,94,SDL ON,0,0,6,3,29,1,0,0,0,0,0,0,0,0
+153,1,376,2,8,Pakistan,Babar Azam,Mujeeb Ur Rahman,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,151087,91.32,71.50,0,0,,,Knuckleball,40,FLICK,0,0,1,4,29,1,1,0,0,0,0,0,0,0
+154,2,376,2,8,Pakistan,Babar Azam,Mujeeb Ur Rahman,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,151088,-101.60,90.37,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,4,30,1,0,0,0,0,0,0,0,0
+155,3,376,2,8,Pakistan,Fakhar Zaman,Mujeeb Ur Rahman,,5,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,151089,-104.36,-4.94,1,0,,,Knuckleball,40,FLICK,0,0,3,4,31,1,0,0,0,0,0,0,0,0
+156,4,376,2,8,Pakistan,Babar Azam,Mujeeb Ur Rahman,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,151090,-89.17,-27.04,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,4,31,1,0,0,0,0,0,0,0,0
+157,5,376,2,8,Pakistan,Babar Azam,Mujeeb Ur Rahman,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,151091,93.16,52.16,0,0,,,Knuckleball,58,PULL SHOT,0,0,5,4,31,1,0,0,0,0,0,0,0,0
+158,6,376,2,8,Pakistan,Babar Azam,Mujeeb Ur Rahman,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,151092,12.59,73.80,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,6,4,31,1,0,0,0,0,0,0,0,0
+159,1,376,2,8,Pakistan,Fakhar Zaman,Naveen-ul-Haq,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,151093,-86.87,68.27,0,0,,,Knuckleball,40,FLICK,0,0,1,5,31,1,1,0,0,0,0,0,0,0
+160,2,376,2,8,Pakistan,Fakhar Zaman,Naveen-ul-Haq,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,151094,69.68,-3.55,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,5,32,1,0,0,0,0,0,0,0,0
+161,3,376,2,8,Pakistan,Babar Azam,Naveen-ul-Haq,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,151095,155.78,60.91,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,5,33,1,0,0,0,0,0,0,0,0
+162,4,376,2,8,Pakistan,Fakhar Zaman,Naveen-ul-Haq,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.4,2,1,0,151096,-77.20,-129.71,4,0,,,Knuckleball,40,FLICK,0,0,4,5,37,1,0,0,0,0,0,0,0,0
+163,5,376,2,8,Pakistan,Fakhar Zaman,Naveen-ul-Haq,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,151097,-7.67,47.55,0,0,,,Knuckleball,40,FLICK,0,0,5,5,37,1,0,0,0,0,0,0,0,0
+164,6,376,2,8,Pakistan,Fakhar Zaman,Naveen-ul-Haq,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,151098,99.15,10.26,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,5,38,1,0,0,0,0,0,0,0,0
+165,1,376,2,8,Pakistan,Fakhar Zaman,Mujeeb Ur Rahman,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,151099,65.54,-42.69,1,0,,,Knuckleball,44,GLIDE,0,0,1,6,39,1,1,0,0,0,0,0,0,0
+166,2,376,2,8,Pakistan,Babar Azam,Mujeeb Ur Rahman,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,151100,-94.69,67.35,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,6,39,1,0,0,0,0,0,0,0,0
+167,3,376,2,8,Pakistan,Babar Azam,Mujeeb Ur Rahman,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,151101,109.28,45.25,1,0,,,Knuckleball,40,FLICK,0,0,3,6,40,1,0,0,0,0,0,0,0,0
+168,4,376,2,8,Pakistan,Fakhar Zaman,Mujeeb Ur Rahman,,7,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,151102,-62.92,133.19,2,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,6,42,1,0,0,0,0,0,0,0,0
+169,5,376,2,8,Pakistan,Fakhar Zaman,Mujeeb Ur Rahman,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,151103,11.67,-89.65,1,0,,,Knuckleball,35,LATE CUT,0,0,5,6,43,1,0,0,0,0,0,0,0,0
+170,6,376,2,8,Pakistan,Babar Azam,Mujeeb Ur Rahman,,7,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,6.6,2,1,1,151104,85.79,-44.07,1,0,,,Knuckleball,40,FLICK,0,0,6,6,44,1,0,0,0,0,0,0,0,0
+171,1,376,2,8,Pakistan,Babar Azam,Karim Janat,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,151105,-103.90,32.36,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,7,44,1,1,0,0,0,0,0,0,0
+172,2,376,2,8,Pakistan,Babar Azam,Karim Janat,,8,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,151106,125.85,123.53,2,0,,,Knuckleball,58,PULL SHOT,0,0,2,7,46,1,0,0,0,0,0,0,0,0
+173,3,376,2,8,Pakistan,Babar Azam,Karim Janat,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,151107,-149.03,5.19,1,0,,,Knuckleball,21,SD OFF,0,0,3,7,47,1,0,0,0,0,0,0,0,0
+174,4,376,2,8,Pakistan,Fakhar Zaman,Karim Janat,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,151108,-123.24,99.12,1,0,,,Knuckleball,40,FLICK,0,0,4,7,48,1,0,0,0,0,0,0,0,0
+175,5,376,2,8,Pakistan,Babar Azam,Karim Janat,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,151109,149.79,30.52,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,7,49,1,0,0,0,0,0,0,0,0
+176,6,376,2,8,Pakistan,Fakhar Zaman,Karim Janat,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,151110,19.95,48.01,0,0,,,Knuckleball,37,SD FLICK,0,0,6,7,49,1,0,0,0,0,0,0,0,0
+177,1,376,2,8,Pakistan,Babar Azam,Naveen-ul-Haq,,9,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.1,2,1,0,151111,-155.01,-68.94,4,0,,,Knuckleball,5,LOFT OFF,0,0,1,8,53,1,1,1,1,0,1,0,0,0
+178,2,376,2,8,Pakistan,Babar Azam,Naveen-ul-Haq,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,151112,127.69,116.16,1,0,,,Knuckleball,40,FLICK,0,0,2,8,54,1,0,0,1,0,0,0,0,0
+179,3,376,2,8,Pakistan,Fakhar Zaman,Naveen-ul-Haq,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,151113,-140.74,67.81,1,0,,,Knuckleball,40,FLICK,0,0,3,8,55,1,0,0,1,0,0,0,0,0
+180,4,376,2,8,Pakistan,Babar Azam,Naveen-ul-Haq,,9,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.4,2,1,0,151114,-44.97,-156.42,4,0,,,Knuckleball,35,LATE CUT,0,0,4,8,59,1,0,0,1,0,0,0,0,0
+181,5,376,2,8,Pakistan,Babar Azam,Naveen-ul-Haq,,9,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,151115,144.73,-2.63,2,0,,,Knuckleball,58,PULL SHOT,0,0,5,8,61,1,0,0,1,0,0,0,0,0
+182,6,376,2,8,Pakistan,Babar Azam,Naveen-ul-Haq,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,151116,-32.54,-2.17,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,8,62,1,0,0,1,0,0,0,0,0
+183,1,376,2,8,Pakistan,Babar Azam,Karim Janat,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,151117,-83.18,107.87,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,9,63,1,1,0,1,0,0,0,0,0
+184,2,376,2,8,Pakistan,Fakhar Zaman,Karim Janat,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,151118,-57.86,-55.58,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,9,64,1,0,0,1,0,0,0,0,0
+185,3,376,2,8,Pakistan,Babar Azam,Karim Janat,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,151119,140.59,77.48,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,9,65,1,0,0,1,0,0,0,0,0
+186,4,376,2,8,Pakistan,Fakhar Zaman,Karim Janat,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,151120,67.38,-55.58,1,0,,,Knuckleball,35,LATE CUT,0,0,4,9,66,1,0,0,1,0,0,0,0,0
+187,5,376,2,8,Pakistan,Babar Azam,Karim Janat,,10,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,151121,-163.76,23.61,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,9,68,1,0,0,1,0,0,0,0,0
+188,6,376,2,8,Pakistan,Babar Azam,Karim Janat,,10,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.6,2,1,0,151122,-40.36,-146.29,4,0,,,Knuckleball,31,UPPER CUT,0,0,6,9,72,1,0,0,1,0,0,0,0,0
+189,1,376,2,8,Pakistan,Fakhar Zaman,Rashid Khan,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,151123,-53.72,-41.31,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,10,73,1,1,0,1,0,0,0,0,0
+190,2,376,2,8,Pakistan,Babar Azam,Rashid Khan,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,151124,-128.31,-39.47,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,2,10,74,1,0,0,1,0,0,0,0,0
+191,3,376,2,8,Pakistan,Fakhar Zaman,Rashid Khan,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,151125,-128.31,-39.47,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,10,74,1,0,0,1,0,0,0,0,0
+192,4,376,2,8,Pakistan,Fakhar Zaman,Rashid Khan,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,151126,99.61,9.34,0,0,,,Knuckleball,40,FLICK,0,0,4,10,74,1,0,0,1,0,0,0,0,0
+193,5,376,2,8,Pakistan,Fakhar Zaman,Rashid Khan,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,151127,97.31,28.68,1,0,,,Knuckleball,40,FLICK,0,0,5,10,75,1,0,0,1,0,0,0,0,0
+194,6,376,2,8,Pakistan,Babar Azam,Rashid Khan,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,151128,97.31,28.68,0,0,,,Knuckleball,40,FLICK,0,0,6,10,75,1,0,0,1,0,0,0,0,0
+195,1,376,2,8,Pakistan,Fakhar Zaman,Mohammad Nabi,,12,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,11.1,2,1,0,151129,97.31,28.68,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,11,75,2,1,0,1,0,0,0,0,0
+196,2,376,2,8,Pakistan,Mohammad Hafeez,Mohammad Nabi,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,151130,-4.45,-15.99,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,11,75,2,2,0,1,0,0,0,0,0
+197,3,376,2,8,Pakistan,Mohammad Hafeez,Mohammad Nabi,,12,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,151131,148.41,-5.86,2,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,11,77,2,0,0,1,0,0,0,0,0
+198,4,376,2,8,Pakistan,Mohammad Hafeez,Mohammad Nabi,,12,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.4,2,1,0,151132,-40.36,-148.13,4,0,,,Knuckleball,59,SQUARE DRIVE,0,0,4,11,81,2,0,0,1,0,0,0,0,0
+199,5,376,2,8,Pakistan,Mohammad Hafeez,Mohammad Nabi,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,151133,69.68,53.08,0,0,,,Knuckleball,40,FLICK,0,0,5,11,81,2,0,0,1,0,0,0,0,0
+200,6,376,2,8,Pakistan,Mohammad Hafeez,Mohammad Nabi,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,151134,-70.75,-18.75,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,11,81,2,0,0,1,0,0,0,0,0
+201,1,376,2,8,Pakistan,Babar Azam,Rashid Khan,,13,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,12.1,2,1,1,151135,89.02,13.02,1,0,,,Knuckleball,40,FLICK,0,0,1,12,82,2,1,0,1,0,0,0,0,0
+202,2,376,2,8,Pakistan,Mohammad Hafeez,Rashid Khan,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,151136,42.97,152.07,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,2,12,83,2,0,0,1,0,0,0,0,0
+203,3,376,2,8,Pakistan,Babar Azam,Rashid Khan,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,151137,135.98,87.61,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,3,12,84,2,0,0,1,0,0,0,0,0
+204,4,376,2,8,Pakistan,Mohammad Hafeez,Rashid Khan,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,151138,-78.58,-13.68,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,12,85,2,0,0,1,0,0,0,0,0
+205,5,376,2,8,Pakistan,Babar Azam,Rashid Khan,,13,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.5,2,1,0,151139,-59.70,-155.04,4,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,12,89,2,0,0,1,0,0,0,0,0
+206,6,376,2,8,Pakistan,Babar Azam,Rashid Khan,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,151140,-8.59,71.50,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,12,89,2,0,0,1,0,0,0,0,0
+207,1,376,2,8,Pakistan,Mohammad Hafeez,Mohammad Nabi,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,151141,-97.46,142.86,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,13,90,2,1,0,1,0,0,0,0,0
+208,2,376,2,8,Pakistan,Babar Azam,Mohammad Nabi,,14,2,2 (NB),2,1,1,0,0,0,1,0,1,0,0,0,0,0,,,0,13.2,2,1,1,151142,92.24,-10.92,2,0,,,Knuckleball,40,FLICK,0,0,2,13,92,2,0,0,1,0,0,0,0,0
+209,3,376,2,8,Pakistan,Mohammad Hafeez,Mohammad Nabi,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,151143,151.18,29.60,1,0,,,Knuckleball,18,SLOG SHOT,0,0,3,13,93,2,0,0,1,0,0,0,0,0
+210,4,376,2,8,Pakistan,Babar Azam,Mohammad Nabi,,14,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,151144,-5.37,187.06,2,0,,,Knuckleball,69,SDL STRAIGHT,0,0,4,13,95,2,0,0,1,0,0,0,0,0
+211,5,376,2,8,Pakistan,Babar Azam,Mohammad Nabi,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,151145,92.70,27.76,0,0,,,Knuckleball,40,FLICK,0,0,5,13,95,2,0,0,1,0,0,0,0,0
+212,6,376,2,8,Pakistan,Babar Azam,Mohammad Nabi,,14,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,151146,-132.45,-39.93,2,0,,,Knuckleball,36,CUT SHOT,0,0,6,13,97,2,0,0,1,0,0,0,0,0
+213,7,376,2,8,Pakistan,Babar Azam,Mohammad Nabi,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,151147,31.00,27.29,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,7,13,97,2,0,0,1,0,0,0,0,0
+214,1,376,2,8,Pakistan,Mohammad Hafeez,Rashid Khan,,15,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,14.1,2,1,0,151148,31.00,27.29,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,14,97,3,1,0,1,0,0,0,0,0
+215,2,376,2,8,Pakistan,Babar Azam,Rashid Khan,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,151149,-151.79,18.09,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,14,98,3,2,0,1,0,0,0,0,0
+216,3,376,2,8,Pakistan,Shoaib Malik,Rashid Khan,,15,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,151150,53.10,38.81,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,14,98,3,0,0,1,0,0,0,0,0
+217,4,376,2,8,Pakistan,Shoaib Malik,Rashid Khan,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,151151,132.76,-10.00,1,0,,,Knuckleball,40,FLICK,0,0,4,14,99,3,0,0,1,0,0,0,0,0
+218,5,376,2,8,Pakistan,Babar Azam,Rashid Khan,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,151152,124.01,-36.71,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,14,100,3,0,1,2,0,0,1,0,0
+219,6,376,2,8,Pakistan,Shoaib Malik,Rashid Khan,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,151153,90.86,32.36,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,14,101,3,0,0,2,0,0,0,0,0
+220,1,376,2,8,Pakistan,Shoaib Malik,Karim Janat,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,151154,114.80,-10.92,1,0,,39,ANGLED IN,40,FLICK,0,0,1,15,102,3,1,0,2,0,0,0,0,0
+221,2,376,2,8,Pakistan,Babar Azam,Karim Janat,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,151155,-96.54,49.86,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,15,103,3,0,0,2,0,0,0,0,0
+222,3,376,2,8,Pakistan,Shoaib Malik,Karim Janat,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,151156,-150.87,31.90,1,0,,8,OFF CUTTER,52,BACKFOOT COVERDRIVE,0,0,3,15,104,3,0,0,2,0,0,0,0,0
+223,4,376,2,8,Pakistan,Babar Azam,Karim Janat,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,151157,121.25,-24.73,1,0,,,Knuckleball,40,FLICK,0,0,4,15,105,3,0,0,2,0,0,0,0,0
+224,5,376,2,8,Pakistan,Shoaib Malik,Karim Janat,,16,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.5,2,1,0,151158,-139.82,-93.80,4,0,,,Knuckleball,36,CUT SHOT,0,0,5,15,109,3,0,0,2,0,0,0,0,0
+225,6,376,2,8,Pakistan,Shoaib Malik,Karim Janat,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,151159,-61.54,-112.22,1,0,,38,STRAIGHT BALL,15,LOFT COVER,0,0,6,15,110,3,0,0,2,0,0,0,0,0
+226,1,376,2,8,Pakistan,Shoaib Malik,Rashid Khan,,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,151160,31.46,29.14,0,0,,24,LEG SPIN,50,BACKFOOT DEFENCE,0,0,1,16,110,3,1,0,2,0,0,0,0,0
+227,2,376,2,8,Pakistan,Shoaib Malik,Rashid Khan,,17,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,16.2,2,1,0,151161,89.02,183.38,6,0,,24,LEG SPIN,95,SLOG SWEEP,0,0,2,16,116,3,0,0,2,0,0,0,0,0
+228,3,376,2,8,Pakistan,Shoaib Malik,Rashid Khan,,17,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,151162,131.84,118.00,2,0,,,Knuckleball,40,FLICK,0,0,3,16,118,3,0,0,2,0,0,0,0,0
+229,4,376,2,8,Pakistan,Shoaib Malik,Rashid Khan,,17,4,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,0,,,0,16.4,2,1,1,151163,131.84,118.00,2,0,,,Knuckleball,54,LEG GLANCE,0,0,4,16,120,3,0,0,2,0,0,0,0,0
+230,5,376,2,8,Pakistan,Babar Azam,Rashid Khan,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,151164,-79.04,-36.24,1,0,,,Knuckleball,18,SLOG SHOT,0,0,5,16,121,3,0,0,2,0,0,0,0,0
+231,6,376,2,8,Pakistan,Shoaib Malik,Rashid Khan,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,151165,-74.90,-32.56,1,0,,,Knuckleball,40,FLICK,0,0,6,16,122,3,0,0,2,0,0,0,0,0
+232,7,376,2,8,Pakistan,Babar Azam,Rashid Khan,,17,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,16.6,2,1,0,151166,-74.90,-32.56,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,7,16,122,4,1,0,2,0,0,0,0,0
+233,1,376,2,8,Pakistan,Shoaib Malik,Naveen-ul-Haq,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,151167,139.67,82.09,1,0,,,Knuckleball,58,PULL SHOT,0,0,1,17,123,4,2,0,2,0,0,0,0,0
+234,2,376,2,8,Pakistan,Asif Ali,Naveen-ul-Haq,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,151168,140.13,-30.72,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,17,124,4,0,0,2,0,0,0,0,0
+235,3,376,2,8,Pakistan,Shoaib Malik,Naveen-ul-Haq,,18,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,151169,-12.74,74.26,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,3,17,124,4,0,0,2,0,0,0,0,0
+236,4,376,2,8,Pakistan,Shoaib Malik,Naveen-ul-Haq,,18,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,151170,-8.13,59.06,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,17,124,4,0,0,2,0,0,0,0,0
+237,5,376,2,8,Pakistan,Shoaib Malik,Naveen-ul-Haq,,18,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,17.5,2,1,0,151171,-8.13,59.06,0,0,,,Knuckleball,96,Slice,0,0,5,17,124,5,1,0,2,0,0,0,0,0
+238,6,376,2,8,Pakistan,Shadab Khan,Naveen-ul-Haq,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,151172,82.11,17.17,0,0,,,Knuckleball,40,FLICK,0,0,6,17,124,5,2,0,2,0,0,0,0,0
+239,1,376,2,8,Pakistan,Asif Ali,Karim Janat,,19,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.1,2,1,0,151173,-113.57,183.84,6,0,,,Knuckleball,5,LOFT OFF,0,0,1,18,130,5,3,0,2,0,0,0,0,0
+240,2,376,2,8,Pakistan,Asif Ali,Karim Janat,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,151174,-113.57,183.84,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,2,18,130,5,0,0,2,0,0,0,0,0
+241,3,376,2,8,Pakistan,Asif Ali,Karim Janat,,19,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.3,2,1,0,151175,171.44,127.67,6,0,,,Knuckleball,58,PULL SHOT,0,0,3,18,136,5,0,0,2,0,0,0,0,0
+242,4,376,2,8,Pakistan,Asif Ali,Karim Janat,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,151176,171.44,127.67,0,0,,,Knuckleball,96,Slice,0,0,4,18,136,5,0,0,2,0,0,0,0,0
+243,5,376,2,8,Pakistan,Asif Ali,Karim Janat,,19,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.5,2,1,0,151177,-10.90,210.09,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,5,18,142,5,0,0,2,0,0,0,0,0
+244,6,376,2,8,Pakistan,Asif Ali,Karim Janat,,19,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.6,2,1,0,151178,-181.72,142.86,6,0,,,Knuckleball,15,LOFT COVER,0,0,6,18,148,5,0,0,2,0,0,0,0,0

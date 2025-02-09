@@ -1,0 +1,228 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,646,1,53,England Women,Sophia Dunkley,Renuka Singh,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,242837,,,0,0,,,Knuckleball,105,LEFT ALONE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,646,1,53,England Women,Sophia Dunkley,Renuka Singh,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,242838,,,0,0,,,Knuckleball,89,STEP DOWN COVER DRIVE,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2,3,646,1,53,England Women,Sophia Dunkley,Renuka Singh,,1,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.3,1,1,0,242839,136.90,151.15,4,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,3,0,4,0,0,0,0,0,0,0,0,0
+3,4,646,1,53,England Women,Sophia Dunkley,Renuka Singh,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,242840,72.90,18.09,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,0,5,0,0,0,0,0,0,0,0,0
+4,5,646,1,53,England Women,Danielle Wyatt,Renuka Singh,,1,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.5,1,1,0,242841,-157.77,-69.40,4,0,,,Knuckleball,36,CUT SHOT,0,0,5,0,9,0,0,0,0,0,0,0,0,0
+5,6,646,1,53,England Women,Danielle Wyatt,Renuka Singh,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,242842,-35.76,43.87,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,0,9,0,0,0,0,0,0,0,0,0
+6,1,646,1,53,England Women,Sophia Dunkley,Deepti Sharma,,2,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Stumped,WICKET,1,1.1,1,1,0,242843,-35.76,43.87,0,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,1,1,9,1,1,0,0,0,0,0,0,0
+7,2,646,1,53,England Women,Alice Capsey,Deepti Sharma,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,242844,-42.67,84.85,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,1,9,1,2,0,0,0,0,0,0,0
+8,3,646,1,53,England Women,Alice Capsey,Deepti Sharma,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,242845,124.47,39.27,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,3,1,10,1,0,0,0,0,0,0,0,0
+9,4,646,1,53,England Women,Danielle Wyatt,Deepti Sharma,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,242846,-143.96,8.88,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,1,11,1,0,0,0,0,0,0,0,0
+10,5,646,1,53,England Women,Alice Capsey,Deepti Sharma,,2,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,242847,130.46,12.56,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,1,12,1,0,0,0,0,0,0,0,0
+11,6,646,1,53,England Women,Danielle Wyatt,Deepti Sharma,,2,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,242848,-123.24,16.24,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,1,13,1,0,0,0,0,0,0,0,0
+12,1,646,1,53,England Women,Danielle Wyatt,Renuka Singh,,3,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,2.1,1,1,0,242849,-123.24,16.24,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,2,13,2,1,0,0,0,0,0,0,0
+13,2,646,1,53,England Women,Bryony Smith,Renuka Singh,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,242850,52.18,7.04,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,2,13,2,2,0,0,0,0,0,0,0
+14,3,646,1,53,England Women,Bryony Smith,Renuka Singh,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,242851,-141.66,7.04,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,2,14,2,0,0,0,0,0,0,0,0
+15,4,646,1,53,England Women,Alice Capsey,Renuka Singh,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,242852,-78.12,-21.51,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,2,14,2,0,0,0,0,0,0,0,0
+16,5,646,1,53,England Women,Alice Capsey,Renuka Singh,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,242853,-78.12,-21.51,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,2,14,2,0,0,0,0,0,0,0,0
+17,6,646,1,53,England Women,Alice Capsey,Renuka Singh,,3,6,2 WK,2,2,0,1,0,0,0,0,0,0,0,0,0,1,Run Out,WICKET,0,2.6,1,1,0,242854,-118.64,85.77,2,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,2,16,3,0,0,0,0,0,0,0,0
+18,1,646,1,53,England Women,Bryony Smith,Deepti Sharma,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,242855,141.97,12.56,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,1,3,17,3,1,0,0,0,0,0,0,0
+19,2,646,1,53,England Women,Amy Ellen Jones,Deepti Sharma,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,242856,131.84,36.04,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,3,18,3,0,0,0,0,0,0,0,0
+20,3,646,1,53,England Women,Bryony Smith,Deepti Sharma,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,242857,-86.41,17.63,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,3,18,3,0,0,0,0,0,0,0,0
+21,4,646,1,53,England Women,Bryony Smith,Deepti Sharma,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,242858,-42.67,39.73,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,3,18,3,0,0,0,0,0,0,0,0
+22,5,646,1,53,England Women,Bryony Smith,Deepti Sharma,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,242859,123.09,100.04,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,5,3,19,3,0,0,0,0,0,0,0,0
+23,6,646,1,53,England Women,Amy Ellen Jones,Deepti Sharma,,4,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,242860,45.74,147.47,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,6,3,20,3,0,0,0,0,0,0,0,0
+24,1,646,1,53,England Women,Amy Ellen Jones,Renuka Singh,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,242861,117.56,93.14,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,1,4,21,3,1,0,0,0,0,0,0,0
+25,2,646,1,53,England Women,Bryony Smith,Renuka Singh,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,242862,-9.97,27.76,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,4,21,3,0,0,0,0,0,0,0,0
+26,3,646,1,53,England Women,Bryony Smith,Renuka Singh,,5,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,242863,-126.00,79.78,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,4,23,3,0,0,0,0,0,0,0,0
+27,4,646,1,53,England Women,Bryony Smith,Renuka Singh,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,242864,-135.67,20.39,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,4,24,3,0,0,0,0,0,0,0,0
+28,5,646,1,53,England Women,Amy Ellen Jones,Renuka Singh,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,242865,-146.72,16.24,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,4,25,3,0,0,0,0,0,0,0,0
+29,6,646,1,53,England Women,Bryony Smith,Renuka Singh,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,242866,-81.80,65.97,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,4,25,3,0,0,0,0,0,0,0,0
+30,1,646,1,53,England Women,Amy Ellen Jones,Deepti Sharma,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,242867,-69.37,7.04,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,5,25,3,1,0,0,0,0,0,0,0
+31,2,646,1,53,England Women,Amy Ellen Jones,Deepti Sharma,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,242868,-88.71,30.06,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,5,25,3,0,0,0,0,0,0,0,0
+32,3,646,1,53,England Women,Amy Ellen Jones,Deepti Sharma,,6,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,242869,14.89,-122.81,2,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,5,27,3,0,0,0,0,0,0,0,0
+33,4,646,1,53,England Women,Amy Ellen Jones,Deepti Sharma,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,1,1,0,242870,54.49,144.24,1,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,4,5,28,3,0,0,0,0,0,0,0,0
+34,5,646,1,53,England Women,Bryony Smith,Deepti Sharma,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,242871,-105.74,78.40,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,5,29,3,0,0,0,0,0,0,0,0
+35,6,646,1,53,England Women,Amy Ellen Jones,Deepti Sharma,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,242872,-2.15,69.65,0,0,,,Knuckleball,19,BACKFOOT STRAIGHT DRIVE,0,0,6,5,29,3,0,0,0,0,0,0,0,0
+36,1,646,1,53,England Women,Bryony Smith,Radha Yadav,,7,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.1,1,1,0,242873,-177.57,85.31,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,6,33,3,1,0,0,0,0,0,0,0
+37,2,646,1,53,England Women,Bryony Smith,Radha Yadav,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,242874,59.55,150.23,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,2,6,34,3,0,0,0,0,0,0,0,0
+38,3,646,1,53,England Women,Amy Ellen Jones,Radha Yadav,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,242875,-80.88,64.13,0,0,,,Knuckleball,89,STEP DOWN COVER DRIVE,0,0,3,6,34,3,0,0,0,0,0,0,0,0
+39,4,646,1,53,England Women,Amy Ellen Jones,Radha Yadav,,7,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.4,1,1,0,242876,-137.05,-104.85,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,4,6,38,3,0,0,0,0,0,0,0,0
+40,5,646,1,53,England Women,Amy Ellen Jones,Radha Yadav,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,242877,-12.28,70.58,0,0,,,Knuckleball,1,STEP DOWN STRAIGHT DRIVE,0,0,5,6,38,3,0,0,0,0,0,0,0,0
+41,6,646,1,53,England Women,Amy Ellen Jones,Radha Yadav,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,242878,-124.62,41.11,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,6,39,3,0,0,0,0,0,0,0,0
+42,1,646,1,53,England Women,Amy Ellen Jones,Sneh Rana,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,242879,-15.04,65.51,0,0,,,Knuckleball,19,BACKFOOT STRAIGHT DRIVE,0,0,1,7,39,3,1,0,0,0,0,0,0,0
+43,2,646,1,53,England Women,Amy Ellen Jones,Sneh Rana,,8,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.2,1,1,0,242880,-187.24,71.50,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,7,43,3,0,0,0,0,0,0,0,0
+44,3,646,1,53,England Women,Amy Ellen Jones,Sneh Rana,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,242881,54.03,152.07,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,3,7,44,3,0,0,0,0,0,0,0,0
+45,4,646,1,53,England Women,Bryony Smith,Sneh Rana,,8,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.4,1,1,0,242882,185.71,106.49,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,4,7,48,3,0,0,0,0,0,0,0,0
+46,5,646,1,53,England Women,Bryony Smith,Sneh Rana,,8,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,7.5,1,1,0,242883,185.71,106.49,0,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,5,7,48,4,1,0,0,0,0,0,0,0
+47,6,646,1,53,England Women,Amy Ellen Jones,Sneh Rana,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,242884,185.71,106.49,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,7,48,4,2,0,0,0,0,0,0,0
+48,1,646,1,53,England Women,Maia Bouchier,Pooja Vastrakar,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,242885,185.71,106.49,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,8,48,4,3,0,0,0,0,0,0,0
+49,2,646,1,53,England Women,Maia Bouchier,Pooja Vastrakar,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,242886,40.67,108.33,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,8,48,4,0,0,0,0,0,0,0,0
+50,3,646,1,53,England Women,Maia Bouchier,Pooja Vastrakar,,9,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.3,1,1,0,242887,60.93,200.42,4,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,3,8,52,4,0,1,1,0,1,0,0,0
+51,4,646,1,53,England Women,Maia Bouchier,Pooja Vastrakar,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,242888,-138.44,15.32,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,8,53,4,0,0,1,0,0,0,0,0
+52,5,646,1,53,England Women,Amy Ellen Jones,Pooja Vastrakar,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,242889,-75.82,35.58,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,8,53,4,0,0,1,0,0,0,0,0
+53,6,646,1,53,England Women,Amy Ellen Jones,Pooja Vastrakar,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,242890,41.13,113.40,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,6,8,53,4,0,0,1,0,0,0,0,0
+54,1,646,1,53,England Women,Maia Bouchier,Sneh Rana,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,242891,58.63,-36.24,0,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,9,53,4,1,0,1,0,0,0,0,0
+55,2,646,1,53,England Women,Maia Bouchier,Sneh Rana,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,242892,-57.40,144.71,1,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,2,9,54,4,0,0,1,0,0,0,0,0
+56,3,646,1,53,England Women,Amy Ellen Jones,Sneh Rana,,10,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,9.3,1,1,0,242893,-57.40,144.71,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,9,54,5,1,0,1,0,0,0,0,0
+57,4,646,1,53,England Women,Freya Kemp,Sneh Rana,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,242894,6.60,59.53,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,9,54,5,2,0,1,0,0,0,0,0
+58,5,646,1,53,England Women,Freya Kemp,Sneh Rana,,10,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.5,1,1,0,242895,-61.54,211.47,4,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,5,9,58,5,0,0,1,0,0,0,0,0
+59,6,646,1,53,England Women,Freya Kemp,Sneh Rana,,10,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,242896,143.81,-15.06,2,0,,,Knuckleball,36,CUT SHOT,0,0,6,9,60,5,0,0,1,0,0,0,0,0
+60,1,646,1,53,England Women,Maia Bouchier,Pooja Vastrakar,,11,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.1,1,1,0,242897,-176.19,83.93,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,10,64,5,1,0,1,0,0,0,0,0
+61,2,646,1,53,England Women,Maia Bouchier,Pooja Vastrakar,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,242898,57.25,118.92,0,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,2,10,64,5,0,0,1,0,0,0,0,0
+62,3,646,1,53,England Women,Maia Bouchier,Pooja Vastrakar,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,242899,-140.74,-2.17,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,10,65,5,0,0,1,0,0,0,0,0
+63,4,646,1,53,England Women,Freya Kemp,Pooja Vastrakar,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,242900,-66.61,-36.71,1,0,,,Knuckleball,54,LEG GLANCE,0,0,4,10,66,5,0,0,1,0,0,0,0,0
+64,5,646,1,53,England Women,Maia Bouchier,Pooja Vastrakar,,11,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.5,1,1,0,242901,166.83,105.57,4,0,,,Knuckleball,18,SLOG SHOT,0,0,5,10,70,5,0,0,1,0,0,0,0,0
+65,6,646,1,53,England Women,Maia Bouchier,Pooja Vastrakar,,11,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,242902,117.56,-53.28,2,0,,,Knuckleball,37,STEP DOWN FLICK,0,0,6,10,72,5,0,0,1,0,0,0,0,0
+66,1,646,1,53,England Women,Freya Kemp,Radha Yadav,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,242903,46.66,147.47,1,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,1,11,73,5,1,0,1,0,0,0,0,0
+67,2,646,1,53,England Women,Maia Bouchier,Radha Yadav,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,242904,83.49,-38.55,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,11,74,5,0,0,1,0,0,0,0,0
+68,3,646,1,53,England Women,Freya Kemp,Radha Yadav,,12,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,11.3,1,1,0,242905,-56.94,210.55,6,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,3,11,80,5,0,0,1,0,0,0,0,0
+69,4,646,1,53,England Women,Freya Kemp,Radha Yadav,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,242906,-22.87,15.32,0,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,4,11,80,5,0,0,1,0,0,0,0,0
+70,5,646,1,53,England Women,Freya Kemp,Radha Yadav,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,242907,-22.87,15.32,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,11,80,5,0,0,1,0,0,0,0,0
+71,6,646,1,53,England Women,Freya Kemp,Radha Yadav,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,242908,-67.07,58.60,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,6,11,80,5,0,0,1,0,0,0,0,0
+72,1,646,1,53,England Women,Maia Bouchier,Renuka Singh,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,242909,90.40,144.24,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,1,12,81,5,1,0,1,0,0,0,0,0
+73,2,646,1,53,England Women,Freya Kemp,Renuka Singh,,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.2,1,1,0,242910,86.26,60.91,0,0,,,Knuckleball,89,STEP DOWN COVER DRIVE,0,0,2,12,81,5,0,0,1,0,0,0,0,0
+74,3,646,1,53,England Women,Freya Kemp,Renuka Singh,,13,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,12.3,1,1,0,242911,-152.25,151.61,6,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,3,12,87,5,0,0,1,0,0,0,0,0
+75,4,646,1,53,England Women,Freya Kemp,Renuka Singh,,13,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.4,1,1,0,242912,5.68,210.09,4,0,,,Knuckleball,1,STEP DOWN STRAIGHT DRIVE,0,0,4,12,91,5,0,0,1,0,0,0,0,0
+76,5,646,1,53,England Women,Freya Kemp,Renuka Singh,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,242913,84.41,58.14,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,12,91,5,0,0,1,0,0,0,0,0
+77,6,646,1,53,England Women,Freya Kemp,Renuka Singh,,13,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,12.6,1,1,1,242914,84.41,58.14,1,0,,,Knuckleball,105,LEFT ALONE,0,0,6,12,92,5,0,0,1,0,0,0,0,0
+78,7,646,1,53,England Women,Freya Kemp,Renuka Singh,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,242915,62.77,146.55,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,7,12,93,5,0,0,1,0,0,0,0,0
+79,1,646,1,53,England Women,Freya Kemp,Sneh Rana,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,242916,144.73,59.53,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,13,94,5,1,0,1,0,0,0,0,0
+80,2,646,1,53,England Women,Maia Bouchier,Sneh Rana,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,242917,49.88,152.07,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,2,13,95,5,0,0,1,0,0,0,0,0
+81,3,646,1,53,England Women,Freya Kemp,Sneh Rana,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,242918,125.85,51.70,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,13,96,5,0,0,1,0,0,0,0,0
+82,4,646,1,53,England Women,Maia Bouchier,Sneh Rana,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,242919,100.99,99.58,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,4,13,97,5,0,0,1,0,0,0,0,0
+83,5,646,1,53,England Women,Freya Kemp,Sneh Rana,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,242920,100.99,99.58,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,13,97,5,0,0,1,0,0,0,0,0
+84,6,646,1,53,England Women,Freya Kemp,Sneh Rana,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,242921,101.91,93.60,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,13,98,5,0,0,1,0,0,0,0,0
+85,1,646,1,53,England Women,Freya Kemp,Pooja Vastrakar,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,242922,50.80,158.06,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,1,14,99,5,1,0,1,0,0,0,0,0
+86,2,646,1,53,England Women,Maia Bouchier,Pooja Vastrakar,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,242923,-61.08,148.85,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,2,14,100,5,0,1,2,0,0,1,0,0
+87,3,646,1,53,England Women,Freya Kemp,Pooja Vastrakar,,15,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,14.3,1,1,1,242924,-61.08,148.85,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,14,101,5,0,0,2,0,0,0,0,0
+88,4,646,1,53,England Women,Freya Kemp,Pooja Vastrakar,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,242925,56.33,138.26,1,0,,,Knuckleball,122,STEP DOWN LOFTED OFF DRIVE,0,0,4,14,102,5,0,0,2,0,0,0,0,0
+89,5,646,1,53,England Women,Maia Bouchier,Pooja Vastrakar,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,242926,52.64,155.76,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,5,14,103,5,0,0,2,0,0,0,0,0
+90,6,646,1,53,England Women,Freya Kemp,Pooja Vastrakar,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,242927,54.95,115.70,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,6,14,103,5,0,0,2,0,0,0,0,0
+91,7,646,1,53,England Women,Freya Kemp,Pooja Vastrakar,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,242928,54.95,115.70,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,7,14,103,5,0,0,2,0,0,0,0,0
+92,1,646,1,53,England Women,Maia Bouchier,Radha Yadav,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,242929,-79.50,68.73,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,15,103,5,1,0,2,0,0,0,0,0
+93,2,646,1,53,England Women,Maia Bouchier,Radha Yadav,,16,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,242930,135.98,108.79,2,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,2,15,105,5,0,0,2,0,0,0,0,0
+94,3,646,1,53,England Women,Maia Bouchier,Radha Yadav,,16,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,242931,103.29,131.35,2,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,3,15,107,5,0,0,2,0,0,0,0,0
+95,4,646,1,53,England Women,Maia Bouchier,Radha Yadav,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,242932,76.59,90.83,0,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,4,15,107,5,0,0,2,0,0,0,0,0
+96,5,646,1,53,England Women,Maia Bouchier,Radha Yadav,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,242933,-77.66,37.42,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,15,107,5,0,0,2,0,0,0,0,0
+97,6,646,1,53,England Women,Maia Bouchier,Radha Yadav,,16,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,242934,122.63,-60.19,2,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,15,109,5,0,0,2,0,0,0,0,0
+98,1,646,1,53,England Women,Freya Kemp,Deepti Sharma,,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,242935,66.00,94.52,0,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,1,16,109,5,1,0,2,0,0,0,0,0
+99,2,646,1,53,England Women,Freya Kemp,Deepti Sharma,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,242936,115.26,71.04,1,0,,,Knuckleball,89,STEP DOWN COVER DRIVE,0,0,2,16,110,5,0,0,2,0,0,0,0,0
+100,3,646,1,53,England Women,Maia Bouchier,Deepti Sharma,,17,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.3,1,1,0,242937,-156.39,-74.00,4,0,,,Knuckleball,36,CUT SHOT,0,0,3,16,114,5,0,0,2,0,0,0,0,0
+101,4,646,1,53,England Women,Maia Bouchier,Deepti Sharma,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,242938,71.52,155.76,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,4,16,115,5,0,0,2,0,0,0,0,0
+102,5,646,1,53,England Women,Freya Kemp,Deepti Sharma,,17,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,242939,137.36,103.73,2,0,,,Knuckleball,89,STEP DOWN COVER DRIVE,0,0,5,16,117,5,0,0,2,0,0,0,0,0
+103,6,646,1,53,England Women,Freya Kemp,Deepti Sharma,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,242940,86.26,155.29,1,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,6,16,118,5,0,0,2,0,0,0,0,0
+104,1,646,1,53,England Women,Freya Kemp,Sneh Rana,,18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,242941,-17.34,66.89,0,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,1,17,118,5,1,0,2,0,0,0,0,0
+105,2,646,1,53,England Women,Freya Kemp,Sneh Rana,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,1,1,0,242942,65.08,158.06,1,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,2,17,119,5,0,0,2,0,0,0,0,0
+106,3,646,1,53,England Women,Maia Bouchier,Sneh Rana,,18,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Stumped,WICKET,1,17.3,1,1,0,242943,65.08,158.06,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,3,17,119,6,1,0,2,0,0,0,0,0
+107,4,646,1,53,England Women,Sophie Ecclestone,Sneh Rana,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,1,1,0,242944,59.09,51.24,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,17,120,6,2,0,2,0,0,0,0,0
+108,5,646,1,53,England Women,Freya Kemp,Sneh Rana,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,242945,72.90,133.19,1,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,5,17,121,6,0,0,2,0,0,0,0,0
+109,6,646,1,53,England Women,Sophie Ecclestone,Sneh Rana,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,242946,-82.26,65.51,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,17,121,6,0,0,2,0,0,0,0,0
+110,1,646,1,53,England Women,Freya Kemp,Pooja Vastrakar,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,1,1,0,242947,68.76,97.28,1,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,1,18,122,6,1,0,2,0,0,0,0,0
+111,2,646,1,53,England Women,Sophie Ecclestone,Pooja Vastrakar,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.2,1,1,0,242948,29.62,-25.19,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,18,123,6,0,0,2,0,0,0,0,0
+112,3,646,1,53,England Women,Freya Kemp,Pooja Vastrakar,,19,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,242949,29.62,-25.19,0,0,,,Knuckleball,44,GLIDE,0,0,3,18,123,6,0,0,2,0,0,0,0,0
+113,4,646,1,53,England Women,Freya Kemp,Pooja Vastrakar,,19,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.4,1,1,0,242950,-146.72,87.61,2,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,4,18,125,6,0,0,2,0,0,0,0,0
+114,5,646,1,53,England Women,Freya Kemp,Pooja Vastrakar,,19,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,242951,50.34,-104.39,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,5,18,126,6,0,0,2,0,0,0,0,0
+115,6,646,1,53,England Women,Sophie Ecclestone,Pooja Vastrakar,,19,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.6,1,1,0,242952,130.00,176.47,4,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,6,18,130,6,0,0,2,0,0,0,0,0
+116,1,646,1,53,England Women,Freya Kemp,Radha Yadav,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.1,1,1,0,242953,66.46,149.77,1,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,1,19,131,6,1,0,2,0,0,0,0,0
+117,2,646,1,53,England Women,Sophie Ecclestone,Radha Yadav,,20,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,242954,14.43,66.43,0,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,2,19,131,6,0,0,2,0,0,0,0,0
+118,3,646,1,53,England Women,Sophie Ecclestone,Radha Yadav,,20,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.3,1,1,0,242955,128.62,83.47,1,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,3,19,132,6,0,0,2,0,0,0,0,0
+119,4,646,1,53,England Women,Freya Kemp,Radha Yadav,,20,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.4,1,1,0,242956,22.26,217.45,6,0,,,Knuckleball,69,STEP DOWN LOFTED STRAIGHT DRIVE,0,0,4,19,138,6,0,0,2,0,0,0,0,0
+120,5,646,1,53,England Women,Freya Kemp,Radha Yadav,,20,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.5,1,1,0,242957,34.69,214.23,4,0,,,Knuckleball,69,STEP DOWN LOFTED STRAIGHT DRIVE,0,0,5,19,142,6,0,0,2,0,0,0,0,0
+121,6,646,1,53,England Women,Freya Kemp,Radha Yadav,,20,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.6,1,1,0,242958,34.69,214.23,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,19,142,6,0,0,2,0,0,0,0,0
+123,1,646,2,52,India Women,Shafali Verma,Lauren Bell,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,242959,-62.92,-35.78,0,0,,,Knuckleball,44,GLIDE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+124,2,646,2,52,India Women,Shafali Verma,Lauren Bell,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,242960,13.51,27.76,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+125,3,646,2,52,India Women,Shafali Verma,Lauren Bell,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,242961,110.66,59.06,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+126,4,646,2,52,India Women,Smriti Mandhana,Lauren Bell,,1,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.4,1,1,1,242962,110.66,59.06,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,0,2,0,0,0,0,0,0,0,0,0
+127,5,646,2,52,India Women,Smriti Mandhana,Lauren Bell,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,242963,110.66,59.06,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,0,2,0,0,0,0,0,0,0,0,0
+128,6,646,2,52,India Women,Smriti Mandhana,Lauren Bell,,1,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.5,1,1,0,242964,158.08,-64.33,4,0,,,Knuckleball,59,FRONTFOOT SQUARE DRIVE,0,0,6,0,6,0,0,0,0,0,0,0,0,0
+129,7,646,2,52,India Women,Smriti Mandhana,Lauren Bell,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,242965,83.03,70.58,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,7,0,6,0,0,0,0,0,0,0,0,0
+130,1,646,2,52,India Women,Shafali Verma,Freya Davies,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,242966,83.03,70.58,0,0,,,Knuckleball,69,STEP DOWN LOFTED STRAIGHT DRIVE,0,0,1,1,6,0,1,0,0,0,0,0,0,0
+131,2,646,2,52,India Women,Shafali Verma,Freya Davies,,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,242967,59.09,116.16,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,1,7,0,0,0,0,0,0,0,0,0
+132,3,646,2,52,India Women,Smriti Mandhana,Freya Davies,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,242968,49.42,106.03,0,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,3,1,7,0,0,0,0,0,0,0,0,0
+133,4,646,2,52,India Women,Smriti Mandhana,Freya Davies,,2,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.4,1,1,0,242969,-163.30,-73.54,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,4,1,11,0,0,0,0,0,0,0,0,0
+134,5,646,2,52,India Women,Smriti Mandhana,Freya Davies,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,242970,-56.48,42.95,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,1,11,0,0,0,0,0,0,0,0,0
+135,6,646,2,52,India Women,Smriti Mandhana,Freya Davies,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,242971,-48.65,99.58,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,6,1,11,0,0,0,0,0,0,0,0,0
+136,1,646,2,52,India Women,Shafali Verma,Lauren Bell,,3,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.1,1,1,0,242972,85.79,199.50,4,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,1,2,15,0,1,0,0,0,0,0,0,0
+137,2,646,2,52,India Women,Shafali Verma,Lauren Bell,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,242973,-78.12,73.34,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,2,15,0,0,0,0,0,0,0,0,0
+138,3,646,2,52,India Women,Shafali Verma,Lauren Bell,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,242974,-65.23,62.29,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,2,15,0,0,0,0,0,0,0,0,0
+139,4,646,2,52,India Women,Shafali Verma,Lauren Bell,,3,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.4,1,1,0,242975,72.90,198.12,4,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,4,2,19,0,0,0,0,0,0,0,0,0
+140,5,646,2,52,India Women,Shafali Verma,Lauren Bell,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,242976,72.90,198.12,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,2,19,0,0,0,0,0,0,0,0,0
+141,6,646,2,52,India Women,Shafali Verma,Lauren Bell,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,242977,-83.18,74.72,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,2,19,0,0,0,0,0,0,0,0,0
+142,1,646,2,52,India Women,Smriti Mandhana,Bryony Smith,,4,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,242978,76.59,-104.85,2,0,,,Knuckleball,44,GLIDE,0,0,1,3,21,0,1,0,0,0,0,0,0,0
+143,2,646,2,52,India Women,Smriti Mandhana,Bryony Smith,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,242979,79.35,68.27,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,3,21,0,0,0,0,0,0,0,0,0
+144,3,646,2,52,India Women,Smriti Mandhana,Bryony Smith,,4,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.3,1,1,0,242980,-162.84,-72.62,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,3,3,25,0,0,0,0,0,0,0,0,0
+145,4,646,2,52,India Women,Smriti Mandhana,Bryony Smith,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,242981,83.95,66.43,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,3,25,0,0,0,0,0,0,0,0,0
+146,5,646,2,52,India Women,Smriti Mandhana,Bryony Smith,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,242982,-48.19,155.76,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,5,3,26,0,0,0,0,0,0,0,0,0
+147,6,646,2,52,India Women,Shafali Verma,Bryony Smith,,4,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.6,1,1,0,242983,147.03,-76.30,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,3,30,0,0,0,0,0,0,0,0,0
+148,1,646,2,52,India Women,Smriti Mandhana,Freya Kemp,,5,1,5 (NB),5,4,0,0,0,0,1,0,1,0,0,1,0,0,,,0,4.1,1,1,1,242984,-154.55,-78.60,5,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,1,4,35,0,1,0,0,0,0,0,0,0
+149,2,646,2,52,India Women,Smriti Mandhana,Freya Kemp,,5,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.1,1,1,0,242985,-174.35,118.92,4,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,2,4,39,0,0,0,0,0,0,0,0,0
+150,3,646,2,52,India Women,Smriti Mandhana,Freya Kemp,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,242986,87.64,59.53,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,4,39,0,0,0,0,0,0,0,0,0
+151,4,646,2,52,India Women,Smriti Mandhana,Freya Kemp,,5,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.3,1,1,0,242987,162.23,-74.00,4,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,4,4,43,0,0,0,0,0,0,0,0,0
+152,5,646,2,52,India Women,Smriti Mandhana,Freya Kemp,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,242988,-56.02,-43.15,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,5,4,44,0,0,0,0,0,0,0,0,0
+153,6,646,2,52,India Women,Shafali Verma,Freya Kemp,,5,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.5,1,1,0,242989,185.25,105.57,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,4,48,0,0,0,0,0,0,0,0,0
+154,7,646,2,52,India Women,Shafali Verma,Freya Kemp,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,242990,115.26,-55.12,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,7,4,49,0,0,0,0,0,0,0,0,0
+155,1,646,2,52,India Women,Shafali Verma,Sophie Ecclestone,,6,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,242991,87.64,32.82,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,5,50,0,1,1,1,0,1,0,0,0
+156,2,646,2,52,India Women,Smriti Mandhana,Sophie Ecclestone,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,242992,79.81,-20.13,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,5,50,0,0,0,1,0,0,0,0,0
+157,3,646,2,52,India Women,Smriti Mandhana,Sophie Ecclestone,,6,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.3,1,1,0,242993,164.99,103.73,4,0,,,Knuckleball,61,INSIDE OUT,0,0,3,5,54,0,0,0,1,0,0,0,0,0
+158,4,646,2,52,India Women,Smriti Mandhana,Sophie Ecclestone,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,1,1,0,242994,-55.56,141.94,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,4,5,55,0,0,0,1,0,0,0,0,0
+159,5,646,2,52,India Women,Shafali Verma,Sophie Ecclestone,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,242995,-55.56,141.94,0,0,,,Knuckleball,37,STEP DOWN FLICK,0,0,5,5,55,0,0,0,1,0,0,0,0,0
+160,6,646,2,52,India Women,Shafali Verma,Sophie Ecclestone,,6,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught & Bowled,WICKET,1,5.6,1,1,0,242996,-55.56,141.94,0,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,6,5,55,1,1,0,1,0,0,0,0,0
+161,1,646,2,52,India Women,Smriti Mandhana,Sarah Glenn,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,242997,-139.82,39.73,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,1,6,56,1,2,0,1,0,0,0,0,0
+162,2,646,2,52,India Women,D Hemalatha,Sarah Glenn,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,242998,-139.82,39.73,0,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,2,6,56,1,0,0,1,0,0,0,0,0
+163,3,646,2,52,India Women,D Hemalatha,Sarah Glenn,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,242999,102.83,93.60,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,3,6,57,1,0,0,1,0,0,0,0,0
+164,4,646,2,52,India Women,Smriti Mandhana,Sarah Glenn,,7,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.4,1,1,0,243000,-161.92,-66.63,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,4,6,61,1,0,0,1,0,0,0,0,0
+165,5,646,2,52,India Women,Smriti Mandhana,Sarah Glenn,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,243001,57.71,88.99,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,6,61,1,0,0,1,0,0,0,0,0
+166,6,646,2,52,India Women,Smriti Mandhana,Sarah Glenn,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,243002,54.49,152.99,1,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,6,6,62,1,0,0,1,0,0,0,0,0
+167,1,646,2,52,India Women,Smriti Mandhana,Alice Capsey,,8,1,5 (WD),5,0,0,0,0,0,5,1,0,0,0,1,0,0,,,0,7.1,1,1,1,243003,54.49,152.99,5,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,7,67,1,1,0,1,0,0,0,0,0
+168,2,646,2,52,India Women,Smriti Mandhana,Alice Capsey,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,243004,-75.82,145.17,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,2,7,68,1,0,0,1,0,0,0,0,0
+169,3,646,2,52,India Women,D Hemalatha,Alice Capsey,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,243005,-71.67,-41.77,0,0,,,Knuckleball,44,GLIDE,0,0,3,7,68,1,0,0,1,0,0,0,0,0
+170,4,646,2,52,India Women,D Hemalatha,Alice Capsey,,8,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.3,1,1,0,243006,-136.59,161.28,4,0,,,Knuckleball,122,STEP DOWN LOFTED OFF DRIVE,0,0,4,7,72,1,0,0,1,0,0,0,0,0
+171,5,646,2,52,India Women,D Hemalatha,Alice Capsey,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,243007,42.51,101.88,0,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,5,7,72,1,0,0,1,0,0,0,0,0
+172,6,646,2,52,India Women,D Hemalatha,Alice Capsey,,8,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,243008,55.41,-110.37,2,0,,,Knuckleball,99,SCOOP,0,0,6,7,74,1,0,0,1,0,0,0,0,0
+173,7,646,2,52,India Women,D Hemalatha,Alice Capsey,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,243009,48.50,147.01,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,7,7,75,1,0,0,1,0,0,0,0,0
+174,1,646,2,52,India Women,D Hemalatha,Freya Davies,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,243010,82.57,-29.34,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,8,76,1,1,0,1,0,0,0,0,0
+175,2,646,2,52,India Women,Smriti Mandhana,Freya Davies,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,243011,138.74,15.32,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,8,77,1,0,0,1,0,0,0,0,0
+176,3,646,2,52,India Women,D Hemalatha,Freya Davies,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,243012,138.74,15.32,0,0,,,Knuckleball,44,GLIDE,0,0,3,8,77,1,0,0,1,0,0,0,0,0
+177,4,646,2,52,India Women,D Hemalatha,Freya Davies,,9,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,8.4,1,1,0,243013,138.74,15.32,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,8,77,2,1,0,1,0,0,0,0,0
+178,5,646,2,52,India Women,Harmanpreet Kaur,Freya Davies,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,243014,-10.90,67.35,0,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,5,8,77,2,2,0,1,0,0,0,0,0
+179,6,646,2,52,India Women,Harmanpreet Kaur,Freya Davies,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,243015,91.78,-64.33,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,6,8,78,2,0,0,1,0,0,0,0,0
+180,1,646,2,52,India Women,Harmanpreet Kaur,Sarah Glenn,,10,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.1,1,1,0,243016,164.99,-64.79,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,1,9,82,2,1,0,1,0,0,0,0,0
+181,2,646,2,52,India Women,Harmanpreet Kaur,Sarah Glenn,,10,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.2,1,1,0,243017,167.75,121.22,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,9,86,2,0,0,1,0,0,0,0,0
+182,3,646,2,52,India Women,Harmanpreet Kaur,Sarah Glenn,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,243018,104.21,-56.04,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,9,87,2,0,0,1,0,0,0,0,0
+183,4,646,2,52,India Women,Smriti Mandhana,Sarah Glenn,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,243019,-108.97,90.83,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,4,9,88,2,0,0,1,0,0,0,0,0
+184,5,646,2,52,India Women,Harmanpreet Kaur,Sarah Glenn,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,243020,139.67,21.31,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,9,89,2,0,0,1,0,0,0,0,0
+185,6,646,2,52,India Women,Smriti Mandhana,Sarah Glenn,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,243021,-126.00,44.33,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,6,9,90,2,0,0,1,0,0,0,0,0
+187,1,646,2,52,India Women,Smriti Mandhana,Sophie Ecclestone,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,243022,-131.53,74.72,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,1,10,91,2,1,0,1,0,0,0,0,0
+188,2,646,2,52,India Women,Harmanpreet Kaur,Sophie Ecclestone,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,243023,48.04,-44.99,0,0,,,Knuckleball,22,FRONTFOOT PADDLE SWEEP,0,0,2,10,91,2,0,0,1,0,0,0,0,0
+189,3,646,2,52,India Women,Harmanpreet Kaur,Sophie Ecclestone,,11,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,10.3,1,1,1,243024,48.04,-44.99,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,10,92,2,0,0,1,0,0,0,0,0
+190,4,646,2,52,India Women,Harmanpreet Kaur,Sophie Ecclestone,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,243025,-62.00,151.61,1,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,4,10,93,2,0,0,1,0,0,0,0,0
+191,5,646,2,52,India Women,Smriti Mandhana,Sophie Ecclestone,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,243026,-138.44,59.53,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,10,94,2,0,0,1,0,0,0,0,0
+192,6,646,2,52,India Women,Harmanpreet Kaur,Sophie Ecclestone,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,243027,-48.19,93.14,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,6,10,95,2,0,0,1,0,0,0,0,0
+193,7,646,2,52,India Women,Smriti Mandhana,Sophie Ecclestone,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,243028,44.82,143.32,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,7,10,96,2,0,0,1,0,0,0,0,0
+194,1,646,2,52,India Women,Smriti Mandhana,Lauren Bell,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,243029,-87.79,124.45,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,1,11,97,2,1,0,1,0,0,0,0,0
+195,2,646,2,52,India Women,Harmanpreet Kaur,Lauren Bell,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,243030,-65.69,-43.61,0,0,,,Knuckleball,44,GLIDE,0,0,2,11,97,2,0,0,1,0,0,0,0,0
+196,3,646,2,52,India Women,Harmanpreet Kaur,Lauren Bell,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,243031,-62.92,107.41,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,3,11,98,2,0,0,1,0,0,0,0,0
+197,4,646,2,52,India Women,Smriti Mandhana,Lauren Bell,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,243032,-62.92,107.41,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,11,98,2,0,0,1,0,0,0,0,0
+198,5,646,2,52,India Women,Smriti Mandhana,Lauren Bell,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,243033,-123.70,-44.99,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,11,99,2,0,0,1,0,0,0,0,0
+199,6,646,2,52,India Women,Harmanpreet Kaur,Lauren Bell,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,243034,-19.64,43.87,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,11,99,2,0,0,1,0,0,0,0,0
+200,1,646,2,52,India Women,Smriti Mandhana,Sarah Glenn,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,243035,-142.58,9.34,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,1,12,100,2,1,1,2,0,0,1,0,0
+201,2,646,2,52,India Women,Harmanpreet Kaur,Sarah Glenn,,13,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.2,1,1,0,243036,-197.37,50.78,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,12,104,2,0,0,2,0,0,0,0,0
+202,3,646,2,52,India Women,Harmanpreet Kaur,Sarah Glenn,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,243037,47.12,148.85,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,3,12,105,2,0,0,2,0,0,0,0,0
+203,4,646,2,52,India Women,Smriti Mandhana,Sarah Glenn,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,243038,50.34,152.07,1,0,https://scores.bcci.tv/matchcentre/commentaryFiles/INDIA-WOMEN-TOUR-OF-ENGLAND-T20-SERIES-2022/England-Women-VS-India-Women-(13-Sep-2022)/File_2-13-243038.jpg,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,4,12,106,2,0,0,2,0,0,0,0,0
+204,5,646,2,52,India Women,Harmanpreet Kaur,Sarah Glenn,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,243039,138.74,112.47,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,5,12,107,2,0,0,2,0,0,0,0,0
+205,6,646,2,52,India Women,Smriti Mandhana,Sarah Glenn,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,243040,-113.11,-48.68,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,12,108,2,0,0,2,0,0,0,0,0
+206,1,646,2,52,India Women,Smriti Mandhana,Freya Davies,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,243041,-42.67,154.37,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,13,109,2,1,0,2,0,0,0,0,0
+207,2,646,2,52,India Women,Harmanpreet Kaur,Freya Davies,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,243042,-62.46,-40.39,0,0,,,Knuckleball,44,GLIDE,0,0,2,13,109,2,0,0,2,0,0,0,0,0
+208,3,646,2,52,India Women,Harmanpreet Kaur,Freya Davies,,14,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.3,1,1,0,243043,138.74,155.76,4,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,3,13,113,2,0,0,2,0,0,0,0,0
+209,4,646,2,52,India Women,Harmanpreet Kaur,Freya Davies,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,243044,-127.38,111.09,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,13,114,2,0,0,2,0,0,0,0,0
+210,5,646,2,52,India Women,Smriti Mandhana,Freya Davies,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,243045,-0.31,53.08,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,13,114,2,0,0,2,0,0,0,0,0
+211,6,646,2,52,India Women,Smriti Mandhana,Freya Davies,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,243046,-120.48,65.05,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,13,115,2,0,0,2,0,0,0,0,0
+212,1,646,2,52,India Women,Smriti Mandhana,Sophie Ecclestone,,15,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.1,1,1,0,243047,-195.53,53.08,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,1,14,119,2,1,0,2,0,0,0,0,0
+213,2,646,2,52,India Women,Smriti Mandhana,Sophie Ecclestone,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,243048,-195.53,53.08,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,14,119,2,0,0,2,0,0,0,0,0
+214,3,646,2,52,India Women,Smriti Mandhana,Sophie Ecclestone,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,243049,48.96,161.74,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,3,14,120,2,0,0,2,0,0,0,0,0
+215,4,646,2,52,India Women,Harmanpreet Kaur,Sophie Ecclestone,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,243050,53.10,144.24,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,4,14,121,2,0,0,2,0,0,0,0,0
+216,5,646,2,52,India Women,Smriti Mandhana,Sophie Ecclestone,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,243051,53.10,144.24,0,0,,,Knuckleball,35,LATE CUT,0,0,5,14,121,2,0,0,2,0,0,0,0,0
+217,6,646,2,52,India Women,Smriti Mandhana,Sophie Ecclestone,,15,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.6,1,1,0,243052,-76.28,-149.51,4,0,,,Knuckleball,99,SCOOP,0,0,6,14,125,2,0,0,2,0,0,0,0,0
+218,1,646,2,52,India Women,Harmanpreet Kaur,Lauren Bell,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,243053,42.05,139.64,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,15,126,2,1,0,2,0,0,0,0,0
+219,2,646,2,52,India Women,Smriti Mandhana,Lauren Bell,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,243054,-56.02,149.77,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,2,15,127,2,0,0,2,0,0,0,0,0
+220,3,646,2,52,India Women,Harmanpreet Kaur,Lauren Bell,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,243055,-64.77,-37.63,1,0,,,Knuckleball,44,GLIDE,0,0,3,15,128,2,0,0,2,0,0,0,0,0
+221,4,646,2,52,India Women,Smriti Mandhana,Lauren Bell,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,243056,83.03,74.72,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,15,128,2,0,0,2,0,0,0,0,0
+222,5,646,2,52,India Women,Smriti Mandhana,Lauren Bell,,16,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,243057,-156.39,54.92,2,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,15,130,2,0,0,2,0,0,0,0,0
+223,6,646,2,52,India Women,Smriti Mandhana,Lauren Bell,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,243058,133.68,60.91,1,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,6,15,131,2,0,0,2,0,0,0,0,0
+224,1,646,2,52,India Women,Smriti Mandhana,Freya Davies,,17,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.1,1,1,0,243059,-149.03,-69.86,4,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,16,135,2,1,0,2,0,0,0,0,0
+225,2,646,2,52,India Women,Smriti Mandhana,Freya Davies,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,243060,-130.61,47.09,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,2,16,136,2,0,0,2,0,0,0,0,0
+226,3,646,2,52,India Women,Harmanpreet Kaur,Freya Davies,,17,3,2 (NB),2,1,1,0,0,0,1,0,1,0,0,0,0,0,,,0,16.3,1,1,1,243061,138.28,40.65,2,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,3,16,138,2,0,0,2,0,0,0,0,0
+227,4,646,2,52,India Women,Smriti Mandhana,Freya Davies,,17,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.3,1,1,0,243062,-155.01,131.35,4,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,4,16,142,2,0,0,2,0,0,0,0,0
+228,5,646,2,52,India Women,Smriti Mandhana,Freya Davies,,17,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.4,1,1,0,243063,69.22,197.19,4,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,5,16,146,2,0,0,2,0,0,0,0,0

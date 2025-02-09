@@ -1,0 +1,235 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,392,1,9,Afghanistan,Hazratullah Zazai,Tim Southee,,1,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.1,2,1,1,154532,,,1,0,,30,ANGLED ACROSS,105,LEFT ALONE,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+1,2,392,1,9,Afghanistan,Hazratullah Zazai,Tim Southee,,1,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,0.1,2,1,1,154533,,,1,0,,41,INSWINGER,54,LEG GLANCE,0,0,2,0,2,0,0,0,0,0,0,0,0,0
+2,3,392,1,9,Afghanistan,Mohammad Shahzad,Tim Southee,,1,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.2,2,1,0,154534,-25.50,211.00,4,0,,42,OUTSWINGER,13,LOFT STRAIGHT,0,0,3,0,6,0,0,0,0,0,0,0,0,0
+3,4,392,1,9,Afghanistan,Mohammad Shahzad,Tim Southee,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,154535,56.50,107.00,0,0,,39,ANGLED IN,74,SD ON,0,0,4,0,6,0,0,0,0,0,0,0,0,0
+4,5,392,1,9,Afghanistan,Mohammad Shahzad,Tim Southee,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,154536,35.50,-53.00,0,0,,39,ANGLED IN,40,FLICK,0,0,5,0,6,0,0,0,0,0,0,0,0,0
+5,6,392,1,9,Afghanistan,Mohammad Shahzad,Tim Southee,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,154537,35.50,-53.00,0,0,,8,OFF CUTTER,13,LOFT STRAIGHT,0,0,6,0,6,0,0,0,0,0,0,0,0,0
+6,7,392,1,9,Afghanistan,Mohammad Shahzad,Tim Southee,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,154538,58.50,53.00,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,7,0,6,0,0,0,0,0,0,0,0,0
+7,1,392,1,9,Afghanistan,Hazratullah Zazai,Trent Boult,,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,154539,-94.50,-49.00,1,0,,39,ANGLED IN,40,FLICK,0,0,1,1,7,0,1,0,0,0,0,0,0,0
+8,2,392,1,9,Afghanistan,Mohammad Shahzad,Trent Boult,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,154540,-56.50,-25.00,0,0,,41,INSWINGER,44,GLIDE,0,0,2,1,7,0,0,0,0,0,0,0,0,0
+9,3,392,1,9,Afghanistan,Mohammad Shahzad,Trent Boult,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,154541,-56.50,-25.00,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,3,1,7,0,0,0,0,0,0,0,0,0
+10,4,392,1,9,Afghanistan,Mohammad Shahzad,Trent Boult,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,154542,-77.50,24.00,0,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,4,1,7,0,0,0,0,0,0,0,0,0
+11,5,392,1,9,Afghanistan,Mohammad Shahzad,Trent Boult,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,154543,-77.50,24.00,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,5,1,7,0,0,0,0,0,0,0,0,0
+12,6,392,1,9,Afghanistan,Mohammad Shahzad,Trent Boult,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,154544,-77.50,24.00,0,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,6,1,7,0,0,0,0,0,0,0,0,0
+13,1,392,1,9,Afghanistan,Hazratullah Zazai,Adam Milne,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,154545,83.50,96.00,1,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,1,2,8,0,1,0,0,0,0,0,0,0
+14,2,392,1,9,Afghanistan,Mohammad Shahzad,Adam Milne,,3,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,2.2,2,1,0,154546,-1.50,-44.00,0,0,,36,BOUNCER,31,UPPER CUT,1,0,2,2,8,1,2,0,0,0,0,0,0,0
+15,3,392,1,9,Afghanistan,Rahmanullah Gurbaz,Adam Milne,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,154547,-1.50,-44.00,0,0,,37,NIPPED AWAY,105,LEFT ALONE,0,0,3,2,8,1,3,0,0,0,0,0,0,0
+16,4,392,1,9,Afghanistan,Rahmanullah Gurbaz,Adam Milne,,3,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.4,2,1,0,154548,42.50,-144.00,4,0,,39,ANGLED IN,40,FLICK,0,0,4,2,12,1,0,0,0,0,0,0,0,0
+17,5,392,1,9,Afghanistan,Rahmanullah Gurbaz,Adam Milne,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,154549,-59.50,30.00,0,0,,38,STRAIGHT BALL,50,BACKFOOT DEFENCE,0,0,5,2,12,1,0,0,0,0,0,0,0,0
+18,6,392,1,9,Afghanistan,Rahmanullah Gurbaz,Adam Milne,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,154550,-45.50,31.00,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,6,2,12,1,0,0,0,0,0,0,0,0
+19,1,392,1,9,Afghanistan,Hazratullah Zazai,Trent Boult,,4,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,3.1,2,1,0,154551,-60.50,55.00,0,0,,39,ANGLED IN,40,FLICK,0,0,1,3,12,2,1,0,0,0,0,0,0,0
+20,2,392,1,9,Afghanistan,Gulbadin Naib,Trent Boult,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,154552,-60.50,55.00,0,0,,30,ANGLED ACROSS,105,LEFT ALONE,0,0,2,3,12,2,2,0,0,0,0,0,0,0
+21,3,392,1,9,Afghanistan,Gulbadin Naib,Trent Boult,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,154553,-60.50,55.00,0,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,3,3,12,2,0,0,0,0,0,0,0,0
+22,4,392,1,9,Afghanistan,Gulbadin Naib,Trent Boult,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,154554,-76.50,17.00,0,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,4,3,12,2,0,0,0,0,0,0,0,0
+23,5,392,1,9,Afghanistan,Gulbadin Naib,Trent Boult,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,154555,-28.50,34.00,0,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,5,3,12,2,0,0,0,0,0,0,0,0
+24,6,392,1,9,Afghanistan,Gulbadin Naib,Trent Boult,,4,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.6,2,1,0,154556,6.50,-143.00,4,0,,36,BOUNCER,58,PULL SHOT,1,0,6,3,16,2,0,0,0,0,0,0,0,0
+25,1,392,1,9,Afghanistan,Rahmanullah Gurbaz,Adam Milne,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,154557,77.50,-90.00,1,0,,39,ANGLED IN,58,PULL SHOT,0,0,1,4,17,2,1,0,0,0,0,0,0,0
+26,2,392,1,9,Afghanistan,Gulbadin Naib,Adam Milne,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,154558,-89.50,-89.00,1,0,,38,STRAIGHT BALL,59,SQUARE DRIVE,0,0,2,4,18,2,0,0,0,0,0,0,0,0
+27,3,392,1,9,Afghanistan,Rahmanullah Gurbaz,Adam Milne,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,154559,-9.50,23.00,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,3,4,18,2,0,0,0,0,0,0,0,0
+28,4,392,1,9,Afghanistan,Rahmanullah Gurbaz,Adam Milne,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,154560,-9.50,23.00,0,0,,43,NIPBACKER,58,PULL SHOT,0,0,4,4,18,2,0,0,0,0,0,0,0,0
+29,5,392,1,9,Afghanistan,Rahmanullah Gurbaz,Adam Milne,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,154561,-61.50,96.00,1,0,,39,ANGLED IN,84,OFF DRIVE,0,0,5,4,19,2,0,0,0,0,0,0,0,0
+30,6,392,1,9,Afghanistan,Gulbadin Naib,Adam Milne,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,154562,-61.50,96.00,0,0,,36,BOUNCER,58,PULL SHOT,1,0,6,4,19,2,0,0,0,0,0,0,0,0
+31,1,392,1,9,Afghanistan,Rahmanullah Gurbaz,Tim Southee,,6,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,5.1,2,1,0,154563,-61.50,96.00,0,0,,41,INSWINGER,40,FLICK,0,0,1,5,19,3,1,0,0,0,0,0,0,0
+32,2,392,1,9,Afghanistan,Najibullah Zadran,Tim Southee,,6,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,154564,142.50,71.00,2,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,2,5,21,3,2,0,0,0,0,0,0,0
+33,3,392,1,9,Afghanistan,Najibullah Zadran,Tim Southee,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,154565,-39.50,91.00,0,0,,30,ANGLED ACROSS,58,PULL SHOT,0,0,3,5,21,3,0,0,0,0,0,0,0,0
+34,4,392,1,9,Afghanistan,Najibullah Zadran,Tim Southee,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,154566,62.50,103.00,0,0,,39,ANGLED IN,6,BACKFOOT OFF DRIVE,0,0,4,5,21,3,0,0,0,0,0,0,0,0
+35,5,392,1,9,Afghanistan,Najibullah Zadran,Tim Southee,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,154567,62.50,103.00,0,0,,36,BOUNCER,50,BACKFOOT DEFENCE,1,0,5,5,21,3,0,0,0,0,0,0,0,0
+36,6,392,1,9,Afghanistan,Najibullah Zadran,Tim Southee,,6,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,154568,-120.50,-65.00,2,0,,30,ANGLED ACROSS,40,FLICK,0,0,6,5,23,3,0,0,0,0,0,0,0,0
+37,1,392,1,9,Afghanistan,Gulbadin Naib,James Neesham,,7,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,154569,35.50,172.00,2,0,,39,ANGLED IN,11,LOFT ON,0,0,1,6,25,3,1,0,0,0,0,0,0,0
+38,2,392,1,9,Afghanistan,Gulbadin Naib,James Neesham,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,154570,35.50,172.00,1,0,,39,ANGLED IN,47,ON DRIVE,0,0,2,6,26,3,0,0,0,0,0,0,0,0
+39,3,392,1,9,Afghanistan,Najibullah Zadran,James Neesham,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,154571,-121.50,-39.00,1,0,,30,ANGLED ACROSS,40,FLICK,0,0,3,6,27,3,0,0,0,0,0,0,0,0
+40,4,392,1,9,Afghanistan,Gulbadin Naib,James Neesham,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,154572,-121.50,-39.00,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,4,6,27,3,0,0,0,0,0,0,0,0
+41,5,392,1,9,Afghanistan,Gulbadin Naib,James Neesham,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,154573,-132.50,80.00,1,0,,8,OFF CUTTER,15,LOFT COVER,0,0,5,6,28,3,0,0,0,0,0,0,0,0
+42,6,392,1,9,Afghanistan,Najibullah Zadran,James Neesham,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,154574,65.50,48.00,0,0,,30,ANGLED ACROSS,49,FORWARD DEFENCE,0,0,6,6,28,3,0,0,0,0,0,0,0,0
+43,1,392,1,9,Afghanistan,Gulbadin Naib,Mitchell Santner,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,154575,66.50,51.00,1,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,1,7,29,3,1,0,0,0,0,0,0,0
+44,2,392,1,9,Afghanistan,Najibullah Zadran,Mitchell Santner,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,154576,136.50,27.00,1,0,,23,ARM BALL,36,CUT SHOT,0,0,2,7,30,3,0,0,0,0,0,0,0,0
+45,3,392,1,9,Afghanistan,Gulbadin Naib,Mitchell Santner,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,154577,74.50,127.00,1,0,,23,ARM BALL,47,ON DRIVE,0,0,3,7,31,3,0,0,0,0,0,0,0,0
+46,4,392,1,9,Afghanistan,Najibullah Zadran,Mitchell Santner,,8,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.4,2,1,0,154578,-41.50,207.00,4,0,,23,ARM BALL,11,LOFT ON,0,0,4,7,35,3,0,0,0,0,0,0,0,0
+47,5,392,1,9,Afghanistan,Najibullah Zadran,Mitchell Santner,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,154579,-27.50,46.00,0,0,,23,ARM BALL,49,FORWARD DEFENCE,0,0,5,7,35,3,0,0,0,0,0,0,0,0
+48,6,392,1,9,Afghanistan,Najibullah Zadran,Mitchell Santner,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,154580,-74.50,122.00,1,0,,23,ARM BALL,27,FORWARD PUSH,0,0,6,7,36,3,0,0,0,0,0,0,0,0
+49,1,392,1,9,Afghanistan,Najibullah Zadran,James Neesham,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,154581,113.50,74.00,1,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,1,8,37,3,1,0,0,0,0,0,0,0
+50,2,392,1,9,Afghanistan,Gulbadin Naib,James Neesham,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,154582,-132.50,67.00,1,0,,39,ANGLED IN,52,BACKFOOT COVERDRIVE,0,0,2,8,38,3,0,0,0,0,0,0,0,0
+51,3,392,1,9,Afghanistan,Najibullah Zadran,James Neesham,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,154583,46.50,-88.00,1,0,,30,ANGLED ACROSS,44,GLIDE,0,0,3,8,39,3,0,0,0,0,0,0,0,0
+52,4,392,1,9,Afghanistan,Gulbadin Naib,James Neesham,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,154584,111.50,-56.00,1,0,,39,ANGLED IN,58,PULL SHOT,0,0,4,8,40,3,0,0,0,0,0,0,0,0
+53,5,392,1,9,Afghanistan,Najibullah Zadran,James Neesham,,9,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.5,2,1,0,154585,5.50,210.00,4,0,,39,ANGLED IN,13,LOFT STRAIGHT,0,0,5,8,44,3,0,0,0,0,0,0,0,0
+54,6,392,1,9,Afghanistan,Najibullah Zadran,James Neesham,,9,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.6,2,1,0,154586,23.50,-151.00,4,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,6,8,48,3,0,0,0,0,0,0,0,0
+55,1,392,1,9,Afghanistan,Gulbadin Naib,Ish Sodhi,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,154587,85.50,120.00,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,1,9,49,3,1,0,0,0,0,0,0,0
+56,2,392,1,9,Afghanistan,Najibullah Zadran,Ish Sodhi,,10,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.2,2,1,0,154588,-184.50,11.00,4,0,,24,LEG SPIN,95,SLOG SWEEP,0,0,2,9,53,3,0,1,1,0,1,0,0,0
+57,3,392,1,9,Afghanistan,Najibullah Zadran,Ish Sodhi,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,154589,-129.50,53.00,1,0,,24,LEG SPIN,40,FLICK,0,0,3,9,54,3,0,0,1,0,0,0,0,0
+58,4,392,1,9,Afghanistan,Gulbadin Naib,Ish Sodhi,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,154590,134.50,72.00,1,0,,24,LEG SPIN,58,PULL SHOT,0,0,4,9,55,3,0,0,1,0,0,0,0,0
+59,5,392,1,9,Afghanistan,Najibullah Zadran,Ish Sodhi,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,154591,39.50,129.00,1,0,,28,GOOGLY,97,BACKFOOT PUSH,0,0,5,9,56,3,0,0,1,0,0,0,0,0
+60,6,392,1,9,Afghanistan,Gulbadin Naib,Ish Sodhi,,10,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,9.6,2,1,0,154592,39.50,129.00,0,0,,24,LEG SPIN,52,BACKFOOT COVERDRIVE,0,0,6,9,56,4,1,0,1,0,0,0,0,0
+61,1,392,1,9,Afghanistan,Najibullah Zadran,Adam Milne,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,154593,64.50,-69.00,1,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,1,10,57,4,2,0,1,0,0,0,0,0
+62,2,392,1,9,Afghanistan,Mohammad Nabi,Adam Milne,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,154594,114.50,23.00,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,2,10,58,4,0,0,1,0,0,0,0,0
+63,3,392,1,9,Afghanistan,Najibullah Zadran,Adam Milne,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,154595,18.50,-29.00,0,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,3,10,58,4,0,0,1,0,0,0,0,0
+64,4,392,1,9,Afghanistan,Najibullah Zadran,Adam Milne,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,154596,18.50,-29.00,0,0,,8,OFF CUTTER,58,PULL SHOT,0,0,4,10,58,4,0,0,1,0,0,0,0,0
+65,5,392,1,9,Afghanistan,Najibullah Zadran,Adam Milne,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,154597,98.50,-62.00,1,0,,30,ANGLED ACROSS,59,SQUARE DRIVE,0,0,5,10,59,4,0,0,1,0,0,0,0,0
+66,6,392,1,9,Afghanistan,Mohammad Nabi,Adam Milne,,11,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,154598,-100.50,-85.00,2,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,6,10,61,4,0,0,1,0,0,0,0,0
+67,1,392,1,9,Afghanistan,Najibullah Zadran,Ish Sodhi,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,154599,49.50,40.00,0,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,1,11,61,4,1,0,1,0,0,0,0,0
+68,2,392,1,9,Afghanistan,Najibullah Zadran,Ish Sodhi,,12,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,11.2,2,1,1,154600,49.50,40.00,1,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,2,11,62,4,0,0,1,0,0,0,0,0
+69,3,392,1,9,Afghanistan,Najibullah Zadran,Ish Sodhi,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,154601,-158.50,-21.00,1,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,3,11,63,4,0,0,1,0,0,0,0,0
+70,4,392,1,9,Afghanistan,Mohammad Nabi,Ish Sodhi,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,154602,-35.50,39.00,0,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,4,11,63,4,0,0,1,0,0,0,0,0
+71,5,392,1,9,Afghanistan,Mohammad Nabi,Ish Sodhi,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,154603,-58.50,153.00,1,0,,24,LEG SPIN,6,BACKFOOT OFF DRIVE,0,0,5,11,64,4,0,0,1,0,0,0,0,0
+72,6,392,1,9,Afghanistan,Najibullah Zadran,Ish Sodhi,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,154604,78.50,138.00,1,0,,24,LEG SPIN,84,OFF DRIVE,0,0,6,11,65,4,0,0,1,0,0,0,0,0
+73,7,392,1,9,Afghanistan,Mohammad Nabi,Ish Sodhi,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,154605,-86.50,133.00,1,0,,24,LEG SPIN,84,OFF DRIVE,0,0,7,11,66,4,0,0,1,0,0,0,0,0
+74,1,392,1,9,Afghanistan,Mohammad Nabi,Tim Southee,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,154606,77.50,26.00,0,0,,39,ANGLED IN,40,FLICK,0,0,1,12,66,4,1,0,1,0,0,0,0,0
+75,2,392,1,9,Afghanistan,Mohammad Nabi,Tim Southee,,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,154607,2.50,-43.00,0,0,,39,ANGLED IN,40,FLICK,0,0,2,12,66,4,0,0,1,0,0,0,0,0
+76,3,392,1,9,Afghanistan,Mohammad Nabi,Tim Southee,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,154608,67.50,33.00,0,0,,39,ANGLED IN,40,FLICK,0,0,3,12,66,4,0,0,1,0,0,0,0,0
+77,4,392,1,9,Afghanistan,Mohammad Nabi,Tim Southee,,13,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,154609,19.50,23.00,0,0,,39,ANGLED IN,40,FLICK,0,0,4,12,66,4,0,0,1,0,0,0,0,0
+78,5,392,1,9,Afghanistan,Mohammad Nabi,Tim Southee,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,154610,117.50,51.00,1,0,,39,ANGLED IN,40,FLICK,0,0,5,12,67,4,0,0,1,0,0,0,0,0
+79,6,392,1,9,Afghanistan,Najibullah Zadran,Tim Southee,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,154611,-49.50,-46.00,1,0,,30,ANGLED ACROSS,40,FLICK,0,0,6,12,68,4,0,0,1,0,0,0,0,0
+80,1,392,1,9,Afghanistan,Najibullah Zadran,Mitchell Santner,,14,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,13.1,2,1,0,154612,92.50,48.00,6,0,,23,ARM BALL,11,LOFT ON,0,0,1,13,74,4,1,0,1,0,0,0,0,0
+81,2,392,1,9,Afghanistan,Najibullah Zadran,Mitchell Santner,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,154613,92.50,48.00,1,0,,23,ARM BALL,58,PULL SHOT,0,0,2,13,75,4,0,0,1,0,0,0,0,0
+82,3,392,1,9,Afghanistan,Mohammad Nabi,Mitchell Santner,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,154614,92.50,48.00,1,0,,23,ARM BALL,40,FLICK,0,0,3,13,76,4,0,0,1,0,0,0,0,0
+83,4,392,1,9,Afghanistan,Najibullah Zadran,Mitchell Santner,,14,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,13.4,2,1,0,154615,-163.50,126.00,6,0,,23,ARM BALL,95,SLOG SWEEP,0,0,4,13,82,4,0,0,1,0,0,0,0,0
+84,5,392,1,9,Afghanistan,Najibullah Zadran,Mitchell Santner,,14,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,154616,-83.50,98.00,2,0,,23,ARM BALL,47,ON DRIVE,0,0,5,13,84,4,0,0,1,0,0,0,0,0
+85,6,392,1,9,Afghanistan,Najibullah Zadran,Mitchell Santner,,14,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,13.6,2,1,1,154617,-83.50,98.00,1,0,,23,ARM BALL,36,CUT SHOT,0,0,6,13,85,4,0,0,1,0,0,0,0,0
+86,7,392,1,9,Afghanistan,Najibullah Zadran,Mitchell Santner,,14,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,154618,-123.50,97.00,2,0,,23,ARM BALL,40,FLICK,0,0,7,13,87,4,0,0,1,0,0,0,0,0
+87,1,392,1,9,Afghanistan,Mohammad Nabi,Adam Milne,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,154619,-75.50,7.00,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,1,14,87,4,1,0,1,0,0,0,0,0
+88,2,392,1,9,Afghanistan,Mohammad Nabi,Adam Milne,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,154620,-75.50,7.00,0,0,,36,BOUNCER,58,PULL SHOT,1,0,2,14,87,4,0,0,1,0,0,0,0,0
+89,3,392,1,9,Afghanistan,Mohammad Nabi,Adam Milne,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,154621,73.50,139.00,1,0,,46,LEGCUTTER,47,ON DRIVE,0,0,3,14,88,4,0,0,1,0,0,0,0,0
+90,4,392,1,9,Afghanistan,Najibullah Zadran,Adam Milne,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,154622,73.50,139.00,0,0,,30,ANGLED ACROSS,58,PULL SHOT,0,0,4,14,88,4,0,0,1,0,0,0,0,0
+91,5,392,1,9,Afghanistan,Najibullah Zadran,Adam Milne,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,154623,72.50,54.00,1,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,5,14,89,4,0,0,1,0,0,0,0,0
+92,6,392,1,9,Afghanistan,Mohammad Nabi,Adam Milne,,15,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,154624,141.50,98.00,2,0,,39,ANGLED IN,58,PULL SHOT,0,0,6,14,91,4,0,0,1,0,0,0,0,0
+93,1,392,1,9,Afghanistan,Najibullah Zadran,James Neesham,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,154625,1.50,-37.00,0,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,1,15,91,4,1,0,1,0,0,0,0,0
+94,2,392,1,9,Afghanistan,Najibullah Zadran,James Neesham,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,154626,-126.50,53.00,1,0,,46,LEGCUTTER,40,FLICK,0,0,2,15,92,4,0,0,1,0,0,0,0,0
+95,3,392,1,9,Afghanistan,Mohammad Nabi,James Neesham,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,154627,118.50,57.00,1,0,,39,ANGLED IN,40,FLICK,0,0,3,15,93,4,0,0,1,0,0,0,0,0
+96,4,392,1,9,Afghanistan,Najibullah Zadran,James Neesham,,16,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,154628,-144.50,47.00,2,0,,30,ANGLED ACROSS,40,FLICK,0,0,4,15,95,4,0,0,1,0,0,0,0,0
+97,5,392,1,9,Afghanistan,Najibullah Zadran,James Neesham,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,154629,-50.50,42.00,0,0,,30,ANGLED ACROSS,40,FLICK,0,0,5,15,95,4,0,0,1,0,0,0,0,0
+98,6,392,1,9,Afghanistan,Najibullah Zadran,James Neesham,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,154630,65.50,142.00,1,0,,30,ANGLED ACROSS,84,OFF DRIVE,0,0,6,15,96,4,0,0,1,0,0,0,0,0
+99,1,392,1,9,Afghanistan,Najibullah Zadran,Trent Boult,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,154631,94.50,40.00,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,1,16,97,4,1,0,1,0,0,0,0,0
+100,2,392,1,9,Afghanistan,Mohammad Nabi,Trent Boult,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,154632,-137.50,46.00,1,0,,30,ANGLED ACROSS,52,BACKFOOT COVERDRIVE,0,0,2,16,98,4,0,0,1,0,0,0,0,0
+101,3,392,1,9,Afghanistan,Najibullah Zadran,Trent Boult,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,154633,-137.50,46.00,0,0,,36,BOUNCER,58,PULL SHOT,1,0,3,16,98,4,0,0,1,0,0,0,0,0
+102,4,392,1,9,Afghanistan,Najibullah Zadran,Trent Boult,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,154634,-138.50,-16.00,1,0,,39,ANGLED IN,58,PULL SHOT,0,0,4,16,99,4,0,0,1,0,0,0,0,0
+103,5,392,1,9,Afghanistan,Najibullah Zadran,Trent Boult,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,154635,-143.50,70.00,1,0,,39,ANGLED IN,40,FLICK,0,0,5,16,100,4,0,1,2,0,0,1,0,0
+104,6,392,1,9,Afghanistan,Mohammad Nabi,Trent Boult,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,154636,-146.50,41.00,1,0,,30,ANGLED ACROSS,52,BACKFOOT COVERDRIVE,0,0,6,16,101,4,0,0,2,0,0,0,0,0
+105,1,392,1,9,Afghanistan,Mohammad Nabi,Tim Southee,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,154637,27.50,167.00,1,0,,47,SLOWER BALL,46,FRONTFOOT PULL SHOT,0,0,1,17,102,4,1,0,2,0,0,0,0,0
+106,2,392,1,9,Afghanistan,Najibullah Zadran,Tim Southee,,18,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.2,2,1,0,154638,25.50,212.00,6,0,,30,ANGLED ACROSS,5,LOFT OFF,0,0,2,17,108,4,0,0,2,0,0,0,0,0
+107,3,392,1,9,Afghanistan,Najibullah Zadran,Tim Southee,,18,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,154639,-146.50,74.00,2,0,,30,ANGLED ACROSS,40,FLICK,0,0,3,17,110,4,0,0,2,0,0,0,0,0
+108,4,392,1,9,Afghanistan,Najibullah Zadran,Tim Southee,,18,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.4,2,1,0,154640,-25.50,-146.00,4,0,,36,BOUNCER,58,PULL SHOT,1,0,4,17,114,4,0,0,2,0,0,0,0,0
+109,5,392,1,9,Afghanistan,Najibullah Zadran,Tim Southee,,18,5,1 (BY),1,0,0,0,0,1,1,0,0,1,0,0,0,0,,,0,17.5,2,1,1,154641,-25.50,-146.00,1,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,5,17,115,4,0,0,2,0,0,0,0,0
+110,6,392,1,9,Afghanistan,Mohammad Nabi,Tim Southee,,18,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught & Bowled,WICKET,1,17.6,2,1,0,154642,-22.50,36.00,0,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,6,17,115,5,1,0,2,0,0,0,0,0
+111,1,392,1,9,Afghanistan,Najibullah Zadran,Trent Boult,,19,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.1,2,1,0,154643,-135.50,-91.00,4,0,,39,ANGLED IN,40,FLICK,0,0,1,18,119,5,2,0,2,0,0,0,0,0
+112,2,392,1,9,Afghanistan,Najibullah Zadran,Trent Boult,,19,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.2,2,1,0,154644,39.50,172.00,0,0,,39,ANGLED IN,5,LOFT OFF,0,0,2,18,119,6,3,0,2,0,0,0,0,0
+113,3,392,1,9,Afghanistan,Karim Janat,Trent Boult,,19,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,154645,25.50,161.00,2,0,,30,ANGLED ACROSS,46,FRONTFOOT PULL SHOT,0,0,3,18,121,6,4,0,2,0,0,0,0,0
+114,4,392,1,9,Afghanistan,Karim Janat,Trent Boult,,19,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.4,2,1,0,154646,83.50,-92.00,0,0,,30,ANGLED ACROSS,40,FLICK,0,0,4,18,121,7,5,0,2,0,0,0,0,0
+115,5,392,1,9,Afghanistan,Rashid Khan,Trent Boult,,19,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.5,2,1,0,154647,-92.50,42.00,1,0,,30,ANGLED ACROSS,52,BACKFOOT COVERDRIVE,0,0,5,18,122,7,6,0,2,0,0,0,0,0
+116,6,392,1,9,Afghanistan,Mujeeb Ur Rahman,Trent Boult,,19,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.6,2,1,0,154648,-92.50,42.00,0,0,,36,BOUNCER,58,PULL SHOT,1,0,6,18,122,7,0,0,2,0,0,0,0,0
+117,1,392,1,9,Afghanistan,Rashid Khan,James Neesham,,20,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.1,2,1,0,154649,130.50,104.00,2,0,,36,BOUNCER,58,PULL SHOT,1,0,1,19,124,7,1,0,2,0,0,0,0,0
+118,2,392,1,9,Afghanistan,Rashid Khan,James Neesham,,20,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.2,2,1,0,154650,130.50,104.00,0,0,,39,ANGLED IN,5,LOFT OFF,0,0,2,19,124,7,0,0,2,0,0,0,0,0
+119,3,392,1,9,Afghanistan,Rashid Khan,James Neesham,,20,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.3,2,1,0,154651,130.50,104.00,0,0,,38,STRAIGHT BALL,96,Slice,0,0,3,19,124,7,0,0,2,0,0,0,0,0
+120,4,392,1,9,Afghanistan,Rashid Khan,James Neesham,,20,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.4,2,1,0,154652,130.50,104.00,0,0,,38,STRAIGHT BALL,13,LOFT STRAIGHT,0,0,4,19,124,7,0,0,2,0,0,0,0,0
+121,5,392,1,9,Afghanistan,Rashid Khan,James Neesham,,20,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.5,2,1,0,154653,130.50,104.00,0,0,,38,STRAIGHT BALL,96,Slice,0,0,5,19,124,7,0,0,2,0,0,0,0,0
+122,6,392,1,9,Afghanistan,Rashid Khan,James Neesham,,20,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.6,2,1,0,154654,-110.50,34.00,0,0,,39,ANGLED IN,96,Slice,0,0,6,19,124,8,1,0,2,0,0,0,0,0
+123,1,392,2,4,New Zealand,Martin Guptill,Mohammad Nabi,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,154655,-80.50,61.00,0,0,,23,ARM BALL,51,FRONTFOOT COVERDRIVE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+124,2,392,2,4,New Zealand,Martin Guptill,Mohammad Nabi,,1,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,154656,-92.50,94.00,2,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,2,0,2,0,0,0,0,0,0,0,0,0
+125,3,392,2,4,New Zealand,Martin Guptill,Mohammad Nabi,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,154657,-92.50,94.00,1,0,,23,ARM BALL,51,FRONTFOOT COVERDRIVE,0,0,3,0,3,0,0,0,0,0,0,0,0,0
+126,4,392,2,4,New Zealand,Daryl Mitchell,Mohammad Nabi,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,154658,-40.50,44.00,0,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,4,0,3,0,0,0,0,0,0,0,0,0
+127,5,392,2,4,New Zealand,Daryl Mitchell,Mohammad Nabi,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,154659,-60.50,41.00,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,5,0,3,0,0,0,0,0,0,0,0,0
+128,6,392,2,4,New Zealand,Daryl Mitchell,Mohammad Nabi,,1,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.6,2,1,0,154660,-146.50,135.00,4,0,,23,ARM BALL,52,BACKFOOT COVERDRIVE,0,0,6,0,7,0,0,0,0,0,0,0,0,0
+129,1,392,2,4,New Zealand,Martin Guptill,Mujeeb Ur Rahman,,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,154661,126.50,24.00,1,0,,33,CARROM BALL,40,FLICK,0,0,1,1,8,0,1,0,0,0,0,0,0,0
+130,2,392,2,4,New Zealand,Daryl Mitchell,Mujeeb Ur Rahman,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,154662,-58.50,42.00,0,0,,33,CARROM BALL,49,FORWARD DEFENCE,0,0,2,1,8,0,0,0,0,0,0,0,0,0
+131,3,392,2,4,New Zealand,Daryl Mitchell,Mujeeb Ur Rahman,,2,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,154663,76.50,135.00,2,0,,33,CARROM BALL,74,SD ON,0,0,3,1,10,0,0,0,0,0,0,0,0,0
+132,4,392,2,4,New Zealand,Daryl Mitchell,Mujeeb Ur Rahman,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,154664,-66.50,-29.00,0,0,,25,OFF SPIN,36,CUT SHOT,0,0,4,1,10,0,0,0,0,0,0,0,0,0
+133,5,392,2,4,New Zealand,Daryl Mitchell,Mujeeb Ur Rahman,,2,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.5,2,1,0,154665,-106.50,-114.00,4,0,,33,CARROM BALL,36,CUT SHOT,0,0,5,1,14,0,0,0,0,0,0,0,0,0
+134,6,392,2,4,New Zealand,Daryl Mitchell,Mujeeb Ur Rahman,,2,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,154666,-53.50,-36.00,1,0,,33,CARROM BALL,27,FORWARD PUSH,0,0,6,1,15,0,0,0,0,0,0,0,0,0
+135,1,392,2,4,New Zealand,Daryl Mitchell,Naveen-ul-Haq,,3,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.1,2,1,0,154667,-8.50,206.00,4,0,,39,ANGLED IN,13,LOFT STRAIGHT,0,0,1,2,19,0,1,0,0,0,0,0,0,0
+136,2,392,2,4,New Zealand,Daryl Mitchell,Naveen-ul-Haq,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,154668,-60.50,36.00,1,0,,8,OFF CUTTER,27,FORWARD PUSH,0,0,2,2,20,0,0,0,0,0,0,0,0,0
+137,3,392,2,4,New Zealand,Martin Guptill,Naveen-ul-Haq,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,154669,-21.50,-20.00,0,0,,8,OFF CUTTER,36,CUT SHOT,0,0,3,2,20,0,0,0,0,0,0,0,0,0
+138,4,392,2,4,New Zealand,Martin Guptill,Naveen-ul-Haq,,3,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.4,2,1,0,154670,-120.50,164.00,4,0,,39,ANGLED IN,5,LOFT OFF,0,0,4,2,24,0,0,0,0,0,0,0,0,0
+139,5,392,2,4,New Zealand,Martin Guptill,Naveen-ul-Haq,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,154671,74.50,133.00,1,0,,8,OFF CUTTER,47,ON DRIVE,0,0,5,2,25,0,0,0,0,0,0,0,0,0
+140,6,392,2,4,New Zealand,Daryl Mitchell,Naveen-ul-Haq,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,154672,60.50,-51.00,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,6,2,26,0,0,0,0,0,0,0,0,0
+141,1,392,2,4,New Zealand,Daryl Mitchell,Mujeeb Ur Rahman,,4,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,3.1,2,1,0,154673,-5.50,-19.00,0,0,,33,CARROM BALL,49,FORWARD DEFENCE,0,0,1,3,26,1,1,0,0,0,0,0,0,0
+142,2,392,2,4,New Zealand,Kane Williamson,Mujeeb Ur Rahman,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,154674,-5.50,-19.00,0,0,,33,CARROM BALL,49,FORWARD DEFENCE,0,0,2,3,26,1,2,0,0,0,0,0,0,0
+143,3,392,2,4,New Zealand,Kane Williamson,Mujeeb Ur Rahman,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,154675,60.50,156.00,1,0,,33,CARROM BALL,97,BACKFOOT PUSH,0,0,3,3,27,1,0,0,0,0,0,0,0,0
+144,4,392,2,4,New Zealand,Martin Guptill,Mujeeb Ur Rahman,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,154676,67.50,143.00,1,0,,28,GOOGLY,47,ON DRIVE,0,0,4,3,28,1,0,0,0,0,0,0,0,0
+145,5,392,2,4,New Zealand,Kane Williamson,Mujeeb Ur Rahman,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,154677,48.50,156.00,1,0,,33,CARROM BALL,101,BACKFOOT ON DRIVE,0,0,5,3,29,1,0,0,0,0,0,0,0,0
+146,6,392,2,4,New Zealand,Martin Guptill,Mujeeb Ur Rahman,,4,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,154678,50.50,151.00,1,0,,28,GOOGLY,47,ON DRIVE,0,0,6,3,30,1,0,0,0,0,0,0,0,0
+147,1,392,2,4,New Zealand,Martin Guptill,Hamid Hassan,,5,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.1,2,1,0,154679,-50.50,207.00,4,0,,39,ANGLED IN,84,OFF DRIVE,0,0,1,4,34,1,1,0,0,0,0,0,0,0
+148,2,392,2,4,New Zealand,Martin Guptill,Hamid Hassan,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,154680,49.50,56.00,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,2,4,34,1,0,0,0,0,0,0,0,0
+149,3,392,2,4,New Zealand,Martin Guptill,Hamid Hassan,,5,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,154681,71.50,145.00,1,0,,39,ANGLED IN,11,LOFT ON,0,0,3,4,35,1,0,0,0,0,0,0,0,0
+150,4,392,2,4,New Zealand,Kane Williamson,Hamid Hassan,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,154682,-60.50,59.00,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,4,4,35,1,0,0,0,0,0,0,0,0
+151,5,392,2,4,New Zealand,Kane Williamson,Hamid Hassan,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,154683,-84.50,-15.00,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,5,4,35,1,0,0,0,0,0,0,0,0
+152,6,392,2,4,New Zealand,Kane Williamson,Hamid Hassan,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,154684,-73.50,33.00,1,0,,43,NIPBACKER,50,BACKFOOT DEFENCE,0,0,6,4,36,1,0,0,0,0,0,0,0,0
+153,1,392,2,4,New Zealand,Kane Williamson,Mujeeb Ur Rahman,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,154685,-12.50,48.00,0,0,,33,CARROM BALL,49,FORWARD DEFENCE,0,0,1,5,36,1,1,0,0,0,0,0,0,0
+154,2,392,2,4,New Zealand,Kane Williamson,Mujeeb Ur Rahman,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,154686,33.50,42.00,0,0,,33,CARROM BALL,50,BACKFOOT DEFENCE,0,0,2,5,36,1,0,0,0,0,0,0,0,0
+155,3,392,2,4,New Zealand,Kane Williamson,Mujeeb Ur Rahman,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,154687,64.50,-68.00,1,0,,33,CARROM BALL,55,SWEEP SHOT,0,0,3,5,37,1,0,0,0,0,0,0,0,0
+156,4,392,2,4,New Zealand,Martin Guptill,Mujeeb Ur Rahman,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,154688,-23.50,47.00,0,0,,33,CARROM BALL,97,BACKFOOT PUSH,0,0,4,5,37,1,0,0,0,0,0,0,0,0
+157,5,392,2,4,New Zealand,Martin Guptill,Mujeeb Ur Rahman,,6,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.5,2,1,0,154689,163.50,105.00,4,0,,33,CARROM BALL,58,PULL SHOT,0,0,5,5,41,1,0,0,0,0,0,0,0,0
+158,6,392,2,4,New Zealand,Martin Guptill,Mujeeb Ur Rahman,,6,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.6,2,1,0,154690,-106.50,178.00,4,0,,33,CARROM BALL,84,OFF DRIVE,0,0,6,5,45,1,0,0,0,0,0,0,0,0
+159,1,392,2,4,New Zealand,Kane Williamson,Rashid Khan,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,154691,-53.50,-59.00,1,0,,24,LEG SPIN,44,GLIDE,0,0,1,6,46,1,1,0,0,0,0,0,0,0
+160,2,392,2,4,New Zealand,Martin Guptill,Rashid Khan,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,154692,-80.50,135.00,1,0,,24,LEG SPIN,84,OFF DRIVE,0,0,2,6,47,1,0,0,0,0,0,0,0,0
+161,3,392,2,4,New Zealand,Kane Williamson,Rashid Khan,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,154693,65.50,48.00,1,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,3,6,48,1,0,0,0,0,0,0,0,0
+162,4,392,2,4,New Zealand,Martin Guptill,Rashid Khan,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,154694,58.50,149.00,1,0,,28,GOOGLY,27,FORWARD PUSH,0,0,4,6,49,1,0,0,0,0,0,0,0,0
+163,5,392,2,4,New Zealand,Kane Williamson,Rashid Khan,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,154695,51.50,47.00,0,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,5,6,49,1,0,0,0,0,0,0,0,0
+164,6,392,2,4,New Zealand,Kane Williamson,Rashid Khan,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,154696,56.50,-65.00,1,0,,28,GOOGLY,37,SD FLICK,0,0,6,6,50,1,0,1,1,0,1,0,0,0
+165,1,392,2,4,New Zealand,Kane Williamson,Mohammad Nabi,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,154697,-135.50,42.00,1,0,,25,OFF SPIN,36,CUT SHOT,0,0,1,7,51,1,1,0,1,0,0,0,0,0
+166,2,392,2,4,New Zealand,Martin Guptill,Mohammad Nabi,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,154698,-124.50,62.00,1,0,,25,OFF SPIN,52,BACKFOOT COVERDRIVE,0,0,2,7,52,1,0,0,1,0,0,0,0,0
+167,3,392,2,4,New Zealand,Kane Williamson,Mohammad Nabi,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,154699,-72.50,32.00,0,0,,25,OFF SPIN,52,BACKFOOT COVERDRIVE,0,0,3,7,52,1,0,0,1,0,0,0,0,0
+168,4,392,2,4,New Zealand,Kane Williamson,Mohammad Nabi,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,154700,47.50,154.00,1,0,,25,OFF SPIN,101,BACKFOOT ON DRIVE,0,0,4,7,53,1,0,0,1,0,0,0,0,0
+169,5,392,2,4,New Zealand,Martin Guptill,Mohammad Nabi,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,154701,-43.50,-34.00,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,5,7,53,1,0,0,1,0,0,0,0,0
+170,6,392,2,4,New Zealand,Martin Guptill,Mohammad Nabi,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,154702,-43.50,-34.00,0,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,6,7,53,1,0,0,1,0,0,0,0,0
+171,1,392,2,4,New Zealand,Kane Williamson,Rashid Khan,,9,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,8.1,2,1,1,154703,-43.50,-34.00,1,0,,28,GOOGLY,40,FLICK,0,0,1,8,54,1,1,0,1,0,0,0,0,0
+172,2,392,2,4,New Zealand,Kane Williamson,Rashid Khan,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,154704,-58.50,-46.00,1,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,2,8,55,1,0,0,1,0,0,0,0,0
+173,3,392,2,4,New Zealand,Martin Guptill,Rashid Khan,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,154705,138.50,-38.00,1,0,,24,LEG SPIN,58,PULL SHOT,0,0,3,8,56,1,0,0,1,0,0,0,0,0
+174,4,392,2,4,New Zealand,Kane Williamson,Rashid Khan,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,154706,36.50,157.00,1,0,,28,GOOGLY,97,BACKFOOT PUSH,0,0,4,8,57,1,0,0,1,0,0,0,0,0
+175,5,392,2,4,New Zealand,Martin Guptill,Rashid Khan,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,154707,-59.50,40.00,0,0,,28,GOOGLY,49,FORWARD DEFENCE,0,0,5,8,57,1,0,0,1,0,0,0,0,0
+176,6,392,2,4,New Zealand,Martin Guptill,Rashid Khan,,9,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,8.5,2,1,0,154708,-59.50,40.00,0,0,,28,GOOGLY,95,SLOG SWEEP,0,0,6,8,57,2,1,0,1,0,0,0,0,0
+177,7,392,2,4,New Zealand,Devon Conway,Rashid Khan,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,154709,-59.50,135.00,1,0,,24,LEG SPIN,47,ON DRIVE,0,0,7,8,58,2,2,0,1,0,0,0,0,0
+178,1,392,2,4,New Zealand,Devon Conway,Mohammad Nabi,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,154710,-65.50,-51.00,1,0,,25,OFF SPIN,40,FLICK,0,0,1,9,59,2,3,0,1,0,0,0,0,0
+179,2,392,2,4,New Zealand,Kane Williamson,Mohammad Nabi,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,154711,-16.50,42.00,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,2,9,59,2,0,0,1,0,0,0,0,0
+180,3,392,2,4,New Zealand,Kane Williamson,Mohammad Nabi,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,154712,48.50,55.00,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,3,9,59,2,0,0,1,0,0,0,0,0
+181,4,392,2,4,New Zealand,Kane Williamson,Mohammad Nabi,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,154713,-62.50,-42.00,0,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,4,9,59,2,0,0,1,0,0,0,0,0
+182,5,392,2,4,New Zealand,Kane Williamson,Mohammad Nabi,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,154714,12.50,78.00,0,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,5,9,59,2,0,0,1,0,0,0,0,0
+183,6,392,2,4,New Zealand,Kane Williamson,Mohammad Nabi,,10,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,154715,-106.50,98.00,2,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,6,9,61,2,0,0,1,0,0,0,0,0
+184,1,392,2,4,New Zealand,Devon Conway,Hamid Hassan,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,154716,49.50,55.00,0,0,,30,ANGLED ACROSS,49,FORWARD DEFENCE,0,0,1,10,61,2,1,0,1,0,0,0,0,0
+185,2,392,2,4,New Zealand,Devon Conway,Hamid Hassan,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,154717,49.50,55.00,0,0,,43,NIPBACKER,40,FLICK,0,0,2,10,61,2,0,0,1,0,0,0,0,0
+186,3,392,2,4,New Zealand,Devon Conway,Hamid Hassan,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,154718,49.50,55.00,0,0,,43,NIPBACKER,49,FORWARD DEFENCE,0,0,3,10,61,2,0,0,1,0,0,0,0,0
+187,4,392,2,4,New Zealand,Devon Conway,Hamid Hassan,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,154719,53.50,-42.00,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,4,10,61,2,0,0,1,0,0,0,0,0
+188,5,392,2,4,New Zealand,Devon Conway,Hamid Hassan,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,154720,38.50,87.00,1,0,,39,ANGLED IN,84,OFF DRIVE,0,0,5,10,62,2,0,0,1,0,0,0,0,0
+189,6,392,2,4,New Zealand,Kane Williamson,Hamid Hassan,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,154721,-149.50,-27.00,1,0,,39,ANGLED IN,16,BACKFOOT SQUARE DRIVE,0,0,6,10,63,2,0,0,1,0,0,0,0,0
+190,1,392,2,4,New Zealand,Kane Williamson,Rashid Khan,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,154722,82.50,99.00,1,0,,28,GOOGLY,97,BACKFOOT PUSH,0,0,1,11,64,2,1,0,1,0,0,0,0,0
+191,2,392,2,4,New Zealand,Devon Conway,Rashid Khan,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,154723,50.50,-38.00,1,0,,28,GOOGLY,49,FORWARD DEFENCE,0,0,2,11,65,2,0,0,1,0,0,0,0,0
+192,3,392,2,4,New Zealand,Kane Williamson,Rashid Khan,,12,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.3,2,1,0,154724,162.50,111.00,4,0,,28,GOOGLY,97,BACKFOOT PUSH,0,0,3,11,69,2,0,0,1,0,0,0,0,0
+193,4,392,2,4,New Zealand,Kane Williamson,Rashid Khan,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,154725,-42.50,-47.00,1,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,4,11,70,2,0,0,1,0,0,0,0,0
+194,5,392,2,4,New Zealand,Devon Conway,Rashid Khan,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,154726,-65.50,47.00,0,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,5,11,70,2,0,0,1,0,0,0,0,0
+195,6,392,2,4,New Zealand,Devon Conway,Rashid Khan,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,154727,-65.50,47.00,0,0,,28,GOOGLY,40,FLICK,0,0,6,11,70,2,0,0,1,0,0,0,0,0
+196,1,392,2,4,New Zealand,Kane Williamson,Gulbadin Naib,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,154728,65.50,153.00,1,0,,39,ANGLED IN,101,BACKFOOT ON DRIVE,0,0,1,12,71,2,1,0,1,0,0,0,0,0
+197,2,392,2,4,New Zealand,Devon Conway,Gulbadin Naib,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,154729,-131.50,-33.00,1,0,,46,LEGCUTTER,58,PULL SHOT,0,0,2,12,72,2,0,0,1,0,0,0,0,0
+198,3,392,2,4,New Zealand,Kane Williamson,Gulbadin Naib,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,154730,-146.50,58.00,1,0,,46,LEGCUTTER,52,BACKFOOT COVERDRIVE,0,0,3,12,73,2,0,0,1,0,0,0,0,0
+199,4,392,2,4,New Zealand,Devon Conway,Gulbadin Naib,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,154731,10.50,160.00,1,0,,30,ANGLED ACROSS,19,BACKFOOT STRAIGHT DRIVE,0,0,4,12,74,2,0,0,1,0,0,0,0,0
+200,5,392,2,4,New Zealand,Kane Williamson,Gulbadin Naib,,13,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.5,2,1,0,154732,-165.50,98.00,4,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,5,12,78,2,0,0,1,0,0,0,0,0
+201,6,392,2,4,New Zealand,Kane Williamson,Gulbadin Naib,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,154733,-58.50,-40.00,0,0,,46,LEGCUTTER,44,GLIDE,0,0,6,12,78,2,0,0,1,0,0,0,0,0
+202,1,392,2,4,New Zealand,Devon Conway,Mohammad Nabi,,14,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,154734,126.50,100.00,2,0,,25,OFF SPIN,114,SDL COVER,0,0,1,13,80,2,1,0,1,0,0,0,0,0
+203,2,392,2,4,New Zealand,Devon Conway,Mohammad Nabi,,14,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.2,2,1,0,154735,-156.50,-65.00,4,0,,23,ARM BALL,55,SWEEP SHOT,0,0,2,13,84,2,0,0,1,0,0,0,0,0
+204,3,392,2,4,New Zealand,Devon Conway,Mohammad Nabi,,14,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.3,2,1,0,154736,-179.50,7.00,4,0,,23,ARM BALL,55,SWEEP SHOT,0,0,3,13,88,2,0,0,1,0,0,0,0,0
+205,4,392,2,4,New Zealand,Devon Conway,Mohammad Nabi,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,154737,19.50,-49.00,1,0,,23,ARM BALL,56,REVERSE SWEEP,0,0,4,13,89,2,0,0,1,0,0,0,0,0
+206,5,392,2,4,New Zealand,Kane Williamson,Mohammad Nabi,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,154738,-62.50,-50.00,1,0,,25,OFF SPIN,35,LATE CUT,0,0,5,13,90,2,0,0,1,0,0,0,0,0
+207,6,392,2,4,New Zealand,Devon Conway,Mohammad Nabi,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,154739,128.50,75.00,1,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,6,13,91,2,0,0,1,0,0,0,0,0
+208,1,392,2,4,New Zealand,Devon Conway,Rashid Khan,,15,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.1,2,1,0,154740,90.50,-121.00,4,0,,24,LEG SPIN,56,REVERSE SWEEP,0,0,1,14,95,2,1,0,1,0,0,0,0,0
+209,2,392,2,4,New Zealand,Devon Conway,Rashid Khan,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,154741,-134.50,61.00,1,0,,28,GOOGLY,97,BACKFOOT PUSH,0,0,2,14,96,2,0,0,1,0,0,0,0,0
+210,3,392,2,4,New Zealand,Kane Williamson,Rashid Khan,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,154742,59.50,136.00,1,0,,28,GOOGLY,47,ON DRIVE,0,0,3,14,97,2,0,0,1,0,0,0,0,0
+211,4,392,2,4,New Zealand,Devon Conway,Rashid Khan,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,154743,-128.50,-13.00,1,0,,24,LEG SPIN,95,SLOG SWEEP,0,0,4,14,98,2,0,0,1,0,0,0,0,0
+212,5,392,2,4,New Zealand,Kane Williamson,Rashid Khan,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,154744,38.50,-35.00,1,0,,28,GOOGLY,54,LEG GLANCE,0,0,5,14,99,2,0,0,1,0,0,0,0,0
+213,6,392,2,4,New Zealand,Devon Conway,Rashid Khan,,15,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,154745,-33.50,-97.00,2,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,6,14,101,2,0,1,2,0,0,1,0,0
+214,1,392,2,4,New Zealand,Kane Williamson,Hamid Hassan,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,154746,-72.50,-92.00,1,0,,39,ANGLED IN,44,GLIDE,0,0,1,15,102,2,1,0,2,0,0,0,0,0
+215,2,392,2,4,New Zealand,Devon Conway,Hamid Hassan,,16,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,154747,-72.50,-92.00,0,0,,39,ANGLED IN,89,SD COVER,0,0,2,15,102,2,0,0,2,0,0,0,0,0
+216,3,392,2,4,New Zealand,Devon Conway,Hamid Hassan,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,154748,-74.50,38.00,0,0,,39,ANGLED IN,58,PULL SHOT,0,0,3,15,102,2,0,0,2,0,0,0,0,0
+217,4,392,2,4,New Zealand,Devon Conway,Hamid Hassan,,16,4,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,15.4,2,1,1,154749,-74.50,38.00,1,0,,39,ANGLED IN,58,PULL SHOT,0,0,4,15,103,2,0,0,2,0,0,0,0,0
+218,5,392,2,4,New Zealand,Kane Williamson,Hamid Hassan,,16,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.5,2,1,0,154750,-144.50,138.00,4,0,,39,ANGLED IN,51,FRONTFOOT COVERDRIVE,0,0,5,15,107,2,0,0,2,0,0,0,0,0
+219,6,392,2,4,New Zealand,Kane Williamson,Hamid Hassan,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,154751,65.50,-8.00,1,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,6,15,108,2,0,0,2,0,0,0,0,0
+220,1,392,2,4,New Zealand,Kane Williamson,Mujeeb Ur Rahman,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,154752,-71.50,136.00,1,0,,33,CARROM BALL,21,SD OFF,0,0,1,16,109,2,1,0,2,0,0,0,0,0
+221,2,392,2,4,New Zealand,Devon Conway,Mujeeb Ur Rahman,,17,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.2,2,1,0,154753,-8.50,209.00,4,0,,33,CARROM BALL,1,SD STRAIGHT,0,0,2,16,113,2,0,0,2,0,0,0,0,0
+222,3,392,2,4,New Zealand,Devon Conway,Mujeeb Ur Rahman,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,154754,-8.50,209.00,0,0,,28,GOOGLY,55,SWEEP SHOT,0,0,3,16,113,2,0,0,2,0,0,0,0,0
+223,4,392,2,4,New Zealand,Devon Conway,Mujeeb Ur Rahman,,17,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,16.4,2,1,1,154755,-8.50,209.00,1,0,,28,GOOGLY,54,LEG GLANCE,0,0,4,16,114,2,0,0,2,0,0,0,0,0
+224,5,392,2,4,New Zealand,Devon Conway,Mujeeb Ur Rahman,,17,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,154756,106.50,-59.00,2,0,,33,CARROM BALL,56,REVERSE SWEEP,0,0,5,16,116,2,0,0,2,0,0,0,0,0
+225,6,392,2,4,New Zealand,Devon Conway,Mujeeb Ur Rahman,,17,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,154757,69.50,42.00,0,0,,33,CARROM BALL,89,SD COVER,0,0,6,16,116,2,0,0,2,0,0,0,0,0
+226,7,392,2,4,New Zealand,Devon Conway,Mujeeb Ur Rahman,,17,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,154758,-134.50,86.00,2,0,,33,CARROM BALL,97,BACKFOOT PUSH,0,0,7,16,118,2,0,0,2,0,0,0,0,0
+227,1,392,2,4,New Zealand,Kane Williamson,Naveen-ul-Haq,,18,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,154759,-148.50,73.00,2,0,,38,STRAIGHT BALL,114,SDL COVER,0,0,1,17,120,2,1,0,2,0,0,0,0,0
+228,2,392,2,4,New Zealand,Kane Williamson,Naveen-ul-Haq,,18,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,154760,-43.50,36.00,0,0,,39,ANGLED IN,6,BACKFOOT OFF DRIVE,0,0,2,17,120,2,0,0,2,0,0,0,0,0
+229,3,392,2,4,New Zealand,Kane Williamson,Naveen-ul-Haq,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,154761,-152.50,29.00,1,0,,8,OFF CUTTER,36,CUT SHOT,0,0,3,17,121,2,0,0,2,0,0,0,0,0
+230,4,392,2,4,New Zealand,Devon Conway,Naveen-ul-Haq,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,154762,-123.50,-46.00,1,0,,30,ANGLED ACROSS,40,FLICK,0,0,4,17,122,2,0,0,2,0,0,0,0,0
+231,5,392,2,4,New Zealand,Kane Williamson,Naveen-ul-Haq,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,154763,-76.50,97.00,1,0,,39,ANGLED IN,84,OFF DRIVE,0,0,5,17,123,2,0,0,2,0,0,0,0,0
+232,6,392,2,4,New Zealand,Devon Conway,Naveen-ul-Haq,,18,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,17.6,2,1,1,154764,-76.50,97.00,1,0,,8,OFF CUTTER,40,FLICK,0,0,6,17,124,2,0,0,2,0,0,0,0,0
+233,1,392,2,4,New Zealand,Devon Conway,Gulbadin Naib,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,154765,-35.50,168.00,1,0,,46,LEGCUTTER,101,BACKFOOT ON DRIVE,0,0,1,18,125,2,1,0,2,0,0,0,0,0

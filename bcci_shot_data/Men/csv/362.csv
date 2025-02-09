@@ -1,0 +1,108 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,362,1,27,Netherlands,Stephan Myburgh,Chamika Karunaratne,,1,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,0.1,2,1,1,148358,,,1,0,,,Knuckleball,40,FLICK,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+1,2,362,1,27,Netherlands,Max O Dowd,Chamika Karunaratne,,1,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,148359,108.82,-85.51,2,0,,,Knuckleball,40,FLICK,0,0,2,0,3,0,0,0,0,0,0,0,0,0
+2,3,362,1,27,Netherlands,Max O Dowd,Chamika Karunaratne,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,148360,31.00,30.98,0,0,,,Knuckleball,40,FLICK,0,0,3,0,3,0,0,0,0,0,0,0,0,0
+3,4,362,1,27,Netherlands,Max O Dowd,Chamika Karunaratne,,1,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,0.4,2,1,0,148361,31.00,30.98,0,0,,,Knuckleball,84,OFF DRIVE,0,0,4,0,3,1,0,0,0,0,0,0,0,0
+4,5,362,1,27,Netherlands,Stephan Myburgh,Chamika Karunaratne,,1,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.5,2,1,1,148362,31.00,30.98,1,0,,,Knuckleball,105,LEFT ALONE,0,0,5,0,4,1,0,0,0,0,0,0,0,0
+5,6,362,1,27,Netherlands,Stephan Myburgh,Chamika Karunaratne,,1,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.5,2,1,0,148363,151.64,157.14,4,0,,,Knuckleball,5,LOFT OFF,0,0,6,0,8,1,0,0,0,0,0,0,0,0
+6,7,362,1,27,Netherlands,Stephan Myburgh,Chamika Karunaratne,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,148364,151.64,157.14,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,7,0,8,1,0,0,0,0,0,0,0,0
+7,1,362,1,27,Netherlands,Ben Cooper,Dushmantha Chameera,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,148365,68.76,55.38,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,1,8,1,1,0,0,0,0,0,0,0
+8,2,362,1,27,Netherlands,Ben Cooper,Dushmantha Chameera,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,148366,68.76,55.38,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,1,8,1,0,0,0,0,0,0,0,0
+9,3,362,1,27,Netherlands,Ben Cooper,Dushmantha Chameera,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,148367,68.76,55.38,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,1,8,1,0,0,0,0,0,0,0,0
+10,4,362,1,27,Netherlands,Ben Cooper,Dushmantha Chameera,,2,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.4,2,1,0,148368,-20.56,-149.51,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,1,12,1,0,0,0,0,0,0,0,0
+11,5,362,1,27,Netherlands,Ben Cooper,Dushmantha Chameera,,2,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.5,2,1,0,148369,-26.55,-144.91,4,0,,,Knuckleball,58,PULL SHOT,0,0,5,1,16,1,0,0,0,0,0,0,0,0
+12,6,362,1,27,Netherlands,Ben Cooper,Dushmantha Chameera,,2,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,1.6,2,1,1,148370,-47.27,10.72,1,0,,,Knuckleball,40,FLICK,0,0,6,1,17,1,0,0,0,0,0,0,0,0
+13,1,362,1,27,Netherlands,Ben Cooper,Maheesh Theekshana,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,148371,-126.92,100.96,1,0,,,Knuckleball,40,FLICK,0,0,1,2,18,1,1,0,0,0,0,0,0,0
+14,2,362,1,27,Netherlands,Stephan Myburgh,Maheesh Theekshana,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,148372,144.73,73.34,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,2,19,1,0,0,0,0,0,0,0,0
+15,3,362,1,27,Netherlands,Ben Cooper,Maheesh Theekshana,,3,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,2.3,2,1,0,148373,144.73,73.34,0,0,,,Knuckleball,37,SD FLICK,0,0,3,2,19,2,1,0,0,0,0,0,0,0
+16,4,362,1,27,Netherlands,Colin Ackermann,Maheesh Theekshana,,3,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,148374,144.73,73.34,1,0,,,Knuckleball,37,SD FLICK,0,0,4,2,20,2,2,0,0,0,0,0,0,0
+17,5,362,1,27,Netherlands,Stephan Myburgh,Maheesh Theekshana,,3,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,2.5,2,1,0,148375,144.73,73.34,0,0,,,Knuckleball,58,PULL SHOT,0,0,5,2,20,3,3,0,0,0,0,0,0,0
+18,6,362,1,27,Netherlands,Bas De Leede,Maheesh Theekshana,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,148376,144.73,73.34,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,2,20,3,4,0,0,0,0,0,0,0
+19,1,362,1,27,Netherlands,Colin Ackermann,Lahiru Kumara,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,148377,-73.51,68.27,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,3,20,3,5,0,0,0,0,0,0,0
+20,2,362,1,27,Netherlands,Colin Ackermann,Lahiru Kumara,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,148378,-65.69,-29.34,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,3,20,3,0,0,0,0,0,0,0,0
+21,3,362,1,27,Netherlands,Colin Ackermann,Lahiru Kumara,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,148379,-88.25,8.42,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,3,20,3,0,0,0,0,0,0,0,0
+22,4,362,1,27,Netherlands,Colin Ackermann,Lahiru Kumara,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,148380,-59.24,105.11,0,0,,,Knuckleball,84,OFF DRIVE,0,0,4,3,20,3,0,0,0,0,0,0,0,0
+23,5,362,1,27,Netherlands,Colin Ackermann,Lahiru Kumara,,4,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.5,2,1,0,148381,6.60,231.27,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,5,3,26,3,0,0,0,0,0,0,0,0
+24,6,362,1,27,Netherlands,Colin Ackermann,Lahiru Kumara,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,148382,83.95,14.86,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,3,26,3,0,0,0,0,0,0,0,0
+25,1,362,1,27,Netherlands,Bas De Leede,Wanindu Hasaranga,,5,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,4.1,2,1,1,148383,57.25,6.12,1,0,,,Knuckleball,37,SD FLICK,0,0,1,4,27,3,1,0,0,0,0,0,0,0
+26,2,362,1,27,Netherlands,Colin Ackermann,Wanindu Hasaranga,,5,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.2,2,1,0,148384,182.49,-24.73,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,4,31,3,0,0,0,0,0,0,0,0
+27,3,362,1,27,Netherlands,Colin Ackermann,Wanindu Hasaranga,,5,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,4.3,2,1,0,148385,182.49,-24.73,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,4,31,4,1,0,0,0,0,0,0,0
+28,4,362,1,27,Netherlands,Scott Edwards,Wanindu Hasaranga,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,148386,-56.02,5.19,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,4,31,4,2,0,0,0,0,0,0,0
+29,5,362,1,27,Netherlands,Scott Edwards,Wanindu Hasaranga,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,148387,74.28,-40.39,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,4,32,4,0,0,0,0,0,0,0,0
+30,6,362,1,27,Netherlands,Bas De Leede,Wanindu Hasaranga,,5,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,4.6,2,1,0,148388,74.28,-40.39,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,4,32,5,1,0,0,0,0,0,0,0
+31,1,362,1,27,Netherlands,Scott Edwards,Dushmantha Chameera,,6,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.1,2,1,0,148389,-84.56,-98.40,4,0,,,Knuckleball,40,FLICK,0,0,1,5,36,5,2,0,0,0,0,0,0,0
+32,2,362,1,27,Netherlands,Scott Edwards,Dushmantha Chameera,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,148390,-84.56,-98.40,1,0,,,Knuckleball,44,GLIDE,0,0,2,5,37,5,0,0,0,0,0,0,0,0
+33,3,362,1,27,Netherlands,Roelof Van Der Merwe,Dushmantha Chameera,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,148391,-86.41,61.83,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,5,37,5,0,0,0,0,0,0,0,0
+34,4,362,1,27,Netherlands,Roelof Van Der Merwe,Dushmantha Chameera,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,148392,-86.41,61.83,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,5,37,5,0,0,0,0,0,0,0,0
+35,5,362,1,27,Netherlands,Roelof Van Der Merwe,Dushmantha Chameera,,6,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.5,2,1,0,148393,-86.41,61.83,0,0,,,Knuckleball,31,UPPER CUT,0,0,5,5,37,6,1,0,0,0,0,0,0,0
+36,6,362,1,27,Netherlands,Pieter Seelaar,Dushmantha Chameera,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,148394,-86.41,61.83,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,5,37,6,2,0,0,0,0,0,0,0
+37,1,362,1,27,Netherlands,Scott Edwards,Wanindu Hasaranga,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,148395,-86.41,61.83,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,1,6,37,6,3,0,0,0,0,0,0,0
+38,2,362,1,27,Netherlands,Scott Edwards,Wanindu Hasaranga,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,148396,142.89,-24.27,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,6,38,6,0,0,0,0,0,0,0,0
+39,3,362,1,27,Netherlands,Pieter Seelaar,Wanindu Hasaranga,,7,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,148397,124.93,80.71,2,0,,,Knuckleball,40,FLICK,0,0,3,6,40,6,0,0,0,0,0,0,0,0
+40,4,362,1,27,Netherlands,Pieter Seelaar,Wanindu Hasaranga,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,148398,50.80,6.58,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,6,40,6,0,0,0,0,0,0,0,0
+41,5,362,1,27,Netherlands,Pieter Seelaar,Wanindu Hasaranga,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,148399,-17.34,66.43,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,5,6,40,6,0,0,0,0,0,0,0,0
+42,6,362,1,27,Netherlands,Pieter Seelaar,Wanindu Hasaranga,,7,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,6.6,2,1,0,148400,-17.34,66.43,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,6,40,7,1,0,0,0,0,0,0,0
+43,1,362,1,27,Netherlands,Scott Edwards,Lahiru Kumara,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,148401,-17.34,66.43,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,7,40,7,2,0,0,0,0,0,0,0
+44,2,362,1,27,Netherlands,Scott Edwards,Lahiru Kumara,,8,2,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,7.2,2,1,1,148402,-114.49,13.94,1,0,,,Knuckleball,105,LEFT ALONE,0,0,2,7,41,7,0,0,0,0,0,0,0,0
+45,3,362,1,27,Netherlands,Fred Klaassen,Lahiru Kumara,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,148403,-93.31,46.17,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,7,41,7,0,0,0,0,0,0,0,0
+46,4,362,1,27,Netherlands,Fred Klaassen,Lahiru Kumara,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,148404,-93.31,46.17,0,0,,,Knuckleball,105,LEFT ALONE,0,0,4,7,41,7,0,0,0,0,0,0,0,0
+47,5,362,1,27,Netherlands,Fred Klaassen,Lahiru Kumara,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,148405,116.18,-56.50,1,0,,,Knuckleball,40,FLICK,0,0,5,7,42,7,0,0,0,0,0,0,0,0
+48,6,362,1,27,Netherlands,Scott Edwards,Lahiru Kumara,,8,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,7.6,2,1,1,148406,90.86,36.96,1,0,,,Knuckleball,40,FLICK,0,0,6,7,43,7,0,0,0,0,0,0,0,0
+49,1,362,1,27,Netherlands,Scott Edwards,Wanindu Hasaranga,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,148407,-14.58,-15.99,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,1,8,43,7,1,0,0,0,0,0,0,0
+50,2,362,1,27,Netherlands,Scott Edwards,Wanindu Hasaranga,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,148408,-43.59,19.93,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,8,43,7,0,0,0,0,0,0,0,0
+51,3,362,1,27,Netherlands,Scott Edwards,Wanindu Hasaranga,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,148409,130.46,-53.74,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,8,44,7,0,0,0,0,0,0,0,0
+52,4,362,1,27,Netherlands,Fred Klaassen,Wanindu Hasaranga,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,148410,39.29,20.85,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,8,44,7,0,0,0,0,0,0,0,0
+53,5,362,1,27,Netherlands,Fred Klaassen,Wanindu Hasaranga,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,148411,-4.91,53.08,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,8,44,7,0,0,0,0,0,0,0,0
+54,6,362,1,27,Netherlands,Fred Klaassen,Wanindu Hasaranga,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,148412,-66.15,45.25,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,8,44,7,0,0,0,0,0,0,0,0
+55,1,362,1,27,Netherlands,Scott Edwards,Lahiru Kumara,,10,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,9.1,2,1,0,148413,-66.15,45.25,0,0,,,Knuckleball,40,FLICK,0,0,1,9,44,8,1,0,0,0,0,0,0,0
+56,2,362,1,27,Netherlands,Brandon Glover,Lahiru Kumara,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,148414,-66.15,45.25,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,9,44,8,2,0,0,0,0,0,0,0
+57,3,362,1,27,Netherlands,Brandon Glover,Lahiru Kumara,,10,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,9.3,2,1,0,148415,-66.15,45.25,0,0,,,Knuckleball,44,GLIDE,0,0,3,9,44,9,3,0,0,0,0,0,0,0
+58,4,362,1,27,Netherlands,Paul Van Meekeren,Lahiru Kumara,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,148416,-64.77,54.46,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,9,44,9,4,0,0,0,0,0,0,0
+59,5,362,1,27,Netherlands,Paul Van Meekeren,Lahiru Kumara,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,148417,-64.77,54.46,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,9,44,9,0,0,0,0,0,0,0,0
+60,6,362,1,27,Netherlands,Paul Van Meekeren,Lahiru Kumara,,10,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,9.6,2,1,0,148418,-64.77,54.46,0,0,,,Knuckleball,40,FLICK,0,0,6,9,44,10,1,0,0,0,0,0,0,0
+61,1,362,2,6,Sri Lanka,Pathum Nissanka,Fred Klaassen,,1,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,0.1,2,1,1,148419,60.01,-25.19,1,0,,,Knuckleball,40,FLICK,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+62,2,362,2,6,Sri Lanka,Kusal Perera,Fred Klaassen,,1,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.2,2,1,0,148420,116.18,-121.42,4,0,,,Knuckleball,36,CUT SHOT,0,0,2,0,5,0,0,0,0,0,0,0,0,0
+63,3,362,2,6,Sri Lanka,Kusal Perera,Fred Klaassen,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,148421,105.13,15.32,1,0,,,Knuckleball,40,FLICK,0,0,3,0,6,0,0,0,0,0,0,0,0,0
+64,4,362,2,6,Sri Lanka,Pathum Nissanka,Fred Klaassen,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,148422,30.08,7.50,0,0,,,Knuckleball,40,FLICK,0,0,4,0,6,0,0,0,0,0,0,0,0,0
+65,5,362,2,6,Sri Lanka,Pathum Nissanka,Fred Klaassen,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,148423,-70.29,-28.42,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,0,6,0,0,0,0,0,0,0,0,0
+66,6,362,2,6,Sri Lanka,Pathum Nissanka,Fred Klaassen,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,148424,-70.29,-28.42,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,0,6,0,0,0,0,0,0,0,0,0
+67,1,362,2,6,Sri Lanka,Kusal Perera,Brandon Glover,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,148425,62.31,74.72,0,0,,,Knuckleball,47,ON DRIVE,0,0,1,1,6,0,1,0,0,0,0,0,0,0
+68,2,362,2,6,Sri Lanka,Kusal Perera,Brandon Glover,,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,148426,62.31,74.72,1,0,,,Knuckleball,84,OFF DRIVE,0,0,2,1,7,0,0,0,0,0,0,0,0,0
+69,3,362,2,6,Sri Lanka,Pathum Nissanka,Brandon Glover,,2,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,1.3,2,1,0,148427,62.31,74.72,0,0,,,Knuckleball,69,SDL STRAIGHT,0,0,3,1,7,1,1,0,0,0,0,0,0,0
+70,4,362,2,6,Sri Lanka,Kusal Perera,Brandon Glover,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,148428,-97.92,13.94,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,1,7,1,2,0,0,0,0,0,0,0
+71,5,362,2,6,Sri Lanka,Kusal Perera,Brandon Glover,,2,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,148429,-97.92,13.94,1,0,,,Knuckleball,40,FLICK,0,0,5,1,8,1,0,0,0,0,0,0,0,0
+72,6,362,2,6,Sri Lanka,Charith Asalanka,Brandon Glover,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,148430,64.62,13.02,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,1,8,1,0,0,0,0,0,0,0,0
+73,1,362,2,6,Sri Lanka,Kusal Perera,Paul Van Meekeren,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,148431,70.14,-111.76,1,0,,,Knuckleball,96,Slice,0,0,1,2,9,1,1,0,0,0,0,0,0,0
+74,2,362,2,6,Sri Lanka,Charith Asalanka,Paul Van Meekeren,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,148432,84.41,53.08,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,2,10,1,0,0,0,0,0,0,0,0
+75,3,362,2,6,Sri Lanka,Kusal Perera,Paul Van Meekeren,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,148433,84.41,53.08,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,2,10,1,0,0,0,0,0,0,0,0
+76,4,362,2,6,Sri Lanka,Kusal Perera,Paul Van Meekeren,,3,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.4,2,1,0,148434,46.20,211.93,4,0,,,Knuckleball,84,OFF DRIVE,0,0,4,2,14,1,0,0,0,0,0,0,0,0
+77,5,362,2,6,Sri Lanka,Kusal Perera,Paul Van Meekeren,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,148435,76.13,105.11,0,0,,,Knuckleball,84,OFF DRIVE,0,0,5,2,14,1,0,0,0,0,0,0,0,0
+78,6,362,2,6,Sri Lanka,Kusal Perera,Paul Van Meekeren,,3,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,2.6,2,1,1,148436,76.13,105.11,1,0,,,Knuckleball,105,LEFT ALONE,0,0,6,2,15,1,0,0,0,0,0,0,0,0
+79,7,362,2,6,Sri Lanka,Kusal Perera,Paul Van Meekeren,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,148437,89.94,14.40,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,7,2,15,1,0,0,0,0,0,0,0,0
+80,1,362,2,6,Sri Lanka,Charith Asalanka,Fred Klaassen,,4,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.1,2,1,0,148438,-137.51,-98.40,4,0,,,Knuckleball,40,FLICK,0,0,1,3,19,1,1,0,0,0,0,0,0,0
+81,2,362,2,6,Sri Lanka,Charith Asalanka,Fred Klaassen,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,148439,-77.66,62.29,0,0,,,Knuckleball,40,FLICK,0,0,2,3,19,1,0,0,0,0,0,0,0,0
+82,3,362,2,6,Sri Lanka,Charith Asalanka,Fred Klaassen,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,148440,-77.66,62.29,0,0,,,Knuckleball,105,LEFT ALONE,0,0,3,3,19,1,0,0,0,0,0,0,0,0
+83,4,362,2,6,Sri Lanka,Charith Asalanka,Fred Klaassen,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,148441,-124.62,21.77,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,3,20,1,0,0,0,0,0,0,0,0
+84,5,362,2,6,Sri Lanka,Kusal Perera,Fred Klaassen,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,148442,-137.51,10.26,1,0,,,Knuckleball,40,FLICK,0,0,5,3,21,1,0,0,0,0,0,0,0,0
+85,6,362,2,6,Sri Lanka,Charith Asalanka,Fred Klaassen,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,148443,-137.51,10.26,0,0,,,Knuckleball,40,FLICK,0,0,6,3,21,1,0,0,0,0,0,0,0,0
+86,1,362,2,6,Sri Lanka,Kusal Perera,Brandon Glover,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,148444,66.46,-8.62,0,0,,,Knuckleball,40,FLICK,0,0,1,4,21,1,1,0,0,0,0,0,0,0
+87,2,362,2,6,Sri Lanka,Kusal Perera,Brandon Glover,,5,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.2,2,1,0,148445,-73.97,-135.24,4,0,,,Knuckleball,58,PULL SHOT,0,0,2,4,25,1,0,0,0,0,0,0,0,0
+88,3,362,2,6,Sri Lanka,Kusal Perera,Brandon Glover,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,148446,-73.97,-135.24,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,4,25,1,0,0,0,0,0,0,0,0
+89,4,362,2,6,Sri Lanka,Kusal Perera,Brandon Glover,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,148447,45.28,82.09,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,4,26,1,0,0,0,0,0,0,0,0
+90,5,362,2,6,Sri Lanka,Charith Asalanka,Brandon Glover,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,148448,-15.96,43.87,0,0,,,Knuckleball,58,PULL SHOT,0,0,5,4,26,1,0,0,0,0,0,0,0,0
+91,6,362,2,6,Sri Lanka,Charith Asalanka,Brandon Glover,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,148449,-15.96,43.87,0,0,,,Knuckleball,18,SLOG SHOT,0,0,6,4,26,1,0,0,0,0,0,0,0,0
+92,1,362,2,6,Sri Lanka,Kusal Perera,Paul Van Meekeren,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,148450,-15.50,65.51,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,1,5,26,1,1,0,0,0,0,0,0,0
+93,2,362,2,6,Sri Lanka,Kusal Perera,Paul Van Meekeren,,6,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.2,2,1,0,148451,182.49,103.73,4,0,,,Knuckleball,36,CUT SHOT,0,0,2,5,30,1,0,0,0,0,0,0,0,0
+94,3,362,2,6,Sri Lanka,Kusal Perera,Paul Van Meekeren,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,148452,75.21,84.85,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,3,5,31,1,0,0,0,0,0,0,0,0
+95,4,362,2,6,Sri Lanka,Charith Asalanka,Paul Van Meekeren,,6,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.4,2,1,0,148453,75.21,84.85,0,0,,,Knuckleball,58,PULL SHOT,0,0,4,5,31,2,1,0,0,0,0,0,0,0
+96,5,362,2,6,Sri Lanka,Kusal Perera,Paul Van Meekeren,,6,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.5,2,1,0,148454,-166.98,142.40,4,0,,,Knuckleball,58,PULL SHOT,0,0,5,5,35,2,2,0,0,0,0,0,0,0
+97,6,362,2,6,Sri Lanka,Kusal Perera,Paul Van Meekeren,,6,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.6,2,1,0,148455,142.43,152.07,4,0,,,Knuckleball,84,OFF DRIVE,0,0,6,5,39,2,0,0,0,0,0,0,0,0
+98,1,362,2,6,Sri Lanka,Avishka Fernando,Brandon Glover,,7,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,6.1,2,1,1,148456,171.44,120.30,1,0,,,Knuckleball,105,LEFT ALONE,0,0,1,6,40,2,1,0,0,0,0,0,0,0
+99,2,362,2,6,Sri Lanka,Avishka Fernando,Brandon Glover,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,148457,95.46,22.23,0,0,,,Knuckleball,40,FLICK,0,0,2,6,40,2,0,0,0,0,0,0,0,0
+100,3,362,2,6,Sri Lanka,Avishka Fernando,Brandon Glover,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,148458,95.46,22.23,0,0,,,Knuckleball,105,LEFT ALONE,0,0,3,6,40,2,0,0,0,0,0,0,0,0
+101,4,362,2,6,Sri Lanka,Avishka Fernando,Brandon Glover,,7,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,6.3,2,1,1,148459,95.46,22.23,1,0,,,Knuckleball,105,LEFT ALONE,0,0,4,6,41,2,0,0,0,0,0,0,0,0
+102,5,362,2,6,Sri Lanka,Avishka Fernando,Brandon Glover,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,148460,-89.63,14.86,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,6,42,2,0,0,0,0,0,0,0,0
+103,6,362,2,6,Sri Lanka,Kusal Perera,Brandon Glover,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,148461,97.77,34.20,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,6,42,2,0,0,0,0,0,0,0,0
+104,7,362,2,6,Sri Lanka,Kusal Perera,Brandon Glover,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,148462,-69.37,56.76,0,0,,,Knuckleball,40,FLICK,0,0,7,6,42,2,0,0,0,0,0,0,0,0
+105,8,362,2,6,Sri Lanka,Kusal Perera,Brandon Glover,,7,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,148463,-112.65,-77.22,2,0,,,Knuckleball,40,FLICK,0,0,8,6,44,2,0,0,0,0,0,0,0,0
+106,1,362,2,6,Sri Lanka,Avishka Fernando,Fred Klaassen,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,148464,98.69,-74.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,1,7,45,2,1,0,0,0,0,0,0,0

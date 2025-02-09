@@ -1,0 +1,245 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,367,1,11,Bangladesh,Mohammad Naim Sheikh,Chamika Karunaratne,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,148847,86.72,31.90,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,367,1,11,Bangladesh,Mohammad Naim Sheikh,Chamika Karunaratne,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,148848,68.76,9.80,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2,3,367,1,11,Bangladesh,Mohammad Naim Sheikh,Chamika Karunaratne,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,148849,-121.40,-56.04,1,0,,,Knuckleball,40,FLICK,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+3,4,367,1,11,Bangladesh,Liton Das,Chamika Karunaratne,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,148850,-81.34,-21.51,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,4,0,1,0,0,0,0,0,0,0,0,0
+4,5,367,1,11,Bangladesh,Liton Das,Chamika Karunaratne,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,148851,63.23,91.29,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,0,2,0,0,0,0,0,0,0,0,0
+5,6,367,1,11,Bangladesh,Mohammad Naim Sheikh,Chamika Karunaratne,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,148852,13.51,52.62,0,0,,,Knuckleball,40,FLICK,0,0,6,0,2,0,0,0,0,0,0,0,0,0
+6,1,367,1,11,Bangladesh,Liton Das,Binura Fernando,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,148853,82.11,32.82,0,0,,,Knuckleball,40,FLICK,0,0,1,1,2,0,1,0,0,0,0,0,0,0
+7,2,367,1,11,Bangladesh,Liton Das,Binura Fernando,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,148854,1.08,58.60,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,1,2,0,0,0,0,0,0,0,0,0
+8,3,367,1,11,Bangladesh,Liton Das,Binura Fernando,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,148855,-56.48,-50.98,0,0,,,Knuckleball,44,GLIDE,0,0,3,1,2,0,0,0,0,0,0,0,0,0
+9,4,367,1,11,Bangladesh,Liton Das,Binura Fernando,,2,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.4,1,1,0,148856,34.69,-148.13,4,0,,,Knuckleball,54,LEG GLANCE,0,0,4,1,6,0,0,0,0,0,0,0,0,0
+10,5,367,1,11,Bangladesh,Liton Das,Binura Fernando,,2,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,148857,150.26,53.08,1,0,,,Knuckleball,40,FLICK,0,0,5,1,7,0,0,0,0,0,0,0,0,0
+11,6,367,1,11,Bangladesh,Mohammad Naim Sheikh,Binura Fernando,,2,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,148858,122.17,96.82,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,1,9,0,0,0,0,0,0,0,0,0
+12,1,367,1,11,Bangladesh,Liton Das,Dushmantha Chameera,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,148859,83.95,59.53,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,2,10,0,1,0,0,0,0,0,0,0
+13,2,367,1,11,Bangladesh,Mohammad Naim Sheikh,Dushmantha Chameera,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,148860,-116.79,10.72,1,0,,,Knuckleball,40,FLICK,0,0,2,2,11,0,0,0,0,0,0,0,0,0
+14,3,367,1,11,Bangladesh,Liton Das,Dushmantha Chameera,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,148861,-64.77,-116.36,1,0,,,Knuckleball,44,GLIDE,0,0,3,2,12,0,0,0,0,0,0,0,0,0
+15,4,367,1,11,Bangladesh,Mohammad Naim Sheikh,Dushmantha Chameera,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,148862,-64.77,-116.36,0,0,,,Knuckleball,105,LEFT ALONE,0,0,4,2,12,0,0,0,0,0,0,0,0,0
+16,5,367,1,11,Bangladesh,Mohammad Naim Sheikh,Dushmantha Chameera,,3,5,1 (NB),1,0,0,0,0,1,1,0,1,0,0,0,0,0,,,0,2.5,1,1,1,148863,-46.81,56.30,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,2,13,0,0,0,0,0,0,0,0,0
+17,6,367,1,11,Bangladesh,Mohammad Naim Sheikh,Dushmantha Chameera,,3,5,3 (NB),3,2,0,1,0,0,1,0,1,0,0,0,0,0,,,0,2.5,1,1,1,148864,-100.22,87.61,3,0,,,Knuckleball,40,FLICK,0,0,6,2,16,0,0,0,0,0,0,0,0,0
+18,7,367,1,11,Bangladesh,Mohammad Naim Sheikh,Dushmantha Chameera,,3,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.5,1,1,0,148865,-186.32,117.08,4,0,,,Knuckleball,40,FLICK,0,0,7,2,20,0,0,0,0,0,0,0,0,0
+19,8,367,1,11,Bangladesh,Mohammad Naim Sheikh,Dushmantha Chameera,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,148866,-51.41,113.40,1,0,,,Knuckleball,47,ON DRIVE,0,0,8,2,21,0,0,0,0,0,0,0,0,0
+20,1,367,1,11,Bangladesh,Mohammad Naim Sheikh,Lahiru Kumara,,4,1,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,148867,150.26,13.94,3,0,,,Knuckleball,5,LOFT OFF,0,0,1,3,24,0,1,0,0,0,0,0,0,0
+21,2,367,1,11,Bangladesh,Liton Das,Lahiru Kumara,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,148868,-87.79,58.14,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,3,24,0,0,0,0,0,0,0,0,0
+22,3,367,1,11,Bangladesh,Liton Das,Lahiru Kumara,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,148869,-67.99,79.32,1,0,,,Knuckleball,84,OFF DRIVE,0,0,3,3,25,0,0,0,0,0,0,0,0,0
+23,4,367,1,11,Bangladesh,Mohammad Naim Sheikh,Lahiru Kumara,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,148870,-49.57,99.58,0,0,,,Knuckleball,47,ON DRIVE,0,0,4,3,25,0,0,0,0,0,0,0,0,0
+24,5,367,1,11,Bangladesh,Mohammad Naim Sheikh,Lahiru Kumara,,4,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.5,1,1,0,148871,-121.86,188.91,4,0,,,Knuckleball,58,PULL SHOT,0,0,5,3,29,0,0,0,0,0,0,0,0,0
+25,6,367,1,11,Bangladesh,Mohammad Naim Sheikh,Lahiru Kumara,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,148872,7.98,60.45,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,3,29,0,0,0,0,0,0,0,0,0
+26,1,367,1,11,Bangladesh,Liton Das,Dushmantha Chameera,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,148873,-122.32,109.25,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,4,30,0,1,0,0,0,0,0,0,0
+27,2,367,1,11,Bangladesh,Mohammad Naim Sheikh,Dushmantha Chameera,,5,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,148874,-122.32,109.25,2,0,,,Knuckleball,58,PULL SHOT,0,0,2,4,32,0,0,0,0,0,0,0,0,0
+28,3,367,1,11,Bangladesh,Mohammad Naim Sheikh,Dushmantha Chameera,,5,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,148875,75.21,-37.63,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,4,33,0,0,0,0,0,0,0,0,0
+29,4,367,1,11,Bangladesh,Liton Das,Dushmantha Chameera,,5,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.4,1,1,0,148876,-172.97,-62.49,4,0,,,Knuckleball,36,CUT SHOT,0,0,4,4,37,0,0,0,0,0,0,0,0,0
+30,5,367,1,11,Bangladesh,Liton Das,Dushmantha Chameera,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,148877,-75.36,7.50,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,4,38,0,0,0,0,0,0,0,0,0
+31,6,367,1,11,Bangladesh,Mohammad Naim Sheikh,Dushmantha Chameera,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,148878,-75.36,7.50,0,0,,,Knuckleball,31,UPPER CUT,0,0,6,4,38,0,0,0,0,0,0,0,0,0
+32,1,367,1,11,Bangladesh,Liton Das,Lahiru Kumara,,6,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,148879,15.35,-36.24,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,5,39,0,1,0,0,0,0,0,0,0
+33,2,367,1,11,Bangladesh,Mohammad Naim Sheikh,Lahiru Kumara,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,148880,96.38,52.62,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,5,39,0,0,0,0,0,0,0,0,0
+34,3,367,1,11,Bangladesh,Mohammad Naim Sheikh,Lahiru Kumara,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,148881,96.38,52.62,0,0,,,Knuckleball,96,Slice,0,0,3,5,39,0,0,0,0,0,0,0,0,0
+35,4,367,1,11,Bangladesh,Mohammad Naim Sheikh,Lahiru Kumara,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,1,1,0,148882,15.35,-36.24,1,0,,,Knuckleball,96,Slice,0,0,4,5,40,0,0,0,0,0,0,0,0,0
+36,5,367,1,11,Bangladesh,Liton Das,Lahiru Kumara,,6,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.5,1,1,0,148883,15.35,-36.24,0,0,,,Knuckleball,122,SDL OFF,0,0,5,5,40,1,1,0,0,0,0,0,0,0
+37,6,367,1,11,Bangladesh,Shakib Al Hasan,Lahiru Kumara,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,148884,-153.17,35.58,1,0,,,Knuckleball,40,FLICK,0,0,6,5,41,1,2,0,0,0,0,0,0,0
+38,1,367,1,11,Bangladesh,Shakib Al Hasan,Charith Asalanka,,7,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.1,1,1,0,148885,160.38,127.67,4,0,,,Knuckleball,15,LOFT COVER,0,0,1,6,45,1,3,0,0,0,0,0,0,0
+39,2,367,1,11,Bangladesh,Shakib Al Hasan,Charith Asalanka,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,148886,-56.94,68.73,1,0,,,Knuckleball,21,SD OFF,0,0,2,6,46,1,0,0,0,0,0,0,0,0
+40,3,367,1,11,Bangladesh,Mohammad Naim Sheikh,Charith Asalanka,,7,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.3,1,1,0,148887,187.09,-15.06,4,0,,,Knuckleball,36,CUT SHOT,0,0,3,6,50,1,0,1,1,0,1,0,0,0
+41,4,367,1,11,Bangladesh,Mohammad Naim Sheikh,Charith Asalanka,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,148888,112.50,140.10,1,0,,,Knuckleball,21,SD OFF,0,0,4,6,51,1,0,0,1,0,0,0,0,0
+42,5,367,1,11,Bangladesh,Shakib Al Hasan,Charith Asalanka,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,148889,5.68,65.05,0,0,,,Knuckleball,84,OFF DRIVE,0,0,5,6,51,1,0,0,1,0,0,0,0,0
+43,6,367,1,11,Bangladesh,Shakib Al Hasan,Charith Asalanka,,7,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.6,1,1,0,148890,192.15,-7.70,4,0,,,Knuckleball,36,CUT SHOT,0,0,6,6,55,1,0,0,1,0,0,0,0,0
+44,1,367,1,11,Bangladesh,Mohammad Naim Sheikh,Chamika Karunaratne,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,148891,59.09,-27.96,0,0,,,Knuckleball,44,GLIDE,0,0,1,7,55,1,1,0,1,0,0,0,0,0
+45,2,367,1,11,Bangladesh,Mohammad Naim Sheikh,Chamika Karunaratne,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,148892,133.68,104.65,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,7,56,1,0,0,1,0,0,0,0,0
+46,3,367,1,11,Bangladesh,Shakib Al Hasan,Chamika Karunaratne,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,148893,67.84,-31.64,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,7,56,1,0,0,1,0,0,0,0,0
+47,4,367,1,11,Bangladesh,Shakib Al Hasan,Chamika Karunaratne,,8,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,7.4,1,1,0,148894,67.84,-31.64,0,0,,,Knuckleball,58,PULL SHOT,0,0,4,7,56,2,1,0,1,0,0,0,0,0
+48,5,367,1,11,Bangladesh,Mushfiqur Rahim,Chamika Karunaratne,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,148895,-89.17,-85.51,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,7,57,2,2,0,1,0,0,0,0,0
+49,6,367,1,11,Bangladesh,Mohammad Naim Sheikh,Chamika Karunaratne,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,148896,-143.50,-11.38,1,0,,,Knuckleball,40,FLICK,0,0,6,7,58,2,0,0,1,0,0,0,0,0
+50,1,367,1,11,Bangladesh,Mohammad Naim Sheikh,Wanindu Hasaranga,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,148897,-125.08,109.71,1,0,,,Knuckleball,58,PULL SHOT,0,0,1,8,59,2,1,0,1,0,0,0,0,0
+51,2,367,1,11,Bangladesh,Mushfiqur Rahim,Wanindu Hasaranga,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,148898,-137.97,-33.48,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,8,60,2,0,0,1,0,0,0,0,0
+52,3,367,1,11,Bangladesh,Mohammad Naim Sheikh,Wanindu Hasaranga,,9,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,148899,-123.70,118.00,2,0,,,Knuckleball,58,PULL SHOT,0,0,3,8,62,2,0,0,1,0,0,0,0,0
+53,4,367,1,11,Bangladesh,Mohammad Naim Sheikh,Wanindu Hasaranga,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,148900,-144.88,66.89,1,0,,,Knuckleball,40,FLICK,0,0,4,8,63,2,0,0,1,0,0,0,0,0
+54,5,367,1,11,Bangladesh,Mushfiqur Rahim,Wanindu Hasaranga,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,148901,-131.99,-46.37,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,8,64,2,0,0,1,0,0,0,0,0
+55,6,367,1,11,Bangladesh,Mohammad Naim Sheikh,Wanindu Hasaranga,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,148902,100.53,145.63,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,6,8,65,2,0,0,1,0,0,0,0,0
+56,1,367,1,11,Bangladesh,Mohammad Naim Sheikh,Chamika Karunaratne,,10,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,148903,74.74,-103.93,2,0,,,Knuckleball,58,PULL SHOT,0,0,1,9,67,2,1,0,1,0,0,0,0,0
+57,2,367,1,11,Bangladesh,Mohammad Naim Sheikh,Chamika Karunaratne,,10,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,148904,129.54,117.08,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,9,69,2,0,0,1,0,0,0,0,0
+58,3,367,1,11,Bangladesh,Mohammad Naim Sheikh,Chamika Karunaratne,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,148905,-142.58,6.58,1,0,,,Knuckleball,40,FLICK,0,0,3,9,70,2,0,0,1,0,0,0,0,0
+59,4,367,1,11,Bangladesh,Mushfiqur Rahim,Chamika Karunaratne,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,148906,-76.28,90.37,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,9,71,2,0,0,1,0,0,0,0,0
+60,5,367,1,11,Bangladesh,Mohammad Naim Sheikh,Chamika Karunaratne,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,148907,-11.36,65.97,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,9,72,2,0,0,1,0,0,0,0,0
+61,6,367,1,11,Bangladesh,Mushfiqur Rahim,Chamika Karunaratne,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,148908,-11.36,65.97,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,9,72,2,0,0,1,0,0,0,0,0
+62,1,367,1,11,Bangladesh,Mohammad Naim Sheikh,Wanindu Hasaranga,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,148909,-151.33,17.63,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,10,73,2,1,0,1,0,0,0,0,0
+63,2,367,1,11,Bangladesh,Mushfiqur Rahim,Wanindu Hasaranga,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,148910,150.72,13.02,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,2,10,74,2,0,0,1,0,0,0,0,0
+64,3,367,1,11,Bangladesh,Mohammad Naim Sheikh,Wanindu Hasaranga,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,148911,-113.57,141.48,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,10,75,2,0,0,1,0,0,0,0,0
+65,4,367,1,11,Bangladesh,Mushfiqur Rahim,Wanindu Hasaranga,,11,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,10.4,1,1,0,148912,191.69,47.55,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,10,81,2,0,0,1,0,0,0,0,0
+66,5,367,1,11,Bangladesh,Mushfiqur Rahim,Wanindu Hasaranga,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,148913,133.22,-47.29,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,10,82,2,0,0,1,0,0,0,0,0
+67,6,367,1,11,Bangladesh,Mohammad Naim Sheikh,Wanindu Hasaranga,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,148914,-136.13,109.25,1,0,,,Knuckleball,40,FLICK,0,0,6,10,83,2,0,0,1,0,0,0,0,0
+68,1,367,1,11,Bangladesh,Mohammad Naim Sheikh,Dasun Shanaka,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,148915,-102.52,148.85,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,1,11,84,2,1,0,1,0,0,0,0,0
+69,2,367,1,11,Bangladesh,Mushfiqur Rahim,Dasun Shanaka,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,148916,-42.67,67.35,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,11,84,2,0,0,1,0,0,0,0,0
+70,3,367,1,11,Bangladesh,Mushfiqur Rahim,Dasun Shanaka,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,148917,-99.76,-87.81,1,0,,,Knuckleball,21,SD OFF,0,0,3,11,85,2,0,0,1,0,0,0,0,0
+71,4,367,1,11,Bangladesh,Mohammad Naim Sheikh,Dasun Shanaka,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,148918,97.31,155.76,1,0,,,Knuckleball,21,SD OFF,0,0,4,11,86,2,0,0,1,0,0,0,0,0
+72,5,367,1,11,Bangladesh,Mushfiqur Rahim,Dasun Shanaka,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,148919,128.15,-54.20,1,0,,,Knuckleball,40,FLICK,0,0,5,11,87,2,0,0,1,0,0,0,0,0
+73,6,367,1,11,Bangladesh,Mohammad Naim Sheikh,Dasun Shanaka,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,148920,94.08,46.63,0,0,,,Knuckleball,84,OFF DRIVE,0,0,6,11,87,2,0,0,1,0,0,0,0,0
+74,1,367,1,11,Bangladesh,Mushfiqur Rahim,Binura Fernando,,13,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,12.1,1,1,0,148921,185.25,-20.59,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,12,93,2,1,0,1,0,0,0,0,0
+75,2,367,1,11,Bangladesh,Mushfiqur Rahim,Binura Fernando,,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.2,1,1,0,148922,185.25,-20.59,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,12,93,2,0,0,1,0,0,0,0,0
+76,3,367,1,11,Bangladesh,Mushfiqur Rahim,Binura Fernando,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,148923,-45.43,-116.82,1,0,,,Knuckleball,35,LATE CUT,0,0,3,12,94,2,0,0,1,0,0,0,0,0
+77,4,367,1,11,Bangladesh,Mohammad Naim Sheikh,Binura Fernando,,13,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,148924,-45.43,-116.82,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,12,94,2,0,0,1,0,0,0,0,0
+78,5,367,1,11,Bangladesh,Mohammad Naim Sheikh,Binura Fernando,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,148925,-111.73,125.83,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,12,95,2,0,0,1,0,0,0,0,0
+79,6,367,1,11,Bangladesh,Mushfiqur Rahim,Binura Fernando,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,148926,-149.03,-10.46,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,6,12,96,2,0,0,1,0,0,0,0,0
+80,1,367,1,11,Bangladesh,Mushfiqur Rahim,Lahiru Kumara,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,148927,-75.36,-8.16,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,13,97,2,1,0,1,0,0,0,0,0
+81,2,367,1,11,Bangladesh,Mohammad Naim Sheikh,Lahiru Kumara,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,148928,58.63,-114.98,1,0,,,Knuckleball,44,GLIDE,0,0,2,13,98,2,0,0,1,0,0,0,0,0
+82,3,367,1,11,Bangladesh,Mushfiqur Rahim,Lahiru Kumara,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,148929,107.44,147.01,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,13,99,2,0,0,1,0,0,0,0,0
+83,4,367,1,11,Bangladesh,Mohammad Naim Sheikh,Lahiru Kumara,,14,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.4,1,1,0,148930,-14.12,219.76,4,0,,,Knuckleball,11,LOFT ON,0,0,4,13,103,2,0,1,2,0,0,1,0,0
+84,5,367,1,11,Bangladesh,Mohammad Naim Sheikh,Lahiru Kumara,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,148931,78.89,-24.73,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,13,103,2,0,0,2,0,0,0,0,0
+85,6,367,1,11,Bangladesh,Mohammad Naim Sheikh,Lahiru Kumara,,14,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.6,1,1,0,148932,-157.77,142.40,4,0,,,Knuckleball,58,PULL SHOT,0,0,6,13,107,2,0,0,2,0,0,0,0,0
+86,1,367,1,11,Bangladesh,Mushfiqur Rahim,Wanindu Hasaranga,,15,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.1,1,1,0,148933,167.29,-39.47,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,14,111,2,1,0,2,0,0,0,0,0
+87,2,367,1,11,Bangladesh,Mushfiqur Rahim,Wanindu Hasaranga,,15,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.2,1,1,0,148934,160.85,-65.71,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,14,115,2,0,0,2,0,0,0,0,0
+88,3,367,1,11,Bangladesh,Mushfiqur Rahim,Wanindu Hasaranga,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,148935,-150.87,76.10,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,14,116,2,0,0,2,0,0,0,0,0
+89,4,367,1,11,Bangladesh,Mohammad Naim Sheikh,Wanindu Hasaranga,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,148936,-115.41,76.56,1,0,,,Knuckleball,40,FLICK,0,0,4,14,117,2,0,0,2,0,0,0,0,0
+90,5,367,1,11,Bangladesh,Mushfiqur Rahim,Wanindu Hasaranga,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,148937,-155.93,10.72,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,14,118,2,0,0,2,0,0,0,0,0
+91,6,367,1,11,Bangladesh,Mohammad Naim Sheikh,Wanindu Hasaranga,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,148938,87.64,-15.99,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,14,118,2,0,0,2,0,0,0,0,0
+92,1,367,1,11,Bangladesh,Mushfiqur Rahim,Dasun Shanaka,,16,1,1 (BY),1,0,0,0,0,1,1,0,0,1,0,0,0,0,,,0,15.1,1,1,1,148939,87.64,-15.99,1,0,,,Knuckleball,99,SCOOP,0,0,1,15,119,2,1,0,2,0,0,0,0,0
+93,2,367,1,11,Bangladesh,Mohammad Naim Sheikh,Dasun Shanaka,,16,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.2,1,1,0,148940,69.68,-142.14,4,0,,,Knuckleball,36,CUT SHOT,0,0,2,15,123,2,0,0,2,0,0,0,0,0
+94,3,367,1,11,Bangladesh,Mohammad Naim Sheikh,Dasun Shanaka,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,148941,92.70,119.84,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,3,15,124,2,0,0,2,0,0,0,0,0
+95,4,367,1,11,Bangladesh,Mushfiqur Rahim,Dasun Shanaka,,16,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,148942,-156.85,-3.09,2,0,,,Knuckleball,122,SDL OFF,0,0,4,15,126,2,0,0,2,0,0,0,0,0
+96,5,367,1,11,Bangladesh,Mushfiqur Rahim,Dasun Shanaka,,16,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,15.5,1,1,1,148943,-156.85,-3.09,1,0,,,Knuckleball,105,LEFT ALONE,0,0,5,15,127,2,0,0,2,0,0,0,0,0
+97,6,367,1,11,Bangladesh,Mushfiqur Rahim,Dasun Shanaka,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,148944,81.65,115.70,1,0,,,Knuckleball,74,SD ON,0,0,6,15,128,2,0,0,2,0,0,0,0,0
+98,7,367,1,11,Bangladesh,Mohammad Naim Sheikh,Dasun Shanaka,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,148945,65.08,173.71,1,0,,,Knuckleball,84,OFF DRIVE,0,0,7,15,129,2,0,0,2,0,0,0,0,0
+99,1,367,1,11,Bangladesh,Mohammad Naim Sheikh,Binura Fernando,,17,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught & Bowled,WICKET,1,16.1,1,1,0,148946,65.08,173.71,0,0,,,Knuckleball,58,PULL SHOT,0,0,1,16,129,3,1,0,2,0,0,0,0,0
+100,2,367,1,11,Bangladesh,Mushfiqur Rahim,Binura Fernando,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,148947,-151.79,-17.83,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,16,130,3,2,0,2,0,0,0,0,0
+101,3,367,1,11,Bangladesh,Afif Hossain Dhrubo,Binura Fernando,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,1,1,0,148948,-31.62,-64.79,1,0,,,Knuckleball,54,LEG GLANCE,0,0,3,16,131,3,0,0,2,0,0,0,0,0
+102,4,367,1,11,Bangladesh,Mushfiqur Rahim,Binura Fernando,,17,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.4,1,1,0,148949,-174.35,-44.99,4,0,,,Knuckleball,36,CUT SHOT,0,0,4,16,135,3,0,0,2,0,0,0,0,0
+103,5,367,1,11,Bangladesh,Mushfiqur Rahim,Binura Fernando,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,148950,131.84,107.41,1,0,,,Knuckleball,18,SLOG SHOT,0,0,5,16,136,3,0,0,2,0,0,0,0,0
+104,6,367,1,11,Bangladesh,Afif Hossain Dhrubo,Binura Fernando,,17,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.6,1,1,0,148951,-133.83,-118.66,4,0,,,Knuckleball,40,FLICK,0,0,6,16,140,3,0,0,2,0,0,0,0,0
+105,1,367,1,11,Bangladesh,Mushfiqur Rahim,Dushmantha Chameera,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,148952,-161.46,-71.24,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,17,141,3,1,0,2,0,0,0,0,0
+106,2,367,1,11,Bangladesh,Afif Hossain Dhrubo,Dushmantha Chameera,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,1,1,0,148953,141.97,91.76,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,17,142,3,0,0,2,0,0,0,0,0
+107,3,367,1,11,Bangladesh,Mushfiqur Rahim,Dushmantha Chameera,,18,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.3,1,1,0,148954,-153.17,-77.68,4,0,,,Knuckleball,36,CUT SHOT,0,0,3,17,146,3,0,0,2,0,0,0,0,0
+108,4,367,1,11,Bangladesh,Mushfiqur Rahim,Dushmantha Chameera,,18,4,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,17.4,1,1,1,148955,-39.90,9.80,1,0,,,Knuckleball,99,SCOOP,0,0,4,17,147,3,0,0,2,0,0,0,0,0
+109,5,367,1,11,Bangladesh,Afif Hossain Dhrubo,Dushmantha Chameera,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,148956,-23.79,47.55,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,17,148,3,0,0,2,0,0,0,0,0
+110,6,367,1,11,Bangladesh,Mushfiqur Rahim,Dushmantha Chameera,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,148957,-150.87,-7.70,1,0,,,Knuckleball,96,Slice,0,0,6,17,149,3,0,0,2,0,0,0,0,0
+111,1,367,1,11,Bangladesh,Mushfiqur Rahim,Lahiru Kumara,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,1,1,0,148958,119.41,111.55,1,0,,,Knuckleball,40,FLICK,0,0,1,18,150,3,1,1,3,0,0,0,0,0
+112,2,367,1,11,Bangladesh,Afif Hossain Dhrubo,Lahiru Kumara,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.2,1,1,0,148959,119.41,111.55,0,0,,,Knuckleball,44,GLIDE,0,0,2,18,150,3,0,0,3,0,0,0,0,0
+113,3,367,1,11,Bangladesh,Afif Hossain Dhrubo,Lahiru Kumara,,19,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,18.3,1,1,0,148960,119.41,111.55,0,0,,,Knuckleball,40,FLICK,0,0,3,18,150,4,0,0,3,0,0,0,0,0
+114,4,367,1,11,Bangladesh,Mahmudullah,Lahiru Kumara,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,1,1,0,148961,-30.23,42.49,1,0,,,Knuckleball,18,SLOG SHOT,0,0,4,18,151,4,0,0,3,0,0,0,0,0
+115,5,367,1,11,Bangladesh,Mushfiqur Rahim,Lahiru Kumara,,19,5,2 (NB),2,0,0,0,0,1,2,0,1,1,0,0,0,0,,,0,18.5,1,1,1,148962,117.10,93.14,2,0,,,Knuckleball,58,PULL SHOT,0,0,5,18,153,4,0,0,3,0,0,0,0,0
+116,6,367,1,11,Bangladesh,Mahmudullah,Lahiru Kumara,,19,5,2 (LB),2,0,0,0,0,1,2,0,0,0,1,0,0,0,,,0,18.5,1,1,1,148963,117.10,93.14,2,0,,,Knuckleball,40,FLICK,0,0,6,18,155,4,0,0,3,0,0,0,0,0
+117,7,367,1,11,Bangladesh,Mahmudullah,Lahiru Kumara,,19,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.6,2,1,0,148964,21.79,218.37,4,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,7,18,159,4,0,0,3,0,0,0,0,0
+118,1,367,1,11,Bangladesh,Mushfiqur Rahim,Dushmantha Chameera,,20,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.1,1,1,0,148965,117.10,93.14,0,0,,,Knuckleball,24,REVERSE SCOOP,0,0,1,19,159,4,1,0,3,0,0,0,0,0
+119,2,367,1,11,Bangladesh,Mushfiqur Rahim,Dushmantha Chameera,,20,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,148966,-136.13,95.90,2,0,,,Knuckleball,15,LOFT COVER,0,0,2,19,161,4,0,0,3,0,0,0,0,0
+120,3,367,1,11,Bangladesh,Mushfiqur Rahim,Dushmantha Chameera,,20,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.3,1,1,0,148967,-125.54,-62.03,1,0,,,Knuckleball,96,Slice,0,0,3,19,162,4,0,0,3,0,0,0,0,0
+121,4,367,1,11,Bangladesh,Mahmudullah,Dushmantha Chameera,,20,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.4,1,1,0,148968,-190.92,50.78,4,0,,,Knuckleball,96,Slice,0,0,4,19,166,4,0,0,3,0,0,0,0,0
+122,5,367,1,11,Bangladesh,Mahmudullah,Dushmantha Chameera,,20,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.5,1,1,0,148969,135.98,82.55,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,19,167,4,0,0,3,0,0,0,0,0
+123,6,367,1,11,Bangladesh,Mushfiqur Rahim,Dushmantha Chameera,,20,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.6,1,1,0,148970,17.65,-152.73,4,0,,,Knuckleball,99,SCOOP,0,0,6,19,171,4,0,0,3,0,0,0,0,0
+124,1,367,2,6,Sri Lanka,Kusal Perera,Nasum Ahmed,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,148971,101.91,46.63,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+125,2,367,2,6,Sri Lanka,Kusal Perera,Nasum Ahmed,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,148972,-75.82,-35.32,1,0,,,Knuckleball,40,FLICK,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+126,3,367,2,6,Sri Lanka,Pathum Nissanka,Nasum Ahmed,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,148973,56.79,-44.99,1,0,,,Knuckleball,40,FLICK,0,0,3,0,2,0,0,0,0,0,0,0,0,0
+127,4,367,2,6,Sri Lanka,Kusal Perera,Nasum Ahmed,,1,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,0.4,2,1,0,148974,-54.64,162.66,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,0,2,1,1,0,0,0,0,0,0,0
+128,5,367,2,6,Sri Lanka,Charith Asalanka,Nasum Ahmed,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,148975,-54.64,162.66,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,0,3,1,2,0,0,0,0,0,0,0
+129,6,367,2,6,Sri Lanka,Pathum Nissanka,Nasum Ahmed,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,148976,99.15,50.32,1,0,,,Knuckleball,40,FLICK,0,0,6,0,4,1,0,0,0,0,0,0,0,0
+130,1,367,2,6,Sri Lanka,Pathum Nissanka,Mahedi Hasan,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,148977,-62.46,-50.98,0,0,,,Knuckleball,35,LATE CUT,0,0,1,1,4,1,1,0,0,0,0,0,0,0
+131,2,367,2,6,Sri Lanka,Pathum Nissanka,Mahedi Hasan,,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,148978,67.84,140.10,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,1,5,1,0,0,0,0,0,0,0,0
+132,3,367,2,6,Sri Lanka,Charith Asalanka,Mahedi Hasan,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,148979,67.84,140.10,0,0,,,Knuckleball,54,LEG GLANCE,0,0,3,1,5,1,0,0,0,0,0,0,0,0
+133,4,367,2,6,Sri Lanka,Charith Asalanka,Mahedi Hasan,,2,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.4,2,1,0,148980,-199.21,66.43,4,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,1,9,1,0,0,0,0,0,0,0,0
+134,5,367,2,6,Sri Lanka,Charith Asalanka,Mahedi Hasan,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,148981,-39.44,19.01,0,0,,,Knuckleball,40,FLICK,0,0,5,1,9,1,0,0,0,0,0,0,0,0
+135,6,367,2,6,Sri Lanka,Charith Asalanka,Mahedi Hasan,,2,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,148982,-42.67,-59.73,1,0,,,Knuckleball,40,FLICK,0,0,6,1,10,1,0,0,0,0,0,0,0,0
+136,1,367,2,6,Sri Lanka,Charith Asalanka,Nasum Ahmed,,3,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,2.1,2,1,0,148983,129.54,169.11,6,0,,,Knuckleball,122,SDL OFF,0,0,1,2,16,1,1,0,0,0,0,0,0,0
+137,2,367,2,6,Sri Lanka,Charith Asalanka,Nasum Ahmed,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,148984,-85.95,-11.38,0,0,,,Knuckleball,40,FLICK,0,0,2,2,16,1,0,0,0,0,0,0,0,0
+138,3,367,2,6,Sri Lanka,Charith Asalanka,Nasum Ahmed,,3,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,2.3,2,1,0,148985,-152.25,-71.70,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,3,2,22,1,0,0,0,0,0,0,0,0
+139,4,367,2,6,Sri Lanka,Charith Asalanka,Nasum Ahmed,,3,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,148986,-105.74,84.39,2,0,,,Knuckleball,40,FLICK,0,0,4,2,24,1,0,0,0,0,0,0,0,0
+140,5,367,2,6,Sri Lanka,Charith Asalanka,Nasum Ahmed,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,148987,-86.87,142.86,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,5,2,25,1,0,0,0,0,0,0,0,0
+141,6,367,2,6,Sri Lanka,Pathum Nissanka,Nasum Ahmed,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,148988,97.31,70.12,1,0,,,Knuckleball,40,FLICK,0,0,6,2,26,1,0,0,0,0,0,0,0,0
+142,1,367,2,6,Sri Lanka,Pathum Nissanka,Mohammad Saifuddin,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,148989,-94.23,14.40,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,3,26,1,1,0,0,0,0,0,0,0
+143,2,367,2,6,Sri Lanka,Pathum Nissanka,Mohammad Saifuddin,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,148990,-94.23,14.40,0,0,,,Knuckleball,58,PULL SHOT,0,0,2,3,26,1,0,0,0,0,0,0,0,0
+144,3,367,2,6,Sri Lanka,Pathum Nissanka,Mohammad Saifuddin,,4,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,3.3,2,1,1,148991,-94.23,14.40,1,0,,,Knuckleball,40,FLICK,0,0,3,3,27,1,0,0,0,0,0,0,0,0
+145,4,367,2,6,Sri Lanka,Pathum Nissanka,Mohammad Saifuddin,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,148992,-91.47,17.63,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,3,28,1,0,0,0,0,0,0,0,0
+146,5,367,2,6,Sri Lanka,Charith Asalanka,Mohammad Saifuddin,,4,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,148993,-159.62,18.09,2,0,,,Knuckleball,40,FLICK,0,0,5,3,30,1,0,0,0,0,0,0,0,0
+147,6,367,2,6,Sri Lanka,Charith Asalanka,Mohammad Saifuddin,,4,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.5,2,1,0,148994,-150.41,-81.37,4,0,,,Knuckleball,37,SD FLICK,0,0,6,3,34,1,0,0,0,0,0,0,0,0
+148,7,367,2,6,Sri Lanka,Charith Asalanka,Mohammad Saifuddin,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,148995,80.73,-5.40,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,7,3,34,1,0,0,0,0,0,0,0,0
+149,1,367,2,6,Sri Lanka,Pathum Nissanka,Shakib Al Hasan,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,148996,34.23,-56.50,0,0,,,Knuckleball,21,SD OFF,0,0,1,4,34,1,1,0,0,0,0,0,0,0
+150,2,367,2,6,Sri Lanka,Pathum Nissanka,Shakib Al Hasan,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,148997,77.51,108.79,1,0,,,Knuckleball,94,SDL ON,0,0,2,4,35,1,0,0,0,0,0,0,0,0
+151,3,367,2,6,Sri Lanka,Charith Asalanka,Shakib Al Hasan,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,148998,-80.42,-11.38,0,0,,,Knuckleball,40,FLICK,0,0,3,4,35,1,0,0,0,0,0,0,0,0
+152,4,367,2,6,Sri Lanka,Charith Asalanka,Shakib Al Hasan,,5,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,148999,-143.96,-32.56,2,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,4,37,1,0,0,0,0,0,0,0,0
+153,5,367,2,6,Sri Lanka,Charith Asalanka,Shakib Al Hasan,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,149000,-99.30,144.71,1,0,,,Knuckleball,74,SD ON,0,0,5,4,38,1,0,0,0,0,0,0,0,0
+154,6,367,2,6,Sri Lanka,Pathum Nissanka,Shakib Al Hasan,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,149001,78.89,-27.50,1,0,,,Knuckleball,40,FLICK,0,0,6,4,39,1,0,0,0,0,0,0,0,0
+155,1,367,2,6,Sri Lanka,Pathum Nissanka,Mahedi Hasan,,6,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.1,2,1,0,149002,162.23,-78.60,4,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,5,43,1,1,0,0,0,0,0,0,0
+156,2,367,2,6,Sri Lanka,Pathum Nissanka,Mahedi Hasan,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,149003,122.63,106.49,1,0,,,Knuckleball,94,SDL ON,0,0,2,5,44,1,0,0,0,0,0,0,0,0
+157,3,367,2,6,Sri Lanka,Charith Asalanka,Mahedi Hasan,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,149004,99.61,26.37,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,5,45,1,0,0,0,0,0,0,0,0
+158,4,367,2,6,Sri Lanka,Pathum Nissanka,Mahedi Hasan,,6,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,5.4,2,1,1,149005,99.61,26.37,1,0,,,Knuckleball,54,LEG GLANCE,0,0,4,5,46,1,0,0,0,0,0,0,0,0
+159,5,367,2,6,Sri Lanka,Pathum Nissanka,Mahedi Hasan,,6,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,5.4,2,1,0,149006,139.67,164.04,6,0,,,Knuckleball,94,SDL ON,0,0,5,5,52,1,0,1,1,0,1,0,0,0
+160,6,367,2,6,Sri Lanka,Pathum Nissanka,Mahedi Hasan,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,149007,138.28,-4.94,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,5,53,1,0,0,1,0,0,0,0,0
+161,7,367,2,6,Sri Lanka,Charith Asalanka,Mahedi Hasan,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,149008,-82.26,54.00,1,0,,,Knuckleball,40,FLICK,0,0,7,5,54,1,0,0,1,0,0,0,0,0
+162,1,367,2,6,Sri Lanka,Charith Asalanka,Mustafizur Rahman,,7,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.1,2,1,0,149009,163.15,143.32,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,6,58,1,1,0,1,0,0,0,0,0
+163,2,367,2,6,Sri Lanka,Charith Asalanka,Mustafizur Rahman,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,149010,83.95,-102.09,1,0,,,Knuckleball,44,GLIDE,0,0,2,6,59,1,0,0,1,0,0,0,0,0
+164,3,367,2,6,Sri Lanka,Pathum Nissanka,Mustafizur Rahman,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,149011,-109.43,-76.30,1,0,,,Knuckleball,35,LATE CUT,0,0,3,6,60,1,0,0,1,0,0,0,0,0
+165,4,367,2,6,Sri Lanka,Charith Asalanka,Mustafizur Rahman,,7,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.4,2,1,0,149012,36.53,-149.05,4,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,6,64,1,0,0,1,0,0,0,0,0
+166,5,367,2,6,Sri Lanka,Charith Asalanka,Mustafizur Rahman,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,149013,137.82,-0.33,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,6,65,1,0,0,1,0,0,0,0,0
+167,6,367,2,6,Sri Lanka,Pathum Nissanka,Mustafizur Rahman,,7,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,149014,-149.03,30.06,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,6,67,1,0,0,1,0,0,0,0,0
+168,1,367,2,6,Sri Lanka,Charith Asalanka,Mahedi Hasan,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,149015,-87.79,69.19,1,0,,,Knuckleball,40,FLICK,0,0,1,7,68,1,1,0,1,0,0,0,0,0
+169,2,367,2,6,Sri Lanka,Pathum Nissanka,Mahedi Hasan,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,149016,107.44,143.78,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,2,7,69,1,0,0,1,0,0,0,0,0
+170,3,367,2,6,Sri Lanka,Charith Asalanka,Mahedi Hasan,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,149017,-73.97,164.50,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,7,70,1,0,0,1,0,0,0,0,0
+171,4,367,2,6,Sri Lanka,Pathum Nissanka,Mahedi Hasan,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,149018,73.82,55.38,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,7,70,1,0,0,1,0,0,0,0,0
+172,5,367,2,6,Sri Lanka,Pathum Nissanka,Mahedi Hasan,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,149019,75.67,166.81,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,7,71,1,0,0,1,0,0,0,0,0
+173,6,367,2,6,Sri Lanka,Charith Asalanka,Mahedi Hasan,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,149020,81.19,46.63,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,7,71,1,0,0,1,0,0,0,0,0
+174,1,367,2,6,Sri Lanka,Pathum Nissanka,Shakib Al Hasan,,9,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,8.1,2,1,0,149021,81.19,46.63,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,8,71,2,1,0,1,0,0,0,0,0
+175,2,367,2,6,Sri Lanka,Avishka Fernando,Shakib Al Hasan,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,149022,-21.95,67.35,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,8,71,2,2,0,1,0,0,0,0,0
+176,3,367,2,6,Sri Lanka,Avishka Fernando,Shakib Al Hasan,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,149023,-75.82,58.14,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,8,71,2,0,0,1,0,0,0,0,0
+177,4,367,2,6,Sri Lanka,Avishka Fernando,Shakib Al Hasan,,9,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,8.4,2,1,0,149024,-75.82,58.14,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,8,71,3,1,0,1,0,0,0,0,0
+178,5,367,2,6,Sri Lanka,Wanindu Hasaranga,Shakib Al Hasan,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,149025,-40.82,19.01,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,8,71,3,2,0,1,0,0,0,0,0
+179,6,367,2,6,Sri Lanka,Wanindu Hasaranga,Shakib Al Hasan,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,149026,-152.25,48.94,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,8,72,3,0,0,1,0,0,0,0,0
+180,1,367,2,6,Sri Lanka,Wanindu Hasaranga,Mohammad Saifuddin,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,149027,-152.25,48.94,1,0,,,Knuckleball,,,0,0,1,9,73,3,1,0,1,0,0,0,0,0
+181,2,367,2,6,Sri Lanka,Charith Asalanka,Mohammad Saifuddin,,10,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,9.2,2,1,1,149028,-152.25,48.94,1,0,,,Knuckleball,105,LEFT ALONE,0,0,2,9,74,3,0,0,1,0,0,0,0,0
+182,3,367,2,6,Sri Lanka,Charith Asalanka,Mohammad Saifuddin,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,149029,-98.38,93.60,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,9,75,3,0,0,1,0,0,0,0,0
+183,4,367,2,6,Sri Lanka,Wanindu Hasaranga,Mohammad Saifuddin,,10,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.3,2,1,0,149030,-139.82,-114.06,4,0,,,Knuckleball,84,OFF DRIVE,0,0,4,9,79,3,0,0,1,0,0,0,0,0
+184,5,367,2,6,Sri Lanka,Wanindu Hasaranga,Mohammad Saifuddin,,10,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,9.4,2,1,0,149031,-139.82,-114.06,0,0,,,Knuckleball,11,LOFT ON,0,0,5,9,79,4,1,0,1,0,0,0,0,0
+185,6,367,2,6,Sri Lanka,Charith Asalanka,Mohammad Saifuddin,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,149032,153.48,11.64,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,9,80,4,2,0,1,0,0,0,0,0
+186,7,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mohammad Saifuddin,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,149033,17.19,103.73,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,7,9,80,4,0,0,1,0,0,0,0,0
+187,1,367,2,6,Sri Lanka,Charith Asalanka,Mahedi Hasan,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,149034,-71.67,-30.26,0,0,,,Knuckleball,40,FLICK,0,0,1,10,80,4,1,0,1,0,0,0,0,0
+188,2,367,2,6,Sri Lanka,Charith Asalanka,Mahedi Hasan,,11,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,10.2,2,1,1,149035,-71.67,-30.26,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,10,81,4,0,0,1,0,0,0,0,0
+189,3,367,2,6,Sri Lanka,Charith Asalanka,Mahedi Hasan,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,149036,-91.47,78.86,1,0,,,Knuckleball,40,FLICK,0,0,3,10,82,4,0,0,1,0,0,0,0,0
+190,4,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mahedi Hasan,,11,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,149037,-27.47,-125.11,2,0,,,Knuckleball,22,PADDLE SWEEP,0,0,4,10,84,4,0,0,1,0,0,0,0,0
+191,5,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mahedi Hasan,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,149038,32.85,56.30,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,10,84,4,0,0,1,0,0,0,0,0
+192,6,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mahedi Hasan,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,149039,74.28,29.14,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,10,84,4,0,0,1,0,0,0,0,0
+193,7,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mahedi Hasan,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,149040,-72.59,81.17,1,0,,,Knuckleball,40,FLICK,0,0,7,10,85,4,0,0,1,0,0,0,0,0
+194,1,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mahmudullah,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,149041,-152.25,6.58,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,11,86,4,1,0,1,0,0,0,0,0
+195,2,367,2,6,Sri Lanka,Charith Asalanka,Mahmudullah,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,149042,93.62,53.54,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,11,87,4,0,0,1,0,0,0,0,0
+196,3,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mahmudullah,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,149043,111.12,134.12,1,0,,,Knuckleball,21,SD OFF,0,0,3,11,88,4,0,0,1,0,0,0,0,0
+197,4,367,2,6,Sri Lanka,Charith Asalanka,Mahmudullah,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,149044,152.56,54.00,1,0,,,Knuckleball,15,LOFT COVER,0,0,4,11,89,4,0,0,1,0,0,0,0,0
+198,5,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mahmudullah,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,149045,23.64,62.29,0,0,,,Knuckleball,84,OFF DRIVE,0,0,5,11,89,4,0,0,1,0,0,0,0,0
+199,6,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mahmudullah,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,149046,-135.67,84.39,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,11,90,4,0,0,1,0,0,0,0,0
+200,1,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Afif Hossain Dhrubo,,13,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,12.1,2,1,0,149047,-170.67,-47.29,6,0,,,Knuckleball,15,LOFT COVER,0,0,1,12,96,4,1,0,1,0,0,0,0,0
+201,2,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Afif Hossain Dhrubo,,13,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,149048,-103.44,-70.32,2,0,,,Knuckleball,21,SD OFF,0,0,2,12,98,4,0,0,1,0,0,0,0,0
+202,3,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Afif Hossain Dhrubo,,13,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.3,2,1,0,149049,-170.67,-47.29,4,0,,,Knuckleball,95,SLOG SWEEP,0,0,3,12,102,4,0,1,2,0,0,1,0,0
+203,4,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Afif Hossain Dhrubo,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,149050,43.44,-66.17,1,0,,,Knuckleball,35,LATE CUT,0,0,4,12,103,4,0,0,2,0,0,0,0,0
+204,5,367,2,6,Sri Lanka,Charith Asalanka,Afif Hossain Dhrubo,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,149051,134.14,111.09,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,12,104,4,0,0,2,0,0,0,0,0
+205,6,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Afif Hossain Dhrubo,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,149052,127.69,108.79,1,0,,,Knuckleball,21,SD OFF,0,0,6,12,105,4,0,0,2,0,0,0,0,0
+206,1,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mahmudullah,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,149053,139.67,80.71,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,13,106,4,1,0,2,0,0,0,0,0
+207,2,367,2,6,Sri Lanka,Charith Asalanka,Mahmudullah,,14,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,13.2,2,1,0,149054,-83.18,208.24,6,0,,,Knuckleball,94,SDL ON,0,0,2,13,112,4,0,0,2,0,0,0,0,0
+208,3,367,2,6,Sri Lanka,Charith Asalanka,Mahmudullah,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,149055,83.95,-21.51,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,13,112,4,0,0,2,0,0,0,0,0
+209,4,367,2,6,Sri Lanka,Charith Asalanka,Mahmudullah,,14,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,13.4,2,1,1,149056,83.95,-21.51,1,0,,,Knuckleball,105,LEFT ALONE,0,0,4,13,113,4,0,0,2,0,0,0,0,0
+210,5,367,2,6,Sri Lanka,Charith Asalanka,Mahmudullah,,14,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,13.4,2,1,0,149057,-192.77,80.24,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,5,13,119,4,0,0,2,0,0,0,0,0
+211,6,367,2,6,Sri Lanka,Charith Asalanka,Mahmudullah,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,149058,91.78,-13.68,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,13,120,4,0,0,2,0,0,0,0,0
+212,7,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mahmudullah,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,149059,-94.23,-11.38,1,0,,,Knuckleball,40,FLICK,0,0,7,13,121,4,0,0,2,0,0,0,0,0
+213,1,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mustafizur Rahman,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,149060,157.62,49.86,1,0,,,Knuckleball,44,GLIDE,0,0,1,14,122,4,1,0,2,0,0,0,0,0
+214,2,367,2,6,Sri Lanka,Charith Asalanka,Mustafizur Rahman,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,149061,157.62,49.86,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,14,122,4,0,0,2,0,0,0,0,0
+215,3,367,2,6,Sri Lanka,Charith Asalanka,Mustafizur Rahman,,15,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,14.3,2,1,1,149062,157.62,49.86,1,0,,,Knuckleball,54,LEG GLANCE,0,0,3,14,123,4,0,0,2,0,0,0,0,0
+216,4,367,2,6,Sri Lanka,Charith Asalanka,Mustafizur Rahman,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,149063,157.62,49.86,1,0,,,Knuckleball,15,LOFT COVER,0,0,4,14,124,4,0,0,2,0,0,0,0,0
+217,5,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mustafizur Rahman,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,149064,157.62,49.86,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,14,124,4,0,0,2,0,0,0,0,0
+218,6,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mustafizur Rahman,,15,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,14.5,2,1,1,149065,157.62,49.86,1,0,,,Knuckleball,40,FLICK,0,0,6,14,125,4,0,0,2,0,0,0,0,0
+219,7,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mustafizur Rahman,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,149066,-122.32,-66.63,1,0,,,Knuckleball,40,FLICK,0,0,7,14,126,4,0,0,2,0,0,0,0,0
+220,8,367,2,6,Sri Lanka,Charith Asalanka,Mustafizur Rahman,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,149067,-122.32,-66.63,0,0,,,Knuckleball,105,LEFT ALONE,0,0,8,14,126,4,0,0,2,0,0,0,0,0
+221,1,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mohammad Saifuddin,,16,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.1,2,1,0,149068,-88.71,-148.13,6,0,,,Knuckleball,40,FLICK,0,0,1,15,132,4,1,0,2,0,0,0,0,0
+222,2,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mohammad Saifuddin,,16,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.2,2,1,0,149069,-173.43,111.55,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,2,15,138,4,0,0,2,0,0,0,0,0
+223,3,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mohammad Saifuddin,,16,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.3,2,1,0,149070,125.85,-111.76,4,0,,,Knuckleball,96,Slice,0,0,3,15,142,4,0,0,2,0,0,0,0,0
+224,4,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mohammad Saifuddin,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,149071,-134.75,101.88,1,0,,,Knuckleball,70,SD PULL,0,0,4,15,143,4,0,0,2,0,0,0,0,0
+225,5,367,2,6,Sri Lanka,Charith Asalanka,Mohammad Saifuddin,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,149072,4.76,176.01,1,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,5,15,144,4,0,0,2,0,0,0,0,0
+226,6,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mohammad Saifuddin,,16,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.6,2,1,0,149073,162.69,129.05,4,0,,,Knuckleball,15,LOFT COVER,0,0,6,15,148,4,0,0,2,0,0,0,0,0
+227,1,367,2,6,Sri Lanka,Charith Asalanka,Shakib Al Hasan,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,149074,-93.77,-14.60,1,0,,,Knuckleball,37,SD FLICK,0,0,1,16,149,4,1,0,2,0,0,0,0,0
+228,2,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Shakib Al Hasan,,17,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,149075,-157.77,22.23,2,0,,,Knuckleball,37,SD FLICK,0,0,2,16,151,4,0,1,3,0,0,0,0,0
+229,3,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Shakib Al Hasan,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,149076,-59.24,-45.91,1,0,,,Knuckleball,40,FLICK,0,0,3,16,152,4,0,0,3,0,0,0,0,0
+230,4,367,2,6,Sri Lanka,Charith Asalanka,Shakib Al Hasan,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,149077,-28.39,61.37,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,16,152,4,0,0,3,0,0,0,0,0
+231,5,367,2,6,Sri Lanka,Charith Asalanka,Shakib Al Hasan,,17,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,16.5,2,1,0,149078,95.46,187.53,6,0,,,Knuckleball,122,SDL OFF,0,0,5,16,158,4,0,0,3,0,0,0,0,0
+232,6,367,2,6,Sri Lanka,Charith Asalanka,Shakib Al Hasan,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,149079,-67.07,-39.01,1,0,,,Knuckleball,40,FLICK,0,0,6,16,159,4,0,0,3,0,0,0,0,0
+233,1,367,2,6,Sri Lanka,Charith Asalanka,Mustafizur Rahman,,18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,149080,-67.07,-39.01,0,0,,,Knuckleball,,,0,0,1,17,159,4,1,0,3,0,0,0,0,0
+234,2,367,2,6,Sri Lanka,Charith Asalanka,Mustafizur Rahman,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,149081,87.64,-14.60,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,17,160,4,0,0,3,0,0,0,0,0
+235,3,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mustafizur Rahman,,18,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,149082,87.64,-14.60,0,0,,,Knuckleball,96,Slice,0,0,3,17,160,4,0,0,3,0,0,0,0,0
+236,4,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mustafizur Rahman,,18,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,149083,64.15,-115.44,2,0,,,Knuckleball,35,LATE CUT,0,0,4,17,162,4,0,0,3,0,0,0,0,0
+237,5,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Mustafizur Rahman,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,149084,58.63,54.46,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,17,163,4,0,0,3,0,0,0,0,0
+238,6,367,2,6,Sri Lanka,Charith Asalanka,Mustafizur Rahman,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,149085,58.63,54.46,0,0,,,Knuckleball,96,Slice,0,0,6,17,163,4,0,0,3,0,0,0,0,0
+239,1,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Nasum Ahmed,,19,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,149086,128.62,-63.87,2,0,,,Knuckleball,56,REVERSE SWEEP,0,0,1,18,165,4,1,0,3,0,0,0,0,0
+240,2,367,2,6,Sri Lanka,Bhanuka Rajapaksa,Nasum Ahmed,,19,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,18.2,2,1,0,149087,128.62,-63.87,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,18,165,5,2,0,3,0,0,0,0,0
+241,3,367,2,6,Sri Lanka,Dasun Shanaka,Nasum Ahmed,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,149088,-136.13,-39.93,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,18,166,5,3,0,3,0,0,0,0,0
+242,4,367,2,6,Sri Lanka,Charith Asalanka,Nasum Ahmed,,19,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,149089,141.51,-33.94,2,0,,,Knuckleball,122,SDL OFF,0,0,4,18,168,5,0,0,3,0,0,0,0,0
+243,5,367,2,6,Sri Lanka,Charith Asalanka,Nasum Ahmed,,19,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.5,2,1,0,149090,32.38,-156.42,4,0,,,Knuckleball,84,OFF DRIVE,0,0,5,18,172,5,0,0,3,0,0,0,0,0

@@ -1,0 +1,246 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,652,1,1,India,K L Rahul,Fazalhaq Farooqi,,1,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,241659,38.37,-107.15,2,0,,,Knuckleball,54,LEG GLANCE,0,0,1,0,2,0,1,0,0,0,0,0,0,0
+1,2,652,1,1,India,K L Rahul,Fazalhaq Farooqi,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,241661,-48.65,101.88,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,0,3,0,0,0,0,0,0,0,0,0
+2,3,652,1,1,India,Virat Kohli,Fazalhaq Farooqi,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,241663,38.83,23.15,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,0,4,0,0,0,0,0,0,0,0,0
+3,4,652,1,1,India,K L Rahul,Fazalhaq Farooqi,,1,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.4,1,1,1,241665,38.83,23.15,1,0,,,Knuckleball,105,LEFT ALONE,0,0,4,0,5,0,0,0,0,0,0,0,0,0
+4,5,652,1,1,India,K L Rahul,Fazalhaq Farooqi,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,241667,38.83,23.15,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,0,5,0,0,0,0,0,0,0,0,0
+5,6,652,1,1,India,K L Rahul,Fazalhaq Farooqi,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,241669,71.98,-36.24,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,6,0,6,0,0,0,0,0,0,0,0,0
+6,7,652,1,1,India,Virat Kohli,Fazalhaq Farooqi,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,241671,-25.63,-33.94,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,7,0,6,0,0,0,0,0,0,0,0,0
+7,1,652,1,1,India,K L Rahul,Mujeeb Ur Rahman,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,241673,66.92,-35.32,0,0,,,Knuckleball,54,LEG GLANCE,0,0,1,1,6,0,1,0,0,0,0,0,0,0
+8,2,652,1,1,India,K L Rahul,Mujeeb Ur Rahman,,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,241675,-82.26,50.78,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,1,7,0,0,0,0,0,0,0,0,0
+9,3,652,1,1,India,Virat Kohli,Mujeeb Ur Rahman,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,241678,49.42,102.35,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,3,1,7,0,0,0,0,0,0,0,0,0
+10,4,652,1,1,India,Virat Kohli,Mujeeb Ur Rahman,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,241679,-75.36,-23.35,0,0,,,Knuckleball,59,FRONTFOOT SQUARE DRIVE,0,0,4,1,7,0,0,0,0,0,0,0,0,0
+11,5,652,1,1,India,Virat Kohli,Mujeeb Ur Rahman,,2,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,241681,45.28,150.69,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,5,1,8,0,0,0,0,0,0,0,0,0
+12,6,652,1,1,India,K L Rahul,Mujeeb Ur Rahman,,2,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,241683,-50.49,109.25,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,6,1,9,0,0,0,0,0,0,0,0,0
+13,1,652,1,1,India,K L Rahul,Fazalhaq Farooqi,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,241685,-50.49,109.25,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,2,9,0,1,0,0,0,0,0,0,0
+14,2,652,1,1,India,K L Rahul,Fazalhaq Farooqi,,3,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.2,1,1,0,241687,150.72,-73.54,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,2,13,0,0,0,0,0,0,0,0,0
+15,3,652,1,1,India,K L Rahul,Fazalhaq Farooqi,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,241689,-51.87,96.36,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,3,2,14,0,0,0,0,0,0,0,0,0
+16,4,652,1,1,India,Virat Kohli,Fazalhaq Farooqi,,3,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.4,1,1,0,241691,155.78,-76.30,4,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,4,2,18,0,0,0,0,0,0,0,0,0
+17,5,652,1,1,India,Virat Kohli,Fazalhaq Farooqi,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,241692,-62.46,-99.32,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,2,19,0,0,0,0,0,0,0,0,0
+18,6,652,1,1,India,K L Rahul,Fazalhaq Farooqi,,3,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,241695,-108.05,100.04,2,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,6,2,21,0,0,0,0,0,0,0,0,0
+19,1,652,1,1,India,Virat Kohli,Mujeeb Ur Rahman,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,241697,122.17,54.92,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,1,3,22,0,1,0,0,0,0,0,0,0
+20,2,652,1,1,India,K L Rahul,Mujeeb Ur Rahman,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,241699,-98.84,93.60,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,3,23,0,0,0,0,0,0,0,0,0
+21,3,652,1,1,India,Virat Kohli,Mujeeb Ur Rahman,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,241701,113.88,19.93,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,3,3,24,0,0,0,0,0,0,0,0,0
+22,4,652,1,1,India,K L Rahul,Mujeeb Ur Rahman,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,241704,-49.57,107.41,0,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,4,3,24,0,0,0,0,0,0,0,0,0
+23,5,652,1,1,India,K L Rahul,Mujeeb Ur Rahman,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,241705,-87.79,67.35,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,3,24,0,0,0,0,0,0,0,0,0
+24,6,652,1,1,India,K L Rahul,Mujeeb Ur Rahman,,4,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.6,1,1,0,241707,153.94,-79.53,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,3,28,0,0,0,0,0,0,0,0,0
+25,1,652,1,1,India,Virat Kohli,Fareed Ahmad,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,241709,-51.41,104.19,1,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,1,4,29,0,1,0,0,0,0,0,0,0
+26,2,652,1,1,India,K L Rahul,Fareed Ahmad,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,241711,-51.41,104.19,0,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,4,29,0,0,0,0,0,0,0,0,0
+27,3,652,1,1,India,K L Rahul,Fareed Ahmad,,5,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.3,1,1,0,241713,-156.85,-74.92,4,0,,,Knuckleball,36,CUT SHOT,0,0,3,4,33,0,0,0,0,0,0,0,0,0
+28,4,652,1,1,India,K L Rahul,Fareed Ahmad,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,241715,47.58,90.83,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,4,33,0,0,0,0,0,0,0,0,0
+29,5,652,1,1,India,K L Rahul,Fareed Ahmad,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,241717,12.59,55.84,0,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,5,4,33,0,0,0,0,0,0,0,0,0
+30,6,652,1,1,India,K L Rahul,Fareed Ahmad,,5,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.6,1,1,0,241719,171.44,88.99,4,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,6,4,37,0,0,0,0,0,0,0,0,0
+31,1,652,1,1,India,Virat Kohli,Mujeeb Ur Rahman,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,241722,53.56,112.01,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,5,37,0,1,0,0,0,0,0,0,0
+32,2,652,1,1,India,Virat Kohli,Mujeeb Ur Rahman,,6,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.2,1,1,0,241723,-41.28,220.22,4,0,,,Knuckleball,1,STEP DOWN STRAIGHT DRIVE,0,0,2,5,41,0,0,0,0,0,0,0,0,0
+33,3,652,1,1,India,Virat Kohli,Mujeeb Ur Rahman,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,241726,-89.63,71.50,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,5,41,0,0,0,0,0,0,0,0,0
+34,4,652,1,1,India,Virat Kohli,Mujeeb Ur Rahman,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.4,1,1,0,241727,152.56,-80.45,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,5,45,0,0,0,0,0,0,0,0,0
+35,5,652,1,1,India,Virat Kohli,Mujeeb Ur Rahman,,6,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,5.5,1,1,0,241729,-9.51,213.31,6,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-2022/India-VS-Afghanistan-(08-Sep-2022)/File_1-6-241729.jpg,,Knuckleball,69,STEP DOWN LOFTED STRAIGHT DRIVE,0,0,5,5,51,0,0,1,1,0,1,0,0,0
+36,6,652,1,1,India,Virat Kohli,Mujeeb Ur Rahman,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,241731,55.41,21.77,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,5,52,0,0,0,1,0,0,0,0,0
+37,1,652,1,1,India,Virat Kohli,Rashid Khan,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,241733,-138.90,41.11,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,6,53,0,1,0,1,0,0,0,0,0
+38,2,652,1,1,India,K L Rahul,Rashid Khan,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,241736,-42.67,99.12,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,6,53,0,0,0,1,0,0,0,0,0
+39,3,652,1,1,India,K L Rahul,Rashid Khan,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,241738,-42.67,99.12,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,6,53,0,0,0,1,0,0,0,0,0
+40,4,652,1,1,India,K L Rahul,Rashid Khan,,7,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,6.4,1,1,0,241739,191.23,40.65,6,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,4,6,59,0,0,0,1,0,0,0,0,0
+41,5,652,1,1,India,K L Rahul,Rashid Khan,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,241741,66.46,149.31,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,5,6,60,0,0,0,1,0,0,0,0,0
+42,6,652,1,1,India,Virat Kohli,Rashid Khan,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,241743,124.93,79.78,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,6,6,61,0,0,0,1,0,0,0,0,0
+43,1,652,1,1,India,Virat Kohli,Mohammad Nabi,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,241745,75.67,-32.56,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,7,62,0,1,0,1,0,0,0,0,0
+44,2,652,1,1,India,K L Rahul,Mohammad Nabi,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,241747,47.58,153.45,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,2,7,63,0,0,0,1,0,0,0,0,0
+45,3,652,1,1,India,Virat Kohli,Mohammad Nabi,,8,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,7.3,1,1,0,241749,179.72,69.65,6,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,3,7,69,0,0,0,1,0,0,0,0,0
+46,4,652,1,1,India,Virat Kohli,Mohammad Nabi,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,241751,-62.00,158.06,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,4,7,70,0,0,0,1,0,0,0,0,0
+47,5,652,1,1,India,K L Rahul,Mohammad Nabi,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,241753,-52.79,153.45,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,5,7,71,0,0,0,1,0,0,0,0,0
+48,6,652,1,1,India,Virat Kohli,Mohammad Nabi,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,241755,-62.00,-45.91,1,0,,,Knuckleball,35,LATE CUT,0,0,6,7,72,0,0,0,1,0,0,0,0,0
+49,1,652,1,1,India,Virat Kohli,Rashid Khan,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,241757,-56.48,15.32,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,8,73,0,1,0,1,0,0,0,0,0
+50,2,652,1,1,India,K L Rahul,Rashid Khan,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,241760,137.82,117.54,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,8,74,0,0,0,1,0,0,0,0,0
+51,3,652,1,1,India,Virat Kohli,Rashid Khan,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,241761,-22.87,59.06,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,8,74,0,0,0,1,0,0,0,0,0
+52,4,652,1,1,India,Virat Kohli,Rashid Khan,,9,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.4,1,1,0,241763,-174.81,126.75,4,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,4,8,78,0,0,0,1,0,0,0,0,0
+53,5,652,1,1,India,Virat Kohli,Rashid Khan,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,241765,127.23,108.33,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,8,79,0,0,0,1,0,0,0,0,0
+54,6,652,1,1,India,K L Rahul,Rashid Khan,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,241767,111.58,42.03,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,6,8,80,0,0,0,1,0,0,0,0,0
+55,1,652,1,1,India,K L Rahul,Mohammad Nabi,,10,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,241769,7.52,-114.98,2,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,9,82,0,1,0,1,0,0,0,0,0
+56,2,652,1,1,India,K L Rahul,Mohammad Nabi,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,241771,55.41,156.68,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,2,9,83,0,0,0,1,0,0,0,0,0
+57,3,652,1,1,India,Virat Kohli,Mohammad Nabi,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,241773,130.00,-2.63,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,9,84,0,0,0,1,0,0,0,0,0
+58,4,652,1,1,India,K L Rahul,Mohammad Nabi,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,241775,-114.95,34.20,1,0,,,Knuckleball,89,STEP DOWN COVER DRIVE,0,0,4,9,85,0,0,0,1,0,0,0,0,0
+59,5,652,1,1,India,Virat Kohli,Mohammad Nabi,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,241777,106.97,28.22,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,9,86,0,0,0,1,0,0,0,0,0
+60,6,652,1,1,India,K L Rahul,Mohammad Nabi,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,241779,-56.02,149.77,1,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,6,9,87,0,0,0,1,0,0,0,0,0
+62,1,652,1,1,India,K L Rahul,Azmatullah Omarzai,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,241781,-60.62,-107.15,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,10,88,0,1,0,1,0,0,0,0,0
+63,2,652,1,1,India,Virat Kohli,Azmatullah Omarzai,,11,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.2,1,1,0,241783,178.34,37.42,4,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,10,92,0,0,0,1,0,0,0,0,0
+64,3,652,1,1,India,Virat Kohli,Azmatullah Omarzai,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,241785,92.70,32.82,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,10,93,0,0,0,1,0,0,0,0,0
+65,4,652,1,1,India,K L Rahul,Azmatullah Omarzai,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,241787,112.04,-55.58,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,4,10,94,0,0,0,1,0,0,0,0,0
+66,5,652,1,1,India,Virat Kohli,Azmatullah Omarzai,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,241789,-91.93,44.79,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,10,94,0,0,0,1,0,0,0,0,0
+67,6,652,1,1,India,Virat Kohli,Azmatullah Omarzai,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,241791,-60.62,155.76,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,6,10,95,0,0,0,1,0,0,0,0,0
+68,1,652,1,1,India,Virat Kohli,Mohammad Nabi,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,241793,80.27,69.19,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,1,11,96,0,1,0,1,0,0,0,0,0
+69,2,652,1,1,India,K L Rahul,Mohammad Nabi,,12,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.2,1,1,0,241795,181.56,88.99,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,11,100,0,0,1,2,0,0,1,0,0
+70,3,652,1,1,India,K L Rahul,Mohammad Nabi,,12,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.3,1,1,0,241797,-166.52,118.00,4,0,,,Knuckleball,61,INSIDE OUT,0,0,3,11,104,0,0,0,2,0,0,0,0,0
+71,4,652,1,1,India,K L Rahul,Mohammad Nabi,,12,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,241799,106.05,94.52,2,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,11,106,0,0,0,2,0,0,0,0,0
+72,5,652,1,1,India,K L Rahul,Mohammad Nabi,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,241801,-120.02,-30.72,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,11,107,0,0,0,2,0,0,0,0,0
+73,6,652,1,1,India,Virat Kohli,Mohammad Nabi,,12,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.6,1,1,0,241803,153.02,135.04,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,11,111,0,0,0,2,0,0,0,0,0
+74,1,652,1,1,India,K L Rahul,Fareed Ahmad,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,241805,-120.48,-48.68,1,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,1,12,112,0,1,0,2,0,0,0,0,0
+75,2,652,1,1,India,Virat Kohli,Fareed Ahmad,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,1,1,0,241807,-42.67,102.35,1,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,2,12,113,0,0,0,2,0,0,0,0,0
+76,3,652,1,1,India,K L Rahul,Fareed Ahmad,,13,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,12.3,1,1,0,241809,24.56,-155.96,6,0,,,Knuckleball,99,SCOOP,0,0,3,12,119,0,0,0,2,0,0,0,0,0
+77,4,652,1,1,India,K L Rahul,Fareed Ahmad,,13,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,12.4,1,1,0,241811,24.56,-155.96,0,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,4,12,119,1,1,0,2,0,0,0,0,0
+78,5,652,1,1,India,Suryakumar Yadav,Fareed Ahmad,,13,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,12.5,1,1,0,241813,63.23,-143.06,6,0,,,Knuckleball,99,SCOOP,0,0,5,12,125,1,2,0,2,0,0,0,0,0
+79,6,652,1,1,India,Suryakumar Yadav,Fareed Ahmad,,13,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,12.6,1,1,0,241814,63.23,-143.06,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,12,125,2,3,0,2,0,0,0,0,0
+80,1,652,1,1,India,Virat Kohli,Rashid Khan,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,241817,111.12,97.28,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,13,126,2,4,0,2,0,0,0,0,0
+81,2,652,1,1,India,Rishabh Pant,Rashid Khan,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,241819,42.51,34.20,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,13,126,2,0,0,2,0,0,0,0,0
+82,3,652,1,1,India,Rishabh Pant,Rashid Khan,,14,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.3,1,1,0,241822,-185.40,13.02,4,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,3,13,130,2,0,0,2,0,0,0,0,0
+83,4,652,1,1,India,Rishabh Pant,Rashid Khan,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,241823,-185.40,13.02,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,13,130,2,0,0,2,0,0,0,0,0
+84,5,652,1,1,India,Rishabh Pant,Rashid Khan,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,241825,-185.40,13.02,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,5,13,130,2,0,0,2,0,0,0,0,0
+85,6,652,1,1,India,Rishabh Pant,Rashid Khan,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,241826,-185.40,13.02,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,13,130,2,0,0,2,0,0,0,0,0
+86,1,652,1,1,India,Virat Kohli,Mujeeb Ur Rahman,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,241830,-10.90,50.78,0,0,,,Knuckleball,1,STEP DOWN STRAIGHT DRIVE,0,0,1,14,130,2,1,0,2,0,0,0,0,0
+87,2,652,1,1,India,Virat Kohli,Mujeeb Ur Rahman,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,241831,-94.23,65.97,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,14,130,2,0,0,2,0,0,0,0,0
+88,3,652,1,1,India,Virat Kohli,Mujeeb Ur Rahman,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,241833,118.49,13.48,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,3,14,131,2,0,0,2,0,0,0,0,0
+89,4,652,1,1,India,Rishabh Pant,Mujeeb Ur Rahman,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,241835,-107.59,83.01,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,4,14,132,2,0,0,2,0,0,0,0,0
+90,5,652,1,1,India,Virat Kohli,Mujeeb Ur Rahman,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,241837,120.79,26.37,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,5,14,133,2,0,0,2,0,0,0,0,0
+91,6,652,1,1,India,Rishabh Pant,Mujeeb Ur Rahman,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,241839,-59.24,114.78,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,14,134,2,0,0,2,0,0,0,0,0
+92,1,652,1,1,India,Rishabh Pant,Rashid Khan,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,241841,-27.93,56.30,0,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,1,15,134,2,1,0,2,0,0,0,0,0
+93,2,652,1,1,India,Rishabh Pant,Rashid Khan,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,241843,71.98,-26.12,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,15,135,2,0,0,2,0,0,0,0,0
+94,3,652,1,1,India,Virat Kohli,Rashid Khan,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,241845,-67.99,148.39,1,0,,,Knuckleball,122,STEP DOWN LOFTED OFF DRIVE,0,0,3,15,136,2,0,0,2,0,0,0,0,0
+95,4,652,1,1,India,Rishabh Pant,Rashid Khan,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,241847,128.62,-37.63,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,15,137,2,0,0,2,0,0,0,0,0
+96,5,652,1,1,India,Virat Kohli,Rashid Khan,,16,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.5,1,1,0,241849,172.36,117.54,6,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,5,15,143,2,0,0,2,0,0,0,0,0
+97,6,652,1,1,India,Virat Kohli,Rashid Khan,,16,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,241851,87.64,144.71,2,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,6,15,145,2,0,0,2,0,0,0,0,0
+98,1,652,1,1,India,Rishabh Pant,Fareed Ahmad,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,241853,-130.61,46.63,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,1,16,146,2,1,0,2,0,0,0,0,0
+99,2,652,1,1,India,Virat Kohli,Fareed Ahmad,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,241855,-56.02,122.14,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,2,16,147,2,0,0,2,0,0,0,0,0
+100,3,652,1,1,India,Rishabh Pant,Fareed Ahmad,,17,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.3,1,1,0,241857,-151.79,-79.99,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,3,16,151,2,0,1,3,0,0,0,0,0
+101,4,652,1,1,India,Rishabh Pant,Fareed Ahmad,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,241859,56.33,152.53,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,4,16,152,2,0,0,3,0,0,0,0,0
+102,5,652,1,1,India,Virat Kohli,Fareed Ahmad,,17,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.5,1,1,0,241861,144.27,-80.45,4,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,16,156,2,0,0,3,0,0,0,0,0
+103,6,652,1,1,India,Virat Kohli,Fareed Ahmad,,17,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.6,1,1,0,241863,146.11,-76.76,4,0,,,Knuckleball,37,STEP DOWN FLICK,0,0,6,16,160,2,0,0,3,0,0,0,0,0
+104,1,652,1,1,India,Rishabh Pant,Fazalhaq Farooqi,,18,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,17.1,1,1,1,241865,146.11,-76.76,1,0,,,Knuckleball,105,LEFT ALONE,0,0,1,17,161,2,1,0,3,0,0,0,0,0
+105,2,652,1,1,India,Rishabh Pant,Fazalhaq Farooqi,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,241867,-59.24,153.91,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,2,17,162,2,0,0,3,0,0,0,0,0
+106,3,652,1,1,India,Virat Kohli,Fazalhaq Farooqi,,18,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.2,1,1,0,241869,123.55,85.77,2,0,,,Knuckleball,70,STEP DOWN PULL SHOT,0,0,3,17,164,2,0,0,3,0,0,0,0,0
+107,4,652,1,1,India,Virat Kohli,Fazalhaq Farooqi,,18,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.3,1,1,0,241871,-159.15,-74.46,4,0,,,Knuckleball,44,GLIDE,0,0,4,17,168,2,0,0,3,0,0,0,0,0
+108,5,652,1,1,India,Virat Kohli,Fazalhaq Farooqi,,18,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.4,1,1,0,241873,136.90,113.40,2,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,17,170,2,0,0,3,0,0,0,0,0
+109,6,652,1,1,India,Virat Kohli,Fazalhaq Farooqi,,18,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.5,1,1,0,241875,-111.27,-120.96,4,0,,,Knuckleball,122,STEP DOWN LOFTED OFF DRIVE,0,0,6,17,174,2,0,0,3,0,0,0,0,0
+110,7,652,1,1,India,Virat Kohli,Fazalhaq Farooqi,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,241877,-56.02,144.71,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,7,17,175,2,0,0,3,0,0,0,0,0
+111,1,652,1,1,India,Virat Kohli,Fareed Ahmad,,19,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.1,1,1,0,241879,-27.01,214.23,4,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,1,18,179,2,1,0,3,0,0,0,0,0
+112,2,652,1,1,India,Virat Kohli,Fareed Ahmad,,19,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.2,1,1,0,241881,169.13,86.69,6,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-2022/India-VS-Afghanistan-(08-Sep-2022)/File_1-19-241881.jpg,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,18,185,2,0,0,3,0,0,0,0,0
+113,3,652,1,1,India,Virat Kohli,Fareed Ahmad,,19,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,241883,-102.52,83.01,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,18,187,2,0,0,3,0,0,0,0,0
+114,4,652,1,1,India,Virat Kohli,Fareed Ahmad,,19,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.4,1,1,0,241885,-120.48,96.82,2,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,4,18,189,2,0,0,3,0,0,0,0,0
+115,5,652,1,1,India,Virat Kohli,Fareed Ahmad,,19,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,241887,52.18,154.83,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,5,18,190,2,0,0,3,0,0,0,0,0
+116,6,652,1,1,India,Rishabh Pant,Fareed Ahmad,,19,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.6,1,1,0,241889,-155.47,-72.16,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,18,194,2,0,0,3,0,0,0,0,0
+117,1,652,1,1,India,Virat Kohli,Fazalhaq Farooqi,,20,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.1,1,1,0,241891,-63.38,202.26,6,0,,,Knuckleball,122,STEP DOWN LOFTED OFF DRIVE,0,0,1,19,200,2,1,1,4,0,0,0,1,0
+118,2,652,1,1,India,Virat Kohli,Fazalhaq Farooqi,,20,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.2,1,1,0,241893,156.24,-74.92,6,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,19,206,2,0,0,4,0,0,0,0,0
+119,3,652,1,1,India,Virat Kohli,Fazalhaq Farooqi,,20,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.3,1,1,0,241895,-161.00,113.86,4,0,,,Knuckleball,61,INSIDE OUT,0,0,3,19,210,2,0,0,4,0,0,0,0,0
+120,4,652,1,1,India,Virat Kohli,Fazalhaq Farooqi,,20,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.4,1,1,0,241897,108.82,-49.60,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,4,19,211,2,0,0,4,0,0,0,0,0
+121,5,652,1,1,India,Rishabh Pant,Fazalhaq Farooqi,,20,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.5,1,1,0,241899,-66.61,141.02,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,5,19,212,2,0,0,4,0,0,0,0,0
+122,6,652,1,1,India,Virat Kohli,Fazalhaq Farooqi,,20,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.6,1,1,0,241901,-66.61,141.02,0,0,,,Knuckleball,70,STEP DOWN PULL SHOT,0,0,6,19,212,2,0,0,4,0,0,0,0,0
+124,1,652,2,9,Afghanistan,Hazratullah Zazai,Bhuvneshwar Kumar,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,241903,,,0,0,,,Knuckleball,105,LEFT ALONE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+125,2,652,2,9,Afghanistan,Hazratullah Zazai,Bhuvneshwar Kumar,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,241905,55.87,-9.54,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+126,3,652,2,9,Afghanistan,Hazratullah Zazai,Bhuvneshwar Kumar,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,241907,1.54,62.29,0,0,,,Knuckleball,19,BACKFOOT STRAIGHT DRIVE,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+127,4,652,2,9,Afghanistan,Hazratullah Zazai,Bhuvneshwar Kumar,,1,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,0.4,1,1,0,241908,1.54,62.29,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,0,0,1,1,0,0,0,0,0,0,0
+128,5,652,2,9,Afghanistan,Ibrahim Zadran,Bhuvneshwar Kumar,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,241911,28.24,15.32,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,0,1,1,2,0,0,0,0,0,0,0
+129,6,652,2,9,Afghanistan,Rahmanullah Gurbaz,Bhuvneshwar Kumar,,1,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,0.6,1,1,0,241912,28.24,15.32,0,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-2022/India-VS-Afghanistan-(08-Sep-2022)/File_2-1-241912.jpg,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,6,0,1,2,3,0,0,0,0,0,0,0
+130,1,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,241915,-85.03,68.73,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,1,1,2,4,0,0,0,0,0,0,0
+131,2,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,241917,-85.03,68.73,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,1,1,2,0,0,0,0,0,0,0,0
+132,3,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,241919,-85.03,68.73,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,1,1,2,0,0,0,0,0,0,0,0
+133,4,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,241921,-111.27,-31.64,1,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,4,1,2,2,0,0,0,0,0,0,0,0
+134,5,652,2,9,Afghanistan,Karim Janat,Deepak Chahar,,2,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,241923,-67.07,-91.50,1,0,,,Knuckleball,44,GLIDE,0,0,5,1,3,2,0,0,0,0,0,0,0,0
+135,6,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,2,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.6,1,1,0,241925,-161.46,-60.65,4,0,,,Knuckleball,36,CUT SHOT,0,0,6,1,7,2,0,0,0,0,0,0,0,0
+136,1,652,2,9,Afghanistan,Karim Janat,Bhuvneshwar Kumar,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,241927,-85.49,-22.89,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,2,7,2,1,0,0,0,0,0,0,0
+137,2,652,2,9,Afghanistan,Karim Janat,Bhuvneshwar Kumar,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,241929,53.10,91.76,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,2,8,2,0,0,0,0,0,0,0,0
+138,3,652,2,9,Afghanistan,Ibrahim Zadran,Bhuvneshwar Kumar,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,241931,-97.92,90.83,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,2,9,2,0,0,0,0,0,0,0,0
+139,4,652,2,9,Afghanistan,Karim Janat,Bhuvneshwar Kumar,,3,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,2.4,1,1,0,241933,-97.92,90.83,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,2,9,3,1,0,0,0,0,0,0,0
+140,5,652,2,9,Afghanistan,Najibullah Zadran,Bhuvneshwar Kumar,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,241935,-97.92,90.83,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,2,9,3,2,0,0,0,0,0,0,0
+141,6,652,2,9,Afghanistan,Najibullah Zadran,Bhuvneshwar Kumar,,3,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,2.6,1,1,0,241936,-97.92,90.83,0,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-2022/India-VS-Afghanistan-(08-Sep-2022)/File_2-3-241936.jpg,,Knuckleball,19,BACKFOOT STRAIGHT DRIVE,0,0,6,2,9,4,3,0,0,0,0,0,0,0
+142,1,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,241939,-97.92,90.83,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,3,9,4,4,0,0,0,0,0,0,0
+143,2,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,241941,-97.92,90.83,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,3,9,4,0,0,0,0,0,0,0,0
+144,3,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,241943,-33.92,126.29,1,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,3,3,10,4,0,0,0,0,0,0,0,0
+145,4,652,2,9,Afghanistan,Mohammad Nabi,Deepak Chahar,,4,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.4,1,1,0,241945,-173.43,118.46,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,3,14,4,0,0,0,0,0,0,0,0
+146,5,652,2,9,Afghanistan,Mohammad Nabi,Deepak Chahar,,4,5,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,241947,160.38,79.32,3,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,3,17,4,0,0,0,0,0,0,0,0
+147,6,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,4,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,241949,-73.97,-84.13,1,0,,,Knuckleball,44,GLIDE,0,0,6,3,18,4,0,0,0,0,0,0,0,0
+148,1,652,2,9,Afghanistan,Ibrahim Zadran,Bhuvneshwar Kumar,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,241951,-73.97,-84.13,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,4,18,4,1,0,0,0,0,0,0,0
+149,2,652,2,9,Afghanistan,Ibrahim Zadran,Bhuvneshwar Kumar,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,241953,-78.12,49.86,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,4,18,4,0,0,0,0,0,0,0,0
+150,3,652,2,9,Afghanistan,Ibrahim Zadran,Bhuvneshwar Kumar,,5,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,241955,56.33,98.66,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,4,19,4,0,0,0,0,0,0,0,0
+151,4,652,2,9,Afghanistan,Mohammad Nabi,Bhuvneshwar Kumar,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,241957,56.33,98.66,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,4,19,4,0,0,0,0,0,0,0,0
+152,5,652,2,9,Afghanistan,Mohammad Nabi,Bhuvneshwar Kumar,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,241959,56.33,98.66,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,4,19,4,0,0,0,0,0,0,0,0
+153,6,652,2,9,Afghanistan,Mohammad Nabi,Bhuvneshwar Kumar,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Leg Before Wicket,,0,4.6,1,1,0,241961,56.33,98.66,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,4,19,4,0,0,0,0,0,0,0,0
+154,1,652,2,9,Afghanistan,Ibrahim Zadran,Arshdeep Singh,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,241963,56.33,98.66,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,5,19,4,1,0,0,0,0,0,0,0
+155,2,652,2,9,Afghanistan,Ibrahim Zadran,Arshdeep Singh,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,241965,56.33,98.66,0,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,2,5,19,4,0,0,0,0,0,0,0,0
+156,3,652,2,9,Afghanistan,Ibrahim Zadran,Arshdeep Singh,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,241967,-74.90,-80.45,1,0,,,Knuckleball,44,GLIDE,0,0,3,5,20,4,0,0,0,0,0,0,0,0
+157,4,652,2,9,Afghanistan,Mohammad Nabi,Arshdeep Singh,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,1,1,0,241969,-64.77,-18.75,0,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,4,5,20,4,0,0,0,0,0,0,0,0
+158,5,652,2,9,Afghanistan,Mohammad Nabi,Arshdeep Singh,,6,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,5.5,1,1,0,241970,-64.77,-18.75,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,5,20,5,1,0,0,0,0,0,0,0
+159,6,652,2,9,Afghanistan,Azmatullah Omarzai,Arshdeep Singh,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,241973,107.44,-49.60,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,6,5,21,5,2,0,0,0,0,0,0,0
+161,1,652,2,9,Afghanistan,Azmatullah Omarzai,Bhuvneshwar Kumar,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,241975,-50.03,110.17,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,1,6,21,5,3,0,0,0,0,0,0,0
+162,2,652,2,9,Afghanistan,Azmatullah Omarzai,Bhuvneshwar Kumar,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,241977,-71.67,-16.91,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,6,21,5,0,0,0,0,0,0,0,0
+163,3,652,2,9,Afghanistan,Azmatullah Omarzai,Bhuvneshwar Kumar,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,241979,-71.67,-16.91,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,6,21,5,0,0,0,0,0,0,0,0
+164,4,652,2,9,Afghanistan,Azmatullah Omarzai,Bhuvneshwar Kumar,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,241981,-71.67,-16.91,0,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,4,6,21,5,0,0,0,0,0,0,0,0
+165,5,652,2,9,Afghanistan,Azmatullah Omarzai,Bhuvneshwar Kumar,,7,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,6.5,1,1,0,241982,-71.67,-16.91,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,6,21,6,1,0,0,0,0,0,0,0
+166,6,652,2,9,Afghanistan,Rashid Khan,Bhuvneshwar Kumar,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,241985,-71.67,-16.91,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,6,21,6,2,0,0,0,0,0,0,0
+167,1,652,2,9,Afghanistan,Ibrahim Zadran,Arshdeep Singh,,8,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.1,1,1,0,241986,79.81,-147.67,4,0,,,Knuckleball,54,LEG GLANCE,0,0,1,7,25,6,3,0,0,0,0,0,0,0
+168,2,652,2,9,Afghanistan,Ibrahim Zadran,Arshdeep Singh,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,241989,79.81,-147.67,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,7,25,6,0,0,0,0,0,0,0,0
+169,3,652,2,9,Afghanistan,Ibrahim Zadran,Arshdeep Singh,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,241991,104.21,-50.52,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,3,7,26,6,0,0,0,0,0,0,0,0
+170,4,652,2,9,Afghanistan,Rashid Khan,Arshdeep Singh,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,241993,104.21,-50.52,0,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,4,7,26,6,0,0,0,0,0,0,0,0
+171,5,652,2,9,Afghanistan,Rashid Khan,Arshdeep Singh,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,241995,104.21,-50.52,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,7,26,6,0,0,0,0,0,0,0,0
+172,6,652,2,9,Afghanistan,Rashid Khan,Arshdeep Singh,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,241997,104.21,-50.52,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,7,26,6,0,0,0,0,0,0,0,0
+173,1,652,2,9,Afghanistan,Ibrahim Zadran,Axar Patel,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,241999,-61.08,146.55,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,1,8,27,6,1,0,0,0,0,0,0,0
+174,2,652,2,9,Afghanistan,Rashid Khan,Axar Patel,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,242001,-89.63,127.67,1,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,2,8,28,6,0,0,0,0,0,0,0,0
+175,3,652,2,9,Afghanistan,Ibrahim Zadran,Axar Patel,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,242004,-76.74,-20.59,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,8,28,6,0,0,0,0,0,0,0,0
+176,4,652,2,9,Afghanistan,Ibrahim Zadran,Axar Patel,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,242005,-15.50,64.13,0,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,4,8,28,6,0,0,0,0,0,0,0,0
+177,5,652,2,9,Afghanistan,Ibrahim Zadran,Axar Patel,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,242007,-15.50,64.13,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,8,28,6,0,0,0,0,0,0,0,0
+178,6,652,2,9,Afghanistan,Ibrahim Zadran,Axar Patel,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,242009,-65.69,131.81,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,6,8,29,6,0,0,0,0,0,0,0,0
+179,1,652,2,9,Afghanistan,Ibrahim Zadran,Ravichandran Ashwin,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,242010,7.98,59.53,0,0,,,Knuckleball,19,BACKFOOT STRAIGHT DRIVE,0,0,1,9,29,6,1,0,0,0,0,0,0,0
+180,2,652,2,9,Afghanistan,Ibrahim Zadran,Ravichandran Ashwin,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,242013,-62.00,-6.32,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,9,30,6,0,0,0,0,0,0,0,0
+181,3,652,2,9,Afghanistan,Rashid Khan,Ravichandran Ashwin,,10,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,242015,-129.69,-44.99,2,0,,,Knuckleball,36,CUT SHOT,0,0,3,9,32,6,0,0,0,0,0,0,0,0
+182,4,652,2,9,Afghanistan,Rashid Khan,Ravichandran Ashwin,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,242016,-129.69,-44.99,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,9,32,6,0,0,0,0,0,0,0,0
+183,5,652,2,9,Afghanistan,Rashid Khan,Ravichandran Ashwin,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,242019,-68.45,149.31,1,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,5,9,33,6,0,0,0,0,0,0,0,0
+184,6,652,2,9,Afghanistan,Ibrahim Zadran,Ravichandran Ashwin,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,242021,-130.15,-18.75,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,9,34,6,0,0,0,0,0,0,0,0
+186,1,652,2,9,Afghanistan,Ibrahim Zadran,Axar Patel,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,242023,-149.03,56.30,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,10,35,6,1,0,0,0,0,0,0,0
+187,2,652,2,9,Afghanistan,Rashid Khan,Axar Patel,,11,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.2,1,1,0,242025,-181.72,136.42,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,10,39,6,0,0,0,0,0,0,0,0
+188,3,652,2,9,Afghanistan,Rashid Khan,Axar Patel,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,242027,-181.72,136.42,0,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,3,10,39,6,0,0,0,0,0,0,0,0
+189,4,652,2,9,Afghanistan,Rashid Khan,Axar Patel,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,242029,-181.72,136.42,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,10,39,6,0,0,0,0,0,0,0,0
+190,5,652,2,9,Afghanistan,Rashid Khan,Axar Patel,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,242031,-181.72,136.42,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,10,39,6,0,0,0,0,0,0,0,0
+191,6,652,2,9,Afghanistan,Rashid Khan,Axar Patel,,11,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.6,1,1,0,242032,159.46,-69.86,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,10,43,6,0,0,0,0,0,0,0,0
+192,1,652,2,9,Afghanistan,Ibrahim Zadran,Ravichandran Ashwin,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,242035,-140.74,14.86,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,11,44,6,1,0,0,0,0,0,0,0
+193,2,652,2,9,Afghanistan,Rashid Khan,Ravichandran Ashwin,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,242037,-54.64,93.14,0,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,2,11,44,6,0,0,0,0,0,0,0,0
+194,3,652,2,9,Afghanistan,Rashid Khan,Ravichandran Ashwin,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,242040,143.35,-18.75,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,11,45,6,0,0,0,0,0,0,0,0
+195,4,652,2,9,Afghanistan,Ibrahim Zadran,Ravichandran Ashwin,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,242042,61.39,49.40,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,4,11,45,6,0,0,0,0,0,0,0,0
+196,5,652,2,9,Afghanistan,Ibrahim Zadran,Ravichandran Ashwin,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,242043,61.39,49.40,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,11,45,6,0,0,0,0,0,0,0,0
+197,6,652,2,9,Afghanistan,Ibrahim Zadran,Ravichandran Ashwin,,12,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,242045,-131.99,-33.48,2,0,,,Knuckleball,35,LATE CUT,0,0,6,11,47,6,0,0,0,0,0,0,0,0
+198,1,652,2,9,Afghanistan,Rashid Khan,Axar Patel,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,242048,-59.24,138.72,1,0,,,Knuckleball,122,STEP DOWN LOFTED OFF DRIVE,0,0,1,12,48,6,1,0,0,0,0,0,0,0
+199,2,652,2,9,Afghanistan,Ibrahim Zadran,Axar Patel,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,1,1,0,242049,48.04,139.64,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,12,49,6,0,0,0,0,0,0,0,0
+200,3,652,2,9,Afghanistan,Rashid Khan,Axar Patel,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,242051,-70.29,-30.72,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,12,49,6,0,0,0,0,0,0,0,0
+201,4,652,2,9,Afghanistan,Rashid Khan,Axar Patel,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,242053,-143.50,-5.86,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,12,50,6,0,1,1,0,1,0,0,0
+202,5,652,2,9,Afghanistan,Ibrahim Zadran,Axar Patel,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,242055,-62.46,53.08,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,12,50,6,0,0,1,0,0,0,0,0
+203,6,652,2,9,Afghanistan,Ibrahim Zadran,Axar Patel,,13,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.6,1,1,0,242057,-159.62,104.19,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,12,54,6,0,0,1,0,0,0,0,0
+204,1,652,2,9,Afghanistan,Rashid Khan,Deepak Hooda,,14,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,13.1,1,1,0,242058,-159.62,104.19,0,0,,,Knuckleball,37,STEP DOWN FLICK,0,0,1,13,54,7,1,0,1,0,0,0,0,0
+205,2,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Hooda,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,242062,-5.37,45.25,0,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,2,13,54,7,2,0,1,0,0,0,0,0
+206,3,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Hooda,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,242063,86.26,32.82,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,13,55,7,0,0,1,0,0,0,0,0
+207,4,652,2,9,Afghanistan,Mujeeb Ur Rahman,Deepak Hooda,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,242065,86.26,32.82,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,13,55,7,0,0,1,0,0,0,0,0
+208,5,652,2,9,Afghanistan,Mujeeb Ur Rahman,Deepak Hooda,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,242067,116.18,-23.35,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,13,56,7,0,0,1,0,0,0,0,0
+209,6,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Hooda,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,242069,47.58,160.36,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,6,13,57,7,0,0,1,0,0,0,0,0
+210,1,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,242070,47.58,160.36,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,14,57,7,1,0,1,0,0,0,0,0
+211,2,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,15,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,242071,-46.81,-110.37,2,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,14,59,7,0,0,1,0,0,0,0,0
+212,3,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,242075,-68.91,-91.50,1,0,,,Knuckleball,44,GLIDE,0,0,3,14,60,7,0,0,1,0,0,0,0,0
+213,4,652,2,9,Afghanistan,Mujeeb Ur Rahman,Deepak Chahar,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,242077,48.96,-104.85,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,14,61,7,0,0,1,0,0,0,0,0
+214,5,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,242079,-60.62,-87.35,1,0,,,Knuckleball,44,GLIDE,0,0,5,14,62,7,0,0,1,0,0,0,0,0
+215,6,652,2,9,Afghanistan,Mujeeb Ur Rahman,Deepak Chahar,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,242081,-116.79,-13.68,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,14,63,7,0,0,1,0,0,0,0,0
+216,1,652,2,9,Afghanistan,Mujeeb Ur Rahman,Ravichandran Ashwin,,16,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.1,1,1,0,242083,-142.12,-90.12,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,1,15,67,7,1,0,1,0,0,0,0,0
+217,2,652,2,9,Afghanistan,Mujeeb Ur Rahman,Ravichandran Ashwin,,16,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,242086,-52.79,-33.94,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,15,67,7,0,0,1,0,0,0,0,0
+218,3,652,2,9,Afghanistan,Mujeeb Ur Rahman,Ravichandran Ashwin,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,242088,-27.01,-19.67,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,15,67,7,0,0,1,0,0,0,0,0
+219,4,652,2,9,Afghanistan,Mujeeb Ur Rahman,Ravichandran Ashwin,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,242089,-73.51,-33.02,0,0,,,Knuckleball,44,GLIDE,0,0,4,15,67,7,0,0,1,0,0,0,0,0
+220,5,652,2,9,Afghanistan,Mujeeb Ur Rahman,Ravichandran Ashwin,,16,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.5,1,1,0,242091,143.81,156.22,6,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,5,15,73,7,0,0,1,0,0,0,0,0
+221,6,652,2,9,Afghanistan,Mujeeb Ur Rahman,Ravichandran Ashwin,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,242093,-20.56,-22.43,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,15,73,7,0,0,1,0,0,0,0,0
+222,1,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,242095,-67.07,62.29,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,16,73,7,1,0,1,0,0,0,0,0
+223,2,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,17,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.2,1,1,0,242097,-61.08,209.17,4,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,2,16,77,7,0,0,1,0,0,0,0,0
+224,3,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.3,1,1,0,242099,-61.08,209.17,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,16,77,7,0,0,1,0,0,0,0,0
+225,4,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,242101,45.28,154.37,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,4,16,78,7,0,0,1,0,0,0,0,0
+226,5,652,2,9,Afghanistan,Mujeeb Ur Rahman,Deepak Chahar,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,242103,57.71,158.52,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,16,79,7,0,0,1,0,0,0,0,0
+227,6,652,2,9,Afghanistan,Ibrahim Zadran,Deepak Chahar,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,242105,-142.12,15.32,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,16,80,7,0,0,1,0,0,0,0,0
+228,1,652,2,9,Afghanistan,Ibrahim Zadran,Ravichandran Ashwin,,18,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,17.1,1,1,1,242108,-142.12,15.32,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,17,81,7,1,0,1,0,0,0,0,0
+229,2,652,2,9,Afghanistan,Ibrahim Zadran,Ravichandran Ashwin,,18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,242110,-80.42,66.43,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,17,81,7,0,0,1,0,0,0,0,0
+230,3,652,2,9,Afghanistan,Ibrahim Zadran,Ravichandran Ashwin,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,1,1,0,242111,-58.32,143.32,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,3,17,82,7,0,0,1,0,0,0,0,0
+231,4,652,2,9,Afghanistan,Mujeeb Ur Rahman,Ravichandran Ashwin,,18,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,17.3,1,1,1,242113,-58.32,143.32,1,0,,,Knuckleball,105,LEFT ALONE,0,0,4,17,83,7,0,0,1,0,0,0,0,0
+232,5,652,2,9,Afghanistan,Mujeeb Ur Rahman,Ravichandran Ashwin,,18,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.3,1,1,0,242115,-184.48,96.82,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,5,17,87,7,0,0,1,0,0,0,0,0
+233,6,652,2,9,Afghanistan,Mujeeb Ur Rahman,Ravichandran Ashwin,,18,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,17.4,1,1,0,242116,-184.48,96.82,0,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,6,17,87,8,1,0,1,0,0,0,0,0
+234,7,652,2,9,Afghanistan,Fareed Ahmad,Ravichandran Ashwin,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,242119,-42.67,14.86,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,7,17,87,8,2,0,1,0,0,0,0,0
+235,8,652,2,9,Afghanistan,Fareed Ahmad,Ravichandran Ashwin,,18,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,17.6,1,1,1,242122,-42.67,14.86,1,0,,,Knuckleball,105,LEFT ALONE,0,0,8,17,88,8,0,0,1,0,0,0,0,0
+236,9,652,2,9,Afghanistan,Fareed Ahmad,Ravichandran Ashwin,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,242123,-42.67,14.86,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,9,17,88,8,0,0,1,0,0,0,0,0
+237,1,652,2,9,Afghanistan,Ibrahim Zadran,Axar Patel,,19,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.1,1,1,0,242125,-114.95,107.41,2,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,18,90,8,1,0,1,0,0,0,0,0
+238,2,652,2,9,Afghanistan,Ibrahim Zadran,Axar Patel,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.2,1,1,0,242127,-150.87,68.27,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,18,91,8,0,0,1,0,0,0,0,0
+239,3,652,2,9,Afghanistan,Fareed Ahmad,Axar Patel,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,242129,-102.52,-39.47,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,18,92,8,0,0,1,0,0,0,0,0
+240,4,652,2,9,Afghanistan,Ibrahim Zadran,Axar Patel,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,1,1,0,242131,-135.67,-7.24,1,0,,,Knuckleball,59,FRONTFOOT SQUARE DRIVE,0,0,4,18,93,8,0,0,1,0,0,0,0,0
+241,5,652,2,9,Afghanistan,Fareed Ahmad,Axar Patel,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,242133,-67.99,43.87,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,18,93,8,0,0,1,0,0,0,0,0
+242,6,652,2,9,Afghanistan,Fareed Ahmad,Axar Patel,,19,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,242136,-132.91,39.73,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,6,18,93,8,0,0,1,0,0,0,0,0
+243,1,652,2,9,Afghanistan,Ibrahim Zadran,Dinesh Karthik,,20,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.1,1,1,0,242139,98.69,-38.09,2,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,19,95,8,1,0,1,0,0,0,0,0
+244,2,652,2,9,Afghanistan,Ibrahim Zadran,Dinesh Karthik,,20,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.2,1,1,0,242141,171.90,-63.41,6,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,19,101,8,0,1,2,0,0,1,0,0
+245,3,652,2,9,Afghanistan,Ibrahim Zadran,Dinesh Karthik,,20,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.3,1,1,0,242143,65.54,193.51,6,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,3,19,107,8,0,0,2,0,0,0,0,0
+246,4,652,2,9,Afghanistan,Ibrahim Zadran,Dinesh Karthik,,20,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.4,1,1,0,242145,58.63,148.85,2,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,4,19,109,8,0,0,2,0,0,0,0,0
+247,5,652,2,9,Afghanistan,Ibrahim Zadran,Dinesh Karthik,,20,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.5,1,1,0,242147,-131.07,87.15,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,19,111,8,0,0,2,0,0,0,0,0
+248,6,652,2,9,Afghanistan,Ibrahim Zadran,Dinesh Karthik,,20,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.6,1,1,0,242148,-46.81,94.06,0,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,6,19,111,8,0,0,2,0,0,0,0,0

@@ -1,0 +1,251 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,388,1,4,New Zealand,Martin Guptill,Bernard Scholtz,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,153659,70.14,90.83,1,0,,,Knuckleball,47,ON DRIVE,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+1,2,388,1,4,New Zealand,Daryl Mitchell,Bernard Scholtz,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,153660,-93.31,137.80,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,0,2,0,0,0,0,0,0,0,0,0
+2,3,388,1,4,New Zealand,Martin Guptill,Bernard Scholtz,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,153661,-30.69,62.29,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,0,2,0,0,0,0,0,0,0,0,0
+3,4,388,1,4,New Zealand,Martin Guptill,Bernard Scholtz,,1,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,0.4,2,1,0,153662,74.74,200.42,6,0,,,Knuckleball,11,LOFT ON,0,0,4,0,8,0,0,0,0,0,0,0,0,0
+4,5,388,1,4,New Zealand,Martin Guptill,Bernard Scholtz,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,153663,-61.08,50.78,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,0,8,0,0,0,0,0,0,0,0,0
+5,6,388,1,4,New Zealand,Martin Guptill,Bernard Scholtz,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,153664,-86.41,163.58,1,0,,,Knuckleball,84,OFF DRIVE,0,0,6,0,9,0,0,0,0,0,0,0,0,0
+6,1,388,1,4,New Zealand,Martin Guptill,Ruben Trumpelmann,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,153665,-86.41,163.58,0,0,,,Knuckleball,105,LEFT ALONE,0,0,1,1,9,0,1,0,0,0,0,0,0,0
+7,2,388,1,4,New Zealand,Martin Guptill,Ruben Trumpelmann,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,153666,-86.41,163.58,0,0,,,Knuckleball,84,OFF DRIVE,0,0,2,1,9,0,0,0,0,0,0,0,0,0
+8,3,388,1,4,New Zealand,Martin Guptill,Ruben Trumpelmann,,2,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.3,2,1,0,153667,-45.43,210.09,4,0,,,Knuckleball,84,OFF DRIVE,0,0,3,1,13,0,0,0,0,0,0,0,0,0
+9,4,388,1,4,New Zealand,Martin Guptill,Ruben Trumpelmann,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,153668,-81.80,-9.54,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,1,13,0,0,0,0,0,0,0,0,0
+10,5,388,1,4,New Zealand,Martin Guptill,Ruben Trumpelmann,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,153669,21.33,54.46,0,0,,,Knuckleball,40,FLICK,0,0,5,1,13,0,0,0,0,0,0,0,0,0
+11,6,388,1,4,New Zealand,Martin Guptill,Ruben Trumpelmann,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,153670,21.33,54.46,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,1,13,0,0,0,0,0,0,0,0,0
+12,1,388,1,4,New Zealand,Daryl Mitchell,David Wiese,,3,1,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,153671,-139.82,-40.39,3,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,1,2,16,0,1,0,0,0,0,0,0,0
+13,2,388,1,4,New Zealand,Martin Guptill,David Wiese,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,153672,-89.17,100.50,1,0,,,Knuckleball,84,OFF DRIVE,0,0,2,2,17,0,0,0,0,0,0,0,0,0
+14,3,388,1,4,New Zealand,Daryl Mitchell,David Wiese,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,153673,-84.56,97.28,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,2,18,0,0,0,0,0,0,0,0,0
+15,4,388,1,4,New Zealand,Martin Guptill,David Wiese,,3,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,153674,-84.56,97.28,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,2,19,0,0,0,0,0,0,0,0,0
+16,5,388,1,4,New Zealand,Daryl Mitchell,David Wiese,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,153675,13.05,89.45,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,5,2,20,0,0,0,0,0,0,0,0,0
+17,6,388,1,4,New Zealand,Martin Guptill,David Wiese,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,153676,108.82,30.98,1,0,,,Knuckleball,40,FLICK,0,0,6,2,21,0,0,0,0,0,0,0,0,0
+18,1,388,1,4,New Zealand,Martin Guptill,JJ Smit,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,153677,-22.87,6.58,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,3,21,0,1,0,0,0,0,0,0,0
+19,2,388,1,4,New Zealand,Martin Guptill,JJ Smit,,4,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,153678,140.59,82.09,2,0,,,Knuckleball,58,PULL SHOT,0,0,2,3,23,0,0,0,0,0,0,0,0,0
+20,3,388,1,4,New Zealand,Martin Guptill,JJ Smit,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,153679,-91.93,72.42,1,0,,,Knuckleball,15,LOFT COVER,0,0,3,3,24,0,0,0,0,0,0,0,0,0
+21,4,388,1,4,New Zealand,Daryl Mitchell,JJ Smit,,4,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.4,2,1,0,153680,82.57,205.94,4,0,,,Knuckleball,11,LOFT ON,0,0,4,3,28,0,0,0,0,0,0,0,0,0
+22,5,388,1,4,New Zealand,Daryl Mitchell,JJ Smit,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,153681,-105.28,8.42,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,5,3,28,0,0,0,0,0,0,0,0,0
+23,6,388,1,4,New Zealand,Daryl Mitchell,JJ Smit,,4,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,153682,130.46,111.55,2,0,,,Knuckleball,40,FLICK,0,0,6,3,30,0,0,0,0,0,0,0,0,0
+24,1,388,1,4,New Zealand,Martin Guptill,David Wiese,,5,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,4.1,2,1,0,153683,130.46,111.55,0,0,,,Knuckleball,5,LOFT OFF,0,0,1,4,30,1,1,0,0,0,0,0,0,0
+25,2,388,1,4,New Zealand,Kane Williamson,David Wiese,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,153684,-53.26,10.26,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,4,30,1,2,0,0,0,0,0,0,0
+26,3,388,1,4,New Zealand,Kane Williamson,David Wiese,,5,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,153685,-65.69,104.19,1,0,,,Knuckleball,84,OFF DRIVE,0,0,3,4,31,1,0,0,0,0,0,0,0,0
+27,4,388,1,4,New Zealand,Daryl Mitchell,David Wiese,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,153686,46.20,177.40,1,0,,,Knuckleball,47,ON DRIVE,0,0,4,4,32,1,0,0,0,0,0,0,0,0
+28,5,388,1,4,New Zealand,Kane Williamson,David Wiese,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,153687,46.20,177.40,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,4,32,1,0,0,0,0,0,0,0,0
+29,6,388,1,4,New Zealand,Kane Williamson,David Wiese,,5,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.6,2,1,0,153688,-186.32,-36.71,4,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,4,36,1,0,0,0,0,0,0,0,0
+30,1,388,1,4,New Zealand,Daryl Mitchell,Ruben Trumpelmann,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,153689,-53.26,22.69,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,5,36,1,1,0,0,0,0,0,0,0
+31,2,388,1,4,New Zealand,Daryl Mitchell,Ruben Trumpelmann,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,153690,-34.84,51.70,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,5,36,1,0,0,0,0,0,0,0,0
+32,3,388,1,4,New Zealand,Daryl Mitchell,Ruben Trumpelmann,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,153691,148.41,17.17,1,0,,,Knuckleball,40,FLICK,0,0,3,5,37,1,0,0,0,0,0,0,0,0
+33,4,388,1,4,New Zealand,Kane Williamson,Ruben Trumpelmann,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,153692,149.33,35.12,1,0,,,Knuckleball,40,FLICK,0,0,4,5,38,1,0,0,0,0,0,0,0,0
+34,5,388,1,4,New Zealand,Daryl Mitchell,Ruben Trumpelmann,,6,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.5,2,1,0,153693,130.46,-101.63,4,0,,,Knuckleball,40,FLICK,0,0,5,5,42,1,0,0,0,0,0,0,0,0
+35,6,388,1,4,New Zealand,Daryl Mitchell,Ruben Trumpelmann,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,153694,-52.79,88.07,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,5,43,1,0,0,0,0,0,0,0,0
+36,1,388,1,4,New Zealand,Daryl Mitchell,Bernard Scholtz,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,153695,-57.40,-37.17,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,1,6,43,1,1,0,0,0,0,0,0,0
+37,2,388,1,4,New Zealand,Daryl Mitchell,Bernard Scholtz,,7,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,6.2,2,1,0,153696,-57.40,-37.17,0,0,,,Knuckleball,94,SDL ON,0,0,2,6,43,2,2,0,0,0,0,0,0,0
+38,3,388,1,4,New Zealand,Kane Williamson,Bernard Scholtz,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,153697,65.54,160.82,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,6,44,2,3,0,0,0,0,0,0,0
+39,4,388,1,4,New Zealand,Devon Conway,Bernard Scholtz,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,153698,-101.14,53.54,1,0,,,Knuckleball,40,FLICK,0,0,4,6,45,2,0,0,0,0,0,0,0,0
+40,5,388,1,4,New Zealand,Kane Williamson,Bernard Scholtz,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,153699,-100.22,39.73,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,6,46,2,0,0,0,0,0,0,0,0
+41,6,388,1,4,New Zealand,Devon Conway,Bernard Scholtz,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,153700,-64.31,147.93,0,0,,,Knuckleball,47,ON DRIVE,0,0,6,6,46,2,0,0,0,0,0,0,0,0
+42,1,388,1,4,New Zealand,Kane Williamson,Jan Nicol Loftie,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,153701,85.33,152.53,1,0,,,Knuckleball,47,ON DRIVE,0,0,1,7,47,2,1,0,0,0,0,0,0,0
+43,2,388,1,4,New Zealand,Devon Conway,Jan Nicol Loftie,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,153702,-132.45,107.41,1,0,,,Knuckleball,40,FLICK,0,0,2,7,48,2,0,0,0,0,0,0,0,0
+44,3,388,1,4,New Zealand,Kane Williamson,Jan Nicol Loftie,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,153703,78.89,94.52,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,7,49,2,0,0,0,0,0,0,0,0
+45,4,388,1,4,New Zealand,Devon Conway,Jan Nicol Loftie,,8,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,153704,12.59,194.89,2,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,4,7,51,2,0,1,1,0,1,0,0,0
+46,5,388,1,4,New Zealand,Devon Conway,Jan Nicol Loftie,,8,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.5,2,1,0,153705,10.28,234.95,4,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,5,7,55,2,0,0,1,0,0,0,0,0
+47,6,388,1,4,New Zealand,Devon Conway,Jan Nicol Loftie,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,153706,89.02,74.26,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,7,55,2,0,0,1,0,0,0,0,0
+48,1,388,1,4,New Zealand,Kane Williamson,Bernard Scholtz,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,153707,86.26,40.65,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,8,55,2,1,0,1,0,0,0,0,0
+49,2,388,1,4,New Zealand,Kane Williamson,Bernard Scholtz,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,153708,94.08,157.60,1,0,,,Knuckleball,84,OFF DRIVE,0,0,2,8,56,2,0,0,1,0,0,0,0,0
+50,3,388,1,4,New Zealand,Devon Conway,Bernard Scholtz,,9,3,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,8.3,2,1,1,153709,-67.99,-27.96,1,0,,,Knuckleball,40,FLICK,0,0,3,8,57,2,0,0,1,0,0,0,0,0
+51,4,388,1,4,New Zealand,Kane Williamson,Bernard Scholtz,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,153710,11.67,53.08,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,8,57,2,0,0,1,0,0,0,0,0
+52,5,388,1,4,New Zealand,Kane Williamson,Bernard Scholtz,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,153711,94.08,157.60,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,8,58,2,0,0,1,0,0,0,0,0
+53,6,388,1,4,New Zealand,Devon Conway,Bernard Scholtz,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,153712,-21.49,-62.49,1,0,,,Knuckleball,22,PADDLE SWEEP,0,0,6,8,59,2,0,0,1,0,0,0,0,0
+54,1,388,1,4,New Zealand,Devon Conway,Gerhard Erasmus,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,153713,-141.20,6.12,1,0,,,Knuckleball,40,FLICK,0,0,1,9,60,2,1,0,1,0,0,0,0,0
+55,2,388,1,4,New Zealand,Kane Williamson,Gerhard Erasmus,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,153714,-7.67,68.73,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,9,60,2,0,0,1,0,0,0,0,0
+56,3,388,1,4,New Zealand,Kane Williamson,Gerhard Erasmus,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,153715,111.58,122.14,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,9,61,2,0,0,1,0,0,0,0,0
+57,4,388,1,4,New Zealand,Devon Conway,Gerhard Erasmus,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,153716,-148.56,10.26,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,9,62,2,0,0,1,0,0,0,0,0
+58,5,388,1,4,New Zealand,Kane Williamson,Gerhard Erasmus,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,153717,6.14,67.35,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,9,62,2,0,0,1,0,0,0,0,0
+59,6,388,1,4,New Zealand,Kane Williamson,Gerhard Erasmus,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,153718,-99.76,28.22,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,9,62,2,0,0,1,0,0,0,0,0
+60,1,388,1,4,New Zealand,Devon Conway,Jan Nicol Loftie,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,153719,-129.23,-64.33,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,10,63,2,1,0,1,0,0,0,0,0
+61,2,388,1,4,New Zealand,Kane Williamson,Jan Nicol Loftie,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,153720,-7.67,71.04,1,0,,,Knuckleball,1,SD STRAIGHT,0,0,2,10,64,2,0,0,1,0,0,0,0,0
+62,3,388,1,4,New Zealand,Devon Conway,Jan Nicol Loftie,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,153721,-120.48,-60.65,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,10,65,2,0,0,1,0,0,0,0,0
+63,4,388,1,4,New Zealand,Kane Williamson,Jan Nicol Loftie,,11,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,153722,101.91,92.22,2,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,10,67,2,0,0,1,0,0,0,0,0
+64,5,388,1,4,New Zealand,Kane Williamson,Jan Nicol Loftie,,11,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,10.5,2,1,0,153723,169.59,124.45,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,5,10,73,2,0,0,1,0,0,0,0,0
+65,6,388,1,4,New Zealand,Kane Williamson,Jan Nicol Loftie,,11,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.6,2,1,0,153724,6.60,222.52,4,0,,,Knuckleball,69,SDL STRAIGHT,0,0,6,10,77,2,0,0,1,0,0,0,0,0
+66,1,388,1,4,New Zealand,Devon Conway,Karl Birkenstock,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,153725,6.60,222.52,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,11,77,2,1,0,1,0,0,0,0,0
+67,2,388,1,4,New Zealand,Devon Conway,Karl Birkenstock,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,153726,-75.82,130.89,1,0,,,Knuckleball,84,OFF DRIVE,0,0,2,11,78,2,0,0,1,0,0,0,0,0
+68,3,388,1,4,New Zealand,Kane Williamson,Karl Birkenstock,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,153727,5.68,64.13,0,0,,,Knuckleball,1,SD STRAIGHT,0,0,3,11,78,2,0,0,1,0,0,0,0,0
+69,4,388,1,4,New Zealand,Kane Williamson,Karl Birkenstock,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,153728,98.23,132.27,1,0,,,Knuckleball,74,SD ON,0,0,4,11,79,2,0,0,1,0,0,0,0,0
+70,5,388,1,4,New Zealand,Devon Conway,Karl Birkenstock,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,153729,97.31,12.56,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,11,80,2,0,0,1,0,0,0,0,0
+71,6,388,1,4,New Zealand,Kane Williamson,Karl Birkenstock,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,153730,145.65,82.09,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,11,81,2,0,0,1,0,0,0,0,0
+72,1,388,1,4,New Zealand,Kane Williamson,Gerhard Erasmus,,13,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,12.1,2,1,0,153731,145.65,82.09,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,12,81,3,1,0,1,0,0,0,0,0
+73,2,388,1,4,New Zealand,Glenn Phillips,Gerhard Erasmus,,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,153732,145.65,82.09,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,12,81,3,2,0,1,0,0,0,0,0
+74,3,388,1,4,New Zealand,Glenn Phillips,Gerhard Erasmus,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,153733,145.65,82.09,0,0,,,Knuckleball,105,LEFT ALONE,0,0,3,12,81,3,0,0,1,0,0,0,0,0
+75,4,388,1,4,New Zealand,Glenn Phillips,Gerhard Erasmus,,13,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,153734,-86.87,53.08,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,12,81,3,0,0,1,0,0,0,0,0
+76,5,388,1,4,New Zealand,Glenn Phillips,Gerhard Erasmus,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,153735,-86.87,53.08,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,12,81,3,0,0,1,0,0,0,0,0
+77,6,388,1,4,New Zealand,Glenn Phillips,Gerhard Erasmus,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,153736,-91.01,158.06,1,0,,,Knuckleball,84,OFF DRIVE,0,0,6,12,82,3,0,0,1,0,0,0,0,0
+78,1,388,1,4,New Zealand,Glenn Phillips,Karl Birkenstock,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,153737,144.73,72.42,1,0,,,Knuckleball,40,FLICK,0,0,1,13,83,3,1,0,1,0,0,0,0,0
+79,2,388,1,4,New Zealand,Devon Conway,Karl Birkenstock,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,153738,-5.37,70.58,1,0,,,Knuckleball,1,SD STRAIGHT,0,0,2,13,84,3,0,0,1,0,0,0,0,0
+80,3,388,1,4,New Zealand,Glenn Phillips,Karl Birkenstock,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,153739,107.44,73.34,1,0,,,Knuckleball,40,FLICK,0,0,3,13,85,3,0,0,1,0,0,0,0,0
+81,4,388,1,4,New Zealand,Devon Conway,Karl Birkenstock,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,153740,107.44,73.34,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,13,85,3,0,0,1,0,0,0,0,0
+82,5,388,1,4,New Zealand,Devon Conway,Karl Birkenstock,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,153741,17.65,188.91,1,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,5,13,86,3,0,0,1,0,0,0,0,0
+83,6,388,1,4,New Zealand,Glenn Phillips,Karl Birkenstock,,14,6,1 WK,1,1,1,0,0,0,0,0,0,0,0,0,0,1,Run Out,WICKET,0,13.6,2,1,0,153742,130.46,108.33,1,0,,,Knuckleball,40,FLICK,0,0,6,13,87,4,0,0,1,0,0,0,0,0
+84,1,388,1,4,New Zealand,James Neesham,Gerhard Erasmus,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,153743,67.84,13.48,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,14,87,4,1,0,1,0,0,0,0,0
+85,2,388,1,4,New Zealand,James Neesham,Gerhard Erasmus,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,153744,-105.74,-24.73,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,14,87,4,0,0,1,0,0,0,0,0
+86,3,388,1,4,New Zealand,James Neesham,Gerhard Erasmus,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,153745,-105.74,-24.73,1,0,,,Knuckleball,40,FLICK,0,0,3,14,88,4,0,0,1,0,0,0,0,0
+87,4,388,1,4,New Zealand,Glenn Phillips,Gerhard Erasmus,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,153746,60.93,48.01,1,0,,,Knuckleball,40,FLICK,0,0,4,14,89,4,0,0,1,0,0,0,0,0
+88,5,388,1,4,New Zealand,James Neesham,Gerhard Erasmus,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,153747,60.93,48.01,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,14,89,4,0,0,1,0,0,0,0,0
+89,6,388,1,4,New Zealand,James Neesham,Gerhard Erasmus,,15,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,14.6,2,1,1,153748,60.93,48.01,1,0,,,Knuckleball,54,LEG GLANCE,0,0,6,14,90,4,0,0,1,0,0,0,0,0
+90,7,388,1,4,New Zealand,James Neesham,Gerhard Erasmus,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,153749,-80.42,63.21,1,0,,,Knuckleball,40,FLICK,0,0,7,14,91,4,0,0,1,0,0,0,0,0
+91,1,388,1,4,New Zealand,James Neesham,David Wiese,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,153750,60.93,-27.50,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,15,92,4,1,0,1,0,0,0,0,0
+92,2,388,1,4,New Zealand,Glenn Phillips,David Wiese,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,153751,59.55,165.42,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,15,93,4,0,0,1,0,0,0,0,0
+93,3,388,1,4,New Zealand,James Neesham,David Wiese,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,153752,60.01,-53.28,0,0,,,Knuckleball,44,GLIDE,0,0,3,15,93,4,0,0,1,0,0,0,0,0
+94,4,388,1,4,New Zealand,James Neesham,David Wiese,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,153753,60.01,-53.28,0,0,,,Knuckleball,40,FLICK,0,0,4,15,93,4,0,0,1,0,0,0,0,0
+95,5,388,1,4,New Zealand,James Neesham,David Wiese,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,153754,-148.10,-18.29,1,0,,,Knuckleball,18,SLOG SHOT,0,0,5,15,94,4,0,0,1,0,0,0,0,0
+96,6,388,1,4,New Zealand,Glenn Phillips,David Wiese,,16,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,153755,124.93,-53.74,2,0,,,Knuckleball,58,PULL SHOT,0,0,6,15,96,4,0,0,1,0,0,0,0,0
+97,1,388,1,4,New Zealand,James Neesham,Gerhard Erasmus,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,153756,-110.35,149.77,1,0,,,Knuckleball,94,SDL ON,0,0,1,16,97,4,1,0,1,0,0,0,0,0
+98,2,388,1,4,New Zealand,Glenn Phillips,Gerhard Erasmus,,17,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,16.2,2,1,0,153757,151.64,142.40,6,0,,,Knuckleball,94,SDL ON,0,0,2,16,103,4,0,1,2,0,0,1,0,0
+99,3,388,1,4,New Zealand,Glenn Phillips,Gerhard Erasmus,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,153758,77.05,157.60,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,16,104,4,0,0,2,0,0,0,0,0
+100,4,388,1,4,New Zealand,James Neesham,Gerhard Erasmus,,17,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,153759,127.23,130.43,2,0,,,Knuckleball,5,LOFT OFF,0,0,4,16,106,4,0,0,2,0,0,0,0,0
+101,5,388,1,4,New Zealand,James Neesham,Gerhard Erasmus,,17,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,153760,-102.06,91.76,2,0,,,Knuckleball,40,FLICK,0,0,5,16,108,4,0,0,2,0,0,0,0,0
+102,6,388,1,4,New Zealand,James Neesham,Gerhard Erasmus,,17,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,153761,-122.32,113.40,2,0,,,Knuckleball,40,FLICK,0,0,6,16,110,4,0,0,2,0,0,0,0,0
+103,1,388,1,4,New Zealand,Glenn Phillips,David Wiese,,18,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,153762,116.18,88.53,2,0,,,Knuckleball,58,PULL SHOT,0,0,1,17,112,4,1,0,2,0,0,0,0,0
+104,2,388,1,4,New Zealand,Glenn Phillips,David Wiese,,18,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,153763,136.44,100.04,2,0,,,Knuckleball,40,FLICK,0,0,2,17,114,4,0,0,2,0,0,0,0,0
+105,3,388,1,4,New Zealand,Glenn Phillips,David Wiese,,18,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.3,2,1,0,153764,-178.95,115.70,6,0,,,Knuckleball,15,LOFT COVER,0,0,3,17,120,4,0,0,2,0,0,0,0,0
+106,4,388,1,4,New Zealand,Glenn Phillips,David Wiese,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,153765,137.82,96.36,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,17,121,4,0,0,2,0,0,0,0,0
+107,5,388,1,4,New Zealand,James Neesham,David Wiese,,18,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.5,2,1,0,153766,-124.62,182.00,6,0,,,Knuckleball,11,LOFT ON,0,0,5,17,127,4,0,0,2,0,0,0,0,0
+108,6,388,1,4,New Zealand,James Neesham,David Wiese,,18,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.6,2,1,0,153767,142.89,-96.10,4,0,,,Knuckleball,96,Slice,0,0,6,17,131,4,0,0,2,0,0,0,0,0
+109,1,388,1,4,New Zealand,Glenn Phillips,Ruben Trumpelmann,,19,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.1,2,1,0,153768,184.79,18.55,4,0,,,Knuckleball,18,SLOG SHOT,0,0,1,18,135,4,1,0,2,0,0,0,0,0
+110,2,388,1,4,New Zealand,Glenn Phillips,Ruben Trumpelmann,,19,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.2,2,1,0,153769,193.08,25.45,6,0,,,Knuckleball,58,PULL SHOT,0,0,2,18,141,4,0,0,2,0,0,0,0,0
+111,3,388,1,4,New Zealand,Glenn Phillips,Ruben Trumpelmann,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,153770,11.67,131.35,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,18,142,4,0,0,2,0,0,0,0,0
+112,4,388,1,4,New Zealand,James Neesham,Ruben Trumpelmann,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,153771,11.67,131.35,0,0,,,Knuckleball,,,0,0,4,18,142,4,0,0,2,0,0,0,0,0
+113,5,388,1,4,New Zealand,James Neesham,Ruben Trumpelmann,,19,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.5,2,1,0,153772,-153.17,-20.13,2,0,,,Knuckleball,58,PULL SHOT,0,0,5,18,144,4,0,0,2,0,0,0,0,0
+114,6,388,1,4,New Zealand,James Neesham,Ruben Trumpelmann,,19,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.6,2,1,0,153773,-127.38,-53.74,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,18,145,4,0,0,2,0,0,0,0,0
+115,1,388,1,4,New Zealand,James Neesham,JJ Smit,,20,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.1,2,1,0,153774,8.44,-27.04,0,0,,,Knuckleball,58,PULL SHOT,0,0,1,19,145,4,1,0,2,0,0,0,0,0
+116,2,388,1,4,New Zealand,James Neesham,JJ Smit,,20,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.2,2,1,0,153775,-190.92,36.04,6,0,,,Knuckleball,58,PULL SHOT,0,0,2,19,151,4,0,1,3,0,0,0,0,0
+117,3,388,1,4,New Zealand,James Neesham,JJ Smit,,20,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.3,2,1,0,153776,-142.12,83.93,2,0,,,Knuckleball,58,PULL SHOT,0,0,3,19,153,4,0,0,3,0,0,0,0,0
+118,4,388,1,4,New Zealand,James Neesham,JJ Smit,,20,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,19.4,2,1,1,153777,-142.12,83.93,1,0,,,Knuckleball,105,LEFT ALONE,0,0,4,19,154,4,0,0,3,0,0,0,0,0
+119,5,388,1,4,New Zealand,James Neesham,JJ Smit,,20,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,19.4,2,1,1,153778,-142.12,83.93,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,19,155,4,0,0,3,0,0,0,0,0
+120,6,388,1,4,New Zealand,James Neesham,JJ Smit,,20,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.4,2,1,0,153779,52.18,10.72,1,0,,,Knuckleball,40,FLICK,0,0,6,19,156,4,0,0,3,0,0,0,0,0
+121,7,388,1,4,New Zealand,Glenn Phillips,JJ Smit,,20,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.5,2,1,0,153780,145.65,93.60,2,0,,,Knuckleball,40,FLICK,0,0,7,19,158,4,0,0,3,0,0,0,0,0
+122,10,388,1,4,New Zealand,James Neesham,JJ Smit,,20,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.6,2,1,0,153783,98.69,-84.59,2,0,,,Knuckleball,96,Slice,0,0,10,19,163,4,0,0,3,0,0,0,0,0
+123,8,388,1,4,New Zealand,Glenn Phillips,JJ Smit,,20,6,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,0,,,0,19.6,2,1,1,153781,145.65,93.60,2,0,,,Knuckleball,56,REVERSE SWEEP,0,0,8,19,160,4,0,0,3,0,0,0,0,0
+124,9,388,1,4,New Zealand,James Neesham,JJ Smit,,20,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,19.6,2,1,1,153782,,,1,0,,,Knuckleball,105,LEFT ALONE,0,0,9,19,161,4,0,0,3,0,0,0,0,0
+125,1,388,2,29,Namibia,Stephan Baard,Tim Southee,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,153784,-31.62,56.76,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+126,2,388,2,29,Namibia,Stephan Baard,Tim Southee,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,153785,21.79,101.42,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+127,3,388,2,29,Namibia,Michael van Lingen,Tim Southee,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,153786,21.79,101.42,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+128,4,388,2,29,Namibia,Michael van Lingen,Tim Southee,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,153787,108.36,101.88,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,0,2,0,0,0,0,0,0,0,0,0
+129,5,388,2,29,Namibia,Stephan Baard,Tim Southee,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,153788,-41.74,24.53,0,0,,,Knuckleball,40,FLICK,0,0,5,0,2,0,0,0,0,0,0,0,0,0
+130,6,388,2,29,Namibia,Stephan Baard,Tim Southee,,1,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.6,2,1,0,153789,-39.90,-152.73,4,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,0,6,0,0,0,0,0,0,0,0,0
+131,1,388,2,29,Namibia,Michael van Lingen,Trent Boult,,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,153790,-149.03,7.96,1,0,,,Knuckleball,40,FLICK,0,0,1,1,7,0,1,0,0,0,0,0,0,0
+132,2,388,2,29,Namibia,Stephan Baard,Trent Boult,,2,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,1.2,2,1,1,153791,-149.03,7.96,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,1,8,0,0,0,0,0,0,0,0,0
+133,3,388,2,29,Namibia,Stephan Baard,Trent Boult,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,153792,-78.12,39.73,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,1,8,0,0,0,0,0,0,0,0,0
+134,4,388,2,29,Namibia,Stephan Baard,Trent Boult,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,153793,-78.12,39.73,0,0,,,Knuckleball,105,LEFT ALONE,0,0,4,1,8,0,0,0,0,0,0,0,0,0
+135,5,388,2,29,Namibia,Stephan Baard,Trent Boult,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,153794,147.03,-8.62,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,1,9,0,0,0,0,0,0,0,0,0
+136,6,388,2,29,Namibia,Michael van Lingen,Trent Boult,,2,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,153795,-113.11,-75.84,2,0,,,Knuckleball,40,FLICK,0,0,6,1,11,0,0,0,0,0,0,0,0,0
+137,7,388,2,29,Namibia,Michael van Lingen,Trent Boult,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,153796,50.80,-33.02,0,0,,,Knuckleball,58,PULL SHOT,0,0,7,1,11,0,0,0,0,0,0,0,0,0
+138,1,388,2,29,Namibia,Stephan Baard,Adam Milne,,3,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,153797,34.69,188.91,2,0,,,Knuckleball,47,ON DRIVE,0,0,1,2,13,0,1,0,0,0,0,0,0,0
+139,2,388,2,29,Namibia,Stephan Baard,Adam Milne,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,153798,-51.41,-40.39,1,0,,,Knuckleball,44,GLIDE,0,0,2,2,14,0,0,0,0,0,0,0,0,0
+140,3,388,2,29,Namibia,Michael van Lingen,Adam Milne,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,153799,90.40,14.40,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,2,14,0,0,0,0,0,0,0,0,0
+141,4,388,2,29,Namibia,Michael van Lingen,Adam Milne,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,153800,67.84,-33.94,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,2,14,0,0,0,0,0,0,0,0,0
+142,5,388,2,29,Namibia,Michael van Lingen,Adam Milne,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,153801,-143.50,85.77,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,2,15,0,0,0,0,0,0,0,0,0
+143,6,388,2,29,Namibia,Stephan Baard,Adam Milne,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,153802,-23.79,57.22,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,2,15,0,0,0,0,0,0,0,0,0
+144,1,388,2,29,Namibia,Michael van Lingen,Tim Southee,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,153803,114.34,82.09,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,3,16,0,1,0,0,0,0,0,0,0
+145,2,388,2,29,Namibia,Stephan Baard,Tim Southee,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,153804,114.34,82.09,0,0,,,Knuckleball,58,PULL SHOT,0,0,2,3,16,0,0,0,0,0,0,0,0,0
+146,3,388,2,29,Namibia,Stephan Baard,Tim Southee,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,153805,147.95,-20.59,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,3,17,0,0,0,0,0,0,0,0,0
+147,4,388,2,29,Namibia,Michael van Lingen,Tim Southee,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,153806,-14.12,-60.65,0,0,,,Knuckleball,58,PULL SHOT,0,0,4,3,17,0,0,0,0,0,0,0,0,0
+148,5,388,2,29,Namibia,Michael van Lingen,Tim Southee,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,153807,-14.12,-60.65,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,3,17,0,0,0,0,0,0,0,0,0
+149,6,388,2,29,Namibia,Michael van Lingen,Tim Southee,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,153808,107.90,32.82,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,3,17,0,0,0,0,0,0,0,0,0
+150,1,388,2,29,Namibia,Stephan Baard,Trent Boult,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,153809,-26.55,135.50,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,4,18,0,1,0,0,0,0,0,0,0
+151,2,388,2,29,Namibia,Michael van Lingen,Trent Boult,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,153810,77.97,-0.33,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,2,4,18,0,0,0,0,0,0,0,0,0
+152,3,388,2,29,Namibia,Michael van Lingen,Trent Boult,,5,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,153811,-75.82,-50.52,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,4,19,0,0,0,0,0,0,0,0,0
+153,4,388,2,29,Namibia,Stephan Baard,Trent Boult,,5,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.4,2,1,0,153812,164.07,137.80,4,0,,,Knuckleball,11,LOFT ON,0,0,4,4,23,0,0,0,0,0,0,0,0,0
+154,5,388,2,29,Namibia,Stephan Baard,Trent Boult,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,153813,164.07,137.80,0,0,,,Knuckleball,105,LEFT ALONE,0,0,5,4,23,0,0,0,0,0,0,0,0,0
+155,6,388,2,29,Namibia,Stephan Baard,Trent Boult,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,153814,149.33,76.10,1,0,,,Knuckleball,40,FLICK,0,0,6,4,24,0,0,0,0,0,0,0,0,0
+156,1,388,2,29,Namibia,Stephan Baard,Adam Milne,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,153815,-78.12,13.02,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,5,24,0,1,0,0,0,0,0,0,0
+157,2,388,2,29,Namibia,Stephan Baard,Adam Milne,,6,2,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,5.2,2,1,1,153816,-78.12,13.02,1,0,,,Knuckleball,37,SD FLICK,0,0,2,5,25,0,0,0,0,0,0,0,0,0
+158,3,388,2,29,Namibia,Michael van Lingen,Adam Milne,,6,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.3,2,1,0,153817,60.47,199.04,4,0,,,Knuckleball,5,LOFT OFF,0,0,3,5,29,0,0,0,0,0,0,0,0,0
+159,4,388,2,29,Namibia,Michael van Lingen,Adam Milne,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,153818,80.27,43.41,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,5,29,0,0,0,0,0,0,0,0,0
+160,5,388,2,29,Namibia,Michael van Lingen,Adam Milne,,6,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,5.5,2,1,0,153819,-13.20,218.83,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,5,5,35,0,0,0,0,0,0,0,0,0
+161,6,388,2,29,Namibia,Michael van Lingen,Adam Milne,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,153820,-126.00,-57.88,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,5,36,0,0,0,0,0,0,0,0,0
+162,1,388,2,29,Namibia,Michael van Lingen,Mitchell Santner,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,153821,-19.64,-17.37,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,6,36,0,1,0,0,0,0,0,0,0
+163,2,388,2,29,Namibia,Michael van Lingen,Mitchell Santner,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,153822,109.28,134.12,1,0,,,Knuckleball,21,SD OFF,0,0,2,6,37,0,0,0,0,0,0,0,0,0
+164,3,388,2,29,Namibia,Stephan Baard,Mitchell Santner,,7,3,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,153823,58.63,-109.45,3,0,,,Knuckleball,22,PADDLE SWEEP,0,0,3,6,40,0,0,0,0,0,0,0,0,0
+165,4,388,2,29,Namibia,Michael van Lingen,Mitchell Santner,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,153824,42.05,65.51,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,6,40,0,0,0,0,0,0,0,0,0
+166,5,388,2,29,Namibia,Michael van Lingen,Mitchell Santner,,7,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.5,2,1,0,153825,-34.84,-151.35,4,0,,,Knuckleball,74,SD ON,0,0,5,6,44,0,0,0,0,0,0,0,0,0
+167,6,388,2,29,Namibia,Michael van Lingen,Mitchell Santner,,7,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,6.6,2,1,1,153826,-42.21,-36.71,1,0,,,Knuckleball,40,FLICK,0,0,6,6,45,0,0,0,0,0,0,0,0,0
+168,1,388,2,29,Namibia,Michael van Lingen,James Neesham,,8,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,153827,112.04,-71.70,2,0,,,Knuckleball,59,SQUARE DRIVE,0,0,1,7,47,0,1,0,0,0,0,0,0,0
+169,2,388,2,29,Namibia,Michael van Lingen,James Neesham,,8,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,7.2,2,1,0,153828,112.04,-71.70,0,0,,,Knuckleball,58,PULL SHOT,0,0,2,7,47,1,2,0,0,0,0,0,0,0
+170,3,388,2,29,Namibia,Gerhard Erasmus,James Neesham,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,153829,108.36,-72.16,1,0,,,Knuckleball,40,FLICK,0,0,3,7,48,1,3,0,0,0,0,0,0,0
+171,4,388,2,29,Namibia,Stephan Baard,James Neesham,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,153830,116.18,30.98,1,0,,,Knuckleball,40,FLICK,0,0,4,7,49,1,0,0,0,0,0,0,0,0
+172,5,388,2,29,Namibia,Gerhard Erasmus,James Neesham,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,153831,-28.85,-119.12,1,0,,,Knuckleball,35,LATE CUT,0,0,5,7,50,1,0,1,1,0,1,0,0,0
+173,6,388,2,29,Namibia,Stephan Baard,James Neesham,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,153832,106.51,-75.38,1,0,,,Knuckleball,40,FLICK,0,0,6,7,51,1,0,0,1,0,0,0,0,0
+174,1,388,2,29,Namibia,Stephan Baard,Mitchell Santner,,9,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,8.1,2,1,0,153833,106.51,-75.38,0,0,,,Knuckleball,40,FLICK,0,0,1,8,51,2,1,0,1,0,0,0,0,0
+175,2,388,2,29,Namibia,Zane Green,Mitchell Santner,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,153834,140.59,-1.25,0,0,,,Knuckleball,40,FLICK,0,0,2,8,51,2,2,0,1,0,0,0,0,0
+176,3,388,2,29,Namibia,Zane Green,Mitchell Santner,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,153835,140.59,-1.25,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,8,52,2,0,0,1,0,0,0,0,0
+177,4,388,2,29,Namibia,Gerhard Erasmus,Mitchell Santner,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,153836,74.74,105.11,1,0,,,Knuckleball,47,ON DRIVE,0,0,4,8,53,2,0,0,1,0,0,0,0,0
+178,5,388,2,29,Namibia,Zane Green,Mitchell Santner,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,153837,22.26,65.97,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,8,53,2,0,0,1,0,0,0,0,0
+179,6,388,2,29,Namibia,Zane Green,Mitchell Santner,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,153838,149.33,82.55,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,8,54,2,0,0,1,0,0,0,0,0
+180,1,388,2,29,Namibia,Zane Green,Ish Sodhi,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,153839,-112.19,94.98,1,0,,,Knuckleball,40,FLICK,0,0,1,9,55,2,1,0,1,0,0,0,0,0
+181,2,388,2,29,Namibia,Gerhard Erasmus,Ish Sodhi,,10,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,9.2,2,1,0,153840,-112.19,94.98,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,9,55,3,2,0,1,0,0,0,0,0
+182,3,388,2,29,Namibia,David Wiese,Ish Sodhi,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,153841,-46.35,57.68,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,9,55,3,3,0,1,0,0,0,0,0
+183,4,388,2,29,Namibia,David Wiese,Ish Sodhi,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,153842,36.53,8.42,0,0,,,Knuckleball,40,FLICK,0,0,4,9,55,3,0,0,1,0,0,0,0,0
+184,5,388,2,29,Namibia,David Wiese,Ish Sodhi,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,153843,-101.60,57.68,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,9,55,3,0,0,1,0,0,0,0,0
+185,6,388,2,29,Namibia,David Wiese,Ish Sodhi,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,153844,124.93,-60.65,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,9,56,3,0,0,1,0,0,0,0,0
+186,1,388,2,29,Namibia,David Wiese,Mitchell Santner,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,153845,-134.75,97.74,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,10,57,3,1,0,1,0,0,0,0,0
+187,2,388,2,29,Namibia,Zane Green,Mitchell Santner,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,153846,87.18,12.10,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,10,58,3,0,0,1,0,0,0,0,0
+188,3,388,2,29,Namibia,David Wiese,Mitchell Santner,,11,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.3,2,1,0,153847,-23.79,-147.67,4,0,,,Knuckleball,5,LOFT OFF,0,0,3,10,62,3,0,0,1,0,0,0,0,0
+189,4,388,2,29,Namibia,David Wiese,Mitchell Santner,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,153848,-58.78,30.98,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,10,62,3,0,0,1,0,0,0,0,0
+190,5,388,2,29,Namibia,David Wiese,Mitchell Santner,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,153849,-67.07,-32.56,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,10,62,3,0,0,1,0,0,0,0,0
+191,6,388,2,29,Namibia,David Wiese,Mitchell Santner,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,153850,-143.04,-7.24,1,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,6,10,63,3,0,0,1,0,0,0,0,0
+192,1,388,2,29,Namibia,David Wiese,Ish Sodhi,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,153851,-16.88,68.73,0,0,,,Knuckleball,1,SD STRAIGHT,0,0,1,11,63,3,1,0,1,0,0,0,0,0
+193,2,388,2,29,Namibia,David Wiese,Ish Sodhi,,12,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,11.2,2,1,1,153852,-16.88,68.73,1,0,,,Knuckleball,40,FLICK,0,0,2,11,64,3,0,0,1,0,0,0,0,0
+194,3,388,2,29,Namibia,David Wiese,Ish Sodhi,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,153853,-149.95,-4.94,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,11,65,3,0,0,1,0,0,0,0,0
+195,4,388,2,29,Namibia,Zane Green,Ish Sodhi,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,153854,-78.58,59.53,0,0,,,Knuckleball,40,FLICK,0,0,4,11,65,3,0,0,1,0,0,0,0,0
+196,5,388,2,29,Namibia,Zane Green,Ish Sodhi,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,153855,74.28,-18.75,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,11,65,3,0,0,1,0,0,0,0,0
+197,6,388,2,29,Namibia,Zane Green,Ish Sodhi,,12,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,153856,155.32,63.21,2,0,,,Knuckleball,36,CUT SHOT,0,0,6,11,67,3,0,0,1,0,0,0,0,0
+198,7,388,2,29,Namibia,Zane Green,Ish Sodhi,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,153857,78.89,163.58,1,0,,,Knuckleball,84,OFF DRIVE,0,0,7,11,68,3,0,0,1,0,0,0,0,0
+199,1,388,2,29,Namibia,Zane Green,Mitchell Santner,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,153858,10.28,72.42,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,12,68,3,1,0,1,0,0,0,0,0
+200,2,388,2,29,Namibia,Zane Green,Mitchell Santner,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,153859,-47.27,83.47,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,12,69,3,0,0,1,0,0,0,0,0
+201,3,388,2,29,Namibia,David Wiese,Mitchell Santner,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,153860,-150.87,50.78,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,12,70,3,0,0,1,0,0,0,0,0
+202,4,388,2,29,Namibia,Zane Green,Mitchell Santner,,13,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,153861,-80.42,46.63,0,0,,,Knuckleball,47,ON DRIVE,0,0,4,12,70,3,0,0,1,0,0,0,0,0
+203,5,388,2,29,Namibia,Zane Green,Mitchell Santner,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,153862,47.12,62.29,0,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,5,12,70,3,0,0,1,0,0,0,0,0
+204,6,388,2,29,Namibia,Zane Green,Mitchell Santner,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,153863,-65.23,54.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,12,70,3,0,0,1,0,0,0,0,0
+205,1,388,2,29,Namibia,David Wiese,Ish Sodhi,,14,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,13.1,2,1,1,153864,-65.23,54.00,1,0,,,Knuckleball,105,LEFT ALONE,0,0,1,13,71,3,1,0,1,0,0,0,0,0
+206,2,388,2,29,Namibia,David Wiese,Ish Sodhi,,14,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,13.1,2,1,0,153865,-35.76,205.94,6,0,,,Knuckleball,122,SDL OFF,0,0,2,13,77,3,0,0,1,0,0,0,0,0
+207,3,388,2,29,Namibia,David Wiese,Ish Sodhi,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,153866,-23.79,69.19,0,0,,,Knuckleball,40,FLICK,0,0,3,13,77,3,0,0,1,0,0,0,0,0
+208,4,388,2,29,Namibia,David Wiese,Ish Sodhi,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,153867,-11.82,62.29,0,0,,,Knuckleball,21,SD OFF,0,0,4,13,77,3,0,0,1,0,0,0,0,0
+209,5,388,2,29,Namibia,David Wiese,Ish Sodhi,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,153868,133.68,105.57,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,13,78,3,0,0,1,0,0,0,0,0
+210,6,388,2,29,Namibia,Zane Green,Ish Sodhi,,14,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,13.5,2,1,0,153869,-191.85,77.94,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,6,13,84,3,0,0,1,0,0,0,0,0
+211,7,388,2,29,Namibia,Zane Green,Ish Sodhi,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,153870,-56.94,170.03,1,0,,,Knuckleball,58,PULL SHOT,0,0,7,13,85,3,0,0,1,0,0,0,0,0
+212,1,388,2,29,Namibia,Zane Green,Tim Southee,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,153871,-56.94,170.03,0,0,,,Knuckleball,58,PULL SHOT,0,0,1,14,85,3,1,0,1,0,0,0,0,0
+213,2,388,2,29,Namibia,Zane Green,Tim Southee,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,153872,98.69,-92.88,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,2,14,86,3,0,0,1,0,0,0,0,0
+214,3,388,2,29,Namibia,David Wiese,Tim Southee,,15,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,14.3,2,1,0,153873,84.41,11.18,0,0,,,Knuckleball,40,FLICK,0,0,3,14,86,4,1,0,1,0,0,0,0,0
+215,4,388,2,29,Namibia,JJ Smit,Tim Southee,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,153874,84.41,11.18,0,0,,,Knuckleball,40,FLICK,0,0,4,14,86,4,2,0,1,0,0,0,0,0
+216,5,388,2,29,Namibia,JJ Smit,Tim Southee,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,153875,-20.10,20.85,0,0,,,Knuckleball,58,PULL SHOT,0,0,5,14,86,4,0,0,1,0,0,0,0,0
+217,6,388,2,29,Namibia,JJ Smit,Tim Southee,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,153876,-71.67,49.40,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,14,86,4,0,0,1,0,0,0,0,0
+218,1,388,2,29,Namibia,Zane Green,Adam Milne,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,153877,104.67,-72.16,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,1,15,87,4,1,0,1,0,0,0,0,0
+219,2,388,2,29,Namibia,JJ Smit,Adam Milne,,16,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,153878,104.67,-72.16,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,15,87,4,0,0,1,0,0,0,0,0
+220,3,388,2,29,Namibia,JJ Smit,Adam Milne,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,153879,-80.42,-24.27,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,15,87,4,0,0,1,0,0,0,0,0
+221,4,388,2,29,Namibia,JJ Smit,Adam Milne,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,153880,-60.16,-31.18,0,0,,,Knuckleball,31,UPPER CUT,0,0,4,15,87,4,0,0,1,0,0,0,0,0
+222,5,388,2,29,Namibia,JJ Smit,Adam Milne,,16,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.5,2,1,0,153881,-192.31,111.09,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,15,91,4,0,0,1,0,0,0,0,0
+223,6,388,2,29,Namibia,JJ Smit,Adam Milne,,16,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,15.6,2,1,1,153882,72.90,11.18,1,0,,,Knuckleball,40,FLICK,0,0,6,15,92,4,0,0,1,0,0,0,0,0
+224,1,388,2,29,Namibia,JJ Smit,Trent Boult,,17,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,153883,-148.10,-10.00,2,0,,,Knuckleball,36,CUT SHOT,0,0,1,16,94,4,1,0,1,0,0,0,0,0
+225,2,388,2,29,Namibia,JJ Smit,Trent Boult,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,153884,-141.20,-29.34,1,0,,,Knuckleball,96,Slice,0,0,2,16,95,4,0,0,1,0,0,0,0,0
+226,3,388,2,29,Namibia,Zane Green,Trent Boult,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,153885,-141.20,-29.34,0,0,,,Knuckleball,99,SCOOP,0,0,3,16,95,4,0,0,1,0,0,0,0,0
+227,4,388,2,29,Namibia,Zane Green,Trent Boult,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,153886,-141.20,-29.34,0,0,,,Knuckleball,58,PULL SHOT,0,0,4,16,95,4,0,0,1,0,0,0,0,0
+228,5,388,2,29,Namibia,Zane Green,Trent Boult,,17,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,153887,-141.20,-29.34,0,0,,,Knuckleball,21,SD OFF,0,0,5,16,95,4,0,0,1,0,0,0,0,0
+229,6,388,2,29,Namibia,Zane Green,Trent Boult,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,153888,-143.96,10.72,1,0,,,Knuckleball,40,FLICK,0,0,6,16,96,4,0,0,1,0,0,0,0,0
+230,1,388,2,29,Namibia,Zane Green,Tim Southee,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,153889,-153.63,47.09,1,0,,,Knuckleball,58,PULL SHOT,0,0,1,17,97,4,1,0,1,0,0,0,0,0
+231,2,388,2,29,Namibia,JJ Smit,Tim Southee,,18,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,153890,-153.63,47.09,0,0,,,Knuckleball,58,PULL SHOT,0,0,2,17,97,4,0,0,1,0,0,0,0,0
+232,3,388,2,29,Namibia,JJ Smit,Tim Southee,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,153891,-161.92,34.66,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,17,98,4,0,0,1,0,0,0,0,0
+233,4,388,2,29,Namibia,Zane Green,Tim Southee,,18,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.4,2,1,0,153892,-40.36,210.09,4,0,,,Knuckleball,58,PULL SHOT,0,0,4,17,102,4,0,1,2,0,0,1,0,0
+234,5,388,2,29,Namibia,Zane Green,Tim Southee,,18,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,17.5,2,1,0,153893,-40.36,210.09,0,0,,,Knuckleball,58,PULL SHOT,0,0,5,17,102,5,1,0,2,0,0,0,0,0
+235,6,388,2,29,Namibia,JJ Smit,Tim Southee,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,153894,-40.36,210.09,0,0,,,Knuckleball,5,LOFT OFF,0,0,6,17,102,5,2,0,2,0,0,0,0,0
+236,1,388,2,29,Namibia,Jan Nicol Loftie,Trent Boult,,19,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,18.1,2,1,1,153895,-40.36,210.09,1,0,,,Knuckleball,54,LEG GLANCE,0,0,1,18,103,5,3,0,2,0,0,0,0,0
+237,2,388,2,29,Namibia,Jan Nicol Loftie,Trent Boult,,19,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,153896,-27.93,65.05,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,18,103,5,0,0,2,0,0,0,0,0
+238,3,388,2,29,Namibia,Jan Nicol Loftie,Trent Boult,,19,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.2,2,1,0,153897,-27.93,65.05,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,18,103,6,1,0,2,0,0,0,0,0
+239,4,388,2,29,Namibia,JJ Smit,Trent Boult,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,153898,-60.62,170.95,1,0,,,Knuckleball,5,LOFT OFF,0,0,4,18,104,6,2,0,2,0,0,0,0,0
+240,5,388,2,29,Namibia,Craig Williams,Trent Boult,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,153899,-60.62,170.95,0,0,,,Knuckleball,96,Slice,0,0,5,18,104,6,0,0,2,0,0,0,0,0
+241,6,388,2,29,Namibia,Craig Williams,Trent Boult,,19,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,18.5,2,1,1,153900,-60.62,170.95,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,18,105,6,0,0,2,0,0,0,0,0
+242,7,388,2,29,Namibia,Craig Williams,Trent Boult,,19,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.5,2,1,0,153901,-60.62,170.95,0,0,,,Knuckleball,11,LOFT ON,0,0,7,18,105,7,1,0,2,0,0,0,0,0
+243,8,388,2,29,Namibia,Ruben Trumpelmann,Trent Boult,,19,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.6,2,1,0,153902,-79.50,-42.23,1,0,,,Knuckleball,96,Slice,0,0,8,18,106,7,2,0,2,0,0,0,0,0
+244,1,388,2,29,Namibia,Ruben Trumpelmann,Adam Milne,,20,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.1,2,1,0,153903,-79.50,-42.23,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,19,106,7,3,0,2,0,0,0,0,0
+245,2,388,2,29,Namibia,Ruben Trumpelmann,Adam Milne,,20,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.2,2,1,0,153904,-27.93,224.82,4,0,,,Knuckleball,5,LOFT OFF,0,0,2,19,110,7,0,0,2,0,0,0,0,0
+246,3,388,2,29,Namibia,Ruben Trumpelmann,Adam Milne,,20,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.3,2,1,0,153905,66.46,171.41,1,0,,,Knuckleball,11,LOFT ON,0,0,3,19,111,7,0,0,2,0,0,0,0,0
+247,4,388,2,29,Namibia,JJ Smit,Adam Milne,,20,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.4,2,1,0,153906,66.46,171.41,0,0,,,Knuckleball,58,PULL SHOT,0,0,4,19,111,7,0,0,2,0,0,0,0,0
+248,5,388,2,29,Namibia,JJ Smit,Adam Milne,,20,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.5,2,1,0,153907,-67.53,-42.23,0,0,,,Knuckleball,96,Slice,0,0,5,19,111,7,0,0,2,0,0,0,0,0
+249,6,388,2,29,Namibia,JJ Smit,Adam Milne,,20,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.6,2,1,0,153908,-67.53,-42.23,0,0,,,Knuckleball,58,PULL SHOT,0,0,6,19,111,7,0,0,2,0,0,0,0,0

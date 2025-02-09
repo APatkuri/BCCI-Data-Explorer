@@ -1,0 +1,241 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,381,1,3,England,Jason Roy,Dushmantha Chameera,,1,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,152084,120.33,-63.87,2,0,,,Knuckleball,40,FLICK,0,0,1,0,2,0,1,0,0,0,0,0,0,0
+1,2,381,1,3,England,Jason Roy,Dushmantha Chameera,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,152085,-51.87,101.42,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,0,2,0,0,0,0,0,0,0,0,0
+2,3,381,1,3,England,Jason Roy,Dushmantha Chameera,,1,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.3,1,1,0,152086,-166.98,136.42,4,0,,,Knuckleball,89,SD COVER,0,0,3,0,6,0,0,0,0,0,0,0,0,0
+3,4,381,1,3,England,Jason Roy,Dushmantha Chameera,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,152087,125.85,-55.58,1,0,,,Knuckleball,40,FLICK,0,0,4,0,7,0,0,0,0,0,0,0,0,0
+4,5,381,1,3,England,Jos Buttler,Dushmantha Chameera,,1,5,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,152088,-145.80,83.93,3,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,0,10,0,0,0,0,0,0,0,0,0
+5,6,381,1,3,England,Jason Roy,Dushmantha Chameera,,1,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,152089,-101.14,-87.35,2,0,,,Knuckleball,44,GLIDE,0,0,6,0,12,0,0,0,0,0,0,0,0,0
+6,1,381,1,3,England,Jos Buttler,Wanindu Hasaranga,,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,152090,77.51,-33.94,1,0,,,Knuckleball,37,SD FLICK,0,0,1,1,13,0,1,0,0,0,0,0,0,0
+7,2,381,1,3,England,Jason Roy,Wanindu Hasaranga,,2,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,1.2,1,1,0,152091,77.51,-33.94,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,2,1,13,1,2,0,0,0,0,0,0,0
+8,3,381,1,3,England,Dawid Malan,Wanindu Hasaranga,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,152092,88.10,33.28,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,1,13,1,3,0,0,0,0,0,0,0
+9,4,381,1,3,England,Dawid Malan,Wanindu Hasaranga,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,152093,89.94,-31.64,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,1,14,1,0,0,0,0,0,0,0,0
+10,5,381,1,3,England,Jos Buttler,Wanindu Hasaranga,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,152094,-67.99,-6.78,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,1,14,1,0,0,0,0,0,0,0,0
+11,6,381,1,3,England,Jos Buttler,Wanindu Hasaranga,,2,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,152095,92.70,50.32,1,0,,,Knuckleball,37,SD FLICK,0,0,6,1,15,1,0,0,0,0,0,0,0,0
+12,1,381,1,3,England,Jos Buttler,Lahiru Kumara,,3,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.1,1,1,0,152096,-180.79,-51.44,4,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,1,2,19,1,1,0,0,0,0,0,0,0
+13,2,381,1,3,England,Jos Buttler,Lahiru Kumara,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,152097,42.97,111.55,0,0,,,Knuckleball,47,ON DRIVE,0,0,2,2,19,1,0,0,0,0,0,0,0,0
+14,3,381,1,3,England,Jos Buttler,Lahiru Kumara,,3,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.3,1,1,0,152098,48.96,-151.35,4,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,3,2,23,1,0,0,0,0,0,0,0,0
+15,4,381,1,3,England,Jos Buttler,Lahiru Kumara,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,152099,-50.49,108.79,0,0,,,Knuckleball,84,OFF DRIVE,0,0,4,2,23,1,0,0,0,0,0,0,0,0
+16,5,381,1,3,England,Jos Buttler,Lahiru Kumara,,3,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,152100,-96.54,-79.99,2,0,,,Knuckleball,44,GLIDE,0,0,5,2,25,1,0,0,0,0,0,0,0,0
+17,6,381,1,3,England,Jos Buttler,Lahiru Kumara,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,152101,-80.42,56.76,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,2,25,1,0,0,0,0,0,0,0,0
+18,1,381,1,3,England,Dawid Malan,Maheesh Theekshana,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,152102,-93.31,83.47,1,0,,,Knuckleball,40,FLICK,0,0,1,3,26,1,1,0,0,0,0,0,0,0
+19,2,381,1,3,England,Jos Buttler,Maheesh Theekshana,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,152103,-68.91,60.91,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,3,26,1,0,0,0,0,0,0,0,0
+20,3,381,1,3,England,Jos Buttler,Maheesh Theekshana,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,152104,-97.46,10.72,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,3,26,1,0,0,0,0,0,0,0,0
+21,4,381,1,3,England,Jos Buttler,Maheesh Theekshana,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,152105,-78.12,48.94,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,3,26,1,0,0,0,0,0,0,0,0
+22,5,381,1,3,England,Jos Buttler,Maheesh Theekshana,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,152106,95.46,29.60,1,0,,,Knuckleball,37,SD FLICK,0,0,5,3,27,1,0,0,0,0,0,0,0,0
+23,6,381,1,3,England,Dawid Malan,Maheesh Theekshana,,4,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,3.6,1,1,1,152107,95.46,29.60,1,0,,,Knuckleball,54,LEG GLANCE,0,0,6,3,28,1,0,0,0,0,0,0,0,0
+24,7,381,1,3,England,Dawid Malan,Maheesh Theekshana,,4,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,3.6,1,1,1,152108,95.46,29.60,1,0,,,Knuckleball,54,LEG GLANCE,0,0,7,3,29,1,0,0,0,0,0,0,0,0
+25,8,381,1,3,England,Dawid Malan,Maheesh Theekshana,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,152109,-74.90,-10.92,0,0,,,Knuckleball,40,FLICK,0,0,8,3,29,1,0,0,0,0,0,0,0,0
+26,1,381,1,3,England,Jos Buttler,Dushmantha Chameera,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,152110,-74.90,-10.92,0,0,,,Knuckleball,99,SCOOP,0,0,1,4,29,1,1,0,0,0,0,0,0,0
+27,2,381,1,3,England,Jos Buttler,Dushmantha Chameera,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,152111,-18.26,-64.79,1,0,,,Knuckleball,99,SCOOP,0,0,2,4,30,1,0,0,0,0,0,0,0,0
+28,3,381,1,3,England,Dawid Malan,Dushmantha Chameera,,5,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.3,1,1,0,152112,-190.00,67.81,4,0,,,Knuckleball,40,FLICK,0,0,3,4,34,1,0,0,0,0,0,0,0,0
+29,4,381,1,3,England,Dawid Malan,Dushmantha Chameera,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,152113,71.98,48.47,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,4,34,1,0,0,0,0,0,0,0,0
+30,5,381,1,3,England,Dawid Malan,Dushmantha Chameera,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,152114,-6.29,-27.96,0,0,,,Knuckleball,58,PULL SHOT,0,0,5,4,34,1,0,0,0,0,0,0,0,0
+31,6,381,1,3,England,Dawid Malan,Dushmantha Chameera,,5,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,4.6,1,1,0,152115,-6.29,-27.96,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,4,34,2,1,0,0,0,0,0,0,0
+32,1,381,1,3,England,Jos Buttler,Wanindu Hasaranga,,6,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,152116,95.92,51.24,1,0,,,Knuckleball,37,SD FLICK,0,0,1,5,35,2,2,0,0,0,0,0,0,0
+33,2,381,1,3,England,Jonny Bairstow,Wanindu Hasaranga,,6,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,5.2,1,1,0,152117,49.88,18.09,0,0,,,Knuckleball,37,SD FLICK,0,0,2,5,35,3,3,0,0,0,0,0,0,0
+34,3,381,1,3,England,Eoin Morgan,Wanindu Hasaranga,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,152118,54.49,45.71,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,5,35,3,4,0,0,0,0,0,0,0
+35,4,381,1,3,England,Eoin Morgan,Wanindu Hasaranga,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,1,1,0,152119,-89.63,162.20,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,5,36,3,0,0,0,0,0,0,0,0
+36,5,381,1,3,England,Jos Buttler,Wanindu Hasaranga,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,152120,-62.92,50.78,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,5,36,3,0,0,0,0,0,0,0,0
+37,6,381,1,3,England,Jos Buttler,Wanindu Hasaranga,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,152121,-67.07,59.99,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,5,36,3,0,0,0,0,0,0,0,0
+38,1,381,1,3,England,Eoin Morgan,Lahiru Kumara,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,152122,-82.72,41.11,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,6,36,3,1,0,0,0,0,0,0,0
+39,2,381,1,3,England,Eoin Morgan,Lahiru Kumara,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,152123,6.60,66.43,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,6,36,3,0,0,0,0,0,0,0,0
+40,3,381,1,3,England,Eoin Morgan,Lahiru Kumara,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,152124,6.60,66.43,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,6,36,3,0,0,0,0,0,0,0,0
+41,4,381,1,3,England,Eoin Morgan,Lahiru Kumara,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,152125,48.50,122.60,0,0,,,Knuckleball,84,OFF DRIVE,0,0,4,6,36,3,0,0,0,0,0,0,0,0
+42,5,381,1,3,England,Eoin Morgan,Lahiru Kumara,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,152126,-93.31,161.74,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,6,37,3,0,0,0,0,0,0,0,0
+43,6,381,1,3,England,Jos Buttler,Lahiru Kumara,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,152127,-61.08,68.27,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,6,37,3,0,0,0,0,0,0,0,0
+44,1,381,1,3,England,Eoin Morgan,Maheesh Theekshana,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,152128,-74.44,162.66,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,7,38,3,1,0,0,0,0,0,0,0
+45,2,381,1,3,England,Jos Buttler,Maheesh Theekshana,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,152129,64.15,153.45,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,7,39,3,0,0,0,0,0,0,0,0
+46,3,381,1,3,England,Eoin Morgan,Maheesh Theekshana,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,152130,-84.56,8.42,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,7,39,3,0,0,0,0,0,0,0,0
+47,4,381,1,3,England,Eoin Morgan,Maheesh Theekshana,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,152131,-84.56,8.42,1,0,,,Knuckleball,40,FLICK,0,0,4,7,40,3,0,0,0,0,0,0,0,0
+48,5,381,1,3,England,Jos Buttler,Maheesh Theekshana,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,152132,-17.80,66.43,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,7,40,3,0,0,0,0,0,0,0,0
+49,6,381,1,3,England,Jos Buttler,Maheesh Theekshana,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,152133,127.69,93.60,1,0,,,Knuckleball,40,FLICK,0,0,6,7,41,3,0,0,0,0,0,0,0,0
+50,1,381,1,3,England,Jos Buttler,Chamika Karunaratne,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,152134,-99.30,43.41,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,8,41,3,1,0,0,0,0,0,0,0
+51,2,381,1,3,England,Jos Buttler,Chamika Karunaratne,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,152135,140.59,13.02,1,0,,,Knuckleball,40,FLICK,0,0,2,8,42,3,0,0,0,0,0,0,0,0
+52,3,381,1,3,England,Eoin Morgan,Chamika Karunaratne,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,152136,138.28,-27.04,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,8,43,3,0,0,0,0,0,0,0,0
+53,4,381,1,3,England,Jos Buttler,Chamika Karunaratne,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,152137,-31.62,-39.93,0,0,,,Knuckleball,40,FLICK,0,0,4,8,43,3,0,0,0,0,0,0,0,0
+54,5,381,1,3,England,Jos Buttler,Chamika Karunaratne,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,152138,98.69,77.48,1,0,,,Knuckleball,40,FLICK,0,0,5,8,44,3,0,0,0,0,0,0,0,0
+55,6,381,1,3,England,Eoin Morgan,Chamika Karunaratne,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,152139,-12.28,57.68,0,0,,,Knuckleball,40,FLICK,0,0,6,8,44,3,0,0,0,0,0,0,0,0
+56,1,381,1,3,England,Jos Buttler,Maheesh Theekshana,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,152140,-67.53,48.47,0,0,,,Knuckleball,21,SD OFF,0,0,1,9,44,3,1,0,0,0,0,0,0,0
+57,2,381,1,3,England,Jos Buttler,Maheesh Theekshana,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,152141,113.42,128.13,1,0,,,Knuckleball,74,SD ON,0,0,2,9,45,3,0,0,0,0,0,0,0,0
+58,3,381,1,3,England,Eoin Morgan,Maheesh Theekshana,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,152142,71.52,56.76,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,9,45,3,0,0,0,0,0,0,0,0
+59,4,381,1,3,England,Eoin Morgan,Maheesh Theekshana,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,152143,72.44,52.16,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,9,45,3,0,0,0,0,0,0,0,0
+60,5,381,1,3,England,Eoin Morgan,Maheesh Theekshana,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,152144,-97.92,118.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,9,46,3,0,0,0,0,0,0,0,0
+61,6,381,1,3,England,Jos Buttler,Maheesh Theekshana,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,152145,-56.48,121.22,1,0,,,Knuckleball,21,SD OFF,0,0,6,9,47,3,0,0,0,0,0,0,0,0
+62,1,381,1,3,England,Jos Buttler,Lahiru Kumara,,11,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.1,1,1,0,152146,-157.77,142.40,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,10,51,3,1,1,1,0,1,0,0,0
+63,2,381,1,3,England,Jos Buttler,Lahiru Kumara,,11,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,152147,111.12,-71.70,2,0,,,Knuckleball,54,LEG GLANCE,0,0,2,10,53,3,0,0,1,0,0,0,0,0
+64,3,381,1,3,England,Jos Buttler,Lahiru Kumara,,11,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,10.3,1,1,1,152148,111.12,-71.70,1,0,,,Knuckleball,105,LEFT ALONE,0,0,3,10,54,3,0,0,1,0,0,0,0,0
+65,4,381,1,3,England,Jos Buttler,Lahiru Kumara,,11,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,152149,146.11,-20.59,2,0,,,Knuckleball,40,FLICK,0,0,4,10,56,3,0,0,1,0,0,0,0,0
+66,5,381,1,3,England,Jos Buttler,Lahiru Kumara,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,152150,134.14,93.14,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,10,57,3,0,0,1,0,0,0,0,0
+67,6,381,1,3,England,Eoin Morgan,Lahiru Kumara,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,152151,-13.66,134.58,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,10,58,3,0,0,1,0,0,0,0,0
+68,7,381,1,3,England,Jos Buttler,Lahiru Kumara,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,152152,147.49,57.68,1,0,,,Knuckleball,40,FLICK,0,0,7,10,59,3,0,0,1,0,0,0,0,0
+69,1,381,1,3,England,Jos Buttler,Maheesh Theekshana,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,152153,-69.83,61.83,0,0,,,Knuckleball,21,SD OFF,0,0,1,11,59,3,1,0,1,0,0,0,0,0
+70,2,381,1,3,England,Jos Buttler,Maheesh Theekshana,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,152154,16.73,-17.37,0,0,,,Knuckleball,58,PULL SHOT,0,0,2,11,59,3,0,0,1,0,0,0,0,0
+71,3,381,1,3,England,Jos Buttler,Maheesh Theekshana,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,152155,-75.82,169.57,1,0,,,Knuckleball,5,LOFT OFF,0,0,3,11,60,3,0,0,1,0,0,0,0,0
+72,4,381,1,3,England,Eoin Morgan,Maheesh Theekshana,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,152156,-14.12,7.50,0,0,,,Knuckleball,40,FLICK,0,0,4,11,60,3,0,0,1,0,0,0,0,0
+73,5,381,1,3,England,Eoin Morgan,Maheesh Theekshana,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,152157,-81.80,24.53,0,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,5,11,60,3,0,0,1,0,0,0,0,0
+74,6,381,1,3,England,Eoin Morgan,Maheesh Theekshana,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,152158,-32.08,180.16,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,6,11,61,3,0,0,1,0,0,0,0,0
+75,1,381,1,3,England,Eoin Morgan,Chamika Karunaratne,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,152159,-149.49,44.33,1,0,,,Knuckleball,40,FLICK,0,0,1,12,62,3,1,0,1,0,0,0,0,0
+76,2,381,1,3,England,Jos Buttler,Chamika Karunaratne,,13,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.2,1,1,0,152160,172.36,117.54,4,0,,,Knuckleball,58,PULL SHOT,0,0,2,12,66,3,0,0,1,0,0,0,0,0
+77,3,381,1,3,England,Jos Buttler,Chamika Karunaratne,,13,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,12.3,1,1,0,152161,166.37,138.26,6,0,,,Knuckleball,18,SLOG SHOT,0,0,3,12,72,3,0,0,1,0,0,0,0,0
+78,4,381,1,3,England,Jos Buttler,Chamika Karunaratne,,13,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,152162,-144.42,95.90,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,12,74,3,0,0,1,0,0,0,0,0
+79,5,381,1,3,England,Jos Buttler,Chamika Karunaratne,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,152163,-96.08,59.99,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,12,74,3,0,0,1,0,0,0,0,0
+80,6,381,1,3,England,Jos Buttler,Chamika Karunaratne,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,152164,-97.46,32.36,1,0,,,Knuckleball,96,Slice,0,0,6,12,75,3,0,0,1,0,0,0,0,0
+81,1,381,1,3,England,Jos Buttler,Wanindu Hasaranga,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,152165,-126.92,96.36,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,13,76,3,1,0,1,0,0,0,0,0
+82,2,381,1,3,England,Eoin Morgan,Wanindu Hasaranga,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,152166,68.76,170.03,1,0,,,Knuckleball,122,SDL OFF,0,0,2,13,77,3,0,0,1,0,0,0,0,0
+83,3,381,1,3,England,Jos Buttler,Wanindu Hasaranga,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,152167,29.16,-45.91,1,0,,,Knuckleball,40,FLICK,0,0,3,13,78,3,0,0,1,0,0,0,0,0
+84,4,381,1,3,England,Eoin Morgan,Wanindu Hasaranga,,14,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.4,1,1,0,152168,-135.67,-104.85,4,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,13,82,3,0,0,1,0,0,0,0,0
+85,5,381,1,3,England,Eoin Morgan,Wanindu Hasaranga,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,152169,-15.04,182.46,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,13,83,3,0,0,1,0,0,0,0,0
+86,6,381,1,3,England,Jos Buttler,Wanindu Hasaranga,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,152170,-30.23,46.63,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,13,83,3,0,0,1,0,0,0,0,0
+87,1,381,1,3,England,Eoin Morgan,Lahiru Kumara,,15,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,14.1,1,1,0,152171,170.97,130.43,6,0,,,Knuckleball,114,SDL COVER,0,0,1,14,89,3,1,0,1,0,0,0,0,0
+88,2,381,1,3,England,Eoin Morgan,Lahiru Kumara,,15,2,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,14.2,1,1,1,152172,27.78,-36.71,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,14,90,3,0,0,1,0,0,0,0,0
+89,3,381,1,3,England,Jos Buttler,Lahiru Kumara,,15,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,14.3,1,1,0,152173,-158.69,136.42,6,0,,,Knuckleball,15,LOFT COVER,0,0,3,14,96,3,0,0,1,0,0,0,0,0
+90,4,381,1,3,England,Jos Buttler,Lahiru Kumara,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,152174,82.11,157.60,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,14,97,3,0,0,1,0,0,0,0,0
+91,5,381,1,3,England,Eoin Morgan,Lahiru Kumara,,15,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,14.5,1,1,1,152175,82.11,157.60,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,14,98,3,0,0,1,0,0,0,0,0
+92,6,381,1,3,England,Eoin Morgan,Lahiru Kumara,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,152176,-41.28,-7.24,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,14,99,3,0,0,1,0,0,0,0,0
+93,7,381,1,3,England,Jos Buttler,Lahiru Kumara,,15,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,14.6,1,1,0,152177,-7.21,220.22,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,7,14,105,3,0,1,2,0,0,1,0,0
+94,1,381,1,3,England,Eoin Morgan,Dasun Shanaka,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,152178,-7.21,220.22,0,0,,,Knuckleball,74,SD ON,0,0,1,15,105,3,1,0,2,0,0,0,0,0
+95,2,381,1,3,England,Eoin Morgan,Dasun Shanaka,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,152179,126.77,136.42,1,0,,,Knuckleball,84,OFF DRIVE,0,0,2,15,106,3,0,0,2,0,0,0,0,0
+96,3,381,1,3,England,Jos Buttler,Dasun Shanaka,,16,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,152180,74.74,-108.07,2,0,,,Knuckleball,54,LEG GLANCE,0,0,3,15,108,3,0,0,2,0,0,0,0,0
+97,4,381,1,3,England,Jos Buttler,Dasun Shanaka,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,152181,-6.29,60.91,0,0,,,Knuckleball,58,PULL SHOT,0,0,4,15,108,3,0,0,2,0,0,0,0,0
+98,5,381,1,3,England,Jos Buttler,Dasun Shanaka,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,152182,137.82,9.80,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,15,109,3,0,0,2,0,0,0,0,0
+99,6,381,1,3,England,Eoin Morgan,Dasun Shanaka,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,152183,-120.48,142.86,1,0,,,Knuckleball,47,ON DRIVE,0,0,6,15,110,3,0,0,2,0,0,0,0,0
+100,1,381,1,3,England,Eoin Morgan,Dushmantha Chameera,,17,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,16.1,1,1,0,152184,-179.87,-31.64,6,0,,,Knuckleball,58,PULL SHOT,0,0,1,16,116,3,1,0,2,0,0,0,0,0
+101,2,381,1,3,England,Eoin Morgan,Dushmantha Chameera,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,152185,-119.10,129.51,1,0,,,Knuckleball,40,FLICK,0,0,2,16,117,3,0,0,2,0,0,0,0,0
+102,3,381,1,3,England,Jos Buttler,Dushmantha Chameera,,17,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,16.3,1,1,1,152186,-155.47,42.95,1,0,,,Knuckleball,105,LEFT ALONE,0,0,3,16,118,3,0,0,2,0,0,0,0,0
+103,4,381,1,3,England,Jos Buttler,Dushmantha Chameera,,17,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.3,1,1,0,152187,-119.10,129.51,2,0,,,Knuckleball,5,LOFT OFF,0,0,4,16,120,3,0,0,2,0,0,0,0,0
+104,5,381,1,3,England,Jos Buttler,Dushmantha Chameera,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,152188,-119.10,129.51,0,0,,,Knuckleball,96,Slice,0,0,5,16,120,3,0,0,2,0,0,0,0,0
+105,6,381,1,3,England,Jos Buttler,Dushmantha Chameera,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,152189,-148.10,68.27,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,16,121,3,0,0,2,0,0,0,0,0
+106,7,381,1,3,England,Eoin Morgan,Dushmantha Chameera,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,152190,97.31,48.94,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,7,16,122,3,0,0,2,0,0,0,0,0
+107,1,381,1,3,England,Eoin Morgan,Dasun Shanaka,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,152191,131.84,-4.94,1,0,,,Knuckleball,15,LOFT COVER,0,0,1,17,123,3,1,0,2,0,0,0,0,0
+108,2,381,1,3,England,Jos Buttler,Dasun Shanaka,,18,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.2,1,1,0,152192,188.47,77.94,6,0,,,Knuckleball,58,PULL SHOT,0,0,2,17,129,3,0,0,2,0,0,0,0,0
+109,3,381,1,3,England,Jos Buttler,Dasun Shanaka,,18,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.3,1,1,0,152193,88.10,206.86,6,0,,,Knuckleball,11,LOFT ON,0,0,3,17,135,3,0,0,2,0,0,0,0,0
+110,4,381,1,3,England,Jos Buttler,Dasun Shanaka,,18,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.4,1,1,0,152194,162.69,-61.11,4,0,,,Knuckleball,40,FLICK,0,0,4,17,139,3,0,0,2,0,0,0,0,0
+111,5,381,1,3,England,Jos Buttler,Dasun Shanaka,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,152195,73.36,165.42,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,17,140,3,0,0,2,0,0,0,0,0
+112,6,381,1,3,England,Eoin Morgan,Dasun Shanaka,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,152196,-67.07,-33.02,1,0,,,Knuckleball,40,FLICK,0,0,6,17,141,3,0,0,2,0,0,0,0,0
+113,1,381,1,3,England,Eoin Morgan,Wanindu Hasaranga,,19,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.1,1,1,0,152197,73.82,200.88,6,0,,,Knuckleball,122,SDL OFF,0,0,1,18,147,3,1,0,2,0,0,0,0,0
+114,2,381,1,3,England,Eoin Morgan,Wanindu Hasaranga,,19,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,18.2,1,1,0,152198,73.82,200.88,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,2,18,147,4,2,0,2,0,0,0,0,0
+115,3,381,1,3,England,Moeen Ali,Wanindu Hasaranga,,19,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,152199,-78.12,162.20,0,0,,,Knuckleball,77,SD DEFENCE,0,0,3,18,147,4,3,0,2,0,0,0,0,0
+116,4,381,1,3,England,Moeen Ali,Wanindu Hasaranga,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,1,1,0,152200,-78.12,162.20,1,0,,,Knuckleball,47,ON DRIVE,0,0,4,18,148,4,0,0,2,0,0,0,0,0
+117,5,381,1,3,England,Jos Buttler,Wanindu Hasaranga,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,152201,-97.92,67.81,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,18,148,4,0,0,2,0,0,0,0,0
+118,6,381,1,3,England,Jos Buttler,Wanindu Hasaranga,,19,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,152202,124.01,-47.29,1,0,,,Knuckleball,40,FLICK,0,0,6,18,149,4,0,0,2,0,0,0,0,0
+119,1,381,1,3,England,Jos Buttler,Dushmantha Chameera,,20,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.1,1,1,0,152203,70.60,-150.43,4,0,,,Knuckleball,99,SCOOP,0,0,1,19,153,4,1,1,3,0,0,0,0,0
+120,2,381,1,3,England,Jos Buttler,Dushmantha Chameera,,20,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,152204,107.90,87.15,2,0,,,Knuckleball,40,FLICK,0,0,2,19,155,4,0,0,3,0,0,0,0,0
+121,3,381,1,3,England,Jos Buttler,Dushmantha Chameera,,20,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.3,1,1,0,152205,100.53,-59.73,2,0,,,Knuckleball,58,PULL SHOT,0,0,3,19,157,4,0,0,3,0,0,0,0,0
+122,4,381,1,3,England,Jos Buttler,Dushmantha Chameera,,20,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.4,1,1,0,152206,-15.04,126.75,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,19,157,4,0,0,3,0,0,0,0,0
+123,5,381,1,3,England,Jos Buttler,Dushmantha Chameera,,20,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.5,1,1,0,152207,-15.04,126.75,0,0,,,Knuckleball,24,REVERSE SCOOP,0,0,5,19,157,4,0,0,3,0,0,0,0,0
+124,6,381,1,3,England,Jos Buttler,Dushmantha Chameera,,20,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.6,1,1,0,152208,170.97,-75.38,6,0,,,Knuckleball,40,FLICK,0,0,6,19,163,4,0,0,3,0,0,0,0,0
+125,1,381,2,6,Sri Lanka,Pathum Nissanka,Moeen Ali,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,152209,150.26,53.54,1,0,,,Knuckleball,40,FLICK,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+126,2,381,2,6,Sri Lanka,Kusal Perera,Moeen Ali,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,152210,94.08,23.15,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+127,3,381,2,6,Sri Lanka,Kusal Perera,Moeen Ali,,1,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,0.3,2,1,0,152211,-56.02,-6.78,0,0,,,Knuckleball,40,FLICK,0,0,3,0,1,1,0,0,0,0,0,0,0,0
+128,4,381,2,6,Sri Lanka,Charith Asalanka,Moeen Ali,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,152212,-29.77,53.54,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,0,1,1,0,0,0,0,0,0,0,0
+129,5,381,2,6,Sri Lanka,Charith Asalanka,Moeen Ali,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,152213,54.95,52.16,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,0,1,1,0,0,0,0,0,0,0,0
+130,6,381,2,6,Sri Lanka,Charith Asalanka,Moeen Ali,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,152214,-81.34,58.14,1,0,,,Knuckleball,40,FLICK,0,0,6,0,2,1,0,0,0,0,0,0,0,0
+131,1,381,2,6,Sri Lanka,Charith Asalanka,Chris Woakes,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,152215,-51.41,49.86,0,0,,,Knuckleball,47,ON DRIVE,0,0,1,1,2,1,1,0,0,0,0,0,0,0
+132,2,381,2,6,Sri Lanka,Charith Asalanka,Chris Woakes,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,152216,-17.34,79.32,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,1,2,1,0,0,0,0,0,0,0,0
+133,3,381,2,6,Sri Lanka,Charith Asalanka,Chris Woakes,,2,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,1.3,2,1,0,152217,-142.12,153.91,6,0,,,Knuckleball,70,SD PULL,0,0,3,1,8,1,0,0,0,0,0,0,0,0
+134,4,381,2,6,Sri Lanka,Charith Asalanka,Chris Woakes,,2,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.4,2,1,0,152218,-47.27,-149.51,4,0,,,Knuckleball,18,SLOG SHOT,0,0,4,1,12,1,0,0,0,0,0,0,0,0
+135,5,381,2,6,Sri Lanka,Charith Asalanka,Chris Woakes,,2,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,152219,-145.34,81.63,1,0,,,Knuckleball,40,FLICK,0,0,5,1,13,1,0,0,0,0,0,0,0,0
+136,6,381,2,6,Sri Lanka,Kusal Perera,Chris Woakes,,2,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,152220,-91.01,86.23,1,0,,,Knuckleball,40,FLICK,0,0,6,1,14,1,0,0,0,0,0,0,0,0
+137,1,381,2,6,Sri Lanka,Kusal Perera,Moeen Ali,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,152221,-159.15,-71.70,1,0,,,Knuckleball,37,SD FLICK,0,0,1,2,15,1,1,0,0,0,0,0,0,0
+138,2,381,2,6,Sri Lanka,Charith Asalanka,Moeen Ali,,3,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.2,2,1,0,152222,-159.15,-71.70,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,2,19,1,0,0,0,0,0,0,0,0
+139,3,381,2,6,Sri Lanka,Charith Asalanka,Moeen Ali,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,152223,41.59,28.68,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,2,19,1,0,0,0,0,0,0,0,0
+140,4,381,2,6,Sri Lanka,Charith Asalanka,Moeen Ali,,3,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.4,2,1,0,152224,-161.92,-58.35,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,2,23,1,0,0,0,0,0,0,0,0
+141,5,381,2,6,Sri Lanka,Charith Asalanka,Moeen Ali,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,152225,-161.92,-58.35,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,2,23,1,0,0,0,0,0,0,0,0
+142,6,381,2,6,Sri Lanka,Charith Asalanka,Moeen Ali,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,152226,-84.56,79.78,1,0,,,Knuckleball,40,FLICK,0,0,6,2,24,1,0,0,0,0,0,0,0,0
+143,1,381,2,6,Sri Lanka,Charith Asalanka,Adil Rashid,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,152227,-84.56,79.78,0,0,,,Knuckleball,40,FLICK,0,0,1,3,24,1,1,0,0,0,0,0,0,0
+144,2,381,2,6,Sri Lanka,Charith Asalanka,Adil Rashid,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,152228,-19.18,46.63,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,3,24,1,0,0,0,0,0,0,0,0
+145,3,381,2,6,Sri Lanka,Charith Asalanka,Adil Rashid,,4,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,3.3,2,1,0,152229,-19.18,46.63,0,0,,,Knuckleball,122,SDL OFF,0,0,3,3,24,2,1,0,0,0,0,0,0,0
+146,4,381,2,6,Sri Lanka,Kusal Perera,Adil Rashid,,4,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,152230,-160.08,33.74,2,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,3,26,2,2,0,0,0,0,0,0,0
+147,5,381,2,6,Sri Lanka,Kusal Perera,Adil Rashid,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,152231,-160.08,33.74,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,3,26,2,0,0,0,0,0,0,0,0
+148,6,381,2,6,Sri Lanka,Kusal Perera,Adil Rashid,,4,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,152232,-105.74,87.15,2,0,,,Knuckleball,40,FLICK,0,0,6,3,28,2,0,0,0,0,0,0,0,0
+149,1,381,2,6,Sri Lanka,Avishka Fernando,Chris Jordan,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,152233,87.18,39.27,0,0,,,Knuckleball,40,FLICK,0,0,1,4,28,2,1,0,0,0,0,0,0,0
+150,2,381,2,6,Sri Lanka,Avishka Fernando,Chris Jordan,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,152234,70.14,107.41,0,0,,,Knuckleball,47,ON DRIVE,0,0,2,4,28,2,0,0,0,0,0,0,0,0
+151,3,381,2,6,Sri Lanka,Avishka Fernando,Chris Jordan,,5,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.3,2,1,0,152235,-182.64,114.32,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,4,32,2,0,0,0,0,0,0,0,0
+152,4,381,2,6,Sri Lanka,Avishka Fernando,Chris Jordan,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,152236,98.23,22.69,0,0,,,Knuckleball,40,FLICK,0,0,4,4,32,2,0,0,0,0,0,0,0,0
+153,5,381,2,6,Sri Lanka,Avishka Fernando,Chris Jordan,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,152237,155.78,56.30,1,0,,,Knuckleball,40,FLICK,0,0,5,4,33,2,0,0,0,0,0,0,0,0
+154,6,381,2,6,Sri Lanka,Kusal Perera,Chris Jordan,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,152238,-137.05,56.30,1,0,,,Knuckleball,40,FLICK,0,0,6,4,34,2,0,0,0,0,0,0,0,0
+155,1,381,2,6,Sri Lanka,Kusal Perera,Adil Rashid,,6,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.1,2,1,0,152239,-137.05,56.30,0,0,,,Knuckleball,122,SDL OFF,0,0,1,5,34,3,1,0,0,0,0,0,0,0
+156,2,381,2,6,Sri Lanka,Avishka Fernando,Adil Rashid,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,152240,74.74,154.83,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,5,35,3,2,0,0,0,0,0,0,0
+157,3,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Adil Rashid,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,152241,-66.61,51.70,0,0,,,Knuckleball,40,FLICK,0,0,3,5,35,3,0,0,0,0,0,0,0,0
+158,4,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Adil Rashid,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.4,2,1,0,152242,162.23,131.35,4,0,,,Knuckleball,15,LOFT COVER,0,0,4,5,39,3,0,0,0,0,0,0,0,0
+159,5,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Adil Rashid,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,152243,-39.90,39.27,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,5,39,3,0,0,0,0,0,0,0,0
+160,6,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Adil Rashid,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,152244,-112.19,97.74,1,0,,,Knuckleball,40,FLICK,0,0,6,5,40,3,0,0,0,0,0,0,0,0
+161,1,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Liam Livingstone,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,152245,-79.96,-7.24,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,6,41,3,1,0,0,0,0,0,0,0
+162,2,381,2,6,Sri Lanka,Avishka Fernando,Liam Livingstone,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,152246,-81.34,151.61,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,6,42,3,0,0,0,0,0,0,0,0
+163,3,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Liam Livingstone,,7,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,6.3,2,1,0,152247,5.22,233.11,6,0,,,Knuckleball,69,SDL STRAIGHT,0,0,3,6,48,3,0,0,0,0,0,0,0,0
+164,4,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Liam Livingstone,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,152248,-59.24,57.68,0,0,,,Knuckleball,40,FLICK,0,0,4,6,48,3,0,0,0,0,0,0,0,0
+165,5,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Liam Livingstone,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,152249,-76.74,12.56,1,0,,,Knuckleball,40,FLICK,0,0,5,6,49,3,0,0,0,0,0,0,0,0
+166,6,381,2,6,Sri Lanka,Avishka Fernando,Liam Livingstone,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,152250,-80.42,162.66,1,0,,,Knuckleball,84,OFF DRIVE,0,0,6,6,50,3,0,1,1,0,1,0,0,0
+167,1,381,2,6,Sri Lanka,Avishka Fernando,Adil Rashid,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,152251,-14.12,70.12,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,1,7,50,3,1,0,1,0,0,0,0,0
+168,2,381,2,6,Sri Lanka,Avishka Fernando,Adil Rashid,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,152252,-9.51,177.86,1,0,,,Knuckleball,61,INSIDE OUT,0,0,2,7,51,3,0,0,1,0,0,0,0,0
+169,3,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Adil Rashid,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,152253,67.38,-3.55,0,0,,,Knuckleball,40,FLICK,0,0,3,7,51,3,0,0,1,0,0,0,0,0
+170,4,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Adil Rashid,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,152254,-130.15,-41.77,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,7,52,3,0,0,1,0,0,0,0,0
+171,5,381,2,6,Sri Lanka,Avishka Fernando,Adil Rashid,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,152255,71.98,22.23,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,7,52,3,0,0,1,0,0,0,0,0
+172,6,381,2,6,Sri Lanka,Avishka Fernando,Adil Rashid,,8,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,152256,-126.46,113.40,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,7,54,3,0,0,1,0,0,0,0,0
+173,1,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Chris Jordan,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,152257,-121.40,-63.41,1,0,,,Knuckleball,40,FLICK,0,0,1,8,55,3,1,0,1,0,0,0,0,0
+174,2,381,2,6,Sri Lanka,Avishka Fernando,Chris Jordan,,9,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,152258,-159.15,30.06,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,8,57,3,0,0,1,0,0,0,0,0
+175,3,381,2,6,Sri Lanka,Avishka Fernando,Chris Jordan,,9,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,8.3,2,1,0,152259,-159.15,30.06,0,0,,,Knuckleball,40,FLICK,0,0,3,8,57,4,1,0,1,0,0,0,0,0
+176,4,381,2,6,Sri Lanka,Dasun Shanaka,Chris Jordan,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,152260,-66.15,57.68,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,8,57,4,2,0,1,0,0,0,0,0
+177,5,381,2,6,Sri Lanka,Dasun Shanaka,Chris Jordan,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,152261,93.16,28.68,0,0,,,Knuckleball,40,FLICK,0,0,5,8,57,4,0,0,1,0,0,0,0,0
+178,6,381,2,6,Sri Lanka,Dasun Shanaka,Chris Jordan,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,152262,-148.10,13.94,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,8,58,4,0,0,1,0,0,0,0,0
+179,1,381,2,6,Sri Lanka,Dasun Shanaka,Tymal Mills,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,152263,-110.81,-78.14,1,0,,,Knuckleball,44,GLIDE,0,0,1,9,59,4,1,0,1,0,0,0,0,0
+180,2,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Tymal Mills,,10,2,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,9.2,2,1,1,152264,-84.56,-4.94,1,0,,,Knuckleball,40,FLICK,0,0,2,9,60,4,0,0,1,0,0,0,0,0
+181,3,381,2,6,Sri Lanka,Dasun Shanaka,Tymal Mills,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,152265,-72.13,51.70,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,9,60,4,0,0,1,0,0,0,0,0
+182,4,381,2,6,Sri Lanka,Dasun Shanaka,Tymal Mills,,10,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.4,2,1,0,152266,-149.49,-92.42,4,0,,,Knuckleball,36,CUT SHOT,0,0,4,9,64,4,0,0,1,0,0,0,0,0
+183,5,381,2,6,Sri Lanka,Dasun Shanaka,Tymal Mills,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,152267,-91.47,-100.24,1,0,,,Knuckleball,44,GLIDE,0,0,5,9,65,4,0,0,1,0,0,0,0,0
+184,6,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Tymal Mills,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,152268,-91.01,-89.65,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,9,66,4,0,0,1,0,0,0,0,0
+185,1,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Chris Woakes,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,152269,32.85,60.91,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,10,66,4,1,0,1,0,0,0,0,0
+186,2,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Chris Woakes,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,152270,-12.28,59.53,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,2,10,66,4,0,0,1,0,0,0,0,0
+187,3,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Chris Woakes,,11,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,10.3,2,1,0,152271,-198.75,55.38,6,0,,,Knuckleball,58,PULL SHOT,0,0,3,10,72,4,0,0,1,0,0,0,0,0
+188,4,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Chris Woakes,,11,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.4,2,1,0,152272,146.57,148.85,4,0,,,Knuckleball,5,LOFT OFF,0,0,4,10,76,4,0,0,1,0,0,0,0,0
+189,5,381,2,6,Sri Lanka,Bhanuka Rajapaksa,Chris Woakes,,11,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,10.5,2,1,0,152273,146.57,148.85,0,0,,,Knuckleball,11,LOFT ON,0,0,5,10,76,5,1,0,1,0,0,0,0,0
+190,6,381,2,6,Sri Lanka,Wanindu Hasaranga,Chris Woakes,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,152274,-47.27,-120.50,1,0,,,Knuckleball,44,GLIDE,0,0,6,10,77,5,2,0,1,0,0,0,0,0
+191,1,381,2,6,Sri Lanka,Wanindu Hasaranga,Adil Rashid,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,152275,-141.20,-6.32,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,11,78,5,3,0,1,0,0,0,0,0
+192,2,381,2,6,Sri Lanka,Dasun Shanaka,Adil Rashid,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,152276,59.09,39.73,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,11,78,5,0,0,1,0,0,0,0,0
+193,3,381,2,6,Sri Lanka,Dasun Shanaka,Adil Rashid,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,152277,104.21,139.64,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,3,11,79,5,0,0,1,0,0,0,0,0
+194,4,381,2,6,Sri Lanka,Wanindu Hasaranga,Adil Rashid,,12,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,152278,-131.53,118.00,2,0,,,Knuckleball,15,LOFT COVER,0,0,4,11,81,5,0,0,1,0,0,0,0,0
+195,5,381,2,6,Sri Lanka,Wanindu Hasaranga,Adil Rashid,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,152279,-8.13,73.34,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,5,11,81,5,0,0,1,0,0,0,0,0
+196,6,381,2,6,Sri Lanka,Wanindu Hasaranga,Adil Rashid,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,152280,-138.44,7.96,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,11,82,5,0,0,1,0,0,0,0,0
+197,1,381,2,6,Sri Lanka,Wanindu Hasaranga,Liam Livingstone,,13,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.1,2,1,0,152281,-147.18,-83.67,4,0,,,Knuckleball,36,CUT SHOT,0,0,1,12,86,5,1,0,1,0,0,0,0,0
+198,2,381,2,6,Sri Lanka,Wanindu Hasaranga,Liam Livingstone,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,152282,141.51,108.33,1,0,,,Knuckleball,40,FLICK,0,0,2,12,87,5,0,0,1,0,0,0,0,0
+199,3,381,2,6,Sri Lanka,Dasun Shanaka,Liam Livingstone,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,152283,142.89,92.22,1,0,,,Knuckleball,40,FLICK,0,0,3,12,88,5,0,0,1,0,0,0,0,0
+200,4,381,2,6,Sri Lanka,Wanindu Hasaranga,Liam Livingstone,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,152284,-130.15,109.25,1,0,,,Knuckleball,89,SD COVER,0,0,4,12,89,5,0,0,1,0,0,0,0,0
+201,5,381,2,6,Sri Lanka,Dasun Shanaka,Liam Livingstone,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,152285,8.44,63.21,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,12,89,5,0,0,1,0,0,0,0,0
+202,6,381,2,6,Sri Lanka,Dasun Shanaka,Liam Livingstone,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,152286,19.95,59.06,0,0,,,Knuckleball,40,FLICK,0,0,6,12,89,5,0,0,1,0,0,0,0,0
+203,1,381,2,6,Sri Lanka,Wanindu Hasaranga,Tymal Mills,,14,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,13.1,2,1,0,152287,63.23,212.85,6,0,,,Knuckleball,11,LOFT ON,0,0,1,13,95,5,1,0,1,0,0,0,0,0
+204,2,381,2,6,Sri Lanka,Wanindu Hasaranga,Tymal Mills,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,152288,86.26,-91.96,1,0,,,Knuckleball,54,LEG GLANCE,0,0,2,13,96,5,0,0,1,0,0,0,0,0
+205,3,381,2,6,Sri Lanka,Dasun Shanaka,Tymal Mills,,14,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,13.3,2,1,1,152289,86.26,-91.96,1,0,,,Knuckleball,54,LEG GLANCE,0,0,3,13,97,5,0,0,1,0,0,0,0,0
+206,4,381,2,6,Sri Lanka,Dasun Shanaka,Tymal Mills,,14,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.3,2,1,0,152290,17.19,-149.97,4,0,,,Knuckleball,54,LEG GLANCE,0,0,4,13,101,5,0,1,2,0,0,1,0,0
+207,5,381,2,6,Sri Lanka,Dasun Shanaka,Chris Woakes,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,152291,143.81,17.63,1,0,,,Knuckleball,40,FLICK,0,0,5,13,102,5,1,0,2,0,0,0,0,0
+208,6,381,2,6,Sri Lanka,Wanindu Hasaranga,Chris Woakes,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,152292,-142.58,-14.60,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,13,103,5,0,0,2,0,0,0,0,0
+209,7,381,2,6,Sri Lanka,Dasun Shanaka,Chris Woakes,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,152293,-73.97,-29.80,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,7,13,103,5,0,0,2,0,0,0,0,0
+210,1,381,2,6,Sri Lanka,Wanindu Hasaranga,Liam Livingstone,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,152294,-117.72,135.50,1,0,,,Knuckleball,21,SD OFF,0,0,1,14,104,5,1,0,2,0,0,0,0,0
+211,2,381,2,6,Sri Lanka,Dasun Shanaka,Liam Livingstone,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,152295,17.19,59.99,0,0,,,Knuckleball,40,FLICK,0,0,2,14,104,5,0,0,2,0,0,0,0,0
+212,3,381,2,6,Sri Lanka,Dasun Shanaka,Liam Livingstone,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,152296,138.28,-12.76,1,0,,,Knuckleball,40,FLICK,0,0,3,14,105,5,0,0,2,0,0,0,0,0
+213,4,381,2,6,Sri Lanka,Wanindu Hasaranga,Liam Livingstone,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,152297,-144.42,79.78,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,14,106,5,0,0,2,0,0,0,0,0
+214,5,381,2,6,Sri Lanka,Dasun Shanaka,Liam Livingstone,,15,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,14.5,2,1,0,152298,143.81,149.77,6,0,,,Knuckleball,70,SD PULL,0,0,5,14,112,5,0,0,2,0,0,0,0,0
+215,6,381,2,6,Sri Lanka,Dasun Shanaka,Liam Livingstone,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,152299,147.95,79.32,1,0,,,Knuckleball,40,FLICK,0,0,6,14,113,5,0,0,2,0,0,0,0,0
+216,1,381,2,6,Sri Lanka,Dasun Shanaka,Chris Jordan,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,152300,-71.67,101.88,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,15,114,5,1,0,2,0,0,0,0,0
+217,2,381,2,6,Sri Lanka,Wanindu Hasaranga,Chris Jordan,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,152301,-81.80,-10.00,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,15,115,5,0,0,2,0,0,0,0,0
+218,3,381,2,6,Sri Lanka,Dasun Shanaka,Chris Jordan,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,152302,-92.39,78.40,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,15,116,5,0,0,2,0,0,0,0,0
+219,4,381,2,6,Sri Lanka,Wanindu Hasaranga,Chris Jordan,,16,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,152303,-145.80,9.34,2,0,,,Knuckleball,36,CUT SHOT,0,0,4,15,118,5,0,0,2,0,0,0,0,0
+220,5,381,2,6,Sri Lanka,Wanindu Hasaranga,Chris Jordan,,16,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.5,2,1,0,152304,-158.23,135.96,4,0,,,Knuckleball,15,LOFT COVER,0,0,5,15,122,5,0,0,2,0,0,0,0,0
+221,6,381,2,6,Sri Lanka,Wanindu Hasaranga,Chris Jordan,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,152305,-150.87,65.97,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,15,123,5,0,0,2,0,0,0,0,0
+222,1,381,2,6,Sri Lanka,Wanindu Hasaranga,Liam Livingstone,,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,152306,-82.26,-12.30,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,16,123,5,1,0,2,0,0,0,0,0
+223,2,381,2,6,Sri Lanka,Wanindu Hasaranga,Liam Livingstone,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,152307,-139.82,88.99,1,0,,,Knuckleball,11,LOFT ON,0,0,2,16,124,5,0,0,2,0,0,0,0,0
+224,3,381,2,6,Sri Lanka,Dasun Shanaka,Liam Livingstone,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,152308,-104.36,28.68,1,0,,,Knuckleball,21,SD OFF,0,0,3,16,125,5,0,0,2,0,0,0,0,0
+225,4,381,2,6,Sri Lanka,Wanindu Hasaranga,Liam Livingstone,,17,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.4,2,1,0,152309,-181.72,-44.07,4,0,,,Knuckleball,114,SDL COVER,0,0,4,16,129,5,0,0,2,0,0,0,0,0
+226,5,381,2,6,Sri Lanka,Wanindu Hasaranga,Liam Livingstone,,17,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,16.5,2,1,0,152310,-181.72,-44.07,0,0,,,Knuckleball,122,SDL OFF,0,0,5,16,129,6,1,0,2,0,0,0,0,0
+227,6,381,2,6,Sri Lanka,Dasun Shanaka,Liam Livingstone,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,152311,-150.41,-10.46,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,16,130,6,2,0,2,0,0,0,0,0
+228,1,381,2,6,Sri Lanka,Dasun Shanaka,Chris Jordan,,18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,152312,-15.50,51.70,0,0,,,Knuckleball,58,PULL SHOT,0,0,1,17,130,6,3,0,2,0,0,0,0,0
+229,2,381,2,6,Sri Lanka,Dasun Shanaka,Chris Jordan,,18,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,17.2,2,1,0,152313,-15.50,51.70,0,0,,,Knuckleball,44,GLIDE,0,0,2,17,130,7,0,0,2,0,0,0,0,0
+230,3,381,2,6,Sri Lanka,Dushmantha Chameera,Chris Jordan,,18,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,152314,-38.98,64.13,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,17,130,7,0,0,2,0,0,0,0,0
+231,4,381,2,6,Sri Lanka,Dushmantha Chameera,Chris Jordan,,18,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,152315,-38.98,64.13,0,0,,,Knuckleball,5,LOFT OFF,0,0,4,17,130,7,0,0,2,0,0,0,0,0
+232,5,381,2,6,Sri Lanka,Dushmantha Chameera,Chris Jordan,,18,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.5,2,1,0,152316,-21.49,-154.12,4,0,,,Knuckleball,5,LOFT OFF,0,0,5,17,134,7,0,0,2,0,0,0,0,0
+233,6,381,2,6,Sri Lanka,Dushmantha Chameera,Chris Jordan,,18,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,17.6,2,1,0,152317,-21.49,-154.12,0,0,,,Knuckleball,40,FLICK,0,0,6,17,134,8,1,0,2,0,0,0,0,0
+234,1,381,2,6,Sri Lanka,Chamika Karunaratne,Moeen Ali,,19,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,152318,37.45,173.25,0,0,,,Knuckleball,58,PULL SHOT,0,0,1,18,134,8,2,0,2,0,0,0,0,0
+235,2,381,2,6,Sri Lanka,Chamika Karunaratne,Moeen Ali,,19,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.2,2,1,0,152319,37.45,173.25,0,0,,,Knuckleball,11,LOFT ON,0,0,2,18,134,9,3,0,2,0,0,0,0,0
+236,3,381,2,6,Sri Lanka,Lahiru Kumara,Moeen Ali,,19,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,152320,-11.36,59.99,0,0,,,Knuckleball,18,SLOG SHOT,0,0,3,18,134,9,4,0,2,0,0,0,0,0
+237,4,381,2,6,Sri Lanka,Lahiru Kumara,Moeen Ali,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,152321,2.92,117.08,1,0,,,Knuckleball,1,SD STRAIGHT,0,0,4,18,135,9,0,0,2,0,0,0,0,0
+238,5,381,2,6,Sri Lanka,Maheesh Theekshana,Moeen Ali,,19,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.5,2,1,0,152322,-138.44,109.25,2,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,18,137,9,0,0,2,0,0,0,0,0
+239,6,381,2,6,Sri Lanka,Maheesh Theekshana,Moeen Ali,,19,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.6,2,1,0,152323,-138.44,109.25,0,0,,,Knuckleball,94,SDL ON,0,0,6,18,137,10,1,0,2,0,0,0,0,0

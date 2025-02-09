@@ -1,0 +1,207 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,360,1,29,Namibia,Stephan Baard,Chamika Karunaratne,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,147679,,,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,360,1,29,Namibia,Stephan Baard,Chamika Karunaratne,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,147680,,,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2,3,360,1,29,Namibia,Stephan Baard,Chamika Karunaratne,,1,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.3,1,1,1,147681,,,1,0,,,Knuckleball,40,FLICK,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+3,4,360,1,29,Namibia,Stephan Baard,Chamika Karunaratne,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,147682,,,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,0,1,0,0,0,0,0,0,0,0,0
+4,5,360,1,29,Namibia,Stephan Baard,Chamika Karunaratne,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,147683,,,0,0,,,Knuckleball,77,SD DEFENCE,0,0,5,0,1,0,0,0,0,0,0,0,0,0
+5,6,360,1,29,Namibia,Stephan Baard,Chamika Karunaratne,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,147684,-76.28,-11.38,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,0,1,0,0,0,0,0,0,0,0,0
+6,7,360,1,29,Namibia,Stephan Baard,Chamika Karunaratne,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,147685,88.10,28.68,1,0,,,Knuckleball,40,FLICK,0,0,7,0,2,0,0,0,0,0,0,0,0,0
+7,1,360,1,29,Namibia,Stephan Baard,Dushmantha Chameera,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,147686,88.10,28.68,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,1,2,0,1,0,0,0,0,0,0,0
+8,2,360,1,29,Namibia,Stephan Baard,Dushmantha Chameera,,2,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.2,1,1,0,147687,-159.15,140.10,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,1,6,0,0,0,0,0,0,0,0,0
+9,3,360,1,29,Namibia,Stephan Baard,Dushmantha Chameera,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,147688,-106.21,-83.21,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,1,7,0,0,0,0,0,0,0,0,0
+10,4,360,1,29,Namibia,Zane Green,Dushmantha Chameera,,2,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,1.4,1,1,1,147689,-106.21,-83.21,1,0,,,Knuckleball,40,FLICK,0,0,4,1,8,0,0,0,0,0,0,0,0,0
+11,5,360,1,29,Namibia,Zane Green,Dushmantha Chameera,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,147690,69.68,-34.40,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,1,8,0,0,0,0,0,0,0,0,0
+12,6,360,1,29,Namibia,Zane Green,Dushmantha Chameera,,2,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,1.5,1,1,1,147691,69.68,-34.40,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,1,9,0,0,0,0,0,0,0,0,0
+13,7,360,1,29,Namibia,Stephan Baard,Dushmantha Chameera,,2,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,147692,-70.75,-104.85,1,0,,,Knuckleball,44,GLIDE,0,0,7,1,10,0,0,0,0,0,0,0,0,0
+14,1,360,1,29,Namibia,Stephan Baard,Maheesh Theekshana,,3,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,2.1,1,1,0,147693,-70.75,-104.85,0,0,,,Knuckleball,11,LOFT ON,0,0,1,2,10,1,1,0,0,0,0,0,0,0
+15,2,360,1,29,Namibia,Zane Green,Maheesh Theekshana,,3,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,147694,55.87,-110.37,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,2,12,1,2,0,0,0,0,0,0,0
+16,3,360,1,29,Namibia,Zane Green,Maheesh Theekshana,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,147695,88.56,117.08,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,2,13,1,0,0,0,0,0,0,0,0
+17,4,360,1,29,Namibia,Craig Williams,Maheesh Theekshana,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,147696,21.79,57.22,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,2,13,1,0,0,0,0,0,0,0,0
+18,5,360,1,29,Namibia,Craig Williams,Maheesh Theekshana,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,147697,-60.62,54.46,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,2,13,1,0,0,0,0,0,0,0,0
+19,6,360,1,29,Namibia,Craig Williams,Maheesh Theekshana,,3,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,2.6,1,1,1,147698,-60.62,54.46,1,0,,,Knuckleball,40,FLICK,0,0,6,2,14,1,0,0,0,0,0,0,0,0
+20,7,360,1,29,Namibia,Craig Williams,Maheesh Theekshana,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,147699,-33.92,57.68,0,0,,,Knuckleball,21,SD OFF,0,0,7,2,14,1,0,0,0,0,0,0,0,0
+21,1,360,1,29,Namibia,Zane Green,Lahiru Kumara,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,147700,-80.42,-9.08,1,0,,,Knuckleball,40,FLICK,0,0,1,3,15,1,1,0,0,0,0,0,0,0
+22,2,360,1,29,Namibia,Craig Williams,Lahiru Kumara,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,147701,-80.42,-18.75,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,3,15,1,0,0,0,0,0,0,0,0
+23,3,360,1,29,Namibia,Craig Williams,Lahiru Kumara,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,147702,-62.92,51.70,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,3,15,1,0,0,0,0,0,0,0,0
+24,4,360,1,29,Namibia,Craig Williams,Lahiru Kumara,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,147703,71.52,-103.01,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,3,16,1,0,0,0,0,0,0,0,0
+25,5,360,1,29,Namibia,Zane Green,Lahiru Kumara,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,147704,59.55,23.61,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,3,17,1,0,0,0,0,0,0,0,0
+26,6,360,1,29,Namibia,Craig Williams,Lahiru Kumara,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,147705,-79.04,-21.05,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,3,17,1,0,0,0,0,0,0,0,0
+27,1,360,1,29,Namibia,Zane Green,Dushmantha Chameera,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,147706,-79.04,-21.05,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,4,17,1,1,0,0,0,0,0,0,0
+28,2,360,1,29,Namibia,Zane Green,Dushmantha Chameera,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,147707,3.38,-22.43,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,4,17,1,0,0,0,0,0,0,0,0
+29,3,360,1,29,Namibia,Zane Green,Dushmantha Chameera,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,147708,67.84,9.34,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,4,17,1,0,0,0,0,0,0,0,0
+30,4,360,1,29,Namibia,Zane Green,Dushmantha Chameera,,5,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,147709,-31.62,-120.96,2,0,,,Knuckleball,54,LEG GLANCE,0,0,4,4,19,1,0,0,0,0,0,0,0,0
+31,5,360,1,29,Namibia,Zane Green,Dushmantha Chameera,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,147710,36.99,75.64,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,4,20,1,0,0,0,0,0,0,0,0
+32,6,360,1,29,Namibia,Craig Williams,Dushmantha Chameera,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,147711,-74.90,14.40,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,4,21,1,0,0,0,0,0,0,0,0
+33,1,360,1,29,Namibia,Craig Williams,Maheesh Theekshana,,6,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,5.1,1,1,0,147712,-100.22,198.12,6,0,,,Knuckleball,122,SDL OFF,0,0,1,5,27,1,1,0,0,0,0,0,0,0
+34,2,360,1,29,Namibia,Craig Williams,Maheesh Theekshana,,6,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,5.2,1,1,1,147713,-100.22,198.12,1,0,,,Knuckleball,105,LEFT ALONE,0,0,2,5,28,1,0,0,0,0,0,0,0,0
+35,3,360,1,29,Namibia,Craig Williams,Maheesh Theekshana,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,147714,133.22,43.41,1,0,,,Knuckleball,40,FLICK,0,0,3,5,29,1,0,0,0,0,0,0,0,0
+36,4,360,1,29,Namibia,Zane Green,Maheesh Theekshana,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,147715,-6.75,-15.53,0,0,,,Knuckleball,22,PADDLE SWEEP,0,0,4,5,29,1,0,0,0,0,0,0,0,0
+37,5,360,1,29,Namibia,Zane Green,Maheesh Theekshana,,6,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.4,1,1,0,147716,-6.75,-15.53,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,5,5,29,2,1,0,0,0,0,0,0,0
+38,6,360,1,29,Namibia,Craig Williams,Maheesh Theekshana,,6,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,5.5,1,1,1,147717,-6.75,-15.53,1,0,,,Knuckleball,40,FLICK,0,0,6,5,30,2,2,0,0,0,0,0,0,0
+39,7,360,1,29,Namibia,Gerhard Erasmus,Maheesh Theekshana,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,147718,-11.36,56.76,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,7,5,30,2,0,0,0,0,0,0,0,0
+40,1,360,1,29,Namibia,Craig Williams,Chamika Karunaratne,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,147719,-19.64,69.19,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,6,30,2,1,0,0,0,0,0,0,0
+41,2,360,1,29,Namibia,Craig Williams,Chamika Karunaratne,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,147720,-31.15,-68.01,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,6,31,2,0,0,0,0,0,0,0,0
+42,3,360,1,29,Namibia,Gerhard Erasmus,Chamika Karunaratne,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,147721,31.46,97.74,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,6,32,2,0,0,0,0,0,0,0,0
+43,4,360,1,29,Namibia,Craig Williams,Chamika Karunaratne,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,147722,31.46,97.74,0,0,,,Knuckleball,105,LEFT ALONE,0,0,4,6,32,2,0,0,0,0,0,0,0,0
+44,5,360,1,29,Namibia,Craig Williams,Chamika Karunaratne,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,147723,-81.80,-99.78,1,0,,,Knuckleball,44,GLIDE,0,0,5,6,33,2,0,0,0,0,0,0,0,0
+45,6,360,1,29,Namibia,Gerhard Erasmus,Chamika Karunaratne,,7,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,147724,151.64,80.24,2,0,,,Knuckleball,40,FLICK,0,0,6,6,35,2,0,0,0,0,0,0,0,0
+46,1,360,1,29,Namibia,Craig Williams,Wanindu Hasaranga,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,147725,37.45,46.63,0,0,,,Knuckleball,37,SD FLICK,0,0,1,7,35,2,1,0,0,0,0,0,0,0
+47,2,360,1,29,Namibia,Craig Williams,Wanindu Hasaranga,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,147726,-22.87,59.53,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,7,35,2,0,0,0,0,0,0,0,0
+48,3,360,1,29,Namibia,Craig Williams,Wanindu Hasaranga,,8,3,2 (NB),2,1,1,0,0,0,1,0,1,0,0,0,0,0,,,0,7.3,1,1,1,147727,-187.24,104.19,2,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,7,37,2,0,0,0,0,0,0,0,0
+49,4,360,1,29,Namibia,Gerhard Erasmus,Wanindu Hasaranga,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,147728,-187.24,104.19,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,7,37,2,0,0,0,0,0,0,0,0
+50,5,360,1,29,Namibia,Gerhard Erasmus,Wanindu Hasaranga,,8,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.4,1,1,0,147729,-187.24,104.19,4,0,,,Knuckleball,36,CUT SHOT,0,0,5,7,41,2,0,0,0,0,0,0,0,0
+51,6,360,1,29,Namibia,Gerhard Erasmus,Wanindu Hasaranga,,8,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.5,1,1,0,147730,-187.24,104.19,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,7,45,2,0,0,0,0,0,0,0,0
+52,7,360,1,29,Namibia,Gerhard Erasmus,Wanindu Hasaranga,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,147731,99.61,112.01,1,0,,,Knuckleball,40,FLICK,0,0,7,7,46,2,0,0,0,0,0,0,0,0
+53,1,360,1,29,Namibia,Gerhard Erasmus,Lahiru Kumara,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,147732,-95.62,-78.60,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,8,47,2,1,0,0,0,0,0,0,0
+54,2,360,1,29,Namibia,Craig Williams,Lahiru Kumara,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,147733,115.26,129.05,1,0,,,Knuckleball,18,SLOG SHOT,0,0,2,8,48,2,0,0,0,0,0,0,0,0
+55,3,360,1,29,Namibia,Gerhard Erasmus,Lahiru Kumara,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,147734,-71.67,47.09,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,8,48,2,0,0,0,0,0,0,0,0
+56,4,360,1,29,Namibia,Gerhard Erasmus,Lahiru Kumara,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,147735,-71.67,47.09,0,0,,,Knuckleball,105,LEFT ALONE,0,0,4,8,48,2,0,0,0,0,0,0,0,0
+57,5,360,1,29,Namibia,Gerhard Erasmus,Lahiru Kumara,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,147736,147.49,13.02,1,0,,,Knuckleball,40,FLICK,0,0,5,8,49,2,0,0,0,0,0,0,0,0
+58,6,360,1,29,Namibia,Craig Williams,Lahiru Kumara,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,147737,-72.13,146.55,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,8,50,2,0,1,1,0,1,0,0,0
+59,1,360,1,29,Namibia,Craig Williams,Wanindu Hasaranga,,10,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,147738,128.15,-51.44,2,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,9,52,2,1,0,1,0,0,0,0,0
+60,2,360,1,29,Namibia,Craig Williams,Wanindu Hasaranga,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,147739,-26.09,65.05,0,0,,,Knuckleball,21,SD OFF,0,0,2,9,52,2,0,0,1,0,0,0,0,0
+61,3,360,1,29,Namibia,Craig Williams,Wanindu Hasaranga,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,147740,29.16,6.12,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,9,52,2,0,0,1,0,0,0,0,0
+62,4,360,1,29,Namibia,Craig Williams,Wanindu Hasaranga,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,147741,28.70,63.67,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,9,52,2,0,0,1,0,0,0,0,0
+63,5,360,1,29,Namibia,Craig Williams,Wanindu Hasaranga,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,147742,101.91,151.15,1,0,,,Knuckleball,74,SD ON,0,0,5,9,53,2,0,0,1,0,0,0,0,0
+64,6,360,1,29,Namibia,Gerhard Erasmus,Wanindu Hasaranga,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,147743,70.14,10.72,1,0,,,Knuckleball,40,FLICK,0,0,6,9,54,2,0,0,1,0,0,0,0,0
+65,1,360,1,29,Namibia,Gerhard Erasmus,Chamika Karunaratne,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,147744,-79.04,-28.42,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,10,54,2,1,0,1,0,0,0,0,0
+66,2,360,1,29,Namibia,Gerhard Erasmus,Chamika Karunaratne,,11,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,147745,-133.83,97.74,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,10,56,2,0,0,1,0,0,0,0,0
+67,3,360,1,29,Namibia,Gerhard Erasmus,Chamika Karunaratne,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,147746,-91.47,-1.25,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,10,57,2,0,0,1,0,0,0,0,0
+68,4,360,1,29,Namibia,Craig Williams,Chamika Karunaratne,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,147747,-91.47,-1.25,0,0,,,Knuckleball,58,PULL SHOT,0,0,4,10,57,2,0,0,1,0,0,0,0,0
+69,5,360,1,29,Namibia,Craig Williams,Chamika Karunaratne,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,147748,-91.47,-1.25,0,0,,,Knuckleball,5,LOFT OFF,0,0,5,10,57,2,0,0,1,0,0,0,0,0
+70,6,360,1,29,Namibia,Craig Williams,Chamika Karunaratne,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,147749,-122.32,108.79,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,10,58,2,0,0,1,0,0,0,0,0
+71,1,360,1,29,Namibia,Craig Williams,Maheesh Theekshana,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,147750,-49.57,-3.09,0,0,,,Knuckleball,18,SLOG SHOT,0,0,1,11,58,2,1,0,1,0,0,0,0,0
+72,2,360,1,29,Namibia,Craig Williams,Maheesh Theekshana,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,147751,146.57,-4.94,1,0,,,Knuckleball,37,SD FLICK,0,0,2,11,59,2,0,0,1,0,0,0,0,0
+73,3,360,1,29,Namibia,Gerhard Erasmus,Maheesh Theekshana,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,147752,-144.42,73.34,1,0,,,Knuckleball,15,LOFT COVER,0,0,3,11,60,2,0,0,1,0,0,0,0,0
+74,4,360,1,29,Namibia,Craig Williams,Maheesh Theekshana,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,147753,147.03,-17.37,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,11,61,2,0,0,1,0,0,0,0,0
+75,5,360,1,29,Namibia,Gerhard Erasmus,Maheesh Theekshana,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,147754,140.59,104.65,1,0,,,Knuckleball,37,SD FLICK,0,0,5,11,62,2,0,0,1,0,0,0,0,0
+76,6,360,1,29,Namibia,Craig Williams,Maheesh Theekshana,,12,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,11.6,1,1,0,147755,188.47,-26.12,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,6,11,68,2,0,0,1,0,0,0,0,0
+77,1,360,1,29,Namibia,Gerhard Erasmus,Lahiru Kumara,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,147756,-90.55,76.10,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,12,68,2,1,0,1,0,0,0,0,0
+78,2,360,1,29,Namibia,Gerhard Erasmus,Lahiru Kumara,,13,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,12.2,1,1,0,147757,-90.55,76.10,0,0,,,Knuckleball,18,SLOG SHOT,0,0,2,12,68,3,2,0,1,0,0,0,0,0
+79,3,360,1,29,Namibia,Craig Williams,Lahiru Kumara,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,147758,-90.55,76.10,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,12,68,3,3,0,1,0,0,0,0,0
+80,4,360,1,29,Namibia,Craig Williams,Lahiru Kumara,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,147759,107.90,-74.46,1,0,,,Knuckleball,40,FLICK,0,0,4,12,69,3,0,0,1,0,0,0,0,0
+81,5,360,1,29,Namibia,David Wiese,Lahiru Kumara,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,147760,107.90,-74.46,0,0,,,Knuckleball,105,LEFT ALONE,0,0,5,12,69,3,0,0,1,0,0,0,0,0
+82,6,360,1,29,Namibia,David Wiese,Lahiru Kumara,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,147761,-132.91,103.73,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,12,70,3,0,0,1,0,0,0,0,0
+83,1,360,1,29,Namibia,David Wiese,Wanindu Hasaranga,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,147762,151.64,42.95,1,0,,,Knuckleball,40,FLICK,0,0,1,13,71,3,1,0,1,0,0,0,0,0
+84,2,360,1,29,Namibia,Craig Williams,Wanindu Hasaranga,,14,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,147763,138.28,71.96,2,0,,,Knuckleball,37,SD FLICK,0,0,2,13,73,3,0,0,1,0,0,0,0,0
+85,3,360,1,29,Namibia,Craig Williams,Wanindu Hasaranga,,14,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,13.3,1,1,0,147764,138.28,71.96,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,13,73,4,1,0,1,0,0,0,0,0
+86,4,360,1,29,Namibia,JJ Smit,Wanindu Hasaranga,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,147765,81.19,89.91,1,0,,,Knuckleball,47,ON DRIVE,0,0,4,13,74,4,2,0,1,0,0,0,0,0
+87,5,360,1,29,Namibia,David Wiese,Wanindu Hasaranga,,14,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,147766,144.73,87.15,2,0,,,Knuckleball,40,FLICK,0,0,5,13,76,4,0,0,1,0,0,0,0,0
+88,6,360,1,29,Namibia,David Wiese,Wanindu Hasaranga,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,147767,-78.12,67.81,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,13,76,4,0,0,1,0,0,0,0,0
+89,1,360,1,29,Namibia,JJ Smit,Chamika Karunaratne,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,147768,140.13,-37.17,1,0,,,Knuckleball,40,FLICK,0,0,1,14,77,4,1,0,1,0,0,0,0,0
+90,2,360,1,29,Namibia,David Wiese,Chamika Karunaratne,,15,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,147769,-150.87,71.04,2,0,,,Knuckleball,36,CUT SHOT,0,0,2,14,79,4,0,0,1,0,0,0,0,0
+91,3,360,1,29,Namibia,David Wiese,Chamika Karunaratne,,15,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,14.3,1,1,0,147770,-150.87,71.04,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,14,79,5,1,0,1,0,0,0,0,0
+92,4,360,1,29,Namibia,Jan Frylinck,Chamika Karunaratne,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,147771,-38.06,-122.35,1,0,,,Knuckleball,40,FLICK,0,0,4,14,80,5,2,0,1,0,0,0,0,0
+93,5,360,1,29,Namibia,JJ Smit,Chamika Karunaratne,,15,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,147772,60.01,-113.60,2,0,,,Knuckleball,58,PULL SHOT,0,0,5,14,82,5,0,0,1,0,0,0,0,0
+94,6,360,1,29,Namibia,JJ Smit,Chamika Karunaratne,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,147773,-42.67,65.97,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,14,82,5,0,0,1,0,0,0,0,0
+95,1,360,1,29,Namibia,Jan Frylinck,Maheesh Theekshana,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,147774,-15.96,-14.60,0,0,,,Knuckleball,58,PULL SHOT,0,0,1,15,82,5,1,0,1,0,0,0,0,0
+96,2,360,1,29,Namibia,Jan Frylinck,Maheesh Theekshana,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,147775,-104.36,91.29,1,0,,,Knuckleball,40,FLICK,0,0,2,15,83,5,0,0,1,0,0,0,0,0
+97,3,360,1,29,Namibia,JJ Smit,Maheesh Theekshana,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,147776,117.10,137.80,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,15,84,5,0,0,1,0,0,0,0,0
+98,4,360,1,29,Namibia,Jan Frylinck,Maheesh Theekshana,,16,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,15.4,1,1,0,147777,117.10,137.80,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,15,84,6,1,0,1,0,0,0,0,0
+99,5,360,1,29,Namibia,Jan Nicol Loftie,Maheesh Theekshana,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,147778,-59.24,10.72,0,0,,,Knuckleball,58,PULL SHOT,0,0,5,15,84,6,2,0,1,0,0,0,0,0
+100,6,360,1,29,Namibia,Jan Nicol Loftie,Maheesh Theekshana,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,147779,-64.77,-47.76,1,0,,,Knuckleball,40,FLICK,0,0,6,15,85,6,0,0,1,0,0,0,0,0
+101,1,360,1,29,Namibia,Jan Nicol Loftie,Dushmantha Chameera,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,147780,100.99,49.86,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,16,86,6,1,0,1,0,0,0,0,0
+102,2,360,1,29,Namibia,JJ Smit,Dushmantha Chameera,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,147781,107.90,144.24,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,16,87,6,0,0,1,0,0,0,0,0
+103,3,360,1,29,Namibia,Jan Nicol Loftie,Dushmantha Chameera,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.3,1,1,0,147782,72.90,38.35,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,16,87,6,0,0,1,0,0,0,0,0
+104,4,360,1,29,Namibia,Jan Nicol Loftie,Dushmantha Chameera,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,147783,96.38,60.45,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,16,88,6,0,0,1,0,0,0,0,0
+105,5,360,1,29,Namibia,JJ Smit,Dushmantha Chameera,,17,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,147784,96.38,60.45,0,0,,,Knuckleball,105,LEFT ALONE,0,0,5,16,88,6,0,0,1,0,0,0,0,0
+106,6,360,1,29,Namibia,JJ Smit,Dushmantha Chameera,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,147785,149.33,82.55,1,0,,,Knuckleball,40,FLICK,0,0,6,16,89,6,0,0,1,0,0,0,0,0
+107,1,360,1,29,Namibia,JJ Smit,Wanindu Hasaranga,,18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,147786,-33.46,47.09,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,17,89,6,1,0,1,0,0,0,0,0
+108,2,360,1,29,Namibia,JJ Smit,Wanindu Hasaranga,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,1,1,0,147787,89.94,-14.60,1,0,,,Knuckleball,18,SLOG SHOT,0,0,2,17,90,6,0,0,1,0,0,0,0,0
+109,3,360,1,29,Namibia,Jan Nicol Loftie,Wanindu Hasaranga,,18,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,17.3,1,1,0,147788,89.94,-14.60,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,17,90,7,1,0,1,0,0,0,0,0
+110,4,360,1,29,Namibia,Ruben Trumpelmann,Wanindu Hasaranga,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,1,1,0,147789,141.05,60.45,1,0,,,Knuckleball,40,FLICK,0,0,4,17,91,7,2,0,1,0,0,0,0,0
+111,5,360,1,29,Namibia,JJ Smit,Wanindu Hasaranga,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,147790,141.05,60.45,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,17,91,7,0,0,1,0,0,0,0,0
+112,6,360,1,29,Namibia,JJ Smit,Wanindu Hasaranga,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,147791,79.35,53.54,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,17,92,7,0,0,1,0,0,0,0,0
+113,1,360,1,29,Namibia,JJ Smit,Dushmantha Chameera,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,1,1,0,147792,-81.34,51.24,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,18,93,7,1,0,1,0,0,0,0,0
+114,2,360,1,29,Namibia,Ruben Trumpelmann,Dushmantha Chameera,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.2,1,1,0,147793,-65.23,-9.08,0,0,,,Knuckleball,58,PULL SHOT,0,0,2,18,93,7,0,0,1,0,0,0,0,0
+115,3,360,1,29,Namibia,Ruben Trumpelmann,Dushmantha Chameera,,19,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.3,1,1,0,147794,-65.23,-9.08,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,18,93,8,1,0,1,0,0,0,0,0
+116,4,360,1,29,Namibia,Pikkie Ya France,Dushmantha Chameera,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,1,1,0,147795,88.56,159.90,1,0,,,Knuckleball,47,ON DRIVE,0,0,4,18,94,8,2,0,1,0,0,0,0,0
+117,5,360,1,29,Namibia,JJ Smit,Dushmantha Chameera,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,147796,-51.41,111.55,0,0,,,Knuckleball,84,OFF DRIVE,0,0,5,18,94,8,0,0,1,0,0,0,0,0
+118,6,360,1,29,Namibia,JJ Smit,Dushmantha Chameera,,19,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,147797,-122.32,96.82,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,18,96,8,0,0,1,0,0,0,0,0
+119,1,360,1,29,Namibia,Pikkie Ya France,Lahiru Kumara,,20,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,19.1,1,1,0,147798,-122.32,96.82,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,19,96,9,1,0,1,0,0,0,0,0
+120,2,360,1,29,Namibia,Bernard Scholtz,Lahiru Kumara,,20,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,147799,-122.32,96.82,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,19,96,9,2,0,1,0,0,0,0,0
+121,3,360,1,29,Namibia,Bernard Scholtz,Lahiru Kumara,,20,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,19.3,1,1,0,147800,-122.32,96.82,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,19,96,10,0,0,1,0,0,0,0,0
+122,1,360,2,6,Sri Lanka,Pathum Nissanka,David Wiese,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,147801,-73.51,13.94,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+123,2,360,2,6,Sri Lanka,Kusal Perera,David Wiese,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,147802,-91.47,-31.64,1,0,,,Knuckleball,40,FLICK,0,0,2,0,2,0,0,0,0,0,0,0,0,0
+124,3,360,2,6,Sri Lanka,Pathum Nissanka,David Wiese,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,147803,133.68,-4.01,1,0,,,Knuckleball,40,FLICK,0,0,3,0,3,0,0,0,0,0,0,0,0,0
+125,4,360,2,6,Sri Lanka,Kusal Perera,David Wiese,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,147804,52.18,111.55,0,0,,,Knuckleball,84,OFF DRIVE,0,0,4,0,3,0,0,0,0,0,0,0,0,0
+126,5,360,2,6,Sri Lanka,Kusal Perera,David Wiese,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,147805,12.59,39.73,0,0,,,Knuckleball,58,PULL SHOT,0,0,5,0,3,0,0,0,0,0,0,0,0,0
+127,6,360,2,6,Sri Lanka,Kusal Perera,David Wiese,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,147806,67.84,108.33,1,0,,,Knuckleball,84,OFF DRIVE,0,0,6,0,4,0,0,0,0,0,0,0,0,0
+128,1,360,2,6,Sri Lanka,Kusal Perera,Ruben Trumpelmann,,2,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.1,2,1,0,147807,15.81,215.15,4,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,1,1,8,0,1,0,0,0,0,0,0,0
+129,2,360,2,6,Sri Lanka,Kusal Perera,Ruben Trumpelmann,,2,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.2,2,1,0,147808,-165.14,158.06,4,0,,,Knuckleball,58,PULL SHOT,0,0,2,1,12,0,0,0,0,0,0,0,0,0
+130,3,360,2,6,Sri Lanka,Kusal Perera,Ruben Trumpelmann,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,147809,-142.12,97.74,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,1,13,0,0,0,0,0,0,0,0,0
+131,4,360,2,6,Sri Lanka,Pathum Nissanka,Ruben Trumpelmann,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,147810,68.76,77.48,1,0,,,Knuckleball,40,FLICK,0,0,4,1,14,0,0,0,0,0,0,0,0,0
+132,5,360,2,6,Sri Lanka,Kusal Perera,Ruben Trumpelmann,,2,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,1.5,2,1,0,147811,68.76,77.48,0,0,,,Knuckleball,5,LOFT OFF,0,0,5,1,14,1,1,0,0,0,0,0,0,0
+133,6,360,2,6,Sri Lanka,Pathum Nissanka,Ruben Trumpelmann,,2,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,147812,91.32,64.13,1,0,,,Knuckleball,40,FLICK,0,0,6,1,15,1,2,0,0,0,0,0,0,0
+134,1,360,2,6,Sri Lanka,Pathum Nissanka,Bernard Scholtz,,3,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,2.1,2,1,1,147813,91.32,64.13,1,0,,,Knuckleball,54,LEG GLANCE,0,0,1,2,16,1,3,0,0,0,0,0,0,0
+135,2,360,2,6,Sri Lanka,Pathum Nissanka,Bernard Scholtz,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,147814,-75.82,50.78,1,0,,,Knuckleball,40,FLICK,0,0,2,2,17,1,0,0,0,0,0,0,0,0
+136,3,360,2,6,Sri Lanka,Dinesh Chandimal,Bernard Scholtz,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,147815,-75.82,50.78,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,2,17,1,0,0,0,0,0,0,0,0
+137,4,360,2,6,Sri Lanka,Dinesh Chandimal,Bernard Scholtz,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,147816,-75.82,50.78,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,2,17,1,0,0,0,0,0,0,0,0
+138,5,360,2,6,Sri Lanka,Dinesh Chandimal,Bernard Scholtz,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,147817,-18.26,38.35,0,0,,,Knuckleball,21,SD OFF,0,0,5,2,17,1,0,0,0,0,0,0,0,0
+139,6,360,2,6,Sri Lanka,Dinesh Chandimal,Bernard Scholtz,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,147818,129.54,-9.54,1,0,,,Knuckleball,40,FLICK,0,0,6,2,18,1,0,0,0,0,0,0,0,0
+140,7,360,2,6,Sri Lanka,Pathum Nissanka,Bernard Scholtz,,3,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,2.6,2,1,0,147819,129.54,-9.54,0,0,,,Knuckleball,40,FLICK,0,0,7,2,18,2,1,0,0,0,0,0,0,0
+141,1,360,2,6,Sri Lanka,Dinesh Chandimal,Ruben Trumpelmann,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,147820,62.31,21.77,1,0,,,Knuckleball,40,FLICK,0,0,1,3,19,2,2,0,0,0,0,0,0,0
+142,2,360,2,6,Sri Lanka,Avishka Fernando,Ruben Trumpelmann,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,147821,135.52,-15.53,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,3,20,2,0,0,0,0,0,0,0,0
+143,3,360,2,6,Sri Lanka,Dinesh Chandimal,Ruben Trumpelmann,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,147822,-80.42,-26.58,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,3,21,2,0,0,0,0,0,0,0,0
+144,4,360,2,6,Sri Lanka,Avishka Fernando,Ruben Trumpelmann,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,147823,-63.38,28.68,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,3,21,2,0,0,0,0,0,0,0,0
+145,5,360,2,6,Sri Lanka,Avishka Fernando,Ruben Trumpelmann,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,147824,19.49,66.43,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,3,21,2,0,0,0,0,0,0,0,0
+146,6,360,2,6,Sri Lanka,Avishka Fernando,Ruben Trumpelmann,,4,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,147825,-45.89,-119.12,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,3,23,2,0,0,0,0,0,0,0,0
+147,1,360,2,6,Sri Lanka,Dinesh Chandimal,Bernard Scholtz,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,147826,-19.18,68.73,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,4,23,2,1,0,0,0,0,0,0,0
+148,2,360,2,6,Sri Lanka,Dinesh Chandimal,Bernard Scholtz,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,147827,-27.01,65.05,0,0,,,Knuckleball,84,OFF DRIVE,0,0,2,4,23,2,0,0,0,0,0,0,0,0
+149,3,360,2,6,Sri Lanka,Dinesh Chandimal,Bernard Scholtz,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,147828,-11.36,-15.99,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,4,23,2,0,0,0,0,0,0,0,0
+150,4,360,2,6,Sri Lanka,Dinesh Chandimal,Bernard Scholtz,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,147829,-94.23,147.47,1,0,,,Knuckleball,21,SD OFF,0,0,4,4,24,2,0,0,0,0,0,0,0,0
+151,5,360,2,6,Sri Lanka,Avishka Fernando,Bernard Scholtz,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,147830,-82.26,164.04,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,4,25,2,0,0,0,0,0,0,0,0
+152,6,360,2,6,Sri Lanka,Dinesh Chandimal,Bernard Scholtz,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,147831,62.77,173.71,1,0,,,Knuckleball,47,ON DRIVE,0,0,6,4,26,2,0,0,0,0,0,0,0,0
+153,1,360,2,6,Sri Lanka,Dinesh Chandimal,JJ Smit,,6,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.1,2,1,0,147832,62.77,173.71,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,5,26,3,1,0,0,0,0,0,0,0
+154,2,360,2,6,Sri Lanka,Bhanuka Rajapaksa,JJ Smit,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,147833,-102.52,-10.00,1,0,,,Knuckleball,40,FLICK,0,0,2,5,27,3,2,0,0,0,0,0,0,0
+155,3,360,2,6,Sri Lanka,Avishka Fernando,JJ Smit,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,147834,-58.78,-24.73,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,5,27,3,0,0,0,0,0,0,0,0
+156,4,360,2,6,Sri Lanka,Avishka Fernando,JJ Smit,,6,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,5.4,2,1,0,147835,153.94,141.02,6,0,,,Knuckleball,37,SD FLICK,0,0,4,5,33,3,0,0,0,0,0,0,0,0
+157,5,360,2,6,Sri Lanka,Avishka Fernando,JJ Smit,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,147836,-50.03,30.98,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,5,33,3,0,0,0,0,0,0,0,0
+158,6,360,2,6,Sri Lanka,Avishka Fernando,JJ Smit,,6,6,4 (LB),4,0,0,0,0,1,4,0,0,0,1,1,0,0,,,0,5.6,2,1,1,147837,-50.03,30.98,4,0,,,Knuckleball,40,FLICK,0,0,6,5,37,3,0,0,0,0,0,0,0,0
+159,1,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Pikkie Ya France,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,147838,43.90,54.46,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,6,37,3,1,0,0,0,0,0,0,0
+160,2,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Pikkie Ya France,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,147839,71.98,-27.50,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,6,37,3,0,0,0,0,0,0,0,0
+161,3,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Pikkie Ya France,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,147840,-11.36,-10.00,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,6,37,3,0,0,0,0,0,0,0,0
+162,4,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Pikkie Ya France,,7,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.4,2,1,0,147841,-53.72,-143.06,4,0,,,Knuckleball,22,PADDLE SWEEP,0,0,4,6,41,3,0,0,0,0,0,0,0,0
+163,5,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Pikkie Ya France,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,147842,-144.88,84.39,1,0,,,Knuckleball,40,FLICK,0,0,5,6,42,3,0,0,0,0,0,0,0,0
+164,6,360,2,6,Sri Lanka,Avishka Fernando,Pikkie Ya France,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,147843,103.29,88.53,1,0,,,Knuckleball,40,FLICK,0,0,6,6,43,3,0,0,0,0,0,0,0,0
+165,1,360,2,6,Sri Lanka,Avishka Fernando,Jan Nicol Loftie,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,147844,128.62,95.44,1,0,,,Knuckleball,40,FLICK,0,0,1,7,44,3,1,0,0,0,0,0,0,0
+166,2,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Jan Nicol Loftie,,8,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.2,2,1,0,147845,165.91,135.50,4,0,,,Knuckleball,15,LOFT COVER,0,0,2,7,48,3,0,0,0,0,0,0,0,0
+167,3,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Jan Nicol Loftie,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,147846,45.28,-8.16,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,7,48,3,0,0,0,0,0,0,0,0
+168,4,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Jan Nicol Loftie,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,147847,-134.75,-44.99,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,7,49,3,0,0,0,0,0,0,0,0
+169,5,360,2,6,Sri Lanka,Avishka Fernando,Jan Nicol Loftie,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,147848,-20.56,66.89,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,7,49,3,0,0,0,0,0,0,0,0
+170,6,360,2,6,Sri Lanka,Avishka Fernando,Jan Nicol Loftie,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,147849,-67.07,166.81,1,0,,,Knuckleball,84,OFF DRIVE,0,0,6,7,50,3,0,1,1,0,1,0,0,0
+171,1,360,2,6,Sri Lanka,Avishka Fernando,Bernard Scholtz,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,147850,-73.51,55.84,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,8,50,3,1,0,1,0,0,0,0,0
+172,2,360,2,6,Sri Lanka,Avishka Fernando,Bernard Scholtz,,9,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,147851,-146.72,86.69,2,0,,,Knuckleball,36,CUT SHOT,0,0,2,8,52,3,0,0,1,0,0,0,0,0
+173,3,360,2,6,Sri Lanka,Avishka Fernando,Bernard Scholtz,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,147852,-137.05,73.80,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,8,53,3,0,0,1,0,0,0,0,0
+174,4,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Bernard Scholtz,,9,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,8.4,2,1,0,147853,-164.22,141.02,6,0,,,Knuckleball,94,SDL ON,0,0,4,8,59,3,0,0,1,0,0,0,0,0
+175,5,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Bernard Scholtz,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,147854,92.24,20.85,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,8,60,3,0,0,1,0,0,0,0,0
+176,6,360,2,6,Sri Lanka,Avishka Fernando,Bernard Scholtz,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,147855,-21.49,70.12,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,8,60,3,0,0,1,0,0,0,0,0
+177,1,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Jan Frylinck,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,147856,-89.17,-134.32,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,9,60,3,1,0,1,0,0,0,0,0
+178,2,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Jan Frylinck,,10,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.2,2,1,0,147857,-89.17,-134.32,4,0,,,Knuckleball,58,PULL SHOT,0,0,2,9,64,3,0,0,1,0,0,0,0,0
+179,3,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Jan Frylinck,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,147858,175.58,124.45,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,9,64,3,0,0,1,0,0,0,0,0
+180,4,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Jan Frylinck,,10,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.4,2,1,0,147859,175.58,124.45,4,0,,,Knuckleball,15,LOFT COVER,0,0,4,9,68,3,0,0,1,0,0,0,0,0
+181,5,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Jan Frylinck,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,147860,175.58,124.45,0,0,,,Knuckleball,105,LEFT ALONE,0,0,5,9,68,3,0,0,1,0,0,0,0,0
+182,6,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Jan Frylinck,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,147861,61.85,49.86,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,9,68,3,0,0,1,0,0,0,0,0
+183,1,360,2,6,Sri Lanka,Avishka Fernando,Gerhard Erasmus,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,147862,-58.78,-49.60,0,0,,,Knuckleball,35,LATE CUT,0,0,1,10,68,3,1,0,1,0,0,0,0,0
+184,2,360,2,6,Sri Lanka,Avishka Fernando,Gerhard Erasmus,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,147863,111.12,144.24,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,10,69,3,0,0,1,0,0,0,0,0
+185,3,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Gerhard Erasmus,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,147864,111.12,144.24,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,10,69,3,0,0,1,0,0,0,0,0
+186,4,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Gerhard Erasmus,,11,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,10.4,2,1,1,147865,111.12,144.24,1,0,,,Knuckleball,54,LEG GLANCE,0,0,4,10,70,3,0,0,1,0,0,0,0,0
+187,5,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Gerhard Erasmus,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,147866,107.44,145.63,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,10,71,3,0,0,1,0,0,0,0,0
+188,6,360,2,6,Sri Lanka,Avishka Fernando,Gerhard Erasmus,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,147867,95.46,130.43,1,0,,,Knuckleball,47,ON DRIVE,0,0,6,10,72,3,0,0,1,0,0,0,0,0
+189,7,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Gerhard Erasmus,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,147868,86.26,27.76,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,7,10,73,3,0,0,1,0,0,0,0,0
+190,1,360,2,6,Sri Lanka,Bhanuka Rajapaksa,David Wiese,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,147869,-87.33,100.04,1,0,,,Knuckleball,74,SD ON,0,0,1,11,74,3,1,0,1,0,0,0,0,0
+191,2,360,2,6,Sri Lanka,Avishka Fernando,David Wiese,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,147870,-99.30,-90.12,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,11,75,3,0,0,1,0,0,0,0,0
+192,3,360,2,6,Sri Lanka,Bhanuka Rajapaksa,David Wiese,,12,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,11.3,2,1,1,147871,-99.30,-90.12,1,0,,,Knuckleball,105,LEFT ALONE,0,0,3,11,76,3,0,0,1,0,0,0,0,0
+193,4,360,2,6,Sri Lanka,Bhanuka Rajapaksa,David Wiese,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,147872,-89.63,-97.48,1,0,,,Knuckleball,40,FLICK,0,0,4,11,77,3,0,0,1,0,0,0,0,0
+194,5,360,2,6,Sri Lanka,Avishka Fernando,David Wiese,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,147873,-63.85,13.48,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,11,77,3,0,0,1,0,0,0,0,0
+195,6,360,2,6,Sri Lanka,Avishka Fernando,David Wiese,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,147874,35.61,111.09,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,11,78,3,0,0,1,0,0,0,0,0
+196,7,360,2,6,Sri Lanka,Bhanuka Rajapaksa,David Wiese,,12,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,147875,-18.26,183.84,2,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,7,11,80,3,0,0,1,0,0,0,0,0
+197,1,360,2,6,Sri Lanka,Avishka Fernando,Ruben Trumpelmann,,13,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,12.1,2,1,0,147876,-33.00,217.45,6,0,,,Knuckleball,5,LOFT OFF,0,0,1,12,86,3,1,0,1,0,0,0,0,0
+198,2,360,2,6,Sri Lanka,Avishka Fernando,Ruben Trumpelmann,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,147877,100.99,33.28,1,0,,,Knuckleball,40,FLICK,0,0,2,12,87,3,0,0,1,0,0,0,0,0
+199,3,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Ruben Trumpelmann,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,147878,-131.99,100.96,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,12,88,3,0,0,1,0,0,0,0,0
+200,4,360,2,6,Sri Lanka,Avishka Fernando,Ruben Trumpelmann,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,147879,154.86,-8.62,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,12,89,3,0,0,1,0,0,0,0,0
+201,5,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Ruben Trumpelmann,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,147880,-145.34,98.20,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,12,90,3,0,0,1,0,0,0,0,0
+202,6,360,2,6,Sri Lanka,Avishka Fernando,Ruben Trumpelmann,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,147881,-83.18,-91.04,1,0,,,Knuckleball,15,LOFT COVER,0,0,6,12,91,3,0,0,1,0,0,0,0,0
+203,1,360,2,6,Sri Lanka,Avishka Fernando,Jan Frylinck,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,147882,-136.13,82.55,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,13,92,3,1,0,1,0,0,0,0,0
+204,2,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Jan Frylinck,,14,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,147883,-125.54,-54.66,2,0,,,Knuckleball,58,PULL SHOT,0,0,2,13,94,3,0,0,1,0,0,0,0,0
+205,3,360,2,6,Sri Lanka,Bhanuka Rajapaksa,Jan Frylinck,,14,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,13.3,2,1,0,147884,-159.62,-70.78,6,0,,,Knuckleball,58,PULL SHOT,0,0,3,13,100,3,0,1,2,0,0,1,0,0

@@ -1,0 +1,547 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.1,1,1,0,172294,-100.50,25.00,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.2,1,1,0,172296,-33.50,17.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2,3,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.3,1,1,0,172298,30.50,109.00,0,0,,,Knuckleball,47,ON DRIVE,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+3,4,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.4,1,1,0,172299,-21.50,18.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,0,0,0,0,0,0,0,0,0,0,0
+4,5,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,0.5,1,1,0,172301,-80.50,123.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,0,1,0,0,0,0,0,0,0,0,0
+5,6,433,1,65,India U19,Harnoor Singh Pannu,Matthew Humphreys,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.6,1,1,0,172303,-80.50,123.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,0,1,0,0,0,0,0,0,0,0,0
+6,1,433,1,65,India U19,Angkrish Raghuvanshi,Muzamil Sherzad,,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,1.1,1,1,0,172308,73.50,8.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,1,2,0,1,0,0,0,0,0,0,0
+7,2,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.2,1,1,0,172310,-12.50,56.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,1,2,0,0,0,0,0,0,0,0,0
+8,3,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,2,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,1.3,1,1,0,172313,-147.50,146.00,4,0,,,Knuckleball,47,ON DRIVE,0,0,3,1,6,0,0,0,0,0,0,0,0,0
+9,4,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.4,1,1,0,172315,42.50,77.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,4,1,6,0,0,0,0,0,0,0,0,0
+10,5,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.5,1,1,0,172317,42.50,77.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,5,1,6,0,0,0,0,0,0,0,0,0
+11,6,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.6,1,1,0,172318,-21.50,60.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,1,6,0,0,0,0,0,0,0,0,0
+12,1,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.1,1,1,0,172321,-65.50,9.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,2,6,0,1,0,0,0,0,0,0,0
+13,2,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.2,1,1,0,172322,-75.50,-14.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,2,6,0,0,0,0,0,0,0,0,0
+14,3,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,3,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,2.3,1,1,0,172324,-175.50,-52.00,4,0,,,Knuckleball,36,CUT SHOT,0,0,3,2,10,0,0,0,0,0,0,0,0,0
+15,4,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,3,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,2.4,1,1,0,172327,46.50,-136.00,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,2,14,0,0,0,0,0,0,0,0,0
+16,5,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,3,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,2.5,1,1,0,172330,19.50,-143.00,4,0,,,Knuckleball,54,LEG GLANCE,0,0,5,2,18,0,0,0,0,0,0,0,0,0
+17,6,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.6,1,1,0,172332,-3.50,55.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,2,18,0,0,0,0,0,0,0,0,0
+18,1,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,3.1,1,1,0,172334,-136.50,-4.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,1,3,19,0,1,0,0,0,0,0,0,0
+19,2,433,1,65,India U19,Angkrish Raghuvanshi,Muzamil Sherzad,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.2,1,1,0,172337,-22.50,22.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,3,19,0,0,0,0,0,0,0,0,0
+20,3,433,1,65,India U19,Angkrish Raghuvanshi,Muzamil Sherzad,,4,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,3.3,1,1,1,172339,-22.50,22.00,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,3,3,20,0,0,0,0,0,0,0,0,0
+21,4,433,1,65,India U19,Angkrish Raghuvanshi,Muzamil Sherzad,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.3,1,1,0,172341,-48.50,73.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,4,3,20,0,0,0,0,0,0,0,0,0
+22,5,433,1,65,India U19,Angkrish Raghuvanshi,Muzamil Sherzad,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.4,1,1,0,172343,-48.50,73.00,0,0,,,Knuckleball,54,LEG GLANCE,0,0,5,3,20,0,0,0,0,0,0,0,0,0
+23,6,433,1,65,India U19,Angkrish Raghuvanshi,Muzamil Sherzad,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.5,1,1,0,172344,-54.50,37.00,0,0,,,Knuckleball,77,SD DEFENCE,0,0,6,3,20,0,0,0,0,0,0,0,0,0
+24,7,433,1,65,India U19,Angkrish Raghuvanshi,Muzamil Sherzad,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.6,1,1,0,172347,-95.50,-4.00,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,7,3,20,0,0,0,0,0,0,0,0,0
+25,1,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,4.1,1,1,0,172352,-94.50,-5.00,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,4,21,0,1,0,0,0,0,0,0,0
+26,2,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,5,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.2,1,1,0,172353,164.50,122.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,2,4,25,0,0,0,0,0,0,0,0,0
+27,3,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,5,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.3,1,1,0,172355,-187.50,80.00,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,4,29,0,0,0,0,0,0,0,0,0
+28,4,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,4.4,1,1,0,172357,4.50,53.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,4,29,0,0,0,0,0,0,0,0,0
+29,5,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,5,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.5,1,1,0,172358,166.50,111.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,5,4,33,0,0,0,0,0,0,0,0,0
+30,6,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,4.6,1,1,0,172361,15.50,61.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,4,33,0,0,0,0,0,0,0,0,0
+31,1,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.1,1,1,0,172363,15.50,61.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,1,5,33,0,1,0,0,0,0,0,0,0
+32,2,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.2,1,1,0,172365,-42.50,42.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,5,33,0,0,0,0,0,0,0,0,0
+33,3,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,6,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,5.3,1,1,0,172366,-190.50,44.00,4,0,,,Knuckleball,40,FLICK,0,0,3,5,37,0,0,0,0,0,0,0,0,0
+34,4,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,5.4,1,1,0,172368,-184.50,8.00,4,0,,,Knuckleball,40,FLICK,0,0,4,5,41,0,0,0,0,0,0,0,0,0
+35,5,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.5,1,1,0,172371,-18.50,47.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,5,41,0,0,0,0,0,0,0,0,0
+36,6,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.6,1,1,0,172372,27.50,43.00,0,0,,30,ANGLED ACROSS,49,FORWARD DEFENCE,0,0,6,5,41,0,0,0,0,0,0,0,0,0
+37,1,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.1,1,1,0,172374,25.50,34.00,0,0,,,Knuckleball,47,ON DRIVE,0,0,1,6,41,0,1,0,0,0,0,0,0,0
+38,2,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,7,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,6.2,1,1,0,172376,-58.50,207.00,4,0,,,Knuckleball,84,OFF DRIVE,0,0,2,6,45,0,0,0,0,0,0,0,0,0
+39,3,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,6.3,1,1,0,172378,110.50,107.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,6,46,0,0,0,0,0,0,0,0,0
+40,4,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,6.4,1,1,0,172379,-80.50,-22.00,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,6,47,0,0,0,0,0,0,0,0,0
+41,5,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.5,1,1,0,172381,38.50,77.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,6,47,0,0,0,0,0,0,0,0,0
+42,6,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.6,1,1,0,172383,-92.50,13.00,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,6,47,0,0,0,0,0,0,0,0,0
+43,1,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,7.1,1,1,0,172387,-128.50,10.00,1,0,,30,ANGLED ACROSS,40,FLICK,0,0,1,7,48,0,1,0,0,0,0,0,0,0
+44,2,433,1,65,India U19,Angkrish Raghuvanshi,Muzamil Sherzad,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.2,1,1,0,172389,-27.50,26.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,7,48,0,0,0,0,0,0,0,0,0
+45,3,433,1,65,India U19,Angkrish Raghuvanshi,Muzamil Sherzad,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.3,1,1,0,172392,60.50,61.00,0,0,,,Knuckleball,47,ON DRIVE,0,0,3,7,48,0,0,0,0,0,0,0,0,0
+46,4,433,1,65,India U19,Angkrish Raghuvanshi,Muzamil Sherzad,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.4,1,1,0,172395,-0.50,17.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,7,48,0,0,0,0,0,0,0,0,0
+47,5,433,1,65,India U19,Angkrish Raghuvanshi,Muzamil Sherzad,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,7.5,1,1,0,172398,-119.50,25.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,7,49,0,0,0,0,0,0,0,0,0
+48,6,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,8,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,7.6,1,1,1,172400,-119.50,25.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,6,7,50,0,0,1,1,0,1,0,0,0
+49,7,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,7.6,1,1,0,172402,-126.50,-37.00,1,0,,,Knuckleball,40,FLICK,0,0,7,7,51,0,0,0,1,0,0,0,0,0
+50,1,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.1,1,1,0,172408,46.50,44.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,8,51,0,1,0,1,0,0,0,0,0
+51,2,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,8.2,1,1,0,172409,149.50,35.00,1,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,2,8,52,0,0,0,1,0,0,0,0,0
+52,3,433,1,65,India U19,Angkrish Raghuvanshi,Liam Doherty,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,8.3,1,1,0,172410,94.50,-11.00,1,0,,,Knuckleball,40,FLICK,0,0,3,8,53,0,0,0,1,0,0,0,0,0
+53,4,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.4,1,1,0,172412,-62.50,62.00,0,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,4,8,53,0,0,0,1,0,0,0,0,0
+54,5,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,9,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,8.5,1,1,0,172414,-192.50,19.00,4,0,,,Knuckleball,40,FLICK,0,0,5,8,57,0,0,0,1,0,0,0,0,0
+55,6,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.6,1,1,0,172416,-32.50,78.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,8,57,0,0,0,1,0,0,0,0,0
+56,1,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.1,1,1,0,172419,-78.50,-8.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,9,57,0,1,0,1,0,0,0,0,0
+57,2,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,10,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,9.2,1,1,0,172421,142.50,157.00,6,0,,,Knuckleball,94,SDL ON,0,0,2,9,63,0,0,0,1,0,0,0,0,0
+58,3,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,10,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,9.3,1,1,0,172424,153.50,-67.00,4,0,,23,ARM BALL,58,PULL SHOT,0,0,3,9,67,0,0,0,1,0,0,0,0,0
+59,4,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.4,1,1,0,172426,81.50,-1.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,9,67,0,0,0,1,0,0,0,0,0
+60,5,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,9.5,1,1,0,172428,54.50,112.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,9,68,0,0,0,1,0,0,0,0,0
+61,6,433,1,65,India U19,Harnoor Singh Pannu,Matthew Humphreys,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.6,1,1,0,172431,-80.50,0.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,9,68,0,0,0,1,0,0,0,0,0
+62,1,433,1,65,India U19,Angkrish Raghuvanshi,Liam Doherty,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.1,1,1,0,172432,84.50,-9.00,1,0,,39,ANGLED IN,40,FLICK,0,0,1,10,69,0,1,0,1,0,0,0,0,0
+63,2,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,10.2,1,1,0,172435,69.50,108.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,2,10,69,0,0,0,1,0,0,0,0,0
+64,3,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,10.3,1,1,0,172437,-45.50,42.00,0,0,,,Knuckleball,47,ON DRIVE,0,0,3,10,69,0,0,0,1,0,0,0,0,0
+65,4,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,11,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,10.4,1,1,0,172439,-177.50,-39.00,4,0,,,Knuckleball,40,FLICK,0,0,4,10,73,0,0,0,1,0,0,0,0,0
+66,5,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,10.5,1,1,0,172440,-53.50,48.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,10,73,0,0,0,1,0,0,0,0,0
+67,6,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,10.6,1,1,0,172442,16.50,17.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,10,73,0,0,0,1,0,0,0,0,0
+68,1,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,11.1,1,1,0,172445,89.50,8.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,11,74,0,1,0,1,0,0,0,0,0
+69,2,433,1,65,India U19,Harnoor Singh Pannu,Matthew Humphreys,,12,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,11.2,1,1,0,172449,-134.50,118.00,2,0,,,Knuckleball,58,PULL SHOT,0,0,2,11,76,0,0,0,1,0,0,0,0,0
+70,3,433,1,65,India U19,Harnoor Singh Pannu,Matthew Humphreys,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,11.3,1,1,0,172452,-79.50,-37.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,3,11,77,0,0,0,1,0,0,0,0,0
+71,4,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.4,1,1,0,172453,-31.50,-21.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,11,77,0,0,0,1,0,0,0,0,0
+72,5,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,12,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,11.5,1,1,0,172455,166.50,118.00,6,0,,,Knuckleball,58,PULL SHOT,0,0,5,11,83,0,0,0,1,0,0,0,0,0
+73,6,433,1,65,India U19,Angkrish Raghuvanshi,Matthew Humphreys,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.6,1,1,0,172457,45.50,48.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,11,83,0,0,0,1,0,0,0,0,0
+74,1,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,12.1,1,1,0,172460,45.50,48.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,1,12,83,0,1,0,1,0,0,0,0,0
+75,2,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,12.2,1,1,0,172462,45.50,48.00,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,2,12,83,0,0,0,1,0,0,0,0,0
+76,3,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,12.3,1,1,0,172464,-70.50,93.00,0,0,,,Knuckleball,47,ON DRIVE,0,0,3,12,83,0,0,0,1,0,0,0,0,0
+77,4,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,12.4,1,1,0,172465,-96.50,17.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,12,84,0,0,0,1,0,0,0,0,0
+78,5,433,1,65,India U19,Angkrish Raghuvanshi,Liam Doherty,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,12.5,1,1,0,172468,-53.50,-58.00,1,0,,,Knuckleball,44,GLIDE,0,0,5,12,85,0,0,0,1,0,0,0,0,0
+79,6,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,13,6,5 (NB),5,4,0,0,0,0,1,0,1,0,0,1,0,,,,0,12.6,1,1,1,172470,-145.50,153.00,5,0,,,Knuckleball,47,ON DRIVE,0,0,6,12,90,0,0,0,1,0,0,0,0,0
+80,7,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,12.6,1,1,0,172472,-14.50,122.00,1,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,7,12,91,0,0,0,1,0,0,0,0,0
+81,1,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.1,1,1,0,172476,-141.50,0.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,1,13,92,0,1,0,1,0,0,0,0,0
+82,2,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.2,1,1,0,172478,-18.50,17.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,13,92,0,0,0,1,0,0,0,0,0
+83,3,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.3,1,1,0,172479,-88.50,-4.00,0,0,,,Knuckleball,35,LATE CUT,0,0,3,13,92,0,0,0,1,0,0,0,0,0
+84,4,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.4,1,1,0,172480,-26.50,-14.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,13,92,0,0,0,1,0,0,0,0,0
+85,5,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.5,1,1,0,172482,-150.50,37.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,13,93,0,0,0,1,0,0,0,0,0
+86,6,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.6,1,1,0,172483,-126.50,-68.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,6,13,94,0,0,0,1,0,0,0,0,0
+87,1,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,14.1,1,1,0,172486,116.50,98.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,14,95,0,1,0,1,0,0,0,0,0
+88,2,433,1,65,India U19,Angkrish Raghuvanshi,Liam Doherty,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,14.2,1,1,0,172488,143.50,-27.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,14,96,0,0,0,1,0,0,0,0,0
+89,3,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,14.3,1,1,0,172490,65.50,111.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,3,14,97,0,0,0,1,0,0,0,0,0
+90,4,433,1,65,India U19,Angkrish Raghuvanshi,Liam Doherty,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.4,1,1,0,172491,-67.50,75.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,4,14,97,0,0,0,1,0,0,0,0,0
+91,5,433,1,65,India U19,Angkrish Raghuvanshi,Liam Doherty,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,14.5,1,1,0,172492,153.50,2.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,5,14,98,0,0,0,1,0,0,0,0,0
+92,6,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,15,6,5 (WD),5,0,0,0,0,0,5,1,0,0,0,1,0,,,,0,14.6,1,1,1,172493,153.50,2.00,5,0,,39,ANGLED IN,54,LEG GLANCE,0,0,6,14,103,0,0,1,2,0,0,1,0,0
+93,7,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,15,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,14.6,1,1,0,172494,-146.50,153.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,7,14,107,0,0,0,2,0,0,0,0,0
+94,1,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,15.1,1,1,0,172495,-84.50,80.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,15,108,0,1,0,2,0,0,0,0,0
+95,2,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,15.2,1,1,0,172497,43.50,-40.00,1,0,,,Knuckleball,44,GLIDE,0,0,2,15,109,0,0,0,2,0,0,0,0,0
+96,3,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.3,1,1,0,172499,-3.50,48.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,15,109,0,0,0,2,0,0,0,0,0
+97,4,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.4,1,1,0,172501,40.50,57.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,15,109,0,0,0,2,0,0,0,0,0
+98,5,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.5,1,1,0,172502,-25.50,23.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,15,109,0,0,0,2,0,0,0,0,0
+99,6,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.6,1,1,0,172505,-16.50,57.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,15,109,0,0,0,2,0,0,0,0,0
+100,1,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,17,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,,,,0,16.1,1,1,1,172512,-31.50,-58.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,1,16,110,0,1,0,2,0,0,0,0,0
+101,2,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,16.2,1,1,0,172515,74.50,-27.00,0,0,,,Knuckleball,54,LEG GLANCE,0,0,2,16,110,0,0,0,2,0,0,0,0,0
+102,3,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,16.3,1,1,0,172516,-46.50,42.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,16,110,0,0,0,2,0,0,0,0,0
+103,4,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,17,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,16.4,1,1,0,172517,168.50,-51.00,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,16,114,0,0,0,2,0,0,0,0,0
+104,5,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.5,1,1,0,172520,95.50,1.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,16,115,0,0,0,2,0,0,0,0,0
+105,6,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.6,1,1,0,172522,-115.50,106.00,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,6,16,116,0,0,0,2,0,0,0,0,0
+106,1,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,17.1,1,1,0,172525,11.50,33.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,17,116,0,1,0,2,0,0,0,0,0
+107,2,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,18,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,17.2,1,1,0,172527,2.50,31.00,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,2,17,116,0,0,0,2,0,0,0,0,0
+108,3,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,17.3,1,1,0,172528,133.50,35.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,17,117,0,0,0,2,0,0,0,0,0
+109,4,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,18,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,17.4,1,1,0,172530,-5.50,33.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,17,117,0,0,0,2,0,0,0,0,0
+110,5,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,17.5,1,1,0,172532,-141.50,6.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,17,118,0,0,0,2,0,0,0,0,0
+111,6,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,17.6,1,1,0,172534,86.50,85.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,17,119,0,0,0,2,0,0,0,0,0
+112,1,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,19,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,18.1,1,1,0,172537,-49.50,50.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,18,119,0,1,0,2,0,0,0,0,0
+113,2,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,18.2,1,1,0,172539,43.50,61.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,2,18,119,0,0,0,2,0,0,0,0,0
+114,3,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,18.3,1,1,0,172541,-79.50,-18.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,3,18,120,0,0,0,2,0,0,0,0,0
+115,4,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,18.4,1,1,0,172542,54.50,11.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,18,120,0,0,0,2,0,0,0,0,0
+116,5,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,19,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,18.5,1,1,0,172543,-149.50,145.00,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,18,124,0,0,0,2,0,0,0,0,0
+117,6,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,19,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,18.6,1,1,0,172545,125.50,23.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,18,125,0,0,0,2,0,0,0,0,0
+118,1,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,19.1,1,1,0,172549,-133.50,5.00,1,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,1,19,126,0,1,0,2,0,0,0,0,0
+119,2,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,20,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,19.2,1,1,0,172551,60.50,104.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,2,19,126,0,0,0,2,0,0,0,0,0
+120,3,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,20,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,19.3,1,1,0,172553,38.50,-36.00,0,0,,,Knuckleball,35,LATE CUT,0,0,3,19,126,0,0,0,2,0,0,0,0,0
+121,4,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,20,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,19.4,1,1,0,172554,-121.50,-56.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,4,19,127,0,0,0,2,0,0,0,0,0
+122,5,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,20,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,19.5,1,1,0,172555,-84.50,-5.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,19,127,0,0,0,2,0,0,0,0,0
+123,6,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,20,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,19.6,1,1,0,172556,83.50,-11.00,0,0,,,Knuckleball,40,FLICK,0,0,6,19,127,0,0,0,2,0,0,0,0,0
+124,1,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,21,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,20.1,1,1,0,172560,-53.50,83.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,20,127,0,1,0,2,0,0,0,0,0
+125,2,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,21,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,20.2,1,1,0,172563,-56.50,-33.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,2,20,128,0,0,0,2,0,0,0,0,0
+126,3,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,21,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,20.3,1,1,0,172565,-99.50,131.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,3,20,129,0,0,0,2,0,0,0,0,0
+127,4,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,21,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,20.4,1,1,0,172566,109.50,103.00,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,20,131,0,0,0,2,0,0,0,0,0
+128,5,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,21,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,20.5,1,1,0,172567,83.50,139.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,20,132,0,0,0,2,0,0,0,0,0
+129,6,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,21,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,20.6,1,1,0,172569,-89.50,90.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,20,133,0,0,0,2,0,0,0,0,0
+130,1,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,22,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,21.1,1,1,0,172572,-59.50,143.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,21,134,0,1,0,2,0,0,0,0,0
+131,2,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,22,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,21.2,1,1,0,172573,-59.50,143.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,21,134,0,0,0,2,0,0,0,0,0
+132,3,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,22,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,21.3,1,1,0,172574,90.50,-9.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,21,134,0,0,0,2,0,0,0,0,0
+133,4,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,22,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,21.4,1,1,0,172575,131.50,-48.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,21,135,0,0,0,2,0,0,0,0,0
+134,5,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,22,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,21.5,1,1,0,172576,-84.50,11.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,21,136,0,0,0,2,0,0,0,0,0
+135,6,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,22,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,21.6,1,1,0,172577,-100.50,114.00,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,6,21,137,0,0,0,2,0,0,0,0,0
+136,1,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,23,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,22.1,1,1,0,172580,64.50,22.00,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,22,138,0,1,0,2,0,0,0,0,0
+137,2,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,23,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,22.2,1,1,0,172582,-123.50,60.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,22,139,0,0,0,2,0,0,0,0,0
+138,3,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,23,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,22.3,1,1,0,172584,-62.50,48.00,0,0,,,Knuckleball,47,ON DRIVE,0,0,3,22,139,0,0,0,2,0,0,0,0,0
+139,4,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,23,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,22.4,1,1,0,172585,62.50,134.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,22,140,0,0,0,2,0,0,0,0,0
+140,5,433,1,65,India U19,Angkrish Raghuvanshi,Nathan McGuire,,23,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,22.5,1,1,0,172586,144.50,8.00,1,0,,,Knuckleball,40,FLICK,0,0,5,22,141,0,0,0,2,0,0,0,0,0
+141,6,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,23,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,22.6,1,1,0,172588,-22.50,-152.00,4,0,,,Knuckleball,54,LEG GLANCE,0,0,6,22,145,0,0,0,2,0,0,0,0,0
+142,1,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,24,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,23.1,1,1,0,172593,-124.50,36.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,23,146,0,1,0,2,0,0,0,0,0
+143,2,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,24,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,23.2,1,1,0,172595,39.50,43.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,23,146,0,0,0,2,0,0,0,0,0
+144,3,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,24,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,23.3,1,1,0,172596,18.50,-152.00,4,0,,,Knuckleball,84,OFF DRIVE,0,0,3,23,150,0,0,1,3,0,0,0,0,0
+145,4,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,24,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,23.4,1,1,0,172598,-100.50,4.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,23,151,0,0,0,3,0,0,0,0,0
+146,5,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,24,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,23.5,1,1,0,172600,42.50,51.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,23,151,0,0,0,3,0,0,0,0,0
+147,6,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,24,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,23.6,1,1,0,172601,97.50,4.00,1,0,,,Knuckleball,40,FLICK,0,0,6,23,152,0,0,0,3,0,0,0,0,0
+148,1,433,1,65,India U19,Angkrish Raghuvanshi,Muzamil Sherzad,,25,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,24.1,1,1,0,172607,-71.50,80.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,24,153,0,1,0,3,0,0,0,0,0
+149,2,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,25,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,24.2,1,1,0,172610,-71.50,80.00,0,0,,,Knuckleball,40,FLICK,0,0,2,24,153,0,0,0,3,0,0,0,0,0
+150,3,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,25,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,24.3,1,1,0,172611,-149.50,-75.00,4,0,,,Knuckleball,40,FLICK,0,0,3,24,157,0,0,0,3,0,0,0,0,0
+151,4,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,25,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,24.4,1,1,1,172612,-149.50,-75.00,1,0,,,Knuckleball,40,FLICK,0,0,4,24,158,0,0,0,3,0,0,0,0,0
+152,5,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,25,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,24.4,1,1,0,172613,-64.50,60.00,0,0,,,Knuckleball,47,ON DRIVE,0,0,5,24,158,0,0,0,3,0,0,0,0,0
+153,6,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,25,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,24.5,1,1,0,172615,-72.50,-39.00,0,0,,,Knuckleball,40,FLICK,0,0,6,24,158,0,0,0,3,0,0,0,0,0
+154,7,433,1,65,India U19,Harnoor Singh Pannu,Muzamil Sherzad,,25,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,24.6,1,1,0,172617,-87.50,-119.00,4,0,,,Knuckleball,54,LEG GLANCE,0,0,7,24,162,0,0,0,3,0,0,0,0,0
+155,1,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,26,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,25.1,1,1,0,172620,83.50,104.00,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,1,25,163,0,1,0,3,0,0,0,0,0
+156,2,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,26,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,25.2,1,1,0,172621,-31.50,36.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,25,163,0,0,0,3,0,0,0,0,0
+157,3,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,26,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,25.3,1,1,0,172622,81.50,92.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,3,25,164,0,0,0,3,0,0,0,0,0
+158,4,433,1,65,India U19,Angkrish Raghuvanshi,Jamie Forbes,,26,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,25.4,1,1,0,172623,81.50,92.00,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,25,164,1,1,0,3,0,0,0,0,0
+159,5,433,1,65,India U19,Rajangad Bawa,Jamie Forbes,,26,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,25.5,1,1,0,172628,-66.50,37.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,25,164,1,2,0,3,0,0,0,0,0
+160,6,433,1,65,India U19,Rajangad Bawa,Jamie Forbes,,26,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,25.6,1,1,0,172630,123.50,58.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,25,165,1,0,0,3,0,0,0,0,0
+161,1,433,1,65,India U19,Rajangad Bawa,Scott MacBeth,,27,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,26.1,1,1,0,172634,123.50,58.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,26,165,1,1,0,3,0,0,0,0,0
+162,2,433,1,65,India U19,Rajangad Bawa,Scott MacBeth,,27,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,26.2,1,1,0,172635,83.50,-13.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,26,166,1,0,0,3,0,0,0,0,0
+163,3,433,1,65,India U19,Harnoor Singh Pannu,Scott MacBeth,,27,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,26.3,1,1,0,172637,158.50,124.00,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,26,170,1,0,0,3,0,0,0,0,0
+164,4,433,1,65,India U19,Harnoor Singh Pannu,Scott MacBeth,,27,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,26.4,1,1,0,172639,66.50,93.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,4,26,170,1,0,0,3,0,0,0,0,0
+165,5,433,1,65,India U19,Harnoor Singh Pannu,Scott MacBeth,,27,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,26.5,1,1,0,172641,54.50,55.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,26,170,1,0,0,3,0,0,0,0,0
+166,6,433,1,65,India U19,Harnoor Singh Pannu,Scott MacBeth,,27,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,26.6,1,1,0,172642,8.50,50.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,26,170,1,0,0,3,0,0,0,0,0
+167,1,433,1,65,India U19,Rajangad Bawa,Jamie Forbes,,28,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,27.1,1,1,0,172644,-22.50,35.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,27,170,1,1,0,3,0,0,0,0,0
+168,2,433,1,65,India U19,Rajangad Bawa,Jamie Forbes,,28,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,27.2,1,1,0,172646,-107.50,-54.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,2,27,171,1,0,0,3,0,0,0,0,0
+169,3,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,28,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,27.3,1,1,1,172648,-107.50,-54.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,3,27,172,1,0,0,3,0,0,0,0,0
+170,4,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,28,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,27.3,1,1,0,172649,43.50,35.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,27,172,1,0,0,3,0,0,0,0,0
+171,5,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,28,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,27.4,1,1,0,172651,139.50,48.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,27,173,1,0,0,3,0,0,0,0,0
+172,6,433,1,65,India U19,Rajangad Bawa,Jamie Forbes,,28,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,27.5,1,1,0,172653,-77.50,145.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,6,27,174,1,0,0,3,0,0,0,0,0
+173,7,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,28,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,27.6,1,1,0,172654,-48.50,35.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,7,27,174,1,0,0,3,0,0,0,0,0
+174,1,433,1,65,India U19,Rajangad Bawa,Scott MacBeth,,29,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.1,1,1,0,172657,51.50,59.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,28,174,1,1,0,3,0,0,0,0,0
+175,2,433,1,65,India U19,Rajangad Bawa,Scott MacBeth,,29,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,28.2,1,1,0,172658,81.50,89.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,2,28,175,1,0,0,3,0,0,0,0,0
+176,3,433,1,65,India U19,Harnoor Singh Pannu,Scott MacBeth,,29,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.3,1,1,0,172659,75.50,89.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,3,28,175,1,0,0,3,0,0,0,0,0
+177,4,433,1,65,India U19,Harnoor Singh Pannu,Scott MacBeth,,29,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.4,1,1,0,172660,73.50,-13.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,28,175,1,0,0,3,0,0,0,0,0
+178,5,433,1,65,India U19,Harnoor Singh Pannu,Scott MacBeth,,29,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.5,1,1,0,172662,32.50,-2.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,28,175,1,0,0,3,0,0,0,0,0
+179,6,433,1,65,India U19,Harnoor Singh Pannu,Scott MacBeth,,29,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.6,1,1,0,172663,32.50,-2.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,28,175,1,0,0,3,0,0,0,0,0
+180,1,433,1,65,India U19,Rajangad Bawa,Jamie Forbes,,30,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,29.1,1,1,0,172665,84.50,-3.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,29,176,1,1,0,3,0,0,0,0,0
+181,2,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,30,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,29.2,1,1,0,172667,-115.50,-54.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,2,29,177,1,0,0,3,0,0,0,0,0
+182,3,433,1,65,India U19,Rajangad Bawa,Jamie Forbes,,30,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,29.3,1,1,0,172669,97.50,10.00,0,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,3,29,177,1,0,0,3,0,0,0,0,0
+183,4,433,1,65,India U19,Rajangad Bawa,Jamie Forbes,,30,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,29.4,1,1,0,172670,97.50,10.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,4,29,177,1,0,0,3,0,0,0,0,0
+184,5,433,1,65,India U19,Rajangad Bawa,Jamie Forbes,,30,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,29.5,1,1,0,172672,42.50,31.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,29,177,1,0,0,3,0,0,0,0,0
+185,6,433,1,65,India U19,Rajangad Bawa,Jamie Forbes,,30,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,29.6,1,1,0,172673,42.50,31.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,29,177,1,0,0,3,0,0,0,0,0
+186,1,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,31,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.1,1,1,0,172675,-9.50,23.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,30,177,1,1,0,3,0,0,0,0,0
+187,2,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,31,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,30.2,1,1,0,172676,127.50,96.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,30,178,1,0,0,3,0,0,0,0,0
+188,3,433,1,65,India U19,Rajangad Bawa,Nathan McGuire,,31,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.3,1,1,0,172678,-18.50,100.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,30,178,1,0,0,3,0,0,0,0,0
+189,4,433,1,65,India U19,Rajangad Bawa,Nathan McGuire,,31,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.4,1,1,0,172679,-40.50,25.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,30,178,1,0,0,3,0,0,0,0,0
+190,5,433,1,65,India U19,Rajangad Bawa,Nathan McGuire,,31,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.5,1,1,0,172681,25.50,27.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,30,178,1,0,0,3,0,0,0,0,0
+191,6,433,1,65,India U19,Rajangad Bawa,Nathan McGuire,,31,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.6,1,1,0,172682,-33.50,27.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,30,178,1,0,0,3,0,0,0,0,0
+192,1,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,32,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,31.1,1,1,0,172685,-59.50,48.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,31,178,1,1,0,3,0,0,0,0,0
+193,2,433,1,65,India U19,Harnoor Singh Pannu,Jamie Forbes,,32,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,31.2,1,1,0,172686,-109.50,-22.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,31,179,1,0,0,3,0,0,0,0,0
+194,3,433,1,65,India U19,Rajangad Bawa,Jamie Forbes,,32,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,31.3,1,1,0,172688,85.50,201.00,6,0,,,Knuckleball,5,LOFT OFF,0,0,3,31,185,1,0,0,3,0,0,0,0,0
+195,4,433,1,65,India U19,Rajangad Bawa,Jamie Forbes,,32,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,31.4,1,1,0,172689,49.50,-14.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,31,185,1,0,0,3,0,0,0,0,0
+196,5,433,1,65,India U19,Rajangad Bawa,Jamie Forbes,,32,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,31.5,1,1,0,172690,80.50,-19.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,31,185,1,0,0,3,0,0,0,0,0
+197,6,433,1,65,India U19,Rajangad Bawa,Jamie Forbes,,32,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,31.6,1,1,0,172691,117.50,-15.00,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,6,31,186,1,0,0,3,0,0,0,0,0
+198,1,433,1,65,India U19,Rajangad Bawa,Nathan McGuire,,33,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,32.1,1,1,0,172692,-56.50,104.00,1,0,,,Knuckleball,11,LOFT ON,0,0,1,32,187,1,1,0,3,0,0,0,0,0
+199,2,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,33,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,32.2,1,1,0,172693,-84.50,-9.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,32,187,1,0,0,3,0,0,0,0,0
+200,3,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,33,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,32.3,1,1,0,172694,-33.50,34.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,32,187,1,0,0,3,0,0,0,0,0
+201,4,433,1,65,India U19,Harnoor Singh Pannu,Nathan McGuire,,33,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,32.4,1,1,0,172695,-29.50,38.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,32,188,1,0,0,3,0,0,0,0,0
+202,5,433,1,65,India U19,Rajangad Bawa,Nathan McGuire,,33,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,32.5,1,1,0,172696,-29.50,38.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,32,188,1,0,0,3,0,0,0,0,0
+203,6,433,1,65,India U19,Rajangad Bawa,Nathan McGuire,,33,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,32.6,1,1,0,172697,-43.50,17.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,32,188,1,0,0,3,0,0,0,0,0
+204,1,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,34,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,33.1,1,1,0,172699,-130.50,35.00,2,0,,,Knuckleball,58,PULL SHOT,0,0,1,33,190,1,1,0,3,0,0,0,0,0
+205,2,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,34,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,33.2,1,1,0,172700,122.50,51.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,33,191,1,0,0,3,0,0,0,0,0
+206,3,433,1,65,India U19,Rajangad Bawa,Liam Doherty,,34,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,33.3,1,1,0,172701,142.50,2.00,1,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,3,33,192,1,0,0,3,0,0,0,0,0
+207,4,433,1,65,India U19,Harnoor Singh Pannu,Liam Doherty,,34,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,33.4,1,1,0,172703,-102.50,115.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,4,33,193,1,0,0,3,0,0,0,0,0
+208,5,433,1,65,India U19,Rajangad Bawa,Liam Doherty,,34,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,33.5,1,1,0,172704,80.50,40.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,33,193,1,0,0,3,0,0,0,0,0
+209,6,433,1,65,India U19,Rajangad Bawa,Liam Doherty,,34,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,33.6,1,1,0,172705,-78.50,9.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,33,194,1,0,0,3,0,0,0,0,0
+210,1,433,1,65,India U19,Rajangad Bawa,Matthew Humphreys,,35,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,34.1,1,1,0,172709,5.50,11.00,1,0,,,Knuckleball,44,GLIDE,0,0,1,34,195,1,1,0,3,0,0,0,0,0
+211,2,433,1,65,India U19,Harnoor Singh Pannu,Matthew Humphreys,,35,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.2,1,1,0,172711,5.50,11.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,34,195,1,0,0,3,0,0,0,0,0
+212,3,433,1,65,India U19,Harnoor Singh Pannu,Matthew Humphreys,,35,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.3,1,1,0,172713,5.50,11.00,0,0,,,Knuckleball,35,LATE CUT,0,0,3,34,195,1,0,0,3,0,0,0,0,0
+213,4,433,1,65,India U19,Harnoor Singh Pannu,Matthew Humphreys,,35,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,34.4,1,1,0,172715,5.50,11.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,34,195,2,1,0,3,0,0,0,0,0
+214,5,433,1,65,India U19,Nishant Sindhu,Matthew Humphreys,,35,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.5,1,1,0,172720,68.50,95.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,34,195,2,2,0,3,0,0,0,0,0
+215,6,433,1,65,India U19,Nishant Sindhu,Matthew Humphreys,,35,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.6,1,1,0,172721,-43.50,72.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,34,195,2,0,0,3,0,0,0,0,0
+216,1,433,1,65,India U19,Rajangad Bawa,Liam Doherty,,36,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,35.1,1,1,0,172723,100.50,-80.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,35,196,2,1,0,3,0,0,0,0,0
+217,2,433,1,65,India U19,Nishant Sindhu,Liam Doherty,,36,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,35.2,1,1,0,172725,-108.50,-50.00,1,0,,39,ANGLED IN,40,FLICK,0,0,2,35,197,2,0,0,3,0,0,0,0,0
+218,3,433,1,65,India U19,Rajangad Bawa,Liam Doherty,,36,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,35.3,1,1,0,172726,-38.50,24.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,35,197,2,0,0,3,0,0,0,0,0
+219,4,433,1,65,India U19,Rajangad Bawa,Liam Doherty,,36,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,35.4,1,1,0,172727,-64.50,88.00,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,4,35,198,2,0,0,3,0,0,0,0,0
+220,5,433,1,65,India U19,Nishant Sindhu,Liam Doherty,,36,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,35.5,1,1,0,172728,18.50,54.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,35,198,2,0,0,3,0,0,0,0,0
+221,6,433,1,65,India U19,Nishant Sindhu,Liam Doherty,,36,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,35.6,1,1,0,172730,-73.50,91.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,6,35,198,2,0,0,3,0,0,0,0,0
+222,1,433,1,65,India U19,Rajangad Bawa,Matthew Humphreys,,37,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,36.1,1,1,0,172733,-33.50,71.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,36,198,2,1,0,3,0,0,0,0,0
+223,2,433,1,65,India U19,Rajangad Bawa,Matthew Humphreys,,37,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,36.2,1,1,0,172735,124.50,54.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,36,199,2,0,0,3,0,0,0,0,0
+224,3,433,1,65,India U19,Nishant Sindhu,Matthew Humphreys,,37,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,36.3,1,1,0,172737,34.50,-109.00,2,0,,,Knuckleball,35,LATE CUT,0,0,3,36,201,2,0,1,4,0,0,0,1,0
+225,4,433,1,65,India U19,Nishant Sindhu,Matthew Humphreys,,37,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,36.4,1,1,0,172739,-112.50,101.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,4,36,202,2,0,0,4,0,0,0,0,0
+226,5,433,1,65,India U19,Rajangad Bawa,Matthew Humphreys,,37,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,36.5,1,1,0,172740,-64.50,-43.00,0,0,,,Knuckleball,54,LEG GLANCE,0,0,5,36,202,2,0,0,4,0,0,0,0,0
+227,6,433,1,65,India U19,Rajangad Bawa,Matthew Humphreys,,37,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,36.6,1,1,0,172741,83.50,91.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,6,36,202,2,0,0,4,0,0,0,0,0
+228,1,433,1,65,India U19,Nishant Sindhu,Liam Doherty,,38,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,37.1,1,1,0,172744,133.50,158.00,4,0,,,Knuckleball,84,OFF DRIVE,0,0,1,37,206,2,1,0,4,0,0,0,0,0
+229,2,433,1,65,India U19,Nishant Sindhu,Liam Doherty,,38,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,37.2,1,1,0,172746,85.50,-5.00,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,2,37,206,2,0,0,4,0,0,0,0,0
+230,3,433,1,65,India U19,Nishant Sindhu,Liam Doherty,,38,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,37.3,1,1,0,172748,135.50,44.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,37,207,2,0,0,4,0,0,0,0,0
+231,4,433,1,65,India U19,Rajangad Bawa,Liam Doherty,,38,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,37.4,1,1,0,172749,-79.50,127.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,37,208,2,0,0,4,0,0,0,0,0
+232,5,433,1,65,India U19,Nishant Sindhu,Liam Doherty,,38,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,37.5,1,1,0,172751,55.50,29.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,37,208,2,0,0,4,0,0,0,0,0
+233,6,433,1,65,India U19,Nishant Sindhu,Liam Doherty,,38,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,37.6,1,1,0,172752,11.50,37.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,37,208,2,0,0,4,0,0,0,0,0
+234,1,433,1,65,India U19,Rajangad Bawa,Matthew Humphreys,,39,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,38.1,1,1,0,172755,-139.50,42.00,1,0,,,Knuckleball,40,FLICK,0,0,1,38,209,2,1,0,4,0,0,0,0,0
+235,2,433,1,65,India U19,Nishant Sindhu,Matthew Humphreys,,39,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,38.2,1,1,0,172756,-107.50,102.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,38,210,2,0,0,4,0,0,0,0,0
+236,3,433,1,65,India U19,Rajangad Bawa,Matthew Humphreys,,39,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,38.3,1,1,0,172758,-13.50,-62.00,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,38,211,2,0,0,4,0,0,0,0,0
+237,4,433,1,65,India U19,Nishant Sindhu,Matthew Humphreys,,39,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,38.4,1,1,0,172760,-115.50,-21.00,1,0,,10,ORTHODOX,40,FLICK,0,0,4,38,212,2,0,0,4,0,0,0,0,0
+238,5,433,1,65,India U19,Rajangad Bawa,Matthew Humphreys,,39,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,38.5,1,1,0,172761,55.50,35.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,38,212,2,0,0,4,0,0,0,0,0
+239,6,433,1,65,India U19,Rajangad Bawa,Matthew Humphreys,,39,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,38.6,1,1,0,172763,-22.50,20.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,6,38,212,2,0,0,4,0,0,0,0,0
+240,1,433,1,65,India U19,Nishant Sindhu,Muzamil Sherzad,,40,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,39.1,1,1,0,172765,0.50,53.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,39,212,2,1,0,4,0,0,0,0,0
+241,2,433,1,65,India U19,Nishant Sindhu,Muzamil Sherzad,,40,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,39.2,1,1,0,172767,-73.50,20.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,39,212,2,0,0,4,0,0,0,0,0
+242,3,433,1,65,India U19,Nishant Sindhu,Muzamil Sherzad,,40,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,39.3,1,1,0,172769,-44.50,-143.00,4,0,,,Knuckleball,54,LEG GLANCE,0,0,3,39,216,2,0,0,4,0,0,0,0,0
+243,4,433,1,65,India U19,Nishant Sindhu,Muzamil Sherzad,,40,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,39.4,1,1,0,172770,-134.50,-84.00,4,0,,,Knuckleball,40,FLICK,0,0,4,39,220,2,0,0,4,0,0,0,0,0
+244,5,433,1,65,India U19,Nishant Sindhu,Muzamil Sherzad,,40,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,39.5,1,1,0,172773,58.50,-10.00,0,0,,,Knuckleball,77,SD DEFENCE,0,0,5,39,220,2,0,0,4,0,0,0,0,0
+245,6,433,1,65,India U19,Nishant Sindhu,Muzamil Sherzad,,40,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,39.6,1,1,0,172774,124.50,85.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,39,221,2,0,0,4,0,0,0,0,0
+246,1,433,1,65,India U19,Nishant Sindhu,Matthew Humphreys,,41,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,40.1,1,1,0,172778,-55.50,49.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,40,221,2,1,0,4,0,0,0,0,0
+247,2,433,1,65,India U19,Nishant Sindhu,Matthew Humphreys,,41,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,40.2,1,1,0,172779,-90.50,139.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,40,222,2,0,0,4,0,0,0,0,0
+248,3,433,1,65,India U19,Rajangad Bawa,Matthew Humphreys,,41,3,5 (WD),5,0,0,0,0,0,5,1,0,0,0,1,0,,,,0,40.3,1,1,1,172781,-90.50,139.00,5,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,40,227,2,0,0,4,0,0,0,0,0
+249,4,433,1,65,India U19,Rajangad Bawa,Matthew Humphreys,,41,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,40.3,1,1,0,172783,67.50,-45.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,40,227,2,0,0,4,0,0,0,0,0
+250,5,433,1,65,India U19,Rajangad Bawa,Matthew Humphreys,,41,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,40.4,1,1,0,172784,23.50,48.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,40,227,2,0,0,4,0,0,0,0,0
+251,6,433,1,65,India U19,Rajangad Bawa,Matthew Humphreys,,41,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,40.5,1,1,0,172785,95.50,186.00,4,0,,,Knuckleball,84,OFF DRIVE,0,0,6,40,231,2,0,0,4,0,0,0,0,0
+252,7,433,1,65,India U19,Rajangad Bawa,Matthew Humphreys,,41,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,40.6,1,1,0,172787,41.50,42.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,7,40,231,2,0,0,4,0,0,0,0,0
+253,1,433,1,65,India U19,Nishant Sindhu,Liam Doherty,,42,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,41.1,1,1,0,172790,47.50,55.00,0,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,1,41,231,2,1,0,4,0,0,0,0,0
+254,2,433,1,65,India U19,Nishant Sindhu,Liam Doherty,,42,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,41.2,1,1,0,172792,-13.50,149.00,1,0,,39,ANGLED IN,19,BACKFOOT STRAIGHT DRIVE,0,0,2,41,232,2,0,0,4,0,0,0,0,0
+255,3,433,1,65,India U19,Rajangad Bawa,Liam Doherty,,42,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,41.3,1,1,0,172794,80.50,135.00,1,0,,39,ANGLED IN,84,OFF DRIVE,0,0,3,41,233,2,0,0,4,0,0,0,0,0
+256,4,433,1,65,India U19,Nishant Sindhu,Liam Doherty,,42,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,41.4,1,1,0,172796,94.50,130.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,41,234,2,0,0,4,0,0,0,0,0
+257,5,433,1,65,India U19,Rajangad Bawa,Liam Doherty,,42,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,41.5,1,1,0,172797,-21.50,-68.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,5,41,235,2,0,0,4,0,0,0,0,0
+258,6,433,1,65,India U19,Nishant Sindhu,Liam Doherty,,42,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,41.6,1,1,0,172798,148.50,142.00,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,41,239,2,0,0,4,0,0,0,0,0
+259,1,433,1,65,India U19,Rajangad Bawa,Nathan McGuire,,43,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,42.1,1,1,0,172801,-107.50,121.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,1,42,240,2,1,0,4,0,0,0,0,0
+260,2,433,1,65,India U19,Nishant Sindhu,Nathan McGuire,,43,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,42.2,1,1,0,172803,-84.50,142.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,42,241,2,0,0,4,0,0,0,0,0
+261,3,433,1,65,India U19,Rajangad Bawa,Nathan McGuire,,43,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,42.3,1,1,0,172805,73.50,85.00,0,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,3,42,241,2,0,0,4,0,0,0,0,0
+262,4,433,1,65,India U19,Rajangad Bawa,Nathan McGuire,,43,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,42.4,1,1,0,172806,-4.50,61.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,42,241,2,0,0,4,0,0,0,0,0
+263,5,433,1,65,India U19,Rajangad Bawa,Nathan McGuire,,43,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,42.5,1,1,0,172808,38.50,-121.00,2,0,,,Knuckleball,44,GLIDE,0,0,5,42,243,2,0,0,4,0,0,0,0,0
+264,6,433,1,65,India U19,Rajangad Bawa,Nathan McGuire,,43,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,42.6,1,1,0,172810,-130.50,-99.00,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,42,247,2,0,0,4,0,0,0,0,0
+265,1,433,1,65,India U19,Nishant Sindhu,Muzamil Sherzad,,44,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,43.1,1,1,0,172812,69.50,135.00,1,0,,30,ANGLED ACROSS,84,OFF DRIVE,0,0,1,43,248,2,1,0,4,0,0,0,0,0
+266,2,433,1,65,India U19,Rajangad Bawa,Muzamil Sherzad,,44,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,43.2,1,1,0,172813,-58.50,149.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,43,249,2,0,0,4,0,0,0,0,0
+267,3,433,1,65,India U19,Nishant Sindhu,Muzamil Sherzad,,44,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,43.3,1,1,0,172815,147.50,45.00,1,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,3,43,250,2,0,1,5,0,0,0,0,0
+268,4,433,1,65,India U19,Rajangad Bawa,Muzamil Sherzad,,44,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,43.4,1,1,0,172816,-94.50,124.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,4,43,251,2,0,0,5,0,0,0,0,0
+269,5,433,1,65,India U19,Nishant Sindhu,Muzamil Sherzad,,44,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,43.5,1,1,0,172817,-33.50,-145.00,4,0,,,Knuckleball,40,FLICK,0,0,5,43,255,2,0,0,5,0,0,0,0,0
+270,6,433,1,65,India U19,Nishant Sindhu,Muzamil Sherzad,,44,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,43.6,1,1,0,172819,70.50,73.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,43,255,2,0,0,5,0,0,0,0,0
+271,1,433,1,65,India U19,Rajangad Bawa,Nathan McGuire,,45,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,44.1,1,1,0,172823,-77.50,163.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,1,44,256,2,1,0,5,0,0,0,0,0
+272,2,433,1,65,India U19,Nishant Sindhu,Nathan McGuire,,45,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,44.2,1,1,0,172824,-89.50,26.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,44,257,2,0,0,5,0,0,0,0,0
+273,3,433,1,65,India U19,Rajangad Bawa,Nathan McGuire,,45,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,44.3,1,1,0,172825,-47.50,55.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,44,257,2,0,0,5,0,0,0,0,0
+274,4,433,1,65,India U19,Rajangad Bawa,Nathan McGuire,,45,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,44.4,1,1,0,172827,-29.50,60.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,44,257,2,0,0,5,0,0,0,0,0
+275,5,433,1,65,India U19,Rajangad Bawa,Nathan McGuire,,45,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,44.5,1,1,0,172829,51.50,51.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,44,257,2,0,0,5,0,0,0,0,0
+276,6,433,1,65,India U19,Rajangad Bawa,Nathan McGuire,,45,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,44.6,1,1,0,172830,25.50,66.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,44,257,2,0,0,5,0,0,0,0,0
+277,1,433,1,65,India U19,Nishant Sindhu,Muzamil Sherzad,,46,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,45.1,1,1,0,172834,17.50,137.00,1,0,,,Knuckleball,19,BACKFOOT STRAIGHT DRIVE,0,0,1,45,258,2,1,0,5,0,0,0,0,0
+278,2,433,1,65,India U19,Rajangad Bawa,Muzamil Sherzad,,46,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,45.2,1,1,0,172835,82.50,149.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,2,45,259,2,0,0,5,0,0,0,0,0
+279,3,433,1,65,India U19,Nishant Sindhu,Muzamil Sherzad,,46,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,45.3,1,1,0,172837,82.50,149.00,0,0,,,Knuckleball,54,LEG GLANCE,0,0,3,45,259,3,1,0,5,0,0,0,0,0
+280,4,433,1,65,India U19,Rajvardhan Hangargekar,Muzamil Sherzad,,46,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,45.4,1,1,0,172841,-68.50,146.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,45,260,3,2,0,5,0,0,0,0,0
+281,5,433,1,65,India U19,Rajangad Bawa,Muzamil Sherzad,,46,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,45.5,1,1,0,172843,69.50,141.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,45,261,3,0,0,5,0,0,0,0,0
+282,6,433,1,65,India U19,Rajvardhan Hangargekar,Muzamil Sherzad,,46,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,45.6,1,1,0,172845,-18.50,173.00,1,0,,,Knuckleball,18,SLOG SHOT,0,0,6,45,262,3,0,0,5,0,0,0,0,0
+283,1,433,1,65,India U19,Rajvardhan Hangargekar,Matthew Humphreys,,47,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,46.1,1,1,0,172848,114.50,107.00,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,46,263,3,1,0,5,0,0,0,0,0
+284,2,433,1,65,India U19,Rajangad Bawa,Matthew Humphreys,,47,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,46.2,1,1,0,172850,-54.50,97.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,46,264,3,0,0,5,0,0,0,0,0
+285,3,433,1,65,India U19,Rajvardhan Hangargekar,Matthew Humphreys,,47,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,46.3,1,1,0,172852,6.50,-12.00,0,0,,,Knuckleball,94,SDL ON,0,0,3,46,264,3,0,0,5,0,0,0,0,0
+286,4,433,1,65,India U19,Rajvardhan Hangargekar,Matthew Humphreys,,47,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,46.4,1,1,0,172854,-13.50,-4.00,0,0,,,Knuckleball,11,LOFT ON,0,0,4,46,264,3,0,0,5,0,0,0,0,0
+287,5,433,1,65,India U19,Rajvardhan Hangargekar,Matthew Humphreys,,47,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,46.5,1,1,0,172856,-49.50,48.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,46,265,3,0,0,5,0,0,0,0,0
+288,6,433,1,65,India U19,Rajangad Bawa,Matthew Humphreys,,47,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,46.6,1,1,0,172858,-49.50,48.00,0,0,,,Knuckleball,35,LATE CUT,0,0,6,46,265,3,0,0,5,0,0,0,0,0
+289,1,433,1,65,India U19,Rajvardhan Hangargekar,Muzamil Sherzad,,48,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,47.1,1,1,0,172860,84.50,143.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,1,47,266,3,1,0,5,0,0,0,0,0
+290,2,433,1,65,India U19,Rajangad Bawa,Muzamil Sherzad,,48,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,47.2,1,1,0,172863,152.50,-40.00,0,0,,,Knuckleball,40,FLICK,0,0,2,47,266,4,2,0,5,0,0,0,0,0
+291,3,433,1,65,India U19,Kaushal Tambe,Muzamil Sherzad,,48,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,47.3,1,1,0,172865,152.50,-40.00,2,0,,,Knuckleball,40,FLICK,0,0,3,47,268,4,3,0,5,0,0,0,0,0
+292,4,433,1,65,India U19,Kaushal Tambe,Muzamil Sherzad,,48,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,47.4,1,1,0,172867,-56.50,12.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,47,269,4,0,0,5,0,0,0,0,0
+293,5,433,1,65,India U19,Rajvardhan Hangargekar,Muzamil Sherzad,,48,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,,,,0,47.5,1,1,1,172870,-56.50,12.00,1,0,,,Knuckleball,18,SLOG SHOT,0,0,5,47,270,4,0,0,5,0,0,0,0,0
+294,6,433,1,65,India U19,Kaushal Tambe,Muzamil Sherzad,,48,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,47.6,1,1,0,172871,87.50,22.00,1,0,,,Knuckleball,40,FLICK,0,0,6,47,271,4,0,0,5,0,0,0,0,0
+295,1,433,1,65,India U19,Kaushal Tambe,Matthew Humphreys,,49,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,48.1,1,1,0,172874,102.50,72.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,1,48,272,4,1,0,5,0,0,0,0,0
+296,2,433,1,65,India U19,Rajvardhan Hangargekar,Matthew Humphreys,,49,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,48.2,1,1,0,172876,0.50,213.00,6,0,,,Knuckleball,69,SDL STRAIGHT,0,0,2,48,278,4,0,0,5,0,0,0,0,0
+297,3,433,1,65,India U19,Rajvardhan Hangargekar,Matthew Humphreys,,49,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,48.3,1,1,0,172878,0.50,213.00,0,0,,,Knuckleball,94,SDL ON,0,0,3,48,278,4,0,0,5,0,0,0,0,0
+298,4,433,1,65,India U19,Rajvardhan Hangargekar,Matthew Humphreys,,49,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,48.4,1,1,0,172880,146.50,148.00,6,0,,,Knuckleball,11,LOFT ON,0,0,4,48,284,4,0,0,5,0,0,0,0,0
+299,5,433,1,65,India U19,Rajvardhan Hangargekar,Matthew Humphreys,,49,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,48.5,1,1,0,172882,146.50,148.00,0,0,,,Knuckleball,18,SLOG SHOT,0,0,5,48,284,4,0,0,5,0,0,0,0,0
+300,6,433,1,65,India U19,Rajvardhan Hangargekar,Matthew Humphreys,,49,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,48.6,1,1,0,172883,146.50,148.00,0,0,,,Knuckleball,94,SDL ON,0,0,6,48,284,4,0,0,5,0,0,0,0,0
+301,1,433,1,65,India U19,Kaushal Tambe,Muzamil Sherzad,,50,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,49.1,1,1,0,172887,146.50,148.00,0,0,,,Knuckleball,18,SLOG SHOT,0,0,1,49,284,5,1,0,5,0,0,0,0,0
+302,2,433,1,65,India U19,Dinesh Bana,Muzamil Sherzad,,50,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,49.2,1,1,0,172891,-79.50,66.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,49,285,5,2,0,5,0,0,0,0,0
+303,3,433,1,65,India U19,Rajvardhan Hangargekar,Muzamil Sherzad,,50,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,49.3,1,1,0,172893,156.50,146.00,6,0,,,Knuckleball,11,LOFT ON,0,0,3,49,291,5,0,0,5,0,0,0,0,0
+304,4,433,1,65,India U19,Rajvardhan Hangargekar,Muzamil Sherzad,,50,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,49.4,1,1,0,172895,3.50,214.00,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,4,49,297,5,0,0,5,0,0,0,0,0
+305,5,433,1,65,India U19,Rajvardhan Hangargekar,Muzamil Sherzad,,50,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,49.5,1,1,0,172898,-0.50,213.00,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,5,49,303,5,0,1,6,0,0,0,0,0
+306,6,433,1,65,India U19,Rajvardhan Hangargekar,Muzamil Sherzad,,50,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,49.6,1,1,0,172901,-142.50,-87.00,4,0,,,Knuckleball,96,Slice,0,0,6,49,307,5,0,0,6,0,0,0,0,0
+307,1,433,2,66,Ireland U19,Liam Doherty,Rajvardhan Hangargekar,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.1,2,1,0,172903,-49.50,77.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+308,2,433,2,66,Ireland U19,Liam Doherty,Rajvardhan Hangargekar,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.2,2,1,0,172904,-58.50,105.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+309,3,433,2,66,Ireland U19,Liam Doherty,Rajvardhan Hangargekar,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,0.3,2,1,0,172905,-51.50,-36.00,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+310,4,433,2,66,Ireland U19,David Vincent,Rajvardhan Hangargekar,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.4,2,1,0,172906,-51.50,-36.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,0,1,0,0,0,0,0,0,0,0,0
+311,5,433,2,66,Ireland U19,David Vincent,Rajvardhan Hangargekar,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.5,2,1,0,172907,-9.50,36.00,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,5,0,1,0,0,0,0,0,0,0,0,0
+312,6,433,2,66,Ireland U19,David Vincent,Rajvardhan Hangargekar,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.6,2,1,0,172908,-32.50,21.00,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,6,0,1,0,0,0,0,0,0,0,0,0
+313,1,433,2,66,Ireland U19,Liam Doherty,Ravi Kumar,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.1,2,1,0,172909,-62.50,42.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,1,1,0,1,0,0,0,0,0,0,0
+314,2,433,2,66,Ireland U19,Liam Doherty,Ravi Kumar,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.2,2,1,0,172910,-94.50,9.00,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,2,1,1,0,0,0,0,0,0,0,0,0
+315,3,433,2,66,Ireland U19,Liam Doherty,Ravi Kumar,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,1.3,2,1,0,172911,46.50,44.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,1,2,0,0,0,0,0,0,0,0,0
+316,4,433,2,66,Ireland U19,David Vincent,Ravi Kumar,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.4,2,1,0,172912,46.50,44.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,1,2,0,0,0,0,0,0,0,0,0
+317,5,433,2,66,Ireland U19,David Vincent,Ravi Kumar,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.5,2,1,0,172913,46.50,44.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,1,2,0,0,0,0,0,0,0,0,0
+318,6,433,2,66,Ireland U19,David Vincent,Ravi Kumar,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.6,2,1,0,172914,-87.50,6.00,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,6,1,2,0,0,0,0,0,0,0,0,0
+319,1,433,2,66,Ireland U19,Liam Doherty,Rajvardhan Hangargekar,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.1,2,1,0,172915,-29.50,40.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,2,2,0,1,0,0,0,0,0,0,0
+320,2,433,2,66,Ireland U19,Liam Doherty,Rajvardhan Hangargekar,,3,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,2.2,2,1,1,172916,-29.50,40.00,1,0,,39,ANGLED IN,40,FLICK,0,0,2,2,3,0,0,0,0,0,0,0,0,0
+321,3,433,2,66,Ireland U19,Liam Doherty,Rajvardhan Hangargekar,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,2.2,2,1,0,172917,-110.50,-63.00,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,3,2,4,0,0,0,0,0,0,0,0,0
+322,4,433,2,66,Ireland U19,David Vincent,Rajvardhan Hangargekar,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.3,2,1,0,172918,-84.50,53.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,2,4,0,0,0,0,0,0,0,0,0
+323,5,433,2,66,Ireland U19,David Vincent,Rajvardhan Hangargekar,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.4,2,1,0,172919,-58.50,-32.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,2,4,0,0,0,0,0,0,0,0,0
+324,6,433,2,66,Ireland U19,David Vincent,Rajvardhan Hangargekar,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.5,2,1,0,172920,-88.50,44.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,2,4,0,0,0,0,0,0,0,0,0
+325,7,433,2,66,Ireland U19,David Vincent,Rajvardhan Hangargekar,,3,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,2.6,2,1,0,172921,-123.50,-64.00,2,0,,,Knuckleball,59,SQUARE DRIVE,0,0,7,2,6,0,0,0,0,0,0,0,0,0
+326,1,433,2,66,Ireland U19,Liam Doherty,Ravi Kumar,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.1,2,1,0,172922,-27.50,19.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,3,6,0,1,0,0,0,0,0,0,0
+327,2,433,2,66,Ireland U19,Liam Doherty,Ravi Kumar,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.2,2,1,0,172923,-27.50,19.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,3,6,0,0,0,0,0,0,0,0,0
+328,3,433,2,66,Ireland U19,Liam Doherty,Ravi Kumar,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.3,2,1,0,172924,-72.50,-9.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,3,6,0,0,0,0,0,0,0,0,0
+329,4,433,2,66,Ireland U19,Liam Doherty,Ravi Kumar,,4,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,3.4,2,1,0,172925,-111.50,176.00,4,0,,,Knuckleball,84,OFF DRIVE,0,0,4,3,10,0,0,0,0,0,0,0,0,0
+330,5,433,2,66,Ireland U19,Liam Doherty,Ravi Kumar,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.5,2,1,0,172926,-52.50,59.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,3,10,0,0,0,0,0,0,0,0,0
+331,6,433,2,66,Ireland U19,Liam Doherty,Ravi Kumar,,4,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,3.6,2,1,0,172927,-52.50,59.00,0,0,,8,OFF CUTTER,40,FLICK,0,0,6,3,10,1,1,0,0,0,0,0,0,0
+332,1,433,2,66,Ireland U19,Jack Dickson,Rajvardhan Hangargekar,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,4.1,2,1,0,172928,87.50,0.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,4,10,1,2,0,0,0,0,0,0,0
+333,2,433,2,66,Ireland U19,Jack Dickson,Rajvardhan Hangargekar,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,4.2,2,1,0,172929,87.50,0.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,4,10,1,0,0,0,0,0,0,0,0
+334,3,433,2,66,Ireland U19,Jack Dickson,Rajvardhan Hangargekar,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,4.3,2,1,0,172930,-62.50,56.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,4,10,1,0,0,0,0,0,0,0,0
+335,4,433,2,66,Ireland U19,Jack Dickson,Rajvardhan Hangargekar,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,4.4,2,1,0,172931,-62.50,56.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,4,10,1,0,0,0,0,0,0,0,0
+336,5,433,2,66,Ireland U19,Jack Dickson,Rajvardhan Hangargekar,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,4.5,2,1,0,172932,-54.50,-43.00,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,5,4,10,1,0,0,0,0,0,0,0,0
+337,6,433,2,66,Ireland U19,Jack Dickson,Rajvardhan Hangargekar,,5,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,4.6,2,1,0,172933,-54.50,-43.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,4,10,2,1,0,0,0,0,0,0,0
+338,1,433,2,66,Ireland U19,David Vincent,Ravi Kumar,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.1,2,1,0,172934,4.50,-20.00,0,0,,,Knuckleball,54,LEG GLANCE,0,0,1,5,10,2,2,0,0,0,0,0,0,0
+339,2,433,2,66,Ireland U19,David Vincent,Ravi Kumar,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.2,2,1,0,172935,-32.50,29.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,5,10,2,0,0,0,0,0,0,0,0
+340,3,433,2,66,Ireland U19,David Vincent,Ravi Kumar,,6,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,5.3,2,1,0,172936,138.50,67.00,2,0,,,Knuckleball,58,PULL SHOT,0,0,3,5,12,2,0,0,0,0,0,0,0,0
+341,4,433,2,66,Ireland U19,David Vincent,Ravi Kumar,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,5.4,2,1,0,172937,180.50,10.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,4,5,16,2,0,0,0,0,0,0,0,0
+342,5,433,2,66,Ireland U19,David Vincent,Ravi Kumar,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.5,2,1,0,172938,-69.50,-35.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,5,16,2,0,0,0,0,0,0,0,0
+343,6,433,2,66,Ireland U19,David Vincent,Ravi Kumar,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.6,2,1,0,172939,-95.50,4.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,5,16,2,0,0,0,0,0,0,0,0
+344,1,433,2,66,Ireland U19,Joshua Cox,Rajvardhan Hangargekar,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.1,2,1,0,172940,-86.50,-5.00,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,1,6,16,2,1,0,0,0,0,0,0,0
+345,2,433,2,66,Ireland U19,Joshua Cox,Rajvardhan Hangargekar,,7,2,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,,,,0,6.2,2,1,1,172941,-79.50,-10.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,2,6,17,2,0,0,0,0,0,0,0,0
+346,3,433,2,66,Ireland U19,David Vincent,Rajvardhan Hangargekar,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.3,2,1,0,172942,-73.50,-25.00,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,3,6,17,2,0,0,0,0,0,0,0,0
+347,4,433,2,66,Ireland U19,David Vincent,Rajvardhan Hangargekar,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.4,2,1,0,172943,-79.50,-10.00,0,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,4,6,17,2,0,0,0,0,0,0,0,0
+348,5,433,2,66,Ireland U19,David Vincent,Rajvardhan Hangargekar,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.5,2,1,0,172944,-79.50,-10.00,0,0,,,Knuckleball,31,UPPER CUT,0,0,5,6,17,2,0,0,0,0,0,0,0,0
+349,6,433,2,66,Ireland U19,David Vincent,Rajvardhan Hangargekar,,7,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,6.6,2,1,0,172945,64.50,101.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,6,17,3,0,0,0,0,0,0,0,0
+350,1,433,2,66,Ireland U19,Tim Tector,Ravi Kumar,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.1,2,1,0,172946,64.50,101.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,1,7,17,3,1,0,0,0,0,0,0,0
+351,2,433,2,66,Ireland U19,Tim Tector,Ravi Kumar,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.2,2,1,0,172947,64.50,101.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,7,17,3,0,0,0,0,0,0,0,0
+352,3,433,2,66,Ireland U19,Tim Tector,Ravi Kumar,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.3,2,1,0,172948,-52.50,43.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,7,17,3,0,0,0,0,0,0,0,0
+353,4,433,2,66,Ireland U19,Tim Tector,Ravi Kumar,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.4,2,1,0,172949,-88.50,-9.00,0,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,4,7,17,3,0,0,0,0,0,0,0,0
+354,5,433,2,66,Ireland U19,Tim Tector,Ravi Kumar,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.5,2,1,0,172950,-78.50,-15.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,7,17,3,0,0,0,0,0,0,0,0
+355,6,433,2,66,Ireland U19,Tim Tector,Ravi Kumar,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.6,2,1,0,172951,27.50,60.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,7,17,3,0,0,0,0,0,0,0,0
+356,1,433,2,66,Ireland U19,Joshua Cox,Nishant Sindhu,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.1,2,1,0,172952,-86.50,31.00,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,8,17,3,1,0,0,0,0,0,0,0
+357,2,433,2,66,Ireland U19,Joshua Cox,Nishant Sindhu,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.2,2,1,0,172953,-86.50,31.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,8,17,3,0,0,0,0,0,0,0,0
+358,3,433,2,66,Ireland U19,Joshua Cox,Nishant Sindhu,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.3,2,1,0,172954,-29.50,35.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,8,17,3,0,0,0,0,0,0,0,0
+359,4,433,2,66,Ireland U19,Joshua Cox,Nishant Sindhu,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.4,2,1,0,172955,-29.50,35.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,8,17,3,0,0,0,0,0,0,0,0
+360,5,433,2,66,Ireland U19,Joshua Cox,Nishant Sindhu,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.5,2,1,0,172956,-17.50,62.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,8,17,3,0,0,0,0,0,0,0,0
+361,6,433,2,66,Ireland U19,Joshua Cox,Nishant Sindhu,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.6,2,1,0,172957,-17.50,62.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,8,17,3,0,0,0,0,0,0,0,0
+362,1,433,2,66,Ireland U19,Tim Tector,Rajangad Bawa,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.1,2,1,0,172958,-29.50,-41.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,9,17,3,1,0,0,0,0,0,0,0
+363,2,433,2,66,Ireland U19,Tim Tector,Rajangad Bawa,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.2,2,1,0,172959,-27.50,27.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,9,17,3,0,0,0,0,0,0,0,0
+364,3,433,2,66,Ireland U19,Tim Tector,Rajangad Bawa,,10,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,9.3,2,1,0,172960,-184.50,26.00,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,9,21,3,0,0,0,0,0,0,0,0
+365,4,433,2,66,Ireland U19,Tim Tector,Rajangad Bawa,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.4,2,1,0,172961,-53.50,37.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,9,21,3,0,0,0,0,0,0,0,0
+366,5,433,2,66,Ireland U19,Tim Tector,Rajangad Bawa,,10,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,9.5,2,1,0,172962,-163.50,121.00,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,9,25,3,0,0,0,0,0,0,0,0
+367,6,433,2,66,Ireland U19,Tim Tector,Rajangad Bawa,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.6,2,1,0,172963,-75.50,6.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,9,25,3,0,0,0,0,0,0,0,0
+368,0,433,2,66,Ireland U19,Joshua Cox,Nishant Sindhu,,11,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,10.0,2,1,0,172964,-89.50,6.00,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,10,25,3,1,0,0,0,0,0,0,0
+369,1,433,2,66,Ireland U19,Joshua Cox,Nishant Sindhu,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,10.1,2,1,0,172968,,,0,0,,,Knuckleball,,,0,0,2,10,25,3,0,0,0,0,0,0,0,0
+370,2,433,2,66,Ireland U19,Joshua Cox,Nishant Sindhu,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.2,2,1,0,172969,-61.50,154.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,3,10,26,3,0,0,0,0,0,0,0,0
+371,3,433,2,66,Ireland U19,Tim Tector,Nishant Sindhu,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,10.3,2,1,0,172970,,,0,0,,,Knuckleball,,,0,0,4,10,26,3,0,0,0,0,0,0,0,0
+372,4,433,2,66,Ireland U19,Joshua Cox,Nishant Sindhu,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,10.4,2,1,0,172971,,,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,10,26,3,0,0,0,0,0,0,0,0
+373,5,433,2,66,Ireland U19,Tim Tector,Nishant Sindhu,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.5,2,1,0,172972,-93.50,-7.00,1,0,,,Knuckleball,,,0,0,6,10,27,3,0,0,0,0,0,0,0,0
+374,1,433,2,66,Ireland U19,Tim Tector,Rajangad Bawa,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,11.1,2,1,0,172965,121.50,-23.00,1,0,,,Knuckleball,40,FLICK,0,0,1,11,28,3,1,0,0,0,0,0,0,0
+375,2,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.2,2,1,0,172966,-58.50,13.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,11,28,3,0,0,0,0,0,0,0,0
+376,3,433,2,66,Ireland U19,Tim Tector,Rajangad Bawa,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.3,2,1,0,172967,-48.50,-6.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,11,28,3,0,0,0,0,0,0,0,0
+377,4,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.4,2,1,0,172973,-78.50,-9.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,11,28,3,0,0,0,0,0,0,0,0
+378,5,433,2,66,Ireland U19,Tim Tector,Rajangad Bawa,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.5,2,1,0,172975,-42.50,-109.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,11,28,3,0,0,0,0,0,0,0,0
+379,6,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,11.6,2,1,0,172974,-42.50,-109.00,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,11,29,3,0,0,0,0,0,0,0,0
+380,1,433,2,66,Ireland U19,Joshua Cox,Nishant Sindhu,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,12.1,2,1,0,172976,-24.50,58.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,12,29,3,1,0,0,0,0,0,0,0
+381,2,433,2,66,Ireland U19,Joshua Cox,Nishant Sindhu,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,12.2,2,1,0,172977,-136.50,20.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,12,30,3,0,0,0,0,0,0,0,0
+382,3,433,2,66,Ireland U19,Tim Tector,Nishant Sindhu,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,12.3,2,1,0,172978,-73.50,18.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,12,30,3,0,0,0,0,0,0,0,0
+383,4,433,2,66,Ireland U19,Tim Tector,Nishant Sindhu,,13,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,12.4,2,1,0,172979,2.50,37.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,12,30,3,0,0,0,0,0,0,0,0
+384,5,433,2,66,Ireland U19,Tim Tector,Nishant Sindhu,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,12.5,2,1,0,172980,-131.50,43.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,12,31,3,0,0,0,0,0,0,0,0
+385,6,433,2,66,Ireland U19,Joshua Cox,Nishant Sindhu,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,12.6,2,1,0,172981,-49.50,64.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,12,31,3,0,0,0,0,0,0,0,0
+386,1,433,2,66,Ireland U19,Tim Tector,Rajangad Bawa,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.1,2,1,0,172982,-78.50,60.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,13,32,3,1,0,0,0,0,0,0,0
+387,2,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.2,2,1,0,172983,33.50,46.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,13,32,3,0,0,0,0,0,0,0,0
+388,3,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.3,2,1,0,172984,33.50,46.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,13,32,3,0,0,0,0,0,0,0,0
+389,4,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.4,2,1,0,172985,-73.50,0.00,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,4,13,32,3,0,0,0,0,0,0,0,0
+390,5,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.5,2,1,0,172986,-63.50,100.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,5,13,32,3,0,0,0,0,0,0,0,0
+391,6,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.6,2,1,0,172987,-63.50,100.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,6,13,32,3,0,0,0,0,0,0,0,0
+392,1,433,2,66,Ireland U19,Tim Tector,Garv Sangwan,,15,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,14.1,2,1,0,172988,-126.50,112.00,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,14,34,3,1,0,0,0,0,0,0,0
+393,2,433,2,66,Ireland U19,Tim Tector,Garv Sangwan,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,14.2,2,1,0,172989,-124.50,26.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,14,35,3,0,0,0,0,0,0,0,0
+394,3,433,2,66,Ireland U19,Joshua Cox,Garv Sangwan,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,14.3,2,1,0,172990,-86.50,-5.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,14,36,3,0,0,0,0,0,0,0,0
+395,4,433,2,66,Ireland U19,Tim Tector,Garv Sangwan,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.4,2,1,0,172991,,,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,14,36,3,0,0,0,0,0,0,0,0
+396,5,433,2,66,Ireland U19,Tim Tector,Garv Sangwan,,15,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,14.5,2,1,0,172992,-74.50,-21.00,0,0,,,Knuckleball,96,Slice,0,0,5,14,36,4,1,0,0,0,0,0,0,0
+397,6,433,2,66,Ireland U19,Philippus le Roux,Garv Sangwan,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.6,2,1,0,172993,,,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,14,36,4,2,0,0,0,0,0,0,0
+398,1,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.1,2,1,0,172994,-14.50,54.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,15,36,4,3,0,0,0,0,0,0,0
+399,2,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,16,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.2,2,1,0,172995,,,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,15,36,4,0,0,0,0,0,0,0,0
+400,3,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,15.3,2,1,0,172996,73.50,53.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,15,37,4,0,0,0,0,0,0,0,0
+401,4,433,2,66,Ireland U19,Philippus le Roux,Rajangad Bawa,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.4,2,1,0,172997,,,0,0,,,Knuckleball,105,LEFT ALONE,0,0,4,15,37,4,0,0,0,0,0,0,0,0
+402,5,433,2,66,Ireland U19,Philippus le Roux,Rajangad Bawa,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.4,2,1,0,172999,,,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,15,37,4,0,0,0,0,0,0,0,0
+403,5,433,2,66,Ireland U19,Philippus le Roux,Rajangad Bawa,,16,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,15.5,2,1,1,172998,,,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,15,38,4,0,0,0,0,0,0,0,0
+404,6,433,2,66,Ireland U19,Philippus le Roux,Rajangad Bawa,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.6,2,1,0,173000,,,0,0,,,Knuckleball,58,PULL SHOT,0,0,7,15,38,4,0,0,0,0,0,0,0,0
+405,1,433,2,66,Ireland U19,Joshua Cox,Garv Sangwan,,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,16.1,2,1,0,173001,-100.50,13.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,1,16,38,4,1,0,0,0,0,0,0,0
+406,2,433,2,66,Ireland U19,Joshua Cox,Garv Sangwan,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.2,2,1,0,173002,-45.50,-52.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,16,39,4,0,0,0,0,0,0,0,0
+407,3,433,2,66,Ireland U19,Philippus le Roux,Garv Sangwan,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,16.3,2,1,0,173003,-56.50,-35.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,16,39,4,0,0,0,0,0,0,0,0
+408,4,433,2,66,Ireland U19,Philippus le Roux,Garv Sangwan,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.4,2,1,0,173004,85.50,-45.00,1,0,,,Knuckleball,40,FLICK,0,0,4,16,40,4,0,0,0,0,0,0,0,0
+409,5,433,2,66,Ireland U19,Joshua Cox,Garv Sangwan,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.5,2,1,0,173005,-12.50,136.00,1,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,5,16,41,4,0,0,0,0,0,0,0,0
+410,6,433,2,66,Ireland U19,Philippus le Roux,Garv Sangwan,,17,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,16.6,2,1,0,173006,102.50,14.00,0,0,,,Knuckleball,40,FLICK,0,0,6,16,41,4,0,0,0,0,0,0,0,0
+411,1,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,17.1,2,1,0,173007,102.50,14.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,17,41,4,1,0,0,0,0,0,0,0
+412,2,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,18,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,17.2,2,1,1,173008,102.50,14.00,1,0,,39,ANGLED IN,40,FLICK,0,0,2,17,42,4,0,0,0,0,0,0,0,0
+413,3,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,18,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,17.2,2,1,1,173009,102.50,14.00,1,0,,,Knuckleball,105,LEFT ALONE,0,0,3,17,43,4,0,0,0,0,0,0,0,0
+414,4,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,18,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,17.2,2,1,0,173010,173.50,96.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,4,17,47,4,0,0,0,0,0,0,0,0
+415,5,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,18,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,17.3,2,1,0,173011,173.50,96.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,17,47,4,0,0,0,0,0,0,0,0
+416,6,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,18,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,17.4,2,1,0,173012,2.50,215.00,4,0,,39,ANGLED IN,53,STRAIGHT DRIVE,0,0,6,17,51,4,0,1,1,0,1,0,0,0
+417,7,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,17.5,2,1,0,173013,-85.50,-4.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,7,17,51,4,0,0,1,0,0,0,0,0
+418,8,433,2,66,Ireland U19,Joshua Cox,Rajangad Bawa,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,17.6,2,1,0,173014,-97.50,-80.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,8,17,52,4,0,0,1,0,0,0,0,0
+419,1,433,2,66,Ireland U19,Joshua Cox,Garv Sangwan,,19,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,18.1,2,1,0,173015,42.50,79.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,18,52,4,1,0,1,0,0,0,0,0
+420,2,433,2,66,Ireland U19,Joshua Cox,Garv Sangwan,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,18.2,2,1,0,173016,-38.50,34.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,18,52,4,0,0,1,0,0,0,0,0
+421,3,433,2,66,Ireland U19,Joshua Cox,Garv Sangwan,,19,3,4,4,4,0,0,0,0,0,0,0,0,0,0,0,,,,0,18.3,2,1,0,173017,-83.50,3.00,4,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,18,56,4,0,0,1,0,0,0,0,0
+422,4,433,2,66,Ireland U19,Joshua Cox,Garv Sangwan,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,18.4,2,1,0,173018,-82.50,-13.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,18,56,4,0,0,1,0,0,0,0,0
+423,5,433,2,66,Ireland U19,Joshua Cox,Garv Sangwan,,19,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,18.5,2,1,0,173019,-92.50,-7.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,18,57,4,0,0,1,0,0,0,0,0
+424,6,433,2,66,Ireland U19,Philippus le Roux,Garv Sangwan,,19,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,18.6,2,1,0,173020,22.50,83.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,18,57,4,0,0,1,0,0,0,0,0
+425,1,433,2,66,Ireland U19,Joshua Cox,Vicky Ostwal,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,19.1,2,1,0,173021,-109.50,82.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,19,58,4,1,0,1,0,0,0,0,0
+426,2,433,2,66,Ireland U19,Philippus le Roux,Vicky Ostwal,,20,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,19.2,2,1,0,173022,32.50,28.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,19,58,4,0,0,1,0,0,0,0,0
+427,3,433,2,66,Ireland U19,Philippus le Roux,Vicky Ostwal,,20,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,19.3,2,1,0,173023,-70.50,-22.00,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,19,58,4,0,0,1,0,0,0,0,0
+428,4,433,2,66,Ireland U19,Philippus le Roux,Vicky Ostwal,,20,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,19.4,2,1,0,173024,-12.50,27.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,19,58,4,0,0,1,0,0,0,0,0
+429,5,433,2,66,Ireland U19,Philippus le Roux,Vicky Ostwal,,20,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,19.5,2,1,0,173025,128.50,-56.00,2,0,,,Knuckleball,95,SLOG SWEEP,0,0,5,19,60,4,0,0,1,0,0,0,0,0
+430,6,433,2,66,Ireland U19,Philippus le Roux,Vicky Ostwal,,20,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,19.6,2,1,0,173026,-11.50,18.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,19,60,4,0,0,1,0,0,0,0,0
+431,1,433,2,66,Ireland U19,Joshua Cox,Garv Sangwan,,21,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,20.1,2,1,0,173027,-62.50,-34.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,20,60,4,1,0,1,0,0,0,0,0
+432,2,433,2,66,Ireland U19,Joshua Cox,Garv Sangwan,,21,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,20.2,2,1,0,173028,-74.50,106.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,2,20,60,4,0,0,1,0,0,0,0,0
+433,3,433,2,66,Ireland U19,Joshua Cox,Garv Sangwan,,21,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,20.3,2,1,0,173029,162.50,-72.00,6,0,,,Knuckleball,58,PULL SHOT,0,0,3,20,66,4,0,0,1,0,0,0,0,0
+434,4,433,2,66,Ireland U19,Joshua Cox,Garv Sangwan,,21,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,20.4,2,1,0,173030,162.50,-72.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,20,66,5,1,0,1,0,0,0,0,0
+435,5,433,2,66,Ireland U19,Scott MacBeth,Garv Sangwan,,21,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,20.5,2,1,0,173031,-69.50,-21.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,20,66,5,2,0,1,0,0,0,0,0
+436,6,433,2,66,Ireland U19,Scott MacBeth,Garv Sangwan,,21,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,20.6,2,1,0,173032,-66.50,-30.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,20,66,5,0,0,1,0,0,0,0,0
+437,1,433,2,66,Ireland U19,Philippus le Roux,Vicky Ostwal,,22,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,21.1,2,1,0,173033,-80.50,-5.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,21,66,5,1,0,1,0,0,0,0,0
+438,2,433,2,66,Ireland U19,Philippus le Roux,Vicky Ostwal,,22,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,21.2,2,1,0,173034,-80.50,-5.00,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,2,21,66,6,2,0,1,0,0,0,0,0
+439,3,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,22,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,21.3,2,1,0,173035,-80.50,-5.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,3,21,66,6,3,0,1,0,0,0,0,0
+440,4,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,22,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,21.4,2,1,0,173036,-91.50,101.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,21,67,6,0,0,1,0,0,0,0,0
+441,5,433,2,66,Ireland U19,Scott MacBeth,Vicky Ostwal,,22,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,21.5,2,1,0,173037,-95.50,118.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,21,68,6,0,0,1,0,0,0,0,0
+442,6,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,22,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,21.6,2,1,0,173038,-65.50,-22.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,21,68,6,0,0,1,0,0,0,0,0
+443,1,433,2,66,Ireland U19,Scott MacBeth,Garv Sangwan,,23,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,22.1,2,1,0,173039,-65.50,-22.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,22,68,6,1,0,1,0,0,0,0,0
+444,2,433,2,66,Ireland U19,Scott MacBeth,Garv Sangwan,,23,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,22.2,2,1,0,173040,-26.50,26.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,22,68,6,0,0,1,0,0,0,0,0
+445,3,433,2,66,Ireland U19,Scott MacBeth,Garv Sangwan,,23,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,22.3,2,1,0,173041,-26.50,26.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,22,68,6,0,0,1,0,0,0,0,0
+446,4,433,2,66,Ireland U19,Scott MacBeth,Garv Sangwan,,23,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,22.4,2,1,0,173042,31.50,50.00,0,0,,,Knuckleball,77,SD DEFENCE,0,0,4,22,68,6,0,0,1,0,0,0,0,0
+447,5,433,2,66,Ireland U19,Scott MacBeth,Garv Sangwan,,23,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,22.5,2,1,1,173043,31.50,50.00,1,0,,,Knuckleball,40,FLICK,0,0,5,22,69,6,0,0,1,0,0,0,0,0
+448,6,433,2,66,Ireland U19,Scott MacBeth,Garv Sangwan,,23,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,22.5,2,1,0,173044,-49.50,79.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,22,69,6,0,0,1,0,0,0,0,0
+449,7,433,2,66,Ireland U19,Scott MacBeth,Garv Sangwan,,23,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,22.6,2,1,0,173045,-33.50,-144.00,4,0,,,Knuckleball,27,FORWARD PUSH,0,0,7,22,73,6,0,0,1,0,0,0,0,0
+450,1,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,24,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,23.1,2,1,0,173046,-82.50,24.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,23,73,6,1,0,1,0,0,0,0,0
+451,2,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,24,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,23.2,2,1,0,173047,-90.50,11.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,23,73,6,0,0,1,0,0,0,0,0
+452,3,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,24,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,23.3,2,1,0,173048,-86.50,66.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,23,73,6,0,0,1,0,0,0,0,0
+453,4,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,24,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,23.4,2,1,0,173049,-86.50,66.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,23,73,6,0,0,1,0,0,0,0,0
+454,5,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,24,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,23.5,2,1,0,173050,56.50,137.00,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,5,23,74,6,0,0,1,0,0,0,0,0
+455,6,433,2,66,Ireland U19,Scott MacBeth,Vicky Ostwal,,24,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,23.6,2,1,0,173051,-42.50,62.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,23,74,6,0,0,1,0,0,0,0,0
+456,1,433,2,66,Ireland U19,Nathan McGuire,Nishant Sindhu,,25,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,24.1,2,1,0,173052,123.50,-70.00,2,0,,,Knuckleball,40,FLICK,0,0,1,24,76,6,1,0,1,0,0,0,0,0
+457,2,433,2,66,Ireland U19,Nathan McGuire,Nishant Sindhu,,25,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,24.2,2,1,0,173053,-0.50,49.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,24,76,6,0,0,1,0,0,0,0,0
+458,3,433,2,66,Ireland U19,Nathan McGuire,Nishant Sindhu,,25,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,24.3,2,1,0,173054,-57.50,42.00,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,24,76,6,0,0,1,0,0,0,0,0
+459,4,433,2,66,Ireland U19,Nathan McGuire,Nishant Sindhu,,25,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,24.4,2,1,0,173055,47.50,-127.00,2,0,,,Knuckleball,54,LEG GLANCE,0,0,4,24,78,6,0,0,1,0,0,0,0,0
+460,5,433,2,66,Ireland U19,Nathan McGuire,Nishant Sindhu,,25,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,24.5,2,1,0,173056,65.50,135.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,24,79,6,0,0,1,0,0,0,0,0
+461,6,433,2,66,Ireland U19,Scott MacBeth,Nishant Sindhu,,25,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,24.6,2,1,0,173057,65.50,135.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,24,79,6,0,0,1,0,0,0,0,0
+462,1,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,26,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,25.1,2,1,0,173058,-85.50,-10.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,25,79,6,1,0,1,0,0,0,0,0
+463,2,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,26,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,25.2,2,1,0,173059,-72.50,-16.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,25,79,6,0,0,1,0,0,0,0,0
+464,3,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,26,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,25.3,2,1,0,173060,-72.50,-16.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,25,79,6,0,0,1,0,0,0,0,0
+465,4,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,26,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,25.4,2,1,0,173061,-131.50,-13.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,25,80,6,0,0,1,0,0,0,0,0
+466,5,433,2,66,Ireland U19,Scott MacBeth,Vicky Ostwal,,26,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,25.5,2,1,0,173062,72.50,153.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,25,81,6,0,0,1,0,0,0,0,0
+467,6,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,26,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,25.6,2,1,0,173063,-95.50,19.00,1,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,6,25,82,6,0,0,1,0,0,0,0,0
+468,1,433,2,66,Ireland U19,Nathan McGuire,Nishant Sindhu,,27,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,26.1,2,1,0,173064,-122.50,81.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,26,83,6,1,0,1,0,0,0,0,0
+469,2,433,2,66,Ireland U19,Scott MacBeth,Nishant Sindhu,,27,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,26.2,2,1,0,173065,-75.50,143.00,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,2,26,84,6,0,0,1,0,0,0,0,0
+470,3,433,2,66,Ireland U19,Nathan McGuire,Nishant Sindhu,,27,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,26.3,2,1,0,173066,-102.50,-55.00,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,3,26,85,6,0,0,1,0,0,0,0,0
+471,4,433,2,66,Ireland U19,Scott MacBeth,Nishant Sindhu,,27,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,26.4,2,1,0,173067,-16.50,-151.00,4,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,4,26,89,6,0,0,1,0,0,0,0,0
+472,5,433,2,66,Ireland U19,Scott MacBeth,Nishant Sindhu,,27,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,26.5,2,1,0,173068,-95.50,-3.00,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,5,26,89,6,0,0,1,0,0,0,0,0
+473,6,433,2,66,Ireland U19,Scott MacBeth,Nishant Sindhu,,27,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,26.6,2,1,0,173069,-91.50,-5.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,26,89,6,0,0,1,0,0,0,0,0
+474,1,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,28,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,27.1,2,1,0,173070,21.50,71.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,27,89,6,1,0,1,0,0,0,0,0
+475,2,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,28,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,27.2,2,1,0,173071,-71.50,-2.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,27,89,6,0,0,1,0,0,0,0,0
+476,3,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,28,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,27.3,2,1,0,173072,-71.50,-2.00,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,27,89,6,0,0,1,0,0,0,0,0
+477,4,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,28,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,27.4,2,1,0,173073,-78.50,135.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,27,90,6,0,0,1,0,0,0,0,0
+478,5,433,2,66,Ireland U19,Scott MacBeth,Vicky Ostwal,,28,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,27.5,2,1,0,173074,-136.50,40.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,27,91,6,0,0,1,0,0,0,0,0
+479,6,433,2,66,Ireland U19,Nathan McGuire,Vicky Ostwal,,28,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,27.6,2,1,0,173075,-69.50,36.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,27,92,6,0,0,1,0,0,0,0,0
+480,1,433,2,66,Ireland U19,Nathan McGuire,Nishant Sindhu,,29,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.1,2,1,0,173076,-13.50,43.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,28,92,6,1,0,1,0,0,0,0,0
+481,2,433,2,66,Ireland U19,Nathan McGuire,Nishant Sindhu,,29,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.2,2,1,0,173077,-34.50,33.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,28,92,6,0,0,1,0,0,0,0,0
+482,3,433,2,66,Ireland U19,Nathan McGuire,Nishant Sindhu,,29,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.3,2,1,0,173078,36.50,18.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,28,92,6,0,0,1,0,0,0,0,0
+483,4,433,2,66,Ireland U19,Nathan McGuire,Nishant Sindhu,,29,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.4,2,1,0,173079,-68.50,-18.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,28,92,6,0,0,1,0,0,0,0,0
+484,5,433,2,66,Ireland U19,Nathan McGuire,Nishant Sindhu,,29,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.5,2,1,0,173080,43.50,49.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,28,92,6,0,0,1,0,0,0,0,0
+485,6,433,2,66,Ireland U19,Nathan McGuire,Nishant Sindhu,,29,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.6,2,1,0,173081,-21.50,54.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,28,92,6,0,0,1,0,0,0,0,0
+486,1,433,2,66,Ireland U19,Scott MacBeth,Vicky Ostwal,,30,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,29.1,2,1,0,173082,-34.50,7.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,29,92,6,1,0,1,0,0,0,0,0
+487,2,433,2,66,Ireland U19,Scott MacBeth,Vicky Ostwal,,30,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,29.2,2,1,0,173083,49.50,-7.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,29,92,6,0,0,1,0,0,0,0,0
+488,3,433,2,66,Ireland U19,Scott MacBeth,Vicky Ostwal,,30,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,29.3,2,1,0,173084,-62.50,-5.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,29,92,6,0,0,1,0,0,0,0,0
+489,4,433,2,66,Ireland U19,Scott MacBeth,Vicky Ostwal,,30,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,29.4,2,1,0,173085,155.50,141.00,6,0,,,Knuckleball,11,LOFT ON,0,0,4,29,98,6,0,0,1,0,0,0,0,0
+490,5,433,2,66,Ireland U19,Scott MacBeth,Vicky Ostwal,,30,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,29.5,2,1,0,173086,155.50,141.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,5,29,98,6,0,0,1,0,0,0,0,0
+491,6,433,2,66,Ireland U19,Scott MacBeth,Vicky Ostwal,,30,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,29.6,2,1,0,173087,17.50,216.00,4,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,6,29,102,6,0,1,2,0,0,1,0,0
+492,1,433,2,66,Ireland U19,Nathan McGuire,Rajvardhan Hangargekar,,31,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,30.1,2,1,0,173088,-140.50,-34.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,30,103,6,1,0,2,0,0,0,0,0
+493,2,433,2,66,Ireland U19,Scott MacBeth,Rajvardhan Hangargekar,,31,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.2,2,1,0,173089,-76.50,-7.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,30,103,6,0,0,2,0,0,0,0,0
+494,3,433,2,66,Ireland U19,Scott MacBeth,Rajvardhan Hangargekar,,31,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.3,2,1,0,173090,-76.50,-7.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,30,103,6,0,0,2,0,0,0,0,0
+495,4,433,2,66,Ireland U19,Scott MacBeth,Rajvardhan Hangargekar,,31,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.4,2,1,0,173091,28.50,51.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,30,103,6,0,0,2,0,0,0,0,0
+496,5,433,2,66,Ireland U19,Scott MacBeth,Rajvardhan Hangargekar,,31,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,30.5,2,1,0,173092,101.50,-45.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,5,30,104,6,0,0,2,0,0,0,0,0
+497,6,433,2,66,Ireland U19,Nathan McGuire,Rajvardhan Hangargekar,,31,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.6,2,1,0,173093,101.50,-45.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,30,104,6,0,0,2,0,0,0,0,0
+498,1,433,2,66,Ireland U19,Scott MacBeth,Aneeshwar Gautam,,32,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,31.1,2,1,0,173094,-24.50,19.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,31,104,6,1,0,2,0,0,0,0,0
+499,2,433,2,66,Ireland U19,Scott MacBeth,Aneeshwar Gautam,,32,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,31.2,2,1,0,173095,-82.50,27.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,31,105,6,0,0,2,0,0,0,0,0
+500,3,433,2,66,Ireland U19,Nathan McGuire,Aneeshwar Gautam,,32,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,31.3,2,1,0,173096,-82.50,27.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,31,105,6,0,0,2,0,0,0,0,0
+501,4,433,2,66,Ireland U19,Nathan McGuire,Aneeshwar Gautam,,32,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,31.4,2,1,0,173097,-82.50,27.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,31,105,6,0,0,2,0,0,0,0,0
+502,5,433,2,66,Ireland U19,Nathan McGuire,Aneeshwar Gautam,,32,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,31.5,2,1,0,173098,-79.50,25.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,31,105,6,0,0,2,0,0,0,0,0
+503,6,433,2,66,Ireland U19,Nathan McGuire,Aneeshwar Gautam,,32,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,31.6,2,1,0,173099,-79.50,25.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,31,105,7,1,0,2,0,0,0,0,0
+504,1,433,2,66,Ireland U19,Scott MacBeth,Rajvardhan Hangargekar,,33,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,32.1,2,1,0,173100,-79.50,25.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,32,105,7,2,0,2,0,0,0,0,0
+505,2,433,2,66,Ireland U19,Scott MacBeth,Rajvardhan Hangargekar,,33,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,32.2,2,1,0,173101,169.50,73.00,6,0,,,Knuckleball,58,PULL SHOT,0,0,2,32,111,7,0,0,2,0,0,0,0,0
+506,3,433,2,66,Ireland U19,Scott MacBeth,Rajvardhan Hangargekar,,33,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,32.3,2,1,0,173102,-0.50,53.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,32,111,7,0,0,2,0,0,0,0,0
+507,4,433,2,66,Ireland U19,Scott MacBeth,Rajvardhan Hangargekar,,33,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,32.4,2,1,0,173103,-47.50,102.00,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,4,32,111,7,0,0,2,0,0,0,0,0
+508,5,433,2,66,Ireland U19,Scott MacBeth,Rajvardhan Hangargekar,,33,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,32.5,2,1,0,173104,-47.50,102.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,5,32,111,7,0,0,2,0,0,0,0,0
+509,6,433,2,66,Ireland U19,Scott MacBeth,Rajvardhan Hangargekar,,33,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,32.6,2,1,0,173105,8.50,48.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,32,111,7,0,0,2,0,0,0,0,0
+510,1,433,2,66,Ireland U19,Matthew Humphreys,Aneeshwar Gautam,,34,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,33.1,2,1,0,173106,-82.50,-10.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,33,111,7,1,0,2,0,0,0,0,0
+511,2,433,2,66,Ireland U19,Matthew Humphreys,Aneeshwar Gautam,,34,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,33.2,2,1,0,173107,79.50,120.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,33,112,7,0,0,2,0,0,0,0,0
+512,3,433,2,66,Ireland U19,Scott MacBeth,Aneeshwar Gautam,,34,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,33.3,2,1,0,173108,-6.50,63.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,33,112,7,0,0,2,0,0,0,0,0
+513,4,433,2,66,Ireland U19,Scott MacBeth,Aneeshwar Gautam,,34,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,33.4,2,1,0,173109,-142.50,55.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,33,113,7,0,0,2,0,0,0,0,0
+514,5,433,2,66,Ireland U19,Matthew Humphreys,Aneeshwar Gautam,,34,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,33.5,2,1,0,173110,-77.50,132.00,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,5,33,114,7,0,0,2,0,0,0,0,0
+515,6,433,2,66,Ireland U19,Scott MacBeth,Aneeshwar Gautam,,34,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,33.6,2,1,0,173111,-46.50,57.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,33,114,7,0,0,2,0,0,0,0,0
+516,1,433,2,66,Ireland U19,Matthew Humphreys,Rajvardhan Hangargekar,,35,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.1,2,1,0,173112,-46.50,57.00,0,0,,39,ANGLED IN,44,GLIDE,0,0,1,34,114,7,1,0,2,0,0,0,0,0
+517,2,433,2,66,Ireland U19,Matthew Humphreys,Rajvardhan Hangargekar,,35,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,34.2,2,1,0,173113,-165.50,-39.00,4,0,,,Knuckleball,36,CUT SHOT,0,0,2,34,118,7,0,0,2,0,0,0,0,0
+518,3,433,2,66,Ireland U19,Matthew Humphreys,Rajvardhan Hangargekar,,35,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.3,2,1,0,173114,-165.50,-39.00,0,0,,,Knuckleball,44,GLIDE,0,0,3,34,118,7,0,0,2,0,0,0,0,0
+519,4,433,2,66,Ireland U19,Matthew Humphreys,Rajvardhan Hangargekar,,35,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.4,2,1,0,173115,-165.50,-39.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,34,118,7,0,0,2,0,0,0,0,0
+520,5,433,2,66,Ireland U19,Matthew Humphreys,Rajvardhan Hangargekar,,35,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.5,2,1,0,173116,-165.50,-39.00,0,0,,,Knuckleball,5,LOFT OFF,0,0,5,34,118,7,0,0,2,0,0,0,0,0
+521,6,433,2,66,Ireland U19,Matthew Humphreys,Rajvardhan Hangargekar,,35,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.6,2,1,0,173117,-83.50,37.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,34,118,7,0,0,2,0,0,0,0,0
+522,1,433,2,66,Ireland U19,Scott MacBeth,Aneeshwar Gautam,,36,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,35.1,2,1,0,173118,-26.50,118.00,1,0,,,Knuckleball,19,BACKFOOT STRAIGHT DRIVE,0,0,1,35,119,7,1,0,2,0,0,0,0,0
+523,2,433,2,66,Ireland U19,Matthew Humphreys,Aneeshwar Gautam,,36,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,35.2,2,1,0,173119,16.50,58.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,35,119,7,0,0,2,0,0,0,0,0
+524,3,433,2,66,Ireland U19,Matthew Humphreys,Aneeshwar Gautam,,36,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,35.3,2,1,0,173120,1.50,31.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,35,119,7,0,0,2,0,0,0,0,0
+525,4,433,2,66,Ireland U19,Matthew Humphreys,Aneeshwar Gautam,,36,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,35.4,2,1,0,173121,-10.50,-21.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,35,119,7,0,0,2,0,0,0,0,0
+526,5,433,2,66,Ireland U19,Matthew Humphreys,Aneeshwar Gautam,,36,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,35.5,2,1,0,173122,127.50,108.00,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,5,35,120,7,0,0,2,0,0,0,0,0
+527,6,433,2,66,Ireland U19,Scott MacBeth,Aneeshwar Gautam,,36,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,35.6,2,1,0,173123,127.50,108.00,0,0,,,Knuckleball,35,LATE CUT,0,0,6,35,120,8,1,0,2,0,0,0,0,0
+528,1,433,2,66,Ireland U19,Matthew Humphreys,Kaushal Tambe,,37,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,36.1,2,1,0,173124,110.50,104.00,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,36,121,8,2,0,2,0,0,0,0,0
+529,2,433,2,66,Ireland U19,Jamie Forbes,Kaushal Tambe,,37,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,36.2,2,1,0,173125,4.50,22.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,36,121,8,0,0,2,0,0,0,0,0
+530,3,433,2,66,Ireland U19,Jamie Forbes,Kaushal Tambe,,37,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,36.3,2,1,0,173126,4.50,22.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,36,121,8,0,0,2,0,0,0,0,0
+531,4,433,2,66,Ireland U19,Jamie Forbes,Kaushal Tambe,,37,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,36.4,2,1,0,173127,49.50,-51.00,1,0,,,Knuckleball,44,GLIDE,0,0,4,36,122,8,0,0,2,0,0,0,0,0
+532,5,433,2,66,Ireland U19,Matthew Humphreys,Kaushal Tambe,,37,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,36.5,2,1,0,173128,130.50,55.00,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,5,36,123,8,0,0,2,0,0,0,0,0
+533,6,433,2,66,Ireland U19,Jamie Forbes,Kaushal Tambe,,37,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,36.6,2,1,0,173129,125.50,77.00,1,0,,,Knuckleball,89,SD COVER,0,0,6,36,124,8,0,0,2,0,0,0,0,0
+534,1,433,2,66,Ireland U19,Jamie Forbes,Aneeshwar Gautam,,38,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,37.1,2,1,0,173130,-30.50,37.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,37,124,8,1,0,2,0,0,0,0,0
+535,2,433,2,66,Ireland U19,Jamie Forbes,Aneeshwar Gautam,,38,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,37.2,2,1,0,173131,-102.50,-51.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,2,37,125,8,0,0,2,0,0,0,0,0
+536,3,433,2,66,Ireland U19,Matthew Humphreys,Aneeshwar Gautam,,38,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,37.3,2,1,0,173132,87.50,43.00,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,3,37,125,8,0,0,2,0,0,0,0,0
+537,4,433,2,66,Ireland U19,Matthew Humphreys,Aneeshwar Gautam,,38,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,37.4,2,1,0,173133,-84.50,-2.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,37,125,8,0,0,2,0,0,0,0,0
+538,5,433,2,66,Ireland U19,Matthew Humphreys,Aneeshwar Gautam,,38,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,37.5,2,1,0,173134,-66.50,64.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,37,125,8,0,0,2,0,0,0,0,0
+539,6,433,2,66,Ireland U19,Matthew Humphreys,Aneeshwar Gautam,,38,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,37.6,2,1,0,173135,163.50,128.00,4,0,,,Knuckleball,95,SLOG SWEEP,0,0,6,37,129,8,0,0,2,0,0,0,0,0
+540,1,433,2,66,Ireland U19,Jamie Forbes,Kaushal Tambe,,39,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,38.1,2,1,0,173136,163.50,128.00,0,0,,23,ARM BALL,77,SD DEFENCE,0,0,1,38,129,9,1,0,2,0,0,0,0,0
+541,2,433,2,66,Ireland U19,Muzamil Sherzad,Kaushal Tambe,,39,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,38.2,2,1,0,173137,100.50,-17.00,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,38,130,9,2,0,2,0,0,0,0,0
+542,3,433,2,66,Ireland U19,Matthew Humphreys,Kaushal Tambe,,39,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,38.3,2,1,0,173138,31.50,-132.00,2,0,,,Knuckleball,99,SCOOP,0,0,3,38,132,9,0,0,2,0,0,0,0,0
+543,4,433,2,66,Ireland U19,Matthew Humphreys,Kaushal Tambe,,39,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,38.4,2,1,0,173139,94.50,136.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,4,38,133,9,0,0,2,0,0,0,0,0
+544,5,433,2,66,Ireland U19,Muzamil Sherzad,Kaushal Tambe,,39,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,38.5,2,1,0,173140,-38.50,-4.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,38,133,9,0,0,2,0,0,0,0,0
+545,6,433,2,66,Ireland U19,Muzamil Sherzad,Kaushal Tambe,,39,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,38.6,2,1,0,173141,100.50,84.00,0,0,,,Knuckleball,11,LOFT ON,0,0,6,38,133,10,1,0,2,0,0,0,0,0

@@ -1,0 +1,233 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,447,1,73,New Zealand Women,Sophie Devine,Meghna Singh,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.1,1,1,0,182442,-97.00,13.02,0,0,,42,OUTSWINGER,52,BACKFOOT COVERDRIVE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,447,1,73,New Zealand Women,Sophie Devine,Meghna Singh,,1,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,0.2,1,1,0,182443,-137.97,147.93,4,0,,42,OUTSWINGER,84,OFF DRIVE,0,0,2,0,4,0,0,0,0,0,0,0,0,0
+2,3,447,1,73,New Zealand Women,Sophie Devine,Meghna Singh,,1,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,0.3,1,1,0,182444,173.74,102.35,4,0,,42,OUTSWINGER,47,ON DRIVE,0,0,3,0,8,0,0,0,0,0,0,0,0,0
+3,4,447,1,73,New Zealand Women,Sophie Devine,Meghna Singh,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.4,1,1,0,182445,-60.62,91.76,0,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,4,0,8,0,0,0,0,0,0,0,0,0
+4,5,447,1,73,New Zealand Women,Sophie Devine,Meghna Singh,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,0.5,1,1,0,182446,-50.49,31.90,1,0,,42,OUTSWINGER,52,BACKFOOT COVERDRIVE,0,0,5,0,9,0,0,0,0,0,0,0,0,0
+5,6,447,1,73,New Zealand Women,Suzie Bates,Meghna Singh,,1,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,0.6,1,1,0,182447,147.49,-48.22,2,0,,36,BOUNCER,58,PULL SHOT,1,0,6,0,11,0,0,0,0,0,0,0,0,0
+6,1,447,1,73,New Zealand Women,Sophie Devine,Renuka Singh,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.1,1,1,0,182448,147.49,-48.22,0,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,1,1,11,0,1,0,0,0,0,0,0,0
+7,2,447,1,73,New Zealand Women,Sophie Devine,Renuka Singh,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.2,1,1,0,182449,-76.74,32.82,0,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,2,1,11,0,0,0,0,0,0,0,0,0
+8,3,447,1,73,New Zealand Women,Sophie Devine,Renuka Singh,,2,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,1.3,1,1,0,182450,-137.97,64.13,2,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,3,1,13,0,0,0,0,0,0,0,0,0
+9,4,447,1,73,New Zealand Women,Sophie Devine,Renuka Singh,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,1.4,1,1,0,182451,-99.76,-82.29,1,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,4,1,14,0,0,0,0,0,0,0,0,0
+10,5,447,1,73,New Zealand Women,Suzie Bates,Renuka Singh,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.5,1,1,0,182452,-55.56,61.37,0,0,,38,STRAIGHT BALL,84,OFF DRIVE,0,0,5,1,14,0,0,0,0,0,0,0,0,0
+11,6,447,1,73,New Zealand Women,Suzie Bates,Renuka Singh,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.6,1,1,0,182453,-55.10,27.76,0,0,,41,INSWINGER,50,BACKFOOT DEFENCE,0,0,6,1,14,0,0,0,0,0,0,0,0,0
+12,1,447,1,73,New Zealand Women,Sophie Devine,Meghna Singh,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.1,1,1,0,182454,-75.36,50.32,0,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,1,2,14,0,1,0,0,0,0,0,0,0
+13,2,447,1,73,New Zealand Women,Sophie Devine,Meghna Singh,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.2,1,1,0,182455,-70.29,48.47,0,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,2,2,14,0,0,0,0,0,0,0,0,0
+14,3,447,1,73,New Zealand Women,Sophie Devine,Meghna Singh,,3,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,2.3,1,1,0,182456,-108.51,-60.65,2,0,,42,OUTSWINGER,11,LOFT ON,0,0,3,2,16,0,0,0,0,0,0,0,0,0
+15,4,447,1,73,New Zealand Women,Sophie Devine,Meghna Singh,,3,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,2.4,1,1,0,182457,-68.45,88.99,1,0,,42,OUTSWINGER,84,OFF DRIVE,0,0,4,2,17,0,0,0,0,0,0,0,0,0
+16,5,447,1,73,New Zealand Women,Suzie Bates,Meghna Singh,,3,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,2.5,1,1,0,182458,-52.79,-113.60,2,0,,42,OUTSWINGER,94,SDL ON,0,0,5,2,19,0,0,0,0,0,0,0,0,0
+17,6,447,1,73,New Zealand Women,Suzie Bates,Meghna Singh,,3,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,2.6,1,1,0,182459,-165.14,-70.32,4,0,,42,OUTSWINGER,36,CUT SHOT,0,0,6,2,23,0,0,0,0,0,0,0,0,0
+18,1,447,1,73,New Zealand Women,Sophie Devine,Renuka Singh,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,3.1,1,1,0,182460,-143.04,42.03,1,0,,42,OUTSWINGER,52,BACKFOOT COVERDRIVE,0,0,1,3,24,0,1,0,0,0,0,0,0,0
+19,2,447,1,73,New Zealand Women,Suzie Bates,Renuka Singh,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,3.2,1,1,0,182461,-106.67,-80.45,1,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,2,3,25,0,0,0,0,0,0,0,0,0
+20,3,447,1,73,New Zealand Women,Sophie Devine,Renuka Singh,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.3,1,1,0,182462,-73.51,-22.43,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,3,3,25,0,0,0,0,0,0,0,0,0
+21,4,447,1,73,New Zealand Women,Sophie Devine,Renuka Singh,,4,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,3.4,1,1,0,182463,-170.67,98.66,4,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,4,3,29,0,0,0,0,0,0,0,0,0
+22,5,447,1,73,New Zealand Women,Sophie Devine,Renuka Singh,,4,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,,,,0,3.5,1,1,1,182464,-170.67,98.66,1,0,,41,INSWINGER,40,FLICK,0,0,5,3,30,0,0,0,0,0,0,0,0,0
+23,6,447,1,73,New Zealand Women,Suzie Bates,Renuka Singh,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.6,1,1,0,182465,29.16,115.70,0,0,,41,INSWINGER,27,FORWARD PUSH,0,0,6,3,30,0,0,0,0,0,0,0,0,0
+24,1,447,1,73,New Zealand Women,Sophie Devine,Meghna Singh,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,4.1,1,1,0,182466,-86.87,-10.00,0,0,,42,OUTSWINGER,59,SQUARE DRIVE,0,0,1,4,30,0,1,0,0,0,0,0,0,0
+25,2,447,1,73,New Zealand Women,Sophie Devine,Meghna Singh,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,4.2,1,1,0,182467,-86.87,-10.00,0,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,2,4,30,0,0,0,0,0,0,0,0,0
+26,3,447,1,73,New Zealand Women,Sophie Devine,Meghna Singh,,5,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.3,1,1,0,182468,140.13,162.20,4,0,,42,OUTSWINGER,11,LOFT ON,0,0,3,4,34,0,0,0,0,0,0,0,0,0
+27,4,447,1,73,New Zealand Women,Sophie Devine,Meghna Singh,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,4.4,1,1,0,182469,63.69,-34.86,0,0,,42,OUTSWINGER,18,SLOG SHOT,0,0,4,4,34,0,0,0,0,0,0,0,0,0
+28,5,447,1,73,New Zealand Women,Sophie Devine,Meghna Singh,,5,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.5,1,1,0,182470,176.96,48.47,4,0,,42,OUTSWINGER,58,PULL SHOT,0,0,5,4,38,0,0,0,0,0,0,0,0,0
+29,6,447,1,73,New Zealand Women,Sophie Devine,Meghna Singh,,5,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.6,1,1,0,182471,-30.69,208.24,4,0,,42,OUTSWINGER,13,LOFT STRAIGHT,0,0,6,4,42,0,0,0,0,0,0,0,0,0
+30,1,447,1,73,New Zealand Women,Suzie Bates,Renuka Singh,,6,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,5.1,1,1,0,182472,-101.14,-69.86,2,0,,38,STRAIGHT BALL,44,GLIDE,0,0,1,5,44,0,1,0,0,0,0,0,0,0
+31,2,447,1,73,New Zealand Women,Suzie Bates,Renuka Singh,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.2,1,1,0,182473,69.68,30.52,0,0,,38,STRAIGHT BALL,18,SLOG SHOT,0,0,2,5,44,0,0,0,0,0,0,0,0,0
+32,3,447,1,73,New Zealand Women,Suzie Bates,Renuka Singh,,6,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,5.3,1,1,0,182474,152.10,118.46,4,0,,38,STRAIGHT BALL,11,LOFT ON,0,0,3,5,48,0,0,0,0,0,0,0,0,0
+33,4,447,1,73,New Zealand Women,Suzie Bates,Renuka Singh,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,5.4,1,1,0,182475,19.49,-148.59,4,0,,39,ANGLED IN,55,SWEEP SHOT,0,0,4,5,52,0,0,1,1,0,1,0,0,0
+34,5,447,1,73,New Zealand Women,Suzie Bates,Renuka Singh,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,5.5,1,1,0,182476,-106.21,-66.63,1,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,5,5,53,0,0,0,1,0,0,0,0,0
+35,6,447,1,73,New Zealand Women,Sophie Devine,Renuka Singh,,6,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.6,1,1,0,182477,-73.51,-35.78,0,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,6,5,53,1,1,0,1,0,0,0,0,0
+36,1,447,1,73,New Zealand Women,Suzie Bates,Pooja Vastrakar,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.1,1,1,0,182478,-62.92,96.36,0,0,,38,STRAIGHT BALL,84,OFF DRIVE,0,0,1,6,53,1,2,0,1,0,0,0,0,0
+37,2,447,1,73,New Zealand Women,Suzie Bates,Pooja Vastrakar,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.2,1,1,0,182479,-67.99,26.83,0,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,2,6,53,1,0,0,1,0,0,0,0,0
+38,3,447,1,73,New Zealand Women,Suzie Bates,Pooja Vastrakar,,7,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,6.3,1,1,0,182480,-9.05,206.86,4,0,,38,STRAIGHT BALL,70,SD PULL,0,0,3,6,57,1,0,0,1,0,0,0,0,0
+39,4,447,1,73,New Zealand Women,Suzie Bates,Pooja Vastrakar,,7,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,6.4,1,1,0,182481,-49.57,210.09,4,0,,38,STRAIGHT BALL,84,OFF DRIVE,0,0,4,6,61,1,0,0,1,0,0,0,0,0
+40,5,447,1,73,New Zealand Women,Suzie Bates,Pooja Vastrakar,,7,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,6.5,1,1,0,182482,-50.95,-143.99,4,0,,38,STRAIGHT BALL,96,Slice,0,0,5,6,65,1,0,0,1,0,0,0,0,0
+41,6,447,1,73,New Zealand Women,Suzie Bates,Pooja Vastrakar,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.6,1,1,0,182483,-14.58,51.24,0,0,,41,INSWINGER,27,FORWARD PUSH,0,0,6,6,65,1,0,0,1,0,0,0,0,0
+42,1,447,1,73,New Zealand Women,Amelia Kerr,Rajeshwari Gayakwad,,8,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,7.1,1,1,0,182484,-46.81,-134.32,4,0,,10,ORTHODOX,35,LATE CUT,0,0,1,7,69,1,1,0,1,0,0,0,0,0
+43,2,447,1,73,New Zealand Women,Amelia Kerr,Rajeshwari Gayakwad,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,7.2,1,1,0,182485,27.32,106.49,1,0,,10,ORTHODOX,1,SD STRAIGHT,0,0,2,7,70,1,0,0,1,0,0,0,0,0
+44,3,447,1,73,New Zealand Women,Suzie Bates,Rajeshwari Gayakwad,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.3,1,1,0,182486,-41.74,7.96,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,3,7,70,1,0,0,1,0,0,0,0,0
+45,4,447,1,73,New Zealand Women,Suzie Bates,Rajeshwari Gayakwad,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.4,1,1,0,182487,71.98,56.30,0,0,,10,ORTHODOX,74,SD ON,0,0,4,7,70,1,0,0,1,0,0,0,0,0
+46,5,447,1,73,New Zealand Women,Suzie Bates,Rajeshwari Gayakwad,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,7.5,1,1,0,182488,-88.25,33.28,1,0,,23,ARM BALL,52,BACKFOOT COVERDRIVE,0,0,5,7,71,1,0,0,1,0,0,0,0,0
+47,6,447,1,73,New Zealand Women,Amelia Kerr,Rajeshwari Gayakwad,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.6,1,1,0,182489,-22.87,-49.60,0,0,,10,ORTHODOX,44,GLIDE,0,0,6,7,71,1,0,0,1,0,0,0,0,0
+48,1,447,1,73,New Zealand Women,Suzie Bates,Deepti Sharma,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,8.1,1,1,0,182490,64.62,26.37,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,1,8,72,1,1,0,1,0,0,0,0,0
+49,2,447,1,73,New Zealand Women,Amelia Kerr,Deepti Sharma,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.2,1,1,0,182491,-57.86,32.82,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,2,8,72,1,0,0,1,0,0,0,0,0
+50,3,447,1,73,New Zealand Women,Amelia Kerr,Deepti Sharma,,9,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,8.3,1,1,0,182492,139.21,159.44,4,0,,25,OFF SPIN,95,SLOG SWEEP,0,0,3,8,76,1,0,0,1,0,0,0,0,0
+51,4,447,1,73,New Zealand Women,Amelia Kerr,Deepti Sharma,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,8.4,1,1,0,182493,139.67,81.63,1,0,,25,OFF SPIN,94,SDL ON,0,0,4,8,77,1,0,0,1,0,0,0,0,0
+52,5,447,1,73,New Zealand Women,Suzie Bates,Deepti Sharma,,9,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,8.5,1,1,0,182494,-67.07,-100.24,2,0,,25,OFF SPIN,36,CUT SHOT,0,0,5,8,79,1,0,0,1,0,0,0,0,0
+53,6,447,1,73,New Zealand Women,Suzie Bates,Deepti Sharma,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,8.6,1,1,0,182495,-142.12,84.39,1,0,,25,OFF SPIN,52,BACKFOOT COVERDRIVE,0,0,6,8,80,1,0,0,1,0,0,0,0,0
+54,1,447,1,73,New Zealand Women,Suzie Bates,Rajeshwari Gayakwad,,10,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,9.1,1,1,0,182496,60.93,-140.76,4,0,,10,ORTHODOX,22,PADDLE SWEEP,0,0,1,9,84,1,1,0,1,0,0,0,0,0
+55,2,447,1,73,New Zealand Women,Suzie Bates,Rajeshwari Gayakwad,,10,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Stumped,WICKET,1,9.2,1,1,0,182497,60.93,-140.76,0,0,,23,ARM BALL,47,ON DRIVE,0,0,2,9,84,2,2,0,1,0,0,0,0,0
+56,3,447,1,73,New Zealand Women,Amy Satterthwaite,Rajeshwari Gayakwad,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.3,1,1,0,182498,55.41,47.09,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,3,9,84,2,3,0,1,0,0,0,0,0
+57,4,447,1,73,New Zealand Women,Amy Satterthwaite,Rajeshwari Gayakwad,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.4,1,1,0,182499,55.41,47.09,0,0,,10,ORTHODOX,95,SLOG SWEEP,0,0,4,9,84,2,0,0,1,0,0,0,0,0
+58,5,447,1,73,New Zealand Women,Amy Satterthwaite,Rajeshwari Gayakwad,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,9.5,1,1,0,182500,-100.68,62.75,1,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,5,9,85,2,0,0,1,0,0,0,0,0
+59,6,447,1,73,New Zealand Women,Amelia Kerr,Rajeshwari Gayakwad,,10,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,9.6,1,1,0,182501,130.92,-85.51,4,0,,10,ORTHODOX,55,SWEEP SHOT,0,0,6,9,89,2,0,0,1,0,0,0,0,0
+60,1,447,1,73,New Zealand Women,Amy Satterthwaite,Deepti Sharma,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.1,1,1,0,182502,91.32,64.13,1,0,,25,OFF SPIN,52,BACKFOOT COVERDRIVE,0,0,1,10,90,2,1,0,1,0,0,0,0,0
+61,2,447,1,73,New Zealand Women,Amelia Kerr,Deepti Sharma,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.2,1,1,0,182503,-132.45,54.00,1,0,,25,OFF SPIN,52,BACKFOOT COVERDRIVE,0,0,2,10,91,2,0,0,1,0,0,0,0,0
+62,3,447,1,73,New Zealand Women,Amy Satterthwaite,Deepti Sharma,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.3,1,1,0,182504,-126.92,-47.29,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,3,10,92,2,0,0,1,0,0,0,0,0
+63,4,447,1,73,New Zealand Women,Amelia Kerr,Deepti Sharma,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,10.4,1,1,0,182505,-54.18,103.27,0,0,,25,OFF SPIN,84,OFF DRIVE,0,0,4,10,92,2,0,0,1,0,0,0,0,0
+64,5,447,1,73,New Zealand Women,Amelia Kerr,Deepti Sharma,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.5,1,1,0,182506,74.74,127.67,1,0,,25,OFF SPIN,58,PULL SHOT,0,0,5,10,93,2,0,0,1,0,0,0,0,0
+65,6,447,1,73,New Zealand Women,Amy Satterthwaite,Deepti Sharma,,11,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,10.6,1,1,0,182507,-134.75,86.69,2,0,,25,OFF SPIN,47,ON DRIVE,0,0,6,10,95,2,0,0,1,0,0,0,0,0
+66,1,447,1,73,New Zealand Women,Amelia Kerr,Sneh Rana,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,11.1,1,1,0,182508,151.64,8.42,1,0,,25,OFF SPIN,58,PULL SHOT,0,0,1,11,96,2,1,0,1,0,0,0,0,0
+67,2,447,1,73,New Zealand Women,Amy Satterthwaite,Sneh Rana,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,11.2,1,1,0,182509,-39.90,-49.60,1,0,,23,ARM BALL,22,PADDLE SWEEP,0,0,2,11,97,2,0,0,1,0,0,0,0,0
+68,3,447,1,73,New Zealand Women,Amelia Kerr,Sneh Rana,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.3,1,1,0,182510,-49.57,-48.68,0,0,,25,OFF SPIN,35,LATE CUT,0,0,3,11,97,2,0,0,1,0,0,0,0,0
+69,4,447,1,73,New Zealand Women,Amelia Kerr,Sneh Rana,,12,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,11.4,1,1,0,182511,64.62,-138.46,4,0,,25,OFF SPIN,99,SCOOP,0,0,4,11,101,2,0,1,2,0,0,1,0,0
+70,5,447,1,73,New Zealand Women,Amelia Kerr,Sneh Rana,,12,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,11.5,1,1,0,182512,50.80,-143.99,4,0,,25,OFF SPIN,99,SCOOP,0,0,5,11,105,2,0,0,2,0,0,0,0,0
+71,6,447,1,73,New Zealand Women,Amelia Kerr,Sneh Rana,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.6,1,1,0,182513,-76.74,-20.13,0,0,,25,OFF SPIN,36,CUT SHOT,0,0,6,11,105,2,0,0,2,0,0,0,0,0
+72,1,447,1,73,New Zealand Women,Amy Satterthwaite,Deepti Sharma,,13,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,12.1,1,1,0,182514,-106.67,171.87,6,0,,25,OFF SPIN,94,SDL ON,0,0,1,12,111,2,1,0,2,0,0,0,0,0
+73,2,447,1,73,New Zealand Women,Amy Satterthwaite,Deepti Sharma,,13,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,12.2,1,1,0,182515,-146.72,139.64,6,0,,25,OFF SPIN,94,SDL ON,0,0,2,12,117,2,0,0,2,0,0,0,0,0
+74,3,447,1,73,New Zealand Women,Amy Satterthwaite,Deepti Sharma,,13,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,12.3,1,1,0,182516,140.13,148.85,4,0,,25,OFF SPIN,21,SD OFF,0,0,3,12,121,2,0,0,2,0,0,0,0,0
+75,4,447,1,73,New Zealand Women,Amy Satterthwaite,Deepti Sharma,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,12.4,1,1,0,182517,68.30,150.23,1,0,,25,OFF SPIN,21,SD OFF,0,0,4,12,122,2,0,0,2,0,0,0,0,0
+76,5,447,1,73,New Zealand Women,Amelia Kerr,Deepti Sharma,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,12.5,1,1,0,182518,156.70,8.42,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,5,12,123,2,0,0,2,0,0,0,0,0
+77,6,447,1,73,New Zealand Women,Amy Satterthwaite,Deepti Sharma,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,12.6,1,1,0,182519,-18.26,174.17,1,0,,25,OFF SPIN,94,SDL ON,0,0,6,12,124,2,0,0,2,0,0,0,0,0
+78,1,447,1,73,New Zealand Women,Amy Satterthwaite,Meghna Singh,,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.1,1,1,0,182520,-18.26,174.17,0,0,,36,BOUNCER,58,PULL SHOT,1,0,1,13,124,2,1,0,2,0,0,0,0,0
+79,2,447,1,73,New Zealand Women,Amy Satterthwaite,Meghna Singh,,14,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,13.2,1,1,0,182521,-175.27,78.40,4,0,,36,BOUNCER,46,FRONTFOOT PULL SHOT,1,0,2,13,128,2,0,0,2,0,0,0,0,0
+80,3,447,1,73,New Zealand Women,Amy Satterthwaite,Meghna Singh,,14,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,13.3,1,1,0,182522,148.41,-62.03,4,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,3,13,132,2,0,0,2,0,0,0,0,0
+81,4,447,1,73,New Zealand Women,Amy Satterthwaite,Meghna Singh,,14,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,13.4,1,1,0,182523,148.41,-62.03,0,0,,39,ANGLED IN,18,SLOG SHOT,0,0,4,13,132,3,1,0,2,0,0,0,0,0
+82,5,447,1,73,New Zealand Women,Frances Mackay,Meghna Singh,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.5,1,1,0,182524,95.92,47.55,1,0,,42,OUTSWINGER,47,ON DRIVE,0,0,5,13,133,3,2,0,2,0,0,0,0,0
+83,6,447,1,73,New Zealand Women,Amelia Kerr,Meghna Singh,,14,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,13.6,1,1,0,182525,148.41,135.50,4,0,,42,OUTSWINGER,11,LOFT ON,0,0,6,13,137,3,0,0,2,0,0,0,0,0
+84,1,447,1,73,New Zealand Women,Frances Mackay,Sneh Rana,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.1,1,1,0,182526,-95.62,41.57,0,0,,25,OFF SPIN,52,BACKFOOT COVERDRIVE,0,0,1,14,137,3,1,0,2,0,0,0,0,0
+85,2,447,1,73,New Zealand Women,Frances Mackay,Sneh Rana,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,14.2,1,1,0,182527,99.61,-33.02,1,0,,25,OFF SPIN,37,SD FLICK,0,0,2,14,138,3,0,0,2,0,0,0,0,0
+86,3,447,1,73,New Zealand Women,Amelia Kerr,Sneh Rana,,15,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,14.3,1,1,1,182528,99.61,-33.02,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,3,14,139,3,0,0,2,0,0,0,0,0
+87,4,447,1,73,New Zealand Women,Amelia Kerr,Sneh Rana,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,14.3,1,1,0,182529,83.03,-11.38,1,0,,25,OFF SPIN,37,SD FLICK,0,0,4,14,140,3,0,0,2,0,0,0,0,0
+88,5,447,1,73,New Zealand Women,Frances Mackay,Sneh Rana,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.4,1,1,0,182530,-60.62,-14.14,0,0,,25,OFF SPIN,74,SD ON,0,0,5,14,140,3,0,0,2,0,0,0,0,0
+89,6,447,1,73,New Zealand Women,Frances Mackay,Sneh Rana,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.5,1,1,0,182531,-60.62,-14.14,0,0,,25,OFF SPIN,74,SD ON,0,0,6,14,140,3,0,0,2,0,0,0,0,0
+90,7,447,1,73,New Zealand Women,Frances Mackay,Sneh Rana,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,14.6,1,1,0,182532,89.02,46.17,1,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,7,14,141,3,0,0,2,0,0,0,0,0
+91,1,447,1,73,New Zealand Women,Frances Mackay,Rajeshwari Gayakwad,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.1,1,1,0,182533,-48.19,39.27,0,0,,10,ORTHODOX,77,SD DEFENCE,0,0,1,15,141,3,1,0,2,0,0,0,0,0
+92,2,447,1,73,New Zealand Women,Frances Mackay,Rajeshwari Gayakwad,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,15.2,1,1,0,182534,-82.26,135.96,1,0,,10,ORTHODOX,21,SD OFF,0,0,2,15,142,3,0,0,2,0,0,0,0,0
+93,3,447,1,73,New Zealand Women,Amelia Kerr,Rajeshwari Gayakwad,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,15.3,1,1,0,182535,-51.41,-42.69,1,0,,23,ARM BALL,35,LATE CUT,0,0,3,15,143,3,0,0,2,0,0,0,0,0
+94,4,447,1,73,New Zealand Women,Frances Mackay,Rajeshwari Gayakwad,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.4,1,1,0,182536,37.91,36.96,0,0,,10,ORTHODOX,21,SD OFF,0,0,4,15,143,3,0,0,2,0,0,0,0,0
+95,5,447,1,73,New Zealand Women,Frances Mackay,Rajeshwari Gayakwad,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,15.5,1,1,0,182537,-51.41,-50.52,1,0,,10,ORTHODOX,56,REVERSE SWEEP,0,0,5,15,144,3,0,0,2,0,0,0,0,0
+96,6,447,1,73,New Zealand Women,Amelia Kerr,Rajeshwari Gayakwad,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,15.6,1,1,0,182538,135.98,35.58,1,0,,10,ORTHODOX,37,SD FLICK,0,0,6,15,145,3,0,0,2,0,0,0,0,0
+97,1,447,1,73,New Zealand Women,Amelia Kerr,Sneh Rana,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.1,1,1,0,182539,129.54,77.48,1,0,,25,OFF SPIN,95,SLOG SWEEP,0,0,1,16,146,3,1,0,2,0,0,0,0,0
+98,2,447,1,73,New Zealand Women,Frances Mackay,Sneh Rana,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,16.2,1,1,0,182540,129.54,77.48,0,0,,25,OFF SPIN,36,CUT SHOT,0,0,2,16,146,3,0,0,2,0,0,0,0,0
+99,3,447,1,73,New Zealand Women,Frances Mackay,Sneh Rana,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.3,1,1,0,182541,-86.87,22.69,1,0,,25,OFF SPIN,89,SD COVER,0,0,3,16,147,3,0,0,2,0,0,0,0,0
+100,4,447,1,73,New Zealand Women,Amelia Kerr,Sneh Rana,,17,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,16.4,1,1,0,182542,178.34,49.40,4,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,4,16,151,3,0,1,3,0,0,0,0,0
+101,5,447,1,73,New Zealand Women,Amelia Kerr,Sneh Rana,,17,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,16.5,1,1,0,182543,148.87,137.34,4,0,,25,OFF SPIN,95,SLOG SWEEP,0,0,5,16,155,3,0,0,3,0,0,0,0,0
+102,6,447,1,73,New Zealand Women,Amelia Kerr,Sneh Rana,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.6,1,1,0,182544,138.28,45.71,1,0,,25,OFF SPIN,95,SLOG SWEEP,0,0,6,16,156,3,0,0,3,0,0,0,0,0
+103,1,447,1,73,New Zealand Women,Amelia Kerr,Rajeshwari Gayakwad,,18,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,17.1,1,1,0,182545,174.66,73.34,4,0,,10,ORTHODOX,95,SLOG SWEEP,0,0,1,17,160,3,1,0,3,0,0,0,0,0
+104,2,447,1,73,New Zealand Women,Amelia Kerr,Rajeshwari Gayakwad,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,17.2,1,1,0,182546,34.69,145.63,1,0,,10,ORTHODOX,47,ON DRIVE,0,0,2,17,161,3,0,0,3,0,0,0,0,0
+105,3,447,1,73,New Zealand Women,Frances Mackay,Rajeshwari Gayakwad,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,17.3,1,1,0,182547,123.09,46.63,1,0,,10,ORTHODOX,37,SD FLICK,0,0,3,17,162,3,0,0,3,0,0,0,0,0
+106,4,447,1,73,New Zealand Women,Amelia Kerr,Rajeshwari Gayakwad,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,17.4,1,1,0,182548,150.72,31.90,1,0,,10,ORTHODOX,95,SLOG SWEEP,0,0,4,17,163,3,0,0,3,0,0,0,0,0
+107,5,447,1,73,New Zealand Women,Frances Mackay,Rajeshwari Gayakwad,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,17.5,1,1,0,182549,-24.71,64.59,0,0,,10,ORTHODOX,1,SD STRAIGHT,0,0,5,17,163,3,0,0,3,0,0,0,0,0
+108,6,447,1,73,New Zealand Women,Frances Mackay,Rajeshwari Gayakwad,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,17.6,1,1,0,182550,-9.05,-13.68,0,0,,10,ORTHODOX,55,SWEEP SHOT,0,0,6,17,163,3,0,0,3,0,0,0,0,0
+109,1,447,1,73,New Zealand Women,Amelia Kerr,Renuka Singh,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,18.1,1,1,0,182551,47.12,164.96,1,0,,39,ANGLED IN,47,ON DRIVE,0,0,1,18,164,3,1,0,3,0,0,0,0,0
+110,2,447,1,73,New Zealand Women,Frances Mackay,Renuka Singh,,19,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,18.2,1,1,0,182552,47.12,164.96,0,0,,39,ANGLED IN,99,SCOOP,0,0,2,18,164,4,2,0,3,0,0,0,0,0
+111,3,447,1,73,New Zealand Women,Lauren Down,Renuka Singh,,19,3,3 (WD),3,0,0,0,0,0,3,1,0,0,0,0,0,,,,0,18.3,1,1,1,182553,47.12,164.96,3,0,,39,ANGLED IN,105,LEFT ALONE,0,0,3,18,167,4,3,0,3,0,0,0,0,0
+112,4,447,1,73,New Zealand Women,Lauren Down,Renuka Singh,,19,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,18.3,1,1,0,182554,-53.72,-143.06,4,0,,38,STRAIGHT BALL,84,OFF DRIVE,0,0,4,18,171,4,0,0,3,0,0,0,0,0
+113,5,447,1,73,New Zealand Women,Lauren Down,Renuka Singh,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,18.4,1,1,0,182555,-53.72,-143.06,0,0,,46,LEGCUTTER,36,CUT SHOT,0,0,5,18,171,4,0,0,3,0,0,0,0,0
+114,6,447,1,73,New Zealand Women,Lauren Down,Renuka Singh,,19,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,18.5,1,1,0,182556,-56.94,153.91,1,0,,39,ANGLED IN,5,LOFT OFF,0,0,6,18,172,4,0,0,3,0,0,0,0,0
+115,7,447,1,73,New Zealand Women,Amelia Kerr,Renuka Singh,,19,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,18.6,1,1,0,182557,177.88,22.23,4,0,,46,LEGCUTTER,11,LOFT ON,0,0,7,18,176,4,0,0,3,0,0,0,0,0
+116,1,447,1,73,New Zealand Women,Lauren Down,Deepti Sharma,,20,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,19.1,1,1,0,182558,177.88,22.23,0,0,,23,ARM BALL,95,SLOG SWEEP,0,0,1,19,176,5,1,0,3,0,0,0,0,0
+117,2,447,1,73,New Zealand Women,Jess Kerr,Deepti Sharma,,20,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,19.2,1,1,0,182559,-97.92,11.18,1,0,,25,OFF SPIN,89,SD COVER,0,0,2,19,177,5,2,0,3,0,0,0,0,0
+118,3,447,1,73,New Zealand Women,Amelia Kerr,Deepti Sharma,,20,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,19.3,1,1,0,182560,180.18,44.33,6,0,,23,ARM BALL,95,SLOG SWEEP,0,0,3,19,183,5,0,0,3,0,0,0,0,0
+119,4,447,1,73,New Zealand Women,Amelia Kerr,Deepti Sharma,,20,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,19.4,1,1,0,182561,67.84,144.24,2,0,,25,OFF SPIN,95,SLOG SWEEP,0,0,4,19,185,5,0,0,3,0,0,0,0,0
+120,5,447,1,73,New Zealand Women,Amelia Kerr,Deepti Sharma,,20,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,19.5,1,1,0,182562,55.87,135.50,2,0,,23,ARM BALL,94,SDL ON,0,0,5,19,187,5,0,0,3,0,0,0,0,0
+121,6,447,1,73,New Zealand Women,Amelia Kerr,Deepti Sharma,,20,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,19.6,1,1,0,182563,-151.33,131.35,4,0,,25,OFF SPIN,15,LOFT COVER,0,0,6,19,191,5,0,0,3,0,0,0,0,0
+122,1,447,2,52,India Women,Smriti Mandhana,Frances Mackay,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.1,2,1,0,182564,4.76,59.06,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+123,2,447,2,52,India Women,Smriti Mandhana,Frances Mackay,,1,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,0.2,2,1,0,182565,161.77,21.77,2,0,,25,OFF SPIN,52,BACKFOOT COVERDRIVE,0,0,2,0,2,0,0,0,0,0,0,0,0,0
+124,3,447,2,52,India Women,Smriti Mandhana,Frances Mackay,,1,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,0.3,2,1,0,182566,-177.11,21.77,4,0,,25,OFF SPIN,58,PULL SHOT,0,0,3,0,6,0,0,0,0,0,0,0,0,0
+125,4,447,2,52,India Women,Smriti Mandhana,Frances Mackay,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,0.4,2,1,0,182567,-25.17,-101.63,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,4,0,7,0,0,0,0,0,0,0,0,0
+126,5,447,2,52,India Women,Shafali Verma,Frances Mackay,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.5,2,1,0,182568,48.50,99.58,0,0,,25,OFF SPIN,47,ON DRIVE,0,0,5,0,7,0,0,0,0,0,0,0,0,0
+127,6,447,2,52,India Women,Shafali Verma,Frances Mackay,,1,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,0.6,2,1,0,182569,82.11,36.96,0,0,,15,FASTER ONE,58,PULL SHOT,0,0,6,0,7,1,1,0,0,0,0,0,0,0
+128,1,447,2,52,India Women,Smriti Mandhana,Jess Kerr,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.1,2,1,0,182570,68.30,48.94,0,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,1,1,7,1,2,0,0,0,0,0,0,0
+129,2,447,2,52,India Women,Smriti Mandhana,Jess Kerr,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.2,2,1,0,182571,87.64,-3.09,0,0,,42,OUTSWINGER,36,CUT SHOT,0,0,2,1,7,1,0,0,0,0,0,0,0,0
+130,3,447,2,52,India Women,Smriti Mandhana,Jess Kerr,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,1.3,2,1,0,182572,76.13,-82.75,1,0,,42,OUTSWINGER,89,SD COVER,0,0,3,1,8,1,0,0,0,0,0,0,0,0
+131,4,447,2,52,India Women,Yastika Bhatia,Jess Kerr,,2,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,1.4,2,1,0,182573,-108.05,52.62,0,0,,42,OUTSWINGER,58,PULL SHOT,0,0,4,1,8,2,1,0,0,0,0,0,0,0
+132,5,447,2,52,India Women,Smriti Mandhana,Jess Kerr,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.5,2,1,0,182574,-108.05,52.62,0,0,,42,OUTSWINGER,105,LEFT ALONE,0,0,5,1,8,2,2,0,0,0,0,0,0,0
+133,6,447,2,52,India Women,Smriti Mandhana,Jess Kerr,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.6,2,1,0,182575,80.73,50.78,0,0,,42,OUTSWINGER,52,BACKFOOT COVERDRIVE,0,0,6,1,8,2,0,0,0,0,0,0,0,0
+134,1,447,2,52,India Women,Pooja Vastrakar,Hayley Jensen,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.1,2,1,0,182576,36.07,115.70,0,0,,42,OUTSWINGER,84,OFF DRIVE,0,0,1,2,8,2,1,0,0,0,0,0,0,0
+135,2,447,2,52,India Women,Pooja Vastrakar,Hayley Jensen,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.2,2,1,0,182577,-99.30,30.98,0,0,,42,OUTSWINGER,97,BACKFOOT PUSH,0,0,2,2,8,2,0,0,0,0,0,0,0,0
+136,3,447,2,52,India Women,Pooja Vastrakar,Hayley Jensen,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.3,2,1,0,182578,1.54,65.51,0,0,,42,OUTSWINGER,53,STRAIGHT DRIVE,0,0,3,2,8,2,0,0,0,0,0,0,0,0
+137,4,447,2,52,India Women,Pooja Vastrakar,Hayley Jensen,,3,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,2.4,2,1,0,182579,182.95,72.42,4,0,,36,BOUNCER,58,PULL SHOT,1,0,4,2,12,2,0,0,0,0,0,0,0,0
+138,5,447,2,52,India Women,Pooja Vastrakar,Hayley Jensen,,3,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,2.5,2,1,0,182580,43.90,116.16,0,0,,39,ANGLED IN,11,LOFT ON,0,0,5,2,12,3,1,0,0,0,0,0,0,0
+139,6,447,2,52,India Women,Mithali Raj,Hayley Jensen,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.6,2,1,0,182581,-9.51,-41.31,0,0,,39,ANGLED IN,44,GLIDE,0,0,6,2,12,3,2,0,0,0,0,0,0,0
+140,1,447,2,52,India Women,Smriti Mandhana,Jess Kerr,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,3.1,2,1,0,182582,135.98,-55.58,1,0,,42,OUTSWINGER,36,CUT SHOT,0,0,1,3,13,3,3,0,0,0,0,0,0,0
+141,2,447,2,52,India Women,Mithali Raj,Jess Kerr,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.2,2,1,0,182583,-67.53,53.08,0,0,,41,INSWINGER,51,FRONTFOOT COVERDRIVE,0,0,2,3,13,3,0,0,0,0,0,0,0,0
+142,3,447,2,52,India Women,Mithali Raj,Jess Kerr,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,3.3,2,1,0,182584,140.59,53.08,1,0,,41,INSWINGER,58,PULL SHOT,0,0,3,3,14,3,0,0,0,0,0,0,0,0
+143,4,447,2,52,India Women,Smriti Mandhana,Jess Kerr,,4,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,3.4,2,1,0,182585,-131.07,-87.81,4,0,,42,OUTSWINGER,40,FLICK,0,0,4,3,18,3,0,0,0,0,0,0,0,0
+144,5,447,2,52,India Women,Smriti Mandhana,Jess Kerr,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.5,2,1,0,182586,-15.50,50.32,0,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,5,3,18,3,0,0,0,0,0,0,0,0
+145,6,447,2,52,India Women,Smriti Mandhana,Jess Kerr,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.6,2,1,0,182587,-15.50,50.32,0,0,,42,OUTSWINGER,58,PULL SHOT,0,0,6,3,18,3,0,0,0,0,0,0,0,0
+146,1,447,2,52,India Women,Mithali Raj,Hayley Jensen,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,4.1,2,1,0,182588,-81.34,36.04,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,1,4,18,3,1,0,0,0,0,0,0,0
+147,2,447,2,52,India Women,Mithali Raj,Hayley Jensen,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,4.2,2,1,0,182589,130.46,38.35,1,0,,39,ANGLED IN,40,FLICK,0,0,2,4,19,3,0,0,0,0,0,0,0,0
+148,3,447,2,52,India Women,Smriti Mandhana,Hayley Jensen,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,4.3,2,1,0,182590,-79.50,47.09,0,0,,39,ANGLED IN,47,ON DRIVE,0,0,3,4,19,3,0,0,0,0,0,0,0,0
+149,4,447,2,52,India Women,Smriti Mandhana,Hayley Jensen,,5,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,4.4,2,1,0,182591,-137.97,10.72,0,0,,39,ANGLED IN,58,PULL SHOT,0,0,4,4,19,4,1,0,0,0,0,0,0,0
+150,5,447,2,52,India Women,Richa Ghosh,Hayley Jensen,,5,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.5,2,1,0,182592,185.25,34.20,4,0,,36,BOUNCER,58,PULL SHOT,1,0,5,4,23,4,2,0,0,0,0,0,0,0
+151,6,447,2,52,India Women,Richa Ghosh,Hayley Jensen,,5,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,4.6,2,1,1,182593,185.25,34.20,1,0,,38,STRAIGHT BALL,105,LEFT ALONE,0,0,6,4,24,4,0,0,0,0,0,0,0,0
+152,7,447,2,52,India Women,Richa Ghosh,Hayley Jensen,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,4.6,2,1,0,182594,185.25,34.20,0,0,,42,OUTSWINGER,16,BACKFOOT SQUARE DRIVE,0,0,7,4,24,4,0,0,0,0,0,0,0,0
+153,1,447,2,52,India Women,Mithali Raj,Rosemary Mair,,6,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,5.1,2,1,0,182595,-100.22,124.91,2,0,,39,ANGLED IN,5,LOFT OFF,0,0,1,5,26,4,1,0,0,0,0,0,0,0
+154,2,447,2,52,India Women,Mithali Raj,Rosemary Mair,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,5.2,2,1,0,182596,-106.21,-76.76,1,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,2,5,27,4,0,0,0,0,0,0,0,0
+155,3,447,2,52,India Women,Richa Ghosh,Rosemary Mair,,6,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,5.3,2,1,0,182597,-177.11,97.74,4,0,,39,ANGLED IN,15,LOFT COVER,0,0,3,5,31,4,0,0,0,0,0,0,0,0
+156,4,447,2,52,India Women,Richa Ghosh,Rosemary Mair,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,5.4,2,1,0,182598,144.73,145.17,4,0,,39,ANGLED IN,47,ON DRIVE,0,0,4,5,35,4,0,0,0,0,0,0,0,0
+157,5,447,2,52,India Women,Richa Ghosh,Rosemary Mair,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,5.5,2,1,0,182599,79.35,-58.35,1,0,,36,BOUNCER,58,PULL SHOT,1,0,5,5,36,4,0,0,0,0,0,0,0,0
+158,6,447,2,52,India Women,Mithali Raj,Rosemary Mair,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.6,2,1,0,182600,-80.42,15.32,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,6,5,36,4,0,0,0,0,0,0,0,0
+159,1,447,2,52,India Women,Richa Ghosh,Amelia Kerr,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.1,2,1,0,182601,-30.69,65.05,0,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,1,6,36,4,1,0,0,0,0,0,0,0
+160,2,447,2,52,India Women,Richa Ghosh,Amelia Kerr,,7,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,6.2,2,1,0,182602,178.34,8.42,4,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,2,6,40,4,0,0,0,0,0,0,0,0
+161,3,447,2,52,India Women,Richa Ghosh,Amelia Kerr,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,6.3,2,1,0,182603,132.76,26.37,1,0,,28,GOOGLY,37,SD FLICK,0,0,3,6,41,4,0,0,0,0,0,0,0,0
+162,4,447,2,52,India Women,Mithali Raj,Amelia Kerr,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,6.4,2,1,0,182604,142.43,-29.80,1,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,4,6,42,4,0,0,0,0,0,0,0,0
+163,5,447,2,52,India Women,Richa Ghosh,Amelia Kerr,,7,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,6.5,2,1,0,182605,49.88,-107.61,2,0,,24,LEG SPIN,99,SCOOP,0,0,5,6,44,4,0,0,0,0,0,0,0,0
+164,6,447,2,52,India Women,Richa Ghosh,Amelia Kerr,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.6,2,1,0,182606,49.88,-107.61,0,0,,27,TOP SPINNER,61,INSIDE OUT,0,0,6,6,44,4,0,0,0,0,0,0,0,0
+165,1,447,2,52,India Women,Mithali Raj,Frances Mackay,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,7.1,2,1,0,182607,39.75,-24.27,1,0,,25,OFF SPIN,99,SCOOP,0,0,1,7,45,4,1,0,0,0,0,0,0,0
+166,2,447,2,52,India Women,Richa Ghosh,Frances Mackay,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,7.2,2,1,0,182608,77.97,140.10,1,0,,25,OFF SPIN,47,ON DRIVE,0,0,2,7,46,4,0,0,0,0,0,0,0,0
+167,3,447,2,52,India Women,Mithali Raj,Frances Mackay,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.3,2,1,0,182609,-59.70,-12.76,0,0,,25,OFF SPIN,37,SD FLICK,0,0,3,7,46,4,0,0,0,0,0,0,0,0
+168,4,447,2,52,India Women,Mithali Raj,Frances Mackay,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.4,2,1,0,182610,64.62,40.19,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,4,7,46,4,0,0,0,0,0,0,0,0
+169,5,447,2,52,India Women,Mithali Raj,Frances Mackay,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,7.5,2,1,0,182611,129.54,72.88,1,0,,25,OFF SPIN,58,PULL SHOT,0,0,5,7,47,4,0,0,0,0,0,0,0,0
+170,6,447,2,52,India Women,Richa Ghosh,Frances Mackay,,8,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,7.6,2,1,0,182612,181.10,77.48,6,0,,25,OFF SPIN,95,SLOG SWEEP,0,0,6,7,53,4,0,1,1,0,1,0,0,0
+171,1,447,2,52,India Women,Mithali Raj,Amelia Kerr,,9,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,8.1,2,1,0,182613,-155.93,-62.95,4,0,,24,LEG SPIN,36,CUT SHOT,0,0,1,8,57,4,1,0,1,0,0,0,0,0
+172,2,447,2,52,India Women,Mithali Raj,Amelia Kerr,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,8.2,2,1,0,182614,126.77,18.09,1,0,,24,LEG SPIN,95,SLOG SWEEP,0,0,2,8,58,4,0,0,1,0,0,0,0,0
+173,3,447,2,52,India Women,Richa Ghosh,Amelia Kerr,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.3,2,1,0,182615,126.77,18.09,0,0,,28,GOOGLY,36,CUT SHOT,0,0,3,8,58,4,0,0,1,0,0,0,0,0
+174,4,447,2,52,India Women,Richa Ghosh,Amelia Kerr,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,8.4,2,1,0,182616,78.89,-40.39,1,0,,24,LEG SPIN,40,FLICK,0,0,4,8,59,4,0,0,1,0,0,0,0,0
+175,5,447,2,52,India Women,Mithali Raj,Amelia Kerr,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,8.5,2,1,0,182617,-133.37,49.40,1,0,,24,LEG SPIN,89,SD COVER,0,0,5,8,60,4,0,0,1,0,0,0,0,0
+176,6,447,2,52,India Women,Richa Ghosh,Amelia Kerr,,9,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,8.6,2,1,0,182618,163.61,101.88,6,0,,24,LEG SPIN,95,SLOG SWEEP,0,0,6,8,66,4,0,0,1,0,0,0,0,0
+177,1,447,2,52,India Women,Mithali Raj,Rosemary Mair,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,9.1,2,1,0,182619,-84.56,-85.97,1,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,1,9,67,4,1,0,1,0,0,0,0,0
+178,2,447,2,52,India Women,Richa Ghosh,Rosemary Mair,,10,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,9.2,2,1,0,182620,17.19,-103.01,2,0,,39,ANGLED IN,99,SCOOP,0,0,2,9,69,4,0,0,1,0,0,0,0,0
+179,3,447,2,52,India Women,Richa Ghosh,Rosemary Mair,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.3,2,1,0,182621,17.19,-103.01,0,0,,38,STRAIGHT BALL,89,SD COVER,0,0,3,9,69,4,0,0,1,0,0,0,0,0
+180,4,447,2,52,India Women,Richa Ghosh,Rosemary Mair,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.4,2,1,0,182622,17.19,-103.01,0,0,,36,BOUNCER,58,PULL SHOT,1,0,4,9,69,4,0,0,1,0,0,0,0,0
+181,5,447,2,52,India Women,Richa Ghosh,Rosemary Mair,,10,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,9.5,2,1,0,182623,-184.02,84.39,6,0,,39,ANGLED IN,15,LOFT COVER,0,0,5,9,75,4,0,0,1,0,0,0,0,0
+182,6,447,2,52,India Women,Richa Ghosh,Rosemary Mair,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.6,2,1,0,182624,-184.02,84.39,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,6,9,75,4,0,0,1,0,0,0,0,0
+183,1,447,2,52,India Women,Mithali Raj,Hayley Jensen,,11,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,,,,0,10.1,2,1,1,182625,-184.02,84.39,1,0,,43,NIPBACKER,40,FLICK,0,0,1,10,76,4,1,0,1,0,0,0,0,0
+184,2,447,2,52,India Women,Richa Ghosh,Hayley Jensen,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.2,2,1,0,182626,130.46,77.02,1,0,,39,ANGLED IN,40,FLICK,0,0,2,10,77,4,0,0,1,0,0,0,0,0
+185,3,447,2,52,India Women,Mithali Raj,Hayley Jensen,,11,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,10.3,2,1,0,182627,132.30,161.28,4,0,,39,ANGLED IN,11,LOFT ON,0,0,3,10,81,4,0,0,1,0,0,0,0,0
+186,4,447,2,52,India Women,Mithali Raj,Hayley Jensen,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.4,2,1,0,182628,120.79,-37.63,1,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,4,10,82,4,0,0,1,0,0,0,0,0
+187,5,447,2,52,India Women,Richa Ghosh,Hayley Jensen,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,10.5,2,1,0,182629,-57.86,-16.91,0,0,,8,OFF CUTTER,18,SLOG SHOT,0,0,5,10,82,4,0,0,1,0,0,0,0,0
+188,6,447,2,52,India Women,Richa Ghosh,Hayley Jensen,,11,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,10.6,2,1,0,182630,-136.59,159.90,6,0,,39,ANGLED IN,122,SDL OFF,0,0,6,10,88,4,0,0,1,0,0,0,0,0
+189,1,447,2,52,India Women,Mithali Raj,Sophie Devine,,12,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,,,,0,11.1,2,1,1,182631,-61.54,-22.89,1,0,,38,STRAIGHT BALL,40,FLICK,0,0,1,11,89,4,1,0,1,0,0,0,0,0
+190,2,447,2,52,India Women,Richa Ghosh,Sophie Devine,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.2,2,1,0,182632,-86.87,39.27,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,2,11,89,4,0,0,1,0,0,0,0,0
+191,3,447,2,52,India Women,Richa Ghosh,Sophie Devine,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.3,2,1,0,182633,-44.05,17.17,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,3,11,89,4,0,0,1,0,0,0,0,0
+192,4,447,2,52,India Women,Richa Ghosh,Sophie Devine,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,11.4,2,1,0,182634,96.38,-80.91,1,0,,39,ANGLED IN,58,PULL SHOT,0,0,4,11,90,4,0,0,1,0,0,0,0,0
+193,5,447,2,52,India Women,Mithali Raj,Sophie Devine,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.5,2,1,0,182635,96.38,-80.91,0,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,5,11,90,4,0,0,1,0,0,0,0,0
+194,6,447,2,52,India Women,Mithali Raj,Sophie Devine,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,11.6,2,1,0,182636,122.63,83.01,1,0,,38,STRAIGHT BALL,58,PULL SHOT,0,0,6,11,91,4,0,0,1,0,0,0,0,0
+196,1,447,2,52,India Women,Mithali Raj,Hayley Jensen,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,12.1,2,1,0,182637,98.69,81.17,1,0,,39,ANGLED IN,47,ON DRIVE,0,0,1,12,92,4,1,0,1,0,0,0,0,0
+197,2,447,2,52,India Women,Richa Ghosh,Hayley Jensen,,13,2,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,,,,0,12.2,2,1,1,182638,98.69,81.17,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,2,12,93,4,0,0,1,0,0,0,0,0
+198,3,447,2,52,India Women,Mithali Raj,Hayley Jensen,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,12.3,2,1,0,182639,-27.47,-11.38,1,0,,39,ANGLED IN,47,ON DRIVE,0,0,3,12,94,4,0,0,1,0,0,0,0,0
+199,4,447,2,52,India Women,Richa Ghosh,Hayley Jensen,,13,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,12.4,2,1,0,182640,-157.77,44.33,2,0,,39,ANGLED IN,114,SDL COVER,0,0,4,12,96,4,0,0,1,0,0,0,0,0
+200,5,447,2,52,India Women,Richa Ghosh,Hayley Jensen,,13,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,12.5,2,1,0,182641,114.80,100.04,0,0,,39,ANGLED IN,11,LOFT ON,0,0,5,12,96,5,1,0,1,0,0,0,0,0
+201,6,447,2,52,India Women,Mithali Raj,Hayley Jensen,,13,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,12.6,2,1,0,182642,159.00,132.73,6,0,,39,ANGLED IN,11,LOFT ON,0,0,6,12,102,5,2,1,2,0,0,1,0,0
+202,1,447,2,52,India Women,Deepti Sharma,Jess Kerr,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.1,2,1,0,182643,-66.15,54.92,1,0,,8,OFF CUTTER,27,FORWARD PUSH,0,0,1,13,103,5,3,0,2,0,0,0,0,0
+203,2,447,2,52,India Women,Mithali Raj,Jess Kerr,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.2,2,1,0,182644,124.47,36.50,1,0,,39,ANGLED IN,58,PULL SHOT,0,0,2,13,104,5,0,0,2,0,0,0,0,0
+204,3,447,2,52,India Women,Deepti Sharma,Jess Kerr,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.3,2,1,0,182645,71.06,-35.78,1,0,,30,ANGLED ACROSS,44,GLIDE,0,0,3,13,105,5,0,0,2,0,0,0,0,0
+205,4,447,2,52,India Women,Mithali Raj,Jess Kerr,,14,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,13.4,2,1,0,182646,71.06,-35.78,0,0,,8,OFF CUTTER,94,SDL ON,0,0,4,13,105,6,1,0,2,0,0,0,0,0
+206,5,447,2,52,India Women,Sneh Rana,Jess Kerr,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.5,2,1,0,182647,-78.12,29.14,0,0,,46,LEGCUTTER,27,FORWARD PUSH,0,0,5,13,105,6,2,0,2,0,0,0,0,0
+207,6,447,2,52,India Women,Sneh Rana,Jess Kerr,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.6,2,1,0,182648,107.44,-38.09,1,0,,46,LEGCUTTER,54,LEG GLANCE,0,0,6,13,106,6,0,0,2,0,0,0,0,0
+208,1,447,2,52,India Women,Sneh Rana,Rosemary Mair,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.1,2,1,0,182649,-76.74,38.81,0,0,,38,STRAIGHT BALL,52,BACKFOOT COVERDRIVE,0,0,1,14,106,6,1,0,2,0,0,0,0,0
+209,2,447,2,52,India Women,Sneh Rana,Rosemary Mair,,15,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,14.2,2,1,1,182650,-76.74,38.81,1,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,2,14,107,6,0,0,2,0,0,0,0,0
+210,3,447,2,52,India Women,Sneh Rana,Rosemary Mair,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,14.2,2,1,0,182651,118.49,70.12,1,0,,39,ANGLED IN,11,LOFT ON,0,0,3,14,108,6,0,0,2,0,0,0,0,0
+211,4,447,2,52,India Women,Deepti Sharma,Rosemary Mair,,15,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,14.3,2,1,0,182652,-53.26,-98.40,2,0,,8,OFF CUTTER,54,LEG GLANCE,0,0,4,14,110,6,0,0,2,0,0,0,0,0
+212,5,447,2,52,India Women,Deepti Sharma,Rosemary Mair,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,14.4,2,1,0,182653,131.84,70.58,1,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,5,14,111,6,0,0,2,0,0,0,0,0
+213,6,447,2,52,India Women,Sneh Rana,Rosemary Mair,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.5,2,1,0,182654,131.84,70.58,0,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,6,14,111,6,0,0,2,0,0,0,0,0
+214,7,447,2,52,India Women,Sneh Rana,Rosemary Mair,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,14.6,2,1,0,182655,102.37,-40.85,1,0,,39,ANGLED IN,58,PULL SHOT,0,0,7,14,112,6,0,0,2,0,0,0,0,0
+215,1,447,2,52,India Women,Sneh Rana,Amelia Kerr,,16,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,15.1,2,1,1,182656,102.37,-40.85,1,0,,24,LEG SPIN,105,LEFT ALONE,0,0,1,15,113,6,1,0,2,0,0,0,0,0
+216,2,447,2,52,India Women,Sneh Rana,Amelia Kerr,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.1,2,1,0,182657,-69.83,1.97,0,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,2,15,113,6,0,0,2,0,0,0,0,0
+217,3,447,2,52,India Women,Sneh Rana,Amelia Kerr,,16,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.2,2,1,0,182658,-69.83,1.97,0,0,,24,LEG SPIN,94,SDL ON,0,0,3,15,113,6,0,0,2,0,0,0,0,0
+218,4,447,2,52,India Women,Sneh Rana,Amelia Kerr,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,15.3,2,1,0,182659,-111.27,1.97,1,0,,24,LEG SPIN,36,CUT SHOT,0,0,4,15,114,6,0,0,2,0,0,0,0,0
+219,5,447,2,52,India Women,Deepti Sharma,Amelia Kerr,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,15.4,2,1,0,182660,-119.56,122.14,1,0,,28,GOOGLY,58,PULL SHOT,0,0,5,15,115,6,0,0,2,0,0,0,0,0
+220,6,447,2,52,India Women,Sneh Rana,Amelia Kerr,,16,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,15.5,2,1,0,182661,64.15,-114.98,2,0,,24,LEG SPIN,54,LEG GLANCE,0,0,6,15,117,6,0,0,2,0,0,0,0,0
+221,7,447,2,52,India Women,Sneh Rana,Amelia Kerr,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.6,2,1,0,182662,-72.59,-36.24,0,0,,24,LEG SPIN,36,CUT SHOT,0,0,7,15,117,6,0,0,2,0,0,0,0,0
+222,1,447,2,52,India Women,Deepti Sharma,Frances Mackay,,17,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,16.1,2,1,0,182663,49.88,-88.73,2,0,,25,OFF SPIN,35,LATE CUT,0,0,1,16,119,6,1,0,2,0,0,0,0,0
+223,2,447,2,52,India Women,Deepti Sharma,Frances Mackay,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.2,2,1,0,182664,-128.31,-44.99,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,2,16,120,6,0,0,2,0,0,0,0,0
+224,3,447,2,52,India Women,Sneh Rana,Frances Mackay,,17,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,16.3,2,1,0,182665,-51.41,-104.39,2,0,,25,OFF SPIN,35,LATE CUT,0,0,3,16,122,6,0,0,2,0,0,0,0,0
+225,4,447,2,52,India Women,Sneh Rana,Frances Mackay,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.4,2,1,0,182666,-78.12,46.63,1,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,4,16,123,6,0,0,2,0,0,0,0,0
+226,5,447,2,52,India Women,Deepti Sharma,Frances Mackay,,17,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,,,,0,16.5,2,1,1,182667,-78.12,46.63,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,5,16,124,6,0,0,2,0,0,0,0,0
+227,6,447,2,52,India Women,Sneh Rana,Frances Mackay,,17,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,16.6,2,1,0,182668,48.04,-55.12,0,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,6,16,124,7,1,0,2,0,0,0,0,0
+228,1,447,2,52,India Women,Deepti Sharma,Amelia Kerr,,18,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,17.1,2,1,0,182669,48.04,-55.12,0,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,1,17,124,8,2,0,2,0,0,0,0,0
+229,2,447,2,52,India Women,Renuka Singh,Amelia Kerr,,18,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,17.2,2,1,0,182670,48.04,-55.12,0,0,,28,GOOGLY,27,FORWARD PUSH,0,0,2,17,124,9,0,0,2,0,0,0,0,0
+230,3,447,2,52,India Women,Rajeshwari Gayakwad,Amelia Kerr,,18,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,17.3,2,1,0,182671,-78.12,-27.50,0,0,,28,GOOGLY,27,FORWARD PUSH,0,0,3,17,124,9,1,0,2,0,0,0,0,0
+231,4,447,2,52,India Women,Rajeshwari Gayakwad,Amelia Kerr,,18,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,17.4,2,1,0,182672,96.85,-118.20,4,0,,24,LEG SPIN,58,PULL SHOT,0,0,4,17,128,9,0,0,2,0,0,0,0,0
+232,5,447,2,52,India Women,Rajeshwari Gayakwad,Amelia Kerr,,18,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,17.5,2,1,0,182673,96.85,-118.20,0,0,,24,LEG SPIN,47,ON DRIVE,0,0,5,17,128,10,1,0,2,0,0,0,0,0

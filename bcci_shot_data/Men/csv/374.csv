@@ -1,0 +1,234 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,374,1,6,Sri Lanka,Pathum Nissanka,Mitchell Starc,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,150450,-82.26,60.91,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+1,2,374,1,6,Sri Lanka,Kusal Perera,Mitchell Starc,,1,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,150451,92.70,-85.05,2,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,0,3,0,0,0,0,0,0,0,0,0
+2,3,374,1,6,Sri Lanka,Kusal Perera,Mitchell Starc,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,150452,92.70,-85.05,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,0,3,0,0,0,0,0,0,0,0,0
+3,4,374,1,6,Sri Lanka,Kusal Perera,Mitchell Starc,,1,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.4,1,1,1,150453,92.70,-85.05,1,0,,,Knuckleball,105,LEFT ALONE,0,0,4,0,4,0,0,0,0,0,0,0,0,0
+4,5,374,1,6,Sri Lanka,Kusal Perera,Mitchell Starc,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,150454,69.68,56.30,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,0,5,0,0,0,0,0,0,0,0,0
+5,6,374,1,6,Sri Lanka,Pathum Nissanka,Mitchell Starc,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,150455,-125.54,-7.70,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,0,6,0,0,0,0,0,0,0,0,0
+6,7,374,1,6,Sri Lanka,Kusal Perera,Mitchell Starc,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,150456,-80.88,49.86,0,0,,,Knuckleball,40,FLICK,0,0,7,0,6,0,0,0,0,0,0,0,0,0
+7,1,374,1,6,Sri Lanka,Pathum Nissanka,Josh Hazlewood,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,150457,-30.23,72.42,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,1,6,0,1,0,0,0,0,0,0,0
+8,2,374,1,6,Sri Lanka,Pathum Nissanka,Josh Hazlewood,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,150458,94.08,-6.78,0,0,,,Knuckleball,40,FLICK,0,0,2,1,6,0,0,0,0,0,0,0,0,0
+9,3,374,1,6,Sri Lanka,Pathum Nissanka,Josh Hazlewood,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,150459,-64.31,-29.34,0,0,,,Knuckleball,44,GLIDE,0,0,3,1,6,0,0,0,0,0,0,0,0,0
+10,4,374,1,6,Sri Lanka,Pathum Nissanka,Josh Hazlewood,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,150460,48.96,81.17,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,1,7,0,0,0,0,0,0,0,0,0
+11,5,374,1,6,Sri Lanka,Kusal Perera,Josh Hazlewood,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,150461,86.26,-2.17,0,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,5,1,7,0,0,0,0,0,0,0,0,0
+12,6,374,1,6,Sri Lanka,Kusal Perera,Josh Hazlewood,,2,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.6,1,1,0,150462,-146.72,141.94,4,0,,30,ANGLED ACROSS,58,PULL SHOT,0,0,6,1,11,0,0,0,0,0,0,0,0,0
+13,1,374,1,6,Sri Lanka,Pathum Nissanka,Pat Cummins,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,150463,67.84,113.86,0,0,,39,ANGLED IN,47,ON DRIVE,0,0,1,2,11,0,1,0,0,0,0,0,0,0
+14,2,374,1,6,Sri Lanka,Pathum Nissanka,Pat Cummins,,3,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.2,1,1,0,150464,190.77,38.81,4,0,,39,ANGLED IN,40,FLICK,0,0,2,2,15,0,0,0,0,0,0,0,0,0
+15,3,374,1,6,Sri Lanka,Pathum Nissanka,Pat Cummins,,3,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,2.3,1,1,0,150465,190.77,38.81,0,0,,,Knuckleball,5,LOFT OFF,0,0,3,2,15,1,1,0,0,0,0,0,0,0
+16,4,374,1,6,Sri Lanka,Charith Asalanka,Pat Cummins,,3,4,5 (NB),5,4,0,0,0,0,1,0,1,0,0,1,0,0,,,0,2.4,1,1,1,150466,-175.27,-23.35,5,0,,,Knuckleball,58,PULL SHOT,0,0,4,2,20,1,2,0,0,0,0,0,0,0
+17,5,374,1,6,Sri Lanka,Charith Asalanka,Pat Cummins,,3,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.4,1,1,0,150467,126.31,171.87,4,0,,,Knuckleball,5,LOFT OFF,0,0,5,2,24,1,0,0,0,0,0,0,0,0
+18,6,374,1,6,Sri Lanka,Charith Asalanka,Pat Cummins,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,150468,89.94,19.93,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,2,24,1,0,0,0,0,0,0,0,0
+19,7,374,1,6,Sri Lanka,Charith Asalanka,Pat Cummins,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,150469,82.11,-92.42,1,0,,,Knuckleball,36,CUT SHOT,0,0,7,2,25,1,0,0,0,0,0,0,0,0
+20,1,374,1,6,Sri Lanka,Charith Asalanka,Glenn Maxwell,,4,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.1,1,1,0,150470,-176.19,132.73,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,3,31,1,1,0,0,0,0,0,0,0
+21,2,374,1,6,Sri Lanka,Charith Asalanka,Glenn Maxwell,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,150471,-10.44,52.16,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,3,31,1,0,0,0,0,0,0,0,0
+22,3,374,1,6,Sri Lanka,Charith Asalanka,Glenn Maxwell,,4,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.3,1,1,0,150472,-183.56,-45.91,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,3,35,1,0,0,0,0,0,0,0,0
+23,4,374,1,6,Sri Lanka,Charith Asalanka,Glenn Maxwell,,4,4,5 (WD),5,0,0,0,0,0,5,1,0,0,0,1,0,0,,,0,3.4,1,1,1,150473,-183.56,-45.91,5,0,,,Knuckleball,54,LEG GLANCE,0,0,4,3,40,1,0,0,0,0,0,0,0,0
+24,5,374,1,6,Sri Lanka,Charith Asalanka,Glenn Maxwell,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,150474,72.44,102.35,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,3,41,1,0,0,0,0,0,0,0,0
+25,6,374,1,6,Sri Lanka,Kusal Perera,Glenn Maxwell,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,150475,18.11,57.22,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,6,3,41,1,0,0,0,0,0,0,0,0
+26,7,374,1,6,Sri Lanka,Kusal Perera,Glenn Maxwell,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,150476,54.49,42.95,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,7,3,41,1,0,0,0,0,0,0,0,0
+27,1,374,1,6,Sri Lanka,Charith Asalanka,Josh Hazlewood,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,150477,83.95,8.88,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,4,41,1,1,0,0,0,0,0,0,0
+28,2,374,1,6,Sri Lanka,Charith Asalanka,Josh Hazlewood,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,150478,97.31,-2.17,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,2,4,41,1,0,0,0,0,0,0,0,0
+29,3,374,1,6,Sri Lanka,Charith Asalanka,Josh Hazlewood,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,150479,97.31,-2.17,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,4,41,1,0,0,0,0,0,0,0,0
+30,4,374,1,6,Sri Lanka,Charith Asalanka,Josh Hazlewood,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,150480,95.00,-5.40,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,4,41,1,0,0,0,0,0,0,0,0
+31,5,374,1,6,Sri Lanka,Charith Asalanka,Josh Hazlewood,,5,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.5,1,1,0,150481,-19.64,211.47,4,0,,,Knuckleball,11,LOFT ON,0,0,5,4,45,1,0,0,0,0,0,0,0,0
+32,6,374,1,6,Sri Lanka,Charith Asalanka,Josh Hazlewood,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,150482,77.51,-95.64,1,0,,,Knuckleball,44,GLIDE,0,0,6,4,46,1,0,0,0,0,0,0,0,0
+33,1,374,1,6,Sri Lanka,Charith Asalanka,Pat Cummins,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,150483,90.40,-7.24,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,5,46,1,1,0,0,0,0,0,0,0
+34,2,374,1,6,Sri Lanka,Charith Asalanka,Pat Cummins,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,150484,90.40,-7.24,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,5,46,1,0,0,0,0,0,0,0,0
+35,3,374,1,6,Sri Lanka,Charith Asalanka,Pat Cummins,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,150485,-86.87,98.20,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,5,47,1,0,0,0,0,0,0,0,0
+36,4,374,1,6,Sri Lanka,Kusal Perera,Pat Cummins,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.4,1,1,0,150486,19.95,-153.19,4,0,,,Knuckleball,58,PULL SHOT,0,0,4,5,51,1,0,1,1,0,1,0,0,0
+37,5,374,1,6,Sri Lanka,Kusal Perera,Pat Cummins,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,150487,-136.59,-38.55,1,0,,,Knuckleball,40,FLICK,0,0,5,5,52,1,0,0,1,0,0,0,0,0
+38,6,374,1,6,Sri Lanka,Charith Asalanka,Pat Cummins,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,150488,-72.13,-45.91,1,0,,,Knuckleball,40,FLICK,0,0,6,5,53,1,0,0,1,0,0,0,0,0
+39,1,374,1,6,Sri Lanka,Charith Asalanka,Marcus Stoinis,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,150489,157.62,38.81,1,0,,,Knuckleball,15,LOFT COVER,0,0,1,6,54,1,1,0,1,0,0,0,0,0
+40,2,374,1,6,Sri Lanka,Kusal Perera,Marcus Stoinis,,7,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,150490,131.84,110.63,2,0,,,Knuckleball,15,LOFT COVER,0,0,2,6,56,1,0,0,1,0,0,0,0,0
+41,3,374,1,6,Sri Lanka,Kusal Perera,Marcus Stoinis,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,150491,151.64,37.42,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,6,57,1,0,0,1,0,0,0,0,0
+42,4,374,1,6,Sri Lanka,Charith Asalanka,Marcus Stoinis,,7,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,150492,151.64,61.37,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,6,59,1,0,0,1,0,0,0,0,0
+43,5,374,1,6,Sri Lanka,Charith Asalanka,Marcus Stoinis,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,150493,-122.32,113.40,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,6,60,1,0,0,1,0,0,0,0,0
+44,6,374,1,6,Sri Lanka,Kusal Perera,Marcus Stoinis,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,150494,-89.17,22.23,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,6,60,1,0,0,1,0,0,0,0,0
+45,1,374,1,6,Sri Lanka,Charith Asalanka,Adam Zampa,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,150495,-142.12,94.98,1,0,,,Knuckleball,58,PULL SHOT,0,0,1,7,61,1,1,0,1,0,0,0,0,0
+46,2,374,1,6,Sri Lanka,Kusal Perera,Adam Zampa,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,150496,54.95,-38.55,0,0,,,Knuckleball,40,FLICK,0,0,2,7,61,1,0,0,1,0,0,0,0,0
+47,3,374,1,6,Sri Lanka,Kusal Perera,Adam Zampa,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,150497,55.87,-52.82,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,7,61,1,0,0,1,0,0,0,0,0
+48,4,374,1,6,Sri Lanka,Kusal Perera,Adam Zampa,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,150498,-137.97,-16.45,1,0,,,Knuckleball,40,FLICK,0,0,4,7,62,1,0,0,1,0,0,0,0,0
+49,5,374,1,6,Sri Lanka,Charith Asalanka,Adam Zampa,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,150499,-89.63,3.35,1,0,,,Knuckleball,40,FLICK,0,0,5,7,63,1,0,0,1,0,0,0,0,0
+50,6,374,1,6,Sri Lanka,Kusal Perera,Adam Zampa,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,150500,-77.20,153.45,1,0,,,Knuckleball,47,ON DRIVE,0,0,6,7,64,1,0,0,1,0,0,0,0,0
+51,1,374,1,6,Sri Lanka,Kusal Perera,Marcus Stoinis,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,150501,67.84,84.85,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,8,65,1,1,0,1,0,0,0,0,0
+52,2,374,1,6,Sri Lanka,Charith Asalanka,Marcus Stoinis,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,150502,67.84,84.85,0,0,,,Knuckleball,58,PULL SHOT,0,0,2,8,65,1,0,0,1,0,0,0,0,0
+53,3,374,1,6,Sri Lanka,Charith Asalanka,Marcus Stoinis,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,150503,157.62,32.82,1,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,3,8,66,1,0,0,1,0,0,0,0,0
+54,4,374,1,6,Sri Lanka,Kusal Perera,Marcus Stoinis,,9,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.4,1,1,0,150504,186.63,119.84,4,0,,,Knuckleball,36,CUT SHOT,0,0,4,8,70,1,0,0,1,0,0,0,0,0
+55,5,374,1,6,Sri Lanka,Kusal Perera,Marcus Stoinis,,9,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.5,1,1,0,150505,192.62,-36.24,4,0,,,Knuckleball,59,SQUARE DRIVE,0,0,5,8,74,1,0,0,1,0,0,0,0,0
+56,6,374,1,6,Sri Lanka,Kusal Perera,Marcus Stoinis,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,150506,-92.85,23.15,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,8,75,1,0,0,1,0,0,0,0,0
+57,1,374,1,6,Sri Lanka,Kusal Perera,Adam Zampa,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,150507,-144.42,13.48,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,9,76,1,1,0,1,0,0,0,0,0
+58,2,374,1,6,Sri Lanka,Charith Asalanka,Adam Zampa,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,150508,37.91,177.86,1,0,,,Knuckleball,84,OFF DRIVE,0,0,2,9,77,1,0,0,1,0,0,0,0,0
+59,3,374,1,6,Sri Lanka,Kusal Perera,Adam Zampa,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,150509,-83.18,77.94,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,9,78,1,0,0,1,0,0,0,0,0
+60,4,374,1,6,Sri Lanka,Charith Asalanka,Adam Zampa,,10,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,9.4,1,1,0,150510,-83.18,77.94,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,9,78,2,1,0,1,0,0,0,0,0
+61,5,374,1,6,Sri Lanka,Avishka Fernando,Adam Zampa,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,150511,-4.91,49.40,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,9,78,2,2,0,1,0,0,0,0,0
+62,6,374,1,6,Sri Lanka,Avishka Fernando,Adam Zampa,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,150512,78.89,89.91,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,9,79,2,0,0,1,0,0,0,0,0
+63,1,374,1,6,Sri Lanka,Avishka Fernando,Mitchell Starc,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,150513,-82.72,-90.58,1,0,,,Knuckleball,44,GLIDE,0,0,1,10,80,2,1,0,1,0,0,0,0,0
+64,2,374,1,6,Sri Lanka,Kusal Perera,Mitchell Starc,,11,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,10.2,1,1,0,150514,-134.29,165.88,6,0,,,Knuckleball,11,LOFT ON,0,0,2,10,86,2,0,0,1,0,0,0,0,0
+65,3,374,1,6,Sri Lanka,Kusal Perera,Mitchell Starc,,11,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,10.3,1,1,0,150515,-134.29,165.88,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,10,86,3,1,0,1,0,0,0,0,0
+66,4,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Mitchell Starc,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,150516,-15.96,159.90,1,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,4,10,87,3,2,0,1,0,0,0,0,0
+67,5,374,1,6,Sri Lanka,Avishka Fernando,Mitchell Starc,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,150517,79.81,-9.54,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,10,88,3,0,0,1,0,0,0,0,0
+68,6,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Mitchell Starc,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,150518,7.98,64.13,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,10,88,3,0,0,1,0,0,0,0,0
+69,1,374,1,6,Sri Lanka,Avishka Fernando,Adam Zampa,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,150519,20.87,62.29,0,0,,,Knuckleball,77,SD DEFENCE,0,0,1,11,88,3,1,0,1,0,0,0,0,0
+70,2,374,1,6,Sri Lanka,Avishka Fernando,Adam Zampa,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,150520,125.85,88.99,1,0,,,Knuckleball,40,FLICK,0,0,2,11,89,3,0,0,1,0,0,0,0,0
+71,3,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Adam Zampa,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,150521,125.85,88.99,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,11,89,3,0,0,1,0,0,0,0,0
+72,4,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Adam Zampa,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,150522,21.79,-63.41,1,0,,,Knuckleball,35,LATE CUT,0,0,4,11,90,3,0,0,1,0,0,0,0,0
+73,5,374,1,6,Sri Lanka,Avishka Fernando,Adam Zampa,,12,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,11.5,1,1,0,150523,21.79,-63.41,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,5,11,90,4,1,0,1,0,0,0,0,0
+74,6,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Adam Zampa,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,150524,21.79,-63.41,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,11,90,4,2,0,1,0,0,0,0,0
+75,1,374,1,6,Sri Lanka,Wanindu Hasaranga,Mitchell Starc,,13,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.1,1,1,0,150525,-31.62,-150.89,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,12,94,4,3,0,1,0,0,0,0,0
+76,2,374,1,6,Sri Lanka,Wanindu Hasaranga,Mitchell Starc,,13,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,12.2,1,1,0,150526,-31.62,-150.89,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,12,94,5,4,0,1,0,0,0,0,0
+77,3,374,1,6,Sri Lanka,Dasun Shanaka,Mitchell Starc,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,150527,-23.79,61.37,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,12,94,5,5,0,1,0,0,0,0,0
+78,4,374,1,6,Sri Lanka,Dasun Shanaka,Mitchell Starc,,13,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,150528,-67.07,48.01,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,12,94,5,0,0,1,0,0,0,0,0
+79,5,374,1,6,Sri Lanka,Dasun Shanaka,Mitchell Starc,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,150529,-53.72,13.48,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,12,94,5,0,0,1,0,0,0,0,0
+80,6,374,1,6,Sri Lanka,Dasun Shanaka,Mitchell Starc,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,150530,157.62,33.74,1,0,,,Knuckleball,40,FLICK,0,0,6,12,95,5,0,0,1,0,0,0,0,0
+81,1,374,1,6,Sri Lanka,Dasun Shanaka,Adam Zampa,,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,150531,-11.82,66.43,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,1,13,95,5,1,0,1,0,0,0,0,0
+82,2,374,1,6,Sri Lanka,Dasun Shanaka,Adam Zampa,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,150532,7.98,64.13,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,13,95,5,0,0,1,0,0,0,0,0
+83,3,374,1,6,Sri Lanka,Dasun Shanaka,Adam Zampa,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,150533,51.26,87.15,0,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,3,13,95,5,0,0,1,0,0,0,0,0
+84,4,374,1,6,Sri Lanka,Dasun Shanaka,Adam Zampa,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,150534,51.26,87.15,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,13,95,5,0,0,1,0,0,0,0,0
+85,5,374,1,6,Sri Lanka,Dasun Shanaka,Adam Zampa,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,150535,112.50,141.94,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,13,96,5,0,0,1,0,0,0,0,0
+86,6,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Adam Zampa,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,150536,37.91,187.06,1,0,,,Knuckleball,84,OFF DRIVE,0,0,6,13,97,5,0,0,1,0,0,0,0,0
+87,1,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Josh Hazlewood,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,150537,-75.82,56.30,0,0,,,Knuckleball,58,PULL SHOT,0,0,1,14,97,5,1,0,1,0,0,0,0,0
+88,2,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Josh Hazlewood,,15,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,150538,-130.61,-61.11,2,0,,,Knuckleball,40,FLICK,0,0,2,14,99,5,0,0,1,0,0,0,0,0
+89,3,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Josh Hazlewood,,15,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.3,1,1,0,150539,165.45,117.54,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,14,103,5,0,1,2,0,0,1,0,0
+90,4,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Josh Hazlewood,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,150540,-49.57,-39.01,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,14,104,5,0,0,2,0,0,0,0,0
+91,5,374,1,6,Sri Lanka,Dasun Shanaka,Josh Hazlewood,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,150541,-74.90,-13.68,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,14,104,5,0,0,2,0,0,0,0,0
+92,6,374,1,6,Sri Lanka,Dasun Shanaka,Josh Hazlewood,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,150542,133.68,-48.68,1,0,,,Knuckleball,40,FLICK,0,0,6,14,105,5,0,0,2,0,0,0,0,0
+93,1,374,1,6,Sri Lanka,Dasun Shanaka,Pat Cummins,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,150543,86.72,52.62,0,0,,,Knuckleball,40,FLICK,0,0,1,15,105,5,1,0,2,0,0,0,0,0
+94,2,374,1,6,Sri Lanka,Dasun Shanaka,Pat Cummins,,16,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,150544,-130.15,112.01,2,0,,,Knuckleball,15,LOFT COVER,0,0,2,15,107,5,0,0,2,0,0,0,0,0
+95,3,374,1,6,Sri Lanka,Dasun Shanaka,Pat Cummins,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,150545,-133.83,-27.96,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,15,108,5,0,0,2,0,0,0,0,0
+96,4,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Pat Cummins,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,150546,-133.83,-27.96,0,0,,,Knuckleball,31,UPPER CUT,0,0,4,15,108,5,0,0,2,0,0,0,0,0
+97,5,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Pat Cummins,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,150547,89.94,-88.27,1,0,,,Knuckleball,35,LATE CUT,0,0,5,15,109,5,0,0,2,0,0,0,0,0
+98,6,374,1,6,Sri Lanka,Dasun Shanaka,Pat Cummins,,16,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,15.6,1,1,1,150548,89.94,-88.27,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,15,110,5,0,0,2,0,0,0,0,0
+99,7,374,1,6,Sri Lanka,Dasun Shanaka,Pat Cummins,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,150549,138.28,94.06,1,0,,,Knuckleball,58,PULL SHOT,0,0,7,15,111,5,0,0,2,0,0,0,0,0
+100,1,374,1,6,Sri Lanka,Dasun Shanaka,Marcus Stoinis,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,150550,136.90,94.98,1,0,,,Knuckleball,40,FLICK,0,0,1,16,112,5,1,0,2,0,0,0,0,0
+101,2,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Marcus Stoinis,,17,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.2,1,1,0,150551,-151.33,-69.40,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,16,116,5,0,0,2,0,0,0,0,0
+102,3,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Marcus Stoinis,,17,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.3,1,1,0,150552,-170.67,-45.45,4,0,,,Knuckleball,58,PULL SHOT,0,0,3,16,120,5,0,0,2,0,0,0,0,0
+103,4,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Marcus Stoinis,,17,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,16.4,1,1,0,150553,10.28,219.29,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,4,16,126,5,0,0,2,0,0,0,0,0
+104,5,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Marcus Stoinis,,17,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,150554,10.28,219.29,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,16,126,5,0,0,2,0,0,0,0,0
+105,6,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Marcus Stoinis,,17,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,16.6,1,1,1,150555,10.28,219.29,1,0,,,Knuckleball,70,SD PULL,0,0,6,16,127,5,0,0,2,0,0,0,0,0
+106,7,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Marcus Stoinis,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,150556,152.10,86.23,1,0,,,Knuckleball,36,CUT SHOT,0,0,7,16,128,5,0,0,2,0,0,0,0,0
+107,1,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Pat Cummins,,18,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,17.1,1,1,1,150557,152.10,86.23,1,0,,,Knuckleball,58,PULL SHOT,0,0,1,17,129,5,1,0,2,0,0,0,0,0
+108,2,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Pat Cummins,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,150558,-43.59,-111.76,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,17,130,5,0,0,2,0,0,0,0,0
+109,3,374,1,6,Sri Lanka,Dasun Shanaka,Pat Cummins,,18,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.2,1,1,0,150559,-75.82,-13.68,0,0,,,Knuckleball,96,Slice,0,0,3,17,130,5,0,0,2,0,0,0,0,0
+110,4,374,1,6,Sri Lanka,Dasun Shanaka,Pat Cummins,,18,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.3,1,1,0,150560,-154.55,160.82,4,0,,,Knuckleball,84,OFF DRIVE,0,0,4,17,134,5,0,0,2,0,0,0,0,0
+111,5,374,1,6,Sri Lanka,Dasun Shanaka,Pat Cummins,,18,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,17.4,1,1,0,150561,-154.55,160.82,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,5,17,134,6,1,0,2,0,0,0,0,0
+112,6,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Pat Cummins,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,150562,-154.55,160.82,0,0,,,Knuckleball,31,UPPER CUT,0,0,6,17,134,6,2,0,2,0,0,0,0,0
+113,7,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Pat Cummins,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,150563,-91.93,-95.64,1,0,,,Knuckleball,58,PULL SHOT,0,0,7,17,135,6,0,0,2,0,0,0,0,0
+114,1,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Mitchell Starc,,19,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,18.1,1,1,1,150564,-91.93,-95.64,1,0,,,Knuckleball,40,FLICK,0,0,1,18,136,6,1,0,2,0,0,0,0,0
+115,2,374,1,6,Sri Lanka,Chamika Karunaratne,Mitchell Starc,,19,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.2,1,1,0,150565,-77.66,203.64,4,0,,,Knuckleball,5,LOFT OFF,0,0,2,18,140,6,0,0,2,0,0,0,0,0
+116,3,374,1,6,Sri Lanka,Chamika Karunaratne,Mitchell Starc,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,150566,-30.23,138.26,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,18,141,6,0,0,2,0,0,0,0,0
+117,4,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Mitchell Starc,,19,4,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,18.4,1,1,1,150567,-87.33,71.96,1,0,,,Knuckleball,40,FLICK,0,0,4,18,142,6,0,0,2,0,0,0,0,0
+118,5,374,1,6,Sri Lanka,Chamika Karunaratne,Mitchell Starc,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,150568,-87.33,71.96,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,18,142,6,0,0,2,0,0,0,0,0
+119,6,374,1,6,Sri Lanka,Chamika Karunaratne,Mitchell Starc,,19,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,150569,-149.95,9.80,2,0,,,Knuckleball,5,LOFT OFF,0,0,6,18,144,6,0,0,2,0,0,0,0,0
+120,1,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Josh Hazlewood,,20,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.1,1,1,0,150570,176.04,97.74,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,19,148,6,1,0,2,0,0,0,0,0
+121,2,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Josh Hazlewood,,20,2,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,19.2,1,1,1,150571,-104.82,149.77,1,0,,,Knuckleball,40,FLICK,0,0,2,19,149,6,0,0,2,0,0,0,0,0
+122,3,374,1,6,Sri Lanka,Chamika Karunaratne,Josh Hazlewood,,20,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.3,1,1,0,150572,-104.82,149.77,1,0,,,Knuckleball,84,OFF DRIVE,0,0,3,19,150,6,0,1,3,0,0,0,0,0
+123,4,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Josh Hazlewood,,20,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,19.4,1,1,1,150573,-104.82,149.77,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,19,151,6,0,0,3,0,0,0,0,0
+124,5,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Josh Hazlewood,,20,4,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,19.4,1,1,1,150574,-146.72,19.01,1,0,,,Knuckleball,40,FLICK,0,0,5,19,152,6,0,0,3,0,0,0,0,0
+125,6,374,1,6,Sri Lanka,Chamika Karunaratne,Josh Hazlewood,,20,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.5,1,1,0,150575,-146.72,19.01,1,0,,,Knuckleball,96,Slice,0,0,6,19,153,6,0,0,3,0,0,0,0,0
+126,7,374,1,6,Sri Lanka,Bhanuka Rajapaksa,Josh Hazlewood,,20,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.6,1,1,0,150576,101.45,12.56,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,7,19,154,6,0,0,3,0,0,0,0,0
+127,1,374,2,2,Australia,David Warner,Chamika Karunaratne,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,150577,-83.18,-7.24,1,0,,,Knuckleball,40,FLICK,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+128,2,374,2,2,Australia,Aaron Finch,Chamika Karunaratne,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,150578,48.50,40.65,0,0,,,Knuckleball,40,FLICK,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+129,3,374,2,2,Australia,Aaron Finch,Chamika Karunaratne,,1,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.3,2,1,0,150579,-192.77,10.26,4,0,,,Knuckleball,36,CUT SHOT,0,0,3,0,5,0,0,0,0,0,0,0,0,0
+130,4,374,2,2,Australia,Aaron Finch,Chamika Karunaratne,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,150580,48.50,40.65,0,0,,,Knuckleball,40,FLICK,0,0,4,0,5,0,0,0,0,0,0,0,0,0
+131,5,374,2,2,Australia,Aaron Finch,Chamika Karunaratne,,1,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.5,2,1,0,150581,-197.37,81.17,4,0,,,Knuckleball,36,CUT SHOT,0,0,5,0,9,0,0,0,0,0,0,0,0,0
+132,6,374,2,2,Australia,Aaron Finch,Chamika Karunaratne,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,150582,-197.37,81.17,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,0,9,0,0,0,0,0,0,0,0,0
+133,1,374,2,2,Australia,David Warner,Maheesh Theekshana,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,150583,36.53,54.46,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,1,9,0,1,0,0,0,0,0,0,0
+134,2,374,2,2,Australia,David Warner,Maheesh Theekshana,,2,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.2,2,1,0,150584,100.53,-125.11,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,2,1,13,0,0,0,0,0,0,0,0,0
+135,3,374,2,2,Australia,David Warner,Maheesh Theekshana,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,150585,-95.15,16.71,1,0,,,Knuckleball,40,FLICK,0,0,3,1,14,0,0,0,0,0,0,0,0,0
+136,4,374,2,2,Australia,Aaron Finch,Maheesh Theekshana,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,150586,55.87,-27.96,0,0,,,Knuckleball,40,FLICK,0,0,4,1,14,0,0,0,0,0,0,0,0,0
+137,5,374,2,2,Australia,Aaron Finch,Maheesh Theekshana,,2,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,150587,120.79,89.91,1,0,,,Knuckleball,37,SD FLICK,0,0,5,1,15,0,0,0,0,0,0,0,0,0
+138,6,374,2,2,Australia,David Warner,Maheesh Theekshana,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,150588,-73.51,56.30,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,1,15,0,0,0,0,0,0,0,0,0
+139,1,374,2,2,Australia,Aaron Finch,Dushmantha Chameera,,3,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.1,2,1,0,150589,18.57,216.53,4,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,1,2,19,0,1,0,0,0,0,0,0,0
+140,2,374,2,2,Australia,Aaron Finch,Dushmantha Chameera,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,150590,8.90,54.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,2,19,0,0,0,0,0,0,0,0,0
+141,3,374,2,2,Australia,Aaron Finch,Dushmantha Chameera,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,150591,89.02,52.16,1,0,,,Knuckleball,40,FLICK,0,0,3,2,20,0,0,0,0,0,0,0,0,0
+142,4,374,2,2,Australia,David Warner,Dushmantha Chameera,,3,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,150592,137.36,95.44,2,0,,,Knuckleball,5,LOFT OFF,0,0,4,2,22,0,0,0,0,0,0,0,0,0
+143,5,374,2,2,Australia,David Warner,Dushmantha Chameera,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,150593,41.13,-115.44,1,0,,,Knuckleball,44,GLIDE,0,0,5,2,23,0,0,0,0,0,0,0,0,0
+144,6,374,2,2,Australia,Aaron Finch,Dushmantha Chameera,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,150594,52.64,96.82,0,0,,,Knuckleball,58,PULL SHOT,0,0,6,2,23,0,0,0,0,0,0,0,0,0
+145,1,374,2,2,Australia,David Warner,Lahiru Kumara,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,150595,-106.21,31.44,1,0,,,Knuckleball,40,FLICK,0,0,1,3,24,0,1,0,0,0,0,0,0,0
+146,2,374,2,2,Australia,Aaron Finch,Lahiru Kumara,,4,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.2,2,1,0,150596,-50.49,225.74,4,0,,,Knuckleball,21,SD OFF,0,0,2,3,28,0,0,0,0,0,0,0,0,0
+147,3,374,2,2,Australia,Aaron Finch,Lahiru Kumara,,4,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.3,2,1,0,150597,-144.88,-94.72,6,0,,,Knuckleball,36,CUT SHOT,0,0,3,3,34,0,0,0,0,0,0,0,0,0
+148,4,374,2,2,Australia,Aaron Finch,Lahiru Kumara,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,150598,107.44,-56.04,1,0,,,Knuckleball,40,FLICK,0,0,4,3,35,0,0,0,0,0,0,0,0,0
+149,5,374,2,2,Australia,David Warner,Lahiru Kumara,,4,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.5,2,1,0,150599,-18.26,-156.88,4,0,,,Knuckleball,58,PULL SHOT,0,0,5,3,39,0,0,0,0,0,0,0,0,0
+150,6,374,2,2,Australia,David Warner,Lahiru Kumara,,4,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.6,2,1,0,150600,18.57,216.07,4,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,6,3,43,0,0,0,0,0,0,0,0,0
+151,1,374,2,2,Australia,Aaron Finch,Dushmantha Chameera,,5,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,4.1,2,1,0,150601,14.43,231.27,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,1,4,49,0,1,0,0,0,0,0,0,0
+152,2,374,2,2,Australia,Aaron Finch,Dushmantha Chameera,,5,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.2,2,1,0,150602,-136.13,-86.89,4,0,,,Knuckleball,36,CUT SHOT,0,0,2,4,53,0,0,1,1,0,1,0,0,0
+153,3,374,2,2,Australia,Aaron Finch,Dushmantha Chameera,,5,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,150603,-103.44,43.87,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,4,54,0,0,0,1,0,0,0,0,0
+154,4,374,2,2,Australia,David Warner,Dushmantha Chameera,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,150604,-4.45,-34.40,0,0,,,Knuckleball,58,PULL SHOT,0,0,4,4,54,0,0,0,1,0,0,0,0,0
+155,5,374,2,2,Australia,David Warner,Dushmantha Chameera,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,150605,-128.31,-60.19,1,0,,,Knuckleball,40,FLICK,0,0,5,4,55,0,0,0,1,0,0,0,0,0
+156,6,374,2,2,Australia,Aaron Finch,Dushmantha Chameera,,5,6,1 (NB),1,0,0,0,0,1,1,0,1,0,0,0,0,0,,,0,4.6,2,1,1,150606,-128.31,-60.19,1,0,,,Knuckleball,105,LEFT ALONE,0,0,6,4,56,0,0,0,1,0,0,0,0,0
+157,7,374,2,2,Australia,Aaron Finch,Dushmantha Chameera,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,150607,57.25,113.40,0,0,,,Knuckleball,47,ON DRIVE,0,0,7,4,56,0,0,0,1,0,0,0,0,0
+158,1,374,2,2,Australia,David Warner,Maheesh Theekshana,,6,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,150608,96.38,41.11,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,5,57,0,1,0,1,0,0,0,0,0
+159,2,374,2,2,Australia,Aaron Finch,Maheesh Theekshana,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,150609,63.69,-41.31,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,5,58,0,0,0,1,0,0,0,0,0
+160,3,374,2,2,Australia,David Warner,Maheesh Theekshana,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,150610,96.38,41.11,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,5,58,0,0,0,1,0,0,0,0,0
+161,4,374,2,2,Australia,David Warner,Maheesh Theekshana,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.4,2,1,0,150611,-178.49,127.21,4,0,,,Knuckleball,58,PULL SHOT,0,0,4,5,62,0,0,0,1,0,0,0,0,0
+162,5,374,2,2,Australia,David Warner,Maheesh Theekshana,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,150612,142.89,87.15,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,5,63,0,0,0,1,0,0,0,0,0
+163,6,374,2,2,Australia,Aaron Finch,Maheesh Theekshana,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,150613,-49.11,22.23,0,0,,,Knuckleball,40,FLICK,0,0,6,5,63,0,0,0,1,0,0,0,0,0
+164,1,374,2,2,Australia,David Warner,Wanindu Hasaranga,,7,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.1,2,1,0,150614,-176.65,-27.04,4,0,,,Knuckleball,58,PULL SHOT,0,0,1,6,67,0,1,0,1,0,0,0,0,0
+165,2,374,2,2,Australia,David Warner,Wanindu Hasaranga,,7,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,150615,-120.48,94.98,2,0,,,Knuckleball,40,FLICK,0,0,2,6,69,0,0,0,1,0,0,0,0,0
+166,3,374,2,2,Australia,David Warner,Wanindu Hasaranga,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,150616,-139.36,-10.46,1,0,,,Knuckleball,40,FLICK,0,0,3,6,70,0,0,0,1,0,0,0,0,0
+167,4,374,2,2,Australia,Aaron Finch,Wanindu Hasaranga,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,150617,-63.38,-42.69,0,0,,,Knuckleball,35,LATE CUT,0,0,4,6,70,0,0,0,1,0,0,0,0,0
+168,5,374,2,2,Australia,Aaron Finch,Wanindu Hasaranga,,7,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,6.5,2,1,0,150618,-63.38,-42.69,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,6,70,1,1,0,1,0,0,0,0,0
+169,6,374,2,2,Australia,Glenn Maxwell,Wanindu Hasaranga,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,150619,29.62,30.06,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,6,70,1,2,0,1,0,0,0,0,0
+170,1,374,2,2,Australia,David Warner,Maheesh Theekshana,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,150620,-51.41,-34.40,0,0,,,Knuckleball,40,FLICK,0,0,1,7,70,1,3,0,1,0,0,0,0,0
+171,2,374,2,2,Australia,David Warner,Maheesh Theekshana,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,150621,45.28,58.14,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,7,70,1,0,0,1,0,0,0,0,0
+172,3,374,2,2,Australia,David Warner,Maheesh Theekshana,,8,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.3,2,1,0,150622,-177.11,135.50,4,0,,,Knuckleball,95,SLOG SWEEP,0,0,3,7,74,1,0,0,1,0,0,0,0,0
+173,4,374,2,2,Australia,David Warner,Maheesh Theekshana,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,150623,116.64,-3.55,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,7,75,1,0,0,1,0,0,0,0,0
+174,5,374,2,2,Australia,Glenn Maxwell,Maheesh Theekshana,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,150624,-17.80,69.65,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,7,75,1,0,0,1,0,0,0,0,0
+175,6,374,2,2,Australia,Glenn Maxwell,Maheesh Theekshana,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,150625,147.03,77.48,1,0,,,Knuckleball,40,FLICK,0,0,6,7,76,1,0,0,1,0,0,0,0,0
+176,1,374,2,2,Australia,Glenn Maxwell,Wanindu Hasaranga,,9,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.1,2,1,0,150626,-115.87,-127.41,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,1,8,80,1,1,0,1,0,0,0,0,0
+177,2,374,2,2,Australia,Glenn Maxwell,Wanindu Hasaranga,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,150627,-27.01,68.73,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,8,80,1,0,0,1,0,0,0,0,0
+178,3,374,2,2,Australia,Glenn Maxwell,Wanindu Hasaranga,,9,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,8.3,2,1,0,150628,-27.01,68.73,0,0,,,Knuckleball,18,SLOG SHOT,0,0,3,8,80,2,1,0,1,0,0,0,0,0
+179,4,374,2,2,Australia,David Warner,Wanindu Hasaranga,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,150629,-79.50,59.06,1,0,,,Knuckleball,40,FLICK,0,0,4,8,81,2,2,0,1,0,0,0,0,0
+180,5,374,2,2,Australia,Steven Smith,Wanindu Hasaranga,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,150630,-6.75,64.13,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,8,81,2,0,0,1,0,0,0,0,0
+181,6,374,2,2,Australia,Steven Smith,Wanindu Hasaranga,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,150631,99.61,150.69,1,0,,,Knuckleball,47,ON DRIVE,0,0,6,8,82,2,0,0,1,0,0,0,0,0
+182,1,374,2,2,Australia,Steven Smith,Lahiru Kumara,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,150632,153.48,28.22,1,0,,,Knuckleball,40,FLICK,0,0,1,9,83,2,1,0,1,0,0,0,0,0
+183,2,374,2,2,Australia,David Warner,Lahiru Kumara,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,150633,83.95,8.42,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,9,84,2,0,0,1,0,0,0,0,0
+184,3,374,2,2,Australia,Steven Smith,Lahiru Kumara,,10,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.3,2,1,0,150634,-160.54,149.77,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,9,88,2,0,0,1,0,0,0,0,0
+185,4,374,2,2,Australia,Steven Smith,Lahiru Kumara,,10,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,150635,-148.56,64.13,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,9,90,2,0,0,1,0,0,0,0,0
+186,5,374,2,2,Australia,Steven Smith,Lahiru Kumara,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,150636,-144.42,88.99,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,9,91,2,0,0,1,0,0,0,0,0
+187,6,374,2,2,Australia,David Warner,Lahiru Kumara,,10,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.6,2,1,0,150637,-192.77,67.35,4,0,,,Knuckleball,58,PULL SHOT,0,0,6,9,95,2,0,0,1,0,0,0,0,0
+188,1,374,2,2,Australia,Steven Smith,Wanindu Hasaranga,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,150638,101.45,153.91,1,0,,,Knuckleball,47,ON DRIVE,0,0,1,10,96,2,1,0,1,0,0,0,0,0
+189,2,374,2,2,Australia,David Warner,Wanindu Hasaranga,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,150639,-149.03,49.86,1,0,,,Knuckleball,40,FLICK,0,0,2,10,97,2,0,0,1,0,0,0,0,0
+190,3,374,2,2,Australia,Steven Smith,Wanindu Hasaranga,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,150640,-12.28,51.70,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,10,97,2,0,0,1,0,0,0,0,0
+191,4,374,2,2,Australia,Steven Smith,Wanindu Hasaranga,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,150641,-89.17,50.32,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,10,97,2,0,0,1,0,0,0,0,0
+192,5,374,2,2,Australia,Steven Smith,Wanindu Hasaranga,,11,5,1 (NB),1,0,0,0,0,1,1,0,1,0,0,0,0,0,,,0,10.5,2,1,1,150642,88.56,43.41,1,0,,,Knuckleball,40,FLICK,0,0,5,10,98,2,0,0,1,0,0,0,0,0
+193,6,374,2,2,Australia,Steven Smith,Wanindu Hasaranga,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,150643,-159.62,44.33,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,10,99,2,0,0,1,0,0,0,0,0
+194,7,374,2,2,Australia,David Warner,Wanindu Hasaranga,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,150644,-77.66,-27.96,1,0,,,Knuckleball,40,FLICK,0,0,7,10,100,2,0,1,2,0,0,1,0,0
+195,1,374,2,2,Australia,David Warner,Maheesh Theekshana,,12,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.1,2,1,0,150645,-188.62,148.85,4,0,,,Knuckleball,58,PULL SHOT,0,0,1,11,104,2,1,0,2,0,0,0,0,0
+196,2,374,2,2,Australia,David Warner,Maheesh Theekshana,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,150646,21.79,19.93,0,0,,,Knuckleball,40,FLICK,0,0,2,11,104,2,0,0,2,0,0,0,0,0
+197,3,374,2,2,Australia,David Warner,Maheesh Theekshana,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,150647,145.19,-11.38,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,11,105,2,0,0,2,0,0,0,0,0
+198,4,374,2,2,Australia,Steven Smith,Maheesh Theekshana,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,150648,87.64,151.61,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,4,11,106,2,0,0,2,0,0,0,0,0
+199,5,374,2,2,Australia,David Warner,Maheesh Theekshana,,12,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,150649,-67.07,-85.51,2,0,,,Knuckleball,40,FLICK,0,0,5,11,108,2,0,0,2,0,0,0,0,0
+200,6,374,2,2,Australia,David Warner,Maheesh Theekshana,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,150650,71.98,53.08,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,11,108,2,0,0,2,0,0,0,0,0
+201,1,374,2,2,Australia,Steven Smith,Wanindu Hasaranga,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,150651,111.12,-58.81,1,0,,,Knuckleball,40,FLICK,0,0,1,12,109,2,1,0,2,0,0,0,0,0
+202,2,374,2,2,Australia,David Warner,Wanindu Hasaranga,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,150652,104.67,139.64,1,0,,,Knuckleball,84,OFF DRIVE,0,0,2,12,110,2,0,0,2,0,0,0,0,0
+203,3,374,2,2,Australia,Steven Smith,Wanindu Hasaranga,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,150653,-9.51,65.97,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,12,110,2,0,0,2,0,0,0,0,0
+204,4,374,2,2,Australia,Steven Smith,Wanindu Hasaranga,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,150654,-145.80,-15.99,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,4,12,111,2,0,0,2,0,0,0,0,0
+205,5,374,2,2,Australia,David Warner,Wanindu Hasaranga,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,150655,-158.69,77.94,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,12,112,2,0,0,2,0,0,0,0,0
+206,6,374,2,2,Australia,Steven Smith,Wanindu Hasaranga,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,150656,-71.67,49.86,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,12,112,2,0,0,2,0,0,0,0,0
+207,1,374,2,2,Australia,David Warner,Dushmantha Chameera,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,150657,143.35,20.85,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,13,113,2,1,0,2,0,0,0,0,0
+208,2,374,2,2,Australia,Steven Smith,Dushmantha Chameera,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,150658,146.57,-15.06,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,13,114,2,0,0,2,0,0,0,0,0
+209,3,374,2,2,Australia,David Warner,Dushmantha Chameera,,14,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.3,2,1,0,150659,-189.54,103.27,4,0,,,Knuckleball,58,PULL SHOT,0,0,3,13,118,2,0,0,2,0,0,0,0,0
+210,4,374,2,2,Australia,David Warner,Dushmantha Chameera,,14,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.4,2,1,0,150660,165.45,131.35,4,0,,,Knuckleball,15,LOFT COVER,0,0,4,13,122,2,0,0,2,0,0,0,0,0
+211,5,374,2,2,Australia,David Warner,Dushmantha Chameera,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,150661,67.84,-4.47,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,13,123,2,0,0,2,0,0,0,0,0
+212,6,374,2,2,Australia,Steven Smith,Dushmantha Chameera,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,150662,124.93,71.50,1,0,,8,OFF CUTTER,58,PULL SHOT,0,0,6,13,124,2,0,0,2,0,0,0,0,0
+213,1,374,2,2,Australia,Steven Smith,Dasun Shanaka,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,150663,70.14,32.82,1,0,,46,LEGCUTTER,97,BACKFOOT PUSH,0,0,1,14,125,2,1,0,2,0,0,0,0,0
+214,2,374,2,2,Australia,David Warner,Dasun Shanaka,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,150664,87.64,-88.73,1,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,2,14,126,2,0,0,2,0,0,0,0,0
+215,3,374,2,2,Australia,Steven Smith,Dasun Shanaka,,15,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,150665,103.29,86.69,2,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,14,128,2,0,0,2,0,0,0,0,0
+216,4,374,2,2,Australia,Steven Smith,Dasun Shanaka,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,150666,54.49,143.32,1,0,,39,ANGLED IN,47,ON DRIVE,0,0,4,14,129,2,0,0,2,0,0,0,0,0
+217,5,374,2,2,Australia,David Warner,Dasun Shanaka,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,150667,54.49,143.32,0,0,,,Knuckleball,105,LEFT ALONE,0,0,5,14,129,2,0,0,2,0,0,0,0,0
+218,6,374,2,2,Australia,David Warner,Dasun Shanaka,,15,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,14.6,2,1,1,150668,54.49,143.32,1,0,,,Knuckleball,105,LEFT ALONE,0,0,6,14,130,2,0,0,2,0,0,0,0,0
+219,7,374,2,2,Australia,David Warner,Dasun Shanaka,,15,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,14.6,2,1,0,150669,83.49,145.17,0,0,,30,ANGLED ACROSS,5,LOFT OFF,0,0,7,14,130,3,1,0,2,0,0,0,0,0
+220,1,374,2,2,Australia,Steven Smith,Chamika Karunaratne,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,150670,97.31,-67.09,1,0,,,Knuckleball,40,FLICK,0,0,1,15,131,3,2,0,2,0,0,0,0,0
+221,2,374,2,2,Australia,Marcus Stoinis,Chamika Karunaratne,,16,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,150671,-11.36,36.50,0,0,,46,LEGCUTTER,49,FORWARD DEFENCE,0,0,2,15,131,3,0,0,2,0,0,0,0,0
+222,3,374,2,2,Australia,Marcus Stoinis,Chamika Karunaratne,,16,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.3,2,1,0,150672,-139.82,152.07,4,0,,46,LEGCUTTER,6,BACKFOOT OFF DRIVE,0,0,3,15,135,3,0,0,2,0,0,0,0,0
+223,4,374,2,2,Australia,Marcus Stoinis,Chamika Karunaratne,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,150673,-76.74,92.68,1,0,,38,STRAIGHT BALL,84,OFF DRIVE,0,0,4,15,136,3,0,0,2,0,0,0,0,0
+224,5,374,2,2,Australia,Steven Smith,Chamika Karunaratne,,16,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,15.5,2,1,1,150674,-76.74,92.68,1,0,,36,BOUNCER,105,LEFT ALONE,1,0,5,15,137,3,0,0,2,0,0,0,0,0
+225,6,374,2,2,Australia,Steven Smith,Chamika Karunaratne,,16,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,150675,-152.71,83.93,2,0,,39,ANGLED IN,51,FRONTFOOT COVERDRIVE,0,0,6,15,139,3,0,0,2,0,0,0,0,0
+226,7,374,2,2,Australia,Steven Smith,Chamika Karunaratne,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,150676,-46.81,-56.04,1,0,,,Knuckleball,36,CUT SHOT,0,0,7,15,140,3,0,0,2,0,0,0,0,0
+227,1,374,2,2,Australia,Steven Smith,Lahiru Kumara,,17,1,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,150677,-138.44,86.69,3,0,,39,ANGLED IN,51,FRONTFOOT COVERDRIVE,0,0,1,16,143,3,1,0,2,0,0,0,0,0
+228,2,374,2,2,Australia,Marcus Stoinis,Lahiru Kumara,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,150678,-68.91,25.91,0,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,2,16,143,3,0,0,2,0,0,0,0,0
+229,3,374,2,2,Australia,Marcus Stoinis,Lahiru Kumara,,17,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,16.3,2,1,0,150679,124.01,159.90,6,0,,39,ANGLED IN,11,LOFT ON,0,0,3,16,149,3,0,0,2,0,0,0,0,0
+230,4,374,2,2,Australia,Marcus Stoinis,Lahiru Kumara,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,150680,86.26,158.06,1,0,,39,ANGLED IN,18,SLOG SHOT,0,0,4,16,150,3,0,1,3,0,0,0,0,0
+231,5,374,2,2,Australia,Steven Smith,Lahiru Kumara,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,150681,-133.37,19.93,1,0,,38,STRAIGHT BALL,96,Slice,0,0,5,16,151,3,0,0,3,0,0,0,0,0
+232,6,374,2,2,Australia,Marcus Stoinis,Lahiru Kumara,,17,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.6,2,1,0,150682,-138.44,151.15,4,0,,39,ANGLED IN,84,OFF DRIVE,0,0,6,16,155,3,0,0,3,0,0,0,0,0

@@ -1,0 +1,557 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,0.1,1,1,0,186690,24.50,-122.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+1,2,451,1,52,India Women,Yastika Bhatia,Shamilia Connel,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.2,1,1,0,186691,25.50,27.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+2,3,451,1,52,India Women,Yastika Bhatia,Shamilia Connel,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.3,1,1,0,186692,-73.50,33.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+3,4,451,1,52,India Women,Yastika Bhatia,Shamilia Connel,,1,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,0.4,1,1,0,186693,54.50,-145.00,4,0,,,Knuckleball,18,SLOG SHOT,0,0,4,0,5,0,0,0,0,0,0,0,0,0
+4,5,451,1,52,India Women,Yastika Bhatia,Shamilia Connel,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,0.5,1,1,0,186694,-88.50,-68.00,1,0,,,Knuckleball,40,FLICK,0,0,5,0,6,0,0,0,0,0,0,0,0,0
+5,6,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.6,1,1,0,186695,5.50,43.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,0,6,0,0,0,0,0,0,0,0,0
+6,1,451,1,52,India Women,Yastika Bhatia,Chinelle Henry,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.1,1,1,0,186696,27.50,-18.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,1,6,0,1,0,0,0,0,0,0,0
+7,2,451,1,52,India Women,Yastika Bhatia,Chinelle Henry,,2,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,1.2,1,1,0,186697,-188.50,89.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,2,1,10,0,0,0,0,0,0,0,0,0
+8,3,451,1,52,India Women,Yastika Bhatia,Chinelle Henry,,2,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,1.3,1,1,1,186698,-188.50,89.00,1,0,,39,ANGLED IN,40,FLICK,0,0,3,1,11,0,0,0,0,0,0,0,0,0
+9,4,451,1,52,India Women,Yastika Bhatia,Chinelle Henry,,2,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,1.3,1,1,0,186699,-185.50,13.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,4,1,15,0,0,0,0,0,0,0,0,0
+10,5,451,1,52,India Women,Yastika Bhatia,Chinelle Henry,,2,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,1.4,1,1,0,186700,-173.50,-55.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,5,1,19,0,0,0,0,0,0,0,0,0
+11,6,451,1,52,India Women,Yastika Bhatia,Chinelle Henry,,2,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,1.5,1,1,0,186701,109.50,106.00,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,1,21,0,0,0,0,0,0,0,0,0
+12,7,451,1,52,India Women,Yastika Bhatia,Chinelle Henry,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.6,1,1,0,186702,43.50,41.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,7,1,21,0,0,0,0,0,0,0,0,0
+13,1,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.1,1,1,0,186703,95.50,9.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,2,21,0,1,0,0,0,0,0,0,0
+14,2,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.2,1,1,0,186704,-29.50,37.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,2,21,0,0,0,0,0,0,0,0,0
+15,3,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.3,1,1,0,186705,99.50,0.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,2,21,0,0,0,0,0,0,0,0,0
+16,4,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,3,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,2.4,1,1,0,186706,63.50,118.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,2,22,0,0,0,0,0,0,0,0,0
+17,5,451,1,52,India Women,Yastika Bhatia,Shamilia Connel,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.5,1,1,0,186707,63.50,118.00,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,5,2,22,0,0,0,0,0,0,0,0,0
+18,6,451,1,52,India Women,Yastika Bhatia,Shamilia Connel,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.6,1,1,0,186708,74.50,-23.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,2,22,0,0,0,0,0,0,0,0,0
+19,1,451,1,52,India Women,Smriti Mandhana,Chinelle Henry,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.1,1,1,0,186709,71.50,87.00,0,0,,30,ANGLED ACROSS,84,OFF DRIVE,0,0,1,3,22,0,1,0,0,0,0,0,0,0
+20,2,451,1,52,India Women,Smriti Mandhana,Chinelle Henry,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.2,1,1,0,186710,60.50,59.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,3,22,0,0,0,0,0,0,0,0,0
+21,3,451,1,52,India Women,Smriti Mandhana,Chinelle Henry,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.3,1,1,0,186711,98.50,10.00,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,3,22,0,0,0,0,0,0,0,0,0
+22,4,451,1,52,India Women,Smriti Mandhana,Chinelle Henry,,4,4,3,3,3,0,0,1,0,0,0,0,0,0,0,0,,,,0,3.4,1,1,0,186712,157.50,-7.00,3,0,,,Knuckleball,96,Slice,0,0,4,3,25,0,0,0,0,0,0,0,0,0
+23,5,451,1,52,India Women,Yastika Bhatia,Chinelle Henry,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.5,1,1,0,186713,67.50,29.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,3,25,0,0,0,0,0,0,0,0,0
+24,6,451,1,52,India Women,Yastika Bhatia,Chinelle Henry,,4,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,3.6,1,1,0,186714,71.50,107.00,1,0,,,Knuckleball,5,LOFT OFF,0,0,6,3,26,0,0,0,0,0,0,0,0,0
+25,1,451,1,52,India Women,Yastika Bhatia,Shamilia Connel,,5,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,4.1,1,1,1,186715,71.50,107.00,1,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,1,4,27,0,1,0,0,0,0,0,0,0
+26,2,451,1,52,India Women,Yastika Bhatia,Shamilia Connel,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,4.1,1,1,0,186716,95.50,7.00,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,4,27,0,0,0,0,0,0,0,0,0
+27,3,451,1,52,India Women,Yastika Bhatia,Shamilia Connel,,5,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.2,1,1,0,186717,-169.50,107.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,3,4,31,0,0,0,0,0,0,0,0,0
+28,4,451,1,52,India Women,Yastika Bhatia,Shamilia Connel,,5,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.3,1,1,0,186718,-191.50,11.00,4,0,,30,ANGLED ACROSS,58,PULL SHOT,0,0,4,4,35,0,0,0,0,0,0,0,0,0
+29,5,451,1,52,India Women,Yastika Bhatia,Shamilia Connel,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,4.4,1,1,0,186719,-98.50,-29.00,1,0,,,Knuckleball,40,FLICK,0,0,5,4,36,0,0,0,0,0,0,0,0,0
+30,6,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,5,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.5,1,1,0,186720,175.50,-4.00,4,0,,,Knuckleball,59,SQUARE DRIVE,0,0,6,4,40,0,0,0,0,0,0,0,0,0
+31,7,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,4.6,1,1,0,186721,44.50,-127.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,7,4,41,0,0,0,0,0,0,0,0,0
+32,1,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.1,1,1,0,186722,44.50,-127.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,5,41,0,1,0,0,0,0,0,0,0
+33,2,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,6,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,5.2,1,1,0,186723,100.50,-65.00,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,5,43,0,0,0,0,0,0,0,0,0
+34,3,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.3,1,1,0,186724,100.50,-65.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,3,5,43,0,0,0,0,0,0,0,0,0
+35,4,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,5.4,1,1,0,186725,129.50,164.00,4,0,,,Knuckleball,122,SDL OFF,0,0,4,5,47,0,0,0,0,0,0,0,0,0
+36,5,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.5,1,1,0,186726,89.50,-14.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,5,47,0,0,0,0,0,0,0,0,0
+37,6,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.6,1,1,0,186727,52.50,3.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,5,47,0,0,0,0,0,0,0,0,0
+38,1,451,1,52,India Women,Yastika Bhatia,Shakera Selman,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.1,1,1,0,186728,66.50,104.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,1,6,47,0,1,0,0,0,0,0,0,0
+39,2,451,1,52,India Women,Yastika Bhatia,Shakera Selman,,7,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,6.2,1,1,0,186729,-114.50,-65.00,2,0,,,Knuckleball,40,FLICK,0,0,2,6,49,0,0,0,0,0,0,0,0,0
+40,3,451,1,52,India Women,Yastika Bhatia,Shakera Selman,,7,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught & Bowled,WICKET,1,6.3,1,1,0,186730,-114.50,-65.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,6,49,1,1,0,0,0,0,0,0,0
+41,4,451,1,52,India Women,Mithali Raj,Shakera Selman,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.4,1,1,0,186731,-61.50,25.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,6,49,1,2,0,0,0,0,0,0,0
+42,5,451,1,52,India Women,Mithali Raj,Shakera Selman,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,6.5,1,1,0,186732,-39.50,-114.00,1,0,,,Knuckleball,44,GLIDE,0,0,5,6,50,1,0,1,1,0,1,0,0,0
+43,6,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.6,1,1,0,186733,15.50,38.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,6,50,1,0,0,1,0,0,0,0,0
+45,1,451,1,52,India Women,Mithali Raj,Hayley Matthews,,8,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,7.1,1,1,0,186734,-171.50,83.00,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,7,54,1,1,0,1,0,0,0,0,0
+46,2,451,1,52,India Women,Mithali Raj,Hayley Matthews,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.2,1,1,0,186735,-68.50,15.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,7,54,1,0,0,1,0,0,0,0,0
+47,3,451,1,52,India Women,Mithali Raj,Hayley Matthews,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.3,1,1,0,186736,-96.50,15.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,7,54,1,0,0,1,0,0,0,0,0
+48,4,451,1,52,India Women,Mithali Raj,Hayley Matthews,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.4,1,1,0,186737,-89.50,16.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,7,54,1,0,0,1,0,0,0,0,0
+49,5,451,1,52,India Women,Mithali Raj,Hayley Matthews,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.5,1,1,0,186738,-67.50,28.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,7,54,1,0,0,1,0,0,0,0,0
+50,6,451,1,52,India Women,Mithali Raj,Hayley Matthews,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.6,1,1,0,186739,-71.50,91.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,6,7,54,1,0,0,1,0,0,0,0,0
+51,1,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.1,1,1,0,186740,30.50,66.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,8,54,1,1,0,1,0,0,0,0,0
+52,2,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.2,1,1,0,186741,-79.50,55.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,8,54,1,0,0,1,0,0,0,0,0
+53,3,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.3,1,1,0,186742,31.50,106.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,3,8,54,1,0,0,1,0,0,0,0,0
+54,4,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,9,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,8.4,1,1,0,186743,-151.50,-75.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,4,8,58,1,0,0,1,0,0,0,0,0
+55,5,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.5,1,1,0,186744,-70.50,89.00,0,0,,,Knuckleball,47,ON DRIVE,0,0,5,8,58,1,0,0,1,0,0,0,0,0
+56,6,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.6,1,1,0,186745,49.50,61.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,8,58,1,0,0,1,0,0,0,0,0
+57,1,451,1,52,India Women,Mithali Raj,Hayley Matthews,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.1,1,1,0,186746,34.50,55.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,9,58,1,1,0,1,0,0,0,0,0
+58,2,451,1,52,India Women,Mithali Raj,Hayley Matthews,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.2,1,1,0,186747,-64.50,26.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,9,58,1,0,0,1,0,0,0,0,0
+59,3,451,1,52,India Women,Mithali Raj,Hayley Matthews,,10,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,9.3,1,1,0,186748,-64.50,26.00,0,0,,,Knuckleball,47,ON DRIVE,0,0,3,9,58,2,1,0,1,0,0,0,0,0
+60,4,451,1,52,India Women,Deepti Sharma,Hayley Matthews,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.4,1,1,0,186749,23.50,18.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,9,58,2,2,0,1,0,0,0,0,0
+61,5,451,1,52,India Women,Deepti Sharma,Hayley Matthews,,10,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,9.5,1,1,0,186750,137.50,-14.00,2,0,,,Knuckleball,59,SQUARE DRIVE,0,0,5,9,60,2,0,0,1,0,0,0,0,0
+62,6,451,1,52,India Women,Deepti Sharma,Hayley Matthews,,10,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,9.6,1,1,0,186751,40.50,-115.00,2,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,9,62,2,0,0,1,0,0,0,0,0
+63,1,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,10.1,1,1,0,186752,-7.50,56.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,10,62,2,1,0,1,0,0,0,0,0
+64,2,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.2,1,1,0,186753,131.50,26.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,10,63,2,0,0,1,0,0,0,0,0
+65,3,451,1,52,India Women,Deepti Sharma,Shakera Selman,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,10.3,1,1,0,186754,77.50,15.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,10,63,2,0,0,1,0,0,0,0,0
+66,4,451,1,52,India Women,Deepti Sharma,Shakera Selman,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,10.4,1,1,0,186755,70.50,32.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,10,63,2,0,0,1,0,0,0,0,0
+67,5,451,1,52,India Women,Deepti Sharma,Shakera Selman,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.5,1,1,0,186756,-89.50,-57.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,10,64,2,0,0,1,0,0,0,0,0
+68,6,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,11,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,10.6,1,1,1,186757,-89.50,-57.00,1,0,,30,ANGLED ACROSS,105,LEFT ALONE,0,0,6,10,65,2,0,0,1,0,0,0,0,0
+69,7,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,11,6,2 (NB),2,1,1,0,0,0,1,0,1,0,0,0,0,,,,0,10.6,1,1,1,186758,93.50,17.00,2,0,,,Knuckleball,27,FORWARD PUSH,0,0,7,10,67,2,0,0,1,0,0,0,0,0
+70,8,451,1,52,India Women,Deepti Sharma,Shakera Selman,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.6,2,1,0,186759,-81.50,140.00,1,0,,,Knuckleball,11,LOFT ON,0,0,8,10,68,2,0,0,1,0,0,0,0,0
+71,1,451,1,52,India Women,Deepti Sharma,Hayley Matthews,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.1,1,1,0,186760,15.50,22.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,11,68,2,1,0,1,0,0,0,0,0
+72,2,451,1,52,India Women,Deepti Sharma,Hayley Matthews,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.2,1,1,0,186761,25.50,21.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,11,68,2,0,0,1,0,0,0,0,0
+73,3,451,1,52,India Women,Deepti Sharma,Hayley Matthews,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.3,1,1,0,186762,77.50,108.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,3,11,68,2,0,0,1,0,0,0,0,0
+74,4,451,1,52,India Women,Deepti Sharma,Hayley Matthews,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.4,1,1,0,186763,-15.50,22.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,11,68,2,0,0,1,0,0,0,0,0
+75,5,451,1,52,India Women,Deepti Sharma,Hayley Matthews,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.5,1,1,0,186764,-28.50,16.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,11,68,2,0,0,1,0,0,0,0,0
+76,6,451,1,52,India Women,Deepti Sharma,Hayley Matthews,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,11.6,1,1,0,186765,-88.50,-57.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,6,11,69,2,0,0,1,0,0,0,0,0
+77,1,451,1,52,India Women,Deepti Sharma,Shakera Selman,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,12.1,1,1,0,186766,-88.50,-57.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,12,69,2,1,0,1,0,0,0,0,0
+78,2,451,1,52,India Women,Deepti Sharma,Shakera Selman,,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,12.2,1,1,0,186767,36.50,59.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,12,69,2,0,0,1,0,0,0,0,0
+79,3,451,1,52,India Women,Deepti Sharma,Shakera Selman,,13,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,12.3,1,1,0,186768,-168.50,116.00,4,0,,,Knuckleball,11,LOFT ON,0,0,3,12,73,2,0,0,1,0,0,0,0,0
+80,4,451,1,52,India Women,Deepti Sharma,Shakera Selman,,13,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,12.4,1,1,0,186769,71.50,-23.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,12,73,2,0,0,1,0,0,0,0,0
+81,5,451,1,52,India Women,Deepti Sharma,Shakera Selman,,13,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,12.5,1,1,0,186770,183.50,17.00,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,12,77,2,0,0,1,0,0,0,0,0
+82,6,451,1,52,India Women,Deepti Sharma,Shakera Selman,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,12.6,1,1,0,186771,67.50,0.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,12,77,2,0,0,1,0,0,0,0,0
+83,1,451,1,52,India Women,Smriti Mandhana,Anisa Mohammed,,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.1,1,1,0,186772,67.50,-29.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,13,77,2,1,0,1,0,0,0,0,0
+84,2,451,1,52,India Women,Smriti Mandhana,Anisa Mohammed,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.2,1,1,0,186773,88.50,17.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,13,77,2,0,0,1,0,0,0,0,0
+85,3,451,1,52,India Women,Smriti Mandhana,Anisa Mohammed,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.3,1,1,0,186774,88.50,17.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,13,78,2,0,0,1,0,0,0,0,0
+86,4,451,1,52,India Women,Deepti Sharma,Anisa Mohammed,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.4,1,1,0,186775,88.50,17.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,13,78,2,0,0,1,0,0,0,0,0
+87,5,451,1,52,India Women,Deepti Sharma,Anisa Mohammed,,14,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,13.5,1,1,0,186776,88.50,17.00,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,13,78,3,1,0,1,0,0,0,0,0
+88,6,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.6,1,1,0,186777,-79.50,10.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,13,78,3,2,0,1,0,0,0,0,0
+89,1,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.1,1,1,0,186778,95.50,1.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,14,78,3,3,0,1,0,0,0,0,0
+90,2,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.2,1,1,0,186779,-8.50,53.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,14,78,3,0,0,1,0,0,0,0,0
+91,3,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,15,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.3,1,1,0,186780,17.50,102.00,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,3,14,78,3,0,0,1,0,0,0,0,0
+92,4,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.4,1,1,0,186781,86.50,-8.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,14,78,3,0,0,1,0,0,0,0,0
+93,5,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,14.5,1,1,0,186782,-139.50,-5.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,14,79,3,0,0,1,0,0,0,0,0
+94,6,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.6,1,1,0,186783,-86.50,30.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,14,79,3,0,0,1,0,0,0,0,0
+95,1,451,1,52,India Women,Smriti Mandhana,Anisa Mohammed,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,15.1,1,1,0,186784,94.50,40.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,15,80,3,1,0,1,0,0,0,0,0
+96,2,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,16,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.2,1,1,0,186785,-81.50,-9.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,15,80,3,0,0,1,0,0,0,0,0
+97,3,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.3,1,1,0,186786,82.50,17.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,15,80,3,0,0,1,0,0,0,0,0
+98,4,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.4,1,1,0,186787,-21.50,20.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,15,80,3,0,0,1,0,0,0,0,0
+99,5,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,15.5,1,1,0,186788,83.50,15.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,15,81,3,0,0,1,0,0,0,0,0
+100,6,451,1,52,India Women,Smriti Mandhana,Anisa Mohammed,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.6,1,1,0,186789,54.50,32.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,15,81,3,0,0,1,0,0,0,0,0
+101,1,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,16.1,1,1,0,186790,18.50,34.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,16,81,3,1,0,1,0,0,0,0,0
+102,2,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,16.2,1,1,0,186791,27.50,45.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,16,81,3,0,0,1,0,0,0,0,0
+103,3,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,16.3,1,1,0,186792,-84.50,-12.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,16,81,3,0,0,1,0,0,0,0,0
+104,4,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.4,1,1,0,186793,-100.50,26.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,16,82,3,0,0,1,0,0,0,0,0
+105,5,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.5,1,1,0,186794,-69.50,-39.00,1,0,,,Knuckleball,40,FLICK,0,0,5,16,83,3,0,0,1,0,0,0,0,0
+106,6,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,17,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,16.6,1,1,0,186795,-127.50,77.00,2,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,16,85,3,0,0,1,0,0,0,0,0
+107,1,451,1,52,India Women,Smriti Mandhana,Anisa Mohammed,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,17.1,1,1,0,186796,88.50,121.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,17,86,3,1,0,1,0,0,0,0,0
+108,2,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,18,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,17.2,1,1,0,186797,-22.50,16.00,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,2,17,86,3,0,0,1,0,0,0,0,0
+109,3,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,18,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,17.3,1,1,0,186798,-91.50,-4.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,17,86,3,0,0,1,0,0,0,0,0
+110,4,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,18,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,17.4,1,1,0,186799,-22.50,16.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,17,86,3,0,0,1,0,0,0,0,0
+111,5,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,18,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,17.5,1,1,0,186800,-178.50,-7.00,4,0,,,Knuckleball,36,CUT SHOT,0,0,5,17,90,3,0,0,1,0,0,0,0,0
+112,6,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,17.6,1,1,0,186801,54.50,113.00,0,0,,,Knuckleball,47,ON DRIVE,0,0,6,17,90,3,0,0,1,0,0,0,0,0
+113,1,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,19,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,18.1,1,1,0,186802,79.50,18.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,18,90,3,1,0,1,0,0,0,0,0
+114,2,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,18.2,1,1,0,186803,-57.50,13.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,2,18,91,3,0,0,1,0,0,0,0,0
+115,3,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,18.3,1,1,0,186804,-136.50,42.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,18,92,3,0,0,1,0,0,0,0,0
+116,4,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,18.4,1,1,0,186805,122.50,-54.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,18,93,3,0,0,1,0,0,0,0,0
+117,5,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,18.5,1,1,0,186806,-79.50,17.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,18,93,3,0,0,1,0,0,0,0,0
+118,6,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,19,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,18.6,1,1,0,186807,-27.50,21.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,18,93,3,0,0,1,0,0,0,0,0
+119,1,451,1,52,India Women,Smriti Mandhana,Anisa Mohammed,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,19.1,1,1,0,186808,149.50,-10.00,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,1,19,94,3,1,0,1,0,0,0,0,0
+120,2,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,20,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,19.2,1,1,0,186809,65.50,106.00,0,0,,,Knuckleball,47,ON DRIVE,0,0,2,19,94,3,0,0,1,0,0,0,0,0
+121,3,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,20,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,19.3,1,1,0,186810,-62.50,211.00,4,0,,,Knuckleball,21,SD OFF,0,0,3,19,98,3,0,0,1,0,0,0,0,0
+122,4,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,20,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,19.4,1,1,0,186811,146.50,74.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,19,99,3,0,0,1,0,0,0,0,0
+123,5,451,1,52,India Women,Smriti Mandhana,Anisa Mohammed,,20,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,19.5,1,1,0,186812,27.50,31.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,19,99,3,0,0,1,0,0,0,0,0
+124,6,451,1,52,India Women,Smriti Mandhana,Anisa Mohammed,,20,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,19.6,1,1,0,186813,92.50,80.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,19,100,3,0,1,2,0,0,1,0,0
+125,1,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,21,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,20.1,1,1,0,186814,-24.50,51.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,20,100,3,1,0,2,0,0,0,0,0
+126,2,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,21,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,20.2,1,1,0,186815,-145.50,31.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,20,101,3,0,0,2,0,0,0,0,0
+127,3,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,21,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,20.3,1,1,0,186816,86.50,-86.00,2,0,,,Knuckleball,40,FLICK,0,0,3,20,103,3,0,0,2,0,0,0,0,0
+128,4,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,21,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,20.4,1,1,0,186817,-56.50,38.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,20,103,3,0,0,2,0,0,0,0,0
+129,5,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,21,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,20.5,1,1,0,186818,132.50,-57.00,2,0,,,Knuckleball,95,SLOG SWEEP,0,0,5,20,105,3,0,0,2,0,0,0,0,0
+130,6,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,21,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,20.6,1,1,0,186819,0.50,41.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,20,105,3,0,0,2,0,0,0,0,0
+131,1,451,1,52,India Women,Smriti Mandhana,Anisa Mohammed,,22,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,21.1,1,1,0,186820,89.50,130.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,21,106,3,1,0,2,0,0,0,0,0
+132,2,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,22,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,21.2,1,1,0,186821,81.50,104.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,21,107,3,0,0,2,0,0,0,0,0
+133,3,451,1,52,India Women,Smriti Mandhana,Anisa Mohammed,,22,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,21.3,1,1,0,186822,78.50,125.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,3,21,108,3,0,0,2,0,0,0,0,0
+134,4,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,22,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,21.4,1,1,0,186823,47.50,76.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,21,108,3,0,0,2,0,0,0,0,0
+135,5,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,22,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,21.5,1,1,0,186824,57.50,120.00,0,0,,,Knuckleball,47,ON DRIVE,0,0,5,21,108,3,0,0,2,0,0,0,0,0
+136,6,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,22,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,21.6,1,1,0,186825,28.50,135.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,21,109,3,0,0,2,0,0,0,0,0
+137,1,451,1,52,India Women,Harmanpreet Kaur,Deandra Dottin,,23,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,22.1,1,1,0,186826,-42.50,47.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,22,109,3,1,0,2,0,0,0,0,0
+138,2,451,1,52,India Women,Harmanpreet Kaur,Deandra Dottin,,23,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,22.2,1,1,0,186827,-130.50,58.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,22,110,3,0,0,2,0,0,0,0,0
+139,3,451,1,52,India Women,Smriti Mandhana,Deandra Dottin,,23,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,22.3,1,1,0,186828,-0.50,45.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,22,110,3,0,0,2,0,0,0,0,0
+140,4,451,1,52,India Women,Smriti Mandhana,Deandra Dottin,,23,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,22.4,1,1,0,186829,90.50,-5.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,22,110,3,0,0,2,0,0,0,0,0
+141,5,451,1,52,India Women,Smriti Mandhana,Deandra Dottin,,23,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,22.5,1,1,0,186830,-139.50,-71.00,4,0,,,Knuckleball,40,FLICK,0,0,5,22,114,3,0,0,2,0,0,0,0,0
+142,6,451,1,52,India Women,Smriti Mandhana,Deandra Dottin,,23,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,22.6,1,1,0,186831,-48.50,-114.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,22,115,3,0,0,2,0,0,0,0,0
+143,1,451,1,52,India Women,Smriti Mandhana,Anisa Mohammed,,24,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,23.1,1,1,0,186832,39.50,-106.00,1,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,1,23,116,3,1,0,2,0,0,0,0,0
+144,2,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,24,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,23.2,1,1,0,186833,85.50,-18.00,1,0,,,Knuckleball,37,SD FLICK,0,0,2,23,117,3,0,0,2,0,0,0,0,0
+145,3,451,1,52,India Women,Smriti Mandhana,Anisa Mohammed,,24,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,23.3,1,1,0,186834,61.50,140.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,3,23,118,3,0,0,2,0,0,0,0,0
+146,4,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,24,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,23.4,1,1,0,186835,83.50,-96.00,2,0,,,Knuckleball,99,SCOOP,0,0,4,23,120,3,0,0,2,0,0,0,0,0
+147,5,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,24,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,23.5,1,1,0,186836,-80.50,19.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,23,121,3,0,0,2,0,0,0,0,0
+148,6,451,1,52,India Women,Smriti Mandhana,Anisa Mohammed,,24,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,23.6,1,1,0,186837,-108.50,-49.00,1,0,,,Knuckleball,40,FLICK,0,0,6,23,122,3,0,0,2,0,0,0,0,0
+149,1,451,1,52,India Women,Smriti Mandhana,Deandra Dottin,,25,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,24.1,1,1,0,186838,156.50,-2.00,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,1,24,123,3,1,0,2,0,0,0,0,0
+150,2,451,1,52,India Women,Harmanpreet Kaur,Deandra Dottin,,25,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,24.2,1,1,0,186839,-43.50,-99.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,24,124,3,0,0,2,0,0,0,0,0
+151,3,451,1,52,India Women,Smriti Mandhana,Deandra Dottin,,25,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,24.3,1,1,0,186840,93.50,-1.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,24,124,3,0,0,2,0,0,0,0,0
+152,4,451,1,52,India Women,Smriti Mandhana,Deandra Dottin,,25,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,24.4,1,1,0,186841,89.50,4.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,24,124,3,0,0,2,0,0,0,0,0
+153,5,451,1,52,India Women,Smriti Mandhana,Deandra Dottin,,25,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,24.5,1,1,0,186842,-70.50,-36.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,24,125,3,0,0,2,0,0,0,0,0
+154,6,451,1,52,India Women,Harmanpreet Kaur,Deandra Dottin,,25,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,24.6,1,1,0,186843,-75.50,23.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,24,125,3,0,0,2,0,0,0,0,0
+155,1,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,26,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,25.1,1,1,0,186844,142.50,-30.00,2,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,1,25,127,3,1,0,2,0,0,0,0,0
+156,2,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,26,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,25.2,1,1,0,186845,90.50,9.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,25,128,3,0,0,2,0,0,0,0,0
+157,3,451,1,52,India Women,Harmanpreet Kaur,Hayley Matthews,,26,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,25.3,1,1,0,186846,36.50,-143.00,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,25,132,3,0,0,2,0,0,0,0,0
+158,4,451,1,52,India Women,Harmanpreet Kaur,Hayley Matthews,,26,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,25.4,1,1,0,186847,21.50,19.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,25,132,3,0,0,2,0,0,0,0,0
+159,5,451,1,52,India Women,Harmanpreet Kaur,Hayley Matthews,,26,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,25.5,1,1,0,186848,60.50,108.00,0,0,,,Knuckleball,47,ON DRIVE,0,0,5,25,132,3,0,0,2,0,0,0,0,0
+160,6,451,1,52,India Women,Harmanpreet Kaur,Hayley Matthews,,26,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,25.6,1,1,0,186849,67.50,-138.00,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,25,136,3,0,0,2,0,0,0,0,0
+161,1,451,1,52,India Women,Smriti Mandhana,Deandra Dottin,,27,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,26.1,1,1,0,186850,43.50,42.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,26,136,3,1,0,2,0,0,0,0,0
+162,2,451,1,52,India Women,Smriti Mandhana,Deandra Dottin,,27,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,26.2,1,1,0,186851,100.50,-72.00,1,0,,,Knuckleball,35,LATE CUT,0,0,2,26,137,3,0,0,2,0,0,0,0,0
+163,3,451,1,52,India Women,Harmanpreet Kaur,Deandra Dottin,,27,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,26.3,1,1,0,186852,56.50,55.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,26,137,3,0,0,2,0,0,0,0,0
+164,4,451,1,52,India Women,Harmanpreet Kaur,Deandra Dottin,,27,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,26.4,1,1,0,186853,-96.50,40.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,26,138,3,0,0,2,0,0,0,0,0
+165,5,451,1,52,India Women,Smriti Mandhana,Deandra Dottin,,27,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,26.5,1,1,0,186854,-140.50,142.00,4,0,,,Knuckleball,47,ON DRIVE,0,0,5,26,142,3,0,0,2,0,0,0,0,0
+166,6,451,1,52,India Women,Smriti Mandhana,Deandra Dottin,,27,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,26.6,1,1,0,186855,65.50,-86.00,1,0,,,Knuckleball,44,GLIDE,0,0,6,26,143,3,0,0,2,0,0,0,0,0
+168,1,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,28,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,27.1,1,1,0,186856,174.50,-33.00,4,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,1,27,147,3,1,0,2,0,0,0,0,0
+169,2,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,28,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,27.2,1,1,0,186857,-86.50,17.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,2,27,148,3,0,0,2,0,0,0,0,0
+170,3,451,1,52,India Women,Harmanpreet Kaur,Hayley Matthews,,28,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,27.3,1,1,0,186858,71.50,37.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,27,149,3,0,0,2,0,0,0,0,0
+171,4,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,28,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,27.4,1,1,0,186859,14.50,53.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,27,149,3,0,0,2,0,0,0,0,0
+172,5,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,28,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,27.5,1,1,0,186860,32.50,23.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,27,149,3,0,0,2,0,0,0,0,0
+173,6,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,28,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,27.6,1,1,0,186861,134.50,53.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,27,150,3,0,1,3,0,0,0,0,0
+174,1,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,29,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,28.1,1,1,0,186862,-104.50,-47.00,2,0,,,Knuckleball,40,FLICK,0,0,1,28,152,3,1,0,3,0,0,0,0,0
+175,2,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,29,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,28.2,1,1,1,186863,-104.50,-47.00,1,0,,,Knuckleball,40,FLICK,0,0,2,28,153,3,0,0,3,0,0,0,0,0
+176,3,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,29,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.2,1,1,0,186864,23.50,97.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,28,153,3,0,0,3,0,0,0,0,0
+177,4,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,29,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.3,1,1,0,186865,69.50,-20.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,28,153,3,0,0,3,0,0,0,0,0
+178,5,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,29,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,28.4,1,1,0,186866,104.50,28.00,1,0,,8,OFF CUTTER,51,FRONTFOOT COVERDRIVE,0,0,5,28,154,3,0,0,3,0,0,0,0,0
+179,6,451,1,52,India Women,Harmanpreet Kaur,Shakera Selman,,29,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.5,1,1,0,186867,-3.50,47.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,28,154,3,0,0,3,0,0,0,0,0
+180,7,451,1,52,India Women,Harmanpreet Kaur,Shakera Selman,,29,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,28.6,1,1,0,186868,-130.50,23.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,7,28,155,3,0,0,3,0,0,0,0,0
+181,1,451,1,52,India Women,Harmanpreet Kaur,Stafanie Taylor,,30,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,29.1,1,1,0,186869,-130.50,23.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,29,155,3,1,0,3,0,0,0,0,0
+182,2,451,1,52,India Women,Harmanpreet Kaur,Stafanie Taylor,,30,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,29.2,1,1,0,186870,-17.50,8.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,29,155,3,0,0,3,0,0,0,0,0
+183,3,451,1,52,India Women,Harmanpreet Kaur,Stafanie Taylor,,30,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,29.3,1,1,0,186871,138.50,43.00,1,0,,23,ARM BALL,70,SD PULL,0,0,3,29,156,3,0,0,3,0,0,0,0,0
+184,4,451,1,52,India Women,Smriti Mandhana,Stafanie Taylor,,30,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,29.4,1,1,1,186872,138.50,43.00,1,0,,,Knuckleball,105,LEFT ALONE,0,0,4,29,157,3,0,0,3,0,0,0,0,0
+185,5,451,1,52,India Women,Smriti Mandhana,Stafanie Taylor,,30,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,29.4,1,1,0,186873,72.50,-92.00,2,0,,,Knuckleball,35,LATE CUT,0,0,5,29,159,3,0,0,3,0,0,0,0,0
+186,6,451,1,52,India Women,Smriti Mandhana,Stafanie Taylor,,30,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,29.5,1,1,0,186874,-114.50,2.00,1,0,,,Knuckleball,40,FLICK,0,0,6,29,160,3,0,0,3,0,0,0,0,0
+187,7,451,1,52,India Women,Harmanpreet Kaur,Stafanie Taylor,,30,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,29.6,2,1,0,186875,-32.50,-40.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,7,29,160,3,0,0,3,0,0,0,0,0
+188,1,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,31,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.1,2,1,0,186876,48.50,44.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,30,160,3,1,0,3,0,0,0,0,0
+189,2,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,31,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,30.2,2,1,0,186877,-131.50,-27.00,1,0,,,Knuckleball,40,FLICK,0,0,2,30,161,3,0,0,3,0,0,0,0,0
+190,3,451,1,52,India Women,Harmanpreet Kaur,Shakera Selman,,31,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.3,2,1,0,186878,-8.50,34.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,30,161,3,0,0,3,0,0,0,0,0
+191,4,451,1,52,India Women,Harmanpreet Kaur,Shakera Selman,,31,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.4,2,1,0,186879,-39.50,23.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,30,161,3,0,0,3,0,0,0,0,0
+192,5,451,1,52,India Women,Harmanpreet Kaur,Shakera Selman,,31,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,30.5,2,1,0,186880,135.50,-44.00,1,0,,,Knuckleball,40,FLICK,0,0,5,30,162,3,0,0,3,0,0,0,0,0
+193,6,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,31,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.6,2,1,0,186881,90.50,-7.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,30,162,3,0,0,3,0,0,0,0,0
+194,1,451,1,52,India Women,Harmanpreet Kaur,Stafanie Taylor,,32,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,31.1,2,1,0,186882,90.50,-7.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,31,162,3,1,0,3,0,0,0,0,0
+195,2,451,1,52,India Women,Harmanpreet Kaur,Stafanie Taylor,,32,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,31.2,2,1,0,186883,-131.50,-3.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,31,163,3,0,0,3,0,0,0,0,0
+196,3,451,1,52,India Women,Smriti Mandhana,Stafanie Taylor,,32,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,31.3,2,1,0,186884,137.50,51.00,1,0,,,Knuckleball,21,SD OFF,0,0,3,31,164,3,0,0,3,0,0,0,0,0
+197,4,451,1,52,India Women,Harmanpreet Kaur,Stafanie Taylor,,32,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,31.4,2,1,0,186885,187.50,-27.00,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,31,168,3,0,0,3,0,0,0,0,0
+198,5,451,1,52,India Women,Harmanpreet Kaur,Stafanie Taylor,,32,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,31.5,2,1,0,186886,143.50,-14.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,31,169,3,0,0,3,0,0,0,0,0
+199,6,451,1,52,India Women,Smriti Mandhana,Stafanie Taylor,,32,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,31.6,2,1,0,186887,143.50,-14.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,31,169,3,0,0,3,0,0,0,0,0
+200,1,451,1,52,India Women,Harmanpreet Kaur,Shakera Selman,,33,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,32.1,2,1,0,186888,-67.50,29.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,32,170,3,1,0,3,0,0,0,0,0
+201,2,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,33,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,32.2,2,1,0,186889,5.50,222.00,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,2,32,176,3,0,0,3,0,0,0,0,0
+202,3,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,33,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,32.3,2,1,0,186890,26.50,28.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,32,176,3,0,0,3,0,0,0,0,0
+203,4,451,1,52,India Women,Smriti Mandhana,Shakera Selman,,33,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,32.4,2,1,0,186891,135.50,8.00,1,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,4,32,177,3,0,0,3,0,0,0,0,0
+204,5,451,1,52,India Women,Harmanpreet Kaur,Shakera Selman,,33,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,32.5,2,1,0,186892,-31.50,17.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,32,177,3,0,0,3,0,0,0,0,0
+205,6,451,1,52,India Women,Harmanpreet Kaur,Shakera Selman,,33,6,1 (NB),1,0,0,0,0,1,1,0,1,0,0,0,0,,,,0,32.6,2,1,1,186893,-5.50,34.00,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,32,178,3,0,0,3,0,0,0,0,0
+206,7,451,1,52,India Women,Harmanpreet Kaur,Shakera Selman,,33,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,32.6,2,1,0,186894,-85.50,212.00,4,0,,,Knuckleball,5,LOFT OFF,0,0,7,32,182,3,0,0,3,0,0,0,0,0
+208,1,451,1,52,India Women,Smriti Mandhana,Stafanie Taylor,,34,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,33.1,2,1,0,186895,150.50,140.00,4,0,,,Knuckleball,114,SDL COVER,0,0,1,33,186,3,1,0,3,0,0,0,0,0
+209,2,451,1,52,India Women,Smriti Mandhana,Stafanie Taylor,,34,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,33.2,2,1,0,186896,-119.50,-55.00,1,0,,,Knuckleball,40,FLICK,0,0,2,33,187,3,0,0,3,0,0,0,0,0
+210,3,451,1,52,India Women,Harmanpreet Kaur,Stafanie Taylor,,34,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,33.3,2,1,0,186897,-85.50,-16.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,33,187,3,0,0,3,0,0,0,0,0
+211,4,451,1,52,India Women,Harmanpreet Kaur,Stafanie Taylor,,34,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,33.4,2,1,0,186898,72.50,-23.00,0,0,,23,ARM BALL,55,SWEEP SHOT,0,0,4,33,187,3,0,0,3,0,0,0,0,0
+212,5,451,1,52,India Women,Harmanpreet Kaur,Stafanie Taylor,,34,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,33.5,2,1,0,186899,-73.50,55.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,33,188,3,0,0,3,0,0,0,0,0
+213,6,451,1,52,India Women,Smriti Mandhana,Stafanie Taylor,,34,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,33.6,2,1,0,186900,23.50,42.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,33,188,3,0,0,3,0,0,0,0,0
+214,1,451,1,52,India Women,Harmanpreet Kaur,Aaliyah Alleyne,,35,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,34.1,2,1,0,186901,-78.50,2.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,34,189,3,1,0,3,0,0,0,0,0
+215,2,451,1,52,India Women,Smriti Mandhana,Aaliyah Alleyne,,35,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.2,2,1,0,186902,35.50,84.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,34,189,3,0,0,3,0,0,0,0,0
+216,3,451,1,52,India Women,Smriti Mandhana,Aaliyah Alleyne,,35,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,34.3,2,1,0,186903,85.50,118.00,1,0,,,Knuckleball,5,LOFT OFF,0,0,3,34,190,3,0,0,3,0,0,0,0,0
+217,4,451,1,52,India Women,Harmanpreet Kaur,Aaliyah Alleyne,,35,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.4,2,1,0,186904,90.50,66.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,4,34,190,3,0,0,3,0,0,0,0,0
+218,5,451,1,52,India Women,Harmanpreet Kaur,Aaliyah Alleyne,,35,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.5,2,1,0,186905,-20.50,10.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,34,190,3,0,0,3,0,0,0,0,0
+219,6,451,1,52,India Women,Harmanpreet Kaur,Aaliyah Alleyne,,35,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.6,2,1,0,186906,-20.50,10.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,34,190,3,0,0,3,0,0,0,0,0
+220,1,451,1,52,India Women,Smriti Mandhana,Anisa Mohammed,,36,1,2 (NB),2,1,1,0,0,0,1,0,1,0,0,0,0,,,,0,35.1,2,1,1,186907,-37.50,-144.00,2,0,,,Knuckleball,122,SDL OFF,0,0,1,35,192,3,1,0,3,0,0,0,0,0
+221,2,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,36,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,35.1,2,1,0,186908,107.50,104.00,2,0,,,Knuckleball,94,SDL ON,0,0,2,35,194,3,0,0,3,0,0,0,0,0
+222,3,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,36,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,35.2,2,1,0,186909,140.50,-18.00,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,35,195,3,0,0,3,0,0,0,0,0
+223,4,451,1,52,India Women,Smriti Mandhana,Anisa Mohammed,,36,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,35.3,2,1,0,186910,129.50,-7.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,35,196,3,0,0,3,0,0,0,0,0
+224,5,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,36,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,35.4,2,1,0,186911,-37.50,-144.00,4,0,,,Knuckleball,94,SDL ON,0,0,5,35,200,3,0,1,4,0,0,0,1,0
+225,6,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,36,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,35.5,2,1,0,186912,143.50,33.00,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,6,35,201,3,0,0,4,0,0,0,0,0
+226,7,451,1,52,India Women,Smriti Mandhana,Anisa Mohammed,,36,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,35.6,2,1,0,186913,89.50,127.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,7,35,202,3,0,0,4,0,0,0,0,0
+227,1,451,1,52,India Women,Smriti Mandhana,Aaliyah Alleyne,,37,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,36.1,2,1,0,186914,-89.50,206.00,6,0,,,Knuckleball,11,LOFT ON,0,0,1,36,208,3,1,0,4,0,0,0,0,0
+228,2,451,1,52,India Women,Smriti Mandhana,Aaliyah Alleyne,,37,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,36.2,2,1,0,186915,66.50,-93.00,1,0,,,Knuckleball,44,GLIDE,0,0,2,36,209,3,0,0,4,0,0,0,0,0
+229,3,451,1,52,India Women,Harmanpreet Kaur,Aaliyah Alleyne,,37,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,36.3,2,1,0,186916,-111.50,-54.00,2,0,,,Knuckleball,96,Slice,0,0,3,36,211,3,0,0,4,0,0,0,0,0
+230,4,451,1,52,India Women,Harmanpreet Kaur,Aaliyah Alleyne,,37,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,36.4,2,1,0,186917,-134.50,-6.00,2,0,,,Knuckleball,36,CUT SHOT,0,0,4,36,213,3,0,0,4,0,0,0,0,0
+231,5,451,1,52,India Women,Harmanpreet Kaur,Aaliyah Alleyne,,37,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,36.5,2,1,0,186918,89.50,151.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,36,214,3,0,0,4,0,0,0,0,0
+232,6,451,1,52,India Women,Smriti Mandhana,Aaliyah Alleyne,,37,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,36.6,2,1,0,186919,76.50,-39.00,0,0,,,Knuckleball,35,LATE CUT,0,0,6,36,214,3,0,0,4,0,0,0,0,0
+233,1,451,1,52,India Women,Harmanpreet Kaur,Hayley Matthews,,38,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,37.1,2,1,0,186920,86.50,-14.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,37,215,3,1,0,4,0,0,0,0,0
+234,2,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,38,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,37.2,2,1,0,186921,-144.50,-68.00,4,0,,,Knuckleball,40,FLICK,0,0,2,37,219,3,0,0,4,0,0,0,0,0
+235,3,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,38,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,37.3,2,1,0,186922,3.50,45.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,37,219,3,0,0,4,0,0,0,0,0
+236,4,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,38,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,37.4,2,1,0,186923,37.50,-46.00,0,0,,,Knuckleball,35,LATE CUT,0,0,4,37,219,3,0,0,4,0,0,0,0,0
+237,5,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,38,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,37.5,2,1,0,186924,68.50,-9.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,37,219,3,0,0,4,0,0,0,0,0
+238,6,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,38,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,37.6,2,1,0,186925,-146.50,57.00,2,0,,,Knuckleball,95,SLOG SWEEP,0,0,6,37,221,3,0,0,4,0,0,0,0,0
+239,1,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,39,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,38.1,2,1,0,186926,141.50,4.00,1,0,,,Knuckleball,40,FLICK,0,0,1,38,222,3,1,0,4,0,0,0,0,0
+240,2,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,39,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,38.2,2,1,0,186927,-102.50,-62.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,38,223,3,0,0,4,0,0,0,0,0
+241,3,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,39,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,38.3,2,1,0,186928,-38.50,-96.00,1,0,,,Knuckleball,44,GLIDE,0,0,3,38,224,3,0,0,4,0,0,0,0,0
+242,4,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,39,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,38.4,2,1,0,186929,-38.50,-96.00,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,4,38,224,3,0,0,4,0,0,0,0,0
+243,5,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,39,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,38.5,2,1,0,186930,-38.50,-96.00,0,0,,39,ANGLED IN,40,FLICK,0,0,5,38,224,3,0,0,4,0,0,0,0,0
+244,6,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,39,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,38.6,2,1,0,186931,-114.50,52.00,1,0,,,Knuckleball,37,SD FLICK,0,0,6,38,225,3,0,0,4,0,0,0,0,0
+245,1,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,40,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,39.1,2,1,0,186932,42.50,30.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,39,225,3,1,0,4,0,0,0,0,0
+246,2,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,40,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,39.2,2,1,0,186933,-156.50,-74.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,2,39,229,3,0,0,4,0,0,0,0,0
+247,3,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,40,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,39.3,2,1,0,186934,72.50,-30.00,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,3,39,230,3,0,0,4,0,0,0,0,0
+248,4,451,1,52,India Women,Harmanpreet Kaur,Hayley Matthews,,40,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,39.4,2,1,0,186935,142.50,-38.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,39,231,3,0,0,4,0,0,0,0,0
+249,5,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,40,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,39.5,2,1,0,186936,17.50,-37.00,1,0,,,Knuckleball,44,GLIDE,0,0,5,39,232,3,0,0,4,0,0,0,0,0
+250,6,451,1,52,India Women,Harmanpreet Kaur,Hayley Matthews,,40,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,39.6,2,1,0,186937,127.50,-11.00,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,39,233,3,0,0,4,0,0,0,0,0
+252,1,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,41,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,40.1,2,1,0,186938,127.50,-11.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,40,233,3,1,0,4,0,0,0,0,0
+253,2,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,41,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,40.2,2,1,0,186939,-21.50,8.00,1,0,,,Knuckleball,99,SCOOP,0,0,2,40,234,3,0,0,4,0,0,0,0,0
+254,3,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,41,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,40.3,2,1,0,186940,-107.50,-58.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,40,235,3,0,0,4,0,0,0,0,0
+255,4,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,41,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,40.4,2,1,0,186941,149.50,-21.00,1,0,,,Knuckleball,18,SLOG SHOT,0,0,4,40,236,3,0,0,4,0,0,0,0,0
+256,4,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,41,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,40.4,2,1,0,186942,-101.50,-72.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,40,237,3,0,0,4,0,0,0,0,0
+257,5,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,41,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,40.5,2,1,0,186943,-27.50,214.00,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,6,40,243,3,0,0,4,0,0,0,0,0
+258,1,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,42,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,41.1,2,1,0,186944,-14.50,-153.00,4,0,,,Knuckleball,99,SCOOP,0,0,1,41,247,3,1,0,4,0,0,0,0,0
+259,2,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,42,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,41.2,2,1,0,186945,144.50,143.00,4,0,,,Knuckleball,114,SDL COVER,0,0,2,41,251,3,0,1,5,0,0,0,0,0
+260,3,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,42,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,41.3,2,1,0,186946,-124.50,-101.00,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,41,255,3,0,0,5,0,0,0,0,0
+261,4,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,42,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,41.4,2,1,0,186947,5.50,69.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,41,255,3,0,0,5,0,0,0,0,0
+262,5,451,1,52,India Women,Smriti Mandhana,Hayley Matthews,,42,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,41.5,2,1,0,186948,108.50,62.00,1,0,,,Knuckleball,114,SDL COVER,0,0,5,41,256,3,0,0,5,0,0,0,0,0
+263,6,451,1,52,India Women,Harmanpreet Kaur,Hayley Matthews,,42,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,41.6,2,1,0,186949,113.50,-42.00,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,41,257,3,0,0,5,0,0,0,0,0
+264,1,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,43,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,42.1,2,1,0,186950,128.50,-17.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,1,42,258,3,1,0,5,0,0,0,0,0
+265,2,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,43,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,42.2,2,1,0,186951,-184.50,-61.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,2,42,262,3,0,0,5,0,0,0,0,0
+266,3,451,1,52,India Women,Smriti Mandhana,Shamilia Connel,,43,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,42.3,2,1,0,186952,-184.50,-61.00,0,0,,,Knuckleball,70,SD PULL,0,0,3,42,262,4,1,0,5,0,0,0,0,0
+267,4,451,1,52,India Women,Richa Ghosh,Shamilia Connel,,43,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,42.4,2,1,0,186953,113.50,-42.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,42,263,4,2,0,5,0,0,0,0,0
+268,5,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,43,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,42.5,2,1,0,186954,113.50,-42.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,42,263,4,0,0,5,0,0,0,0,0
+269,6,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,43,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,42.6,2,1,1,186955,113.50,-42.00,1,0,,,Knuckleball,105,LEFT ALONE,0,0,6,42,264,4,0,0,5,0,0,0,0,0
+270,7,451,1,52,India Women,Harmanpreet Kaur,Shamilia Connel,,43,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,42.6,2,1,0,186956,-104.50,54.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,7,42,265,4,0,0,5,0,0,0,0,0
+272,1,451,1,52,India Women,Richa Ghosh,Hayley Matthews,,44,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,43.1,2,2,0,186963,,,0,0,,,Knuckleball,,,0,0,1,43,265,4,1,0,5,0,0,0,0,0
+273,2,451,1,52,India Women,Richa Ghosh,Hayley Matthews,,44,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,43.2,2,2,0,186964,,,0,0,,,Knuckleball,,,0,0,2,43,265,4,0,0,5,0,0,0,0,0
+274,3,451,1,52,India Women,Harmanpreet Kaur,Hayley Matthews,,44,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,43.3,2,1,0,186957,132.50,-22.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,43,266,4,0,0,5,0,0,0,0,0
+275,3,451,1,52,India Women,Richa Ghosh,Hayley Matthews,,44,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,43.3,2,1,0,186960,-24.50,121.00,1,0,,,Knuckleball,5,LOFT OFF,0,0,4,43,267,4,0,0,5,0,0,0,0,0
+276,4,451,1,52,India Women,Harmanpreet Kaur,Hayley Matthews,,44,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,43.4,2,1,0,186961,99.50,64.00,1,0,,,Knuckleball,40,FLICK,0,0,5,43,268,4,0,0,5,0,0,0,0,0
+277,5,451,1,52,India Women,Richa Ghosh,Hayley Matthews,,44,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,43.5,2,1,0,186962,-53.50,22.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,43,268,4,0,0,5,0,0,0,0,0
+278,1,451,1,52,India Women,Harmanpreet Kaur,Deandra Dottin,,45,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,44.1,2,1,0,186965,,,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,44,268,4,1,0,5,0,0,0,0,0
+279,2,451,1,52,India Women,Harmanpreet Kaur,Deandra Dottin,,45,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,44.2,2,1,0,186966,-73.50,31.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,44,269,4,0,0,5,0,0,0,0,0
+280,3,451,1,52,India Women,Richa Ghosh,Deandra Dottin,,45,3,2 (NB),2,1,1,0,0,0,1,0,1,0,0,0,0,,,,0,44.3,2,1,1,186967,168.50,-66.00,2,0,,,Knuckleball,18,SLOG SHOT,0,0,3,44,271,4,0,0,5,0,0,0,0,0
+281,4,451,1,52,India Women,Harmanpreet Kaur,Deandra Dottin,,45,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,44.3,2,1,0,186968,168.50,-66.00,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,44,277,4,0,0,5,0,0,0,0,0
+282,5,451,1,52,India Women,Harmanpreet Kaur,Deandra Dottin,,45,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,44.4,2,1,0,186969,164.50,-65.00,4,0,,,Knuckleball,18,SLOG SHOT,0,0,5,44,281,4,0,0,5,0,0,0,0,0
+283,6,451,1,52,India Women,Harmanpreet Kaur,Deandra Dottin,,45,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,44.5,2,1,0,186970,-16.50,24.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,44,281,4,0,0,5,0,0,0,0,0
+284,7,451,1,52,India Women,Harmanpreet Kaur,Deandra Dottin,,45,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,44.6,2,1,0,186971,-73.50,64.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,7,44,282,4,0,0,5,0,0,0,0,0
+285,1,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,46,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,45.1,2,1,0,186972,116.50,100.00,2,0,,,Knuckleball,74,SD ON,0,0,1,45,284,4,1,0,5,0,0,0,0,0
+286,2,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,46,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,45.2,2,1,0,186973,84.50,128.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,45,285,4,0,0,5,0,0,0,0,0
+287,3,451,1,52,India Women,Richa Ghosh,Anisa Mohammed,,46,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,45.3,2,1,1,186974,84.50,128.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,45,286,4,0,0,5,0,0,0,0,0
+288,4,451,1,52,India Women,Richa Ghosh,Anisa Mohammed,,46,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,45.3,2,1,0,186975,84.50,128.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,45,286,4,0,0,5,0,0,0,0,0
+289,5,451,1,52,India Women,Richa Ghosh,Anisa Mohammed,,46,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,45.4,2,1,0,186976,71.50,118.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,45,287,4,0,0,5,0,0,0,0,0
+290,6,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,46,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,45.5,2,1,0,186977,-67.50,77.00,1,0,,,Knuckleball,37,SD FLICK,0,0,6,45,288,4,0,0,5,0,0,0,0,0
+291,7,451,1,52,India Women,Richa Ghosh,Anisa Mohammed,,46,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,45.6,2,1,0,186978,-67.50,77.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,7,45,288,4,0,0,5,0,0,0,0,0
+292,1,451,1,52,India Women,Harmanpreet Kaur,Aaliyah Alleyne,,47,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,46.1,2,1,0,186979,17.50,109.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,46,289,4,1,0,5,0,0,0,0,0
+293,2,451,1,52,India Women,Richa Ghosh,Aaliyah Alleyne,,47,2,1 WK,1,1,1,0,0,0,0,0,0,0,0,0,0,1,Run Out,WICKET,0,46.2,2,1,0,186980,-54.50,111.00,1,0,,,Knuckleball,18,SLOG SHOT,0,0,2,46,290,5,0,0,5,0,0,0,0,0
+294,3,451,1,52,India Women,Pooja Vastrakar,Aaliyah Alleyne,,47,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,46.3,2,1,0,186981,-89.50,55.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,46,291,5,0,0,5,0,0,0,0,0
+295,4,451,1,52,India Women,Harmanpreet Kaur,Aaliyah Alleyne,,47,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,46.4,2,1,0,186982,-89.50,55.00,0,0,,,Knuckleball,44,GLIDE,0,0,4,46,291,5,0,0,5,0,0,0,0,0
+296,5,451,1,52,India Women,Harmanpreet Kaur,Aaliyah Alleyne,,47,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,46.5,2,1,0,186983,-161.50,-62.00,4,0,,,Knuckleball,96,Slice,0,0,5,46,295,5,0,0,5,0,0,0,0,0
+297,6,451,1,52,India Women,Harmanpreet Kaur,Aaliyah Alleyne,,47,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,46.6,2,1,1,186984,-161.50,-62.00,1,0,,,Knuckleball,105,LEFT ALONE,0,0,6,46,296,5,0,0,5,0,0,0,0,0
+298,7,451,1,52,India Women,Harmanpreet Kaur,Aaliyah Alleyne,,47,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,46.6,2,1,0,186985,-161.50,-62.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,7,46,296,5,0,0,5,0,0,0,0,0
+299,1,451,1,52,India Women,Pooja Vastrakar,Anisa Mohammed,,48,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,47.1,2,1,0,186986,-177.50,10.00,4,0,,,Knuckleball,36,CUT SHOT,0,0,1,47,300,5,1,1,6,0,0,0,0,0
+300,2,451,1,52,India Women,Pooja Vastrakar,Anisa Mohammed,,48,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,47.2,2,1,0,186987,90.50,114.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,47,301,5,0,0,6,0,0,0,0,0
+301,3,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,48,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,47.3,2,1,0,186988,-77.50,98.00,0,0,,,Knuckleball,21,SD OFF,0,0,3,47,301,5,0,0,6,0,0,0,0,0
+302,4,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,48,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,47.4,2,1,0,186989,117.50,-118.00,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,47,305,5,0,0,6,0,0,0,0,0
+303,5,451,1,52,India Women,Harmanpreet Kaur,Anisa Mohammed,,48,5,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,,,,0,47.5,2,1,1,186990,117.50,-118.00,2,0,,,Knuckleball,,,0,0,5,47,307,5,0,0,6,0,0,0,0,0
+304,6,451,1,52,India Women,Pooja Vastrakar,Anisa Mohammed,,48,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,47.5,2,1,0,186991,-159.50,122.00,4,0,,,Knuckleball,114,SDL COVER,0,0,6,47,311,5,0,0,6,0,0,0,0,0
+305,7,451,1,52,India Women,Pooja Vastrakar,Anisa Mohammed,,48,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,47.6,2,1,0,186992,-159.50,122.00,0,0,,,Knuckleball,114,SDL COVER,0,0,7,47,311,6,1,0,6,0,0,0,0,0
+306,1,451,1,52,India Women,Harmanpreet Kaur,Aaliyah Alleyne,,49,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,48.1,2,1,0,186993,131.50,13.00,1,0,,,Knuckleball,18,SLOG SHOT,0,0,1,48,312,6,2,0,6,0,0,0,0,0
+307,2,451,1,52,India Women,Jhulan Goswami,Aaliyah Alleyne,,49,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,48.2,2,1,0,186994,-84.50,80.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,48,312,6,0,0,6,0,0,0,0,0
+308,3,451,1,52,India Women,Jhulan Goswami,Aaliyah Alleyne,,49,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,48.3,2,1,0,186995,-96.50,1.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,48,313,6,0,0,6,0,0,0,0,0
+309,4,451,1,52,India Women,Harmanpreet Kaur,Aaliyah Alleyne,,49,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,48.4,2,1,0,186996,-96.50,1.00,0,0,,,Knuckleball,99,SCOOP,0,0,4,48,313,7,1,0,6,0,0,0,0,0
+310,5,451,1,52,India Women,Sneh Rana,Aaliyah Alleyne,,49,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,48.5,2,1,0,186997,-146.50,24.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,48,314,7,2,0,6,0,0,0,0,0
+311,6,451,1,52,India Women,Jhulan Goswami,Aaliyah Alleyne,,49,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,48.6,2,1,0,186998,85.50,142.00,1,0,,,Knuckleball,11,LOFT ON,0,0,6,48,315,7,0,0,6,0,0,0,0,0
+313,1,451,1,52,India Women,Jhulan Goswami,Deandra Dottin,,50,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,49.1,2,1,0,186999,85.50,142.00,0,0,,,Knuckleball,18,SLOG SHOT,0,0,1,49,315,7,1,0,6,0,0,0,0,0
+314,2,451,1,52,India Women,Jhulan Goswami,Deandra Dottin,,50,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,49.2,2,1,0,187000,85.50,142.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,49,315,8,2,0,6,0,0,0,0,0
+315,3,451,1,52,India Women,Meghna Singh,Deandra Dottin,,50,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,49.3,2,1,0,187001,85.50,142.00,0,0,,46,LEGCUTTER,105,LEFT ALONE,0,0,3,49,315,8,3,0,6,0,0,0,0,0
+316,4,451,1,52,India Women,Meghna Singh,Deandra Dottin,,50,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,49.4,2,1,0,187002,85.50,142.00,0,0,,46,LEGCUTTER,36,CUT SHOT,0,0,4,49,315,8,0,0,6,0,0,0,0,0
+317,5,451,1,52,India Women,Meghna Singh,Deandra Dottin,,50,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,49.5,2,1,0,187003,-22.50,25.00,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,49,316,8,0,0,6,0,0,0,0,0
+318,6,451,1,52,India Women,Sneh Rana,Deandra Dottin,,50,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,49.6,2,1,0,187004,-142.50,4.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,49,317,8,0,0,6,0,0,0,0,0
+319,1,451,2,75,West Indies Women,Deandra Dottin,Jhulan Goswami,,1,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,0.1,2,1,0,187005,98.50,-59.00,2,0,,,Knuckleball,40,FLICK,0,0,1,0,2,0,1,0,0,0,0,0,0,0
+320,2,451,2,75,West Indies Women,Deandra Dottin,Jhulan Goswami,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,0.2,2,1,0,187006,89.50,-86.00,1,0,,,Knuckleball,40,FLICK,0,0,2,0,3,0,0,0,0,0,0,0,0,0
+321,3,451,2,75,West Indies Women,Hayley Matthews,Jhulan Goswami,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.3,2,1,0,187007,10.50,37.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,0,3,0,0,0,0,0,0,0,0,0
+322,4,451,2,75,West Indies Women,Hayley Matthews,Jhulan Goswami,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.4,2,1,0,187008,10.50,37.00,0,0,,39,ANGLED IN,58,PULL SHOT,0,0,4,0,3,0,0,0,0,0,0,0,0,0
+323,5,451,2,75,West Indies Women,Hayley Matthews,Jhulan Goswami,,1,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,0.5,2,1,0,187009,-111.50,92.00,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,0,5,0,0,0,0,0,0,0,0,0
+324,6,451,2,75,West Indies Women,Hayley Matthews,Jhulan Goswami,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.6,2,1,0,187010,-22.50,25.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,0,5,0,0,0,0,0,0,0,0,0
+325,1,451,2,75,West Indies Women,Deandra Dottin,Meghna Singh,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.1,2,1,0,187011,-22.50,25.00,0,0,,42,OUTSWINGER,97,BACKFOOT PUSH,0,0,1,1,5,0,1,0,0,0,0,0,0,0
+326,2,451,2,75,West Indies Women,Deandra Dottin,Meghna Singh,,2,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,1.2,2,1,0,187012,-182.50,15.00,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,1,9,0,0,0,0,0,0,0,0,0
+327,3,451,2,75,West Indies Women,Deandra Dottin,Meghna Singh,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.3,2,1,0,187013,-73.50,45.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,1,9,0,0,0,0,0,0,0,0,0
+328,4,451,2,75,West Indies Women,Deandra Dottin,Meghna Singh,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.4,2,1,0,187014,-81.50,-18.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,4,1,9,0,0,0,0,0,0,0,0,0
+329,5,451,2,75,West Indies Women,Deandra Dottin,Meghna Singh,,2,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,1.5,2,1,0,187015,-18.50,-140.00,4,0,,,Knuckleball,84,OFF DRIVE,0,0,5,1,13,0,0,0,0,0,0,0,0,0
+330,6,451,2,75,West Indies Women,Deandra Dottin,Meghna Singh,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.6,2,1,0,187016,-67.50,0.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,1,13,0,0,0,0,0,0,0,0,0
+331,1,451,2,75,West Indies Women,Hayley Matthews,Jhulan Goswami,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,2.1,2,1,0,187017,110.50,-61.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,1,2,14,0,1,0,0,0,0,0,0,0
+332,2,451,2,75,West Indies Women,Deandra Dottin,Jhulan Goswami,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.2,2,1,0,187018,110.50,-61.00,0,0,,41,INSWINGER,50,BACKFOOT DEFENCE,0,0,2,2,14,0,0,0,0,0,0,0,0,0
+333,3,451,2,75,West Indies Women,Deandra Dottin,Jhulan Goswami,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.3,2,1,0,187019,110.50,-61.00,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,3,2,14,0,0,0,0,0,0,0,0,0
+334,4,451,2,75,West Indies Women,Deandra Dottin,Jhulan Goswami,,3,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,2.4,2,1,0,187020,168.50,102.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,4,2,18,0,0,0,0,0,0,0,0,0
+335,5,451,2,75,West Indies Women,Deandra Dottin,Jhulan Goswami,,3,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,2.5,2,1,0,187021,-150.50,146.00,4,0,,,Knuckleball,15,LOFT COVER,0,0,5,2,22,0,0,0,0,0,0,0,0,0
+336,6,451,2,75,West Indies Women,Deandra Dottin,Jhulan Goswami,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.6,2,1,0,187022,-56.50,108.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,6,2,22,0,0,0,0,0,0,0,0,0
+337,1,451,2,75,West Indies Women,Hayley Matthews,Meghna Singh,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.1,2,1,0,187023,-1.50,59.00,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,1,3,22,0,1,0,0,0,0,0,0,0
+338,2,451,2,75,West Indies Women,Hayley Matthews,Meghna Singh,,4,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,3.2,2,1,0,187024,-179.50,9.00,4,0,,,Knuckleball,59,SQUARE DRIVE,0,0,2,3,26,0,0,0,0,0,0,0,0,0
+339,3,451,2,75,West Indies Women,Hayley Matthews,Meghna Singh,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,3.3,2,1,0,187025,-82.50,75.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,3,27,0,0,0,0,0,0,0,0,0
+340,4,451,2,75,West Indies Women,Deandra Dottin,Meghna Singh,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.4,2,1,0,187026,-35.50,42.00,0,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,4,3,27,0,0,0,0,0,0,0,0,0
+341,5,451,2,75,West Indies Women,Deandra Dottin,Meghna Singh,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.5,2,1,0,187027,-28.50,18.00,0,0,,42,OUTSWINGER,50,BACKFOOT DEFENCE,0,0,5,3,27,0,0,0,0,0,0,0,0,0
+342,6,451,2,75,West Indies Women,Deandra Dottin,Meghna Singh,,4,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,3.6,2,1,0,187028,71.50,185.00,2,0,,,Knuckleball,11,LOFT ON,0,0,6,3,29,0,0,0,0,0,0,0,0,0
+343,1,451,2,75,West Indies Women,Hayley Matthews,Jhulan Goswami,,5,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.1,2,1,0,187029,152.50,-67.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,1,4,33,0,1,0,0,0,0,0,0,0
+344,2,451,2,75,West Indies Women,Hayley Matthews,Jhulan Goswami,,5,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.2,2,1,0,187030,-153.50,-82.00,4,0,,,Knuckleball,59,SQUARE DRIVE,0,0,2,4,37,0,0,0,0,0,0,0,0,0
+345,3,451,2,75,West Indies Women,Hayley Matthews,Jhulan Goswami,,5,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.3,2,1,0,187031,12.50,208.00,4,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,3,4,41,0,0,0,0,0,0,0,0,0
+346,4,451,2,75,West Indies Women,Hayley Matthews,Jhulan Goswami,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,4.4,2,1,0,187032,94.50,-79.00,1,0,,,Knuckleball,40,FLICK,0,0,4,4,42,0,0,0,0,0,0,0,0,0
+347,5,451,2,75,West Indies Women,Deandra Dottin,Jhulan Goswami,,5,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.5,2,1,0,187033,53.50,210.00,4,0,,,Knuckleball,11,LOFT ON,0,0,5,4,46,0,0,0,0,0,0,0,0,0
+348,6,451,2,75,West Indies Women,Deandra Dottin,Jhulan Goswami,,5,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.6,2,1,0,187034,-36.50,219.00,4,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,6,4,50,0,0,1,1,0,1,0,0,0
+349,1,451,2,75,West Indies Women,Hayley Matthews,Deepti Sharma,,6,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,5.1,2,1,0,187035,87.50,124.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,1,5,51,0,1,0,1,0,0,0,0,0
+350,2,451,2,75,West Indies Women,Deandra Dottin,Deepti Sharma,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.2,2,1,0,187036,25.50,29.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,5,51,0,0,0,1,0,0,0,0,0
+351,3,451,2,75,West Indies Women,Deandra Dottin,Deepti Sharma,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.3,2,1,0,187037,-64.50,25.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,5,51,0,0,0,1,0,0,0,0,0
+352,4,451,2,75,West Indies Women,Deandra Dottin,Deepti Sharma,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.4,2,1,0,187038,-15.50,20.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,5,51,0,0,0,1,0,0,0,0,0
+353,5,451,2,75,West Indies Women,Deandra Dottin,Deepti Sharma,,6,5,3,3,3,0,0,1,0,0,0,0,0,0,0,0,,,,0,5.5,2,1,0,187039,52.50,-122.00,3,0,,,Knuckleball,99,SCOOP,0,0,5,5,54,0,0,0,1,0,0,0,0,0
+354,6,451,2,75,West Indies Women,Hayley Matthews,Deepti Sharma,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.6,2,1,0,187040,12.50,83.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,5,54,0,0,0,1,0,0,0,0,0
+355,1,451,2,75,West Indies Women,Deandra Dottin,Rajeshwari Gayakwad,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,6.1,2,1,0,187041,50.50,-63.00,1,0,,,Knuckleball,40,FLICK,0,0,1,6,55,0,1,0,1,0,0,0,0,0
+356,2,451,2,75,West Indies Women,Hayley Matthews,Rajeshwari Gayakwad,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,6.2,2,1,0,187042,111.50,58.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,6,56,0,0,0,1,0,0,0,0,0
+357,3,451,2,75,West Indies Women,Deandra Dottin,Rajeshwari Gayakwad,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.3,2,1,0,187043,-21.50,-13.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,6,56,0,0,0,1,0,0,0,0,0
+358,4,451,2,75,West Indies Women,Deandra Dottin,Rajeshwari Gayakwad,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.4,2,1,0,187044,-9.50,31.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,6,56,0,0,0,1,0,0,0,0,0
+359,5,451,2,75,West Indies Women,Deandra Dottin,Rajeshwari Gayakwad,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,6.5,2,1,0,187045,25.50,109.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,6,57,0,0,0,1,0,0,0,0,0
+360,6,451,2,75,West Indies Women,Hayley Matthews,Rajeshwari Gayakwad,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.6,2,1,0,187046,69.50,-18.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,6,6,57,0,0,0,1,0,0,0,0,0
+361,1,451,2,75,West Indies Women,Deandra Dottin,Deepti Sharma,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.1,2,1,0,187047,16.50,20.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,7,57,0,1,0,1,0,0,0,0,0
+362,2,451,2,75,West Indies Women,Deandra Dottin,Deepti Sharma,,8,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,7.2,2,1,0,187048,-122.50,165.00,4,0,,,Knuckleball,122,SDL OFF,0,0,2,7,61,0,0,0,1,0,0,0,0,0
+363,3,451,2,75,West Indies Women,Deandra Dottin,Deepti Sharma,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,7.3,2,1,0,187049,78.50,71.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,7,62,0,0,0,1,0,0,0,0,0
+364,4,451,2,75,West Indies Women,Hayley Matthews,Deepti Sharma,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,7.4,2,1,0,187050,79.50,76.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,7,63,0,0,0,1,0,0,0,0,0
+365,5,451,2,75,West Indies Women,Deandra Dottin,Deepti Sharma,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.5,2,1,0,187051,14.50,71.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,7,63,0,0,0,1,0,0,0,0,0
+366,6,451,2,75,West Indies Women,Deandra Dottin,Deepti Sharma,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.6,2,1,0,187052,-17.50,17.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,7,63,0,0,0,1,0,0,0,0,0
+367,1,451,2,75,West Indies Women,Hayley Matthews,Rajeshwari Gayakwad,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.1,2,1,0,187053,45.50,31.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,8,63,0,1,0,1,0,0,0,0,0
+368,2,451,2,75,West Indies Women,Hayley Matthews,Rajeshwari Gayakwad,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.2,2,1,0,187054,45.50,31.00,0,0,,,Knuckleball,5,LOFT OFF,0,0,2,8,63,0,0,0,1,0,0,0,0,0
+369,3,451,2,75,West Indies Women,Hayley Matthews,Rajeshwari Gayakwad,,9,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,8.3,2,1,0,187055,-181.50,6.00,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,8,67,0,0,0,1,0,0,0,0,0
+370,4,451,2,75,West Indies Women,Hayley Matthews,Rajeshwari Gayakwad,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,8.4,2,1,0,187056,98.50,42.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,8,68,0,0,0,1,0,0,0,0,0
+371,5,451,2,75,West Indies Women,Deandra Dottin,Rajeshwari Gayakwad,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,8.5,2,1,0,187057,-117.50,37.00,1,0,,,Knuckleball,15,LOFT COVER,0,0,5,8,69,0,0,0,1,0,0,0,0,0
+372,6,451,2,75,West Indies Women,Hayley Matthews,Rajeshwari Gayakwad,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,8.6,2,1,0,187058,25.50,40.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,8,70,0,0,0,1,0,0,0,0,0
+373,1,451,2,75,West Indies Women,Hayley Matthews,Deepti Sharma,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.1,2,1,0,187059,31.50,24.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,9,70,0,1,0,1,0,0,0,0,0
+374,2,451,2,75,West Indies Women,Hayley Matthews,Deepti Sharma,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,9.2,2,1,0,187060,135.50,29.00,1,0,,,Knuckleball,40,FLICK,0,0,2,9,71,0,0,0,1,0,0,0,0,0
+375,3,451,2,75,West Indies Women,Deandra Dottin,Deepti Sharma,,10,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,9.3,2,1,0,187061,1.50,221.00,4,0,,,Knuckleball,69,SDL STRAIGHT,0,0,3,9,75,0,0,0,1,0,0,0,0,0
+376,4,451,2,75,West Indies Women,Deandra Dottin,Deepti Sharma,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.4,2,1,0,187062,76.50,-8.00,0,0,,,Knuckleball,54,LEG GLANCE,0,0,4,9,75,0,0,0,1,0,0,0,0,0
+377,5,451,2,75,West Indies Women,Deandra Dottin,Deepti Sharma,,10,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,9.5,2,1,0,187063,7.50,219.00,6,0,,,Knuckleball,69,SDL STRAIGHT,0,0,5,9,81,0,0,0,1,0,0,0,0,0
+378,6,451,2,75,West Indies Women,Deandra Dottin,Deepti Sharma,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.6,2,1,0,187064,7.50,219.00,0,0,,,Knuckleball,40,FLICK,0,0,6,9,81,0,0,0,1,0,0,0,0,0
+379,1,451,2,75,West Indies Women,Hayley Matthews,Rajeshwari Gayakwad,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.1,2,1,0,187065,-79.50,110.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,10,82,0,1,0,1,0,0,0,0,0
+380,2,451,2,75,West Indies Women,Deandra Dottin,Rajeshwari Gayakwad,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,10.2,2,1,0,187066,-15.50,18.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,10,82,0,0,0,1,0,0,0,0,0
+381,3,451,2,75,West Indies Women,Deandra Dottin,Rajeshwari Gayakwad,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,10.3,2,1,0,187067,-74.50,25.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,10,82,0,0,0,1,0,0,0,0,0
+382,4,451,2,75,West Indies Women,Deandra Dottin,Rajeshwari Gayakwad,,11,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,10.4,2,1,0,187068,162.50,-82.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,4,10,86,0,0,0,1,0,0,0,0,0
+383,5,451,2,75,West Indies Women,Deandra Dottin,Rajeshwari Gayakwad,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.5,2,1,0,187069,-84.50,129.00,1,0,,,Knuckleball,5,LOFT OFF,0,0,5,10,87,0,0,0,1,0,0,0,0,0
+384,6,451,2,75,West Indies Women,Hayley Matthews,Rajeshwari Gayakwad,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,10.6,2,1,0,187070,14.50,55.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,10,87,0,0,0,1,0,0,0,0,0
+385,1,451,2,75,West Indies Women,Deandra Dottin,Pooja Vastrakar,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.1,2,1,0,187071,-24.50,-8.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,1,11,87,0,1,0,1,0,0,0,0,0
+386,2,451,2,75,West Indies Women,Deandra Dottin,Pooja Vastrakar,,12,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,11.2,2,1,0,187072,-177.50,21.00,4,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,2,11,91,0,0,0,1,0,0,0,0,0
+387,3,451,2,75,West Indies Women,Deandra Dottin,Pooja Vastrakar,,12,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,11.3,2,1,0,187073,109.50,45.00,2,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,11,93,0,0,0,1,0,0,0,0,0
+388,4,451,2,75,West Indies Women,Deandra Dottin,Pooja Vastrakar,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,11.4,2,1,0,187074,98.50,15.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,11,94,0,0,0,1,0,0,0,0,0
+389,5,451,2,75,West Indies Women,Hayley Matthews,Pooja Vastrakar,,12,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,11.5,2,1,0,187075,106.50,-39.00,2,0,,,Knuckleball,40,FLICK,0,0,5,11,96,0,0,0,1,0,0,0,0,0
+390,6,451,2,75,West Indies Women,Hayley Matthews,Pooja Vastrakar,,12,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,11.6,2,1,0,187076,-172.50,83.00,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,11,100,0,0,1,2,0,0,1,0,0
+391,1,451,2,75,West Indies Women,Deandra Dottin,Sneh Rana,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,12.1,2,1,0,187077,-85.50,39.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,12,100,0,1,0,2,0,0,0,0,0
+392,2,451,2,75,West Indies Women,Deandra Dottin,Sneh Rana,,13,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,12.2,2,1,0,187078,-85.50,39.00,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,12,100,1,2,0,2,0,0,0,0,0
+393,3,451,2,75,West Indies Women,Hayley Matthews,Sneh Rana,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,12.3,2,1,0,187079,78.50,106.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,12,101,1,3,0,2,0,0,0,0,0
+394,4,451,2,75,West Indies Women,Kycia Knight,Sneh Rana,,13,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,12.4,2,1,0,187080,-12.50,13.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,12,101,1,0,0,2,0,0,0,0,0
+395,5,451,2,75,West Indies Women,Kycia Knight,Sneh Rana,,13,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,12.5,2,1,0,187081,167.50,-25.00,4,0,,,Knuckleball,59,SQUARE DRIVE,0,0,5,12,105,1,0,0,2,0,0,0,0,0
+396,6,451,2,75,West Indies Women,Kycia Knight,Sneh Rana,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,12.6,2,1,0,187082,87.50,-14.00,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,6,12,105,1,0,0,2,0,0,0,0,0
+397,1,451,2,75,West Indies Women,Hayley Matthews,Rajeshwari Gayakwad,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.1,2,1,0,187083,-47.50,144.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,13,106,1,1,0,2,0,0,0,0,0
+398,2,451,2,75,West Indies Women,Kycia Knight,Rajeshwari Gayakwad,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.2,2,1,0,187084,-27.50,16.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,13,106,1,0,0,2,0,0,0,0,0
+399,3,451,2,75,West Indies Women,Kycia Knight,Rajeshwari Gayakwad,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.3,2,1,0,187085,16.50,22.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,13,106,1,0,0,2,0,0,0,0,0
+400,4,451,2,75,West Indies Women,Kycia Knight,Rajeshwari Gayakwad,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.4,2,1,0,187086,30.50,24.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,13,106,1,0,0,2,0,0,0,0,0
+401,5,451,2,75,West Indies Women,Kycia Knight,Rajeshwari Gayakwad,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.5,2,1,0,187087,-29.50,12.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,13,106,1,0,0,2,0,0,0,0,0
+402,6,451,2,75,West Indies Women,Kycia Knight,Rajeshwari Gayakwad,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.6,2,1,0,187088,148.50,29.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,13,107,1,0,0,2,0,0,0,0,0
+403,1,451,2,75,West Indies Women,Kycia Knight,Sneh Rana,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.1,2,1,0,187089,6.50,42.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,14,107,1,1,0,2,0,0,0,0,0
+404,2,451,2,75,West Indies Women,Kycia Knight,Sneh Rana,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.2,2,1,0,187090,76.50,-15.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,14,107,1,0,0,2,0,0,0,0,0
+405,3,451,2,75,West Indies Women,Kycia Knight,Sneh Rana,,15,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.3,2,1,0,187091,52.50,14.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,14,107,1,0,0,2,0,0,0,0,0
+406,4,451,2,75,West Indies Women,Kycia Knight,Sneh Rana,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.4,2,1,0,187092,46.50,124.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,14,107,1,0,0,2,0,0,0,0,0
+407,5,451,2,75,West Indies Women,Kycia Knight,Sneh Rana,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.5,2,1,0,187093,36.50,37.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,14,107,1,0,0,2,0,0,0,0,0
+408,6,451,2,75,West Indies Women,Kycia Knight,Sneh Rana,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.6,2,1,0,187094,-41.50,39.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,14,107,1,0,0,2,0,0,0,0,0
+409,1,451,2,75,West Indies Women,Hayley Matthews,Meghna Singh,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,15.1,2,1,0,187095,-114.50,99.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,15,108,1,1,0,2,0,0,0,0,0
+410,2,451,2,75,West Indies Women,Kycia Knight,Meghna Singh,,16,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,15.2,2,1,0,187096,-114.50,99.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,2,15,108,2,2,0,2,0,0,0,0,0
+411,3,451,2,75,West Indies Women,Stafanie Taylor,Meghna Singh,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.3,2,1,0,187097,-114.50,99.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,15,108,2,3,0,2,0,0,0,0,0
+412,4,451,2,75,West Indies Women,Stafanie Taylor,Meghna Singh,,16,4,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,,,,0,15.4,2,1,1,187098,-114.50,99.00,1,0,,,Knuckleball,40,FLICK,0,0,4,15,109,2,0,0,2,0,0,0,0,0
+413,5,451,2,75,West Indies Women,Hayley Matthews,Meghna Singh,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.5,2,1,0,187099,61.50,94.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,15,109,2,0,0,2,0,0,0,0,0
+414,6,451,2,75,West Indies Women,Hayley Matthews,Meghna Singh,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.6,2,1,0,187100,61.50,94.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,15,109,2,0,0,2,0,0,0,0,0
+415,1,451,2,75,West Indies Women,Stafanie Taylor,Sneh Rana,,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,16.1,2,1,0,187101,-31.50,7.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,16,109,2,1,0,2,0,0,0,0,0
+416,2,451,2,75,West Indies Women,Stafanie Taylor,Sneh Rana,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,16.2,2,1,0,187102,-35.50,3.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,16,109,2,0,0,2,0,0,0,0,0
+417,3,451,2,75,West Indies Women,Stafanie Taylor,Sneh Rana,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,16.3,2,1,0,187103,21.50,21.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,16,109,2,0,0,2,0,0,0,0,0
+418,4,451,2,75,West Indies Women,Stafanie Taylor,Sneh Rana,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,16.4,2,1,0,187104,21.50,21.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,16,109,2,0,0,2,0,0,0,0,0
+419,5,451,2,75,West Indies Women,Stafanie Taylor,Sneh Rana,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.5,2,1,0,187105,112.50,2.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,5,16,110,2,0,0,2,0,0,0,0,0
+420,6,451,2,75,West Indies Women,Hayley Matthews,Sneh Rana,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.6,2,1,0,187106,103.50,-39.00,1,0,,,Knuckleball,40,FLICK,0,0,6,16,111,2,0,0,2,0,0,0,0,0
+421,1,451,2,75,West Indies Women,Hayley Matthews,Meghna Singh,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,17.1,2,1,0,187107,-82.50,108.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,17,112,2,1,0,2,0,0,0,0,0
+422,2,451,2,75,West Indies Women,Stafanie Taylor,Meghna Singh,,18,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,17.2,2,1,0,187108,-43.50,40.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,17,112,2,0,0,2,0,0,0,0,0
+423,3,451,2,75,West Indies Women,Stafanie Taylor,Meghna Singh,,18,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,17.3,2,1,0,187109,-86.50,-7.00,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,3,17,112,2,0,0,2,0,0,0,0,0
+424,4,451,2,75,West Indies Women,Stafanie Taylor,Meghna Singh,,18,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,17.4,2,1,0,187110,-86.50,-7.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,17,112,3,1,0,2,0,0,0,0,0
+425,5,451,2,75,West Indies Women,Shemaine Campbelle,Meghna Singh,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,17.5,2,1,0,187111,-86.50,-7.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,5,17,112,3,2,0,2,0,0,0,0,0
+426,6,451,2,75,West Indies Women,Shemaine Campbelle,Meghna Singh,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,17.6,2,1,0,187112,-125.50,-11.00,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,6,17,113,3,0,0,2,0,0,0,0,0
+427,1,451,2,75,West Indies Women,Shemaine Campbelle,Sneh Rana,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,18.1,2,1,0,187113,59.50,-67.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,1,18,114,3,1,0,2,0,0,0,0,0
+428,2,451,2,75,West Indies Women,Hayley Matthews,Sneh Rana,,19,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.2,2,1,0,187114,59.50,-67.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,18,114,4,2,0,2,0,0,0,0,0
+429,3,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,19,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,18.3,2,1,0,187115,-53.50,50.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,18,114,4,3,0,2,0,0,0,0,0
+430,4,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,18.4,2,1,0,187116,-16.50,-3.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,18,114,4,0,0,2,0,0,0,0,0
+431,5,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,18.5,2,1,0,187117,-16.50,-3.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,18,114,4,0,0,2,0,0,0,0,0
+432,6,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,19,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,18.6,2,1,0,187118,-40.50,20.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,18,114,4,0,0,2,0,0,0,0,0
+433,1,451,2,75,West Indies Women,Shemaine Campbelle,Meghna Singh,,20,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,19.1,2,1,0,187119,3.50,96.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,19,114,4,1,0,2,0,0,0,0,0
+434,2,451,2,75,West Indies Women,Shemaine Campbelle,Meghna Singh,,20,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,19.2,2,1,0,187120,114.50,38.00,2,0,,,Knuckleball,40,FLICK,0,0,2,19,116,4,0,0,2,0,0,0,0,0
+435,3,451,2,75,West Indies Women,Shemaine Campbelle,Meghna Singh,,20,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,19.3,2,1,0,187121,-79.50,-3.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,19,116,4,0,0,2,0,0,0,0,0
+436,4,451,2,75,West Indies Women,Shemaine Campbelle,Meghna Singh,,20,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,19.4,2,1,0,187122,-79.50,-3.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,19,116,4,0,0,2,0,0,0,0,0
+437,5,451,2,75,West Indies Women,Shemaine Campbelle,Meghna Singh,,20,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,19.5,2,1,0,187123,-45.50,43.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,19,116,4,0,0,2,0,0,0,0,0
+438,6,451,2,75,West Indies Women,Shemaine Campbelle,Meghna Singh,,20,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,19.6,2,1,0,187124,-2.50,220.00,4,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,6,19,120,4,0,0,2,0,0,0,0,0
+439,1,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,21,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,20.1,2,1,0,187125,-87.50,73.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,20,121,4,1,0,2,0,0,0,0,0
+440,2,451,2,75,West Indies Women,Shemaine Campbelle,Sneh Rana,,21,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,20.2,2,1,0,187126,-26.50,12.00,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,2,20,121,4,0,0,2,0,0,0,0,0
+441,3,451,2,75,West Indies Women,Shemaine Campbelle,Sneh Rana,,21,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,20.3,2,1,0,187127,-92.50,3.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,20,121,4,0,0,2,0,0,0,0,0
+442,4,451,2,75,West Indies Women,Shemaine Campbelle,Sneh Rana,,21,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,20.4,2,1,0,187128,-89.50,25.00,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,20,122,4,0,0,2,0,0,0,0,0
+443,5,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,21,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,20.5,2,1,0,187129,-83.50,97.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,5,20,122,4,0,0,2,0,0,0,0,0
+444,6,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,21,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,20.6,2,1,0,187130,-98.50,47.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,20,123,4,0,0,2,0,0,0,0,0
+445,1,451,2,75,West Indies Women,Chedean Nation,Meghna Singh,,22,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,21.1,2,1,0,187131,-98.50,47.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,1,21,123,4,1,0,2,0,0,0,0,0
+446,2,451,2,75,West Indies Women,Chedean Nation,Meghna Singh,,22,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,21.2,2,1,0,187132,-105.50,-74.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,21,124,4,0,0,2,0,0,0,0,0
+447,3,451,2,75,West Indies Women,Shemaine Campbelle,Meghna Singh,,22,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,21.3,2,1,0,187133,-105.50,-74.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,21,124,4,0,0,2,0,0,0,0,0
+448,4,451,2,75,West Indies Women,Shemaine Campbelle,Meghna Singh,,22,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,21.4,2,1,0,187134,76.50,-79.00,2,0,,,Knuckleball,40,FLICK,0,0,4,21,126,4,0,0,2,0,0,0,0,0
+449,5,451,2,75,West Indies Women,Shemaine Campbelle,Meghna Singh,,22,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,21.5,2,1,0,187135,76.50,-79.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,21,126,4,0,0,2,0,0,0,0,0
+450,6,451,2,75,West Indies Women,Shemaine Campbelle,Meghna Singh,,22,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,21.6,2,1,0,187136,76.50,-79.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,21,126,4,0,0,2,0,0,0,0,0
+451,1,451,2,75,West Indies Women,Chedean Nation,Pooja Vastrakar,,23,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,22.1,2,1,0,187137,-132.50,0.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,22,127,4,1,0,2,0,0,0,0,0
+452,2,451,2,75,West Indies Women,Shemaine Campbelle,Pooja Vastrakar,,23,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,22.2,2,1,0,187138,-75.50,-23.00,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,2,22,127,5,2,0,2,0,0,0,0,0
+453,3,451,2,75,West Indies Women,Chinelle Henry,Pooja Vastrakar,,23,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,22.3,2,1,0,187139,-22.50,16.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,22,127,5,3,0,2,0,0,0,0,0
+454,4,451,2,75,West Indies Women,Chinelle Henry,Pooja Vastrakar,,23,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,22.4,2,1,0,187140,107.50,-71.00,2,0,,,Knuckleball,58,PULL SHOT,0,0,4,22,129,5,0,0,2,0,0,0,0,0
+455,5,451,2,75,West Indies Women,Chinelle Henry,Pooja Vastrakar,,23,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,22.5,2,1,0,187141,-147.50,147.00,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,22,133,5,0,0,2,0,0,0,0,0
+456,6,451,2,75,West Indies Women,Chinelle Henry,Pooja Vastrakar,,23,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,22.6,2,1,0,187142,-136.50,75.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,22,134,5,0,0,2,0,0,0,0,0
+457,1,451,2,75,West Indies Women,Chinelle Henry,Rajeshwari Gayakwad,,24,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,23.1,2,1,0,187143,-14.50,32.00,0,0,,,Knuckleball,40,FLICK,0,0,1,23,134,5,1,0,2,0,0,0,0,0
+458,2,451,2,75,West Indies Women,Chinelle Henry,Rajeshwari Gayakwad,,24,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,23.2,2,1,0,187144,-14.50,32.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,23,134,6,2,0,2,0,0,0,0,0
+459,3,451,2,75,West Indies Women,Aaliyah Alleyne,Rajeshwari Gayakwad,,24,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,23.3,2,1,0,187145,-43.50,14.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,23,134,6,3,0,2,0,0,0,0,0
+460,4,451,2,75,West Indies Women,Aaliyah Alleyne,Rajeshwari Gayakwad,,24,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,23.4,2,1,0,187146,-43.50,14.00,0,0,,10,ORTHODOX,50,BACKFOOT DEFENCE,0,0,4,23,134,6,0,0,2,0,0,0,0,0
+461,5,451,2,75,West Indies Women,Aaliyah Alleyne,Rajeshwari Gayakwad,,24,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,23.5,2,1,0,187147,-43.50,14.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,23,134,6,0,0,2,0,0,0,0,0
+462,6,451,2,75,West Indies Women,Aaliyah Alleyne,Rajeshwari Gayakwad,,24,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,23.6,2,1,0,187148,-44.50,-145.00,4,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,23,138,6,0,0,2,0,0,0,0,0
+463,1,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,25,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,24.1,2,1,0,187149,-62.50,83.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,24,138,6,1,0,2,0,0,0,0,0
+464,2,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,25,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,24.2,2,1,0,187150,-62.50,83.00,0,0,,,Knuckleball,35,LATE CUT,0,0,2,24,138,6,0,0,2,0,0,0,0,0
+465,3,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,25,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,24.3,2,1,0,187151,-40.50,104.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,24,138,6,0,0,2,0,0,0,0,0
+466,4,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,25,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,24.4,2,1,0,187152,-76.50,77.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,24,138,6,0,0,2,0,0,0,0,0
+467,5,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,25,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,24.5,2,1,0,187153,-76.50,77.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,5,24,138,6,0,0,2,0,0,0,0,0
+468,6,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,25,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,24.6,2,1,0,187154,-138.50,102.00,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,24,140,6,0,0,2,0,0,0,0,0
+469,1,451,2,75,West Indies Women,Aaliyah Alleyne,Rajeshwari Gayakwad,,26,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,25.1,2,1,0,187155,-138.50,102.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,25,140,6,1,0,2,0,0,0,0,0
+470,2,451,2,75,West Indies Women,Aaliyah Alleyne,Rajeshwari Gayakwad,,26,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,25.2,2,1,0,187156,-51.50,37.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,25,140,6,0,0,2,0,0,0,0,0
+471,3,451,2,75,West Indies Women,Aaliyah Alleyne,Rajeshwari Gayakwad,,26,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,25.3,2,1,0,187157,-86.50,20.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,25,140,6,0,0,2,0,0,0,0,0
+472,4,451,2,75,West Indies Women,Aaliyah Alleyne,Rajeshwari Gayakwad,,26,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,25.4,2,1,0,187158,-2.50,26.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,25,140,6,0,0,2,0,0,0,0,0
+473,5,451,2,75,West Indies Women,Aaliyah Alleyne,Rajeshwari Gayakwad,,26,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,25.5,2,1,0,187159,-100.50,23.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,25,140,6,0,0,2,0,0,0,0,0
+474,6,451,2,75,West Indies Women,Aaliyah Alleyne,Rajeshwari Gayakwad,,26,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,25.6,2,1,0,187160,29.50,12.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,25,140,6,0,0,2,0,0,0,0,0
+475,1,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,27,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,26.1,2,1,0,187161,-95.50,-32.00,2,0,,,Knuckleball,59,SQUARE DRIVE,0,0,1,26,142,6,1,0,2,0,0,0,0,0
+476,2,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,27,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,26.2,2,1,0,187162,-53.50,54.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,26,142,6,0,0,2,0,0,0,0,0
+477,3,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,27,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,26.3,2,1,0,187163,-125.50,97.00,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,26,144,6,0,0,2,0,0,0,0,0
+478,4,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,27,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,26.4,2,1,0,187164,-71.50,97.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,4,26,144,6,0,0,2,0,0,0,0,0
+479,5,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,27,5,1 WK,1,1,1,0,0,0,0,0,0,0,0,0,0,1,Run Out,WICKET,0,26.5,2,1,0,187165,-93.50,42.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,26,145,7,0,0,2,0,0,0,0,0
+480,6,451,2,75,West Indies Women,Chedean Nation,Sneh Rana,,27,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,26.6,2,1,0,187166,-17.50,52.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,26,145,7,0,0,2,0,0,0,0,0
+481,1,451,2,75,West Indies Women,Anisa Mohammed,Rajeshwari Gayakwad,,28,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,27.1,2,1,0,187167,-22.50,16.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,27,145,7,1,0,2,0,0,0,0,0
+482,2,451,2,75,West Indies Women,Anisa Mohammed,Rajeshwari Gayakwad,,28,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,27.2,2,1,0,187168,-14.50,8.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,27,145,7,0,0,2,0,0,0,0,0
+483,3,451,2,75,West Indies Women,Anisa Mohammed,Rajeshwari Gayakwad,,28,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,27.3,2,1,0,187169,-17.50,12.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,27,145,7,0,0,2,0,0,0,0,0
+484,4,451,2,75,West Indies Women,Anisa Mohammed,Rajeshwari Gayakwad,,28,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,27.4,2,1,0,187170,26.50,3.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,27,145,7,0,0,2,0,0,0,0,0
+485,5,451,2,75,West Indies Women,Anisa Mohammed,Rajeshwari Gayakwad,,28,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,27.5,2,1,0,187171,26.50,3.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,27,145,7,0,0,2,0,0,0,0,0
+486,6,451,2,75,West Indies Women,Anisa Mohammed,Rajeshwari Gayakwad,,28,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,27.6,2,1,0,187172,26.50,3.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,27,145,7,0,0,2,0,0,0,0,0
+487,1,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,29,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.1,2,1,0,187173,-78.50,44.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,28,145,7,1,0,2,0,0,0,0,0
+488,2,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,29,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.2,2,1,0,187174,-25.50,18.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,28,145,7,0,0,2,0,0,0,0,0
+489,3,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,29,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.3,2,1,0,187175,-73.50,-3.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,28,145,7,0,0,2,0,0,0,0,0
+490,4,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,29,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.4,2,1,0,187176,-70.50,16.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,28,145,7,0,0,2,0,0,0,0,0
+491,5,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,29,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.5,2,1,0,187177,-37.50,11.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,28,145,7,0,0,2,0,0,0,0,0
+492,6,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,29,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,28.6,2,1,0,187178,-20.50,20.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,28,145,7,0,0,2,0,0,0,0,0
+493,1,451,2,75,West Indies Women,Anisa Mohammed,Rajeshwari Gayakwad,,30,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,29.1,2,1,0,187179,-20.50,20.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,29,145,7,1,0,2,0,0,0,0,0
+494,2,451,2,75,West Indies Women,Anisa Mohammed,Rajeshwari Gayakwad,,30,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,29.2,2,1,0,187180,-78.50,-16.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,29,145,7,0,0,2,0,0,0,0,0
+495,3,451,2,75,West Indies Women,Anisa Mohammed,Rajeshwari Gayakwad,,30,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,29.3,2,1,0,187181,-78.50,-16.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,3,29,145,7,0,0,2,0,0,0,0,0
+496,4,451,2,75,West Indies Women,Anisa Mohammed,Rajeshwari Gayakwad,,30,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,29.4,2,1,0,187182,-78.50,-16.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,29,145,7,0,0,2,0,0,0,0,0
+497,5,451,2,75,West Indies Women,Anisa Mohammed,Rajeshwari Gayakwad,,30,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,29.5,2,1,0,187183,-16.50,-4.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,29,145,7,0,0,2,0,0,0,0,0
+498,6,451,2,75,West Indies Women,Anisa Mohammed,Rajeshwari Gayakwad,,30,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,29.6,2,1,0,187184,-5.50,9.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,29,145,7,0,0,2,0,0,0,0,0
+499,1,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,31,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.1,2,1,0,187185,22.50,7.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,1,30,145,7,1,0,2,0,0,0,0,0
+500,2,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,31,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.2,2,1,0,187186,-7.50,52.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,30,145,7,0,0,2,0,0,0,0,0
+501,3,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,31,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.3,2,1,0,187187,-42.50,21.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,30,145,7,0,0,2,0,0,0,0,0
+502,4,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,31,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.4,2,1,0,187188,-7.50,17.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,30,145,7,0,0,2,0,0,0,0,0
+503,5,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,31,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,30.5,2,1,0,187189,60.50,167.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,30,146,7,0,0,2,0,0,0,0,0
+504,6,451,2,75,West Indies Women,Anisa Mohammed,Deepti Sharma,,31,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,30.6,2,1,0,187190,-16.50,6.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,30,146,7,0,0,2,0,0,0,0,0
+505,1,451,2,75,West Indies Women,Chedean Nation,Jhulan Goswami,,32,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,31.1,2,1,0,187191,-135.50,77.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,31,147,7,1,0,2,0,0,0,0,0
+506,2,451,2,75,West Indies Women,Anisa Mohammed,Jhulan Goswami,,32,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,31.2,2,1,0,187192,-136.50,1.00,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,2,31,148,7,0,0,2,0,0,0,0,0
+507,3,451,2,75,West Indies Women,Chedean Nation,Jhulan Goswami,,32,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,31.3,2,1,0,187193,-54.50,80.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,3,31,148,7,0,0,2,0,0,0,0,0
+508,4,451,2,75,West Indies Women,Chedean Nation,Jhulan Goswami,,32,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,31.4,2,1,0,187194,-182.50,5.00,4,0,,,Knuckleball,59,SQUARE DRIVE,0,0,4,31,152,7,0,1,3,0,0,0,0,0
+509,5,451,2,75,West Indies Women,Chedean Nation,Jhulan Goswami,,32,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,31.5,2,1,0,187195,-182.50,5.00,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,5,31,152,7,0,0,3,0,0,0,0,0
+510,6,451,2,75,West Indies Women,Chedean Nation,Jhulan Goswami,,32,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,31.6,2,1,0,187196,-93.50,53.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,31,153,7,0,0,3,0,0,0,0,0
+511,1,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,33,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,32.1,2,1,0,187197,52.50,99.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,32,154,7,1,0,3,0,0,0,0,0
+512,2,451,2,75,West Indies Women,Anisa Mohammed,Deepti Sharma,,33,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,32.2,2,1,0,187198,52.50,99.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,32,154,7,0,0,3,0,0,0,0,0
+513,3,451,2,75,West Indies Women,Anisa Mohammed,Deepti Sharma,,33,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,32.3,2,1,0,187199,118.50,-51.00,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,32,155,7,0,0,3,0,0,0,0,0
+514,4,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,33,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,32.4,2,1,0,187200,36.50,17.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,32,155,7,0,0,3,0,0,0,0,0
+515,5,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,33,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,32.5,2,1,0,187201,25.50,45.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,32,155,7,0,0,3,0,0,0,0,0
+516,6,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,33,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,32.6,2,1,0,187202,32.50,6.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,32,155,7,0,0,3,0,0,0,0,0
+517,1,451,2,75,West Indies Women,Anisa Mohammed,Jhulan Goswami,,34,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,33.1,2,1,0,187203,3.50,84.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,33,155,7,1,0,3,0,0,0,0,0
+518,2,451,2,75,West Indies Women,Anisa Mohammed,Jhulan Goswami,,34,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,33.2,2,1,0,187204,-21.50,16.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,33,155,7,0,0,3,0,0,0,0,0
+519,3,451,2,75,West Indies Women,Anisa Mohammed,Jhulan Goswami,,34,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,33.3,2,1,0,187205,-25.50,11.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,33,155,7,0,0,3,0,0,0,0,0
+520,4,451,2,75,West Indies Women,Anisa Mohammed,Jhulan Goswami,,34,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,33.4,2,1,0,187206,-74.50,34.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,33,155,7,0,0,3,0,0,0,0,0
+521,5,451,2,75,West Indies Women,Anisa Mohammed,Jhulan Goswami,,34,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,33.5,2,1,0,187207,37.50,35.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,33,155,7,0,0,3,0,0,0,0,0
+522,6,451,2,75,West Indies Women,Anisa Mohammed,Jhulan Goswami,,34,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,33.6,2,1,0,187208,25.50,51.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,33,155,7,0,0,3,0,0,0,0,0
+523,1,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,35,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.1,2,1,0,187209,-65.50,27.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,34,155,7,1,0,3,0,0,0,0,0
+524,2,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,35,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.2,2,1,0,187210,-36.50,31.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,34,155,7,0,0,3,0,0,0,0,0
+525,3,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,35,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.3,2,1,0,187211,-27.50,7.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,34,155,7,0,0,3,0,0,0,0,0
+526,4,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,35,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.4,2,1,0,187212,-21.50,17.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,34,155,7,0,0,3,0,0,0,0,0
+527,5,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,35,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.5,2,1,0,187213,-3.50,62.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,34,155,7,0,0,3,0,0,0,0,0
+528,6,451,2,75,West Indies Women,Chedean Nation,Deepti Sharma,,35,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,34.6,2,1,0,187214,-68.50,78.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,34,155,7,0,0,3,0,0,0,0,0
+529,1,451,2,75,West Indies Women,Anisa Mohammed,Jhulan Goswami,,36,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,35.1,2,1,0,187215,-58.50,20.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,35,155,7,1,0,3,0,0,0,0,0
+530,2,451,2,75,West Indies Women,Anisa Mohammed,Jhulan Goswami,,36,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,35.2,2,1,0,187216,-82.50,-2.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,35,155,7,0,0,3,0,0,0,0,0
+531,3,451,2,75,West Indies Women,Anisa Mohammed,Jhulan Goswami,,36,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,35.3,2,1,0,187217,-2.50,25.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,35,155,7,0,0,3,0,0,0,0,0
+532,4,451,2,75,West Indies Women,Anisa Mohammed,Jhulan Goswami,,36,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,35.4,2,1,0,187218,-86.50,-9.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,35,155,7,0,0,3,0,0,0,0,0
+533,5,451,2,75,West Indies Women,Anisa Mohammed,Jhulan Goswami,,36,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,35.5,2,1,0,187219,-86.50,-9.00,0,0,,,Knuckleball,33,CHIP SHOT,0,0,5,35,155,8,1,0,3,0,0,0,0,0
+534,6,451,2,75,West Indies Women,Shakera Selman,Jhulan Goswami,,36,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,35.6,2,1,0,187220,99.50,-39.00,1,0,,,Knuckleball,40,FLICK,0,0,6,35,156,8,2,0,3,0,0,0,0,0
+535,1,451,2,75,West Indies Women,Shakera Selman,Sneh Rana,,37,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,36.1,2,1,0,187221,14.50,19.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,36,156,8,3,0,3,0,0,0,0,0
+536,2,451,2,75,West Indies Women,Shakera Selman,Sneh Rana,,37,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,36.2,2,1,0,187222,23.50,30.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,36,156,8,0,0,3,0,0,0,0,0
+537,3,451,2,75,West Indies Women,Shakera Selman,Sneh Rana,,37,3,1 WK,1,1,1,0,0,0,0,0,0,0,0,0,0,1,Run Out,WICKET,0,36.3,2,1,0,187223,48.50,-116.00,1,0,,,Knuckleball,40,FLICK,0,0,3,36,157,9,0,0,3,0,0,0,0,0
+538,4,451,2,75,West Indies Women,Shakera Selman,Sneh Rana,,37,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,36.4,2,1,0,187224,25.50,13.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,36,157,9,0,0,3,0,0,0,0,0
+539,5,451,2,75,West Indies Women,Shakera Selman,Sneh Rana,,37,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,36.5,2,1,0,187225,57.50,-39.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,5,36,158,9,0,0,3,0,0,0,0,0
+540,6,451,2,75,West Indies Women,Shamilia Connel,Sneh Rana,,37,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,36.6,2,1,0,187226,57.50,-39.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,36,158,9,0,0,3,0,0,0,0,0
+541,0,451,2,75,West Indies Women,Shakera Selman,Rajeshwari Gayakwad,,38,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,37.0,2,1,0,187227,106.50,50.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,1,37,159,9,1,0,3,0,0,0,0,0
+542,1,451,2,75,West Indies Women,Shamilia Connel,Rajeshwari Gayakwad,,38,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,37.1,2,1,0,187228,-11.50,26.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,37,159,9,0,0,3,0,0,0,0,0
+543,2,451,2,75,West Indies Women,Shamilia Connel,Rajeshwari Gayakwad,,38,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,37.2,2,1,0,187230,,,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,37,159,9,0,0,3,0,0,0,0,0
+544,3,451,2,75,West Indies Women,Shamilia Connel,Rajeshwari Gayakwad,,38,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,37.3,2,1,0,187231,,,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,37,159,9,0,0,3,0,0,0,0,0
+545,4,451,2,75,West Indies Women,Shamilia Connel,Rajeshwari Gayakwad,,38,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,37.4,2,1,0,187232,-24.50,8.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,37,159,9,0,0,3,0,0,0,0,0
+546,5,451,2,75,West Indies Women,Shamilia Connel,Rajeshwari Gayakwad,,38,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,37.5,2,1,0,187233,,,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,37,159,9,0,0,3,0,0,0,0,0
+547,1,451,2,75,West Indies Women,Shakera Selman,Sneh Rana,,39,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,38.1,2,1,0,187229,-11.50,26.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,38,159,9,1,0,3,0,0,0,0,0
+548,2,451,2,75,West Indies Women,Shakera Selman,Sneh Rana,,39,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,38.2,2,1,0,187234,-27.50,15.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,38,159,9,0,0,3,0,0,0,0,0
+549,3,451,2,75,West Indies Women,Shakera Selman,Sneh Rana,,39,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,38.3,2,1,0,187235,-27.50,15.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,38,159,9,0,0,3,0,0,0,0,0
+550,4,451,2,75,West Indies Women,Shakera Selman,Sneh Rana,,39,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,38.4,2,1,0,187236,-61.50,105.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,4,38,159,9,0,0,3,0,0,0,0,0
+551,5,451,2,75,West Indies Women,Shakera Selman,Sneh Rana,,39,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,38.5,2,1,0,187237,-61.50,105.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,5,38,159,9,0,0,3,0,0,0,0,0
+552,6,451,2,75,West Indies Women,Shakera Selman,Sneh Rana,,39,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,38.6,2,1,0,187238,78.50,-25.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,6,38,160,9,0,0,3,0,0,0,0,0
+553,1,451,2,75,West Indies Women,Shakera Selman,Rajeshwari Gayakwad,,40,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,39.1,2,1,0,187239,-38.50,-4.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,39,160,9,1,0,3,0,0,0,0,0
+554,2,451,2,75,West Indies Women,Shakera Selman,Rajeshwari Gayakwad,,40,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,39.2,2,1,0,187240,16.50,15.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,39,160,9,0,0,3,0,0,0,0,0
+555,3,451,2,75,West Indies Women,Shakera Selman,Rajeshwari Gayakwad,,40,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,39.3,2,1,0,187241,-18.50,21.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,39,160,9,0,0,3,0,0,0,0,0
+556,4,451,2,75,West Indies Women,Shakera Selman,Rajeshwari Gayakwad,,40,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,39.4,2,1,0,187242,-18.50,21.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,39,160,9,0,0,3,0,0,0,0,0
+557,5,451,2,75,West Indies Women,Shakera Selman,Rajeshwari Gayakwad,,40,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,39.5,2,1,0,187243,64.50,8.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,39,160,9,0,0,3,0,0,0,0,0
+558,6,451,2,75,West Indies Women,Shakera Selman,Rajeshwari Gayakwad,,40,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,39.6,2,1,0,187244,65.50,-6.00,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,39,161,9,0,0,3,0,0,0,0,0
+559,1,451,2,75,West Indies Women,Shakera Selman,Sneh Rana,,41,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,40.1,2,1,0,187245,30.50,67.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,40,161,9,1,0,3,0,0,0,0,0
+560,2,451,2,75,West Indies Women,Shakera Selman,Sneh Rana,,41,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,40.2,2,1,0,187246,-85.50,8.00,1,0,,,Knuckleball,40,FLICK,0,0,2,40,162,9,0,0,3,0,0,0,0,0
+561,2,451,2,75,West Indies Women,Shamilia Connel,Sneh Rana,,41,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught & Bowled,WICKET,1,40.2,2,1,0,187247,-85.50,8.00,0,0,,,Knuckleball,40,FLICK,0,0,3,40,162,10,1,0,3,0,0,0,0,0

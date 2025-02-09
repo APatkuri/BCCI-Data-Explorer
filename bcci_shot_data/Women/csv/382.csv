@@ -1,0 +1,201 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,382,1,11,Bangladesh,Mohammad Naim Sheikh,Keshav Maharaj,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,152324,45.50,64.00,0,0,,10,ORTHODOX,84,OFF DRIVE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,382,1,11,Bangladesh,Mohammad Naim Sheikh,Keshav Maharaj,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,152325,-110.50,100.00,1,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+2,3,382,1,11,Bangladesh,Liton Das,Keshav Maharaj,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,152326,-94.50,21.00,0,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+3,4,382,1,11,Bangladesh,Liton Das,Keshav Maharaj,,1,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,152327,83.50,75.00,2,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,4,0,3,0,0,0,0,0,0,0,0,0
+4,5,382,1,11,Bangladesh,Liton Das,Keshav Maharaj,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,152328,-53.50,13.00,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,5,0,3,0,0,0,0,0,0,0,0,0
+5,6,382,1,11,Bangladesh,Liton Das,Keshav Maharaj,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,152329,51.50,37.00,1,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,6,0,4,0,0,0,0,0,0,0,0,0
+6,1,382,1,11,Bangladesh,Liton Das,Kagiso Rabada,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,152330,-67.50,-18.00,0,0,,42,OUTSWINGER,97,BACKFOOT PUSH,0,0,1,1,4,0,1,0,0,0,0,0,0,0
+7,2,382,1,11,Bangladesh,Liton Das,Kagiso Rabada,,2,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.2,1,1,0,152331,-174.50,87.00,4,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,2,1,8,0,0,0,0,0,0,0,0,0
+8,3,382,1,11,Bangladesh,Liton Das,Kagiso Rabada,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,152332,-61.50,-89.00,1,0,,38,STRAIGHT BALL,44,GLIDE,0,0,3,1,9,0,0,0,0,0,0,0,0,0
+9,4,382,1,11,Bangladesh,Mohammad Naim Sheikh,Kagiso Rabada,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,152333,-61.50,-89.00,0,0,,41,INSWINGER,40,FLICK,0,0,4,1,9,0,0,0,0,0,0,0,0,0
+10,5,382,1,11,Bangladesh,Mohammad Naim Sheikh,Kagiso Rabada,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,152334,-24.50,47.00,0,0,,30,ANGLED ACROSS,49,FORWARD DEFENCE,0,0,5,1,9,0,0,0,0,0,0,0,0,0
+11,6,382,1,11,Bangladesh,Mohammad Naim Sheikh,Kagiso Rabada,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,152335,-24.50,47.00,0,0,,41,INSWINGER,40,FLICK,0,0,6,1,9,0,0,0,0,0,0,0,0,0
+12,1,382,1,11,Bangladesh,Liton Das,Keshav Maharaj,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,152336,40.50,44.00,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,1,2,9,0,1,0,0,0,0,0,0,0
+13,2,382,1,11,Bangladesh,Liton Das,Keshav Maharaj,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,152337,-105.50,113.00,1,0,,10,ORTHODOX,21,SD OFF,0,0,2,2,10,0,0,0,0,0,0,0,0,0
+14,3,382,1,11,Bangladesh,Mohammad Naim Sheikh,Keshav Maharaj,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,152338,-102.50,114.00,1,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,3,2,11,0,0,0,0,0,0,0,0,0
+15,4,382,1,11,Bangladesh,Liton Das,Keshav Maharaj,,3,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,152339,-67.50,160.00,1,0,,10,ORTHODOX,21,SD OFF,0,0,4,2,12,0,0,0,0,0,0,0,0,0
+16,5,382,1,11,Bangladesh,Mohammad Naim Sheikh,Keshav Maharaj,,3,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.5,1,1,0,152340,-146.50,142.00,4,0,,10,ORTHODOX,58,PULL SHOT,0,0,5,2,16,0,0,0,0,0,0,0,0,0
+17,6,382,1,11,Bangladesh,Mohammad Naim Sheikh,Keshav Maharaj,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,152341,83.50,98.00,1,0,,10,ORTHODOX,84,OFF DRIVE,0,0,6,2,17,0,0,0,0,0,0,0,0,0
+18,1,382,1,11,Bangladesh,Mohammad Naim Sheikh,Kagiso Rabada,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,152342,-72.50,84.00,1,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,1,3,18,0,1,0,0,0,0,0,0,0
+19,2,382,1,11,Bangladesh,Liton Das,Kagiso Rabada,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,152343,131.50,30.00,1,0,,39,ANGLED IN,40,FLICK,0,0,2,3,19,0,0,0,0,0,0,0,0,0
+20,3,382,1,11,Bangladesh,Mohammad Naim Sheikh,Kagiso Rabada,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,152344,78.50,-13.00,1,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,3,3,20,0,0,0,0,0,0,0,0,0
+21,4,382,1,11,Bangladesh,Liton Das,Kagiso Rabada,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,152345,64.50,96.00,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,4,3,21,0,0,0,0,0,0,0,0,0
+22,5,382,1,11,Bangladesh,Mohammad Naim Sheikh,Kagiso Rabada,,4,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,3.5,1,1,1,152346,64.50,96.00,1,0,,8,OFF CUTTER,36,CUT SHOT,0,0,5,3,22,0,0,0,0,0,0,0,0,0
+23,6,382,1,11,Bangladesh,Mohammad Naim Sheikh,Kagiso Rabada,,4,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,3.5,1,1,0,152347,-67.50,42.00,0,0,,30,ANGLED ACROSS,18,SLOG SHOT,0,0,6,3,22,1,1,0,0,0,0,0,0,0
+24,7,382,1,11,Bangladesh,Soumya Sarkar,Kagiso Rabada,,4,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,3.6,1,1,0,152348,-67.50,42.00,0,0,,41,INSWINGER,49,FORWARD DEFENCE,0,0,7,3,22,2,0,0,0,0,0,0,0,0
+25,1,382,1,11,Bangladesh,Liton Das,Anrich Nortje,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,152349,-50.50,4.00,0,0,,43,NIPBACKER,50,BACKFOOT DEFENCE,0,0,1,4,22,2,1,0,0,0,0,0,0,0
+26,2,382,1,11,Bangladesh,Liton Das,Anrich Nortje,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,152350,-78.50,25.00,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,2,4,22,2,0,0,0,0,0,0,0,0
+27,3,382,1,11,Bangladesh,Liton Das,Anrich Nortje,,5,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,152351,116.50,66.00,2,0,,39,ANGLED IN,40,FLICK,0,0,3,4,24,2,0,0,0,0,0,0,0,0
+28,4,382,1,11,Bangladesh,Liton Das,Anrich Nortje,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,152352,-69.50,-16.00,0,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,4,4,24,2,0,0,0,0,0,0,0,0
+29,5,382,1,11,Bangladesh,Liton Das,Anrich Nortje,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,152353,-69.50,-16.00,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,5,4,24,2,0,0,0,0,0,0,0,0
+30,6,382,1,11,Bangladesh,Liton Das,Anrich Nortje,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,152354,-52.50,-32.00,0,0,,39,ANGLED IN,44,GLIDE,0,0,6,4,24,2,0,0,0,0,0,0,0,0
+31,1,382,1,11,Bangladesh,Mushfiqur Rahim,Kagiso Rabada,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,152355,-62.50,-22.00,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,1,5,24,2,1,0,0,0,0,0,0,0
+32,2,382,1,11,Bangladesh,Mushfiqur Rahim,Kagiso Rabada,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,152356,-11.50,46.00,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,2,5,24,2,0,0,0,0,0,0,0,0
+33,3,382,1,11,Bangladesh,Mushfiqur Rahim,Kagiso Rabada,,6,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.3,1,1,0,152357,-22.50,-25.00,0,0,,38,STRAIGHT BALL,50,BACKFOOT DEFENCE,0,0,3,5,24,3,1,0,0,0,0,0,0,0
+34,4,382,1,11,Bangladesh,Mahmudullah,Kagiso Rabada,,6,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,5.4,1,1,0,152358,87.50,-56.00,2,0,,39,ANGLED IN,40,FLICK,0,0,4,5,26,3,2,0,0,0,0,0,0,0
+35,5,382,1,11,Bangladesh,Mahmudullah,Kagiso Rabada,,6,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,5.5,1,1,1,152359,87.50,-56.00,1,0,,36,BOUNCER,105,LEFT ALONE,1,0,5,5,27,3,0,0,0,0,0,0,0,0
+36,6,382,1,11,Bangladesh,Mahmudullah,Kagiso Rabada,,6,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,5.5,1,1,1,152360,87.50,-56.00,1,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,6,5,28,3,0,0,0,0,0,0,0,0
+37,7,382,1,11,Bangladesh,Mahmudullah,Kagiso Rabada,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,152361,-2.50,18.00,0,0,,36,BOUNCER,50,BACKFOOT DEFENCE,1,0,7,5,28,3,0,0,0,0,0,0,0,0
+38,8,382,1,11,Bangladesh,Mahmudullah,Kagiso Rabada,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,152362,-2.50,18.00,0,0,,38,STRAIGHT BALL,50,BACKFOOT DEFENCE,0,0,8,5,28,3,0,0,0,0,0,0,0,0
+39,1,382,1,11,Bangladesh,Liton Das,Dwaine Pretorius,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,152363,-7.50,62.00,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,1,6,28,3,1,0,0,0,0,0,0,0
+40,2,382,1,11,Bangladesh,Liton Das,Dwaine Pretorius,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,152364,-93.50,-69.00,1,0,,42,OUTSWINGER,44,GLIDE,0,0,2,6,29,3,0,0,0,0,0,0,0,0
+41,3,382,1,11,Bangladesh,Mahmudullah,Dwaine Pretorius,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,152365,-114.50,-15.00,1,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,3,6,30,3,0,0,0,0,0,0,0,0
+42,4,382,1,11,Bangladesh,Liton Das,Dwaine Pretorius,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,152366,-135.50,37.00,1,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,4,6,31,3,0,0,0,0,0,0,0,0
+43,5,382,1,11,Bangladesh,Mahmudullah,Dwaine Pretorius,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,152367,-135.50,37.00,0,0,,42,OUTSWINGER,89,SD COVER,0,0,5,6,31,3,0,0,0,0,0,0,0,0
+44,6,382,1,11,Bangladesh,Mahmudullah,Dwaine Pretorius,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,152368,-73.50,-12.00,0,0,,38,STRAIGHT BALL,16,BACKFOOT SQUARE DRIVE,0,0,6,6,31,3,0,0,0,0,0,0,0,0
+45,1,382,1,11,Bangladesh,Liton Das,Anrich Nortje,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,152369,-88.50,-71.00,1,0,,38,STRAIGHT BALL,44,GLIDE,0,0,1,7,32,3,1,0,0,0,0,0,0,0
+46,2,382,1,11,Bangladesh,Mahmudullah,Anrich Nortje,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,152370,-88.50,-71.00,0,0,,43,NIPBACKER,50,BACKFOOT DEFENCE,0,0,2,7,32,3,0,0,0,0,0,0,0,0
+47,3,382,1,11,Bangladesh,Mahmudullah,Anrich Nortje,,8,3,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,7.3,1,1,1,152371,-88.50,-71.00,1,0,,39,ANGLED IN,40,FLICK,0,0,3,7,33,3,0,0,0,0,0,0,0,0
+48,4,382,1,11,Bangladesh,Liton Das,Anrich Nortje,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,152372,55.50,46.00,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,4,7,33,3,0,0,0,0,0,0,0,0
+49,5,382,1,11,Bangladesh,Liton Das,Anrich Nortje,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,152373,94.50,131.00,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,5,7,34,3,0,0,0,0,0,0,0,0
+50,6,382,1,11,Bangladesh,Mahmudullah,Anrich Nortje,,8,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,7.6,1,1,0,152374,-60.50,-43.00,0,0,,36,BOUNCER,50,BACKFOOT DEFENCE,1,0,6,7,34,4,1,0,0,0,0,0,0,0
+51,1,382,1,11,Bangladesh,Afif Hossain Dhrubo,Dwaine Pretorius,,9,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,8.1,1,1,0,152375,-60.50,-43.00,0,0,,38,STRAIGHT BALL,94,SDL ON,0,0,1,8,34,5,2,0,0,0,0,0,0,0
+52,2,382,1,11,Bangladesh,Shamim Hossain,Dwaine Pretorius,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,152376,-60.50,-43.00,0,0,,41,INSWINGER,40,FLICK,0,0,2,8,34,5,3,0,0,0,0,0,0,0
+53,3,382,1,11,Bangladesh,Shamim Hossain,Dwaine Pretorius,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,152377,62.50,61.00,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,3,8,34,5,0,0,0,0,0,0,0,0
+54,4,382,1,11,Bangladesh,Shamim Hossain,Dwaine Pretorius,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,152378,-138.50,21.00,1,0,,41,INSWINGER,40,FLICK,0,0,4,8,35,5,0,0,0,0,0,0,0,0
+55,5,382,1,11,Bangladesh,Liton Das,Dwaine Pretorius,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,152379,-64.50,72.00,0,0,,42,OUTSWINGER,50,BACKFOOT DEFENCE,0,0,5,8,35,5,0,0,0,0,0,0,0,0
+56,6,382,1,11,Bangladesh,Liton Das,Dwaine Pretorius,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,152380,-80.50,-57.00,1,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,6,8,36,5,0,0,0,0,0,0,0,0
+57,1,382,1,11,Bangladesh,Liton Das,Anrich Nortje,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,152381,-67.50,-12.00,0,0,,38,STRAIGHT BALL,97,BACKFOOT PUSH,0,0,1,9,36,5,1,0,0,0,0,0,0,0
+58,2,382,1,11,Bangladesh,Liton Das,Anrich Nortje,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,152382,60.50,42.00,0,0,,46,LEGCUTTER,40,FLICK,0,0,2,9,36,5,0,0,0,0,0,0,0,0
+59,3,382,1,11,Bangladesh,Liton Das,Anrich Nortje,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,152383,-51.50,2.00,0,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,3,9,36,5,0,0,0,0,0,0,0,0
+60,4,382,1,11,Bangladesh,Liton Das,Anrich Nortje,,10,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,9.4,1,1,1,152384,-51.50,2.00,1,0,,36,BOUNCER,105,LEFT ALONE,1,0,4,9,37,5,0,0,0,0,0,0,0,0
+61,5,382,1,11,Bangladesh,Liton Das,Anrich Nortje,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,152385,-105.50,-80.00,1,0,,38,STRAIGHT BALL,44,GLIDE,0,0,5,9,38,5,0,0,0,0,0,0,0,0
+62,6,382,1,11,Bangladesh,Shamim Hossain,Anrich Nortje,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,152386,-105.50,-80.00,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,6,9,38,5,0,0,0,0,0,0,0,0
+63,7,382,1,11,Bangladesh,Shamim Hossain,Anrich Nortje,,10,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,152387,-102.50,-55.00,2,0,,38,STRAIGHT BALL,40,FLICK,0,0,7,9,40,5,0,0,0,0,0,0,0,0
+64,1,382,1,11,Bangladesh,Liton Das,Keshav Maharaj,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,152388,-57.50,-43.00,0,0,,10,ORTHODOX,36,CUT SHOT,0,0,1,10,40,5,1,0,0,0,0,0,0,0
+65,2,382,1,11,Bangladesh,Liton Das,Keshav Maharaj,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,152389,128.50,58.00,1,0,,10,ORTHODOX,58,PULL SHOT,0,0,2,10,41,5,0,0,0,0,0,0,0,0
+66,3,382,1,11,Bangladesh,Shamim Hossain,Keshav Maharaj,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,152390,-54.50,67.00,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,3,10,41,5,0,0,0,0,0,0,0,0
+67,4,382,1,11,Bangladesh,Shamim Hossain,Keshav Maharaj,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,152391,-67.50,60.00,0,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,4,10,41,5,0,0,0,0,0,0,0,0
+68,5,382,1,11,Bangladesh,Shamim Hossain,Keshav Maharaj,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,152392,-122.50,-13.00,1,0,,10,ORTHODOX,40,FLICK,0,0,5,10,42,5,0,0,0,0,0,0,0,0
+69,6,382,1,11,Bangladesh,Liton Das,Keshav Maharaj,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,152393,86.50,79.00,1,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,6,10,43,5,0,0,0,0,0,0,0,0
+70,1,382,1,11,Bangladesh,Liton Das,Tabraiz Shamsi,,12,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,152394,-138.50,89.00,2,0,,34,CHINAMAN,51,FRONTFOOT COVERDRIVE,0,0,1,11,45,5,1,0,0,0,0,0,0,0
+71,2,382,1,11,Bangladesh,Liton Das,Tabraiz Shamsi,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,152395,67.50,23.00,0,0,,34,CHINAMAN,40,FLICK,0,0,2,11,45,5,0,0,0,0,0,0,0,0
+72,3,382,1,11,Bangladesh,Liton Das,Tabraiz Shamsi,,12,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,11.3,1,1,0,152396,67.50,23.00,0,0,,34,CHINAMAN,47,ON DRIVE,0,0,3,11,45,6,1,0,0,0,0,0,0,0
+73,4,382,1,11,Bangladesh,Mahedi Hasan,Tabraiz Shamsi,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,152397,-71.50,145.00,1,0,,34,CHINAMAN,21,SD OFF,0,0,4,11,46,6,2,0,0,0,0,0,0,0
+74,5,382,1,11,Bangladesh,Shamim Hossain,Tabraiz Shamsi,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,152398,-62.50,25.00,0,0,,34,CHINAMAN,40,FLICK,0,0,5,11,46,6,0,0,0,0,0,0,0,0
+75,6,382,1,11,Bangladesh,Shamim Hossain,Tabraiz Shamsi,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,152399,66.50,-8.00,0,0,,34,CHINAMAN,27,FORWARD PUSH,0,0,6,11,46,6,0,0,0,0,0,0,0,0
+76,1,382,1,11,Bangladesh,Mahedi Hasan,Keshav Maharaj,,13,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.1,1,1,0,152400,-117.50,-111.00,4,0,,10,ORTHODOX,35,LATE CUT,0,0,1,12,50,6,1,1,1,0,1,0,0,0
+77,2,382,1,11,Bangladesh,Mahedi Hasan,Keshav Maharaj,,13,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.2,1,1,0,152401,-126.50,-52.00,2,0,,10,ORTHODOX,114,SDL COVER,0,0,2,12,52,6,0,0,1,0,0,0,0,0
+78,3,382,1,11,Bangladesh,Mahedi Hasan,Keshav Maharaj,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,152402,42.50,-59.00,0,0,,23,ARM BALL,58,PULL SHOT,0,0,3,12,52,6,0,0,1,0,0,0,0,0
+79,4,382,1,11,Bangladesh,Mahedi Hasan,Keshav Maharaj,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,152403,-44.50,-53.00,1,0,,10,ORTHODOX,52,BACKFOOT COVERDRIVE,0,0,4,12,53,6,0,0,1,0,0,0,0,0
+80,5,382,1,11,Bangladesh,Shamim Hossain,Keshav Maharaj,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,152404,-100.50,119.00,1,0,,10,ORTHODOX,47,ON DRIVE,0,0,5,12,54,6,0,0,1,0,0,0,0,0
+81,6,382,1,11,Bangladesh,Mahedi Hasan,Keshav Maharaj,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,152405,-76.50,59.00,0,0,,10,ORTHODOX,50,BACKFOOT DEFENCE,0,0,6,12,54,6,0,0,1,0,0,0,0,0
+82,1,382,1,11,Bangladesh,Shamim Hossain,Tabraiz Shamsi,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,152406,-71.50,-75.00,1,0,,34,CHINAMAN,95,SLOG SWEEP,0,0,1,13,55,6,1,0,1,0,0,0,0,0
+83,2,382,1,11,Bangladesh,Mahedi Hasan,Tabraiz Shamsi,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,152407,-24.50,-4.00,0,0,,31,WRONG ONE,50,BACKFOOT DEFENCE,0,0,2,13,55,6,0,0,1,0,0,0,0,0
+84,3,382,1,11,Bangladesh,Mahedi Hasan,Tabraiz Shamsi,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,152408,46.50,-50.00,1,0,,34,CHINAMAN,40,FLICK,0,0,3,13,56,6,0,0,1,0,0,0,0,0
+85,4,382,1,11,Bangladesh,Shamim Hossain,Tabraiz Shamsi,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,152409,46.50,-50.00,0,0,,34,CHINAMAN,56,REVERSE SWEEP,0,0,4,13,56,6,0,0,1,0,0,0,0,0
+86,5,382,1,11,Bangladesh,Shamim Hossain,Tabraiz Shamsi,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,152410,53.50,-26.00,0,0,,34,CHINAMAN,36,CUT SHOT,0,0,5,13,56,6,0,0,1,0,0,0,0,0
+87,6,382,1,11,Bangladesh,Shamim Hossain,Tabraiz Shamsi,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,152411,-58.50,66.00,0,0,,34,CHINAMAN,49,FORWARD DEFENCE,0,0,6,13,56,6,0,0,1,0,0,0,0,0
+88,1,382,1,11,Bangladesh,Mahedi Hasan,Kagiso Rabada,,15,1,1 (NB),1,0,0,0,0,1,1,0,1,0,0,0,0,0,,,0,14.1,1,1,1,152412,-58.50,66.00,1,0,,38,STRAIGHT BALL,97,BACKFOOT PUSH,0,0,1,14,57,6,1,0,1,0,0,0,0,0
+89,2,382,1,11,Bangladesh,Mahedi Hasan,Kagiso Rabada,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,152413,-58.50,66.00,0,0,,42,OUTSWINGER,11,LOFT ON,0,0,2,14,57,6,0,0,1,0,0,0,0,0
+90,3,382,1,11,Bangladesh,Mahedi Hasan,Kagiso Rabada,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,152414,-58.50,66.00,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,3,14,57,6,0,0,1,0,0,0,0,0
+91,4,382,1,11,Bangladesh,Mahedi Hasan,Kagiso Rabada,,15,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,152415,-58.50,66.00,0,0,,42,OUTSWINGER,15,LOFT COVER,0,0,4,14,57,6,0,0,1,0,0,0,0,0
+92,5,382,1,11,Bangladesh,Mahedi Hasan,Kagiso Rabada,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,152416,50.50,-107.00,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,5,14,58,6,0,0,1,0,0,0,0,0
+93,6,382,1,11,Bangladesh,Shamim Hossain,Kagiso Rabada,,15,5,1 (NB),1,0,0,0,0,1,1,0,1,0,0,0,0,0,,,0,14.5,1,1,1,152417,67.50,93.00,1,0,,30,ANGLED ACROSS,84,OFF DRIVE,0,0,6,14,59,6,0,0,1,0,0,0,0,0
+94,7,382,1,11,Bangladesh,Shamim Hossain,Kagiso Rabada,,15,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,152418,128.50,47.00,2,0,,,Knuckleball,36,CUT SHOT,0,0,7,14,61,6,0,0,1,0,0,0,0,0
+95,8,382,1,11,Bangladesh,Shamim Hossain,Kagiso Rabada,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,152419,-143.50,6.00,1,0,,30,ANGLED ACROSS,40,FLICK,0,0,8,14,62,6,0,0,1,0,0,0,0,0
+96,1,382,1,11,Bangladesh,Shamim Hossain,Tabraiz Shamsi,,16,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,152420,112.50,101.00,2,0,,34,CHINAMAN,15,LOFT COVER,0,0,1,15,64,6,1,0,1,0,0,0,0,0
+97,2,382,1,11,Bangladesh,Shamim Hossain,Tabraiz Shamsi,,16,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,15.2,1,1,0,152421,-94.50,127.00,0,0,,34,CHINAMAN,94,SDL ON,0,0,2,15,64,7,2,0,1,0,0,0,0,0
+98,3,382,1,11,Bangladesh,Mahedi Hasan,Tabraiz Shamsi,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,152422,-126.50,64.00,1,0,,31,WRONG ONE,52,BACKFOOT COVERDRIVE,0,0,3,15,65,7,3,0,1,0,0,0,0,0
+99,4,382,1,11,Bangladesh,Taskin Ahmed,Tabraiz Shamsi,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,152423,98.50,122.00,1,0,,34,CHINAMAN,84,OFF DRIVE,0,0,4,15,66,7,0,0,1,0,0,0,0,0
+100,5,382,1,11,Bangladesh,Mahedi Hasan,Tabraiz Shamsi,,16,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.5,1,1,0,152424,151.50,136.00,4,0,,34,CHINAMAN,58,PULL SHOT,0,0,5,15,70,7,0,0,1,0,0,0,0,0
+101,6,382,1,11,Bangladesh,Mahedi Hasan,Tabraiz Shamsi,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,152425,-117.50,99.00,1,0,,34,CHINAMAN,61,INSIDE OUT,0,0,6,15,71,7,0,0,1,0,0,0,0,0
+102,1,382,1,11,Bangladesh,Mahedi Hasan,Dwaine Pretorius,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,152426,133.50,-3.00,1,0,,8,OFF CUTTER,40,FLICK,0,0,1,16,72,7,1,0,1,0,0,0,0,0
+103,2,382,1,11,Bangladesh,Taskin Ahmed,Dwaine Pretorius,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,152427,71.50,83.00,1,0,,8,OFF CUTTER,6,BACKFOOT OFF DRIVE,0,0,2,16,73,7,0,0,1,0,0,0,0,0
+104,3,382,1,11,Bangladesh,Mahedi Hasan,Dwaine Pretorius,,17,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.3,1,1,0,152428,63.50,21.00,2,0,,8,OFF CUTTER,40,FLICK,0,0,3,16,75,7,0,0,1,0,0,0,0,0
+105,4,382,1,11,Bangladesh,Mahedi Hasan,Dwaine Pretorius,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,152429,59.50,35.00,0,0,,8,OFF CUTTER,27,FORWARD PUSH,0,0,4,16,75,7,0,0,1,0,0,0,0,0
+106,5,382,1,11,Bangladesh,Mahedi Hasan,Dwaine Pretorius,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,152430,47.50,-74.00,1,0,,8,OFF CUTTER,55,SWEEP SHOT,0,0,5,16,76,7,0,0,1,0,0,0,0,0
+107,6,382,1,11,Bangladesh,Taskin Ahmed,Dwaine Pretorius,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,152431,72.50,140.00,1,0,,8,OFF CUTTER,84,OFF DRIVE,0,0,6,16,77,7,0,0,1,0,0,0,0,0
+108,1,382,1,11,Bangladesh,Taskin Ahmed,Tabraiz Shamsi,,18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,152432,-71.50,66.00,0,0,,34,CHINAMAN,47,ON DRIVE,0,0,1,17,77,7,1,0,1,0,0,0,0,0
+109,2,382,1,11,Bangladesh,Taskin Ahmed,Tabraiz Shamsi,,18,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,17.2,1,1,0,152433,-71.50,66.00,0,0,,34,CHINAMAN,27,FORWARD PUSH,0,0,2,17,77,8,0,0,1,0,0,0,0,0
+110,3,382,1,11,Bangladesh,Mahedi Hasan,Tabraiz Shamsi,,18,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.3,1,1,0,152434,-140.50,163.00,6,0,,34,CHINAMAN,122,SDL OFF,0,0,3,17,83,8,0,0,1,0,0,0,0,0
+111,4,382,1,11,Bangladesh,Mahedi Hasan,Tabraiz Shamsi,,18,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.4,1,1,0,152435,11.50,-11.00,0,0,,34,CHINAMAN,55,SWEEP SHOT,0,0,4,17,83,8,0,0,1,0,0,0,0,0
+112,5,382,1,11,Bangladesh,Mahedi Hasan,Tabraiz Shamsi,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,152436,11.50,-11.00,0,0,,34,CHINAMAN,56,REVERSE SWEEP,0,0,5,17,83,8,0,0,1,0,0,0,0,0
+113,6,382,1,11,Bangladesh,Mahedi Hasan,Tabraiz Shamsi,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,152437,-119.50,104.00,1,0,,34,CHINAMAN,89,SD COVER,0,0,6,17,84,8,0,0,1,0,0,0,0,0
+114,1,382,1,11,Bangladesh,Mahedi Hasan,Anrich Nortje,,19,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught & Bowled,WICKET,1,18.1,1,1,0,152438,-119.50,104.00,0,0,,38,STRAIGHT BALL,18,SLOG SHOT,0,0,1,18,84,9,1,0,1,0,0,0,0,0
+115,2,382,1,11,Bangladesh,Nasum Ahmed,Anrich Nortje,,19,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Hit Wicket,WICKET,1,18.2,1,1,0,152439,-119.50,104.00,0,0,,38,STRAIGHT BALL,19,BACKFOOT STRAIGHT DRIVE,0,0,2,18,84,10,0,0,1,0,0,0,0,0
+116,1,382,2,5,South Africa,Quinton De Kock,Taskin Ahmed,,1,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.1,2,1,1,152440,,,1,0,,41,INSWINGER,40,FLICK,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+117,2,382,2,5,South Africa,Quinton De Kock,Taskin Ahmed,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,152441,15.50,120.00,1,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,2,0,2,0,0,0,0,0,0,0,0,0
+118,3,382,2,5,South Africa,Reeza Hendricks,Taskin Ahmed,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,152442,-20.50,50.00,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,3,0,2,0,0,0,0,0,0,0,0,0
+119,4,382,2,5,South Africa,Reeza Hendricks,Taskin Ahmed,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,152443,-20.50,50.00,0,0,,39,ANGLED IN,40,FLICK,0,0,4,0,2,0,0,0,0,0,0,0,0,0
+120,5,382,2,5,South Africa,Reeza Hendricks,Taskin Ahmed,,1,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.4,2,1,0,152444,-176.50,78.00,4,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,5,0,6,0,0,0,0,0,0,0,0,0
+121,6,382,2,5,South Africa,Reeza Hendricks,Taskin Ahmed,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,152445,-24.50,45.00,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,6,0,6,0,0,0,0,0,0,0,0,0
+122,7,382,2,5,South Africa,Reeza Hendricks,Taskin Ahmed,,1,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,0.6,2,1,0,152446,-24.50,45.00,0,0,,43,NIPBACKER,49,FORWARD DEFENCE,0,0,7,0,6,1,1,0,0,0,0,0,0,0
+123,1,382,2,5,South Africa,Quinton De Kock,Shoriful Islam,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,152447,25.50,47.00,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,1,1,6,1,2,0,0,0,0,0,0,0
+124,2,382,2,5,South Africa,Quinton De Kock,Shoriful Islam,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,152448,75.50,-1.00,0,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,2,1,6,1,0,0,0,0,0,0,0,0
+125,3,382,2,5,South Africa,Quinton De Kock,Shoriful Islam,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,152449,60.50,-11.00,0,0,,39,ANGLED IN,40,FLICK,0,0,3,1,6,1,0,0,0,0,0,0,0,0
+126,4,382,2,5,South Africa,Quinton De Kock,Shoriful Islam,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,152450,83.50,-65.00,1,0,,38,STRAIGHT BALL,16,BACKFOOT SQUARE DRIVE,0,0,4,1,7,1,0,0,0,0,0,0,0,0
+127,5,382,2,5,South Africa,Rassie van der Dussen,Shoriful Islam,,2,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,1.5,2,1,1,152451,83.50,-65.00,1,0,,41,INSWINGER,105,LEFT ALONE,0,0,5,1,8,1,0,0,0,0,0,0,0,0
+128,6,382,2,5,South Africa,Rassie van der Dussen,Shoriful Islam,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,152452,-72.50,71.00,0,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,6,1,8,1,0,0,0,0,0,0,0,0
+129,7,382,2,5,South Africa,Rassie van der Dussen,Shoriful Islam,,2,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,1.6,2,1,1,152453,51.50,-7.00,1,0,,38,STRAIGHT BALL,54,LEG GLANCE,0,0,7,1,9,1,0,0,0,0,0,0,0,0
+130,1,382,2,5,South Africa,Rassie van der Dussen,Taskin Ahmed,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,152454,-75.50,106.00,1,0,,38,STRAIGHT BALL,84,OFF DRIVE,0,0,1,2,10,1,1,0,0,0,0,0,0,0
+131,2,382,2,5,South Africa,Quinton De Kock,Taskin Ahmed,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,152455,-57.50,90.00,0,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,2,2,10,1,0,0,0,0,0,0,0,0
+132,3,382,2,5,South Africa,Quinton De Kock,Taskin Ahmed,,3,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,152456,-131.50,33.00,2,0,,30,ANGLED ACROSS,40,FLICK,0,0,3,2,12,1,0,0,0,0,0,0,0,0
+133,4,382,2,5,South Africa,Quinton De Kock,Taskin Ahmed,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,152457,63.50,42.00,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,4,2,12,1,0,0,0,0,0,0,0,0
+134,5,382,2,5,South Africa,Quinton De Kock,Taskin Ahmed,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,152458,63.50,44.00,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,5,2,12,1,0,0,0,0,0,0,0,0
+135,6,382,2,5,South Africa,Quinton De Kock,Taskin Ahmed,,3,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.6,2,1,0,152459,-168.50,-42.00,4,0,,36,BOUNCER,58,PULL SHOT,1,0,6,2,16,1,0,0,0,0,0,0,0,0
+136,1,382,2,5,South Africa,Rassie van der Dussen,Shoriful Islam,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,152460,-44.50,8.00,0,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,1,3,16,1,1,0,0,0,0,0,0,0
+137,2,382,2,5,South Africa,Rassie van der Dussen,Shoriful Islam,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,152461,54.50,24.00,0,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,2,3,16,1,0,0,0,0,0,0,0,0
+138,3,382,2,5,South Africa,Rassie van der Dussen,Shoriful Islam,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,152462,60.50,15.00,0,0,,38,STRAIGHT BALL,40,FLICK,0,0,3,3,16,1,0,0,0,0,0,0,0,0
+139,4,382,2,5,South Africa,Rassie van der Dussen,Shoriful Islam,,4,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.4,2,1,0,152463,163.50,-40.00,4,0,,38,STRAIGHT BALL,40,FLICK,0,0,4,3,20,1,0,0,0,0,0,0,0,0
+140,5,382,2,5,South Africa,Rassie van der Dussen,Shoriful Islam,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,152464,-75.50,57.00,0,0,,30,ANGLED ACROSS,52,BACKFOOT COVERDRIVE,0,0,5,3,20,1,0,0,0,0,0,0,0,0
+141,6,382,2,5,South Africa,Rassie van der Dussen,Shoriful Islam,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,152465,-76.50,-9.00,0,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,6,3,20,1,0,0,0,0,0,0,0,0
+142,1,382,2,5,South Africa,Quinton De Kock,Mahedi Hasan,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,152466,15.50,58.00,0,0,,31,WRONG ONE,84,OFF DRIVE,0,0,1,4,20,1,1,0,0,0,0,0,0,0
+143,2,382,2,5,South Africa,Quinton De Kock,Mahedi Hasan,,5,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.2,2,1,0,152467,187.50,77.00,4,0,,25,OFF SPIN,15,LOFT COVER,0,0,2,4,24,1,0,0,0,0,0,0,0,0
+144,3,382,2,5,South Africa,Quinton De Kock,Mahedi Hasan,,5,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.3,2,1,0,152468,94.50,-125.00,4,0,,25,OFF SPIN,56,REVERSE SWEEP,0,0,3,4,28,1,0,0,0,0,0,0,0,0
+145,4,382,2,5,South Africa,Quinton De Kock,Mahedi Hasan,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,152469,61.50,59.00,0,0,,23,ARM BALL,51,FRONTFOOT COVERDRIVE,0,0,4,4,28,1,0,0,0,0,0,0,0,0
+146,5,382,2,5,South Africa,Quinton De Kock,Mahedi Hasan,,5,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,4.5,2,1,0,152470,61.50,59.00,0,0,,23,ARM BALL,27,FORWARD PUSH,0,0,5,4,28,2,1,0,0,0,0,0,0,0
+147,6,382,2,5,South Africa,Aiden Markram,Mahedi Hasan,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,152471,57.50,31.00,0,0,,25,OFF SPIN,40,FLICK,0,0,6,4,28,2,2,0,0,0,0,0,0,0
+148,1,382,2,5,South Africa,Rassie van der Dussen,Taskin Ahmed,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,152472,57.50,31.00,0,0,,38,STRAIGHT BALL,50,BACKFOOT DEFENCE,0,0,1,5,28,2,3,0,0,0,0,0,0,0
+149,2,382,2,5,South Africa,Rassie van der Dussen,Taskin Ahmed,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,152473,-79.50,88.00,1,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,2,5,29,2,0,0,0,0,0,0,0,0
+150,3,382,2,5,South Africa,Aiden Markram,Taskin Ahmed,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,152474,51.50,80.00,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,3,5,29,2,0,0,0,0,0,0,0,0
+151,4,382,2,5,South Africa,Aiden Markram,Taskin Ahmed,,6,4,4 (BY),4,0,0,0,0,1,4,0,0,1,0,1,0,0,,,0,5.4,2,1,1,152475,51.50,80.00,4,0,,43,NIPBACKER,97,BACKFOOT PUSH,0,0,4,5,33,2,0,0,0,0,0,0,0,0
+152,5,382,2,5,South Africa,Aiden Markram,Taskin Ahmed,,6,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.5,2,1,0,152476,-19.50,-32.00,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,5,5,33,3,1,0,0,0,0,0,0,0
+153,6,382,2,5,South Africa,Temba Bavuma,Taskin Ahmed,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,152477,-19.50,-32.00,0,0,,43,NIPBACKER,50,BACKFOOT DEFENCE,0,0,6,5,33,3,2,0,0,0,0,0,0,0
+154,1,382,2,5,South Africa,Rassie van der Dussen,Shoriful Islam,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,152478,-56.50,66.00,0,0,,30,ANGLED ACROSS,49,FORWARD DEFENCE,0,0,1,6,33,3,3,0,0,0,0,0,0,0
+155,2,382,2,5,South Africa,Rassie van der Dussen,Shoriful Islam,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,152479,-62.50,51.00,0,0,,30,ANGLED ACROSS,49,FORWARD DEFENCE,0,0,2,6,33,3,0,0,0,0,0,0,0,0
+156,3,382,2,5,South Africa,Rassie van der Dussen,Shoriful Islam,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,152480,72.50,-5.00,1,0,,30,ANGLED ACROSS,40,FLICK,0,0,3,6,34,3,0,0,0,0,0,0,0,0
+157,4,382,2,5,South Africa,Temba Bavuma,Shoriful Islam,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,152481,-73.50,-9.00,0,0,,30,ANGLED ACROSS,59,SQUARE DRIVE,0,0,4,6,34,3,0,0,0,0,0,0,0,0
+158,5,382,2,5,South Africa,Temba Bavuma,Shoriful Islam,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,152482,-42.50,24.00,0,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,5,6,34,3,0,0,0,0,0,0,0,0
+159,6,382,2,5,South Africa,Temba Bavuma,Shoriful Islam,,7,6,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,152483,-161.50,68.00,3,0,,30,ANGLED ACROSS,89,SD COVER,0,0,6,6,37,3,0,0,0,0,0,0,0,0
+160,1,382,2,5,South Africa,Temba Bavuma,Taskin Ahmed,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,152484,50.50,2.00,0,0,,39,ANGLED IN,40,FLICK,0,0,1,7,37,3,1,0,0,0,0,0,0,0
+161,2,382,2,5,South Africa,Temba Bavuma,Taskin Ahmed,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,152485,-61.50,84.00,0,0,,39,ANGLED IN,84,OFF DRIVE,0,0,2,7,37,3,0,0,0,0,0,0,0,0
+162,3,382,2,5,South Africa,Temba Bavuma,Taskin Ahmed,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,152486,-25.50,53.00,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,3,7,37,3,0,0,0,0,0,0,0,0
+163,4,382,2,5,South Africa,Temba Bavuma,Taskin Ahmed,,8,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.4,2,1,0,152487,-148.50,144.00,4,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,4,7,41,3,0,0,0,0,0,0,0,0
+164,5,382,2,5,South Africa,Temba Bavuma,Taskin Ahmed,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,152488,-50.50,-19.00,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,5,7,41,3,0,0,0,0,0,0,0,0
+165,6,382,2,5,South Africa,Temba Bavuma,Taskin Ahmed,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,152489,-19.50,48.00,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,6,7,41,3,0,0,0,0,0,0,0,0
+166,1,382,2,5,South Africa,Rassie van der Dussen,Nasum Ahmed,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,152490,-103.50,118.00,1,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,1,8,42,3,1,0,0,0,0,0,0,0
+167,2,382,2,5,South Africa,Temba Bavuma,Nasum Ahmed,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,152491,-67.50,64.00,0,0,,10,ORTHODOX,52,BACKFOOT COVERDRIVE,0,0,2,8,42,3,0,0,0,0,0,0,0,0
+168,3,382,2,5,South Africa,Temba Bavuma,Nasum Ahmed,,9,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,152492,-114.50,-48.00,2,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,3,8,44,3,0,0,0,0,0,0,0,0
+169,4,382,2,5,South Africa,Temba Bavuma,Nasum Ahmed,,9,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,8.4,2,1,0,152493,182.50,84.00,6,0,,10,ORTHODOX,58,PULL SHOT,0,0,4,8,50,3,0,1,1,0,1,0,0,0
+170,5,382,2,5,South Africa,Temba Bavuma,Nasum Ahmed,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,152494,-13.50,61.00,0,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,5,8,50,3,0,0,1,0,0,0,0,0
+171,6,382,2,5,South Africa,Temba Bavuma,Nasum Ahmed,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,152495,38.50,33.00,0,0,,10,ORTHODOX,50,BACKFOOT DEFENCE,0,0,6,8,50,3,0,0,1,0,0,0,0,0
+172,1,382,2,5,South Africa,Rassie van der Dussen,Shoriful Islam,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,152496,114.50,-17.00,1,0,,38,STRAIGHT BALL,37,SD FLICK,0,0,1,9,51,3,1,0,1,0,0,0,0,0
+173,2,382,2,5,South Africa,Temba Bavuma,Shoriful Islam,,10,2,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,152497,121.50,132.00,3,0,,39,ANGLED IN,74,SD ON,0,0,2,9,54,3,0,0,1,0,0,0,0,0
+174,3,382,2,5,South Africa,Rassie van der Dussen,Shoriful Islam,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,152498,30.50,15.00,0,0,,38,STRAIGHT BALL,77,SD DEFENCE,0,0,3,9,54,3,0,0,1,0,0,0,0,0
+175,4,382,2,5,South Africa,Rassie van der Dussen,Shoriful Islam,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,152499,113.50,-27.00,1,0,,36,BOUNCER,58,PULL SHOT,1,0,4,9,55,3,0,0,1,0,0,0,0,0
+176,5,382,2,5,South Africa,Temba Bavuma,Shoriful Islam,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,152500,113.50,-27.00,0,0,,38,STRAIGHT BALL,105,LEFT ALONE,0,0,5,9,55,3,0,0,1,0,0,0,0,0
+177,6,382,2,5,South Africa,Temba Bavuma,Shoriful Islam,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,152501,-78.50,61.00,0,0,,39,ANGLED IN,51,FRONTFOOT COVERDRIVE,0,0,6,9,55,3,0,0,1,0,0,0,0,0
+178,1,382,2,5,South Africa,Rassie van der Dussen,Mahedi Hasan,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,152502,112.50,46.00,1,0,,25,OFF SPIN,40,FLICK,0,0,1,10,56,3,1,0,1,0,0,0,0,0
+179,2,382,2,5,South Africa,Temba Bavuma,Mahedi Hasan,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,152503,89.50,134.00,1,0,,25,OFF SPIN,47,ON DRIVE,0,0,2,10,57,3,0,0,1,0,0,0,0,0
+180,3,382,2,5,South Africa,Rassie van der Dussen,Mahedi Hasan,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,152504,103.50,131.00,1,0,,25,OFF SPIN,74,SD ON,0,0,3,10,58,3,0,0,1,0,0,0,0,0
+181,4,382,2,5,South Africa,Temba Bavuma,Mahedi Hasan,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,152505,103.50,131.00,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,4,10,58,3,0,0,1,0,0,0,0,0
+182,5,382,2,5,South Africa,Temba Bavuma,Mahedi Hasan,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,152506,81.50,141.00,1,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,5,10,59,3,0,0,1,0,0,0,0,0
+183,6,382,2,5,South Africa,Rassie van der Dussen,Mahedi Hasan,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,152507,-135.50,-41.00,1,0,,23,ARM BALL,36,CUT SHOT,0,0,6,10,60,3,0,0,1,0,0,0,0,0
+184,1,382,2,5,South Africa,Rassie van der Dussen,Soumya Sarkar,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,152508,91.50,-43.00,1,0,,39,ANGLED IN,40,FLICK,0,0,1,11,61,3,1,0,1,0,0,0,0,0
+185,2,382,2,5,South Africa,Temba Bavuma,Soumya Sarkar,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,152509,52.50,62.00,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,2,11,62,3,0,0,1,0,0,0,0,0
+186,3,382,2,5,South Africa,Rassie van der Dussen,Soumya Sarkar,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,152510,-77.50,60.00,0,0,,38,STRAIGHT BALL,52,BACKFOOT COVERDRIVE,0,0,3,11,62,3,0,0,1,0,0,0,0,0
+187,4,382,2,5,South Africa,Rassie van der Dussen,Soumya Sarkar,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,152511,-76.50,85.00,1,0,,38,STRAIGHT BALL,84,OFF DRIVE,0,0,4,11,63,3,0,0,1,0,0,0,0,0
+188,5,382,2,5,South Africa,Temba Bavuma,Soumya Sarkar,,12,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.5,2,1,0,152512,54.50,207.00,4,0,,38,STRAIGHT BALL,11,LOFT ON,0,0,5,11,67,3,0,0,1,0,0,0,0,0
+189,6,382,2,5,South Africa,Temba Bavuma,Soumya Sarkar,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,152513,-36.50,-6.00,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,6,11,67,3,0,0,1,0,0,0,0,0
+190,1,382,2,5,South Africa,Rassie van der Dussen,Nasum Ahmed,,13,1,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,152514,121.50,130.00,3,0,,10,ORTHODOX,74,SD ON,0,0,1,12,70,3,1,0,1,0,0,0,0,0
+191,2,382,2,5,South Africa,Temba Bavuma,Nasum Ahmed,,13,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,12.2,2,1,1,152515,121.50,130.00,1,0,,23,ARM BALL,54,LEG GLANCE,0,0,2,12,71,3,0,0,1,0,0,0,0,0
+192,3,382,2,5,South Africa,Temba Bavuma,Nasum Ahmed,,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,152516,-57.50,0.00,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,3,12,71,3,0,0,1,0,0,0,0,0
+193,4,382,2,5,South Africa,Temba Bavuma,Nasum Ahmed,,13,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.3,2,1,0,152517,-131.50,-88.00,4,0,,10,ORTHODOX,36,CUT SHOT,0,0,4,12,75,3,0,0,1,0,0,0,0,0
+194,5,382,2,5,South Africa,Temba Bavuma,Nasum Ahmed,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,152518,70.50,87.00,1,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,5,12,76,3,0,0,1,0,0,0,0,0
+195,6,382,2,5,South Africa,Rassie van der Dussen,Nasum Ahmed,,13,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.5,2,1,0,152519,155.50,137.00,4,0,,10,ORTHODOX,94,SDL ON,0,0,6,12,80,3,0,0,1,0,0,0,0,0
+196,7,382,2,5,South Africa,Rassie van der Dussen,Nasum Ahmed,,13,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,12.6,2,1,0,152520,61.50,138.00,0,0,,10,ORTHODOX,94,SDL ON,0,0,7,12,80,4,1,0,1,0,0,0,0,0
+197,1,382,2,5,South Africa,David Miller,Mahedi Hasan,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,152521,103.50,121.00,1,0,,25,OFF SPIN,84,OFF DRIVE,0,0,1,13,81,4,2,0,1,0,0,0,0,0
+198,2,382,2,5,South Africa,Temba Bavuma,Mahedi Hasan,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,152522,45.50,-45.00,1,0,,25,OFF SPIN,40,FLICK,0,0,2,13,82,4,0,0,1,0,0,0,0,0
+199,3,382,2,5,South Africa,David Miller,Mahedi Hasan,,14,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.3,2,1,0,152523,-159.50,137.00,4,0,,25,OFF SPIN,18,SLOG SHOT,0,0,3,13,86,4,0,0,1,0,0,0,0,0

@@ -1,0 +1,246 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,682,1,74,Pakistan Women,Muneeba Ali,Renuka Singh,,1,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.1,1,1,1,250127,121.71,-52.82,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+1,2,682,1,74,Pakistan Women,Muneeba Ali,Renuka Singh,,1,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,250129,121.71,-52.82,2,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,2,0,3,0,0,0,0,0,0,0,0,0
+2,3,682,1,74,Pakistan Women,Muneeba Ali,Renuka Singh,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,250132,46.20,87.15,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,3,0,3,0,0,0,0,0,0,0,0,0
+3,4,682,1,74,Pakistan Women,Muneeba Ali,Renuka Singh,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,250134,119.41,-20.59,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,0,4,0,0,0,0,0,0,0,0,0
+4,5,682,1,74,Pakistan Women,Sidra Ameen,Renuka Singh,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,250136,-77.66,-36.71,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,0,4,0,0,0,0,0,0,0,0,0
+5,6,682,1,74,Pakistan Women,Sidra Ameen,Renuka Singh,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,250138,-77.66,-36.71,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,0,4,0,0,0,0,0,0,0,0,0
+6,7,682,1,74,Pakistan Women,Sidra Ameen,Renuka Singh,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,250140,-78.12,53.08,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,7,0,5,0,0,0,0,0,0,0,0,0
+7,1,682,1,74,Pakistan Women,Sidra Ameen,Deepti Sharma,,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,250142,-126.00,19.93,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,1,6,0,1,0,0,0,0,0,0,0
+8,2,682,1,74,Pakistan Women,Muneeba Ali,Deepti Sharma,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,250144,97.77,-6.32,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,1,6,0,0,0,0,0,0,0,0,0
+9,3,682,1,74,Pakistan Women,Muneeba Ali,Deepti Sharma,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,250146,114.34,81.63,1,0,,,Knuckleball,114,STEP DOWN LOFTED COVER DRIVE,0,0,3,1,7,0,0,0,0,0,0,0,0,0
+10,4,682,1,74,Pakistan Women,Sidra Ameen,Deepti Sharma,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,250148,118.49,83.01,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,4,1,8,0,0,0,0,0,0,0,0,0
+11,5,682,1,74,Pakistan Women,Muneeba Ali,Deepti Sharma,,2,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,250150,118.95,80.71,2,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,1,10,0,0,0,0,0,0,0,0,0
+12,6,682,1,74,Pakistan Women,Muneeba Ali,Deepti Sharma,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,250152,118.95,80.71,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,1,10,0,0,0,0,0,0,0,0,0
+13,1,682,1,74,Pakistan Women,Sidra Ameen,Renuka Singh,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,250154,-52.33,96.36,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,1,2,10,0,1,0,0,0,0,0,0,0
+14,2,682,1,74,Pakistan Women,Sidra Ameen,Renuka Singh,,3,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.2,1,1,0,250156,-176.65,-22.43,4,0,,,Knuckleball,36,CUT SHOT,0,0,2,2,14,0,0,0,0,0,0,0,0,0
+15,3,682,1,74,Pakistan Women,Sidra Ameen,Renuka Singh,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,250158,-66.15,24.07,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,2,15,0,0,0,0,0,0,0,0,0
+16,4,682,1,74,Pakistan Women,Muneeba Ali,Renuka Singh,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,250160,49.42,111.09,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,4,2,15,0,0,0,0,0,0,0,0,0
+17,5,682,1,74,Pakistan Women,Muneeba Ali,Renuka Singh,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,250162,-59.70,99.12,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,5,2,16,0,0,0,0,0,0,0,0,0
+18,6,682,1,74,Pakistan Women,Sidra Ameen,Renuka Singh,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,250164,-59.70,99.12,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,2,16,0,0,0,0,0,0,0,0,0
+19,1,682,1,74,Pakistan Women,Muneeba Ali,Deepti Sharma,,4,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.1,1,1,0,250166,-113.57,208.71,4,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,1,3,20,0,1,0,0,0,0,0,0,0
+20,2,682,1,74,Pakistan Women,Muneeba Ali,Deepti Sharma,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,250168,151.64,50.78,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,3,21,0,0,0,0,0,0,0,0,0
+21,3,682,1,74,Pakistan Women,Sidra Ameen,Deepti Sharma,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,250170,151.64,50.78,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,3,21,0,0,0,0,0,0,0,0,0
+22,4,682,1,74,Pakistan Women,Sidra Ameen,Deepti Sharma,,4,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,250172,-91.47,-72.16,2,0,,,Knuckleball,56,REVERSE SWEEP,0,0,4,3,23,0,0,0,0,0,0,0,0,0
+23,5,682,1,74,Pakistan Women,Sidra Ameen,Deepti Sharma,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,250174,71.98,132.27,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,5,3,24,0,0,0,0,0,0,0,0,0
+24,6,682,1,74,Pakistan Women,Muneeba Ali,Deepti Sharma,,4,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,250176,133.68,51.70,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,3,25,0,0,0,0,0,0,0,0,0
+25,1,682,1,74,Pakistan Women,Muneeba Ali,Pooja Vastrakar,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,250178,-127.38,60.45,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,1,4,26,0,1,0,0,0,0,0,0,0
+26,2,682,1,74,Pakistan Women,Sidra Ameen,Pooja Vastrakar,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,250180,-100.22,47.09,0,0,,,Knuckleball,89,STEP DOWN COVER DRIVE,0,0,2,4,26,0,0,0,0,0,0,0,0,0
+27,3,682,1,74,Pakistan Women,Sidra Ameen,Pooja Vastrakar,,5,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,4.3,1,1,0,250181,-100.22,47.09,0,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-WOMENS-2022/India-Women-VS-Pakistan-Women-(07-Oct-2022)/File_1-5-250181.jpg,,Knuckleball,36,CUT SHOT,0,0,3,4,26,1,1,0,0,0,0,0,0,0
+28,4,682,1,74,Pakistan Women,Bismah Maroof,Pooja Vastrakar,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,250184,14.43,51.24,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,4,26,1,2,0,0,0,0,0,0,0
+29,5,682,1,74,Pakistan Women,Bismah Maroof,Pooja Vastrakar,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,250186,-61.54,30.06,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,4,27,1,0,0,0,0,0,0,0,0
+30,6,682,1,74,Pakistan Women,Muneeba Ali,Pooja Vastrakar,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,250188,-103.90,81.63,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,4,28,1,0,0,0,0,0,0,0,0
+31,1,682,1,74,Pakistan Women,Muneeba Ali,Deepti Sharma,,6,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,250190,-87.33,-61.11,2,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,5,30,1,1,0,0,0,0,0,0,0
+32,2,682,1,74,Pakistan Women,Muneeba Ali,Deepti Sharma,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,250192,95.46,37.42,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,5,30,1,0,0,0,0,0,0,0,0
+33,3,682,1,74,Pakistan Women,Muneeba Ali,Deepti Sharma,,6,3,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,0,,,0,5.3,1,1,1,250194,95.46,37.42,2,0,,,Knuckleball,105,LEFT ALONE,0,0,3,5,32,1,0,0,0,0,0,0,0,0
+34,4,682,1,74,Pakistan Women,Bismah Maroof,Deepti Sharma,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,250196,60.01,-47.29,1,0,,,Knuckleball,35,LATE CUT,0,0,4,5,33,1,0,0,0,0,0,0,0,0
+35,5,682,1,74,Pakistan Women,Muneeba Ali,Deepti Sharma,,6,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Stumped,WICKET,1,5.4,1,1,0,250197,60.01,-47.29,0,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,5,5,33,2,1,0,0,0,0,0,0,0
+36,6,682,1,74,Pakistan Women,Omaima Sohail,Deepti Sharma,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,250198,60.01,-47.29,0,0,,25,OFF SPIN,50,BACKFOOT DEFENCE,0,0,6,5,33,2,2,0,0,0,0,0,0,0
+37,7,682,1,74,Pakistan Women,Omaima Sohail,Deepti Sharma,,6,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,5.6,1,1,0,250201,60.01,-47.29,0,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-WOMENS-2022/India-Women-VS-Pakistan-Women-(07-Oct-2022)/File_1-6-250201.jpg,25,OFF SPIN,55,SWEEP SHOT,0,0,7,5,33,3,3,0,0,0,0,0,0,0
+38,1,682,1,74,Pakistan Women,Bismah Maroof,D Hemalatha,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,250204,60.01,-47.29,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,1,6,33,3,4,0,0,0,0,0,0,0
+39,2,682,1,74,Pakistan Women,Bismah Maroof,D Hemalatha,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,250206,-143.96,-20.59,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,2,6,34,3,0,0,0,0,0,0,0,0
+40,3,682,1,74,Pakistan Women,Nida Dar,D Hemalatha,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,250208,-141.66,65.97,1,0,,25,OFF SPIN,52,BACKFOOT COVERDRIVE,0,0,3,6,35,3,0,0,0,0,0,0,0,0
+41,4,682,1,74,Pakistan Women,Bismah Maroof,D Hemalatha,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,250210,147.49,26.37,1,0,,25,OFF SPIN,52,BACKFOOT COVERDRIVE,0,0,4,6,36,3,0,0,0,0,0,0,0,0
+42,5,682,1,74,Pakistan Women,Nida Dar,D Hemalatha,,7,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,250212,-62.92,-96.10,2,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,5,6,38,3,0,0,0,0,0,0,0,0
+43,6,682,1,74,Pakistan Women,Nida Dar,D Hemalatha,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,250214,-140.28,-23.81,1,0,,25,OFF SPIN,59,FRONTFOOT SQUARE DRIVE,0,0,6,6,39,3,0,0,0,0,0,0,0,0
+44,1,682,1,74,Pakistan Women,Nida Dar,Rajeshwari Gayakwad,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,250216,-136.13,53.08,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,7,40,3,1,0,0,0,0,0,0,0
+45,2,682,1,74,Pakistan Women,Bismah Maroof,Rajeshwari Gayakwad,,8,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,250219,69.68,148.85,2,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,2,7,42,3,0,0,0,0,0,0,0,0
+46,3,682,1,74,Pakistan Women,Bismah Maroof,Rajeshwari Gayakwad,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,250220,58.63,24.07,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,7,43,3,0,0,0,0,0,0,0,0
+47,4,682,1,74,Pakistan Women,Nida Dar,Rajeshwari Gayakwad,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,250222,-134.75,65.97,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,7,44,3,0,0,0,0,0,0,0,0
+48,5,682,1,74,Pakistan Women,Bismah Maroof,Rajeshwari Gayakwad,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,250225,1.54,10.72,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,7,44,3,0,0,0,0,0,0,0,0
+49,6,682,1,74,Pakistan Women,Bismah Maroof,Rajeshwari Gayakwad,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,250226,47.58,18.55,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,7,45,3,0,0,0,0,0,0,0,0
+50,1,682,1,74,Pakistan Women,Bismah Maroof,Radha Yadav,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,250229,45.74,26.37,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,8,45,3,1,0,0,0,0,0,0,0
+51,2,682,1,74,Pakistan Women,Bismah Maroof,Radha Yadav,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,250230,-145.80,30.98,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,2,8,46,3,0,0,0,0,0,0,0,0
+52,3,682,1,74,Pakistan Women,Nida Dar,Radha Yadav,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,250232,47.12,-60.65,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,8,47,3,0,0,0,0,0,0,0,0
+53,4,682,1,74,Pakistan Women,Bismah Maroof,Radha Yadav,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,250235,-73.51,-10.92,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,8,48,3,0,0,0,0,0,0,0,0
+54,5,682,1,74,Pakistan Women,Nida Dar,Radha Yadav,,9,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.5,1,1,0,250236,161.77,-61.11,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,8,52,3,0,1,1,0,1,0,0,0
+55,6,682,1,74,Pakistan Women,Nida Dar,Radha Yadav,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,250238,-79.96,-11.38,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,8,53,3,0,0,1,0,0,0,0,0
+56,1,682,1,74,Pakistan Women,Nida Dar,Rajeshwari Gayakwad,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,250240,-80.88,26.37,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,9,54,3,1,0,1,0,0,0,0,0
+57,2,682,1,74,Pakistan Women,Bismah Maroof,Rajeshwari Gayakwad,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,250243,-62.00,149.31,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,2,9,55,3,0,0,1,0,0,0,0,0
+58,3,682,1,74,Pakistan Women,Nida Dar,Rajeshwari Gayakwad,,10,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.3,1,1,0,250244,83.95,200.42,4,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,3,9,59,3,0,0,1,0,0,0,0,0
+59,4,682,1,74,Pakistan Women,Nida Dar,Rajeshwari Gayakwad,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,250246,-71.67,-20.13,0,0,,,Knuckleball,35,LATE CUT,0,0,4,9,59,3,0,0,1,0,0,0,0,0
+60,5,682,1,74,Pakistan Women,Nida Dar,Rajeshwari Gayakwad,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,250248,-5.37,56.76,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,9,59,3,0,0,1,0,0,0,0,0
+61,6,682,1,74,Pakistan Women,Nida Dar,Rajeshwari Gayakwad,,10,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,250250,-110.35,-62.95,2,0,,,Knuckleball,36,CUT SHOT,0,0,6,9,61,3,0,0,1,0,0,0,0,0
+63,1,682,1,74,Pakistan Women,Bismah Maroof,Pooja Vastrakar,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,250251,79.81,-9.08,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,10,61,3,1,0,1,0,0,0,0,0
+64,2,682,1,74,Pakistan Women,Bismah Maroof,Pooja Vastrakar,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,250254,29.16,-121.88,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,10,62,3,0,0,1,0,0,0,0,0
+65,3,682,1,74,Pakistan Women,Nida Dar,Pooja Vastrakar,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,250256,-123.24,-12.76,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,10,63,3,0,0,1,0,0,0,0,0
+66,4,682,1,74,Pakistan Women,Bismah Maroof,Pooja Vastrakar,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,250258,48.96,36.50,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,10,63,3,0,0,1,0,0,0,0,0
+67,5,682,1,74,Pakistan Women,Bismah Maroof,Pooja Vastrakar,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,250260,-143.04,55.38,1,0,,,Knuckleball,70,STEP DOWN PULL SHOT,0,0,5,10,64,3,0,0,1,0,0,0,0,0
+68,6,682,1,74,Pakistan Women,Nida Dar,Pooja Vastrakar,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,250262,-143.04,55.38,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,10,64,3,0,0,1,0,0,0,0,0
+69,1,682,1,74,Pakistan Women,Bismah Maroof,D Hemalatha,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,250264,-44.97,-48.22,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,11,65,3,1,0,1,0,0,0,0,0
+70,2,682,1,74,Pakistan Women,Nida Dar,D Hemalatha,,12,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.2,1,1,0,250266,192.15,63.21,4,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,2,11,69,3,0,0,1,0,0,0,0,0
+71,3,682,1,74,Pakistan Women,Nida Dar,D Hemalatha,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,250268,153.94,32.82,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,11,70,3,0,0,1,0,0,0,0,0
+72,4,682,1,74,Pakistan Women,Bismah Maroof,D Hemalatha,,12,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,250270,109.74,-30.26,2,0,,,Knuckleball,61,INSIDE OUT,0,0,4,11,72,3,0,0,1,0,0,0,0,0
+73,5,682,1,74,Pakistan Women,Bismah Maroof,D Hemalatha,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,250272,-84.10,144.24,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,5,11,73,3,0,0,1,0,0,0,0,0
+74,6,682,1,74,Pakistan Women,Nida Dar,D Hemalatha,,12,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,11.6,1,1,0,250274,16.73,223.44,6,0,,,Knuckleball,69,STEP DOWN LOFTED STRAIGHT DRIVE,0,0,6,11,79,3,0,0,1,0,0,0,0,0
+75,1,682,1,74,Pakistan Women,Bismah Maroof,Pooja Vastrakar,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,250276,16.73,223.44,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,12,79,3,1,0,1,0,0,0,0,0
+76,2,682,1,74,Pakistan Women,Bismah Maroof,Pooja Vastrakar,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,1,1,0,250278,-152.71,33.74,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,2,12,80,3,0,0,1,0,0,0,0,0
+77,3,682,1,74,Pakistan Women,Nida Dar,Pooja Vastrakar,,13,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.3,1,1,0,250280,156.70,127.21,4,0,,,Knuckleball,18,SLOG SHOT,0,0,3,12,84,3,0,0,1,0,0,0,0,0
+78,4,682,1,74,Pakistan Women,Nida Dar,Pooja Vastrakar,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,250282,-154.55,57.22,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,12,85,3,0,0,1,0,0,0,0,0
+79,5,682,1,74,Pakistan Women,Bismah Maroof,Pooja Vastrakar,,13,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.5,1,1,0,250284,-189.08,-44.53,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,12,89,3,0,0,1,0,0,0,0,0
+80,6,682,1,74,Pakistan Women,Bismah Maroof,Pooja Vastrakar,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,250286,-189.08,-44.53,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,6,12,89,3,0,0,1,0,0,0,0,0
+81,1,682,1,74,Pakistan Women,Nida Dar,Renuka Singh,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,250288,147.95,66.89,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,1,13,90,3,1,0,1,0,0,0,0,0
+82,2,682,1,74,Pakistan Women,Bismah Maroof,Renuka Singh,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,250290,34.69,111.55,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,2,13,91,3,0,0,1,0,0,0,0,0
+83,3,682,1,74,Pakistan Women,Nida Dar,Renuka Singh,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,250292,-144.88,53.54,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,13,92,3,0,0,1,0,0,0,0,0
+84,4,682,1,74,Pakistan Women,Bismah Maroof,Renuka Singh,,14,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.4,1,1,0,250294,133.22,-92.42,4,0,,,Knuckleball,44,GLIDE,0,0,4,13,96,3,0,0,1,0,0,0,0,0
+85,5,682,1,74,Pakistan Women,Bismah Maroof,Renuka Singh,,14,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,13.5,1,1,1,250297,133.22,-92.42,1,0,,,Knuckleball,105,LEFT ALONE,0,0,5,13,97,3,0,0,1,0,0,0,0,0
+86,6,682,1,74,Pakistan Women,Bismah Maroof,Renuka Singh,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,250298,10.28,53.08,0,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,6,13,97,3,0,0,1,0,0,0,0,0
+87,7,682,1,74,Pakistan Women,Bismah Maroof,Renuka Singh,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,250300,144.73,46.17,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,7,13,98,3,0,0,1,0,0,0,0,0
+88,1,682,1,74,Pakistan Women,Bismah Maroof,Radha Yadav,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,250302,-136.59,72.42,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,1,14,99,3,1,0,1,0,0,0,0,0
+89,2,682,1,74,Pakistan Women,Nida Dar,Radha Yadav,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,250304,-148.56,24.53,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,14,100,3,0,1,2,0,0,1,0,0
+90,3,682,1,74,Pakistan Women,Bismah Maroof,Radha Yadav,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,250306,-71.67,21.31,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,14,101,3,0,0,2,0,0,0,0,0
+91,4,682,1,74,Pakistan Women,Nida Dar,Radha Yadav,,15,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.4,1,1,0,250308,-10.90,230.35,4,0,,,Knuckleball,69,STEP DOWN LOFTED STRAIGHT DRIVE,0,0,4,14,105,3,0,0,2,0,0,0,0,0
+92,5,682,1,74,Pakistan Women,Nida Dar,Radha Yadav,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,250310,148.41,57.68,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,14,106,3,0,0,2,0,0,0,0,0
+93,6,682,1,74,Pakistan Women,Bismah Maroof,Radha Yadav,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,250312,-140.28,60.45,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,6,14,107,3,0,0,2,0,0,0,0,0
+94,1,682,1,74,Pakistan Women,Bismah Maroof,Renuka Singh,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,250314,13.05,112.47,1,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,1,15,108,3,1,0,2,0,0,0,0,0
+95,2,682,1,74,Pakistan Women,Nida Dar,Renuka Singh,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,250316,153.94,44.33,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,2,15,109,3,0,0,2,0,0,0,0,0
+96,3,682,1,74,Pakistan Women,Bismah Maroof,Renuka Singh,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,250318,48.50,39.73,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,15,109,3,0,0,2,0,0,0,0,0
+97,4,682,1,74,Pakistan Women,Bismah Maroof,Renuka Singh,,16,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,15.4,1,1,0,250319,39.29,-53.28,0,0,,,Knuckleball,24,REVERSE SCOOP,0,0,4,15,109,4,1,0,2,0,0,0,0,0
+98,5,682,1,74,Pakistan Women,Aliya Riaz,Renuka Singh,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,250322,50.80,163.58,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,5,15,110,4,2,0,2,0,0,0,0,0
+99,6,682,1,74,Pakistan Women,Nida Dar,Renuka Singh,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,250324,-91.93,137.80,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,6,15,111,4,0,0,2,0,0,0,0,0
+100,1,682,1,74,Pakistan Women,Nida Dar,Rajeshwari Gayakwad,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,250326,155.78,82.55,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,16,112,4,1,0,2,0,0,0,0,0
+101,2,682,1,74,Pakistan Women,Aliya Riaz,Rajeshwari Gayakwad,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,250328,-94.69,13.02,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,16,113,4,0,0,2,0,0,0,0,0
+102,3,682,1,74,Pakistan Women,Nida Dar,Rajeshwari Gayakwad,,17,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.3,1,1,0,250330,144.73,37.42,2,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,16,115,4,0,0,2,0,0,0,0,0
+103,4,682,1,74,Pakistan Women,Nida Dar,Rajeshwari Gayakwad,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,250332,-124.62,55.38,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,16,116,4,0,0,2,0,0,0,0,0
+104,5,682,1,74,Pakistan Women,Aliya Riaz,Rajeshwari Gayakwad,,17,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,250334,68.30,59.06,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,16,116,4,0,0,2,0,0,0,0,0
+105,6,682,1,74,Pakistan Women,Aliya Riaz,Rajeshwari Gayakwad,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,250336,-62.00,144.71,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,6,16,117,4,0,0,2,0,0,0,0,0
+106,1,682,1,74,Pakistan Women,Aliya Riaz,Pooja Vastrakar,,18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,250338,-62.00,144.71,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,17,117,4,1,0,2,0,0,0,0,0
+107,2,682,1,74,Pakistan Women,Aliya Riaz,Pooja Vastrakar,,18,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.2,1,1,0,250340,13.51,-146.75,4,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,2,17,121,4,0,0,2,0,0,0,0,0
+108,3,682,1,74,Pakistan Women,Aliya Riaz,Pooja Vastrakar,,18,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,17.3,1,1,0,250341,64.15,152.07,0,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,3,17,121,5,1,0,2,0,0,0,0,0
+109,4,682,1,74,Pakistan Women,Ayesha Naseem,Pooja Vastrakar,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,1,1,0,250344,-67.07,133.19,1,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,4,17,122,5,2,0,2,0,0,0,0,0
+110,5,682,1,74,Pakistan Women,Nida Dar,Pooja Vastrakar,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,250346,-159.15,51.70,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,17,123,5,0,0,2,0,0,0,0,0
+111,6,682,1,74,Pakistan Women,Ayesha Naseem,Pooja Vastrakar,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,250348,-39.90,163.12,1,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,6,17,124,5,0,0,2,0,0,0,0,0
+112,1,682,1,74,Pakistan Women,Ayesha Naseem,Rajeshwari Gayakwad,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,1,1,0,250350,-70.29,150.23,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,1,18,125,5,1,0,2,0,0,0,0,0
+113,2,682,1,74,Pakistan Women,Nida Dar,Rajeshwari Gayakwad,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.2,1,1,0,250352,-92.85,-12.76,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,18,125,5,0,0,2,0,0,0,0,0
+114,3,682,1,74,Pakistan Women,Nida Dar,Rajeshwari Gayakwad,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,250354,143.35,72.88,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,18,126,5,0,0,2,0,0,0,0,0
+115,4,682,1,74,Pakistan Women,Ayesha Naseem,Rajeshwari Gayakwad,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,1,1,0,250356,57.25,156.68,1,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,4,18,127,5,0,0,2,0,0,0,0,0
+116,5,682,1,74,Pakistan Women,Nida Dar,Rajeshwari Gayakwad,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,250359,57.25,156.68,0,0,,,Knuckleball,122,STEP DOWN LOFTED OFF DRIVE,0,0,5,18,127,5,0,0,2,0,0,0,0,0
+117,6,682,1,74,Pakistan Women,Nida Dar,Rajeshwari Gayakwad,,19,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,250360,149.33,-21.51,2,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,18,129,5,0,0,2,0,0,0,0,0
+118,1,682,1,74,Pakistan Women,Ayesha Naseem,Deepti Sharma,,20,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.1,1,1,0,250362,-47.27,211.47,4,0,,,Knuckleball,69,STEP DOWN LOFTED STRAIGHT DRIVE,0,0,1,19,133,5,1,0,2,0,0,0,0,0
+119,2,682,1,74,Pakistan Women,Ayesha Naseem,Deepti Sharma,,20,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,250364,57.71,176.47,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,2,19,134,5,0,0,2,0,0,0,0,0
+120,3,682,1,74,Pakistan Women,Nida Dar,Deepti Sharma,,20,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.3,1,1,0,250366,150.72,22.69,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,19,135,5,0,0,2,0,0,0,0,0
+121,4,682,1,74,Pakistan Women,Ayesha Naseem,Deepti Sharma,,20,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.4,1,1,0,250367,158.54,49.86,0,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,4,19,135,6,1,0,2,0,0,0,0,0
+122,5,682,1,74,Pakistan Women,Tuba Hassan,Deepti Sharma,,20,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.5,1,1,0,250370,157.62,21.77,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,19,136,6,2,0,2,0,0,0,0,0
+123,6,682,1,74,Pakistan Women,Nida Dar,Deepti Sharma,,20,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.6,1,1,0,250372,55.87,151.15,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,6,19,137,6,0,0,2,0,0,0,0,0
+125,1,682,2,52,India Women,S Meghana,Sadia Iqbal,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,250376,-29.31,18.55,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+126,2,682,2,52,India Women,S Meghana,Sadia Iqbal,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,250377,-15.96,11.64,0,0,,10,ORTHODOX,5,LOFTED OFF DRIVE,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+127,3,682,2,52,India Women,S Meghana,Sadia Iqbal,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,250378,-23.79,48.47,0,0,,10,ORTHODOX,50,BACKFOOT DEFENCE,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+128,4,682,2,52,India Women,S Meghana,Sadia Iqbal,,1,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,250380,126.31,-47.76,2,0,,10,ORTHODOX,94,STEP DOWN LOFTED ON DRIVE,0,0,4,0,2,0,0,0,0,0,0,0,0,0
+129,5,682,2,52,India Women,S Meghana,Sadia Iqbal,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,250382,-69.83,144.71,1,0,,10,ORTHODOX,5,LOFTED OFF DRIVE,0,0,5,0,3,0,0,0,0,0,0,0,0,0
+130,6,682,2,52,India Women,Smriti Mandhana,Sadia Iqbal,,1,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,250384,135.52,-31.18,2,0,,10,ORTHODOX,59,FRONTFOOT SQUARE DRIVE,0,0,6,0,5,0,0,0,0,0,0,0,0,0
+131,1,682,2,52,India Women,S Meghana,Nida Dar,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,250387,-48.19,7.50,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,1,5,0,1,0,0,0,0,0,0,0
+132,2,682,2,52,India Women,S Meghana,Nida Dar,,2,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,1.2,1,1,0,250388,28.24,223.90,6,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,2,1,11,0,0,0,0,0,0,0,0,0
+133,3,682,2,52,India Women,S Meghana,Nida Dar,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,250390,-111.27,58.60,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,1,12,0,0,0,0,0,0,0,0,0
+134,4,682,2,52,India Women,Smriti Mandhana,Nida Dar,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,250392,95.92,63.67,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,1,12,0,0,0,0,0,0,0,0,0
+135,5,682,2,52,India Women,Smriti Mandhana,Nida Dar,,2,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,250394,155.32,50.78,2,0,,,Knuckleball,61,INSIDE OUT,0,0,5,1,14,0,0,0,0,0,0,0,0,0
+136,6,682,2,52,India Women,Smriti Mandhana,Nida Dar,,2,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,250396,-159.62,51.24,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,1,15,0,0,0,0,0,0,0,0,0
+137,1,682,2,52,India Women,Smriti Mandhana,Sadia Iqbal,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,250398,81.19,146.09,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,1,2,16,0,1,0,0,0,0,0,0,0
+138,2,682,2,52,India Women,S Meghana,Sadia Iqbal,,3,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.2,1,1,0,250400,-141.20,161.74,4,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,2,2,20,0,0,0,0,0,0,0,0,0
+139,3,682,2,52,India Women,S Meghana,Sadia Iqbal,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,250402,-33.92,15.78,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,2,20,0,0,0,0,0,0,0,0,0
+140,4,682,2,52,India Women,S Meghana,Sadia Iqbal,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,250404,4.76,48.47,0,0,,,Knuckleball,77,STEP DOWN DEFENCE,0,0,4,2,20,0,0,0,0,0,0,0,0,0
+141,5,682,2,52,India Women,S Meghana,Sadia Iqbal,,3,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,2.5,1,1,1,250406,4.76,48.47,1,0,,,Knuckleball,54,LEG GLANCE,0,0,5,2,21,0,0,0,0,0,0,0,0,0
+142,6,682,2,52,India Women,S Meghana,Sadia Iqbal,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,250408,158.08,53.08,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,6,2,22,0,0,0,0,0,0,0,0,0
+143,7,682,2,52,India Women,Smriti Mandhana,Sadia Iqbal,,3,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,2.6,1,1,1,250411,158.08,53.08,1,0,,,Knuckleball,105,LEFT ALONE,0,0,7,2,23,0,0,0,0,0,0,0,0,0
+144,8,682,2,52,India Women,Smriti Mandhana,Sadia Iqbal,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,250412,103.75,54.46,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,8,2,23,0,0,0,0,0,0,0,0,0
+145,1,682,2,52,India Women,S Meghana,Nashra Sundhu,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,250414,-88.71,-12.30,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,3,23,0,1,0,0,0,0,0,0,0
+146,2,682,2,52,India Women,S Meghana,Nashra Sundhu,,4,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,3.2,1,1,0,250416,-97.92,41.11,0,0,,,Knuckleball,114,STEP DOWN LOFTED COVER DRIVE,0,0,2,3,23,1,2,0,0,0,0,0,0,0
+147,3,682,2,52,India Women,Jemimah Rodrigues,Nashra Sundhu,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,250418,-153.17,59.06,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,3,24,1,3,0,0,0,0,0,0,0
+148,4,682,2,52,India Women,Smriti Mandhana,Nashra Sundhu,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,250420,63.23,-51.44,0,0,,,Knuckleball,35,LATE CUT,0,0,4,3,24,1,0,0,0,0,0,0,0,0
+149,5,682,2,52,India Women,Smriti Mandhana,Nashra Sundhu,,4,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.5,1,1,0,250422,165.91,140.10,4,0,,,Knuckleball,89,STEP DOWN COVER DRIVE,0,0,5,3,28,1,0,0,0,0,0,0,0,0
+150,6,682,2,52,India Women,Smriti Mandhana,Nashra Sundhu,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,250424,83.95,-11.84,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,3,28,1,0,0,0,0,0,0,0,0
+151,1,682,2,52,India Women,Jemimah Rodrigues,Aiman Anwer,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,250426,-62.46,45.25,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,4,28,1,1,0,0,0,0,0,0,0
+152,2,682,2,52,India Women,Jemimah Rodrigues,Aiman Anwer,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,250428,-64.77,42.03,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,4,28,1,0,0,0,0,0,0,0,0
+153,3,682,2,52,India Women,Jemimah Rodrigues,Aiman Anwer,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,250430,-62.46,36.50,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,4,28,1,0,0,0,0,0,0,0,0
+154,4,682,2,52,India Women,Jemimah Rodrigues,Aiman Anwer,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,250432,42.51,122.14,0,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,4,4,28,1,0,0,0,0,0,0,0,0
+155,5,682,2,52,India Women,Jemimah Rodrigues,Aiman Anwer,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,250434,-156.39,56.76,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,4,29,1,0,0,0,0,0,0,0,0
+156,6,682,2,52,India Women,Smriti Mandhana,Aiman Anwer,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,250436,94.54,69.19,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,4,29,1,0,0,0,0,0,0,0,0
+157,1,682,2,52,India Women,Jemimah Rodrigues,Nida Dar,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,250438,99.61,13.94,0,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,1,5,29,1,1,0,0,0,0,0,0,0
+158,2,682,2,52,India Women,Jemimah Rodrigues,Nida Dar,,6,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.2,1,1,0,250439,99.61,13.94,0,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,2,5,29,2,2,0,0,0,0,0,0,0
+159,3,682,2,52,India Women,D Hemalatha,Nida Dar,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,250442,17.19,65.97,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,5,29,2,3,0,0,0,0,0,0,0
+160,4,682,2,52,India Women,D Hemalatha,Nida Dar,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,1,1,0,250444,111.58,15.78,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,5,30,2,0,0,0,0,0,0,0,0
+161,5,682,2,52,India Women,Smriti Mandhana,Nida Dar,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,250447,-35.76,99.12,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,5,30,2,0,0,0,0,0,0,0,0
+162,6,682,2,52,India Women,Smriti Mandhana,Nida Dar,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,250448,101.91,42.03,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,5,30,2,0,0,0,0,0,0,0,0
+163,1,682,2,52,India Women,D Hemalatha,Aiman Anwer,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,250451,101.91,42.03,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,6,30,2,1,0,0,0,0,0,0,0
+164,2,682,2,52,India Women,D Hemalatha,Aiman Anwer,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,250452,101.91,42.03,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,6,30,2,0,0,0,0,0,0,0,0
+165,3,682,2,52,India Women,D Hemalatha,Aiman Anwer,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,250454,-94.23,-8.62,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,6,30,2,0,0,0,0,0,0,0,0
+166,4,682,2,52,India Women,D Hemalatha,Aiman Anwer,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,250456,94.54,59.99,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,4,6,30,2,0,0,0,0,0,0,0,0
+167,5,682,2,52,India Women,D Hemalatha,Aiman Anwer,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,250458,-159.62,42.95,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,6,31,2,0,0,0,0,0,0,0,0
+168,6,682,2,52,India Women,Smriti Mandhana,Aiman Anwer,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,250460,39.75,162.66,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,6,6,32,2,0,0,0,0,0,0,0,0
+169,1,682,2,52,India Women,Smriti Mandhana,Nida Dar,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,250462,145.65,81.63,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,7,33,2,1,0,0,0,0,0,0,0
+170,2,682,2,52,India Women,D Hemalatha,Nida Dar,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,250465,145.65,81.63,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,7,33,2,0,0,0,0,0,0,0,0
+171,3,682,2,52,India Women,D Hemalatha,Nida Dar,,8,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.3,1,1,0,250466,-62.46,219.29,4,0,,,Knuckleball,122,STEP DOWN LOFTED OFF DRIVE,0,0,3,7,37,2,0,0,0,0,0,0,0,0
+172,4,682,2,52,India Women,D Hemalatha,Nida Dar,,8,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,250469,36.53,-123.73,2,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,7,39,2,0,0,0,0,0,0,0,0
+173,5,682,2,52,India Women,D Hemalatha,Nida Dar,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,250470,-91.01,57.68,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,7,39,2,0,0,0,0,0,0,0,0
+174,6,682,2,52,India Women,D Hemalatha,Nida Dar,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,250472,85.33,-9.08,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,7,40,2,0,0,0,0,0,0,0,0
+175,1,682,2,52,India Women,D Hemalatha,Tuba Hassan,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,250475,-86.87,61.37,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,8,40,2,1,0,0,0,0,0,0,0
+176,2,682,2,52,India Women,D Hemalatha,Tuba Hassan,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,250476,84.87,-6.78,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,8,41,2,0,0,0,0,0,0,0,0
+177,3,682,2,52,India Women,Smriti Mandhana,Tuba Hassan,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,250478,147.95,62.29,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,8,42,2,0,0,0,0,0,0,0,0
+178,4,682,2,52,India Women,D Hemalatha,Tuba Hassan,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,250480,147.95,62.29,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,8,42,2,0,0,0,0,0,0,0,0
+179,5,682,2,52,India Women,D Hemalatha,Tuba Hassan,,9,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.5,1,1,0,250482,-200.59,87.61,4,0,,,Knuckleball,114,STEP DOWN LOFTED COVER DRIVE,0,0,5,8,46,2,0,0,0,0,0,0,0,0
+180,6,682,2,52,India Women,D Hemalatha,Tuba Hassan,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,250484,38.37,31.90,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,8,46,2,0,0,0,0,0,0,0,0
+181,1,682,2,52,India Women,Smriti Mandhana,Nashra Sundhu,,10,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.1,1,1,0,250487,-207.50,45.71,4,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-WOMENS-2022/India-Women-VS-Pakistan-Women-(07-Oct-2022)/File_2-10-250487.jpg,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,1,9,50,2,1,1,1,0,1,0,0,0
+182,2,682,2,52,India Women,Smriti Mandhana,Nashra Sundhu,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,250489,-207.50,45.71,0,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,2,9,50,2,0,0,1,0,0,0,0,0
+183,3,682,2,52,India Women,Smriti Mandhana,Nashra Sundhu,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,250490,77.51,50.78,0,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,3,9,50,2,0,0,1,0,0,0,0,0
+184,4,682,2,52,India Women,Smriti Mandhana,Nashra Sundhu,,10,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,9.4,1,1,0,250492,-47.73,162.20,0,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,4,9,50,3,1,0,1,0,0,0,0,0
+185,5,682,2,52,India Women,Pooja Vastrakar,Nashra Sundhu,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,250494,-53.72,-45.45,0,0,,,Knuckleball,35,LATE CUT,0,0,5,9,50,3,2,0,1,0,0,0,0,0
+186,6,682,2,52,India Women,Pooja Vastrakar,Nashra Sundhu,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,250496,-85.03,-11.38,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,9,50,3,0,0,1,0,0,0,0,0
+188,1,682,2,52,India Women,D Hemalatha,Tuba Hassan,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,250499,-54.18,165.88,1,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,1,10,51,3,1,0,1,0,0,0,0,0
+189,2,682,2,52,India Women,Pooja Vastrakar,Tuba Hassan,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,250500,-28.39,24.99,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,10,51,3,0,0,1,0,0,0,0,0
+190,3,682,2,52,India Women,Pooja Vastrakar,Tuba Hassan,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,250502,-69.83,-44.99,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,10,52,3,0,0,1,0,0,0,0,0
+191,4,682,2,52,India Women,D Hemalatha,Tuba Hassan,,11,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.4,1,1,0,250504,178.80,74.26,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,10,56,3,0,0,1,0,0,0,0,0
+192,5,682,2,52,India Women,D Hemalatha,Tuba Hassan,,11,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,10.5,1,1,1,250506,178.80,74.26,1,0,,,Knuckleball,54,LEG GLANCE,0,0,5,10,57,3,0,0,1,0,0,0,0,0
+193,6,682,2,52,India Women,Pooja Vastrakar,Tuba Hassan,,11,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,10.6,1,1,1,250508,178.80,74.26,1,0,,,Knuckleball,105,LEFT ALONE,0,0,6,10,58,3,0,0,1,0,0,0,0,0
+194,7,682,2,52,India Women,Pooja Vastrakar,Tuba Hassan,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,250510,-91.93,45.25,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,7,10,59,3,0,0,1,0,0,0,0,0
+195,1,682,2,52,India Women,Pooja Vastrakar,Nashra Sundhu,,12,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,250511,-92.39,53.54,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,11,61,3,1,0,1,0,0,0,0,0
+196,2,682,2,52,India Women,Pooja Vastrakar,Nashra Sundhu,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,250514,-44.97,86.69,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,11,62,3,0,0,1,0,0,0,0,0
+197,3,682,2,52,India Women,D Hemalatha,Nashra Sundhu,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,250516,147.03,50.78,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,3,11,63,3,0,0,1,0,0,0,0,0
+198,4,682,2,52,India Women,Pooja Vastrakar,Nashra Sundhu,,12,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,11.4,1,1,0,250517,-3.53,64.59,0,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,4,11,63,4,0,0,1,0,0,0,0,0
+199,5,682,2,52,India Women,Deepti Sharma,Nashra Sundhu,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,250520,-68.45,14.40,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,11,63,4,0,0,1,0,0,0,0,0
+200,6,682,2,52,India Women,Deepti Sharma,Nashra Sundhu,,12,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,250522,162.69,44.33,2,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,11,65,4,0,0,1,0,0,0,0,0
+201,1,682,2,52,India Women,D Hemalatha,Tuba Hassan,,13,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,12.1,1,1,0,250524,162.69,44.33,0,0,,,Knuckleball,99,SCOOP,0,0,1,12,65,5,1,0,1,0,0,0,0,0
+202,2,682,2,52,India Women,Harmanpreet Kaur,Tuba Hassan,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,1,1,0,250526,-96.08,40.65,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,12,66,5,2,0,1,0,0,0,0,0
+203,3,682,2,52,India Women,Deepti Sharma,Tuba Hassan,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,250528,89.94,63.67,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,12,66,5,0,0,1,0,0,0,0,0
+204,4,682,2,52,India Women,Deepti Sharma,Tuba Hassan,,13,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.4,1,1,0,250530,-135.67,-90.12,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,12,70,5,0,0,1,0,0,0,0,0
+205,5,682,2,52,India Women,Deepti Sharma,Tuba Hassan,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,250532,16.73,71.96,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,12,70,5,0,0,1,0,0,0,0,0
+206,6,682,2,52,India Women,Deepti Sharma,Tuba Hassan,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,250534,-84.10,56.76,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,6,12,70,5,0,0,1,0,0,0,0,0
+207,1,682,2,52,India Women,Harmanpreet Kaur,Aiman Anwer,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,250536,124.93,112.94,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,13,71,5,1,0,1,0,0,0,0,0
+208,2,682,2,52,India Women,Deepti Sharma,Aiman Anwer,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,250538,-79.96,145.63,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,2,13,72,5,0,0,1,0,0,0,0,0
+209,3,682,2,52,India Women,Harmanpreet Kaur,Aiman Anwer,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,250540,11.21,53.08,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,13,72,5,0,0,1,0,0,0,0,0
+210,4,682,2,52,India Women,Harmanpreet Kaur,Aiman Anwer,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,250542,1.08,8.42,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,13,72,5,0,0,1,0,0,0,0,0
+211,5,682,2,52,India Women,Harmanpreet Kaur,Aiman Anwer,,14,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.5,1,1,0,250544,170.97,100.96,4,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,5,13,76,5,0,0,1,0,0,0,0,0
+212,6,682,2,52,India Women,Harmanpreet Kaur,Aiman Anwer,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,250546,-151.33,42.03,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,13,77,5,0,0,1,0,0,0,0,0
+213,1,682,2,52,India Women,Harmanpreet Kaur,Tuba Hassan,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,250548,160.38,16.24,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,1,14,78,5,1,0,1,0,0,0,0,0
+214,2,682,2,52,India Women,Deepti Sharma,Tuba Hassan,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,250550,-138.44,-11.38,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,2,14,79,5,0,0,1,0,0,0,0,0
+215,3,682,2,52,India Women,Harmanpreet Kaur,Tuba Hassan,,15,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,250552,-160.54,20.39,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,14,81,5,0,0,1,0,0,0,0,0
+216,4,682,2,52,India Women,Harmanpreet Kaur,Tuba Hassan,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,250554,113.88,-42.23,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,14,82,5,0,0,1,0,0,0,0,0
+217,5,682,2,52,India Women,Deepti Sharma,Tuba Hassan,,15,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.5,1,1,0,250556,-178.03,144.71,4,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,5,14,86,5,0,0,1,0,0,0,0,0
+218,6,682,2,52,India Women,Deepti Sharma,Tuba Hassan,,15,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.6,1,1,0,250558,147.95,152.99,4,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,6,14,90,5,0,0,1,0,0,0,0,0
+219,1,682,2,52,India Women,Harmanpreet Kaur,Sadia Iqbal,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,250560,80.27,153.45,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,15,91,5,1,0,1,0,0,0,0,0
+220,2,682,2,52,India Women,Deepti Sharma,Sadia Iqbal,,16,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,15.2,1,1,0,250562,80.27,153.45,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,15,91,6,2,0,1,0,0,0,0,0
+221,3,682,2,52,India Women,Richa Ghosh,Sadia Iqbal,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,250564,-64.77,-39.47,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,15,91,6,3,0,1,0,0,0,0,0
+222,4,682,2,52,India Women,Richa Ghosh,Sadia Iqbal,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,250566,-55.56,-34.86,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,15,91,6,0,0,1,0,0,0,0,0
+223,5,682,2,52,India Women,Richa Ghosh,Sadia Iqbal,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,250568,-55.56,-34.86,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,15,91,6,0,0,1,0,0,0,0,0
+224,6,682,2,52,India Women,Richa Ghosh,Sadia Iqbal,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,250570,2.92,30.06,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,15,91,6,0,0,1,0,0,0,0,0
+225,1,682,2,52,India Women,Harmanpreet Kaur,Nida Dar,,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,250572,1.08,74.72,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,1,16,91,6,1,0,1,0,0,0,0,0
+226,2,682,2,52,India Women,Harmanpreet Kaur,Nida Dar,,17,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,16.2,1,1,0,250573,-62.92,162.66,0,0,,,Knuckleball,122,STEP DOWN LOFTED OFF DRIVE,0,0,2,16,91,7,2,0,1,0,0,0,0,0
+227,3,682,2,52,India Women,Radha Yadav,Nida Dar,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,1,1,0,250576,40.67,164.04,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,3,16,92,7,3,0,1,0,0,0,0,0
+228,4,682,2,52,India Women,Richa Ghosh,Nida Dar,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,250578,71.98,157.14,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,4,16,93,7,0,0,1,0,0,0,0,0
+229,5,682,2,52,India Women,Radha Yadav,Nida Dar,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,250580,-118.18,83.47,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,16,94,7,0,0,1,0,0,0,0,0
+230,6,682,2,52,India Women,Richa Ghosh,Nida Dar,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,250582,33.77,-33.94,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,6,16,95,7,0,0,1,0,0,0,0,0
+231,1,682,2,52,India Women,Richa Ghosh,Nashra Sundhu,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,250584,-33.46,-105.77,1,0,,,Knuckleball,56,REVERSE SWEEP,0,0,1,17,96,7,1,0,1,0,0,0,0,0
+232,2,682,2,52,India Women,Radha Yadav,Nashra Sundhu,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,1,1,0,250586,-58.32,152.53,1,0,,,Knuckleball,122,STEP DOWN LOFTED OFF DRIVE,0,0,2,17,97,7,0,0,1,0,0,0,0,0
+233,3,682,2,52,India Women,Richa Ghosh,Nashra Sundhu,,18,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.3,1,1,0,250588,47.58,218.37,6,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,3,17,103,7,0,1,2,0,0,1,0,0
+234,4,682,2,52,India Women,Richa Ghosh,Nashra Sundhu,,18,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.4,1,1,0,250590,197.68,66.43,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,17,109,7,0,0,2,0,0,0,0,0
+235,5,682,2,52,India Women,Richa Ghosh,Nashra Sundhu,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,250592,-44.51,167.73,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,5,17,110,7,0,0,2,0,0,0,0,0
+236,6,682,2,52,India Women,Radha Yadav,Nashra Sundhu,,18,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,17.6,1,1,0,250594,73.82,163.12,0,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,6,17,110,8,1,0,2,0,0,0,0,0
+237,1,682,2,52,India Women,Richa Ghosh,Sadia Iqbal,,19,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.1,1,1,0,250596,64.62,216.07,6,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,1,18,116,8,2,0,2,0,0,0,0,0
+238,2,682,2,52,India Women,Richa Ghosh,Sadia Iqbal,,19,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.2,1,1,0,250598,-180.33,119.38,4,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,2,18,120,8,0,0,2,0,0,0,0,0
+239,3,682,2,52,India Women,Richa Ghosh,Sadia Iqbal,,19,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.3,1,1,0,250601,84.41,158.06,0,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,3,18,120,9,1,0,2,0,0,0,0,0
+240,4,682,2,52,India Women,Rajeshwari Gayakwad,Sadia Iqbal,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.4,1,1,0,250602,-69.37,15.32,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,18,120,9,2,0,2,0,0,0,0,0
+241,5,682,2,52,India Women,Rajeshwari Gayakwad,Sadia Iqbal,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,250604,-80.42,51.70,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,18,120,9,0,0,2,0,0,0,0,0
+242,6,682,2,52,India Women,Rajeshwari Gayakwad,Sadia Iqbal,,19,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,250606,-67.07,-35.78,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,18,120,9,0,0,2,0,0,0,0,0
+243,1,682,2,52,India Women,Renuka Singh,Aiman Anwer,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.1,1,1,0,250608,-8.13,66.43,1,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,1,19,121,9,1,0,2,0,0,0,0,0
+244,2,682,2,52,India Women,Rajeshwari Gayakwad,Aiman Anwer,,20,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,19.2,1,1,1,250610,-8.13,66.43,1,0,,,Knuckleball,105,LEFT ALONE,0,0,2,19,122,9,0,0,2,0,0,0,0,0
+245,3,682,2,52,India Women,Rajeshwari Gayakwad,Aiman Anwer,,20,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,250612,-36.68,95.44,1,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,3,19,123,9,0,0,2,0,0,0,0,0
+246,4,682,2,52,India Women,Renuka Singh,Aiman Anwer,,20,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.3,1,1,0,250614,151.64,58.14,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,4,19,124,9,0,0,2,0,0,0,0,0
+247,5,682,2,52,India Women,Rajeshwari Gayakwad,Aiman Anwer,,20,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,19.4,1,1,0,250616,151.64,58.14,0,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,5,19,124,10,1,0,2,0,0,0,0,0

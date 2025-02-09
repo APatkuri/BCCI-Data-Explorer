@@ -1,0 +1,236 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,425,1,6,Sri Lanka,Pathum Nissanka,Bhuvneshwar Kumar,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.1,2,1,0,183519,,,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,425,1,6,Sri Lanka,Pathum Nissanka,Bhuvneshwar Kumar,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,0.2,2,1,0,183520,-74.44,-81.83,1,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+2,3,425,1,6,Sri Lanka,Danushka Gunathilaka,Bhuvneshwar Kumar,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.3,2,1,0,183521,-74.44,-81.83,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+3,4,425,1,6,Sri Lanka,Danushka Gunathilaka,Bhuvneshwar Kumar,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,0.4,2,1,0,183522,-56.48,54.46,1,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,4,0,2,0,0,0,0,0,0,0,0,0
+4,5,425,1,6,Sri Lanka,Pathum Nissanka,Bhuvneshwar Kumar,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.5,2,1,0,183523,-56.48,54.46,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,5,0,2,0,0,0,0,0,0,0,0,0
+5,6,425,1,6,Sri Lanka,Pathum Nissanka,Bhuvneshwar Kumar,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.6,2,1,0,183524,-49.57,11.64,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,6,0,2,0,0,0,0,0,0,0,0,0
+6,1,425,1,6,Sri Lanka,Danushka Gunathilaka,Jasprit Bumrah,,2,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,1.1,2,1,1,183525,-49.57,11.64,1,0,,41,INSWINGER,105,LEFT ALONE,0,0,1,1,3,0,1,0,0,0,0,0,0,0
+7,2,425,1,6,Sri Lanka,Danushka Gunathilaka,Jasprit Bumrah,,2,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,1.1,2,1,1,183526,-49.57,11.64,1,0,,41,INSWINGER,105,LEFT ALONE,0,0,2,1,4,0,0,0,0,0,0,0,0,0
+8,3,425,1,6,Sri Lanka,Danushka Gunathilaka,Jasprit Bumrah,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.1,2,1,0,183527,43.44,-21.51,0,0,,41,INSWINGER,27,FORWARD PUSH,0,0,3,1,4,0,0,0,0,0,0,0,0,0
+9,4,425,1,6,Sri Lanka,Danushka Gunathilaka,Jasprit Bumrah,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.2,2,1,0,183528,78.43,36.96,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,4,1,4,0,0,0,0,0,0,0,0,0
+10,5,425,1,6,Sri Lanka,Danushka Gunathilaka,Jasprit Bumrah,,2,3,2 (LB),2,0,0,0,0,1,2,0,0,0,1,0,0,,,,0,1.3,2,1,1,183529,-57.86,28.22,2,0,,41,INSWINGER,40,FLICK,0,0,5,1,6,0,0,0,0,0,0,0,0,0
+11,6,425,1,6,Sri Lanka,Danushka Gunathilaka,Jasprit Bumrah,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.4,2,1,0,183530,-57.86,28.22,0,0,,41,INSWINGER,51,FRONTFOOT COVERDRIVE,0,0,6,1,6,0,0,0,0,0,0,0,0,0
+12,7,425,1,6,Sri Lanka,Danushka Gunathilaka,Jasprit Bumrah,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.5,2,1,0,183531,-57.86,28.22,0,0,,41,INSWINGER,84,OFF DRIVE,0,0,7,1,6,0,0,0,0,0,0,0,0,0
+13,8,425,1,6,Sri Lanka,Danushka Gunathilaka,Jasprit Bumrah,,2,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,1.6,2,1,0,183532,-53.72,-4.94,1,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,8,1,7,0,0,0,0,0,0,0,0,0
+14,1,425,1,6,Sri Lanka,Danushka Gunathilaka,Bhuvneshwar Kumar,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.1,2,1,0,183533,-53.72,-4.94,0,0,,42,OUTSWINGER,122,SDL OFF,0,0,1,2,7,0,1,0,0,0,0,0,0,0
+15,2,425,1,6,Sri Lanka,Danushka Gunathilaka,Bhuvneshwar Kumar,,3,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,2.2,2,1,0,183534,182.49,52.16,4,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,2,2,11,0,0,0,0,0,0,0,0,0
+16,3,425,1,6,Sri Lanka,Danushka Gunathilaka,Bhuvneshwar Kumar,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.3,2,1,0,183535,60.47,22.69,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,3,2,11,0,0,0,0,0,0,0,0,0
+17,4,425,1,6,Sri Lanka,Danushka Gunathilaka,Bhuvneshwar Kumar,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.4,2,1,0,183536,15.81,67.81,0,0,,37,NIPPED AWAY,21,SD OFF,0,0,4,2,11,0,0,0,0,0,0,0,0,0
+18,5,425,1,6,Sri Lanka,Danushka Gunathilaka,Bhuvneshwar Kumar,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,2.5,2,1,0,183537,-56.48,33.74,1,0,,41,INSWINGER,49,FORWARD DEFENCE,0,0,5,2,12,0,0,0,0,0,0,0,0,0
+19,6,425,1,6,Sri Lanka,Pathum Nissanka,Bhuvneshwar Kumar,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,2.6,2,1,0,183538,-52.79,-41.77,1,0,,43,NIPBACKER,97,BACKFOOT PUSH,0,0,6,2,13,0,0,0,0,0,0,0,0,0
+20,1,425,1,6,Sri Lanka,Pathum Nissanka,Jasprit Bumrah,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,3.1,2,1,0,183539,-84.10,-97.02,1,0,,37,NIPPED AWAY,44,GLIDE,0,0,1,3,14,0,1,0,0,0,0,0,0,0
+21,2,425,1,6,Sri Lanka,Danushka Gunathilaka,Jasprit Bumrah,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,3.2,2,1,0,183540,-64.31,-30.26,1,0,,38,STRAIGHT BALL,61,INSIDE OUT,0,0,2,3,15,0,0,0,0,0,0,0,0,0
+22,3,425,1,6,Sri Lanka,Pathum Nissanka,Jasprit Bumrah,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.3,2,1,0,183541,-13.66,10.72,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,3,3,15,0,0,0,0,0,0,0,0,0
+23,4,425,1,6,Sri Lanka,Pathum Nissanka,Jasprit Bumrah,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.4,2,1,0,183542,-48.65,83.93,0,0,,39,ANGLED IN,84,OFF DRIVE,0,0,4,3,15,0,0,0,0,0,0,0,0,0
+24,5,425,1,6,Sri Lanka,Pathum Nissanka,Jasprit Bumrah,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.5,2,1,0,183543,-48.65,83.93,0,0,,8,OFF CUTTER,61,INSIDE OUT,0,0,5,3,15,0,0,0,0,0,0,0,0,0
+25,6,425,1,6,Sri Lanka,Pathum Nissanka,Jasprit Bumrah,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.6,2,1,0,183544,25.02,17.63,0,0,,41,INSWINGER,47,ON DRIVE,0,0,6,3,15,0,0,0,0,0,0,0,0,0
+27,1,425,1,6,Sri Lanka,Danushka Gunathilaka,Harshal Patel,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,4.1,2,1,0,183545,25.02,17.63,0,0,,8,OFF CUTTER,11,LOFT ON,0,0,1,4,15,0,1,0,0,0,0,0,0,0
+28,2,425,1,6,Sri Lanka,Danushka Gunathilaka,Harshal Patel,,5,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.2,2,1,0,183546,-151.33,-63.87,4,0,,38,STRAIGHT BALL,46,FRONTFOOT PULL SHOT,0,0,2,4,19,0,0,0,0,0,0,0,0,0
+29,3,425,1,6,Sri Lanka,Danushka Gunathilaka,Harshal Patel,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,4.3,2,1,0,183547,-151.33,-63.87,0,0,,8,OFF CUTTER,122,SDL OFF,0,0,3,4,19,0,0,0,0,0,0,0,0,0
+30,4,425,1,6,Sri Lanka,Danushka Gunathilaka,Harshal Patel,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,4.4,2,1,0,183548,30.08,-31.64,1,0,,8,OFF CUTTER,49,FORWARD DEFENCE,0,0,4,4,20,0,0,0,0,0,0,0,0,0
+31,5,425,1,6,Sri Lanka,Pathum Nissanka,Harshal Patel,,5,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.5,2,1,0,183549,-172.51,-8.16,4,0,,39,ANGLED IN,15,LOFT COVER,0,0,5,4,24,0,0,0,0,0,0,0,0,0
+32,6,425,1,6,Sri Lanka,Pathum Nissanka,Harshal Patel,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,4.6,2,1,0,183550,125.39,65.51,1,0,,8,OFF CUTTER,94,SDL ON,0,0,6,4,25,0,0,0,0,0,0,0,0,0
+33,1,425,1,6,Sri Lanka,Pathum Nissanka,Yuzvendra Chahal,,6,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,5.1,2,1,0,183551,128.62,58.14,4,0,,24,LEG SPIN,36,CUT SHOT,0,0,1,5,29,0,1,0,0,0,0,0,0,0
+34,2,425,1,6,Sri Lanka,Pathum Nissanka,Yuzvendra Chahal,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,5.2,2,1,0,183552,128.62,58.14,1,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,2,5,30,0,0,0,0,0,0,0,0,0
+35,3,425,1,6,Sri Lanka,Danushka Gunathilaka,Yuzvendra Chahal,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,5.3,2,1,0,183553,128.62,58.14,1,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,3,5,31,0,0,0,0,0,0,0,0,0
+36,4,425,1,6,Sri Lanka,Pathum Nissanka,Yuzvendra Chahal,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,5.4,2,1,0,183554,128.62,58.14,1,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,4,5,32,0,0,0,0,0,0,0,0,0
+37,5,425,1,6,Sri Lanka,Danushka Gunathilaka,Yuzvendra Chahal,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.5,2,1,0,183555,-5.83,53.54,0,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,5,5,32,0,0,0,0,0,0,0,0,0
+38,6,425,1,6,Sri Lanka,Danushka Gunathilaka,Yuzvendra Chahal,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.6,2,1,0,183556,-5.83,53.54,0,0,,27,TOP SPINNER,36,CUT SHOT,0,0,6,5,32,0,0,0,0,0,0,0,0,0
+39,1,425,1,6,Sri Lanka,Pathum Nissanka,Ravindra Jadeja,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.1,2,1,0,183557,-36.68,67.35,0,0,,10,ORTHODOX,84,OFF DRIVE,0,0,1,6,32,0,1,0,0,0,0,0,0,0
+40,2,425,1,6,Sri Lanka,Pathum Nissanka,Ravindra Jadeja,,7,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,6.2,2,1,0,183558,135.52,25.91,2,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,2,6,34,0,0,0,0,0,0,0,0,0
+41,3,425,1,6,Sri Lanka,Pathum Nissanka,Ravindra Jadeja,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.3,2,1,0,183559,-28.85,53.08,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,3,6,34,0,0,0,0,0,0,0,0,0
+42,4,425,1,6,Sri Lanka,Pathum Nissanka,Ravindra Jadeja,,7,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,6.4,2,1,0,183560,30.08,-147.21,4,0,,10,ORTHODOX,56,REVERSE SWEEP,0,0,4,6,38,0,0,0,0,0,0,0,0,0
+43,5,425,1,6,Sri Lanka,Pathum Nissanka,Ravindra Jadeja,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,6.5,2,1,0,183561,122.17,98.66,1,0,,10,ORTHODOX,47,ON DRIVE,0,0,5,6,39,0,0,0,0,0,0,0,0,0
+44,6,425,1,6,Sri Lanka,Danushka Gunathilaka,Ravindra Jadeja,,7,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,6.6,2,1,0,183562,139.67,111.55,2,0,,10,ORTHODOX,15,LOFT COVER,0,0,6,6,41,0,0,0,0,0,0,0,0,0
+45,1,425,1,6,Sri Lanka,Pathum Nissanka,Yuzvendra Chahal,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,7.1,2,1,0,183563,147.95,34.20,1,0,,24,LEG SPIN,95,SLOG SWEEP,0,0,1,7,42,0,1,0,0,0,0,0,0,0
+46,2,425,1,6,Sri Lanka,Danushka Gunathilaka,Yuzvendra Chahal,,8,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,7.2,2,1,0,183564,169.13,94.52,4,0,,24,LEG SPIN,52,BACKFOOT COVERDRIVE,0,0,2,7,46,0,0,0,0,0,0,0,0,0
+47,3,425,1,6,Sri Lanka,Danushka Gunathilaka,Yuzvendra Chahal,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,7.3,2,1,0,183565,-139.82,-18.75,1,0,,28,GOOGLY,55,SWEEP SHOT,0,0,3,7,47,0,0,0,0,0,0,0,0,0
+48,4,425,1,6,Sri Lanka,Pathum Nissanka,Yuzvendra Chahal,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,7.4,2,1,0,183566,-97.46,21.77,1,0,,24,LEG SPIN,52,BACKFOOT COVERDRIVE,0,0,4,7,48,0,0,0,0,0,0,0,0,0
+49,5,425,1,6,Sri Lanka,Danushka Gunathilaka,Yuzvendra Chahal,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,7.5,2,1,0,183567,-89.63,75.64,1,0,,28,GOOGLY,97,BACKFOOT PUSH,0,0,5,7,49,0,0,0,0,0,0,0,0,0
+50,6,425,1,6,Sri Lanka,Pathum Nissanka,Yuzvendra Chahal,,8,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,7.6,2,1,0,183568,-125.08,101.88,2,0,,24,LEG SPIN,51,FRONTFOOT COVERDRIVE,0,0,6,7,51,0,0,1,1,0,1,0,0,0
+51,1,425,1,6,Sri Lanka,Danushka Gunathilaka,Ravindra Jadeja,,9,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,8.1,2,1,0,183569,-148.56,138.72,6,0,,10,ORTHODOX,95,SLOG SWEEP,0,0,1,8,57,0,1,0,1,0,0,0,0,0
+52,2,425,1,6,Sri Lanka,Danushka Gunathilaka,Ravindra Jadeja,,9,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,8.2,2,1,0,183570,123.09,-96.56,4,0,,23,ARM BALL,36,CUT SHOT,0,0,2,8,61,0,0,0,1,0,0,0,0,0
+53,3,425,1,6,Sri Lanka,Danushka Gunathilaka,Ravindra Jadeja,,9,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,8.3,2,1,0,183571,-153.63,123.06,6,0,,23,ARM BALL,95,SLOG SWEEP,0,0,3,8,67,0,0,0,1,0,0,0,0,0
+54,4,425,1,6,Sri Lanka,Danushka Gunathilaka,Ravindra Jadeja,,9,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,8.4,2,1,0,183572,-61.54,133.65,0,0,,10,ORTHODOX,95,SLOG SWEEP,0,0,4,8,67,1,1,0,1,0,0,0,0,0
+55,5,425,1,6,Sri Lanka,Pathum Nissanka,Ravindra Jadeja,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,8.5,2,1,0,183573,-68.91,24.07,1,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,5,8,68,1,2,0,1,0,0,0,0,0
+56,6,425,1,6,Sri Lanka,Charith Asalanka,Ravindra Jadeja,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,8.6,2,1,0,183574,-83.18,115.70,1,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,6,8,69,1,0,0,1,0,0,0,0,0
+57,1,425,1,6,Sri Lanka,Charith Asalanka,Yuzvendra Chahal,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.1,2,1,0,183575,-83.18,115.70,0,0,,28,GOOGLY,50,BACKFOOT DEFENCE,0,0,1,9,69,1,1,0,1,0,0,0,0,0
+58,2,425,1,6,Sri Lanka,Charith Asalanka,Yuzvendra Chahal,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,9.2,2,1,0,183576,-95.62,-10.46,1,0,,28,GOOGLY,27,FORWARD PUSH,0,0,2,9,70,1,0,0,1,0,0,0,0,0
+59,3,425,1,6,Sri Lanka,Pathum Nissanka,Yuzvendra Chahal,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,9.3,2,1,0,183577,-91.93,13.48,1,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,3,9,71,1,0,0,1,0,0,0,0,0
+60,4,425,1,6,Sri Lanka,Charith Asalanka,Yuzvendra Chahal,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.4,2,1,0,183578,54.95,-33.94,0,0,,26,FLIPPER,97,BACKFOOT PUSH,0,0,4,9,71,1,0,0,1,0,0,0,0,0
+61,5,425,1,6,Sri Lanka,Charith Asalanka,Yuzvendra Chahal,,10,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,9.5,2,1,0,183579,54.95,-33.94,0,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,5,9,71,2,1,0,1,0,0,0,0,0
+62,6,425,1,6,Sri Lanka,Kamil Mishara,Yuzvendra Chahal,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,9.6,2,1,0,183580,-56.48,60.45,0,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,6,9,71,2,2,0,1,0,0,0,0,0
+63,1,425,1,6,Sri Lanka,Pathum Nissanka,Harshal Patel,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.1,2,1,0,183581,-137.97,9.34,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,1,10,72,2,3,0,1,0,0,0,0,0
+64,2,425,1,6,Sri Lanka,Kamil Mishara,Harshal Patel,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,10.2,2,1,0,183582,62.77,100.96,0,0,,8,OFF CUTTER,27,FORWARD PUSH,0,0,2,10,72,2,0,0,1,0,0,0,0,0
+65,3,425,1,6,Sri Lanka,Kamil Mishara,Harshal Patel,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.3,2,1,0,183583,106.97,-67.09,1,0,,39,ANGLED IN,59,SQUARE DRIVE,0,0,3,10,73,2,0,0,1,0,0,0,0,0
+66,4,425,1,6,Sri Lanka,Pathum Nissanka,Harshal Patel,,11,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,10.4,2,1,0,183584,132.76,41.11,2,0,,8,OFF CUTTER,27,FORWARD PUSH,0,0,4,10,75,2,0,0,1,0,0,0,0,0
+67,5,425,1,6,Sri Lanka,Pathum Nissanka,Harshal Patel,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.5,2,1,0,183585,123.55,60.91,1,0,,8,OFF CUTTER,47,ON DRIVE,0,0,5,10,76,2,0,0,1,0,0,0,0,0
+68,6,425,1,6,Sri Lanka,Kamil Mishara,Harshal Patel,,11,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,10.6,2,1,0,183586,77.05,45.71,0,0,,8,OFF CUTTER,51,FRONTFOOT COVERDRIVE,0,0,6,10,76,3,1,0,1,0,0,0,0,0
+70,1,425,1,6,Sri Lanka,Pathum Nissanka,Ravindra Jadeja,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.1,2,1,0,183587,-66.61,39.73,0,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,1,11,76,3,2,0,1,0,0,0,0,0
+71,2,425,1,6,Sri Lanka,Pathum Nissanka,Ravindra Jadeja,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,11.2,2,1,0,183588,116.18,82.09,1,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,2,11,77,3,0,0,1,0,0,0,0,0
+72,3,425,1,6,Sri Lanka,Dinesh Chandimal,Ravindra Jadeja,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.3,2,1,0,183589,-3.07,48.47,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,3,11,77,3,0,0,1,0,0,0,0,0
+73,4,425,1,6,Sri Lanka,Dinesh Chandimal,Ravindra Jadeja,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,11.4,2,1,0,183590,-80.42,-0.33,1,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,4,11,78,3,0,0,1,0,0,0,0,0
+74,5,425,1,6,Sri Lanka,Pathum Nissanka,Ravindra Jadeja,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,11.5,2,1,0,183591,105.59,76.56,1,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,5,11,79,3,0,0,1,0,0,0,0,0
+75,6,425,1,6,Sri Lanka,Dinesh Chandimal,Ravindra Jadeja,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,11.6,2,1,0,183592,120.79,-15.53,1,0,,10,ORTHODOX,40,FLICK,0,0,6,11,80,3,0,0,1,0,0,0,0,0
+76,1,425,1,6,Sri Lanka,Dinesh Chandimal,Bhuvneshwar Kumar,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,12.1,2,1,0,183593,86.72,-64.33,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,1,12,81,3,1,0,1,0,0,0,0,0
+77,2,425,1,6,Sri Lanka,Pathum Nissanka,Bhuvneshwar Kumar,,13,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,12.2,2,1,0,183594,-164.22,108.79,4,0,,8,OFF CUTTER,114,SDL COVER,0,0,2,12,85,3,0,0,1,0,0,0,0,0
+78,3,425,1,6,Sri Lanka,Pathum Nissanka,Bhuvneshwar Kumar,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,12.3,2,1,0,183595,98.23,93.60,1,0,,39,ANGLED IN,47,ON DRIVE,0,0,3,12,86,3,0,0,1,0,0,0,0,0
+79,4,425,1,6,Sri Lanka,Dinesh Chandimal,Bhuvneshwar Kumar,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,12.4,2,1,0,183596,-77.66,-98.86,1,0,,39,ANGLED IN,44,GLIDE,0,0,4,12,87,3,0,0,1,0,0,0,0,0
+80,5,425,1,6,Sri Lanka,Pathum Nissanka,Bhuvneshwar Kumar,,13,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,12.5,2,1,0,183597,81.65,-125.57,4,0,,36,BOUNCER,58,PULL SHOT,1,0,5,12,91,3,0,0,1,0,0,0,0,0
+81,6,425,1,6,Sri Lanka,Pathum Nissanka,Bhuvneshwar Kumar,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,12.6,2,1,0,183598,-128.77,-23.35,1,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,6,12,92,3,0,0,1,0,0,0,0,0
+82,1,425,1,6,Sri Lanka,Pathum Nissanka,Ravindra Jadeja,,14,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,13.1,2,1,0,183599,-170.67,-39.47,4,0,,10,ORTHODOX,36,CUT SHOT,0,0,1,13,96,3,1,0,1,0,0,0,0,0
+83,2,425,1,6,Sri Lanka,Pathum Nissanka,Ravindra Jadeja,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.2,2,1,0,183600,-170.67,-39.47,0,0,,10,ORTHODOX,47,ON DRIVE,0,0,2,13,96,3,0,0,1,0,0,0,0,0
+84,3,425,1,6,Sri Lanka,Pathum Nissanka,Ravindra Jadeja,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.3,2,1,0,183601,124.93,64.59,1,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,3,13,97,3,0,0,1,0,0,0,0,0
+85,4,425,1,6,Sri Lanka,Dinesh Chandimal,Ravindra Jadeja,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.4,2,1,0,183602,-69.83,24.99,1,0,,10,ORTHODOX,50,BACKFOOT DEFENCE,0,0,4,13,98,3,0,0,1,0,0,0,0,0
+86,5,425,1,6,Sri Lanka,Pathum Nissanka,Ravindra Jadeja,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.5,2,1,0,183603,-69.83,51.24,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,5,13,98,3,0,0,1,0,0,0,0,0
+87,6,425,1,6,Sri Lanka,Pathum Nissanka,Ravindra Jadeja,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.6,2,1,0,183604,49.88,60.91,0,0,,23,ARM BALL,58,PULL SHOT,0,0,6,13,98,3,0,0,1,0,0,0,0,0
+88,1,425,1,6,Sri Lanka,Dinesh Chandimal,Jasprit Bumrah,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.1,2,1,0,183605,83.49,60.91,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,1,14,98,3,1,0,1,0,0,0,0,0
+89,2,425,1,6,Sri Lanka,Dinesh Chandimal,Jasprit Bumrah,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.2,2,1,0,183606,83.49,60.91,0,0,,8,OFF CUTTER,11,LOFT ON,0,0,2,14,98,3,0,0,1,0,0,0,0,0
+90,3,425,1,6,Sri Lanka,Dinesh Chandimal,Jasprit Bumrah,,15,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,14.3,2,1,0,183607,-10.90,206.40,4,0,,39,ANGLED IN,53,STRAIGHT DRIVE,0,0,3,14,102,3,0,1,2,0,0,1,0,0
+91,4,425,1,6,Sri Lanka,Dinesh Chandimal,Jasprit Bumrah,,15,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,14.4,2,1,0,183608,-71.67,48.47,0,0,,8,OFF CUTTER,51,FRONTFOOT COVERDRIVE,0,0,4,14,102,4,1,0,2,0,0,0,0,0
+92,5,425,1,6,Sri Lanka,Dasun Shanaka,Jasprit Bumrah,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,14.5,2,1,0,183609,-117.72,63.21,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,5,14,103,4,2,0,2,0,0,0,0,0
+93,6,425,1,6,Sri Lanka,Pathum Nissanka,Jasprit Bumrah,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,14.6,2,1,0,183610,42.51,33.74,0,0,,49,SLOW YORKER,49,FORWARD DEFENCE,0,0,6,14,103,4,0,0,2,0,0,0,0,0
+94,1,425,1,6,Sri Lanka,Dasun Shanaka,Yuzvendra Chahal,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,15.1,2,1,0,183611,139.67,41.57,1,0,,24,LEG SPIN,40,FLICK,0,0,1,15,104,4,1,0,2,0,0,0,0,0
+95,2,425,1,6,Sri Lanka,Pathum Nissanka,Yuzvendra Chahal,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,15.2,2,1,0,183612,100.99,131.35,1,0,,24,LEG SPIN,58,PULL SHOT,0,0,2,15,105,4,0,0,2,0,0,0,0,0
+96,3,425,1,6,Sri Lanka,Dasun Shanaka,Yuzvendra Chahal,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,15.3,2,1,0,183613,-131.53,59.99,1,0,,24,LEG SPIN,52,BACKFOOT COVERDRIVE,0,0,3,15,106,4,0,0,2,0,0,0,0,0
+97,4,425,1,6,Sri Lanka,Pathum Nissanka,Yuzvendra Chahal,,16,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,15.4,2,1,0,183614,-172.51,79.32,4,0,,24,LEG SPIN,52,BACKFOOT COVERDRIVE,0,0,4,15,110,4,0,0,2,0,0,0,0,0
+98,5,425,1,6,Sri Lanka,Pathum Nissanka,Yuzvendra Chahal,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,15.5,2,1,0,183615,-118.18,48.47,1,0,,26,FLIPPER,97,BACKFOOT PUSH,0,0,5,15,111,4,0,0,2,0,0,0,0,0
+99,6,425,1,6,Sri Lanka,Dasun Shanaka,Yuzvendra Chahal,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,15.6,2,1,0,183616,-32.54,65.51,0,0,,24,LEG SPIN,77,SD DEFENCE,0,0,6,15,111,4,0,0,2,0,0,0,0,0
+100,1,425,1,6,Sri Lanka,Pathum Nissanka,Harshal Patel,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.1,2,1,0,183617,101.45,61.83,1,0,,36,BOUNCER,58,PULL SHOT,1,0,1,16,112,4,1,0,2,0,0,0,0,0
+101,2,425,1,6,Sri Lanka,Dasun Shanaka,Harshal Patel,,17,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,16.2,2,1,0,183618,-101.14,189.37,6,0,,8,OFF CUTTER,5,LOFT OFF,0,0,2,16,118,4,0,0,2,0,0,0,0,0
+102,3,425,1,6,Sri Lanka,Dasun Shanaka,Harshal Patel,,17,3,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,,,,0,16.3,2,1,1,183619,-101.14,189.37,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,3,16,119,4,0,0,2,0,0,0,0,0
+103,4,425,1,6,Sri Lanka,Pathum Nissanka,Harshal Patel,,17,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,16.4,2,1,0,183620,90.40,-118.66,4,0,,16,SLOW BOUNCER,46,FRONTFOOT PULL SHOT,0,0,4,16,123,4,0,0,2,0,0,0,0,0
+104,5,425,1,6,Sri Lanka,Pathum Nissanka,Harshal Patel,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.5,2,1,0,183621,68.30,-41.77,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,5,16,124,4,0,0,2,0,0,0,0,0
+105,6,425,1,6,Sri Lanka,Dasun Shanaka,Harshal Patel,,17,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,16.6,2,1,0,183622,169.13,107.41,6,0,,39,ANGLED IN,11,LOFT ON,0,0,6,16,130,4,0,0,2,0,0,0,0,0
+106,1,425,1,6,Sri Lanka,Pathum Nissanka,Jasprit Bumrah,,18,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,17.1,2,1,0,183623,30.54,-143.06,4,0,,8,OFF CUTTER,99,SCOOP,0,0,1,17,134,4,1,0,2,0,0,0,0,0
+107,2,425,1,6,Sri Lanka,Pathum Nissanka,Jasprit Bumrah,,18,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,17.2,2,1,0,183624,66.92,-133.86,4,0,,39,ANGLED IN,18,SLOG SHOT,0,0,2,17,138,4,0,0,2,0,0,0,0,0
+108,3,425,1,6,Sri Lanka,Pathum Nissanka,Jasprit Bumrah,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,17.3,2,1,0,183625,27.78,6.12,1,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,3,17,139,4,0,0,2,0,0,0,0,0
+109,4,425,1,6,Sri Lanka,Dasun Shanaka,Jasprit Bumrah,,18,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,17.4,2,1,0,183626,27.78,6.12,0,0,,8,OFF CUTTER,5,LOFT OFF,0,0,4,17,139,4,0,0,2,0,0,0,0,0
+110,5,425,1,6,Sri Lanka,Dasun Shanaka,Jasprit Bumrah,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,17.5,2,1,0,183627,-64.77,125.83,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,5,17,140,4,0,0,2,0,0,0,0,0
+111,6,425,1,6,Sri Lanka,Pathum Nissanka,Jasprit Bumrah,,18,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,17.6,2,1,0,183628,-74.90,-131.55,4,0,,39,ANGLED IN,56,REVERSE SWEEP,0,0,6,17,144,4,0,0,2,0,0,0,0,0
+112,1,425,1,6,Sri Lanka,Dasun Shanaka,Bhuvneshwar Kumar,,19,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,18.1,2,1,0,183629,22.26,182.46,2,0,,38,STRAIGHT BALL,13,LOFT STRAIGHT,0,0,1,18,146,4,1,0,2,0,0,0,0,0
+113,2,425,1,6,Sri Lanka,Dasun Shanaka,Bhuvneshwar Kumar,,19,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,18.2,2,1,0,183630,89.94,188.45,6,0,,38,STRAIGHT BALL,11,LOFT ON,0,0,2,18,152,4,0,1,3,0,0,0,0,0
+114,3,425,1,6,Sri Lanka,Dasun Shanaka,Bhuvneshwar Kumar,,19,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,18.3,2,1,0,183631,-5.37,-149.05,4,0,,36,BOUNCER,46,FRONTFOOT PULL SHOT,1,0,3,18,156,4,0,0,3,0,0,0,0,0
+115,4,425,1,6,Sri Lanka,Dasun Shanaka,Bhuvneshwar Kumar,,19,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,18.4,2,1,1,183632,-5.37,-149.05,1,0,,38,STRAIGHT BALL,105,LEFT ALONE,0,0,4,18,157,4,0,0,3,0,0,0,0,0
+116,5,425,1,6,Sri Lanka,Dasun Shanaka,Bhuvneshwar Kumar,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,18.4,2,1,0,183633,-56.02,179.24,1,0,,38,STRAIGHT BALL,84,OFF DRIVE,0,0,5,18,158,4,0,0,3,0,0,0,0,0
+117,6,425,1,6,Sri Lanka,Pathum Nissanka,Bhuvneshwar Kumar,,19,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,18.5,2,1,0,183634,124.93,125.83,2,0,,39,ANGLED IN,11,LOFT ON,0,0,6,18,160,4,0,0,3,0,0,0,0,0
+118,7,425,1,6,Sri Lanka,Pathum Nissanka,Bhuvneshwar Kumar,,19,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,18.6,2,1,0,183635,124.93,125.83,0,0,,39,ANGLED IN,56,REVERSE SWEEP,0,0,7,18,160,5,1,0,3,0,0,0,0,0
+119,1,425,1,6,Sri Lanka,Dasun Shanaka,Harshal Patel,,20,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,19.1,2,1,1,183636,124.93,125.83,1,0,,38,STRAIGHT BALL,5,LOFT OFF,0,0,1,19,161,5,2,0,3,0,0,0,0,0
+120,2,425,1,6,Sri Lanka,Dasun Shanaka,Harshal Patel,,20,1,4 (LB),4,0,0,0,0,1,4,0,0,0,1,1,0,,,,0,19.1,2,1,1,183637,124.93,125.83,4,0,,8,OFF CUTTER,18,SLOG SHOT,0,0,2,19,165,5,0,0,3,0,0,0,0,0
+121,3,425,1,6,Sri Lanka,Dasun Shanaka,Harshal Patel,,20,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,19.2,2,1,0,183638,127.69,45.71,2,0,,8,OFF CUTTER,18,SLOG SHOT,0,0,3,19,167,5,0,0,3,0,0,0,0,0
+122,4,425,1,6,Sri Lanka,Dasun Shanaka,Harshal Patel,,20,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,19.3,2,1,0,183639,163.61,-46.37,4,0,,8,OFF CUTTER,18,SLOG SHOT,0,0,4,19,171,5,0,0,3,0,0,0,0,0
+123,5,425,1,6,Sri Lanka,Dasun Shanaka,Harshal Patel,,20,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,19.4,2,1,0,183640,163.61,-46.37,0,0,,39,ANGLED IN,40,FLICK,0,0,5,19,171,5,0,0,3,0,0,0,0,0
+124,6,425,1,6,Sri Lanka,Dasun Shanaka,Harshal Patel,,20,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,19.5,2,1,0,183641,-131.07,159.44,6,0,,8,OFF CUTTER,5,LOFT OFF,0,0,6,19,177,5,0,0,3,0,0,0,0,0
+125,7,425,1,6,Sri Lanka,Dasun Shanaka,Harshal Patel,,20,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,19.6,2,1,0,183642,131.38,159.90,6,0,,39,ANGLED IN,11,LOFT ON,0,0,7,19,183,5,0,0,3,0,0,0,0,0
+126,1,425,2,1,India,Rohit Sharma,Dushmantha Chameera,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,0.1,2,1,0,183643,126.77,-32.56,1,0,,39,ANGLED IN,40,FLICK,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+127,2,425,2,1,India,Ishan Kishan,Dushmantha Chameera,,1,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,0.2,2,1,0,183644,-149.03,-31.64,2,0,,30,ANGLED ACROSS,40,FLICK,0,0,2,0,3,0,0,0,0,0,0,0,0,0
+128,3,425,2,1,India,Ishan Kishan,Dushmantha Chameera,,1,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,0.3,2,1,0,183645,132.76,-95.64,4,0,,30,ANGLED ACROSS,44,GLIDE,0,0,3,0,7,0,0,0,0,0,0,0,0,0
+129,4,425,2,1,India,Ishan Kishan,Dushmantha Chameera,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,0.4,2,1,0,183646,49.42,4.73,0,0,,41,INSWINGER,49,FORWARD DEFENCE,0,0,4,0,7,0,0,0,0,0,0,0,0,0
+130,5,425,2,1,India,Ishan Kishan,Dushmantha Chameera,,1,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,0.5,2,1,1,183647,49.42,4.73,1,0,,41,INSWINGER,54,LEG GLANCE,0,0,5,0,8,0,0,0,0,0,0,0,0,0
+131,6,425,2,1,India,Ishan Kishan,Dushmantha Chameera,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,0.5,2,1,0,183648,-81.80,-9.08,1,0,,41,INSWINGER,54,LEG GLANCE,0,0,6,0,9,0,0,0,0,0,0,0,0,0
+132,7,425,2,1,India,Rohit Sharma,Dushmantha Chameera,,1,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,0.6,2,1,0,183649,-81.80,-9.08,0,0,,43,NIPBACKER,49,FORWARD DEFENCE,0,0,7,0,9,1,1,0,0,0,0,0,0,0
+133,1,425,2,1,India,Ishan Kishan,Binura Fernando,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.1,2,1,0,183650,43.44,17.17,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,1,1,9,1,2,0,0,0,0,0,0,0
+134,2,425,2,1,India,Ishan Kishan,Binura Fernando,,2,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,1.2,2,1,0,183651,86.72,-128.79,4,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,2,1,13,1,0,0,0,0,0,0,0,0
+135,3,425,2,1,India,Ishan Kishan,Binura Fernando,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.3,2,1,0,183652,-30.23,-24.27,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,3,1,13,1,0,0,0,0,0,0,0,0
+136,4,425,2,1,India,Ishan Kishan,Binura Fernando,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,1.4,2,1,0,183653,-126.92,21.31,1,0,,39,ANGLED IN,40,FLICK,0,0,4,1,14,1,0,0,0,0,0,0,0,0
+137,5,425,2,1,India,Shreyas Iyer,Binura Fernando,,2,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,1.5,2,1,0,183654,5.68,206.40,4,0,,41,INSWINGER,53,STRAIGHT DRIVE,0,0,5,1,18,1,0,0,0,0,0,0,0,0
+138,6,425,2,1,India,Shreyas Iyer,Binura Fernando,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,1.6,2,1,0,183655,-73.05,59.53,0,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,6,1,18,1,0,0,0,0,0,0,0,0
+139,1,425,2,1,India,Ishan Kishan,Dushmantha Chameera,,3,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,2.1,2,1,1,183656,-73.05,59.53,1,0,,41,INSWINGER,58,PULL SHOT,0,0,1,2,19,1,1,0,0,0,0,0,0,0
+140,2,425,2,1,India,Ishan Kishan,Dushmantha Chameera,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,2.1,2,1,0,183657,56.79,-114.06,1,0,,41,INSWINGER,50,BACKFOOT DEFENCE,0,0,2,2,20,1,0,0,0,0,0,0,0,0
+141,3,425,2,1,India,Shreyas Iyer,Dushmantha Chameera,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.2,2,1,0,183658,-69.83,-27.50,0,0,,38,STRAIGHT BALL,97,BACKFOOT PUSH,0,0,3,2,20,1,0,0,0,0,0,0,0,0
+142,4,425,2,1,India,Shreyas Iyer,Dushmantha Chameera,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,2.3,2,1,0,183659,-69.83,-27.50,0,0,,42,OUTSWINGER,96,Slice,0,0,4,2,20,1,0,0,0,0,0,0,0,0
+143,5,425,2,1,India,Shreyas Iyer,Dushmantha Chameera,,3,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,2.4,2,1,0,183660,-50.49,56.76,1,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,5,2,21,1,0,0,0,0,0,0,0,0
+144,6,425,2,1,India,Ishan Kishan,Dushmantha Chameera,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,2.5,2,1,0,183661,60.93,73.34,1,0,,30,ANGLED ACROSS,84,OFF DRIVE,0,0,6,2,22,1,0,0,0,0,0,0,0,0
+145,7,425,2,1,India,Shreyas Iyer,Dushmantha Chameera,,3,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,,,,0,2.6,2,1,1,183662,60.93,73.34,1,0,,43,NIPBACKER,97,BACKFOOT PUSH,0,0,7,2,23,1,0,0,0,0,0,0,0,0
+146,1,425,2,1,India,Shreyas Iyer,Lahiru Kumara,,4,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,,,,0,3.1,2,1,1,183663,60.93,73.34,1,0,,39,ANGLED IN,40,FLICK,0,0,1,3,24,1,1,0,0,0,0,0,0,0
+147,2,425,2,1,India,Ishan Kishan,Lahiru Kumara,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.2,2,1,0,183664,60.93,73.34,0,0,,36,BOUNCER,46,FRONTFOOT PULL SHOT,1,0,2,3,24,1,0,0,0,0,0,0,0,0
+148,3,425,2,1,India,Ishan Kishan,Lahiru Kumara,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,3.3,2,1,0,183665,76.13,-103.47,1,0,,30,ANGLED ACROSS,11,LOFT ON,0,0,3,3,25,1,0,0,0,0,0,0,0,0
+149,4,425,2,1,India,Shreyas Iyer,Lahiru Kumara,,4,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,3.4,2,1,0,183666,-62.46,-134.78,4,0,,37,NIPPED AWAY,97,BACKFOOT PUSH,0,0,4,3,29,1,0,0,0,0,0,0,0,0
+150,5,425,2,1,India,Shreyas Iyer,Lahiru Kumara,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,3.5,2,1,0,183667,-76.28,57.68,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,5,3,30,1,0,0,0,0,0,0,0,0
+151,6,425,2,1,India,Ishan Kishan,Lahiru Kumara,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,3.6,2,1,0,183668,-76.28,57.68,0,0,,30,ANGLED ACROSS,58,PULL SHOT,0,0,6,3,30,1,0,0,0,0,0,0,0,0
+152,1,425,2,1,India,Shreyas Iyer,Binura Fernando,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,4.1,2,1,0,183669,-67.99,-87.35,1,0,,30,ANGLED ACROSS,44,GLIDE,0,0,1,4,31,1,1,0,0,0,0,0,0,0
+153,2,425,2,1,India,Ishan Kishan,Binura Fernando,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,4.2,2,1,0,183670,76.13,77.48,1,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,2,4,32,1,0,0,0,0,0,0,0,0
+154,3,425,2,1,India,Shreyas Iyer,Binura Fernando,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,4.3,2,1,0,183671,24.10,45.71,0,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,3,4,32,1,0,0,0,0,0,0,0,0
+155,4,425,2,1,India,Shreyas Iyer,Binura Fernando,,5,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.4,2,1,0,183672,53.10,202.72,4,0,,30,ANGLED ACROSS,46,FRONTFOOT PULL SHOT,0,0,4,4,36,1,0,0,0,0,0,0,0,0
+156,5,425,2,1,India,Shreyas Iyer,Binura Fernando,,5,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.5,2,1,0,183673,149.33,135.50,4,0,,30,ANGLED ACROSS,46,FRONTFOOT PULL SHOT,0,0,5,4,40,1,0,0,0,0,0,0,0,0
+157,6,425,2,1,India,Shreyas Iyer,Binura Fernando,,5,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,4.6,2,1,0,183674,-53.72,196.27,4,0,,30,ANGLED ACROSS,84,OFF DRIVE,0,0,6,4,44,1,0,0,0,0,0,0,0,0
+158,1,425,2,1,India,Ishan Kishan,Lahiru Kumara,,6,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.1,2,1,0,183675,-67.07,101.42,0,0,,30,ANGLED ACROSS,11,LOFT ON,0,0,1,5,44,2,1,0,0,0,0,0,0,0
+159,2,425,2,1,India,Sanju Samson,Lahiru Kumara,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.2,2,1,0,183676,-67.99,-20.13,0,0,,38,STRAIGHT BALL,50,BACKFOOT DEFENCE,0,0,2,5,44,2,2,0,0,0,0,0,0,0
+160,3,425,2,1,India,Sanju Samson,Lahiru Kumara,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.3,2,1,0,183677,-67.99,-20.13,0,0,,41,INSWINGER,27,FORWARD PUSH,0,0,3,5,44,2,0,0,0,0,0,0,0,0
+161,4,425,2,1,India,Sanju Samson,Lahiru Kumara,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,5.4,2,1,0,183678,-69.83,-24.73,0,0,,46,LEGCUTTER,97,BACKFOOT PUSH,0,0,4,5,44,2,0,0,0,0,0,0,0,0
+162,5,425,2,1,India,Sanju Samson,Lahiru Kumara,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,5.5,2,1,0,183679,47.12,30.06,1,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,5,5,45,2,0,0,0,0,0,0,0,0
+163,6,425,2,1,India,Shreyas Iyer,Lahiru Kumara,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,5.6,2,1,0,183680,135.98,-14.60,1,0,,46,LEGCUTTER,40,FLICK,0,0,6,5,46,2,0,0,0,0,0,0,0,0
+165,1,425,2,1,India,Shreyas Iyer,Praveen Jayawickrama,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,6.1,2,1,0,183681,-98.38,109.71,1,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,1,6,47,2,1,0,0,0,0,0,0,0
+166,2,425,2,1,India,Sanju Samson,Praveen Jayawickrama,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,6.2,2,1,0,183682,-98.38,109.71,1,0,,23,ARM BALL,54,LEG GLANCE,0,0,2,6,48,2,0,0,0,0,0,0,0,0
+167,3,425,2,1,India,Shreyas Iyer,Praveen Jayawickrama,,7,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,6.3,2,1,0,183683,-98.38,109.71,2,0,,23,ARM BALL,40,FLICK,0,0,3,6,50,2,0,1,1,0,1,0,0,0
+168,4,425,2,1,India,Shreyas Iyer,Praveen Jayawickrama,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,6.4,2,1,0,183684,-98.38,109.71,1,0,,23,ARM BALL,84,OFF DRIVE,0,0,4,6,51,2,0,0,1,0,0,0,0,0
+169,5,425,2,1,India,Sanju Samson,Praveen Jayawickrama,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.5,2,1,0,183685,63.23,43.41,0,0,,23,ARM BALL,50,BACKFOOT DEFENCE,0,0,5,6,51,2,0,0,1,0,0,0,0,0
+170,6,425,2,1,India,Sanju Samson,Praveen Jayawickrama,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,6.6,2,1,0,183686,63.23,43.41,0,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,6,6,51,2,0,0,1,0,0,0,0,0
+171,1,425,2,1,India,Shreyas Iyer,Chamika Karunaratne,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,7.1,2,1,0,183687,-84.56,-70.78,1,0,,39,ANGLED IN,44,GLIDE,0,0,1,7,52,2,1,0,1,0,0,0,0,0
+172,2,425,2,1,India,Sanju Samson,Chamika Karunaratne,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,7.2,2,1,0,183688,63.23,142.40,1,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,2,7,53,2,0,0,1,0,0,0,0,0
+173,3,425,2,1,India,Shreyas Iyer,Chamika Karunaratne,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,7.3,2,1,0,183689,116.64,-30.26,1,0,,36,BOUNCER,58,PULL SHOT,1,0,3,7,54,2,0,0,1,0,0,0,0,0
+174,4,425,2,1,India,Sanju Samson,Chamika Karunaratne,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.4,2,1,0,183690,-63.38,30.52,0,0,,38,STRAIGHT BALL,52,BACKFOOT COVERDRIVE,0,0,4,7,54,2,0,0,1,0,0,0,0,0
+175,5,425,2,1,India,Sanju Samson,Chamika Karunaratne,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,7.5,2,1,0,183691,-63.38,30.52,0,0,,37,NIPPED AWAY,13,LOFT STRAIGHT,0,0,5,7,54,2,0,0,1,0,0,0,0,0
+176,6,425,2,1,India,Sanju Samson,Chamika Karunaratne,,8,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,7.6,2,1,0,183692,106.51,84.85,2,0,,46,LEGCUTTER,27,FORWARD PUSH,0,0,6,7,56,2,0,0,1,0,0,0,0,0
+177,1,425,2,1,India,Shreyas Iyer,Praveen Jayawickrama,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.1,2,1,0,183693,47.12,46.63,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,1,8,56,2,1,0,1,0,0,0,0,0
+178,2,425,2,1,India,Shreyas Iyer,Praveen Jayawickrama,,9,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,8.2,2,1,0,183694,47.12,209.17,6,0,,10,ORTHODOX,69,SDL STRAIGHT,0,0,2,8,62,2,0,0,1,0,0,0,0,0
+179,3,425,2,1,India,Shreyas Iyer,Praveen Jayawickrama,,9,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,8.3,2,1,0,183695,76.59,202.26,6,0,,23,ARM BALL,94,SDL ON,0,0,3,8,68,2,0,0,1,0,0,0,0,0
+180,4,425,2,1,India,Shreyas Iyer,Praveen Jayawickrama,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,8.4,2,1,0,183696,28.24,34.66,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,4,8,68,2,0,0,1,0,0,0,0,0
+181,5,425,2,1,India,Shreyas Iyer,Praveen Jayawickrama,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,8.5,2,1,0,183697,-94.23,115.70,1,0,,10,ORTHODOX,84,OFF DRIVE,0,0,5,8,69,2,0,0,1,0,0,0,0,0
+182,6,425,2,1,India,Sanju Samson,Praveen Jayawickrama,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,8.6,2,1,0,183698,132.30,45.25,1,0,,23,ARM BALL,27,FORWARD PUSH,0,0,6,8,70,2,0,0,1,0,0,0,0,0
+184,1,425,2,1,India,Sanju Samson,Dasun Shanaka,,10,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,9.1,2,1,0,183699,169.13,-24.73,4,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,1,9,74,2,1,0,1,0,0,0,0,0
+185,2,425,2,1,India,Sanju Samson,Dasun Shanaka,,10,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,9.2,2,1,0,183700,141.97,48.01,2,0,,8,OFF CUTTER,40,FLICK,0,0,2,9,76,2,0,0,1,0,0,0,0,0
+186,3,425,2,1,India,Sanju Samson,Dasun Shanaka,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,9.3,2,1,0,183701,107.44,84.39,1,0,,36,BOUNCER,58,PULL SHOT,1,0,3,9,77,2,0,0,1,0,0,0,0,0
+187,4,425,2,1,India,Shreyas Iyer,Dasun Shanaka,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,9.4,2,1,0,183702,67.38,37.42,1,0,,37,NIPPED AWAY,97,BACKFOOT PUSH,0,0,4,9,78,2,0,0,1,0,0,0,0,0
+188,5,425,2,1,India,Sanju Samson,Dasun Shanaka,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,9.5,2,1,0,183703,119.87,47.09,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,5,9,79,2,0,0,1,0,0,0,0,0
+189,6,425,2,1,India,Shreyas Iyer,Dasun Shanaka,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,9.6,2,1,0,183704,-46.81,3.81,1,0,,46,LEGCUTTER,40,FLICK,0,0,6,9,80,2,0,0,1,0,0,0,0,0
+190,1,425,2,1,India,Shreyas Iyer,Chamika Karunaratne,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.1,2,1,0,183705,121.71,-21.97,1,0,,46,LEGCUTTER,40,FLICK,0,0,1,10,81,2,1,0,1,0,0,0,0,0
+191,2,425,2,1,India,Sanju Samson,Chamika Karunaratne,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.2,2,1,0,183706,123.09,39.27,1,0,,39,ANGLED IN,58,PULL SHOT,0,0,2,10,82,2,0,0,1,0,0,0,0,0
+192,3,425,2,1,India,Shreyas Iyer,Chamika Karunaratne,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.3,2,1,0,183707,144.73,50.78,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,3,10,83,2,0,0,1,0,0,0,0,0
+193,4,425,2,1,India,Sanju Samson,Chamika Karunaratne,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.4,2,1,0,183708,74.28,140.56,1,0,,39,ANGLED IN,47,ON DRIVE,0,0,4,10,84,2,0,0,1,0,0,0,0,0
+194,5,425,2,1,India,Shreyas Iyer,Chamika Karunaratne,,11,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,10.5,2,1,0,183709,33.31,212.39,6,0,,36,BOUNCER,58,PULL SHOT,1,0,5,10,90,2,0,0,1,0,0,0,0,0
+195,6,425,2,1,India,Shreyas Iyer,Chamika Karunaratne,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,10.6,2,1,0,183710,63.23,141.48,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,6,10,91,2,0,0,1,0,0,0,0,0
+197,1,425,2,1,India,Shreyas Iyer,Dasun Shanaka,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,11.1,2,1,0,183711,-10.90,44.33,0,0,,20,BACKHAND SLOWER,27,FORWARD PUSH,0,0,1,11,91,2,1,0,1,0,0,0,0,0
+198,2,425,2,1,India,Shreyas Iyer,Dasun Shanaka,,12,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,11.2,2,1,0,183712,-156.39,-84.13,6,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,2,11,97,2,0,0,1,0,0,0,0,0
+199,3,425,2,1,India,Shreyas Iyer,Dasun Shanaka,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,11.3,2,1,0,183713,130.00,-46.83,1,0,,39,ANGLED IN,40,FLICK,0,0,3,11,98,2,0,0,1,0,0,0,0,0
+200,4,425,2,1,India,Sanju Samson,Dasun Shanaka,,12,4,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,,,,0,11.4,2,1,1,183714,130.00,-46.83,2,0,,39,ANGLED IN,40,FLICK,0,0,4,11,100,2,0,1,2,0,0,1,0,0
+201,5,425,2,1,India,Shreyas Iyer,Dasun Shanaka,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,11.4,2,1,0,183715,138.28,-40.39,1,0,,39,ANGLED IN,40,FLICK,0,0,5,11,101,2,0,0,2,0,0,0,0,0
+202,6,425,2,1,India,Sanju Samson,Dasun Shanaka,,12,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,11.5,2,1,1,183716,138.28,-40.39,1,0,,39,ANGLED IN,105,LEFT ALONE,0,0,6,11,102,2,0,0,2,0,0,0,0,0
+203,7,425,2,1,India,Sanju Samson,Dasun Shanaka,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,11.5,2,1,0,183717,144.73,33.74,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,7,11,103,2,0,0,2,0,0,0,0,0
+204,8,425,2,1,India,Shreyas Iyer,Dasun Shanaka,,12,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,11.6,2,1,0,183718,9.36,200.42,2,0,,39,ANGLED IN,53,STRAIGHT DRIVE,0,0,8,11,105,2,0,0,2,0,0,0,0,0
+205,1,425,2,1,India,Sanju Samson,Lahiru Kumara,,13,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,12.1,2,1,0,183719,113.88,-106.23,4,0,,39,ANGLED IN,11,LOFT ON,0,0,1,12,109,2,1,0,2,0,0,0,0,0
+206,2,425,2,1,India,Sanju Samson,Lahiru Kumara,,13,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,12.2,2,1,0,183720,-19.18,216.53,6,0,,46,LEGCUTTER,13,LOFT STRAIGHT,0,0,2,12,115,2,0,0,2,0,0,0,0,0
+207,3,425,2,1,India,Sanju Samson,Lahiru Kumara,,13,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,12.3,2,1,1,183721,-19.18,216.53,1,0,,38,STRAIGHT BALL,105,LEFT ALONE,0,0,3,12,116,2,0,0,2,0,0,0,0,0
+208,4,425,2,1,India,Sanju Samson,Lahiru Kumara,,13,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,12.3,2,1,0,183722,-188.16,65.97,6,0,,38,STRAIGHT BALL,15,LOFT COVER,0,0,4,12,122,2,0,0,2,0,0,0,0,0
+209,5,425,2,1,India,Sanju Samson,Lahiru Kumara,,13,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,12.4,2,1,0,183723,-70.29,43.87,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,5,12,122,2,0,0,2,0,0,0,0,0
+210,6,425,2,1,India,Sanju Samson,Lahiru Kumara,,13,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,12.5,2,1,0,183724,-23.79,207.32,6,0,,39,ANGLED IN,11,LOFT ON,0,0,6,12,128,2,0,0,2,0,0,0,0,0
+211,7,425,2,1,India,Sanju Samson,Lahiru Kumara,,13,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,12.6,2,1,0,183725,-33.00,-66.17,0,0,,38,STRAIGHT BALL,15,LOFT COVER,0,0,7,12,128,3,1,0,2,0,0,0,0,0
+212,1,425,2,1,India,Shreyas Iyer,Chamika Karunaratne,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.1,2,1,0,183726,130.92,64.59,1,0,,39,ANGLED IN,47,ON DRIVE,0,0,1,13,129,3,2,0,2,0,0,0,0,0
+213,2,425,2,1,India,Ravindra Jadeja,Chamika Karunaratne,,14,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,13.2,2,1,0,183727,150.72,145.17,4,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,2,13,133,3,0,0,2,0,0,0,0,0
+214,3,425,2,1,India,Ravindra Jadeja,Chamika Karunaratne,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.3,2,1,0,183728,55.87,105.57,1,0,,30,ANGLED ACROSS,84,OFF DRIVE,0,0,3,13,134,3,0,0,2,0,0,0,0,0
+215,4,425,2,1,India,Shreyas Iyer,Chamika Karunaratne,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.4,2,1,0,183729,133.68,69.19,1,0,,16,SLOW BOUNCER,58,PULL SHOT,0,0,4,13,135,3,0,0,2,0,0,0,0,0
+216,5,425,2,1,India,Ravindra Jadeja,Chamika Karunaratne,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,13.5,2,1,0,183730,133.68,69.19,0,0,,36,BOUNCER,58,PULL SHOT,1,0,5,13,135,3,0,0,2,0,0,0,0,0
+217,6,425,2,1,India,Ravindra Jadeja,Chamika Karunaratne,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,13.6,2,1,0,183731,79.35,-92.42,1,0,,30,ANGLED ACROSS,44,GLIDE,0,0,6,13,136,3,0,0,2,0,0,0,0,0
+218,1,425,2,1,India,Ravindra Jadeja,Binura Fernando,,15,1,5 (NB),5,4,0,0,0,0,1,0,1,0,0,1,0,,,,0,14.1,2,1,1,183732,172.36,-29.80,5,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,1,14,141,3,1,0,2,0,0,0,0,0
+219,2,425,2,1,India,Ravindra Jadeja,Binura Fernando,,15,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,14.1,2,1,0,183733,-20.56,216.07,4,0,,39,ANGLED IN,53,STRAIGHT DRIVE,0,0,2,14,145,3,0,0,2,0,0,0,0,0
+220,3,425,2,1,India,Ravindra Jadeja,Binura Fernando,,15,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,14.2,2,1,1,183734,-20.56,216.07,1,0,,16,SLOW BOUNCER,105,LEFT ALONE,0,0,3,14,146,3,0,0,2,0,0,0,0,0
+221,4,425,2,1,India,Ravindra Jadeja,Binura Fernando,,15,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,14.2,2,1,0,183735,-122.32,62.29,2,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,4,14,148,3,0,0,2,0,0,0,0,0
+222,5,425,2,1,India,Ravindra Jadeja,Binura Fernando,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,14.3,2,1,0,183736,55.87,-25.65,1,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,5,14,149,3,0,0,2,0,0,0,0,0
+223,6,425,2,1,India,Shreyas Iyer,Binura Fernando,,15,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,14.4,2,1,0,183737,-135.67,-40.39,2,0,,30,ANGLED ACROSS,44,GLIDE,0,0,6,14,151,3,0,1,3,0,0,0,0,0
+224,7,425,2,1,India,Shreyas Iyer,Binura Fernando,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,14.5,2,1,0,183738,-63.38,163.12,1,0,,30,ANGLED ACROSS,84,OFF DRIVE,0,0,7,14,152,3,0,0,3,0,0,0,0,0
+225,8,425,2,1,India,Ravindra Jadeja,Binura Fernando,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,14.6,2,1,0,183739,-128.31,-16.45,1,0,,39,ANGLED IN,40,FLICK,0,0,8,14,153,3,0,0,3,0,0,0,0,0
+226,1,425,2,1,India,Ravindra Jadeja,Dushmantha Chameera,,16,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,,,,0,15.1,2,1,0,183740,-91.93,128.13,2,0,,38,STRAIGHT BALL,47,ON DRIVE,0,0,1,15,155,3,1,0,3,0,0,0,0,0
+227,2,425,2,1,India,Ravindra Jadeja,Dushmantha Chameera,,16,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,,,,0,15.2,2,1,0,183741,-12.74,210.55,6,0,,38,STRAIGHT BALL,13,LOFT STRAIGHT,0,0,2,15,161,3,0,0,3,0,0,0,0,0
+228,3,425,2,1,India,Ravindra Jadeja,Dushmantha Chameera,,16,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,15.3,2,1,0,183742,-172.97,62.29,4,0,,8,OFF CUTTER,58,PULL SHOT,0,0,3,15,165,3,0,0,3,0,0,0,0,0
+229,4,425,2,1,India,Ravindra Jadeja,Dushmantha Chameera,,16,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,15.4,2,1,0,183743,-172.51,-12.30,4,0,,38,STRAIGHT BALL,58,PULL SHOT,0,0,4,15,169,3,0,0,3,0,0,0,0,0
+230,5,425,2,1,India,Ravindra Jadeja,Dushmantha Chameera,,16,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,15.5,2,1,0,183744,131.84,-97.94,4,0,,30,ANGLED ACROSS,96,Slice,0,0,5,15,173,3,0,0,3,0,0,0,0,0
+231,6,425,2,1,India,Ravindra Jadeja,Dushmantha Chameera,,16,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,,,,0,15.6,2,1,1,183745,131.84,-97.94,1,0,,30,ANGLED ACROSS,105,LEFT ALONE,0,0,6,15,174,3,0,0,3,0,0,0,0,0
+232,7,425,2,1,India,Ravindra Jadeja,Dushmantha Chameera,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,15.6,2,1,0,183746,109.74,119.84,1,0,,30,ANGLED ACROSS,5,LOFT OFF,0,0,7,15,175,3,0,0,3,0,0,0,0,0
+233,1,425,2,1,India,Ravindra Jadeja,Binura Fernando,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.1,2,1,0,183747,73.36,-36.24,1,0,,39,ANGLED IN,36,CUT SHOT,0,0,1,16,176,3,1,0,3,0,0,0,0,0
+234,2,425,2,1,India,Shreyas Iyer,Binura Fernando,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.2,2,1,0,183748,-83.18,50.32,1,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,2,16,177,3,0,0,3,0,0,0,0,0
+235,3,425,2,1,India,Ravindra Jadeja,Binura Fernando,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,,,,0,16.3,2,1,0,183749,-132.45,66.43,1,0,,39,ANGLED IN,58,PULL SHOT,0,0,3,16,178,3,0,0,3,0,0,0,0,0
+236,4,425,2,1,India,Shreyas Iyer,Binura Fernando,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,16.4,2,1,0,183750,-132.45,66.43,0,0,,30,ANGLED ACROSS,96,Slice,0,0,4,16,178,3,0,0,3,0,0,0,0,0
+237,5,425,2,1,India,Shreyas Iyer,Binura Fernando,,17,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,16.5,2,1,0,183751,-49.57,-138.46,4,0,,30,ANGLED ACROSS,44,GLIDE,0,0,5,16,182,3,0,0,3,0,0,0,0,0
+238,6,425,2,1,India,Shreyas Iyer,Binura Fernando,,17,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,,,,0,16.6,2,1,0,183752,-49.57,-138.46,0,0,,30,ANGLED ACROSS,96,Slice,0,0,6,16,182,3,0,0,3,0,0,0,0,0
+239,1,425,2,1,India,Ravindra Jadeja,Dushmantha Chameera,,18,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,,,,0,17.1,2,1,0,183753,36.53,211.47,4,0,,30,ANGLED ACROSS,53,STRAIGHT DRIVE,0,0,1,17,186,3,1,0,3,0,0,0,0,0

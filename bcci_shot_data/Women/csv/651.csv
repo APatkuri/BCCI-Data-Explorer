@@ -1,0 +1,252 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,651,1,1,India,K L Rahul,Naseem Shah,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,240414,-58.78,-17.83,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,651,1,1,India,K L Rahul,Naseem Shah,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,240416,-107.59,-56.04,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+2,3,651,1,1,India,Rohit Sharma,Naseem Shah,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,240418,-107.59,-56.04,0,0,,,Knuckleball,105,LEFT ALONE,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+3,4,651,1,1,India,Rohit Sharma,Naseem Shah,,1,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.4,1,1,0,240420,-179.87,22.69,4,0,,,Knuckleball,89,STEP DOWN COVER DRIVE,0,0,4,0,5,0,0,0,0,0,0,0,0,0
+4,5,651,1,1,India,Rohit Sharma,Naseem Shah,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,240422,-40.82,91.29,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,0,5,0,0,0,0,0,0,0,0,0
+5,6,651,1,1,India,Rohit Sharma,Naseem Shah,,1,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,0.6,1,1,0,240424,172.36,-12.30,6,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,6,0,11,0,0,0,0,0,0,0,0,0
+6,1,651,1,1,India,K L Rahul,Mohammad Hasnain,,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,240426,-87.79,-65.71,1,0,,,Knuckleball,44,GLIDE,0,0,1,1,12,0,1,0,0,0,0,0,0,0
+7,2,651,1,1,India,Rohit Sharma,Mohammad Hasnain,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,240428,-87.79,-65.71,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,1,12,0,0,0,0,0,0,0,0,0
+8,3,651,1,1,India,Rohit Sharma,Mohammad Hasnain,,2,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.3,1,1,0,240430,-92.85,186.60,4,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,3,1,16,0,0,0,0,0,0,0,0,0
+9,4,651,1,1,India,Rohit Sharma,Mohammad Hasnain,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,240432,49.88,106.49,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,1,17,0,0,0,0,0,0,0,0,0
+10,5,651,1,1,India,K L Rahul,Mohammad Hasnain,,2,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,240434,-113.57,100.04,2,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,5,1,19,0,0,0,0,0,0,0,0,0
+11,6,651,1,1,India,K L Rahul,Mohammad Hasnain,,2,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,240436,44.36,113.86,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,1,20,0,0,0,0,0,0,0,0,0
+12,1,651,1,1,India,K L Rahul,Naseem Shah,,3,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,2.1,1,1,0,240438,-136.59,162.66,6,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,1,2,26,0,1,0,0,0,0,0,0,0
+13,2,651,1,1,India,K L Rahul,Naseem Shah,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,240440,102.37,-17.83,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,2,27,0,0,0,0,0,0,0,0,0
+14,3,651,1,1,India,Rohit Sharma,Naseem Shah,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,240442,77.97,75.18,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,3,2,27,0,0,0,0,0,0,0,0,0
+15,4,651,1,1,India,Rohit Sharma,Naseem Shah,,3,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,240444,-49.57,-97.48,1,0,,,Knuckleball,44,GLIDE,0,0,4,2,28,0,0,0,0,0,0,0,0,0
+16,5,651,1,1,India,K L Rahul,Naseem Shah,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,240446,-33.92,-19.67,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,2,28,0,0,0,0,0,0,0,0,0
+17,6,651,1,1,India,K L Rahul,Naseem Shah,,3,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,2.6,1,1,0,240448,-3.53,224.36,6,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,6,2,34,0,0,0,0,0,0,0,0,0
+18,1,651,1,1,India,Rohit Sharma,Haris Rauf,,4,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.1,1,1,0,240450,-159.62,144.24,4,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,1,3,38,0,1,0,0,0,0,0,0,0
+19,2,651,1,1,India,Rohit Sharma,Haris Rauf,,4,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.2,1,1,0,240452,147.03,-74.00,6,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,3,44,0,0,0,0,0,0,0,0,0
+20,3,651,1,1,India,Rohit Sharma,Haris Rauf,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,240455,74.28,35.58,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,3,45,0,0,0,0,0,0,0,0,0
+21,4,651,1,1,India,K L Rahul,Haris Rauf,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,240456,-108.97,-51.44,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,3,46,0,0,0,0,0,0,0,0,0
+22,5,651,1,1,India,Rohit Sharma,Haris Rauf,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,240459,54.95,111.09,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,5,3,46,0,0,0,0,0,0,0,0,0
+23,6,651,1,1,India,Rohit Sharma,Haris Rauf,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,240460,-62.46,-37.17,0,0,,,Knuckleball,44,GLIDE,0,0,6,3,46,0,0,0,0,0,0,0,0,0
+24,1,651,1,1,India,K L Rahul,Mohammad Nawaz,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,240462,-79.96,62.75,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,4,46,0,1,0,0,0,0,0,0,0
+25,2,651,1,1,India,K L Rahul,Mohammad Nawaz,,5,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.2,1,1,0,240464,-39.44,209.17,4,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-2022/India-VS-Pakistan-(04-Sep-2022)/File_1-5-240464.jpg,,Knuckleball,122,STEP DOWN LOFTED OFF DRIVE,0,0,2,4,50,0,0,1,1,0,1,0,0,0
+26,3,651,1,1,India,K L Rahul,Mohammad Nawaz,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,240466,-44.97,100.04,0,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,3,4,50,0,0,0,1,0,0,0,0,0
+27,4,651,1,1,India,K L Rahul,Mohammad Nawaz,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,240468,71.52,62.29,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,4,51,0,0,0,1,0,0,0,0,0
+28,5,651,1,1,India,Rohit Sharma,Mohammad Nawaz,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,240470,124.01,31.44,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,5,4,52,0,0,0,1,0,0,0,0,0
+29,6,651,1,1,India,K L Rahul,Mohammad Nawaz,,5,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,240472,68.76,150.69,2,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,6,4,54,0,0,0,1,0,0,0,0,0
+30,1,651,1,1,India,Rohit Sharma,Haris Rauf,,6,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.1,1,1,0,240474,68.76,150.69,0,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,1,5,54,1,1,0,1,0,0,0,0,0
+31,2,651,1,1,India,K L Rahul,Haris Rauf,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,240476,43.44,24.53,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,5,55,1,2,0,1,0,0,0,0,0
+32,3,651,1,1,India,Virat Kohli,Haris Rauf,,6,3,5 (WD),5,0,0,0,0,0,5,1,0,0,0,1,0,0,,,0,5.3,1,1,1,240478,43.44,24.53,5,0,,,Knuckleball,105,LEFT ALONE,0,0,3,5,60,1,0,0,1,0,0,0,0,0
+33,4,651,1,1,India,Virat Kohli,Haris Rauf,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,240480,-79.04,90.83,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,4,5,61,1,0,0,1,0,0,0,0,0
+34,5,651,1,1,India,K L Rahul,Haris Rauf,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,1,1,0,240482,-82.72,62.75,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,5,61,1,0,0,1,0,0,0,0,0
+35,6,651,1,1,India,K L Rahul,Haris Rauf,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,240484,-27.93,17.63,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,5,61,1,0,0,1,0,0,0,0,0
+36,7,651,1,1,India,K L Rahul,Haris Rauf,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,240486,-38.52,-7.70,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,7,5,62,1,0,0,1,0,0,0,0,0
+37,1,651,1,1,India,K L Rahul,Shadab Khan,,7,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,6.1,1,1,0,240488,-38.52,-7.70,0,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,1,6,62,2,1,0,1,0,0,0,0,0
+38,2,651,1,1,India,Suryakumar Yadav,Shadab Khan,,7,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.2,1,1,0,240490,-153.17,-62.95,4,0,,,Knuckleball,36,CUT SHOT,0,0,2,6,66,2,2,0,1,0,0,0,0,0
+39,3,651,1,1,India,Suryakumar Yadav,Shadab Khan,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,240492,-153.17,-62.95,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,6,66,2,0,0,1,0,0,0,0,0
+40,4,651,1,1,India,Suryakumar Yadav,Shadab Khan,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,240494,-153.17,-62.95,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,6,66,2,0,0,1,0,0,0,0,0
+41,5,651,1,1,India,Suryakumar Yadav,Shadab Khan,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,240496,63.23,100.96,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,6,67,2,0,0,1,0,0,0,0,0
+42,6,651,1,1,India,Virat Kohli,Shadab Khan,,7,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.6,1,1,0,240498,155.78,142.86,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,6,71,2,0,0,1,0,0,0,0,0
+43,1,651,1,1,India,Suryakumar Yadav,Mohammad Nawaz,,8,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.1,1,1,0,240500,-161.46,121.68,4,0,,,Knuckleball,61,INSIDE OUT,0,0,1,7,75,2,1,0,1,0,0,0,0,0
+44,2,651,1,1,India,Suryakumar Yadav,Mohammad Nawaz,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,240502,-115.87,100.50,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,7,76,2,0,0,1,0,0,0,0,0
+45,3,651,1,1,India,Virat Kohli,Mohammad Nawaz,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,240504,-51.87,48.01,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,7,76,2,0,0,1,0,0,0,0,0
+46,4,651,1,1,India,Virat Kohli,Mohammad Nawaz,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,240506,-89.17,45.25,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,7,76,2,0,0,1,0,0,0,0,0
+47,5,651,1,1,India,Virat Kohli,Mohammad Nawaz,,8,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,240508,-109.89,124.45,2,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,5,7,78,2,0,0,1,0,0,0,0,0
+48,6,651,1,1,India,Virat Kohli,Mohammad Nawaz,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,240510,124.47,81.63,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,6,7,79,2,0,0,1,0,0,0,0,0
+49,1,651,1,1,India,Virat Kohli,Shadab Khan,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,240512,-62.46,143.32,1,0,,24,LEG SPIN,21,STEP DOWN OFF DRIVE,0,0,1,8,80,2,1,0,1,0,0,0,0,0
+50,2,651,1,1,India,Suryakumar Yadav,Shadab Khan,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,240515,-68.91,59.06,1,0,,24,LEG SPIN,51,FRONTFOOT COVERDRIVE,0,0,2,8,81,2,0,0,1,0,0,0,0,0
+51,3,651,1,1,India,Virat Kohli,Shadab Khan,,9,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.3,1,1,0,240516,-116.33,-103.47,4,0,,,Knuckleball,36,CUT SHOT,0,0,3,8,85,2,0,0,1,0,0,0,0,0
+52,4,651,1,1,India,Virat Kohli,Shadab Khan,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,240518,71.06,137.80,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,4,8,86,2,0,0,1,0,0,0,0,0
+53,5,651,1,1,India,Suryakumar Yadav,Shadab Khan,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,240520,82.57,129.05,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,5,8,87,2,0,0,1,0,0,0,0,0
+54,6,651,1,1,India,Virat Kohli,Shadab Khan,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,240522,131.38,-2.63,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,6,8,88,2,0,0,1,0,0,0,0,0
+55,1,651,1,1,India,Virat Kohli,Mohammad Nawaz,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,240524,-68.45,137.34,1,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,1,9,89,2,1,0,1,0,0,0,0,0
+56,2,651,1,1,India,Suryakumar Yadav,Mohammad Nawaz,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,240527,110.66,-40.85,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,9,90,2,0,0,1,0,0,0,0,0
+57,3,651,1,1,India,Virat Kohli,Mohammad Nawaz,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,240528,113.88,94.52,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,3,9,91,2,0,0,1,0,0,0,0,0
+58,4,651,1,1,India,Suryakumar Yadav,Mohammad Nawaz,,10,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,9.4,1,1,0,240529,113.88,94.52,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,9,91,3,1,0,1,0,0,0,0,0
+59,5,651,1,1,India,Rishabh Pant,Mohammad Nawaz,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,240532,69.68,-29.34,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,9,92,3,2,0,1,0,0,0,0,0
+60,6,651,1,1,India,Virat Kohli,Mohammad Nawaz,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,240534,117.56,49.40,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,9,93,3,0,0,1,0,0,0,0,0
+62,1,651,1,1,India,Virat Kohli,Mohammad Hasnain,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,240536,49.88,33.28,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,10,93,3,1,0,1,0,0,0,0,0
+63,2,651,1,1,India,Virat Kohli,Mohammad Hasnain,,11,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.2,1,1,0,240538,153.94,-74.46,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,10,97,3,0,0,1,0,0,0,0,0
+64,3,651,1,1,India,Virat Kohli,Mohammad Hasnain,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,240540,66.46,151.61,1,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,3,10,98,3,0,0,1,0,0,0,0,0
+65,4,651,1,1,India,Rishabh Pant,Mohammad Hasnain,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,240542,-44.05,31.44,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,10,98,3,0,0,1,0,0,0,0,0
+66,5,651,1,1,India,Rishabh Pant,Mohammad Hasnain,,11,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,10.5,1,1,1,240545,-44.05,31.44,1,0,,,Knuckleball,54,LEG GLANCE,0,0,5,10,99,3,0,0,1,0,0,0,0,0
+67,6,651,1,1,India,Rishabh Pant,Mohammad Hasnain,,11,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,10.5,1,1,1,240546,-44.05,31.44,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,6,10,100,3,0,1,2,0,0,1,0,0
+68,7,651,1,1,India,Rishabh Pant,Mohammad Hasnain,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,240548,-73.97,38.81,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,7,10,101,3,0,0,2,0,0,0,0,0
+69,8,651,1,1,India,Virat Kohli,Mohammad Hasnain,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,240550,-58.32,-17.83,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,8,10,101,3,0,0,2,0,0,0,0,0
+70,1,651,1,1,India,Rishabh Pant,Mohammad Nawaz,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,240552,-71.67,-33.48,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,11,102,3,1,0,2,0,0,0,0,0
+71,2,651,1,1,India,Virat Kohli,Mohammad Nawaz,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,240554,117.10,51.24,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,11,103,3,0,0,2,0,0,0,0,0
+72,3,651,1,1,India,Rishabh Pant,Mohammad Nawaz,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,240556,-85.49,32.82,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,3,11,104,3,0,0,2,0,0,0,0,0
+73,4,651,1,1,India,Virat Kohli,Mohammad Nawaz,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,240558,123.55,-19.21,1,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,4,11,105,3,0,0,2,0,0,0,0,0
+74,5,651,1,1,India,Rishabh Pant,Mohammad Nawaz,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,240560,-69.83,-33.48,0,0,,,Knuckleball,37,STEP DOWN FLICK,0,0,5,11,105,3,0,0,2,0,0,0,0,0
+75,6,651,1,1,India,Rishabh Pant,Mohammad Nawaz,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,240562,-86.41,70.12,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,11,105,3,0,0,2,0,0,0,0,0
+76,1,651,1,1,India,Virat Kohli,Naseem Shah,,13,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.1,1,1,0,240564,-174.35,87.15,4,0,,,Knuckleball,89,STEP DOWN COVER DRIVE,0,0,1,12,109,3,1,0,2,0,0,0,0,0
+77,2,651,1,1,India,Virat Kohli,Naseem Shah,,13,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.2,1,1,0,240566,144.27,42.03,2,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,12,111,3,0,0,2,0,0,0,0,0
+78,3,651,1,1,India,Virat Kohli,Naseem Shah,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,240568,-60.16,-15.53,1,0,,,Knuckleball,77,STEP DOWN DEFENCE,0,0,3,12,112,3,0,0,2,0,0,0,0,0
+79,4,651,1,1,India,Rishabh Pant,Naseem Shah,,13,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.4,1,1,0,240570,-179.87,-47.76,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,4,12,116,3,0,0,2,0,0,0,0,0
+80,5,651,1,1,India,Rishabh Pant,Naseem Shah,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,240572,-155.47,36.96,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,5,12,117,3,0,0,2,0,0,0,0,0
+81,6,651,1,1,India,Virat Kohli,Naseem Shah,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,240574,65.54,147.01,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,6,12,118,3,0,0,2,0,0,0,0,0
+82,1,651,1,1,India,Virat Kohli,Shadab Khan,,14,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,13.1,1,1,1,240577,65.54,147.01,1,0,,,Knuckleball,105,LEFT ALONE,0,0,1,13,119,3,1,0,2,0,0,0,0,0
+83,2,651,1,1,India,Virat Kohli,Shadab Khan,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,240578,-113.11,97.74,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,13,120,3,0,0,2,0,0,0,0,0
+84,3,651,1,1,India,Rishabh Pant,Shadab Khan,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,240580,-71.67,137.80,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,3,13,121,3,0,0,2,0,0,0,0,0
+85,4,651,1,1,India,Virat Kohli,Shadab Khan,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,240582,120.79,-33.94,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,13,122,3,0,0,2,0,0,0,0,0
+86,5,651,1,1,India,Rishabh Pant,Shadab Khan,,14,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.4,1,1,0,240584,44.82,-139.38,4,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,5,13,126,3,0,0,2,0,0,0,0,0
+87,6,651,1,1,India,Rishabh Pant,Shadab Khan,,14,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,13.5,1,1,0,240586,44.82,-139.38,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,6,13,126,4,1,0,2,0,0,0,0,0
+88,7,651,1,1,India,Hardik Pandya,Shadab Khan,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,240588,-14.12,43.87,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,7,13,126,4,2,0,2,0,0,0,0,0
+89,1,651,1,1,India,Virat Kohli,Mohammad Hasnain,,15,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,240590,-110.81,-62.95,2,0,,,Knuckleball,89,STEP DOWN COVER DRIVE,0,0,1,14,128,4,3,0,2,0,0,0,0,0
+90,2,651,1,1,India,Virat Kohli,Mohammad Hasnain,,15,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,240592,137.36,45.71,2,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,2,14,130,4,0,0,2,0,0,0,0,0
+91,3,651,1,1,India,Virat Kohli,Mohammad Hasnain,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,240594,141.97,70.12,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,3,14,131,4,0,0,2,0,0,0,0,0
+92,4,651,1,1,India,Hardik Pandya,Mohammad Hasnain,,15,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,14.4,1,1,0,240596,141.97,70.12,0,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,4,14,131,5,1,0,2,0,0,0,0,0
+93,5,651,1,1,India,Deepak Hooda,Mohammad Hasnain,,15,5,4 (BY),4,0,0,0,0,1,4,0,0,1,0,1,0,0,,,0,14.5,1,1,1,240598,141.97,70.12,4,0,,,Knuckleball,31,UPPER CUT,0,0,5,14,135,5,2,0,2,0,0,0,0,0
+94,6,651,1,1,India,Deepak Hooda,Mohammad Hasnain,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,240600,-69.83,-14.14,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,14,135,5,0,0,2,0,0,0,0,0
+95,1,651,1,1,India,Virat Kohli,Shadab Khan,,16,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,240601,-126.00,-39.01,2,0,,,Knuckleball,36,CUT SHOT,0,0,1,15,137,5,1,0,2,0,0,0,0,0
+96,2,651,1,1,India,Virat Kohli,Shadab Khan,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,240604,134.60,100.96,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,15,138,5,0,0,2,0,0,0,0,0
+97,3,651,1,1,India,Deepak Hooda,Shadab Khan,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,240606,59.55,147.01,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,3,15,139,5,0,0,2,0,0,0,0,0
+98,4,651,1,1,India,Virat Kohli,Shadab Khan,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,240608,-95.15,9.34,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,15,140,5,0,0,2,0,0,0,0,0
+99,5,651,1,1,India,Deepak Hooda,Shadab Khan,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,240611,-50.95,-45.91,0,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,5,15,140,5,0,0,2,0,0,0,0,0
+100,6,651,1,1,India,Deepak Hooda,Shadab Khan,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,240612,-50.95,-45.91,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,15,140,5,0,0,2,0,0,0,0,0
+101,1,651,1,1,India,Virat Kohli,Haris Rauf,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,240614,-65.23,99.58,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,16,141,5,1,0,2,0,0,0,0,0
+102,2,651,1,1,India,Deepak Hooda,Haris Rauf,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,240616,69.22,54.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,16,141,5,0,0,2,0,0,0,0,0
+103,3,651,1,1,India,Deepak Hooda,Haris Rauf,,17,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.3,1,1,0,240618,-149.95,142.86,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,16,145,5,0,0,2,0,0,0,0,0
+104,4,651,1,1,India,Deepak Hooda,Haris Rauf,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,240620,-113.57,-43.61,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,16,146,5,0,0,2,0,0,0,0,0
+105,5,651,1,1,India,Virat Kohli,Haris Rauf,,17,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,240622,-11.82,46.17,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,16,146,5,0,0,2,0,0,0,0,0
+106,6,651,1,1,India,Virat Kohli,Haris Rauf,,17,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,240624,124.01,116.16,2,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,6,16,148,5,0,0,2,0,0,0,0,0
+107,1,651,1,1,India,Deepak Hooda,Mohammad Hasnain,,18,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,17.1,1,1,1,240626,124.01,116.16,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,1,17,149,5,1,0,2,0,0,0,0,0
+108,2,651,1,1,India,Deepak Hooda,Mohammad Hasnain,,18,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,240628,-59.24,152.99,2,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,2,17,151,5,0,1,3,0,0,0,0,0
+109,3,651,1,1,India,Deepak Hooda,Mohammad Hasnain,,18,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.2,1,1,0,240630,-118.18,-59.27,2,0,,,Knuckleball,96,SLICED OVER POINT,0,0,3,17,153,5,0,0,3,0,0,0,0,0
+110,4,651,1,1,India,Deepak Hooda,Mohammad Hasnain,,18,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.3,1,1,0,240632,3.38,-146.75,4,0,,,Knuckleball,31,UPPER CUT,0,0,4,17,157,5,0,0,3,0,0,0,0,0
+111,5,651,1,1,India,Deepak Hooda,Mohammad Hasnain,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,1,1,0,240634,-145.80,-13.68,1,0,,,Knuckleball,96,SLICED OVER POINT,0,0,5,17,158,5,0,0,3,0,0,0,0,0
+112,6,651,1,1,India,Virat Kohli,Mohammad Hasnain,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,240636,-145.80,-13.68,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,17,158,5,0,0,3,0,0,0,0,0
+113,7,651,1,1,India,Virat Kohli,Mohammad Hasnain,,18,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.6,1,1,0,240638,154.86,132.73,6,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-2022/India-VS-Pakistan-(04-Sep-2022)/File_1-18-240638.jpg,,Knuckleball,11,LOFTED ON DRIVE,0,0,7,17,164,5,0,0,3,0,0,0,0,0
+114,1,651,1,1,India,Deepak Hooda,Naseem Shah,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,1,1,0,240640,-41.28,-121.88,1,0,,,Knuckleball,31,UPPER CUT,0,0,1,18,165,5,1,0,3,0,0,0,0,0
+115,2,651,1,1,India,Virat Kohli,Naseem Shah,,19,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.2,1,1,0,240642,99.61,-74.46,2,0,,,Knuckleball,70,STEP DOWN PULL SHOT,0,0,2,18,167,5,0,0,3,0,0,0,0,0
+116,3,651,1,1,India,Virat Kohli,Naseem Shah,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,240644,-144.42,17.17,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,18,168,5,0,0,3,0,0,0,0,0
+117,4,651,1,1,India,Deepak Hooda,Naseem Shah,,19,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.4,1,1,0,240646,-144.42,17.17,0,0,,,Knuckleball,18,SLOG SHOT,0,0,4,18,168,6,1,0,3,0,0,0,0,0
+118,5,651,1,1,India,Virat Kohli,Naseem Shah,,19,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,240648,69.22,148.39,2,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,18,170,6,2,0,3,0,0,0,0,0
+119,6,651,1,1,India,Virat Kohli,Naseem Shah,,19,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,240650,57.71,152.07,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,6,18,171,6,0,0,3,0,0,0,0,0
+120,1,651,1,1,India,Virat Kohli,Haris Rauf,,20,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,19.1,1,1,1,240652,57.71,152.07,1,0,,,Knuckleball,105,LEFT ALONE,0,0,1,19,172,6,1,0,3,0,0,0,0,0
+121,2,651,1,1,India,Virat Kohli,Haris Rauf,,20,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.1,1,1,0,240654,57.71,152.07,0,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,2,19,172,6,0,0,3,0,0,0,0,0
+122,3,651,1,1,India,Virat Kohli,Haris Rauf,,20,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,240656,131.84,76.56,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,3,19,172,6,0,0,3,0,0,0,0,0
+123,4,651,1,1,India,Virat Kohli,Haris Rauf,,20,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.3,1,1,0,240658,131.84,76.56,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,19,172,6,0,0,3,0,0,0,0,0
+124,5,651,1,1,India,Virat Kohli,Haris Rauf,,20,4,1 WK,1,1,1,0,0,0,0,0,0,0,0,0,0,1,Run Out,WICKET,0,19.4,1,1,0,240660,103.75,-50.52,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,19,173,7,0,0,3,0,0,0,0,0
+125,6,651,1,1,India,Ravi Bishnoi,Haris Rauf,,20,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.5,1,1,0,240662,-180.79,51.70,4,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,6,19,177,7,0,0,3,0,0,0,0,0
+126,7,651,1,1,India,Ravi Bishnoi,Haris Rauf,,20,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.6,1,1,0,240664,-181.72,70.58,4,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,7,19,181,7,0,0,3,0,0,0,0,0
+128,1,651,2,8,Pakistan,Mohammad Rizwan,Bhuvneshwar Kumar,,1,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.1,1,1,0,240666,-157.77,-66.17,4,0,,,Knuckleball,36,CUT SHOT,0,0,1,0,4,0,1,0,0,0,0,0,0,0
+129,2,651,2,8,Pakistan,Mohammad Rizwan,Bhuvneshwar Kumar,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,240668,-57.40,100.96,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,2,0,4,0,0,0,0,0,0,0,0,0
+130,3,651,2,8,Pakistan,Mohammad Rizwan,Bhuvneshwar Kumar,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,240670,-52.79,106.95,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,3,0,5,0,0,0,0,0,0,0,0,0
+131,4,651,2,8,Pakistan,Babar Azam,Bhuvneshwar Kumar,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,240672,-52.79,106.95,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,0,5,0,0,0,0,0,0,0,0,0
+132,5,651,2,8,Pakistan,Babar Azam,Bhuvneshwar Kumar,,1,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.5,1,1,0,240674,181.10,53.08,4,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,0,9,0,0,0,0,0,0,0,0,0
+133,6,651,2,8,Pakistan,Babar Azam,Bhuvneshwar Kumar,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,240676,-62.00,102.81,0,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,6,0,9,0,0,0,0,0,0,0,0,0
+134,1,651,2,8,Pakistan,Mohammad Rizwan,Arshdeep Singh,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,240678,-85.95,75.18,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,1,9,0,1,0,0,0,0,0,0,0
+135,2,651,2,8,Pakistan,Mohammad Rizwan,Arshdeep Singh,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,240680,18.11,56.76,0,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,2,1,9,0,0,0,0,0,0,0,0,0
+136,3,651,2,8,Pakistan,Mohammad Rizwan,Arshdeep Singh,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,240682,109.28,-58.81,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,3,1,10,0,0,0,0,0,0,0,0,0
+137,4,651,2,8,Pakistan,Babar Azam,Arshdeep Singh,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,240684,-52.33,104.19,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,4,1,11,0,0,0,0,0,0,0,0,0
+138,5,651,2,8,Pakistan,Mohammad Rizwan,Arshdeep Singh,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,240686,-44.97,116.62,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,5,1,11,0,0,0,0,0,0,0,0,0
+139,6,651,2,8,Pakistan,Mohammad Rizwan,Arshdeep Singh,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,240688,-72.59,-37.63,0,0,,,Knuckleball,44,GLIDE,0,0,6,1,11,0,0,0,0,0,0,0,0,0
+140,1,651,2,8,Pakistan,Babar Azam,Bhuvneshwar Kumar,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,240690,130.00,7.96,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,2,12,0,1,0,0,0,0,0,0,0
+141,2,651,2,8,Pakistan,Mohammad Rizwan,Bhuvneshwar Kumar,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,240692,130.00,7.96,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,2,12,0,0,0,0,0,0,0,0,0
+142,3,651,2,8,Pakistan,Mohammad Rizwan,Bhuvneshwar Kumar,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,240694,-65.23,-34.86,0,0,,,Knuckleball,44,GLIDE,0,0,3,2,12,0,0,0,0,0,0,0,0,0
+143,4,651,2,8,Pakistan,Mohammad Rizwan,Bhuvneshwar Kumar,,3,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,240696,-38.98,16.71,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,2,13,0,0,0,0,0,0,0,0,0
+144,5,651,2,8,Pakistan,Babar Azam,Bhuvneshwar Kumar,,3,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,240698,76.59,-67.09,2,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,2,15,0,0,0,0,0,0,0,0,0
+145,6,651,2,8,Pakistan,Babar Azam,Bhuvneshwar Kumar,,3,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.6,1,1,0,240700,169.13,115.70,4,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,6,2,19,0,0,0,0,0,0,0,0,0
+146,1,651,2,8,Pakistan,Mohammad Rizwan,Ravi Bishnoi,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,240702,71.06,-75.84,1,0,,,Knuckleball,54,LEG GLANCE,0,0,1,3,20,0,1,0,0,0,0,0,0,0
+147,2,651,2,8,Pakistan,Babar Azam,Ravi Bishnoi,,4,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,240705,-108.51,120.30,2,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,2,3,22,0,0,0,0,0,0,0,0,0
+148,3,651,2,8,Pakistan,Babar Azam,Ravi Bishnoi,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,240706,45.74,77.48,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,3,22,0,0,0,0,0,0,0,0,0
+149,4,651,2,8,Pakistan,Babar Azam,Ravi Bishnoi,,4,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,3.4,1,1,0,240708,45.74,77.48,0,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-2022/India-VS-Pakistan-(04-Sep-2022)/File_2-4-240708.jpg,,Knuckleball,40,FRONTFOOT FLICK,0,0,4,3,22,1,1,0,0,0,0,0,0,0
+150,5,651,2,8,Pakistan,Fakhar Zaman,Ravi Bishnoi,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,240710,43.44,-4.01,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,3,22,1,2,0,0,0,0,0,0,0
+151,6,651,2,8,Pakistan,Fakhar Zaman,Ravi Bishnoi,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,240712,-8.13,61.83,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,3,22,1,0,0,0,0,0,0,0,0
+152,1,651,2,8,Pakistan,Mohammad Rizwan,Hardik Pandya,,5,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.1,1,1,0,240714,148.41,-63.41,4,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,1,4,26,1,1,0,0,0,0,0,0,0
+153,2,651,2,8,Pakistan,Mohammad Rizwan,Hardik Pandya,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,240716,144.73,8.88,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,4,27,1,0,0,0,0,0,0,0,0
+154,3,651,2,8,Pakistan,Fakhar Zaman,Hardik Pandya,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,240718,-27.47,58.14,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,4,27,1,0,0,0,0,0,0,0,0
+155,4,651,2,8,Pakistan,Fakhar Zaman,Hardik Pandya,,5,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.4,1,1,0,240720,170.51,-71.24,4,0,,,Knuckleball,36,CUT SHOT,0,0,4,4,31,1,0,0,0,0,0,0,0,0
+156,5,651,2,8,Pakistan,Fakhar Zaman,Hardik Pandya,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,240722,41.13,118.92,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,4,32,1,0,0,0,0,0,0,0,0
+157,6,651,2,8,Pakistan,Mohammad Rizwan,Hardik Pandya,,5,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.6,1,1,0,240724,-106.67,-114.06,4,0,,,Knuckleball,31,UPPER CUT,0,0,6,4,36,1,0,0,0,0,0,0,0,0
+158,1,651,2,8,Pakistan,Fakhar Zaman,Arshdeep Singh,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,240726,21.79,46.63,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,5,36,1,1,0,0,0,0,0,0,0
+159,2,651,2,8,Pakistan,Fakhar Zaman,Arshdeep Singh,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,240728,-120.48,-58.81,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,5,37,1,0,0,0,0,0,0,0,0
+160,3,651,2,8,Pakistan,Mohammad Rizwan,Arshdeep Singh,,6,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,5.3,1,1,0,240730,147.49,-78.60,6,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,5,43,1,0,0,0,0,0,0,0,0
+161,4,651,2,8,Pakistan,Mohammad Rizwan,Arshdeep Singh,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,1,1,0,240732,110.66,-54.20,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,4,5,44,1,0,0,0,0,0,0,0,0
+162,5,651,2,8,Pakistan,Fakhar Zaman,Arshdeep Singh,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,240734,110.66,-54.20,0,0,,,Knuckleball,77,STEP DOWN DEFENCE,0,0,5,5,44,1,0,0,0,0,0,0,0,0
+163,6,651,2,8,Pakistan,Fakhar Zaman,Arshdeep Singh,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,240736,110.66,-54.20,0,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,5,44,1,0,0,0,0,0,0,0,0
+164,1,651,2,8,Pakistan,Mohammad Rizwan,Yuzvendra Chahal,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,240738,49.42,152.07,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,6,45,1,1,0,0,0,0,0,0,0
+165,2,651,2,8,Pakistan,Fakhar Zaman,Yuzvendra Chahal,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,240741,-82.26,63.21,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,2,6,45,1,0,0,0,0,0,0,0,0
+166,3,651,2,8,Pakistan,Fakhar Zaman,Yuzvendra Chahal,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,240742,-75.82,21.31,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,6,46,1,0,0,0,0,0,0,0,0
+167,4,651,2,8,Pakistan,Mohammad Rizwan,Yuzvendra Chahal,,7,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.4,1,1,0,240744,-138.90,152.07,4,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,4,6,50,1,0,1,1,0,1,0,0,0
+168,5,651,2,8,Pakistan,Mohammad Rizwan,Yuzvendra Chahal,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,240746,45.74,19.01,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,6,51,1,0,0,1,0,0,0,0,0
+169,6,651,2,8,Pakistan,Fakhar Zaman,Yuzvendra Chahal,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,240748,-50.95,64.59,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,6,51,1,0,0,1,0,0,0,0,0
+170,1,651,2,8,Pakistan,Mohammad Rizwan,Ravi Bishnoi,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,240750,56.33,138.72,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,1,7,52,1,1,0,1,0,0,0,0,0
+171,2,651,2,8,Pakistan,Fakhar Zaman,Ravi Bishnoi,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,240752,-48.19,36.96,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,7,53,1,0,0,1,0,0,0,0,0
+172,3,651,2,8,Pakistan,Mohammad Rizwan,Ravi Bishnoi,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,240754,-112.19,103.73,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,7,54,1,0,0,1,0,0,0,0,0
+173,4,651,2,8,Pakistan,Fakhar Zaman,Ravi Bishnoi,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,240756,-106.67,93.60,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,7,55,1,0,0,1,0,0,0,0,0
+174,5,651,2,8,Pakistan,Mohammad Rizwan,Ravi Bishnoi,,8,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,7.5,1,1,1,240758,-106.67,93.60,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,7,56,1,0,0,1,0,0,0,0,0
+175,6,651,2,8,Pakistan,Fakhar Zaman,Ravi Bishnoi,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,240760,42.51,153.45,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,6,7,57,1,0,0,1,0,0,0,0,0
+176,1,651,2,8,Pakistan,Fakhar Zaman,Yuzvendra Chahal,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,240762,-108.05,-44.07,1,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,1,8,58,1,1,0,1,0,0,0,0,0
+177,2,651,2,8,Pakistan,Mohammad Rizwan,Yuzvendra Chahal,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,240764,149.33,2.43,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,8,59,1,0,0,1,0,0,0,0,0
+178,3,651,2,8,Pakistan,Fakhar Zaman,Yuzvendra Chahal,,9,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.3,1,1,0,240766,167.29,103.27,4,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,3,8,63,1,0,0,1,0,0,0,0,0
+179,4,651,2,8,Pakistan,Fakhar Zaman,Yuzvendra Chahal,,9,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,8.4,1,1,0,240768,167.29,103.27,0,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-2022/India-VS-Pakistan-(04-Sep-2022)/File_2-9-240768.jpg,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,4,8,63,2,1,0,1,0,0,0,0,0
+180,5,651,2,8,Pakistan,Mohammad Nawaz,Yuzvendra Chahal,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,240770,167.29,103.27,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,8,63,2,2,0,1,0,0,0,0,0
+181,6,651,2,8,Pakistan,Mohammad Nawaz,Yuzvendra Chahal,,9,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.6,1,1,0,240772,129.54,-92.42,4,0,,,Knuckleball,35,LATE CUT,0,0,6,8,67,2,0,0,1,0,0,0,0,0
+182,1,651,2,8,Pakistan,Mohammad Rizwan,Hardik Pandya,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,240774,-51.41,97.28,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,1,9,68,2,1,0,1,0,0,0,0,0
+183,2,651,2,8,Pakistan,Mohammad Nawaz,Hardik Pandya,,10,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,9.2,1,1,0,240776,-161.46,176.47,6,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,9,74,2,0,0,1,0,0,0,0,0
+184,3,651,2,8,Pakistan,Mohammad Nawaz,Hardik Pandya,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,240778,-161.46,176.47,0,0,,,Knuckleball,105,LEFT ALONE,0,0,3,9,74,2,0,0,1,0,0,0,0,0
+185,4,651,2,8,Pakistan,Mohammad Nawaz,Hardik Pandya,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,240780,-104.82,-47.29,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,4,9,75,2,0,0,1,0,0,0,0,0
+186,5,651,2,8,Pakistan,Mohammad Rizwan,Hardik Pandya,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,240782,-104.82,-47.29,0,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,9,75,2,0,0,1,0,0,0,0,0
+187,6,651,2,8,Pakistan,Mohammad Rizwan,Hardik Pandya,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,240784,102.83,-49.60,1,0,,,Knuckleball,54,LEG GLANCE,0,0,6,9,76,2,0,0,1,0,0,0,0,0
+189,1,651,2,8,Pakistan,Mohammad Rizwan,Yuzvendra Chahal,,11,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,10.1,1,1,0,240786,186.63,105.11,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,10,82,2,1,0,1,0,0,0,0,0
+190,2,651,2,8,Pakistan,Mohammad Rizwan,Yuzvendra Chahal,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,240788,-82.26,-38.09,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,10,82,2,0,0,1,0,0,0,0,0
+191,3,651,2,8,Pakistan,Mohammad Rizwan,Yuzvendra Chahal,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,240790,-120.02,14.40,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,10,83,2,0,0,1,0,0,0,0,0
+192,4,651,2,8,Pakistan,Mohammad Nawaz,Yuzvendra Chahal,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,240792,67.38,-30.72,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,10,84,2,0,0,1,0,0,0,0,0
+193,5,651,2,8,Pakistan,Mohammad Rizwan,Yuzvendra Chahal,,11,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,240794,135.52,111.09,2,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,5,10,86,2,0,0,1,0,0,0,0,0
+194,6,651,2,8,Pakistan,Mohammad Rizwan,Yuzvendra Chahal,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,240796,-81.34,-31.64,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,10,86,2,0,0,1,0,0,0,0,0
+195,1,651,2,8,Pakistan,Mohammad Nawaz,Ravi Bishnoi,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,240798,141.51,30.52,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,11,87,2,1,0,1,0,0,0,0,0
+196,2,651,2,8,Pakistan,Mohammad Rizwan,Ravi Bishnoi,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,240800,76.59,-39.47,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,11,88,2,0,0,1,0,0,0,0,0
+197,3,651,2,8,Pakistan,Mohammad Nawaz,Ravi Bishnoi,,12,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,11.3,1,1,0,240802,-164.22,104.19,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,3,11,94,2,0,0,1,0,0,0,0,0
+198,4,651,2,8,Pakistan,Mohammad Nawaz,Ravi Bishnoi,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,240804,75.67,-31.64,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,11,95,2,0,0,1,0,0,0,0,0
+199,5,651,2,8,Pakistan,Mohammad Rizwan,Ravi Bishnoi,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,240806,75.67,-31.64,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,11,95,2,0,0,1,0,0,0,0,0
+200,6,651,2,8,Pakistan,Mohammad Rizwan,Ravi Bishnoi,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,240808,140.13,30.98,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,6,11,96,2,0,0,1,0,0,0,0,0
+201,1,651,2,8,Pakistan,Mohammad Rizwan,Arshdeep Singh,,13,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,240810,-95.15,73.34,2,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,12,98,2,1,0,1,0,0,0,0,0
+202,2,651,2,8,Pakistan,Mohammad Rizwan,Arshdeep Singh,,13,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.2,1,1,0,240812,-117.72,109.71,2,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,2,12,100,2,0,1,2,0,0,1,0,0
+203,3,651,2,8,Pakistan,Mohammad Rizwan,Arshdeep Singh,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,240814,139.67,12.56,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,12,101,2,0,0,2,0,0,0,0,0
+204,4,651,2,8,Pakistan,Mohammad Nawaz,Arshdeep Singh,,13,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.4,1,1,0,240816,-5.37,210.09,4,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,4,12,105,2,0,0,2,0,0,0,0,0
+205,5,651,2,8,Pakistan,Mohammad Nawaz,Arshdeep Singh,,13,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,12.5,1,1,1,240818,-5.37,210.09,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,5,12,106,2,0,0,2,0,0,0,0,0
+206,6,651,2,8,Pakistan,Mohammad Rizwan,Arshdeep Singh,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,240820,38.83,53.54,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,12,107,2,0,0,2,0,0,0,0,0
+207,1,651,2,8,Pakistan,Mohammad Rizwan,Hardik Pandya,,14,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,240822,101.45,94.52,2,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,13,109,2,1,0,2,0,0,0,0,0
+208,2,651,2,8,Pakistan,Mohammad Rizwan,Hardik Pandya,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,240824,126.77,50.32,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,13,110,2,0,0,2,0,0,0,0,0
+209,3,651,2,8,Pakistan,Mohammad Nawaz,Hardik Pandya,,14,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.3,1,1,0,240826,150.72,135.50,4,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,3,13,114,2,0,0,2,0,0,0,0,0
+210,4,651,2,8,Pakistan,Mohammad Nawaz,Hardik Pandya,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,240828,150.72,135.50,0,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,4,13,114,2,0,0,2,0,0,0,0,0
+211,5,651,2,8,Pakistan,Mohammad Nawaz,Hardik Pandya,,14,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.5,1,1,0,240830,-10.90,-149.51,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,13,118,2,0,0,2,0,0,0,0,0
+212,6,651,2,8,Pakistan,Mohammad Nawaz,Hardik Pandya,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,240832,58.17,151.15,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,6,13,119,2,0,0,2,0,0,0,0,0
+213,1,651,2,8,Pakistan,Mohammad Nawaz,Yuzvendra Chahal,,15,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.1,1,1,0,240834,-167.90,-56.50,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,14,123,2,1,0,2,0,0,0,0,0
+214,2,651,2,8,Pakistan,Mohammad Nawaz,Yuzvendra Chahal,,15,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.2,1,1,0,240836,-156.85,-85.97,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,14,127,2,0,0,2,0,0,0,0,0
+215,3,651,2,8,Pakistan,Mohammad Nawaz,Yuzvendra Chahal,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,240838,66.46,-36.71,1,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,14,128,2,0,0,2,0,0,0,0,0
+216,4,651,2,8,Pakistan,Mohammad Rizwan,Yuzvendra Chahal,,15,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.4,1,1,0,240840,-158.23,-81.37,4,0,,,Knuckleball,36,CUT SHOT,0,0,4,14,132,2,0,0,2,0,0,0,0,0
+217,5,651,2,8,Pakistan,Mohammad Rizwan,Yuzvendra Chahal,,15,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,240842,113.42,104.65,2,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,14,134,2,0,0,2,0,0,0,0,0
+218,6,651,2,8,Pakistan,Mohammad Rizwan,Yuzvendra Chahal,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,240844,130.46,103.27,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,6,14,135,2,0,0,2,0,0,0,0,0
+219,1,651,2,8,Pakistan,Mohammad Rizwan,Bhuvneshwar Kumar,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,240846,-146.26,-19.67,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,15,136,2,1,0,2,0,0,0,0,0
+220,2,651,2,8,Pakistan,Mohammad Nawaz,Bhuvneshwar Kumar,,16,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,240848,-146.26,-19.67,0,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,15,136,2,0,0,2,0,0,0,0,0
+221,3,651,2,8,Pakistan,Mohammad Nawaz,Bhuvneshwar Kumar,,16,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,15.3,1,1,0,240850,-146.26,-19.67,0,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-2022/India-VS-Pakistan-(04-Sep-2022)/File_2-16-240850.jpg,,Knuckleball,5,LOFTED OFF DRIVE,0,0,3,15,136,3,1,0,2,0,0,0,0,0
+222,4,651,2,8,Pakistan,Khushdil Shah,Bhuvneshwar Kumar,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,240852,60.01,-19.21,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,15,137,3,2,0,2,0,0,0,0,0
+223,5,651,2,8,Pakistan,Mohammad Rizwan,Bhuvneshwar Kumar,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,240854,-9.51,44.33,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,15,137,3,0,0,2,0,0,0,0,0
+224,6,651,2,8,Pakistan,Mohammad Rizwan,Bhuvneshwar Kumar,,16,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,240856,135.98,122.14,2,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,6,15,139,3,0,0,2,0,0,0,0,0
+225,1,651,2,8,Pakistan,Khushdil Shah,Hardik Pandya,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,240858,73.36,-24.73,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,16,140,3,1,0,2,0,0,0,0,0
+226,2,651,2,8,Pakistan,Mohammad Rizwan,Hardik Pandya,,17,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.2,1,1,0,240860,164.07,-41.31,4,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,16,144,3,0,0,2,0,0,0,0,0
+227,3,651,2,8,Pakistan,Mohammad Rizwan,Hardik Pandya,,17,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.3,1,1,0,240862,109.74,131.35,2,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,3,16,146,3,0,0,2,0,0,0,0,0
+228,4,651,2,8,Pakistan,Mohammad Rizwan,Hardik Pandya,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,240864,109.74,131.35,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,16,146,3,0,0,2,0,0,0,0,0
+229,5,651,2,8,Pakistan,Mohammad Rizwan,Hardik Pandya,,17,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,16.5,1,1,1,240866,109.74,131.35,1,0,,,Knuckleball,105,LEFT ALONE,0,0,5,16,147,3,0,0,2,0,0,0,0,0
+230,6,651,2,8,Pakistan,Mohammad Rizwan,Hardik Pandya,,17,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,16.5,1,1,0,240868,109.74,131.35,0,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-2022/India-VS-Pakistan-(04-Sep-2022)/File_2-17-240868.jpg,,Knuckleball,5,LOFTED OFF DRIVE,0,0,6,16,147,4,1,0,2,0,0,0,0,0
+231,7,651,2,8,Pakistan,Khushdil Shah,Hardik Pandya,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,240870,-75.82,69.19,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,7,16,148,4,2,0,2,0,0,0,0,0
+232,1,651,2,8,Pakistan,Khushdil Shah,Ravi Bishnoi,,18,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,17.1,1,1,1,240873,-75.82,69.19,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,17,149,4,3,0,2,0,0,0,0,0
+233,2,651,2,8,Pakistan,Khushdil Shah,Ravi Bishnoi,,18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,240874,-75.82,69.19,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,17,149,4,0,0,2,0,0,0,0,0
+234,3,651,2,8,Pakistan,Khushdil Shah,Ravi Bishnoi,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,1,1,0,240876,69.22,-42.23,1,0,,,Knuckleball,35,LATE CUT,0,0,3,17,150,4,0,1,3,0,0,0,0,0
+235,4,651,2,8,Pakistan,Asif Ali,Ravi Bishnoi,,18,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,17.3,1,1,1,240878,69.22,-42.23,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,4,17,151,4,0,0,3,0,0,0,0,0
+236,5,651,2,8,Pakistan,Asif Ali,Ravi Bishnoi,,18,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.3,1,1,0,240880,69.22,-42.23,0,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,5,17,151,4,0,0,3,0,0,0,0,0
+237,6,651,2,8,Pakistan,Asif Ali,Ravi Bishnoi,,18,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,17.4,1,1,1,240882,69.22,-42.23,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,17,152,4,0,0,3,0,0,0,0,0
+238,7,651,2,8,Pakistan,Asif Ali,Ravi Bishnoi,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,1,1,0,240884,-59.70,-15.06,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,7,17,153,4,0,0,3,0,0,0,0,0
+239,8,651,2,8,Pakistan,Khushdil Shah,Ravi Bishnoi,,18,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,240886,-82.26,87.15,2,0,,,Knuckleball,27,FORWARD PUSH,0,0,8,17,155,4,0,0,3,0,0,0,0,0
+240,9,651,2,8,Pakistan,Khushdil Shah,Ravi Bishnoi,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,240888,-113.57,92.22,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,9,17,156,4,0,0,3,0,0,0,0,0
+241,1,651,2,8,Pakistan,Khushdil Shah,Bhuvneshwar Kumar,,19,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,18.1,1,1,1,240890,-113.57,92.22,1,0,,,Knuckleball,105,LEFT ALONE,0,0,1,18,157,4,1,0,3,0,0,0,0,0
+242,2,651,2,8,Pakistan,Khushdil Shah,Bhuvneshwar Kumar,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,1,1,0,240892,-54.18,148.85,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,2,18,158,4,0,0,3,0,0,0,0,0
+243,3,651,2,8,Pakistan,Asif Ali,Bhuvneshwar Kumar,,19,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.2,1,1,0,240894,94.08,191.67,6,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,3,18,164,4,0,0,3,0,0,0,0,0
+244,4,651,2,8,Pakistan,Asif Ali,Bhuvneshwar Kumar,,19,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,18.3,1,1,1,240896,94.08,191.67,1,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,4,18,165,4,0,0,3,0,0,0,0,0
+245,5,651,2,8,Pakistan,Asif Ali,Bhuvneshwar Kumar,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,240898,-64.31,-42.69,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,5,18,166,4,0,0,3,0,0,0,0,0
+246,6,651,2,8,Pakistan,Khushdil Shah,Bhuvneshwar Kumar,,19,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.4,1,1,0,240900,-156.85,-70.78,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,18,170,4,0,0,3,0,0,0,0,0
+247,7,651,2,8,Pakistan,Khushdil Shah,Bhuvneshwar Kumar,,19,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,240902,38.83,147.93,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,7,18,171,4,0,0,3,0,0,0,0,0
+248,8,651,2,8,Pakistan,Asif Ali,Bhuvneshwar Kumar,,19,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.6,1,1,0,240904,-147.64,142.40,4,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,8,18,175,4,0,0,3,0,0,0,0,0
+249,1,651,2,8,Pakistan,Khushdil Shah,Arshdeep Singh,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.1,1,1,0,240906,30.08,-11.38,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,19,176,4,1,0,3,0,0,0,0,0
+250,2,651,2,8,Pakistan,Asif Ali,Arshdeep Singh,,20,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.2,1,1,0,240908,59.09,205.48,4,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,2,19,180,4,0,0,3,0,0,0,0,0
+251,3,651,2,8,Pakistan,Asif Ali,Arshdeep Singh,,20,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.3,1,1,0,240910,-77.66,67.35,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,19,180,4,0,0,3,0,0,0,0,0
+252,4,651,2,8,Pakistan,Asif Ali,Arshdeep Singh,,20,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,19.4,1,1,0,240912,-77.66,67.35,0,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,4,19,180,5,1,0,3,0,0,0,0,0
+253,5,651,2,8,Pakistan,Iftikhar Ahmed,Arshdeep Singh,,20,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.5,1,1,0,240914,-10.90,170.95,2,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,5,19,182,5,2,0,3,0,0,0,0,0

@@ -1,0 +1,252 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,375,1,7,West Indies,Chris Gayle,Mahedi Hasan,,1,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.1,2,1,1,150683,,,1,0,,,Knuckleball,54,LEG GLANCE,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+1,2,375,1,7,West Indies,Chris Gayle,Mahedi Hasan,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,150684,-12.74,60.91,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+2,3,375,1,7,West Indies,Chris Gayle,Mahedi Hasan,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,150685,54.95,109.25,0,0,,,Knuckleball,84,OFF DRIVE,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+3,4,375,1,7,West Indies,Chris Gayle,Mahedi Hasan,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,150686,120.79,141.94,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,0,2,0,0,0,0,0,0,0,0,0
+4,5,375,1,7,West Indies,Evin Lewis,Mahedi Hasan,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,150687,91.78,5.19,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,0,2,0,0,0,0,0,0,0,0,0
+5,6,375,1,7,West Indies,Evin Lewis,Mahedi Hasan,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,150688,-40.82,178.78,1,0,,,Knuckleball,11,LOFT ON,0,0,6,0,3,0,0,0,0,0,0,0,0,0
+6,7,375,1,7,West Indies,Chris Gayle,Mahedi Hasan,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,150689,-126.92,106.49,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,7,0,4,0,0,0,0,0,0,0,0,0
+7,1,375,1,7,West Indies,Chris Gayle,Taskin Ahmed,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,150690,88.56,-13.22,0,0,,,Knuckleball,40,FLICK,0,0,1,1,4,0,1,0,0,0,0,0,0,0
+8,2,375,1,7,West Indies,Chris Gayle,Taskin Ahmed,,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,150691,56.79,108.79,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,2,1,5,0,0,0,0,0,0,0,0,0
+9,3,375,1,7,West Indies,Evin Lewis,Taskin Ahmed,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,150692,56.79,108.79,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,1,5,0,0,0,0,0,0,0,0,0
+10,4,375,1,7,West Indies,Evin Lewis,Taskin Ahmed,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,150693,56.79,108.79,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,1,5,0,0,0,0,0,0,0,0,0
+11,5,375,1,7,West Indies,Evin Lewis,Taskin Ahmed,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,150694,56.79,108.79,0,0,,,Knuckleball,84,OFF DRIVE,0,0,5,1,5,0,0,0,0,0,0,0,0,0
+12,6,375,1,7,West Indies,Evin Lewis,Taskin Ahmed,,2,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.6,2,1,0,150695,161.77,135.50,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,1,9,0,0,0,0,0,0,0,0,0
+13,1,375,1,7,West Indies,Chris Gayle,Mustafizur Rahman,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,150696,80.73,-2.63,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,2,9,0,1,0,0,0,0,0,0,0
+14,2,375,1,7,West Indies,Chris Gayle,Mustafizur Rahman,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,150697,-123.24,-7.70,1,0,,,Knuckleball,40,FLICK,0,0,2,2,10,0,0,0,0,0,0,0,0,0
+15,3,375,1,7,West Indies,Evin Lewis,Mustafizur Rahman,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,150698,-27.47,141.02,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,2,11,0,0,0,0,0,0,0,0,0
+16,4,375,1,7,West Indies,Chris Gayle,Mustafizur Rahman,,3,4,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,2.4,2,1,1,150699,17.65,-60.65,1,0,,,Knuckleball,47,ON DRIVE,0,0,4,2,12,0,0,0,0,0,0,0,0,0
+17,5,375,1,7,West Indies,Evin Lewis,Mustafizur Rahman,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,150700,1.08,66.89,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,2,12,0,0,0,0,0,0,0,0,0
+18,6,375,1,7,West Indies,Evin Lewis,Mustafizur Rahman,,3,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,2.6,2,1,0,150701,1.08,66.89,0,0,,,Knuckleball,58,PULL SHOT,0,0,6,2,12,1,1,0,0,0,0,0,0,0
+19,1,375,1,7,West Indies,Roston Chase,Taskin Ahmed,,4,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,150702,-130.15,87.15,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,3,14,1,2,0,0,0,0,0,0,0
+20,2,375,1,7,West Indies,Roston Chase,Taskin Ahmed,,4,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,150703,-135.67,-12.30,2,0,,,Knuckleball,59,SQUARE DRIVE,0,0,2,3,16,1,0,0,0,0,0,0,0,0
+21,3,375,1,7,West Indies,Roston Chase,Taskin Ahmed,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,150704,-79.96,62.29,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,3,16,1,0,0,0,0,0,0,0,0
+22,4,375,1,7,West Indies,Roston Chase,Taskin Ahmed,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,150705,94.08,6.58,0,0,,,Knuckleball,47,ON DRIVE,0,0,4,3,16,1,0,0,0,0,0,0,0,0
+23,5,375,1,7,West Indies,Roston Chase,Taskin Ahmed,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,150706,-76.74,64.13,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,3,16,1,0,0,0,0,0,0,0,0
+24,6,375,1,7,West Indies,Roston Chase,Taskin Ahmed,,4,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,150707,8.90,182.92,1,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,6,3,17,1,0,0,0,0,0,0,0,0
+25,1,375,1,7,West Indies,Roston Chase,Mahedi Hasan,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,150708,48.50,175.55,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,1,4,18,1,1,0,0,0,0,0,0,0
+26,2,375,1,7,West Indies,Chris Gayle,Mahedi Hasan,,5,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,4.2,2,1,0,150709,48.50,175.55,0,0,,,Knuckleball,84,OFF DRIVE,0,0,2,4,18,2,2,0,0,0,0,0,0,0
+27,3,375,1,7,West Indies,Shimron Hetmyer,Mahedi Hasan,,5,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,150710,-137.97,-33.02,1,0,,,Knuckleball,40,FLICK,0,0,3,4,19,2,3,0,0,0,0,0,0,0
+28,4,375,1,7,West Indies,Roston Chase,Mahedi Hasan,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,150711,-58.78,105.57,0,0,,,Knuckleball,84,OFF DRIVE,0,0,4,4,19,2,0,0,0,0,0,0,0,0
+29,5,375,1,7,West Indies,Roston Chase,Mahedi Hasan,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,150712,63.69,177.86,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,4,20,2,0,0,0,0,0,0,0,0
+30,6,375,1,7,West Indies,Shimron Hetmyer,Mahedi Hasan,,5,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,4.6,2,1,1,150713,-81.34,-8.16,1,0,,,Knuckleball,40,FLICK,0,0,6,4,21,2,0,0,0,0,0,0,0,0
+31,1,375,1,7,West Indies,Shimron Hetmyer,Shoriful Islam,,6,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.1,2,1,0,150714,-153.63,-95.18,4,0,,,Knuckleball,40,FLICK,0,0,1,5,25,2,1,0,0,0,0,0,0,0
+32,2,375,1,7,West Indies,Shimron Hetmyer,Shoriful Islam,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,150715,-149.03,-15.99,1,0,,,Knuckleball,40,FLICK,0,0,2,5,26,2,0,0,0,0,0,0,0,0
+33,3,375,1,7,West Indies,Roston Chase,Shoriful Islam,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,150716,-68.91,-11.38,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,5,26,2,0,0,0,0,0,0,0,0
+34,4,375,1,7,West Indies,Roston Chase,Shoriful Islam,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,150717,-78.12,7.96,0,0,,,Knuckleball,18,SLOG SHOT,0,0,4,5,26,2,0,0,0,0,0,0,0,0
+35,5,375,1,7,West Indies,Roston Chase,Shoriful Islam,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,150718,-53.26,91.29,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,5,27,2,0,0,0,0,0,0,0,0
+36,6,375,1,7,West Indies,Shimron Hetmyer,Shoriful Islam,,6,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,150719,85.79,90.83,2,0,,,Knuckleball,84,OFF DRIVE,0,0,6,5,29,2,0,0,0,0,0,0,0,0
+37,1,375,1,7,West Indies,Roston Chase,Mahedi Hasan,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,150720,77.51,147.01,1,0,,,Knuckleball,47,ON DRIVE,0,0,1,6,30,2,1,0,0,0,0,0,0,0
+38,2,375,1,7,West Indies,Shimron Hetmyer,Mahedi Hasan,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,150721,96.85,81.17,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,6,31,2,0,0,0,0,0,0,0,0
+39,3,375,1,7,West Indies,Roston Chase,Mahedi Hasan,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,150722,-18.72,141.02,1,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,3,6,32,2,0,0,0,0,0,0,0,0
+40,4,375,1,7,West Indies,Shimron Hetmyer,Mahedi Hasan,,7,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,6.4,2,1,0,150723,-18.72,141.02,0,0,,,Knuckleball,5,LOFT OFF,0,0,4,6,32,3,1,0,0,0,0,0,0,0
+41,5,375,1,7,West Indies,Roston Chase,Mahedi Hasan,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,150724,-18.72,141.02,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,6,32,3,2,0,0,0,0,0,0,0
+42,6,375,1,7,West Indies,Roston Chase,Mahedi Hasan,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,150725,140.59,-13.68,1,0,,,Knuckleball,40,FLICK,0,0,6,6,33,3,0,0,0,0,0,0,0,0
+43,1,375,1,7,West Indies,Roston Chase,Taskin Ahmed,,8,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,7.1,2,1,1,150726,97.77,9.80,1,0,,,Knuckleball,40,FLICK,0,0,1,7,34,3,1,0,0,0,0,0,0,0
+44,2,375,1,7,West Indies,Kieron Pollard,Taskin Ahmed,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,150727,-47.73,42.03,0,0,,,Knuckleball,77,SD DEFENCE,0,0,2,7,34,3,0,0,0,0,0,0,0,0
+45,3,375,1,7,West Indies,Kieron Pollard,Taskin Ahmed,,8,3,1 (BY),1,0,0,0,0,1,1,0,0,1,0,0,0,0,,,0,7.3,2,1,1,150728,-47.73,42.03,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,7,35,3,0,0,0,0,0,0,0,0
+46,4,375,1,7,West Indies,Roston Chase,Taskin Ahmed,,8,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,150729,153.94,49.86,2,0,,,Knuckleball,58,PULL SHOT,0,0,4,7,37,3,0,0,0,0,0,0,0,0
+47,5,375,1,7,West Indies,Roston Chase,Taskin Ahmed,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,150730,76.59,50.78,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,7,38,3,0,0,0,0,0,0,0,0
+48,6,375,1,7,West Indies,Kieron Pollard,Taskin Ahmed,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,150731,149.33,14.86,1,0,,,Knuckleball,40,FLICK,0,0,6,7,39,3,0,0,0,0,0,0,0,0
+49,1,375,1,7,West Indies,Kieron Pollard,Shoriful Islam,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,150732,-65.69,-113.60,1,0,,,Knuckleball,44,GLIDE,0,0,1,8,40,3,1,0,0,0,0,0,0,0
+50,2,375,1,7,West Indies,Roston Chase,Shoriful Islam,,9,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,150733,129.54,-59.73,2,0,,,Knuckleball,58,PULL SHOT,0,0,2,8,42,3,0,0,0,0,0,0,0,0
+51,3,375,1,7,West Indies,Roston Chase,Shoriful Islam,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,150734,129.54,-59.73,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,8,42,3,0,0,0,0,0,0,0,0
+52,4,375,1,7,West Indies,Roston Chase,Shoriful Islam,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,150735,-60.62,-48.22,0,0,,,Knuckleball,44,GLIDE,0,0,4,8,42,3,0,0,0,0,0,0,0,0
+53,5,375,1,7,West Indies,Roston Chase,Shoriful Islam,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,150736,-62.46,119.38,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,5,8,43,3,0,0,0,0,0,0,0,0
+54,6,375,1,7,West Indies,Kieron Pollard,Shoriful Islam,,9,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,8.6,2,1,1,150737,-62.46,119.38,1,0,,,Knuckleball,105,LEFT ALONE,0,0,6,8,44,3,0,0,0,0,0,0,0,0
+55,7,375,1,7,West Indies,Kieron Pollard,Shoriful Islam,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,150738,-62.46,119.38,0,0,,,Knuckleball,105,LEFT ALONE,0,0,7,8,44,3,0,0,0,0,0,0,0,0
+56,1,375,1,7,West Indies,Roston Chase,Shakib Al Hasan,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,150739,103.75,74.26,1,0,,,Knuckleball,40,FLICK,0,0,1,9,45,3,1,0,0,0,0,0,0,0
+57,2,375,1,7,West Indies,Kieron Pollard,Shakib Al Hasan,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,150740,-14.58,67.35,0,0,,,Knuckleball,19,BACKFOOT STRAIGHT DRIVE,0,0,2,9,45,3,0,0,0,0,0,0,0,0
+58,3,375,1,7,West Indies,Kieron Pollard,Shakib Al Hasan,,10,3,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,9.3,2,1,1,150741,60.93,10.26,1,0,,,Knuckleball,40,FLICK,0,0,3,9,46,3,0,0,0,0,0,0,0,0
+59,4,375,1,7,West Indies,Roston Chase,Shakib Al Hasan,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,150742,117.56,119.84,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,4,9,47,3,0,0,0,0,0,0,0,0
+60,5,375,1,7,West Indies,Kieron Pollard,Shakib Al Hasan,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,150743,-81.80,49.86,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,9,48,3,0,0,0,0,0,0,0,0
+61,6,375,1,7,West Indies,Roston Chase,Shakib Al Hasan,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,150744,-10.44,59.06,0,0,,,Knuckleball,19,BACKFOOT STRAIGHT DRIVE,0,0,6,9,48,3,0,0,0,0,0,0,0,0
+62,1,375,1,7,West Indies,Kieron Pollard,Mustafizur Rahman,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,150745,-88.71,-9.08,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,10,49,3,1,0,0,0,0,0,0,0
+63,2,375,1,7,West Indies,Roston Chase,Mustafizur Rahman,,11,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,10.2,2,1,1,150746,-88.71,-9.08,1,0,,,Knuckleball,40,FLICK,0,0,2,10,50,3,0,1,1,0,1,0,0,0
+64,3,375,1,7,West Indies,Roston Chase,Mustafizur Rahman,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,150747,-88.71,-9.08,0,0,,,Knuckleball,40,FLICK,0,0,3,10,50,3,0,0,1,0,0,0,0,0
+65,4,375,1,7,West Indies,Roston Chase,Mustafizur Rahman,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,150748,-88.71,-9.08,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,10,50,3,0,0,1,0,0,0,0,0
+66,5,375,1,7,West Indies,Roston Chase,Mustafizur Rahman,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,150749,-44.05,-115.90,1,0,,,Knuckleball,11,LOFT ON,0,0,5,10,51,3,0,0,1,0,0,0,0,0
+67,6,375,1,7,West Indies,Kieron Pollard,Mustafizur Rahman,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,150750,-88.71,-9.08,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,10,52,3,0,0,1,0,0,0,0,0
+68,7,375,1,7,West Indies,Roston Chase,Mustafizur Rahman,,11,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.6,2,1,0,150751,157.62,-86.89,4,0,,,Knuckleball,58,PULL SHOT,0,0,7,10,56,3,0,0,1,0,0,0,0,0
+69,1,375,1,7,West Indies,Kieron Pollard,Shakib Al Hasan,,12,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,11.1,2,1,1,150752,79.35,10.26,1,0,,,Knuckleball,40,FLICK,0,0,1,11,57,3,1,0,1,0,0,0,0,0
+70,2,375,1,7,West Indies,Roston Chase,Shakib Al Hasan,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,150753,-71.67,174.63,1,0,,,Knuckleball,84,OFF DRIVE,0,0,2,11,58,3,0,0,1,0,0,0,0,0
+71,3,375,1,7,West Indies,Kieron Pollard,Shakib Al Hasan,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,150754,78.89,56.30,1,0,,,Knuckleball,37,SD FLICK,0,0,3,11,59,3,0,0,1,0,0,0,0,0
+72,4,375,1,7,West Indies,Roston Chase,Shakib Al Hasan,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,150755,147.03,77.48,1,0,,,Knuckleball,40,FLICK,0,0,4,11,60,3,0,0,1,0,0,0,0,0
+73,5,375,1,7,West Indies,Kieron Pollard,Shakib Al Hasan,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,150756,153.02,42.95,1,0,,,Knuckleball,40,FLICK,0,0,5,11,61,3,0,0,1,0,0,0,0,0
+74,6,375,1,7,West Indies,Roston Chase,Shakib Al Hasan,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,150757,-23.79,69.65,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,11,61,3,0,0,1,0,0,0,0,0
+75,1,375,1,7,West Indies,Kieron Pollard,Taskin Ahmed,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,150758,-6.75,65.51,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,12,61,3,1,0,1,0,0,0,0,0
+76,2,375,1,7,West Indies,Kieron Pollard,Taskin Ahmed,,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,150759,10.28,-23.81,0,0,,,Knuckleball,58,PULL SHOT,0,0,2,12,61,3,0,0,1,0,0,0,0,0
+77,3,375,1,7,West Indies,Kieron Pollard,Taskin Ahmed,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Retired Hurt,,0,12.3,2,1,0,150760,150.72,19.47,1,0,,,Knuckleball,70,SD PULL,0,0,3,12,62,3,0,0,1,0,0,0,0,0
+78,4,375,1,7,West Indies,Roston Chase,Taskin Ahmed,,13,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,12.4,2,1,0,150761,150.72,19.47,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,4,12,62,4,0,0,1,0,0,0,0,0
+79,5,375,1,7,West Indies,Roston Chase,Taskin Ahmed,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,150762,133.68,94.06,1,0,,,Knuckleball,40,FLICK,0,0,5,12,63,4,0,0,1,0,0,0,0,0
+80,6,375,1,7,West Indies,Nicholas Pooran,Taskin Ahmed,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,150763,145.19,12.10,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,6,12,64,4,0,0,1,0,0,0,0,0
+81,1,375,1,7,West Indies,Nicholas Pooran,Shakib Al Hasan,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,150764,-122.32,-58.81,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,13,65,4,1,0,1,0,0,0,0,0
+82,2,375,1,7,West Indies,Roston Chase,Shakib Al Hasan,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,150765,131.84,106.49,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,2,13,66,4,0,0,1,0,0,0,0,0
+83,3,375,1,7,West Indies,Nicholas Pooran,Shakib Al Hasan,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,150766,13.05,70.12,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,13,66,4,0,0,1,0,0,0,0,0
+84,4,375,1,7,West Indies,Nicholas Pooran,Shakib Al Hasan,,14,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,13.4,2,1,1,150767,13.05,70.12,1,0,,,Knuckleball,37,SD FLICK,0,0,4,13,67,4,0,0,1,0,0,0,0,0
+85,5,375,1,7,West Indies,Nicholas Pooran,Shakib Al Hasan,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,150768,-132.91,-4.01,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,13,68,4,0,0,1,0,0,0,0,0
+86,6,375,1,7,West Indies,Roston Chase,Shakib Al Hasan,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,150769,74.74,168.65,1,0,,,Knuckleball,47,ON DRIVE,0,0,6,13,69,4,0,0,1,0,0,0,0,0
+87,7,375,1,7,West Indies,Nicholas Pooran,Shakib Al Hasan,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,150770,-71.67,53.08,1,0,,,Knuckleball,40,FLICK,0,0,7,13,70,4,0,0,1,0,0,0,0,0
+88,1,375,1,7,West Indies,Nicholas Pooran,Mustafizur Rahman,,15,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,150771,145.19,-36.24,2,0,,,Knuckleball,59,SQUARE DRIVE,0,0,1,14,72,4,1,0,1,0,0,0,0,0
+89,2,375,1,7,West Indies,Nicholas Pooran,Mustafizur Rahman,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,150772,141.51,-0.33,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,2,14,73,4,0,0,1,0,0,0,0,0
+90,3,375,1,7,West Indies,Roston Chase,Mustafizur Rahman,,15,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.3,2,1,0,150773,-13.20,231.27,4,0,,,Knuckleball,5,LOFT OFF,0,0,3,14,77,4,0,0,1,0,0,0,0,0
+91,4,375,1,7,West Indies,Roston Chase,Mustafizur Rahman,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,150774,144.73,-14.60,1,0,,,Knuckleball,40,FLICK,0,0,4,14,78,4,0,0,1,0,0,0,0,0
+92,5,375,1,7,West Indies,Nicholas Pooran,Mustafizur Rahman,,15,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,14.5,2,1,1,150775,144.73,-14.60,1,0,,,Knuckleball,105,LEFT ALONE,0,0,5,14,79,4,0,0,1,0,0,0,0,0
+93,6,375,1,7,West Indies,Nicholas Pooran,Mustafizur Rahman,,15,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.5,2,1,0,150776,-187.24,123.06,4,0,,,Knuckleball,58,PULL SHOT,0,0,6,14,83,4,0,0,1,0,0,0,0,0
+94,7,375,1,7,West Indies,Nicholas Pooran,Mustafizur Rahman,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,150777,-76.28,169.11,1,0,,,Knuckleball,47,ON DRIVE,0,0,7,14,84,4,0,0,1,0,0,0,0,0
+95,1,375,1,7,West Indies,Nicholas Pooran,Shakib Al Hasan,,16,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.1,2,1,0,150778,-172.51,-53.28,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,15,90,4,1,0,1,0,0,0,0,0
+96,2,375,1,7,West Indies,Nicholas Pooran,Shakib Al Hasan,,16,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.2,2,1,0,150779,-171.59,-54.20,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,2,15,96,4,0,0,1,0,0,0,0,0
+97,3,375,1,7,West Indies,Nicholas Pooran,Shakib Al Hasan,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,150780,-97.92,146.55,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,15,97,4,0,0,1,0,0,0,0,0
+98,4,375,1,7,West Indies,Roston Chase,Shakib Al Hasan,,16,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,15.4,2,1,1,150781,-97.92,146.55,1,0,,,Knuckleball,105,LEFT ALONE,0,0,4,15,98,4,0,0,1,0,0,0,0,0
+99,5,375,1,7,West Indies,Roston Chase,Shakib Al Hasan,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,150782,63.23,-30.26,0,0,,,Knuckleball,40,FLICK,0,0,5,15,98,4,0,0,1,0,0,0,0,0
+100,6,375,1,7,West Indies,Roston Chase,Shakib Al Hasan,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,150783,142.89,-15.06,1,0,,,Knuckleball,40,FLICK,0,0,6,15,99,4,0,0,1,0,0,0,0,0
+101,7,375,1,7,West Indies,Nicholas Pooran,Shakib Al Hasan,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,150784,146.57,35.58,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,7,15,99,4,0,0,1,0,0,0,0,0
+102,1,375,1,7,West Indies,Roston Chase,Shoriful Islam,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,150785,63.69,150.69,1,0,,30,ANGLED ACROSS,58,PULL SHOT,0,0,1,16,100,4,1,1,2,0,0,1,0,0
+103,2,375,1,7,West Indies,Nicholas Pooran,Shoriful Islam,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,150786,96.38,-3.09,0,0,,38,STRAIGHT BALL,59,SQUARE DRIVE,0,0,2,16,100,4,0,0,2,0,0,0,0,0
+104,3,375,1,7,West Indies,Nicholas Pooran,Shoriful Islam,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,150787,12.59,55.38,0,0,,38,STRAIGHT BALL,58,PULL SHOT,0,0,3,16,100,4,0,0,2,0,0,0,0,0
+105,4,375,1,7,West Indies,Nicholas Pooran,Shoriful Islam,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,150788,71.98,144.71,1,0,,38,STRAIGHT BALL,84,OFF DRIVE,0,0,4,16,101,4,0,0,2,0,0,0,0,0
+106,5,375,1,7,West Indies,Roston Chase,Shoriful Islam,,17,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,150789,71.98,144.71,0,0,,30,ANGLED ACROSS,58,PULL SHOT,0,0,5,16,101,4,0,0,2,0,0,0,0,0
+107,6,375,1,7,West Indies,Roston Chase,Shoriful Islam,,17,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,150790,118.95,98.20,2,0,,30,ANGLED ACROSS,58,PULL SHOT,0,0,6,16,103,4,0,0,2,0,0,0,0,0
+108,1,375,1,7,West Indies,Nicholas Pooran,Mahedi Hasan,,18,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.1,2,1,0,150791,9.82,211.47,6,0,,23,ARM BALL,13,LOFT STRAIGHT,0,0,1,17,109,4,1,0,2,0,0,0,0,0
+109,2,375,1,7,West Indies,Nicholas Pooran,Mahedi Hasan,,18,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,17.2,2,1,1,150792,9.82,211.47,1,0,,23,ARM BALL,105,LEFT ALONE,0,0,2,17,110,4,0,0,2,0,0,0,0,0
+110,3,375,1,7,West Indies,Nicholas Pooran,Mahedi Hasan,,18,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,150793,100.53,18.55,0,0,,23,ARM BALL,56,REVERSE SWEEP,0,0,3,17,110,4,0,0,2,0,0,0,0,0
+111,4,375,1,7,West Indies,Nicholas Pooran,Mahedi Hasan,,18,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.3,2,1,0,150794,29.16,206.86,6,0,,25,OFF SPIN,13,LOFT STRAIGHT,0,0,4,17,116,4,0,0,2,0,0,0,0,0
+112,5,375,1,7,West Indies,Nicholas Pooran,Mahedi Hasan,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,150795,-137.97,95.44,1,0,,,Knuckleball,40,FLICK,0,0,5,17,117,4,0,0,2,0,0,0,0,0
+113,6,375,1,7,West Indies,Roston Chase,Mahedi Hasan,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,150796,112.04,142.40,1,0,,25,OFF SPIN,11,LOFT ON,0,0,6,17,118,4,0,0,2,0,0,0,0,0
+114,7,375,1,7,West Indies,Nicholas Pooran,Mahedi Hasan,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,150797,102.83,33.74,1,0,,15,FASTER ONE,59,SQUARE DRIVE,0,0,7,17,119,4,0,0,2,0,0,0,0,0
+115,1,375,1,7,West Indies,Nicholas Pooran,Shoriful Islam,,19,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.1,2,1,0,150798,141.05,82.55,0,0,,38,STRAIGHT BALL,15,LOFT COVER,0,0,1,18,119,5,1,0,2,0,0,0,0,0
+116,2,375,1,7,West Indies,Roston Chase,Shoriful Islam,,19,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,18.2,2,1,0,150799,141.05,82.55,0,0,,30,ANGLED ACROSS,58,PULL SHOT,0,0,2,18,119,6,0,0,2,0,0,0,0,0
+117,3,375,1,7,West Indies,Jason Holder,Shoriful Islam,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,150800,118.03,87.15,1,0,,30,ANGLED ACROSS,40,FLICK,0,0,3,18,120,6,1,0,2,0,0,0,0,0
+118,4,375,1,7,West Indies,Dwayne Bravo,Shoriful Islam,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,150801,54.95,147.93,1,0,,,Knuckleball,40,FLICK,0,0,4,18,121,6,0,0,2,0,0,0,0,0
+119,5,375,1,7,West Indies,Jason Holder,Shoriful Islam,,19,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.5,2,1,0,150802,-139.82,56.76,1,0,,8,OFF CUTTER,15,LOFT COVER,0,0,5,18,122,6,0,0,2,0,0,0,0,0
+120,6,375,1,7,West Indies,Dwayne Bravo,Shoriful Islam,,19,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,18.6,2,1,1,150803,78.43,-4.94,1,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,6,18,123,6,0,0,2,0,0,0,0,0
+121,1,375,1,7,West Indies,Dwayne Bravo,Mustafizur Rahman,,20,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.1,2,1,0,150804,-128.31,55.38,0,0,,8,OFF CUTTER,15,LOFT COVER,0,0,1,19,123,7,1,0,2,0,0,0,0,0
+122,2,375,1,7,West Indies,Jason Holder,Mustafizur Rahman,,20,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.2,2,1,0,150805,173.28,-28.88,6,0,,30,ANGLED ACROSS,40,FLICK,0,0,2,19,129,7,2,0,2,0,0,0,0,0
+123,3,375,1,7,West Indies,Jason Holder,Mustafizur Rahman,,20,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.3,2,1,0,150806,179.26,59.53,6,0,,8,OFF CUTTER,18,SLOG SHOT,0,0,3,19,135,7,0,0,2,0,0,0,0,0
+124,4,375,1,7,West Indies,Jason Holder,Mustafizur Rahman,,20,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.4,2,1,0,150807,-65.69,100.96,1,0,,30,ANGLED ACROSS,84,OFF DRIVE,0,0,4,19,136,7,0,0,2,0,0,0,0,0
+125,5,375,1,7,West Indies,Kieron Pollard,Mustafizur Rahman,,20,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.5,2,1,0,150808,-65.69,100.96,0,0,,30,ANGLED ACROSS,5,LOFT OFF,0,0,5,19,136,7,0,0,2,0,0,0,0,0
+126,6,375,1,7,West Indies,Kieron Pollard,Mustafizur Rahman,,20,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.6,2,1,0,150809,153.94,138.72,6,0,,30,ANGLED ACROSS,40,FLICK,0,0,6,19,142,7,0,0,2,0,0,0,0,0
+127,1,375,2,11,Bangladesh,Mohammad Naim Sheikh,Ravi Rampaul,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,150810,80.73,13.02,0,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+128,2,375,2,11,Bangladesh,Mohammad Naim Sheikh,Ravi Rampaul,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,150811,-81.80,-3.55,1,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+129,3,375,2,11,Bangladesh,Shakib Al Hasan,Ravi Rampaul,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,150812,25.48,108.33,1,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,3,0,2,0,0,0,0,0,0,0,0,0
+130,4,375,2,11,Bangladesh,Mohammad Naim Sheikh,Ravi Rampaul,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,150813,47.58,109.25,1,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,4,0,3,0,0,0,0,0,0,0,0,0
+131,5,375,2,11,Bangladesh,Shakib Al Hasan,Ravi Rampaul,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,150814,87.64,-13.68,1,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,5,0,4,0,0,0,0,0,0,0,0,0
+132,6,375,2,11,Bangladesh,Mohammad Naim Sheikh,Ravi Rampaul,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,150815,-4.91,57.68,0,0,,30,ANGLED ACROSS,53,STRAIGHT DRIVE,0,0,6,0,4,0,0,0,0,0,0,0,0,0
+133,1,375,2,11,Bangladesh,Shakib Al Hasan,Jason Holder,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,150816,-4.91,57.68,0,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,1,1,4,0,1,0,0,0,0,0,0,0
+134,2,375,2,11,Bangladesh,Shakib Al Hasan,Jason Holder,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,150817,-4.91,57.68,0,0,,30,ANGLED ACROSS,44,GLIDE,0,0,2,1,4,0,0,0,0,0,0,0,0,0
+135,3,375,2,11,Bangladesh,Shakib Al Hasan,Jason Holder,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,150818,-8.13,35.58,0,0,,30,ANGLED ACROSS,52,BACKFOOT COVERDRIVE,0,0,3,1,4,0,0,0,0,0,0,0,0,0
+136,4,375,2,11,Bangladesh,Shakib Al Hasan,Jason Holder,,2,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.4,2,1,0,150819,148.87,154.83,4,0,,,Knuckleball,122,SDL OFF,0,0,4,1,8,0,0,0,0,0,0,0,0,0
+137,5,375,2,11,Bangladesh,Shakib Al Hasan,Jason Holder,,2,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,150820,129.08,-64.79,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,1,9,0,0,0,0,0,0,0,0,0
+138,6,375,2,11,Bangladesh,Mohammad Naim Sheikh,Jason Holder,,2,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,150821,146.57,-15.99,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,1,10,0,0,0,0,0,0,0,0,0
+139,1,375,2,11,Bangladesh,Mohammad Naim Sheikh,Ravi Rampaul,,3,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.1,2,1,0,150822,-166.98,145.63,4,0,,,Knuckleball,70,SD PULL,0,0,1,2,14,0,1,0,0,0,0,0,0,0
+140,2,375,2,11,Bangladesh,Mohammad Naim Sheikh,Ravi Rampaul,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,150823,92.70,-9.08,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,2,14,0,0,0,0,0,0,0,0,0
+141,3,375,2,11,Bangladesh,Mohammad Naim Sheikh,Ravi Rampaul,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,150824,23.64,19.93,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,2,14,0,0,0,0,0,0,0,0,0
+142,4,375,2,11,Bangladesh,Mohammad Naim Sheikh,Ravi Rampaul,,3,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,150825,-153.63,58.60,1,0,,,Knuckleball,40,FLICK,0,0,4,2,15,0,0,0,0,0,0,0,0,0
+143,5,375,2,11,Bangladesh,Shakib Al Hasan,Ravi Rampaul,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,150826,-44.97,-105.77,1,0,,,Knuckleball,54,LEG GLANCE,0,0,5,2,16,0,0,0,0,0,0,0,0,0
+144,6,375,2,11,Bangladesh,Mohammad Naim Sheikh,Ravi Rampaul,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,150827,100.53,10.26,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,2,17,0,0,0,0,0,0,0,0,0
+145,1,375,2,11,Bangladesh,Mohammad Naim Sheikh,Jason Holder,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,150828,-139.82,-20.59,1,0,,,Knuckleball,58,PULL SHOT,0,0,1,3,18,0,1,0,0,0,0,0,0,0
+146,2,375,2,11,Bangladesh,Shakib Al Hasan,Jason Holder,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,150829,-124.62,111.09,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,3,19,0,0,0,0,0,0,0,0,0
+147,3,375,2,11,Bangladesh,Mohammad Naim Sheikh,Jason Holder,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,150830,93.62,42.03,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,3,19,0,0,0,0,0,0,0,0,0
+148,4,375,2,11,Bangladesh,Mohammad Naim Sheikh,Jason Holder,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,150831,81.19,-13.22,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,3,20,0,0,0,0,0,0,0,0,0
+149,5,375,2,11,Bangladesh,Shakib Al Hasan,Jason Holder,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,150832,63.23,115.70,0,0,,,Knuckleball,84,OFF DRIVE,0,0,5,3,20,0,0,0,0,0,0,0,0,0
+150,6,375,2,11,Bangladesh,Shakib Al Hasan,Jason Holder,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,150833,87.64,-18.29,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,3,20,0,0,0,0,0,0,0,0,0
+151,1,375,2,11,Bangladesh,Mohammad Naim Sheikh,Andre Russell,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,150834,-166.06,141.94,0,0,,,Knuckleball,84,OFF DRIVE,0,0,1,4,20,0,1,0,0,0,0,0,0,0
+152,2,375,2,11,Bangladesh,Mohammad Naim Sheikh,Andre Russell,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,150835,-65.69,44.79,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,4,21,0,0,0,0,0,0,0,0,0
+153,3,375,2,11,Bangladesh,Shakib Al Hasan,Andre Russell,,5,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,4.3,2,1,0,150836,-65.69,44.79,0,0,,,Knuckleball,11,LOFT ON,0,0,3,4,21,1,1,0,0,0,0,0,0,0
+154,4,375,2,11,Bangladesh,Liton Das,Andre Russell,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,150837,-52.79,-44.07,1,0,,,Knuckleball,44,GLIDE,0,0,4,4,22,1,2,0,0,0,0,0,0,0
+155,5,375,2,11,Bangladesh,Mohammad Naim Sheikh,Andre Russell,,5,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.5,2,1,0,150838,-166.06,141.94,4,0,,,Knuckleball,58,PULL SHOT,0,0,5,4,26,1,0,0,0,0,0,0,0,0
+156,6,375,2,11,Bangladesh,Mohammad Naim Sheikh,Andre Russell,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,150839,90.86,68.73,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,4,26,1,0,0,0,0,0,0,0,0
+157,1,375,2,11,Bangladesh,Liton Das,Jason Holder,,6,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,5.1,2,1,1,150840,29.16,16.71,1,0,,,Knuckleball,40,FLICK,0,0,1,5,27,1,1,0,0,0,0,0,0,0
+158,2,375,2,11,Bangladesh,Mohammad Naim Sheikh,Jason Holder,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,150841,-114.03,12.56,1,0,,,Knuckleball,40,FLICK,0,0,2,5,28,1,0,0,0,0,0,0,0,0
+159,3,375,2,11,Bangladesh,Liton Das,Jason Holder,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,150842,144.27,-24.27,1,0,,,Knuckleball,40,FLICK,0,0,3,5,29,1,0,0,0,0,0,0,0,0
+160,4,375,2,11,Bangladesh,Mohammad Naim Sheikh,Jason Holder,,6,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,5.4,2,1,0,150843,144.27,-24.27,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,5,29,2,1,0,0,0,0,0,0,0
+161,5,375,2,11,Bangladesh,Soumya Sarkar,Jason Holder,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,150844,144.27,-24.27,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,5,29,2,2,0,0,0,0,0,0,0
+162,6,375,2,11,Bangladesh,Soumya Sarkar,Jason Holder,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,150845,77.97,84.85,0,0,,,Knuckleball,84,OFF DRIVE,0,0,6,5,29,2,0,0,0,0,0,0,0,0
+163,1,375,2,11,Bangladesh,Liton Das,Akeal Hosein,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,150846,140.59,82.55,1,0,,,Knuckleball,40,FLICK,0,0,1,6,30,2,1,0,0,0,0,0,0,0
+164,2,375,2,11,Bangladesh,Soumya Sarkar,Akeal Hosein,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,150847,7.98,-91.04,1,0,,,Knuckleball,35,LATE CUT,0,0,2,6,31,2,0,0,0,0,0,0,0,0
+165,3,375,2,11,Bangladesh,Liton Das,Akeal Hosein,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,150848,119.41,10.72,1,0,,,Knuckleball,40,FLICK,0,0,3,6,32,2,0,0,0,0,0,0,0,0
+166,4,375,2,11,Bangladesh,Soumya Sarkar,Akeal Hosein,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,150849,119.41,10.72,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,6,32,2,0,0,0,0,0,0,0,0
+167,5,375,2,11,Bangladesh,Soumya Sarkar,Akeal Hosein,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,150850,-132.45,-32.56,1,0,,,Knuckleball,40,FLICK,0,0,5,6,33,2,0,0,0,0,0,0,0,0
+168,6,375,2,11,Bangladesh,Liton Das,Akeal Hosein,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,150851,92.24,142.86,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,6,34,2,0,0,0,0,0,0,0,0
+169,1,375,2,11,Bangladesh,Liton Das,Andre Russell,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,150852,156.24,7.96,1,0,,,Knuckleball,40,FLICK,0,0,1,7,35,2,1,0,0,0,0,0,0,0
+170,2,375,2,11,Bangladesh,Soumya Sarkar,Andre Russell,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,150853,156.24,7.96,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,2,7,36,2,0,0,0,0,0,0,0,0
+171,3,375,2,11,Bangladesh,Liton Das,Andre Russell,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,150854,92.70,20.85,0,0,,,Knuckleball,40,FLICK,0,0,3,7,36,2,0,0,0,0,0,0,0,0
+172,4,375,2,11,Bangladesh,Liton Das,Andre Russell,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,150855,-49.57,118.46,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,7,37,2,0,0,0,0,0,0,0,0
+173,5,375,2,11,Bangladesh,Soumya Sarkar,Andre Russell,,8,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.5,2,1,0,150856,-180.79,144.71,4,0,,,Knuckleball,58,PULL SHOT,0,0,5,7,41,2,0,0,0,0,0,0,0,0
+174,6,375,2,11,Bangladesh,Soumya Sarkar,Andre Russell,,8,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,150857,-100.22,80.71,2,0,,,Knuckleball,40,FLICK,0,0,6,7,43,2,0,0,0,0,0,0,0,0
+175,1,375,2,11,Bangladesh,Liton Das,Akeal Hosein,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,150858,-84.56,54.00,0,0,,23,ARM BALL,52,BACKFOOT COVERDRIVE,0,0,1,8,43,2,1,0,0,0,0,0,0,0
+176,2,375,2,11,Bangladesh,Liton Das,Akeal Hosein,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,150859,-72.59,19.01,1,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,2,8,44,2,0,0,0,0,0,0,0,0
+177,3,375,2,11,Bangladesh,Soumya Sarkar,Akeal Hosein,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,150860,-100.68,106.95,1,0,,10,ORTHODOX,101,BACKFOOT ON DRIVE,0,0,3,8,45,2,0,0,0,0,0,0,0,0
+178,4,375,2,11,Bangladesh,Liton Das,Akeal Hosein,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,150861,-69.37,-14.14,0,0,,23,ARM BALL,16,BACKFOOT SQUARE DRIVE,0,0,4,8,45,2,0,0,0,0,0,0,0,0
+179,5,375,2,11,Bangladesh,Liton Das,Akeal Hosein,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,150862,14.43,58.60,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,5,8,45,2,0,0,0,0,0,0,0,0
+180,6,375,2,11,Bangladesh,Liton Das,Akeal Hosein,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,150863,17.65,67.81,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,8,46,2,0,0,0,0,0,0,0,0
+181,1,375,2,11,Bangladesh,Liton Das,Dwayne Bravo,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,150864,17.65,67.81,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,9,46,2,1,0,0,0,0,0,0,0
+182,2,375,2,11,Bangladesh,Liton Das,Dwayne Bravo,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,150865,-83.18,-15.99,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,9,47,2,0,0,0,0,0,0,0,0
+183,3,375,2,11,Bangladesh,Soumya Sarkar,Dwayne Bravo,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,150866,147.49,-2.63,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,3,9,48,2,0,0,0,0,0,0,0,0
+184,4,375,2,11,Bangladesh,Liton Das,Dwayne Bravo,,10,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.4,2,1,0,150867,-177.57,142.86,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,9,52,2,0,1,1,0,1,0,0,0
+185,5,375,2,11,Bangladesh,Liton Das,Dwayne Bravo,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,150868,100.99,30.52,1,0,,,Knuckleball,40,FLICK,0,0,5,9,53,2,0,0,1,0,0,0,0,0
+186,6,375,2,11,Bangladesh,Soumya Sarkar,Dwayne Bravo,,10,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,150869,-108.05,102.81,2,0,,,Knuckleball,40,FLICK,0,0,6,9,55,2,0,0,1,0,0,0,0,0
+187,1,375,2,11,Bangladesh,Liton Das,Akeal Hosein,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,150870,-12.74,69.19,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,10,55,2,1,0,1,0,0,0,0,0
+188,2,375,2,11,Bangladesh,Liton Das,Akeal Hosein,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,150871,113.42,103.73,1,0,,,Knuckleball,114,SDL COVER,0,0,2,10,56,2,0,0,1,0,0,0,0,0
+189,3,375,2,11,Bangladesh,Soumya Sarkar,Akeal Hosein,,11,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.3,2,1,0,150872,-175.27,142.40,4,0,,,Knuckleball,94,SDL ON,0,0,3,10,60,2,0,0,1,0,0,0,0,0
+190,4,375,2,11,Bangladesh,Soumya Sarkar,Akeal Hosein,,11,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,10.4,2,1,0,150873,-175.27,142.40,0,0,,,Knuckleball,40,FLICK,0,0,4,10,60,3,1,0,1,0,0,0,0,0
+191,5,375,2,11,Bangladesh,Liton Das,Akeal Hosein,,11,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.5,2,1,0,150874,186.63,57.68,4,0,,,Knuckleball,58,PULL SHOT,0,0,5,10,64,3,2,0,1,0,0,0,0,0
+192,6,375,2,11,Bangladesh,Liton Das,Akeal Hosein,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,150875,123.09,126.75,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,10,65,3,0,0,1,0,0,0,0,0
+193,1,375,2,11,Bangladesh,Liton Das,Dwayne Bravo,,12,1,5 (WD),5,0,0,0,0,0,5,1,0,0,0,1,0,0,,,0,11.1,2,1,1,150876,158.54,36.04,5,0,,,Knuckleball,54,LEG GLANCE,0,0,1,11,70,3,1,0,1,0,0,0,0,0
+194,2,375,2,11,Bangladesh,Liton Das,Dwayne Bravo,,12,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.1,2,1,0,150877,158.54,36.04,4,0,,,Knuckleball,58,PULL SHOT,0,0,2,11,74,3,0,0,1,0,0,0,0,0
+195,3,375,2,11,Bangladesh,Liton Das,Dwayne Bravo,,12,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,11.2,2,1,1,150878,158.54,36.04,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,11,75,3,0,0,1,0,0,0,0,0
+196,4,375,2,11,Bangladesh,Liton Das,Dwayne Bravo,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,150879,158.54,36.04,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,4,11,75,3,0,0,1,0,0,0,0,0
+197,5,375,2,11,Bangladesh,Liton Das,Dwayne Bravo,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,150880,158.54,36.04,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,11,76,3,0,0,1,0,0,0,0,0
+198,6,375,2,11,Bangladesh,Mushfiqur Rahim,Dwayne Bravo,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,150881,158.54,36.04,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,11,77,3,0,0,1,0,0,0,0,0
+199,7,375,2,11,Bangladesh,Liton Das,Dwayne Bravo,,12,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,150882,158.54,36.04,2,0,,,Knuckleball,40,FLICK,0,0,7,11,79,3,0,0,1,0,0,0,0,0
+200,8,375,2,11,Bangladesh,Liton Das,Dwayne Bravo,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,150883,-67.99,117.08,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,8,11,80,3,0,0,1,0,0,0,0,0
+201,1,375,2,11,Bangladesh,Liton Das,Akeal Hosein,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,150884,134.14,100.04,1,0,,,Knuckleball,58,PULL SHOT,0,0,1,12,81,3,1,0,1,0,0,0,0,0
+202,2,375,2,11,Bangladesh,Mushfiqur Rahim,Akeal Hosein,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,150885,131.84,39.73,1,0,,,Knuckleball,40,FLICK,0,0,2,12,82,3,0,0,1,0,0,0,0,0
+203,3,375,2,11,Bangladesh,Liton Das,Akeal Hosein,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,150886,114.80,96.82,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,12,83,3,0,0,1,0,0,0,0,0
+204,4,375,2,11,Bangladesh,Mushfiqur Rahim,Akeal Hosein,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,150887,138.74,19.93,1,0,,,Knuckleball,40,FLICK,0,0,4,12,84,3,0,0,1,0,0,0,0,0
+205,5,375,2,11,Bangladesh,Liton Das,Akeal Hosein,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,150888,96.38,71.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,12,85,3,0,0,1,0,0,0,0,0
+206,6,375,2,11,Bangladesh,Mushfiqur Rahim,Akeal Hosein,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,150889,144.27,-13.22,1,0,,,Knuckleball,40,FLICK,0,0,6,12,86,3,0,0,1,0,0,0,0,0
+207,1,375,2,11,Bangladesh,Mushfiqur Rahim,Ravi Rampaul,,14,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.1,2,1,0,150890,-146.72,-101.63,4,0,,,Knuckleball,36,CUT SHOT,0,0,1,13,90,3,1,0,1,0,0,0,0,0
+208,2,375,2,11,Bangladesh,Mushfiqur Rahim,Ravi Rampaul,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,150891,-93.31,-13.68,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,13,90,3,0,0,1,0,0,0,0,0
+209,3,375,2,11,Bangladesh,Mushfiqur Rahim,Ravi Rampaul,,14,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,13.3,2,1,0,150892,-93.31,-13.68,0,0,,,Knuckleball,99,SCOOP,0,0,3,13,90,4,1,0,1,0,0,0,0,0
+210,4,375,2,11,Bangladesh,Mahmudullah,Ravi Rampaul,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,150893,-140.28,90.37,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,13,91,4,2,0,1,0,0,0,0,0
+211,5,375,2,11,Bangladesh,Liton Das,Ravi Rampaul,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,150894,93.16,148.85,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,13,92,4,0,0,1,0,0,0,0,0
+212,6,375,2,11,Bangladesh,Mahmudullah,Ravi Rampaul,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,150895,91.78,75.18,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,13,93,4,0,0,1,0,0,0,0,0
+213,1,375,2,11,Bangladesh,Mahmudullah,Andre Russell,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,150896,-84.56,-10.92,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,1,14,93,4,1,0,1,0,0,0,0,0
+214,2,375,2,11,Bangladesh,Mahmudullah,Andre Russell,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,150897,-147.64,24.07,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,14,94,4,0,0,1,0,0,0,0,0
+215,3,375,2,11,Bangladesh,Liton Das,Andre Russell,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,150898,82.57,148.85,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,14,95,4,0,0,1,0,0,0,0,0
+216,4,375,2,11,Bangladesh,Mahmudullah,Andre Russell,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,150899,82.57,148.85,0,0,,,Knuckleball,11,LOFT ON,0,0,4,14,95,4,0,0,1,0,0,0,0,0
+217,5,375,2,11,Bangladesh,Mahmudullah,Andre Russell,,15,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.5,2,1,0,150900,193.54,8.42,4,0,,,Knuckleball,40,FLICK,0,0,5,14,99,4,0,0,1,0,0,0,0,0
+218,6,375,2,11,Bangladesh,Mahmudullah,Andre Russell,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,150901,53.10,71.96,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,14,99,4,0,0,1,0,0,0,0,0
+219,1,375,2,11,Bangladesh,Liton Das,Jason Holder,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,150902,-28.85,-65.71,1,0,,,Knuckleball,35,LATE CUT,0,0,1,15,100,4,1,1,2,0,0,1,0,0
+220,2,375,2,11,Bangladesh,Mahmudullah,Jason Holder,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,150903,103.29,56.76,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,15,101,4,0,0,2,0,0,0,0,0
+221,3,375,2,11,Bangladesh,Liton Das,Jason Holder,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,150904,66.00,155.76,1,0,,,Knuckleball,74,SD ON,0,0,3,15,102,4,0,0,2,0,0,0,0,0
+222,4,375,2,11,Bangladesh,Mahmudullah,Jason Holder,,16,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,15.4,2,1,1,150905,66.00,155.76,1,0,,,Knuckleball,54,LEG GLANCE,0,0,4,15,103,4,0,0,2,0,0,0,0,0
+223,5,375,2,11,Bangladesh,Mahmudullah,Jason Holder,,16,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,15.4,2,1,1,150906,66.00,155.76,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,15,104,4,0,0,2,0,0,0,0,0
+224,6,375,2,11,Bangladesh,Mahmudullah,Jason Holder,,16,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,150907,115.72,7.50,2,0,,,Knuckleball,40,FLICK,0,0,6,15,106,4,0,0,2,0,0,0,0,0
+225,7,375,2,11,Bangladesh,Mahmudullah,Jason Holder,,16,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.5,2,1,0,150908,52.18,-141.68,4,0,,,Knuckleball,99,SCOOP,0,0,7,15,110,4,0,0,2,0,0,0,0,0
+226,8,375,2,11,Bangladesh,Mahmudullah,Jason Holder,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,150909,78.89,39.27,0,0,,,Knuckleball,58,PULL SHOT,0,0,8,15,110,4,0,0,2,0,0,0,0,0
+227,1,375,2,11,Bangladesh,Liton Das,Dwayne Bravo,,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,150910,-97.46,-1.71,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,16,110,4,1,0,2,0,0,0,0,0
+228,2,375,2,11,Bangladesh,Liton Das,Dwayne Bravo,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,150911,-97.46,-1.71,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,16,110,4,0,0,2,0,0,0,0,0
+229,3,375,2,11,Bangladesh,Liton Das,Dwayne Bravo,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,150912,-150.87,68.73,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,16,111,4,0,0,2,0,0,0,0,0
+230,4,375,2,11,Bangladesh,Mahmudullah,Dwayne Bravo,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,150913,-150.87,68.73,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,16,111,4,0,0,2,0,0,0,0,0
+231,5,375,2,11,Bangladesh,Mahmudullah,Dwayne Bravo,,17,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,150914,141.97,96.82,2,0,,,Knuckleball,18,SLOG SHOT,0,0,5,16,113,4,0,0,2,0,0,0,0,0
+232,6,375,2,11,Bangladesh,Mahmudullah,Dwayne Bravo,,17,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,150915,141.97,96.82,0,0,,,Knuckleball,18,SLOG SHOT,0,0,6,16,113,4,0,0,2,0,0,0,0,0
+233,1,375,2,11,Bangladesh,Liton Das,Ravi Rampaul,,18,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.1,2,1,0,150916,124.01,-111.29,4,0,,,Knuckleball,40,FLICK,0,0,1,17,117,4,1,0,2,0,0,0,0,0
+234,2,375,2,11,Bangladesh,Liton Das,Ravi Rampaul,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,150917,-142.12,-7.24,1,0,,,Knuckleball,5,LOFT OFF,0,0,2,17,118,4,0,0,2,0,0,0,0,0
+235,3,375,2,11,Bangladesh,Mahmudullah,Ravi Rampaul,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,150918,-83.64,164.04,1,0,,,Knuckleball,21,SD OFF,0,0,3,17,119,4,0,0,2,0,0,0,0,0
+236,4,375,2,11,Bangladesh,Liton Das,Ravi Rampaul,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,150919,129.54,79.32,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,17,120,4,0,0,2,0,0,0,0,0
+237,5,375,2,11,Bangladesh,Mahmudullah,Ravi Rampaul,,18,5,1 (BY),1,0,0,0,0,1,1,0,0,1,0,0,0,0,,,0,17.5,2,1,1,150920,129.54,79.32,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,17,121,4,0,0,2,0,0,0,0,0
+238,6,375,2,11,Bangladesh,Liton Das,Ravi Rampaul,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,150921,129.54,79.32,0,0,,,Knuckleball,99,SCOOP,0,0,6,17,121,4,0,0,2,0,0,0,0,0
+239,1,375,2,11,Bangladesh,Mahmudullah,Dwayne Bravo,,19,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.1,2,1,0,150922,25.02,216.07,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,1,18,127,4,1,0,2,0,0,0,0,0
+240,2,375,2,11,Bangladesh,Mahmudullah,Dwayne Bravo,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,150923,25.02,216.07,0,0,,,Knuckleball,94,SDL ON,0,0,2,18,127,4,0,0,2,0,0,0,0,0
+241,3,375,2,11,Bangladesh,Mahmudullah,Dwayne Bravo,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,150924,-85.03,-15.99,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,3,18,128,4,0,0,2,0,0,0,0,0
+242,4,375,2,11,Bangladesh,Liton Das,Dwayne Bravo,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,150925,32.38,-59.27,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,18,129,4,0,0,2,0,0,0,0,0
+243,5,375,2,11,Bangladesh,Mahmudullah,Dwayne Bravo,,19,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.5,2,1,0,150926,-91.47,-13.22,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,5,18,130,4,0,0,2,0,0,0,0,0
+244,6,375,2,11,Bangladesh,Liton Das,Dwayne Bravo,,19,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.6,2,1,0,150927,-91.47,-13.22,0,0,,,Knuckleball,11,LOFT ON,0,0,6,18,130,5,1,0,2,0,0,0,0,0
+245,1,375,2,11,Bangladesh,Afif Hossain Dhrubo,Andre Russell,,20,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.1,2,1,0,150928,-62.46,-107.15,2,0,,,Knuckleball,99,SCOOP,0,0,1,19,132,5,2,0,2,0,0,0,0,0
+246,2,375,2,11,Bangladesh,Afif Hossain Dhrubo,Andre Russell,,20,2,1 (BY),1,0,0,0,0,1,1,0,0,1,0,0,0,0,,,0,19.2,2,1,1,150929,-62.46,-107.15,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,19,133,5,0,0,2,0,0,0,0,0
+247,3,375,2,11,Bangladesh,Mahmudullah,Andre Russell,,20,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.3,2,1,0,150930,58.17,114.32,2,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,19,135,5,0,0,2,0,0,0,0,0
+248,4,375,2,11,Bangladesh,Mahmudullah,Andre Russell,,20,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.4,2,1,0,150931,132.76,-46.37,2,0,,,Knuckleball,58,PULL SHOT,0,0,4,19,137,5,0,0,2,0,0,0,0,0
+249,5,375,2,11,Bangladesh,Mahmudullah,Andre Russell,,20,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.5,2,1,0,150932,96.38,130.89,2,0,,,Knuckleball,47,ON DRIVE,0,0,5,19,139,5,0,0,2,0,0,0,0,0
+250,6,375,2,11,Bangladesh,Mahmudullah,Andre Russell,,20,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.6,2,1,0,150933,96.38,130.89,0,0,,,Knuckleball,96,Slice,0,0,6,19,139,5,0,0,2,0,0,0,0,0

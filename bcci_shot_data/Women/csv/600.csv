@@ -1,0 +1,253 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,600,1,52,India Women,Smriti Mandhana,Shamilia Connell,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,234199,56.33,55.38,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,600,1,52,India Women,Smriti Mandhana,Shamilia Connell,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,234200,28.70,31.44,0,0,,43,NIPBACKER,50,BACKFOOT DEFENCE,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2,3,600,1,52,India Women,Smriti Mandhana,Shamilia Connell,,1,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.3,1,1,0,234201,-161.92,-40.39,4,0,,38,STRAIGHT BALL,58,BACKFOOT PULL SHOT,0,0,3,0,4,0,0,0,0,0,0,0,0,0
+3,4,600,1,52,India Women,Smriti Mandhana,Shamilia Connell,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,234202,-49.57,105.11,0,0,,38,STRAIGHT BALL,47,FRONTFOOT ON DRIVE,0,0,4,0,4,0,0,0,0,0,0,0,0,0
+4,5,600,1,52,India Women,Smriti Mandhana,Shamilia Connell,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,234203,-55.10,-35.78,1,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,5,0,5,0,0,0,0,0,0,0,0,0
+5,6,600,1,52,India Women,Shafali Verma,Shamilia Connell,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,234204,-55.10,-35.78,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,6,0,5,0,0,0,0,0,0,0,0,0
+6,1,600,1,52,India Women,Smriti Mandhana,Shanika Bruce,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,234205,-55.10,-35.78,0,0,,30,ANGLED ACROSS,84,FRONTFOOT OFF DRIVE,0,0,1,1,5,0,1,0,0,0,0,0,0,0
+7,2,600,1,52,India Women,Smriti Mandhana,Shanika Bruce,,2,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,1.2,1,1,0,234206,-55.10,-35.78,0,0,,30,ANGLED ACROSS,47,FRONTFOOT ON DRIVE,0,0,2,1,5,1,2,0,0,0,0,0,0,0
+8,3,600,1,52,India Women,Jemimah Rodrigues,Shanika Bruce,,2,3,3 (WD),3,0,0,0,0,0,3,1,0,0,0,0,0,0,,,0,1.3,1,1,1,234207,-55.10,-35.78,3,0,,39,ANGLED IN,105,LEFT ALONE,0,0,3,1,8,1,3,0,0,0,0,0,0,0
+9,4,600,1,52,India Women,Jemimah Rodrigues,Shanika Bruce,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,234208,-55.10,-35.78,0,0,,46,LEGCUTTER,49,FORWARD DEFENCE,0,0,4,1,8,1,0,0,0,0,0,0,0,0
+10,5,600,1,52,India Women,Jemimah Rodrigues,Shanika Bruce,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,234209,45.28,97.74,0,0,,38,STRAIGHT BALL,84,FRONTFOOT OFF DRIVE,0,0,5,1,8,1,0,0,0,0,0,0,0,0
+11,6,600,1,52,India Women,Jemimah Rodrigues,Shanika Bruce,,2,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.5,1,1,0,234210,-170.21,92.68,4,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,6,1,12,1,0,0,0,0,0,0,0,0
+12,7,600,1,52,India Women,Jemimah Rodrigues,Shanika Bruce,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,234211,-55.10,97.28,0,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,7,1,12,1,0,0,0,0,0,0,0,0
+13,1,600,1,52,India Women,Shafali Verma,Shamilia Connell,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,234212,-98.38,-71.70,1,0,,38,STRAIGHT BALL,44,GLIDE,0,0,1,2,13,1,1,0,0,0,0,0,0,0
+14,2,600,1,52,India Women,Jemimah Rodrigues,Shamilia Connell,,3,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.2,1,1,0,234213,-72.13,-126.49,4,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,2,2,17,1,0,0,0,0,0,0,0,0
+15,3,600,1,52,India Women,Jemimah Rodrigues,Shamilia Connell,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,234214,-33.00,14.40,0,0,,43,NIPBACKER,49,FORWARD DEFENCE,0,0,3,2,17,1,0,0,0,0,0,0,0,0
+16,4,600,1,52,India Women,Jemimah Rodrigues,Shamilia Connell,,3,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,234215,48.50,49.40,1,0,,43,NIPBACKER,50,BACKFOOT DEFENCE,0,0,4,2,18,1,0,0,0,0,0,0,0,0
+17,5,600,1,52,India Women,Shafali Verma,Shamilia Connell,,3,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.5,1,1,0,234216,-178.49,46.63,4,0,,38,STRAIGHT BALL,52,BACKFOOT COVERDRIVE,0,0,5,2,22,1,0,0,0,0,0,0,0,0
+18,6,600,1,52,India Women,Shafali Verma,Shamilia Connell,,3,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,234217,63.23,-91.96,2,0,,36,BOUNCER,46,FRONTFOOT PULL SHOT,1,0,6,2,24,1,0,0,0,0,0,0,0,0
+19,1,600,1,52,India Women,Jemimah Rodrigues,Shanika Bruce,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,234218,107.44,-53.28,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,1,3,25,1,1,0,0,0,0,0,0,0
+20,2,600,1,52,India Women,Shafali Verma,Shanika Bruce,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,234219,64.62,74.26,0,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,2,3,25,1,0,0,0,0,0,0,0,0
+21,3,600,1,52,India Women,Shafali Verma,Shanika Bruce,,4,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.3,1,1,0,234220,-66.15,210.09,4,0,,38,STRAIGHT BALL,84,FRONTFOOT OFF DRIVE,0,0,3,3,29,1,0,0,0,0,0,0,0,0
+22,4,600,1,52,India Women,Shafali Verma,Shanika Bruce,,4,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,3.4,1,1,1,234221,-66.15,210.09,1,0,,39,ANGLED IN,105,LEFT ALONE,0,0,4,3,30,1,0,0,0,0,0,0,0,0
+23,5,600,1,52,India Women,Shafali Verma,Shanika Bruce,,4,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.4,1,1,0,234222,-117.26,164.96,4,0,,38,STRAIGHT BALL,5,LOFTED OFF DRIVE,0,0,5,3,34,1,0,0,0,0,0,0,0,0
+24,6,600,1,52,India Women,Shafali Verma,Shanika Bruce,,4,5,4 (BY),4,0,0,0,0,1,4,0,0,1,0,1,0,0,,,0,3.5,1,1,1,234223,-117.26,164.96,4,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,6,3,38,1,0,0,0,0,0,0,0,0
+25,7,600,1,52,India Women,Shafali Verma,Shanika Bruce,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,234224,-117.26,164.96,0,0,,37,NIPPED AWAY,5,LOFTED OFF DRIVE,0,0,7,3,38,1,0,0,0,0,0,0,0,0
+26,1,600,1,52,India Women,Jemimah Rodrigues,Shamilia Connell,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,234225,-68.45,-26.12,0,0,,38,STRAIGHT BALL,97,BACKFOOT PUSH,0,0,1,4,38,1,1,0,0,0,0,0,0,0
+27,2,600,1,52,India Women,Jemimah Rodrigues,Shamilia Connell,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,234226,72.90,42.03,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,2,4,38,1,0,0,0,0,0,0,0,0
+28,3,600,1,52,India Women,Jemimah Rodrigues,Shamilia Connell,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,234227,-51.41,89.45,0,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,3,4,38,1,0,0,0,0,0,0,0,0
+29,4,600,1,52,India Women,Jemimah Rodrigues,Shamilia Connell,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,234228,-72.13,-34.86,0,0,,38,STRAIGHT BALL,97,BACKFOOT PUSH,0,0,4,4,38,1,0,0,0,0,0,0,0,0
+30,5,600,1,52,India Women,Jemimah Rodrigues,Shamilia Connell,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,234229,80.73,1.05,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,5,4,39,1,0,0,0,0,0,0,0,0
+31,6,600,1,52,India Women,Shafali Verma,Shamilia Connell,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,234230,80.73,1.05,0,0,,36,BOUNCER,46,FRONTFOOT PULL SHOT,1,0,6,4,39,1,0,0,0,0,0,0,0,0
+32,1,600,1,52,India Women,Jemimah Rodrigues,Aaliyah Alleyne,,6,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,234231,-88.25,39.73,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,1,5,40,1,1,0,0,0,0,0,0,0
+33,2,600,1,52,India Women,Shafali Verma,Aaliyah Alleyne,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,234232,56.79,64.59,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,2,5,40,1,0,0,0,0,0,0,0,0
+34,3,600,1,52,India Women,Shafali Verma,Aaliyah Alleyne,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,234233,56.79,64.59,0,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,3,5,40,1,0,0,0,0,0,0,0,0
+35,4,600,1,52,India Women,Shafali Verma,Aaliyah Alleyne,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.4,1,1,0,234234,-162.38,-33.94,4,0,,38,STRAIGHT BALL,59,FRONTFOOT SQUARE DRIVE,0,0,4,5,44,1,0,0,0,0,0,0,0,0
+36,5,600,1,52,India Women,Shafali Verma,Aaliyah Alleyne,,6,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,5.5,1,1,1,234235,-162.38,-33.94,1,0,,42,OUTSWINGER,105,LEFT ALONE,0,0,5,5,45,1,0,0,0,0,0,0,0,0
+37,6,600,1,52,India Women,Shafali Verma,Aaliyah Alleyne,,6,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.5,1,1,0,234236,66.92,202.72,4,0,,39,ANGLED IN,11,LOFTED ON DRIVE,0,0,6,5,49,1,0,0,0,0,0,0,0,0
+38,7,600,1,52,India Women,Shafali Verma,Aaliyah Alleyne,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,234237,80.73,64.13,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,7,5,50,1,0,1,1,0,1,0,0,0
+39,1,600,1,52,India Women,Shafali Verma,Shamilia Connell,,7,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,6.1,1,1,0,234238,159.00,147.47,6,0,,36,BOUNCER,46,FRONTFOOT PULL SHOT,1,0,1,6,56,1,1,0,1,0,0,0,0,0
+40,2,600,1,52,India Women,Shafali Verma,Shamilia Connell,,7,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,6.2,1,1,1,234239,159.00,147.47,1,0,,38,STRAIGHT BALL,105,LEFT ALONE,0,0,2,6,57,1,0,0,1,0,0,0,0,0
+41,3,600,1,52,India Women,Shafali Verma,Shamilia Connell,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,234240,-70.29,-36.24,0,0,,8,OFF CUTTER,36,CUT SHOT,0,0,3,6,57,1,0,0,1,0,0,0,0,0
+42,4,600,1,52,India Women,Shafali Verma,Shamilia Connell,,7,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.3,1,1,0,234241,-158.23,122.14,4,0,,38,STRAIGHT BALL,15,LOFTED COVER DRIVE,0,0,4,6,61,1,0,0,1,0,0,0,0,0
+43,5,600,1,52,India Women,Shafali Verma,Shamilia Connell,,7,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,6.4,1,1,1,234242,-158.23,122.14,1,0,,36,BOUNCER,105,LEFT ALONE,1,0,5,6,62,1,0,0,1,0,0,0,0,0
+44,6,600,1,52,India Women,Shafali Verma,Shamilia Connell,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,234243,-79.50,-26.12,0,0,,8,OFF CUTTER,27,FORWARD PUSH,0,0,6,6,62,1,0,0,1,0,0,0,0,0
+45,7,600,1,52,India Women,Shafali Verma,Shamilia Connell,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,234244,-133.37,39.27,1,0,,8,OFF CUTTER,52,BACKFOOT COVERDRIVE,0,0,7,6,63,1,0,0,1,0,0,0,0,0
+46,8,600,1,52,India Women,Jemimah Rodrigues,Shamilia Connell,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,234245,-69.83,-25.19,0,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,8,6,63,1,0,0,1,0,0,0,0,0
+47,1,600,1,52,India Women,Shafali Verma,Aaliyah Alleyne,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,234246,-62.46,153.45,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,1,7,64,1,1,0,1,0,0,0,0,0
+48,2,600,1,52,India Women,Jemimah Rodrigues,Aaliyah Alleyne,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,234247,-62.46,153.45,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,7,64,1,0,0,1,0,0,0,0,0
+49,3,600,1,52,India Women,Jemimah Rodrigues,Aaliyah Alleyne,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,234248,91.78,-48.68,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,3,7,65,1,0,0,1,0,0,0,0,0
+50,4,600,1,52,India Women,Shafali Verma,Aaliyah Alleyne,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,234249,-49.57,155.76,1,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,4,7,66,1,0,0,1,0,0,0,0,0
+51,5,600,1,52,India Women,Jemimah Rodrigues,Aaliyah Alleyne,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,234250,48.04,102.35,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,7,66,1,0,0,1,0,0,0,0,0
+52,6,600,1,52,India Women,Jemimah Rodrigues,Aaliyah Alleyne,,8,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,234251,-124.62,108.79,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,7,68,1,0,0,1,0,0,0,0,0
+53,1,600,1,52,India Women,Shafali Verma,Hayley Matthews,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,234252,23.64,-22.43,0,0,,25,OFF SPIN,37,STEP DOWN FLICK,0,0,1,8,68,1,1,0,1,0,0,0,0,0
+54,2,600,1,52,India Women,Shafali Verma,Hayley Matthews,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,234253,62.31,133.65,1,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,2,8,69,1,0,0,1,0,0,0,0,0
+55,3,600,1,52,India Women,Jemimah Rodrigues,Hayley Matthews,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,234254,135.06,41.57,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,3,8,70,1,0,0,1,0,0,0,0,0
+56,4,600,1,52,India Women,Shafali Verma,Hayley Matthews,,9,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.4,1,1,0,234255,-105.74,-110.83,4,0,,23,ARM BALL,35,LATE CUT,0,0,4,8,74,1,0,0,1,0,0,0,0,0
+57,5,600,1,52,India Women,Shafali Verma,Hayley Matthews,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,234256,80.27,-39.01,1,0,,25,OFF SPIN,54,LEG GLANCE,0,0,5,8,75,1,0,0,1,0,0,0,0,0
+58,6,600,1,52,India Women,Jemimah Rodrigues,Hayley Matthews,,9,6,1 WK,1,1,1,0,0,0,0,0,0,0,0,0,0,1,Run Out,WICKET,0,8.6,1,1,0,234257,143.35,44.33,1,0,,25,OFF SPIN,40,FRONTFOOT FLICK,0,0,6,8,76,2,0,0,1,0,0,0,0,0
+59,1,600,1,52,India Women,Jemimah Rodrigues,Shakera Selman,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,234258,-90.55,-2.17,0,0,,38,STRAIGHT BALL,97,BACKFOOT PUSH,0,0,1,9,76,2,1,0,1,0,0,0,0,0
+60,2,600,1,52,India Women,Jemimah Rodrigues,Shakera Selman,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,234259,-123.24,51.24,1,0,,38,STRAIGHT BALL,52,BACKFOOT COVERDRIVE,0,0,2,9,77,2,0,0,1,0,0,0,0,0
+61,3,600,1,52,India Women,Harmanpreet Kaur,Shakera Selman,,10,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,9.3,1,1,0,234260,-123.24,51.24,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,3,9,77,3,1,0,1,0,0,0,0,0
+62,4,600,1,52,India Women,Taniya Bhatia,Shakera Selman,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,234261,-137.05,15.32,1,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,4,9,78,3,2,0,1,0,0,0,0,0
+63,5,600,1,52,India Women,Jemimah Rodrigues,Shakera Selman,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,234262,-62.00,7.50,0,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,5,9,78,3,0,0,1,0,0,0,0,0
+64,6,600,1,52,India Women,Jemimah Rodrigues,Shakera Selman,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,234263,-64.31,42.03,0,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,6,9,78,3,0,0,1,0,0,0,0,0
+66,1,600,1,52,India Women,Taniya Bhatia,Hayley Matthews,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,234264,-81.34,-28.88,0,0,,25,OFF SPIN,36,CUT SHOT,0,0,1,10,78,3,1,0,1,0,0,0,0,0
+67,2,600,1,52,India Women,Taniya Bhatia,Hayley Matthews,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,234265,-81.34,-28.88,0,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,2,10,78,3,0,0,1,0,0,0,0,0
+68,3,600,1,52,India Women,Taniya Bhatia,Hayley Matthews,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,234266,41.13,48.47,1,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,3,10,79,3,0,0,1,0,0,0,0,0
+69,4,600,1,52,India Women,Jemimah Rodrigues,Hayley Matthews,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,234267,76.59,37.88,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,4,10,80,3,0,0,1,0,0,0,0,0
+70,5,600,1,52,India Women,Taniya Bhatia,Hayley Matthews,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,234268,73.36,128.59,1,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,5,10,81,3,0,0,1,0,0,0,0,0
+71,6,600,1,52,India Women,Jemimah Rodrigues,Hayley Matthews,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,234269,121.25,-8.16,1,0,,25,OFF SPIN,54,LEG GLANCE,0,0,6,10,82,3,0,0,1,0,0,0,0,0
+72,1,600,1,52,India Women,Jemimah Rodrigues,Shakera Selman,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,234270,-71.21,14.86,1,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,1,11,83,3,1,0,1,0,0,0,0,0
+73,2,600,1,52,India Women,Taniya Bhatia,Shakera Selman,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,234271,-69.83,33.28,0,0,,37,NIPPED AWAY,51,FRONTFOOT COVERDRIVE,0,0,2,11,83,3,0,0,1,0,0,0,0,0
+74,3,600,1,52,India Women,Taniya Bhatia,Shakera Selman,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,234272,-45.89,56.30,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,3,11,83,3,0,0,1,0,0,0,0,0
+75,4,600,1,52,India Women,Taniya Bhatia,Shakera Selman,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,234273,60.01,62.29,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,4,11,83,3,0,0,1,0,0,0,0,0
+76,5,600,1,52,India Women,Taniya Bhatia,Shakera Selman,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,234274,71.98,53.08,0,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,5,11,83,3,0,0,1,0,0,0,0,0
+77,6,600,1,52,India Women,Taniya Bhatia,Shakera Selman,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,234275,69.68,41.57,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,6,11,84,3,0,0,1,0,0,0,0,0
+78,1,600,1,52,India Women,Taniya Bhatia,Hayley Matthews,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,234276,114.34,89.91,1,0,,25,OFF SPIN,58,BACKFOOT PULL SHOT,0,0,1,12,85,3,1,0,1,0,0,0,0,0
+79,2,600,1,52,India Women,Jemimah Rodrigues,Hayley Matthews,,13,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.2,1,1,0,234277,-184.02,56.30,4,0,,25,OFF SPIN,15,LOFTED COVER DRIVE,0,0,2,12,89,3,0,0,1,0,0,0,0,0
+80,3,600,1,52,India Women,Jemimah Rodrigues,Hayley Matthews,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,234278,106.51,36.50,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,3,12,90,3,0,0,1,0,0,0,0,0
+81,4,600,1,52,India Women,Taniya Bhatia,Hayley Matthews,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,234279,142.89,-17.37,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,4,12,91,3,0,0,1,0,0,0,0,0
+82,5,600,1,52,India Women,Jemimah Rodrigues,Hayley Matthews,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,234280,66.00,43.41,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,5,12,92,3,0,0,1,0,0,0,0,0
+83,6,600,1,52,India Women,Taniya Bhatia,Hayley Matthews,,13,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,12.6,1,1,0,234281,66.00,43.41,0,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,6,12,92,4,1,0,1,0,0,0,0,0
+84,1,600,1,52,India Women,Deepti Sharma,Shakera Selman,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,234282,-141.66,54.00,1,0,,30,ANGLED ACROSS,58,BACKFOOT PULL SHOT,0,0,1,13,93,4,2,0,1,0,0,0,0,0
+85,2,600,1,52,India Women,Jemimah Rodrigues,Shakera Selman,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,234283,60.93,57.22,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,2,13,94,4,0,0,1,0,0,0,0,0
+86,3,600,1,52,India Women,Deepti Sharma,Shakera Selman,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,234284,41.13,30.52,0,0,,30,ANGLED ACROSS,49,FORWARD DEFENCE,0,0,3,13,94,4,0,0,1,0,0,0,0,0
+87,4,600,1,52,India Women,Deepti Sharma,Shakera Selman,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,234285,41.13,30.52,0,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,4,13,94,4,0,0,1,0,0,0,0,0
+88,5,600,1,52,India Women,Deepti Sharma,Shakera Selman,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,234286,65.54,11.64,0,0,,30,ANGLED ACROSS,49,FORWARD DEFENCE,0,0,5,13,94,4,0,0,1,0,0,0,0,0
+89,6,600,1,52,India Women,Deepti Sharma,Shakera Selman,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,234287,96.38,58.60,1,0,,30,ANGLED ACROSS,52,BACKFOOT COVERDRIVE,0,0,6,13,95,4,0,0,1,0,0,0,0,0
+90,1,600,1,52,India Women,Deepti Sharma,Hayley Matthews,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,234288,-77.20,33.28,1,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,1,14,96,4,1,0,1,0,0,0,0,0
+91,2,600,1,52,India Women,Jemimah Rodrigues,Hayley Matthews,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,234289,-78.12,119.84,1,0,,25,OFF SPIN,84,FRONTFOOT OFF DRIVE,0,0,2,14,97,4,0,0,1,0,0,0,0,0
+92,3,600,1,52,India Women,Deepti Sharma,Hayley Matthews,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,234290,132.30,53.08,1,0,,25,OFF SPIN,52,BACKFOOT COVERDRIVE,0,0,3,14,98,4,0,0,1,0,0,0,0,0
+93,4,600,1,52,India Women,Jemimah Rodrigues,Hayley Matthews,,15,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.4,1,1,0,234291,19.03,216.07,4,0,,25,OFF SPIN,69,STEP DOWN LOFTED STRAIGHT DRIVE,0,0,4,14,102,4,0,1,2,0,0,1,0,0
+94,5,600,1,52,India Women,Jemimah Rodrigues,Hayley Matthews,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,234292,153.94,17.17,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,5,14,103,4,0,0,2,0,0,0,0,0
+95,6,600,1,52,India Women,Deepti Sharma,Hayley Matthews,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,234293,74.28,25.91,1,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,6,14,104,4,0,0,2,0,0,0,0,0
+96,1,600,1,52,India Women,Deepti Sharma,Shakera Selman,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,234294,-67.07,-49.14,1,0,,43,NIPBACKER,40,FRONTFOOT FLICK,0,0,1,15,105,4,1,0,2,0,0,0,0,0
+97,2,600,1,52,India Women,Jemimah Rodrigues,Shakera Selman,,16,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.2,1,1,0,234295,77.51,204.56,6,0,,39,ANGLED IN,11,LOFTED ON DRIVE,0,0,2,15,111,4,0,0,2,0,0,0,0,0
+98,3,600,1,52,India Women,Jemimah Rodrigues,Shakera Selman,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,234296,-25.63,13.02,0,0,,39,ANGLED IN,55,SWEEP SHOT,0,0,3,15,111,4,0,0,2,0,0,0,0,0
+99,4,600,1,52,India Women,Jemimah Rodrigues,Shakera Selman,,16,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.4,1,1,0,234297,-157.77,117.54,4,0,,39,ANGLED IN,61,INSIDE OUT,0,0,4,15,115,4,0,0,2,0,0,0,0,0
+100,5,600,1,52,India Women,Jemimah Rodrigues,Shakera Selman,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,234298,-49.11,15.78,1,0,,38,STRAIGHT BALL,50,BACKFOOT DEFENCE,0,0,5,15,116,4,0,0,2,0,0,0,0,0
+101,6,600,1,52,India Women,Deepti Sharma,Shakera Selman,,16,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,15.6,1,1,1,234299,-49.11,15.78,1,0,,30,ANGLED ACROSS,105,LEFT ALONE,0,0,6,15,117,4,0,0,2,0,0,0,0,0
+102,7,600,1,52,India Women,Deepti Sharma,Shakera Selman,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,234300,60.93,84.39,0,0,,30,ANGLED ACROSS,84,FRONTFOOT OFF DRIVE,0,0,7,15,117,4,0,0,2,0,0,0,0,0
+103,1,600,1,52,India Women,Jemimah Rodrigues,Deandra Dottin,,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,234301,-4.45,-43.15,0,0,,39,ANGLED IN,59,FRONTFOOT SQUARE DRIVE,0,0,1,16,117,4,1,0,2,0,0,0,0,0
+104,2,600,1,52,India Women,Jemimah Rodrigues,Deandra Dottin,,17,2,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,0,,,0,16.2,1,1,1,234302,-4.45,-43.15,2,0,,39,ANGLED IN,54,LEG GLANCE,0,0,2,16,119,4,0,0,2,0,0,0,0,0
+105,3,600,1,52,India Women,Deepti Sharma,Deandra Dottin,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,234303,-4.45,-43.15,0,0,,30,ANGLED ACROSS,11,LOFTED ON DRIVE,0,0,3,16,119,4,0,0,2,0,0,0,0,0
+106,4,600,1,52,India Women,Deepti Sharma,Deandra Dottin,,17,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.3,1,1,0,234304,-107.59,172.79,4,0,,30,ANGLED ACROSS,11,LOFTED ON DRIVE,0,0,4,16,123,4,0,0,2,0,0,0,0,0
+107,5,600,1,52,India Women,Deepti Sharma,Deandra Dottin,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,234305,-107.59,172.79,0,0,,30,ANGLED ACROSS,15,LOFTED COVER DRIVE,0,0,5,16,123,4,0,0,2,0,0,0,0,0
+108,6,600,1,52,India Women,Deepti Sharma,Deandra Dottin,,17,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,234306,151.64,-2.17,2,0,,30,ANGLED ACROSS,59,FRONTFOOT SQUARE DRIVE,0,0,6,16,125,4,0,0,2,0,0,0,0,0
+109,7,600,1,52,India Women,Deepti Sharma,Deandra Dottin,,17,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,234307,151.64,-2.17,0,0,,30,ANGLED ACROSS,49,FORWARD DEFENCE,0,0,7,16,125,4,0,0,2,0,0,0,0,0
+110,1,600,1,52,India Women,Jemimah Rodrigues,Aaliyah Alleyne,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,234308,56.79,164.04,1,0,,38,STRAIGHT BALL,11,LOFTED ON DRIVE,0,0,1,17,126,4,1,0,2,0,0,0,0,0
+111,2,600,1,52,India Women,Deepti Sharma,Aaliyah Alleyne,,18,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.2,1,1,0,234309,56.79,164.04,0,0,,30,ANGLED ACROSS,94,STEP DOWN LOFTED ON DRIVE,0,0,2,17,126,4,0,0,2,0,0,0,0,0
+112,3,600,1,52,India Women,Deepti Sharma,Aaliyah Alleyne,,18,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.3,1,1,0,234310,-170.67,108.79,6,0,,30,ANGLED ACROSS,11,LOFTED ON DRIVE,0,0,3,17,132,4,0,0,2,0,0,0,0,0
+113,4,600,1,52,India Women,Deepti Sharma,Aaliyah Alleyne,,18,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.4,1,1,0,234311,-131.99,89.45,2,0,,30,ANGLED ACROSS,11,LOFTED ON DRIVE,0,0,4,17,134,4,0,0,2,0,0,0,0,0
+114,5,600,1,52,India Women,Deepti Sharma,Aaliyah Alleyne,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,234312,-153.17,-9.54,1,0,,38,STRAIGHT BALL,18,SLOG SHOT,0,0,5,17,135,4,0,0,2,0,0,0,0,0
+115,6,600,1,52,India Women,Jemimah Rodrigues,Aaliyah Alleyne,,18,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,234313,-137.97,71.96,2,0,,8,OFF CUTTER,15,LOFTED COVER DRIVE,0,0,6,17,137,4,0,0,2,0,0,0,0,0
+116,1,600,1,52,India Women,Deepti Sharma,Deandra Dottin,,19,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.1,1,1,0,234314,150.72,85.31,2,0,,30,ANGLED ACROSS,15,LOFTED COVER DRIVE,0,0,1,18,139,4,1,0,2,0,0,0,0,0
+117,2,600,1,52,India Women,Deepti Sharma,Deandra Dottin,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.2,1,1,0,234315,84.41,-77.22,1,0,,30,ANGLED ACROSS,44,GLIDE,0,0,2,18,140,4,0,0,2,0,0,0,0,0
+118,3,600,1,52,India Women,Jemimah Rodrigues,Deandra Dottin,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,234316,-53.26,94.52,1,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,3,18,141,4,0,0,2,0,0,0,0,0
+119,4,600,1,52,India Women,Deepti Sharma,Deandra Dottin,,19,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.4,1,1,0,234317,123.09,-60.65,2,0,,30,ANGLED ACROSS,44,GLIDE,0,0,4,18,143,4,0,0,2,0,0,0,0,0
+120,5,600,1,52,India Women,Deepti Sharma,Deandra Dottin,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,234318,123.09,-60.65,0,0,,30,ANGLED ACROSS,5,LOFTED OFF DRIVE,0,0,5,18,143,4,0,0,2,0,0,0,0,0
+121,6,600,1,52,India Women,Deepti Sharma,Deandra Dottin,,19,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,234319,152.10,69.65,1,0,,30,ANGLED ACROSS,89,STEP DOWN COVER DRIVE,0,0,6,18,144,4,0,0,2,0,0,0,0,0
+122,1,600,1,52,India Women,Deepti Sharma,Aaliyah Alleyne,,20,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,19.1,1,1,1,234320,152.10,69.65,1,0,,30,ANGLED ACROSS,105,LEFT ALONE,0,0,1,19,145,4,1,0,2,0,0,0,0,0
+123,2,600,1,52,India Women,Deepti Sharma,Aaliyah Alleyne,,20,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.1,1,1,0,234321,-161.00,106.49,4,0,,30,ANGLED ACROSS,11,LOFTED ON DRIVE,0,0,2,19,149,4,0,0,2,0,0,0,0,0
+124,3,600,1,52,India Women,Deepti Sharma,Aaliyah Alleyne,,20,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,234322,-130.61,75.18,2,0,,30,ANGLED ACROSS,94,STEP DOWN LOFTED ON DRIVE,0,0,3,19,151,4,0,1,3,0,0,0,0,0
+125,4,600,1,52,India Women,Deepti Sharma,Aaliyah Alleyne,,20,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.3,1,1,0,234323,56.79,98.66,1,0,,30,ANGLED ACROSS,122,STEP DOWN LOFTED OFF DRIVE,0,0,4,19,152,4,0,0,3,0,0,0,0,0
+126,5,600,1,52,India Women,Jemimah Rodrigues,Aaliyah Alleyne,,20,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,19.4,1,1,1,234324,56.79,98.66,1,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,5,19,153,4,0,0,3,0,0,0,0,0
+127,6,600,1,52,India Women,Jemimah Rodrigues,Aaliyah Alleyne,,20,4,2 (NB),2,1,1,0,0,0,1,0,1,0,0,0,0,0,,,0,19.4,1,1,1,234325,154.86,30.06,2,0,https://scores.bcci.tv/matchcentre/commentaryFiles/COMMONWEALTH-GAMES-WOMENS-CRICKET-2022/India-Women-VS-Barbados-Women-(03-Aug-2022)/File_1-20-234325.jpg,38,STRAIGHT BALL,18,SLOG SHOT,0,0,6,19,155,4,0,0,3,0,0,0,0,0
+128,7,600,1,52,India Women,Deepti Sharma,Aaliyah Alleyne,,20,4,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,19.4,1,1,1,234326,154.86,30.06,1,0,,30,ANGLED ACROSS,18,SLOG SHOT,0,0,7,19,156,4,0,0,3,0,0,0,0,0
+129,8,600,1,52,India Women,Jemimah Rodrigues,Aaliyah Alleyne,,20,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.5,1,1,0,234327,-139.82,77.94,2,0,,39,ANGLED IN,15,LOFTED COVER DRIVE,0,0,8,19,158,4,0,0,3,0,0,0,0,0
+130,9,600,1,52,India Women,Jemimah Rodrigues,Aaliyah Alleyne,,20,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.6,1,1,0,234328,151.64,-51.90,4,0,,39,ANGLED IN,18,SLOG SHOT,0,0,9,19,162,4,0,0,3,0,0,0,0,0
+132,1,600,2,98,Barbados Women,Deandra Dottin,Renuka Singh,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,234329,26.86,18.55,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+133,2,600,2,98,Barbados Women,Deandra Dottin,Renuka Singh,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,234330,-4.45,46.63,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+134,3,600,2,98,Barbados Women,Deandra Dottin,Renuka Singh,,1,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,0.3,1,1,0,234331,-4.45,46.63,0,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,3,0,0,1,1,0,0,0,0,0,0,0
+135,4,600,2,98,Barbados Women,Kycia Knight,Renuka Singh,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,234332,55.87,-29.80,0,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,4,0,0,1,2,0,0,0,0,0,0,0
+136,5,600,2,98,Barbados Women,Kycia Knight,Renuka Singh,,1,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.5,1,1,1,234333,55.87,-29.80,1,0,,30,ANGLED ACROSS,105,LEFT ALONE,0,0,5,0,1,1,0,0,0,0,0,0,0,0
+137,6,600,2,98,Barbados Women,Kycia Knight,Renuka Singh,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,234334,64.62,-29.34,0,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,6,0,1,1,0,0,0,0,0,0,0,0
+138,7,600,2,98,Barbados Women,Kycia Knight,Renuka Singh,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,234335,-55.10,48.47,0,0,,30,ANGLED ACROSS,84,FRONTFOOT OFF DRIVE,0,0,7,0,1,1,0,0,0,0,0,0,0,0
+139,1,600,2,98,Barbados Women,Hayley Matthews,Meghna Singh,,2,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.1,1,1,0,234336,-183.56,86.69,4,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,1,1,5,1,1,0,0,0,0,0,0,0
+140,2,600,2,98,Barbados Women,Hayley Matthews,Meghna Singh,,2,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.2,1,1,0,234337,-142.12,-71.70,4,0,,42,OUTSWINGER,36,CUT SHOT,0,0,2,1,9,1,0,0,0,0,0,0,0,0
+141,3,600,2,98,Barbados Women,Hayley Matthews,Meghna Singh,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,234338,-142.12,-71.70,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,3,1,9,1,0,0,0,0,0,0,0,0
+142,4,600,2,98,Barbados Women,Hayley Matthews,Meghna Singh,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,234339,-47.73,96.82,0,0,,42,OUTSWINGER,84,FRONTFOOT OFF DRIVE,0,0,4,1,9,1,0,0,0,0,0,0,0,0
+143,5,600,2,98,Barbados Women,Hayley Matthews,Meghna Singh,,2,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,234340,-120.02,14.86,1,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,5,1,10,1,0,0,0,0,0,0,0,0
+144,6,600,2,98,Barbados Women,Kycia Knight,Meghna Singh,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,234341,-120.02,14.86,0,0,,41,INSWINGER,84,FRONTFOOT OFF DRIVE,0,0,6,1,10,1,0,0,0,0,0,0,0,0
+145,1,600,2,98,Barbados Women,Hayley Matthews,Renuka Singh,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,234342,-46.35,-46.37,0,0,,37,NIPPED AWAY,44,GLIDE,0,0,1,2,10,1,1,0,0,0,0,0,0,0
+146,2,600,2,98,Barbados Women,Hayley Matthews,Renuka Singh,,3,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,2.2,1,1,0,234343,-46.35,-46.37,0,0,,38,STRAIGHT BALL,11,LOFTED ON DRIVE,0,0,2,2,10,2,2,0,0,0,0,0,0,0
+147,3,600,2,98,Barbados Women,Kyshona Knight,Renuka Singh,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,234344,-46.35,-46.37,0,0,,30,ANGLED ACROSS,105,LEFT ALONE,0,0,3,2,10,2,3,0,0,0,0,0,0,0
+148,4,600,2,98,Barbados Women,Kyshona Knight,Renuka Singh,,3,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,234345,87.64,-78.14,1,0,,30,ANGLED ACROSS,52,BACKFOOT COVERDRIVE,0,0,4,2,11,2,0,0,0,0,0,0,0,0
+149,5,600,2,98,Barbados Women,Kycia Knight,Renuka Singh,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,234346,75.67,88.99,0,0,,30,ANGLED ACROSS,21,STEP DOWN OFF DRIVE,0,0,5,2,11,2,0,0,0,0,0,0,0,0
+150,6,600,2,98,Barbados Women,Kycia Knight,Renuka Singh,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,234347,75.67,88.99,0,0,,37,NIPPED AWAY,36,CUT SHOT,0,0,6,2,11,2,0,0,0,0,0,0,0,0
+151,1,600,2,98,Barbados Women,Kyshona Knight,Deepti Sharma,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,234348,95.00,11.64,0,0,,25,OFF SPIN,52,BACKFOOT COVERDRIVE,0,0,1,3,11,2,1,0,0,0,0,0,0,0
+152,2,600,2,98,Barbados Women,Kyshona Knight,Deepti Sharma,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,234349,134.60,46.63,1,0,,25,OFF SPIN,52,BACKFOOT COVERDRIVE,0,0,2,3,12,2,0,0,0,0,0,0,0,0
+153,3,600,2,98,Barbados Women,Kycia Knight,Deepti Sharma,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,234350,101.45,15.32,1,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,3,3,13,2,0,0,0,0,0,0,0,0
+154,4,600,2,98,Barbados Women,Kyshona Knight,Deepti Sharma,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,234351,130.46,46.63,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,4,3,14,2,0,0,0,0,0,0,0,0
+155,5,600,2,98,Barbados Women,Kycia Knight,Deepti Sharma,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,234352,61.85,24.99,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,5,3,14,2,0,0,0,0,0,0,0,0
+156,6,600,2,98,Barbados Women,Kycia Knight,Deepti Sharma,,4,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,234353,-133.37,108.79,2,0,,25,OFF SPIN,95,SLOG SWEEP,0,0,6,3,16,2,0,0,0,0,0,0,0,0
+157,1,600,2,98,Barbados Women,Kyshona Knight,Renuka Singh,,5,1,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,234354,139.21,123.99,3,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,1,4,19,2,1,0,0,0,0,0,0,0
+158,2,600,2,98,Barbados Women,Kycia Knight,Renuka Singh,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,234355,16.27,51.70,0,0,,38,STRAIGHT BALL,49,FORWARD DEFENCE,0,0,2,4,19,2,0,0,0,0,0,0,0,0
+159,3,600,2,98,Barbados Women,Kycia Knight,Renuka Singh,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,234356,26.86,32.36,0,0,,38,STRAIGHT BALL,50,BACKFOOT DEFENCE,0,0,3,4,19,2,0,0,0,0,0,0,0,0
+160,4,600,2,98,Barbados Women,Kycia Knight,Renuka Singh,,5,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,4.4,1,1,0,234357,26.86,32.36,0,0,,30,ANGLED ACROSS,99,SCOOP,0,0,4,4,19,3,1,0,0,0,0,0,0,0
+161,5,600,2,98,Barbados Women,Aaliyah Alleyne,Renuka Singh,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,234358,-14.58,72.88,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,5,4,19,3,2,0,0,0,0,0,0,0
+162,6,600,2,98,Barbados Women,Aaliyah Alleyne,Renuka Singh,,5,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,4.6,1,1,0,234359,-14.58,72.88,0,0,https://scores.bcci.tv/matchcentre/commentaryFiles/COMMONWEALTH-GAMES-WOMENS-CRICKET-2022/India-Women-VS-Barbados-Women-(03-Aug-2022)/File_2-5-234359.jpg,43,NIPBACKER,12,NO SHOT,0,0,6,4,19,4,3,0,0,0,0,0,0,0
+163,1,600,2,98,Barbados Women,Kyshona Knight,Deepti Sharma,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,234360,-82.72,11.64,0,0,,25,OFF SPIN,40,FRONTFOOT FLICK,0,0,1,5,19,4,4,0,0,0,0,0,0,0
+164,2,600,2,98,Barbados Women,Kyshona Knight,Deepti Sharma,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,234361,69.22,-20.59,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,2,5,19,4,0,0,0,0,0,0,0,0
+165,3,600,2,98,Barbados Women,Kyshona Knight,Deepti Sharma,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,234362,143.81,38.35,1,0,,25,OFF SPIN,52,BACKFOOT COVERDRIVE,0,0,3,5,20,4,0,0,0,0,0,0,0,0
+166,4,600,2,98,Barbados Women,Trishan Holder,Deepti Sharma,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,1,1,0,234363,-57.86,-4.94,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,4,5,20,4,0,0,0,0,0,0,0,0
+167,5,600,2,98,Barbados Women,Trishan Holder,Deepti Sharma,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,234364,-57.86,-4.94,0,0,,23,ARM BALL,27,FORWARD PUSH,0,0,5,5,20,4,0,0,0,0,0,0,0,0
+168,6,600,2,98,Barbados Women,Trishan Holder,Deepti Sharma,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,234365,14.43,4.27,0,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,6,5,20,4,0,0,0,0,0,0,0,0
+169,1,600,2,98,Barbados Women,Kyshona Knight,Renuka Singh,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,234366,28.70,5.65,0,0,,38,STRAIGHT BALL,47,FRONTFOOT ON DRIVE,0,0,1,6,20,4,1,0,0,0,0,0,0,0
+170,2,600,2,98,Barbados Women,Kyshona Knight,Renuka Singh,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,234367,-64.77,8.42,1,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,2,6,21,4,0,0,0,0,0,0,0,0
+171,3,600,2,98,Barbados Women,Trishan Holder,Renuka Singh,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,234368,-70.75,-49.14,1,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,3,6,22,4,0,0,0,0,0,0,0,0
+172,4,600,2,98,Barbados Women,Kyshona Knight,Renuka Singh,,7,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,234369,-131.07,54.92,2,0,,30,ANGLED ACROSS,46,FRONTFOOT PULL SHOT,0,0,4,6,24,4,0,0,0,0,0,0,0,0
+173,5,600,2,98,Barbados Women,Kyshona Knight,Renuka Singh,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,234370,-58.32,93.60,1,0,,30,ANGLED ACROSS,47,FRONTFOOT ON DRIVE,0,0,5,6,25,4,0,0,0,0,0,0,0,0
+174,6,600,2,98,Barbados Women,Trishan Holder,Renuka Singh,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,234371,-47.27,77.02,0,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,6,6,25,4,0,0,0,0,0,0,0,0
+175,1,600,2,98,Barbados Women,Kyshona Knight,Pooja Vastrakar,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,234372,60.01,-26.58,0,0,,30,ANGLED ACROSS,49,FORWARD DEFENCE,0,0,1,7,25,4,1,0,0,0,0,0,0,0
+176,2,600,2,98,Barbados Women,Kyshona Knight,Pooja Vastrakar,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,234373,60.01,-26.58,0,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,2,7,25,4,0,0,0,0,0,0,0,0
+177,3,600,2,98,Barbados Women,Kyshona Knight,Pooja Vastrakar,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,234374,23.64,6.12,0,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,3,7,25,4,0,0,0,0,0,0,0,0
+178,4,600,2,98,Barbados Women,Kyshona Knight,Pooja Vastrakar,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,234375,134.60,46.63,1,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,4,7,26,4,0,0,0,0,0,0,0,0
+179,5,600,2,98,Barbados Women,Trishan Holder,Pooja Vastrakar,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,234376,-67.53,-98.40,1,0,,36,BOUNCER,35,LATE CUT,1,0,5,7,27,4,0,0,0,0,0,0,0,0
+180,6,600,2,98,Barbados Women,Kyshona Knight,Pooja Vastrakar,,8,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.6,1,1,0,234377,-170.67,-20.59,4,0,,30,ANGLED ACROSS,58,BACKFOOT PULL SHOT,0,0,6,7,31,4,0,0,0,0,0,0,0,0
+181,1,600,2,98,Barbados Women,Trishan Holder,Sneh Rana,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,234378,-170.67,-20.59,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,8,31,4,1,0,0,0,0,0,0,0
+182,2,600,2,98,Barbados Women,Trishan Holder,Sneh Rana,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,234379,-89.17,-38.55,1,0,,,Knuckleball,59,FRONTFOOT SQUARE DRIVE,0,0,2,8,32,4,0,0,0,0,0,0,0,0
+183,3,600,2,98,Barbados Women,Kyshona Knight,Sneh Rana,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,234380,-39.90,88.07,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,8,32,4,0,0,0,0,0,0,0,0
+184,4,600,2,98,Barbados Women,Kyshona Knight,Sneh Rana,,9,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,8.4,1,1,0,234381,-39.90,88.07,0,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,4,8,32,5,1,0,0,0,0,0,0,0
+185,5,600,2,98,Barbados Women,Alisa Scantlebury,Sneh Rana,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,234382,-39.90,88.07,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,8,32,5,2,0,0,0,0,0,0,0
+186,6,600,2,98,Barbados Women,Alisa Scantlebury,Sneh Rana,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,234383,-39.90,88.07,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,8,32,5,0,0,0,0,0,0,0,0
+187,1,600,2,98,Barbados Women,Trishan Holder,Pooja Vastrakar,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,234384,-39.90,88.07,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,9,32,5,1,0,0,0,0,0,0,0
+188,2,600,2,98,Barbados Women,Trishan Holder,Pooja Vastrakar,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,234385,-67.53,-37.17,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,9,32,5,0,0,0,0,0,0,0,0
+189,3,600,2,98,Barbados Women,Trishan Holder,Pooja Vastrakar,,10,3,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,9.3,1,1,1,234386,-67.53,-37.17,1,0,,,Knuckleball,54,LEG GLANCE,0,0,3,9,33,5,0,0,0,0,0,0,0,0
+190,4,600,2,98,Barbados Women,Alisa Scantlebury,Pooja Vastrakar,,10,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,9.4,1,1,1,234387,-67.53,-37.17,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,4,9,34,5,0,0,0,0,0,0,0,0
+191,5,600,2,98,Barbados Women,Alisa Scantlebury,Pooja Vastrakar,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,234388,-40.36,33.74,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,9,34,5,0,0,0,0,0,0,0,0
+192,6,600,2,98,Barbados Women,Alisa Scantlebury,Pooja Vastrakar,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,234389,-30.69,34.66,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,9,34,5,0,0,0,0,0,0,0,0
+193,7,600,2,98,Barbados Women,Alisa Scantlebury,Pooja Vastrakar,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,234390,-30.69,34.66,0,0,,,Knuckleball,44,GLIDE,0,0,7,9,34,5,0,0,0,0,0,0,0,0
+195,1,600,2,98,Barbados Women,Trishan Holder,Sneh Rana,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,234391,-36.22,16.24,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,10,34,5,1,0,0,0,0,0,0,0
+196,2,600,2,98,Barbados Women,Trishan Holder,Sneh Rana,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,234392,-36.22,16.24,0,0,,,Knuckleball,44,GLIDE,0,0,2,10,34,5,0,0,0,0,0,0,0,0
+197,3,600,2,98,Barbados Women,Trishan Holder,Sneh Rana,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,234393,-88.25,62.29,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,10,35,5,0,0,0,0,0,0,0,0
+198,4,600,2,98,Barbados Women,Alisa Scantlebury,Sneh Rana,,11,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.4,1,1,0,234394,58.63,199.50,4,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,4,10,39,5,0,0,0,0,0,0,0,0
+199,5,600,2,98,Barbados Women,Alisa Scantlebury,Sneh Rana,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,234395,13.05,48.47,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,10,39,5,0,0,0,0,0,0,0,0
+200,6,600,2,98,Barbados Women,Alisa Scantlebury,Sneh Rana,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,234396,42.05,100.04,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,10,39,5,0,0,0,0,0,0,0,0
+201,1,600,2,98,Barbados Women,Trishan Holder,Meghna Singh,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,234397,102.83,-55.58,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,11,40,5,1,0,0,0,0,0,0,0
+202,2,600,2,98,Barbados Women,Alisa Scantlebury,Meghna Singh,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,234398,102.83,-55.58,0,0,,,Knuckleball,44,GLIDE,0,0,2,11,40,5,0,0,0,0,0,0,0,0
+203,3,600,2,98,Barbados Women,Alisa Scantlebury,Meghna Singh,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,234399,106.97,-56.96,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,11,41,5,0,0,0,0,0,0,0,0
+204,4,600,2,98,Barbados Women,Trishan Holder,Meghna Singh,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,234400,-47.27,45.25,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,11,41,5,0,0,0,0,0,0,0,0
+205,5,600,2,98,Barbados Women,Trishan Holder,Meghna Singh,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,234401,-67.99,-29.80,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,11,41,5,0,0,0,0,0,0,0,0
+206,6,600,2,98,Barbados Women,Trishan Holder,Meghna Singh,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,234402,20.41,21.31,0,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,6,11,41,5,0,0,0,0,0,0,0,0
+207,1,600,2,98,Barbados Women,Alisa Scantlebury,Radha Yadav,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,234403,-7.67,44.33,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,12,41,5,1,0,0,0,0,0,0,0
+208,2,600,2,98,Barbados Women,Alisa Scantlebury,Radha Yadav,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,1,1,0,234404,110.66,-8.16,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,2,12,42,5,0,0,0,0,0,0,0,0
+209,3,600,2,98,Barbados Women,Trishan Holder,Radha Yadav,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,234405,23.64,-16.91,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,3,12,42,5,0,0,0,0,0,0,0,0
+210,4,600,2,98,Barbados Women,Trishan Holder,Radha Yadav,,13,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,234406,-49.57,42.03,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,12,42,5,0,0,0,0,0,0,0,0
+211,5,600,2,98,Barbados Women,Trishan Holder,Radha Yadav,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,234407,-72.59,92.68,1,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,5,12,43,5,0,0,0,0,0,0,0,0
+212,6,600,2,98,Barbados Women,Alisa Scantlebury,Radha Yadav,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,234408,73.36,75.18,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,6,12,44,5,0,0,0,0,0,0,0,0
+213,1,600,2,98,Barbados Women,Alisa Scantlebury,Meghna Singh,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,234409,-89.63,-50.06,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,13,45,5,1,0,0,0,0,0,0,0
+214,2,600,2,98,Barbados Women,Trishan Holder,Meghna Singh,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,234410,-89.63,-50.06,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,13,45,5,0,0,0,0,0,0,0,0
+215,3,600,2,98,Barbados Women,Trishan Holder,Meghna Singh,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,234411,55.87,106.49,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,13,45,5,0,0,0,0,0,0,0,0
+216,4,600,2,98,Barbados Women,Trishan Holder,Meghna Singh,,14,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,13.4,1,1,0,234412,55.87,106.49,0,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,4,13,45,6,1,0,0,0,0,0,0,0
+217,5,600,2,98,Barbados Women,Shaunte Carrington,Meghna Singh,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,234413,54.49,106.03,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,13,45,6,2,0,0,0,0,0,0,0
+218,6,600,2,98,Barbados Women,Shaunte Carrington,Meghna Singh,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,234414,-73.05,10.72,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,13,45,6,0,0,0,0,0,0,0,0
+219,1,600,2,98,Barbados Women,Alisa Scantlebury,Radha Yadav,,15,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,14.1,1,1,0,234415,-73.05,10.72,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,14,45,7,1,0,0,0,0,0,0,0
+220,2,600,2,98,Barbados Women,Shakera Selman,Radha Yadav,,15,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.2,1,1,0,234416,113.88,-114.06,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,14,49,7,2,0,0,0,0,0,0,0
+221,3,600,2,98,Barbados Women,Shakera Selman,Radha Yadav,,15,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,234417,113.88,-114.06,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,14,49,7,0,0,0,0,0,0,0,0
+222,4,600,2,98,Barbados Women,Shakera Selman,Radha Yadav,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,234418,13.05,20.39,0,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,4,14,49,7,0,0,0,0,0,0,0,0
+223,5,600,2,98,Barbados Women,Shakera Selman,Radha Yadav,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,234419,-58.32,-33.48,1,0,,,Knuckleball,35,LATE CUT,0,0,5,14,50,7,0,1,1,0,1,0,0,0
+224,6,600,2,98,Barbados Women,Shaunte Carrington,Radha Yadav,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,234420,-58.32,-33.48,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,14,50,7,0,0,1,0,0,0,0,0
+225,1,600,2,98,Barbados Women,Shakera Selman,Harmanpreet Kaur,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,234421,-37.60,7.50,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,15,50,7,1,0,1,0,0,0,0,0
+226,2,600,2,98,Barbados Women,Shakera Selman,Harmanpreet Kaur,,16,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,234422,2.46,58.14,0,0,,,Knuckleball,1,STEP DOWN STRAIGHT DRIVE,0,0,2,15,50,7,0,0,1,0,0,0,0,0
+227,3,600,2,98,Barbados Women,Shakera Selman,Harmanpreet Kaur,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,234423,25.48,53.08,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,15,50,7,0,0,1,0,0,0,0,0
+228,4,600,2,98,Barbados Women,Shakera Selman,Harmanpreet Kaur,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,234424,-25.17,-24.73,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,15,50,7,0,0,1,0,0,0,0,0
+229,5,600,2,98,Barbados Women,Shakera Selman,Harmanpreet Kaur,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,234425,-48.65,37.42,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,15,50,7,0,0,1,0,0,0,0,0
+230,6,600,2,98,Barbados Women,Shakera Selman,Harmanpreet Kaur,,16,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.6,1,1,0,234426,-65.23,-136.16,4,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,15,54,7,0,0,1,0,0,0,0,0
+231,1,600,2,98,Barbados Women,Shaunte Carrington,Shafali Verma,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,234427,54.49,-12.76,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,16,55,7,1,0,1,0,0,0,0,0
+232,2,600,2,98,Barbados Women,Shakera Selman,Shafali Verma,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,234428,-9.05,62.29,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,16,55,7,0,0,1,0,0,0,0,0
+233,3,600,2,98,Barbados Women,Shakera Selman,Shafali Verma,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,1,1,0,234429,44.82,6.12,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,16,56,7,0,0,1,0,0,0,0,0
+234,4,600,2,98,Barbados Women,Shaunte Carrington,Shafali Verma,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,234430,-9.51,57.22,0,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,4,16,56,7,0,0,1,0,0,0,0,0
+235,5,600,2,98,Barbados Women,Shaunte Carrington,Shafali Verma,,17,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,234431,35.61,13.94,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,16,56,7,0,0,1,0,0,0,0,0
+236,6,600,2,98,Barbados Women,Shaunte Carrington,Shafali Verma,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,234432,-8.13,164.04,1,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,6,16,57,7,0,0,1,0,0,0,0,0
+237,1,600,2,98,Barbados Women,Shaunte Carrington,Harmanpreet Kaur,,18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,234433,-8.13,164.04,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,17,57,7,1,0,1,0,0,0,0,0
+238,2,600,2,98,Barbados Women,Shaunte Carrington,Harmanpreet Kaur,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,1,1,0,234434,100.99,108.79,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,2,17,58,7,0,0,1,0,0,0,0,0
+239,3,600,2,98,Barbados Women,Shakera Selman,Harmanpreet Kaur,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.3,1,1,0,234435,84.87,105.57,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,17,59,7,0,0,1,0,0,0,0,0
+240,4,600,2,98,Barbados Women,Shaunte Carrington,Harmanpreet Kaur,,18,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.4,1,1,0,234436,84.87,105.57,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,17,59,7,0,0,1,0,0,0,0,0
+241,5,600,2,98,Barbados Women,Shaunte Carrington,Harmanpreet Kaur,,18,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,17.5,1,1,0,234437,84.87,105.57,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,17,59,8,1,0,1,0,0,0,0,0
+242,6,600,2,98,Barbados Women,Shamilia Connell,Harmanpreet Kaur,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,234438,-73.51,-39.93,0,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,6,17,59,8,2,0,1,0,0,0,0,0
+243,1,600,2,98,Barbados Women,Shakera Selman,Radha Yadav,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,1,1,0,234439,61.85,96.82,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,18,60,8,3,0,1,0,0,0,0,0
+244,2,600,2,98,Barbados Women,Shamilia Connell,Radha Yadav,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.2,1,1,0,234440,61.85,96.82,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,2,18,60,8,0,0,1,0,0,0,0,0
+245,3,600,2,98,Barbados Women,Shamilia Connell,Radha Yadav,,19,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,234441,61.85,96.82,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,18,60,8,0,0,1,0,0,0,0,0
+246,4,600,2,98,Barbados Women,Shamilia Connell,Radha Yadav,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,1,1,0,234442,108.36,-62.95,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,4,18,61,8,0,0,1,0,0,0,0,0
+247,5,600,2,98,Barbados Women,Shakera Selman,Radha Yadav,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,234443,108.36,-62.95,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,5,18,61,8,0,0,1,0,0,0,0,0
+248,6,600,2,98,Barbados Women,Shakera Selman,Radha Yadav,,19,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,234444,-72.13,-4.01,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,18,61,8,0,0,1,0,0,0,0,0
+249,1,600,2,98,Barbados Women,Shamilia Connell,Harmanpreet Kaur,,20,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.1,1,1,0,234445,-34.38,87.15,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,19,61,8,1,0,1,0,0,0,0,0
+250,2,600,2,98,Barbados Women,Shamilia Connell,Harmanpreet Kaur,,20,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,234446,-77.66,-7.24,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,19,61,8,0,0,1,0,0,0,0,0
+251,3,600,2,98,Barbados Women,Shamilia Connell,Harmanpreet Kaur,,20,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.3,1,1,0,234447,-75.82,2.89,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,19,61,8,0,0,1,0,0,0,0,0
+252,4,600,2,98,Barbados Women,Shamilia Connell,Harmanpreet Kaur,,20,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.4,1,1,0,234448,-46.81,-44.07,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,19,61,8,0,0,1,0,0,0,0,0
+253,5,600,2,98,Barbados Women,Shamilia Connell,Harmanpreet Kaur,,20,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.5,1,1,0,234449,-24.71,19.01,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,19,61,8,0,0,1,0,0,0,0,0
+254,6,600,2,98,Barbados Women,Shamilia Connell,Harmanpreet Kaur,,20,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.6,1,1,0,234450,-92.39,82.09,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,19,62,8,0,0,1,0,0,0,0,0

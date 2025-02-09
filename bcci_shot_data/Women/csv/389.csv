@@ -1,0 +1,149 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,389,1,21,Scotland,George Munsey,Jasprit Bumrah,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,153909,-26.09,42.49,0,0,,,Knuckleball,40,FLICK,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,389,1,21,Scotland,George Munsey,Jasprit Bumrah,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,153910,73.36,101.42,0,0,,,Knuckleball,84,OFF DRIVE,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2,3,389,1,21,Scotland,George Munsey,Jasprit Bumrah,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,153911,113.88,-77.22,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+3,4,389,1,21,Scotland,Kyle Coetzer,Jasprit Bumrah,,1,4,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,0.4,2,1,1,153912,-56.02,-69.86,1,0,,,Knuckleball,40,FLICK,0,0,4,0,2,0,0,0,0,0,0,0,0,0
+4,5,389,1,21,Scotland,George Munsey,Jasprit Bumrah,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,153913,66.92,63.21,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,0,2,0,0,0,0,0,0,0,0,0
+5,6,389,1,21,Scotland,George Munsey,Jasprit Bumrah,,1,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,0.6,2,1,0,153914,-166.06,-71.24,6,0,,,Knuckleball,40,FLICK,0,0,6,0,8,0,0,0,0,0,0,0,0,0
+6,1,389,1,21,Scotland,Kyle Coetzer,Varun Chakaravarthy,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,153915,62.77,53.54,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,1,8,0,1,0,0,0,0,0,0,0
+7,2,389,1,21,Scotland,Kyle Coetzer,Varun Chakaravarthy,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,153916,62.77,53.54,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,1,8,0,0,0,0,0,0,0,0,0
+8,3,389,1,21,Scotland,Kyle Coetzer,Varun Chakaravarthy,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,153917,109.28,16.24,1,0,,,Knuckleball,40,FLICK,0,0,3,1,9,0,0,0,0,0,0,0,0,0
+9,4,389,1,21,Scotland,George Munsey,Varun Chakaravarthy,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,153918,-11.82,68.73,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,1,9,0,0,0,0,0,0,0,0,0
+10,5,389,1,21,Scotland,George Munsey,Varun Chakaravarthy,,2,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.5,2,1,0,153919,77.51,-148.13,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,5,1,13,0,0,0,0,0,0,0,0,0
+11,6,389,1,21,Scotland,George Munsey,Varun Chakaravarthy,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,153920,77.51,-148.13,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,6,1,13,0,0,0,0,0,0,0,0,0
+12,1,389,1,21,Scotland,Kyle Coetzer,Jasprit Bumrah,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,153921,27.78,71.96,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,2,13,0,1,0,0,0,0,0,0,0
+13,2,389,1,21,Scotland,Kyle Coetzer,Jasprit Bumrah,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,153922,73.82,93.14,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,2,13,0,0,0,0,0,0,0,0,0
+14,3,389,1,21,Scotland,Kyle Coetzer,Jasprit Bumrah,,3,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,2.3,2,1,0,153923,73.82,93.14,0,0,,,Knuckleball,84,OFF DRIVE,0,0,3,2,13,1,1,0,0,0,0,0,0,0
+15,4,389,1,21,Scotland,Matthew Cross,Jasprit Bumrah,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,153924,-77.66,13.02,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,2,13,1,2,0,0,0,0,0,0,0
+16,5,389,1,21,Scotland,Matthew Cross,Jasprit Bumrah,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,153925,-102.98,24.53,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,2,13,1,0,0,0,0,0,0,0,0
+17,6,389,1,21,Scotland,Matthew Cross,Jasprit Bumrah,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,153926,22.72,60.91,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,2,13,1,0,0,0,0,0,0,0,0
+18,1,389,1,21,Scotland,George Munsey,Ravichandran Ashwin,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,153927,19.03,75.18,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,3,13,1,1,0,0,0,0,0,0,0
+19,2,389,1,21,Scotland,George Munsey,Ravichandran Ashwin,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,153928,-91.47,49.86,0,0,,,Knuckleball,18,SLOG SHOT,0,0,2,3,13,1,0,0,0,0,0,0,0,0
+20,3,389,1,21,Scotland,George Munsey,Ravichandran Ashwin,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,153929,-91.01,20.39,0,0,,,Knuckleball,40,FLICK,0,0,3,3,13,1,0,0,0,0,0,0,0,0
+21,4,389,1,21,Scotland,George Munsey,Ravichandran Ashwin,,4,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.4,2,1,0,153930,159.92,139.64,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,3,17,1,0,0,0,0,0,0,0,0
+22,5,389,1,21,Scotland,George Munsey,Ravichandran Ashwin,,4,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.5,2,1,0,153931,152.10,-76.30,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,5,3,21,1,0,0,0,0,0,0,0,0
+23,6,389,1,21,Scotland,George Munsey,Ravichandran Ashwin,,4,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.6,2,1,0,153932,42.05,-147.21,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,6,3,25,1,0,0,0,0,0,0,0,0
+24,1,389,1,21,Scotland,Matthew Cross,Varun Chakaravarthy,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,153933,-36.22,64.13,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,4,25,1,1,0,0,0,0,0,0,0
+25,2,389,1,21,Scotland,Matthew Cross,Varun Chakaravarthy,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,153934,63.69,172.79,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,4,26,1,0,0,0,0,0,0,0,0
+26,3,389,1,21,Scotland,George Munsey,Varun Chakaravarthy,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,153935,76.59,109.71,0,0,,,Knuckleball,84,OFF DRIVE,0,0,3,4,26,1,0,0,0,0,0,0,0,0
+27,4,389,1,21,Scotland,George Munsey,Varun Chakaravarthy,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,153936,-74.44,13.94,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,4,4,26,1,0,0,0,0,0,0,0,0
+28,5,389,1,21,Scotland,George Munsey,Varun Chakaravarthy,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,153937,52.64,123.06,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,4,27,1,0,0,0,0,0,0,0,0
+29,6,389,1,21,Scotland,Matthew Cross,Varun Chakaravarthy,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,153938,16.27,66.43,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,4,27,1,0,0,0,0,0,0,0,0
+30,1,389,1,21,Scotland,George Munsey,Mohammad Shami,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,153939,71.98,103.73,0,0,,,Knuckleball,84,OFF DRIVE,0,0,1,5,27,1,1,0,0,0,0,0,0,0
+31,2,389,1,21,Scotland,George Munsey,Mohammad Shami,,6,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.2,2,1,0,153940,71.98,103.73,0,0,,,Knuckleball,11,LOFT ON,0,0,2,5,27,2,2,0,0,0,0,0,0,0
+32,3,389,1,21,Scotland,Richie Berrington,Mohammad Shami,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,153941,51.72,21.77,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,5,27,2,3,0,0,0,0,0,0,0
+33,4,389,1,21,Scotland,Richie Berrington,Mohammad Shami,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,153942,-57.86,-27.96,0,0,,,Knuckleball,40,FLICK,0,0,4,5,27,2,0,0,0,0,0,0,0,0
+34,5,389,1,21,Scotland,Richie Berrington,Mohammad Shami,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,153943,25.02,13.02,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,5,27,2,0,0,0,0,0,0,0,0
+35,6,389,1,21,Scotland,Richie Berrington,Mohammad Shami,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,153944,0.62,-18.29,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,5,27,2,0,0,0,0,0,0,0,0
+36,1,389,1,21,Scotland,Matthew Cross,Ravindra Jadeja,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,153945,-15.04,59.06,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,6,27,2,1,0,0,0,0,0,0,0
+37,2,389,1,21,Scotland,Matthew Cross,Ravindra Jadeja,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,153946,144.73,-15.99,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,6,28,2,0,0,0,0,0,0,0,0
+38,3,389,1,21,Scotland,Richie Berrington,Ravindra Jadeja,,7,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,6.3,2,1,0,153947,-15.04,59.06,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,6,28,3,1,0,0,0,0,0,0,0
+39,4,389,1,21,Scotland,Calum MacLeod,Ravindra Jadeja,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,153948,-63.38,53.54,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,6,28,3,2,0,0,0,0,0,0,0
+40,5,389,1,21,Scotland,Calum MacLeod,Ravindra Jadeja,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,153949,103.75,-76.30,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,6,29,3,0,0,0,0,0,0,0,0
+41,6,389,1,21,Scotland,Matthew Cross,Ravindra Jadeja,,7,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,6.6,2,1,0,153950,103.75,-76.30,0,0,,,Knuckleball,40,FLICK,0,0,6,6,29,4,1,0,0,0,0,0,0,0
+42,1,389,1,21,Scotland,Calum MacLeod,Ravichandran Ashwin,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,153951,-89.17,50.32,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,7,29,4,2,0,0,0,0,0,0,0
+43,2,389,1,21,Scotland,Calum MacLeod,Ravichandran Ashwin,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,153952,127.23,-56.04,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,7,30,4,0,0,0,0,0,0,0,0
+44,3,389,1,21,Scotland,Michael Leask,Ravichandran Ashwin,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,153953,-143.96,-6.78,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,3,7,31,4,0,0,0,0,0,0,0,0
+45,4,389,1,21,Scotland,Calum MacLeod,Ravichandran Ashwin,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,153954,31.00,58.60,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,7,31,4,0,0,0,0,0,0,0,0
+46,5,389,1,21,Scotland,Calum MacLeod,Ravichandran Ashwin,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,153955,-79.96,9.80,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,7,32,4,0,0,0,0,0,0,0,0
+47,6,389,1,21,Scotland,Michael Leask,Ravichandran Ashwin,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,153956,-79.96,9.80,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,7,32,4,0,0,0,0,0,0,0,0
+48,1,389,1,21,Scotland,Calum MacLeod,Ravindra Jadeja,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,153957,90.86,2.43,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,8,32,4,1,0,0,0,0,0,0,0
+49,2,389,1,21,Scotland,Calum MacLeod,Ravindra Jadeja,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,153958,90.86,2.43,1,0,,,Knuckleball,56,REVERSE SWEEP,0,0,2,8,33,4,0,0,0,0,0,0,0,0
+50,3,389,1,21,Scotland,Michael Leask,Ravindra Jadeja,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,153959,90.86,2.43,1,0,,,Knuckleball,84,OFF DRIVE,0,0,3,8,34,4,0,0,0,0,0,0,0,0
+51,4,389,1,21,Scotland,Calum MacLeod,Ravindra Jadeja,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,153960,90.86,2.43,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,8,34,4,0,0,0,0,0,0,0,0
+52,5,389,1,21,Scotland,Calum MacLeod,Ravindra Jadeja,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,153961,90.86,2.43,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,8,35,4,0,0,0,0,0,0,0,0
+53,6,389,1,21,Scotland,Michael Leask,Ravindra Jadeja,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,153962,131.84,110.17,1,0,,,Knuckleball,40,FLICK,0,0,6,8,36,4,0,0,0,0,0,0,0,0
+54,1,389,1,21,Scotland,Michael Leask,Varun Chakaravarthy,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,153963,92.24,20.85,0,0,,,Knuckleball,84,OFF DRIVE,0,0,1,9,36,4,1,0,0,0,0,0,0,0
+55,2,389,1,21,Scotland,Michael Leask,Varun Chakaravarthy,,10,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,153964,47.58,-111.76,2,0,,,Knuckleball,36,CUT SHOT,0,0,2,9,38,4,0,0,0,0,0,0,0,0
+56,3,389,1,21,Scotland,Michael Leask,Varun Chakaravarthy,,10,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.3,2,1,0,153965,175.58,-13.68,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,9,42,4,0,0,0,0,0,0,0,0
+57,4,389,1,21,Scotland,Michael Leask,Varun Chakaravarthy,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,153966,-87.33,-4.94,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,9,43,4,0,0,0,0,0,0,0,0
+58,5,389,1,21,Scotland,Calum MacLeod,Varun Chakaravarthy,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,153967,69.68,69.65,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,9,43,4,0,0,0,0,0,0,0,0
+59,6,389,1,21,Scotland,Calum MacLeod,Varun Chakaravarthy,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,153968,-131.07,-20.59,1,0,,,Knuckleball,,,0,0,6,9,44,4,0,0,0,0,0,0,0,0
+60,1,389,1,21,Scotland,Calum MacLeod,Mohammad Shami,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,153969,113.42,92.22,1,0,,,Knuckleball,40,FLICK,0,0,1,10,45,4,1,0,0,0,0,0,0,0
+61,2,389,1,21,Scotland,Michael Leask,Mohammad Shami,,11,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,10.2,2,1,0,153970,99.15,-141.22,6,0,,,Knuckleball,58,PULL SHOT,0,0,2,10,51,4,0,1,1,0,1,0,0,0
+62,3,389,1,21,Scotland,Michael Leask,Mohammad Shami,,11,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.3,2,1,0,153971,-51.41,210.09,4,0,,,Knuckleball,84,OFF DRIVE,0,0,3,10,55,4,0,0,1,0,0,0,0,0
+63,4,389,1,21,Scotland,Michael Leask,Mohammad Shami,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,153972,102.37,-9.08,1,0,,,Knuckleball,40,FLICK,0,0,4,10,56,4,0,0,1,0,0,0,0,0
+64,5,389,1,21,Scotland,Calum MacLeod,Mohammad Shami,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,153973,90.40,54.46,0,0,,,Knuckleball,40,FLICK,0,0,5,10,56,4,0,0,1,0,0,0,0,0
+65,6,389,1,21,Scotland,Calum MacLeod,Mohammad Shami,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,153974,119.41,128.59,1,0,,,Knuckleball,47,ON DRIVE,0,0,6,10,57,4,0,0,1,0,0,0,0,0
+66,1,389,1,21,Scotland,Calum MacLeod,Ravindra Jadeja,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,153975,89.94,124.45,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,11,58,4,1,0,1,0,0,0,0,0
+67,2,389,1,21,Scotland,Michael Leask,Ravindra Jadeja,,12,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,11.2,2,1,0,153976,89.94,124.45,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,11,58,5,2,0,1,0,0,0,0,0
+68,3,389,1,21,Scotland,Chris Greaves,Ravindra Jadeja,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,153977,98.69,37.42,1,0,,,Knuckleball,40,FLICK,0,0,3,11,59,5,3,0,1,0,0,0,0,0
+69,4,389,1,21,Scotland,Calum MacLeod,Ravindra Jadeja,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,153978,-83.64,-5.86,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,11,59,5,0,0,1,0,0,0,0,0
+70,5,389,1,21,Scotland,Calum MacLeod,Ravindra Jadeja,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,153979,-47.27,39.27,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,11,59,5,0,0,1,0,0,0,0,0
+71,6,389,1,21,Scotland,Calum MacLeod,Ravindra Jadeja,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,153980,-132.45,25.91,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,11,60,5,0,0,1,0,0,0,0,0
+72,1,389,1,21,Scotland,Calum MacLeod,Jasprit Bumrah,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,153981,-132.45,25.91,0,0,,,Knuckleball,84,OFF DRIVE,0,0,1,12,60,5,1,0,1,0,0,0,0,0
+73,2,389,1,21,Scotland,Calum MacLeod,Jasprit Bumrah,,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,153982,30.08,59.53,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,12,60,5,0,0,1,0,0,0,0,0
+74,3,389,1,21,Scotland,Calum MacLeod,Jasprit Bumrah,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,153983,-65.69,-110.83,1,0,,,Knuckleball,35,LATE CUT,0,0,3,12,61,5,0,0,1,0,0,0,0,0
+75,4,389,1,21,Scotland,Chris Greaves,Jasprit Bumrah,,13,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,153984,-25.17,65.05,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,12,61,5,0,0,1,0,0,0,0,0
+76,5,389,1,21,Scotland,Chris Greaves,Jasprit Bumrah,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,153985,-25.17,65.05,0,0,,,Knuckleball,58,PULL SHOT,0,0,5,12,61,5,0,0,1,0,0,0,0,0
+77,6,389,1,21,Scotland,Chris Greaves,Jasprit Bumrah,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,153986,-22.87,102.35,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,6,12,61,5,0,0,1,0,0,0,0,0
+78,1,389,1,21,Scotland,Calum MacLeod,Ravichandran Ashwin,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,153987,-145.80,23.15,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,13,62,5,1,0,1,0,0,0,0,0
+79,2,389,1,21,Scotland,Chris Greaves,Ravichandran Ashwin,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,153988,71.52,-29.34,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,2,13,62,5,0,0,1,0,0,0,0,0
+80,3,389,1,21,Scotland,Chris Greaves,Ravichandran Ashwin,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,153989,11.21,18.09,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,13,62,5,0,0,1,0,0,0,0,0
+81,4,389,1,21,Scotland,Chris Greaves,Ravichandran Ashwin,,14,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,13.4,2,1,1,153990,11.21,18.09,1,0,,,Knuckleball,105,LEFT ALONE,0,0,4,13,63,5,0,0,1,0,0,0,0,0
+82,5,389,1,21,Scotland,Chris Greaves,Ravichandran Ashwin,,14,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,13.4,2,1,0,153991,11.21,18.09,0,0,,,Knuckleball,122,SDL OFF,0,0,5,13,63,6,1,0,1,0,0,0,0,0
+83,6,389,1,21,Scotland,Calum MacLeod,Ravichandran Ashwin,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,153992,105.59,126.29,1,0,,,Knuckleball,47,ON DRIVE,0,0,6,13,64,6,2,0,1,0,0,0,0,0
+84,7,389,1,21,Scotland,Mark Watt,Ravichandran Ashwin,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,153993,-56.02,48.47,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,7,13,64,6,0,0,1,0,0,0,0,0
+85,1,389,1,21,Scotland,Calum MacLeod,Ravindra Jadeja,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,153994,-146.26,22.23,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,14,65,6,1,0,1,0,0,0,0,0
+86,2,389,1,21,Scotland,Mark Watt,Ravindra Jadeja,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,153995,31.00,69.65,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,14,65,6,0,0,1,0,0,0,0,0
+87,3,389,1,21,Scotland,Mark Watt,Ravindra Jadeja,,15,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,153996,31.46,67.35,0,0,,,Knuckleball,21,SD OFF,0,0,3,14,65,6,0,0,1,0,0,0,0,0
+88,4,389,1,21,Scotland,Mark Watt,Ravindra Jadeja,,15,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.4,2,1,0,153997,196.30,42.95,4,0,,,Knuckleball,36,CUT SHOT,0,0,4,14,69,6,0,0,1,0,0,0,0,0
+89,5,389,1,21,Scotland,Mark Watt,Ravindra Jadeja,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,153998,-57.86,48.47,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,14,69,6,0,0,1,0,0,0,0,0
+90,6,389,1,21,Scotland,Mark Watt,Ravindra Jadeja,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,153999,-77.20,20.85,1,0,,,Knuckleball,94,SDL ON,0,0,6,14,70,6,0,0,1,0,0,0,0,0
+91,1,389,1,21,Scotland,Mark Watt,Ravichandran Ashwin,,16,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.1,2,1,0,154000,47.58,-145.37,4,0,,,Knuckleball,122,SDL OFF,0,0,1,15,74,6,1,0,1,0,0,0,0,0
+92,2,389,1,21,Scotland,Mark Watt,Ravichandran Ashwin,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,154001,74.28,167.27,1,0,,,Knuckleball,84,OFF DRIVE,0,0,2,15,75,6,0,0,1,0,0,0,0,0
+93,3,389,1,21,Scotland,Calum MacLeod,Ravichandran Ashwin,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,154002,130.46,-52.36,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,15,76,6,0,0,1,0,0,0,0,0
+94,4,389,1,21,Scotland,Mark Watt,Ravichandran Ashwin,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,154003,86.26,46.17,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,15,76,6,0,0,1,0,0,0,0,0
+95,5,389,1,21,Scotland,Mark Watt,Ravichandran Ashwin,,16,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,154004,36.53,-114.06,2,0,,,Knuckleball,56,REVERSE SWEEP,0,0,5,15,78,6,0,0,1,0,0,0,0,0
+96,6,389,1,21,Scotland,Mark Watt,Ravichandran Ashwin,,16,6,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,0,,,0,15.6,2,1,1,154005,36.53,-114.06,2,0,,,Knuckleball,21,SD OFF,0,0,6,15,80,6,0,0,1,0,0,0,0,0
+97,7,389,1,21,Scotland,Calum MacLeod,Ravichandran Ashwin,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,154006,123.55,-56.04,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,7,15,81,6,0,0,1,0,0,0,0,0
+98,1,389,1,21,Scotland,Calum MacLeod,Mohammad Shami,,17,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,16.1,2,1,0,154007,36.53,-114.06,0,0,,,Knuckleball,40,FLICK,0,0,1,16,81,7,1,0,1,0,0,0,0,0
+99,2,389,1,21,Scotland,Safyaan Sharif,Mohammad Shami,,17,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,16.2,2,1,0,154008,36.53,-114.06,0,0,,,Knuckleball,40,FLICK,0,0,2,16,81,8,2,0,1,0,0,0,0,0
+100,3,389,1,21,Scotland,Alasdair Evans,Mohammad Shami,,17,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,16.3,2,1,0,154009,36.53,-114.06,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,16,81,9,3,0,1,0,0,0,0,0
+101,4,389,1,21,Scotland,Brad Wheal,Mohammad Shami,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,154010,-64.77,112.94,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,16,82,9,4,0,1,0,0,0,0,0
+102,5,389,1,21,Scotland,Mark Watt,Mohammad Shami,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,154011,157.62,62.29,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,16,83,9,0,0,1,0,0,0,0,0
+103,6,389,1,21,Scotland,Brad Wheal,Mohammad Shami,,17,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,154012,14.43,-32.10,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,16,83,9,0,0,1,0,0,0,0,0
+104,1,389,1,21,Scotland,Mark Watt,Jasprit Bumrah,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,154013,-97.46,81.63,1,0,,,Knuckleball,40,FLICK,0,0,1,17,84,9,1,0,1,0,0,0,0,0
+105,2,389,1,21,Scotland,Brad Wheal,Jasprit Bumrah,,18,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,154014,-97.46,81.63,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,17,84,9,0,0,1,0,0,0,0,0
+106,3,389,1,21,Scotland,Brad Wheal,Jasprit Bumrah,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,154015,-46.81,-13.68,1,0,,,Knuckleball,40,FLICK,0,0,3,17,85,9,0,0,1,0,0,0,0,0
+107,4,389,1,21,Scotland,Mark Watt,Jasprit Bumrah,,18,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,17.4,2,1,0,154016,-46.81,-13.68,0,0,,,Knuckleball,99,SCOOP,0,0,4,17,85,10,1,0,1,0,0,0,0,0
+108,1,389,2,1,India,K L Rahul,Mark Watt,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,154017,107.90,86.69,1,0,,,Knuckleball,40,FLICK,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+109,2,389,2,1,India,Rohit Sharma,Mark Watt,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,154018,-99.30,13.48,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+110,3,389,2,1,India,Rohit Sharma,Mark Watt,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,154019,83.95,92.68,1,0,,,Knuckleball,40,FLICK,0,0,3,0,2,0,0,0,0,0,0,0,0,0
+111,4,389,2,1,India,K L Rahul,Mark Watt,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,154020,145.19,-33.48,1,0,,,Knuckleball,40,FLICK,0,0,4,0,3,0,0,0,0,0,0,0,0,0
+112,5,389,2,1,India,Rohit Sharma,Mark Watt,,1,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.5,2,1,0,154021,-190.92,-73.08,4,0,,,Knuckleball,15,LOFT COVER,0,0,5,0,7,0,0,0,0,0,0,0,0,0
+113,6,389,2,1,India,Rohit Sharma,Mark Watt,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,154022,155.32,11.18,1,0,,,Knuckleball,40,FLICK,0,0,6,0,8,0,0,0,0,0,0,0,0,0
+114,1,389,2,1,India,Rohit Sharma,Brad Wheal,,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,154023,122.17,-62.49,1,0,,,Knuckleball,40,FLICK,0,0,1,1,9,0,1,0,0,0,0,0,0,0
+115,2,389,2,1,India,K L Rahul,Brad Wheal,,2,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.2,2,1,0,154024,108.36,178.32,4,0,,,Knuckleball,11,LOFT ON,0,0,2,1,13,0,0,0,0,0,0,0,0,0
+116,3,389,2,1,India,K L Rahul,Brad Wheal,,2,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.3,2,1,0,154025,186.17,90.37,4,0,,,Knuckleball,40,FLICK,0,0,3,1,17,0,0,0,0,0,0,0,0,0
+117,4,389,2,1,India,K L Rahul,Brad Wheal,,2,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,1.4,2,1,1,154026,186.17,90.37,1,0,,,Knuckleball,40,FLICK,0,0,4,1,18,0,0,0,0,0,0,0,0,0
+118,5,389,2,1,India,K L Rahul,Brad Wheal,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,154027,-25.17,-61.11,0,0,,,Knuckleball,35,LATE CUT,0,0,5,1,18,0,0,0,0,0,0,0,0,0
+119,6,389,2,1,India,K L Rahul,Brad Wheal,,2,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.5,2,1,0,154028,159.92,-82.75,4,0,,,Knuckleball,40,FLICK,0,0,6,1,22,0,0,0,0,0,0,0,0,0
+120,7,389,2,1,India,K L Rahul,Brad Wheal,,2,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,154029,-40.82,126.75,1,0,,,Knuckleball,84,OFF DRIVE,0,0,7,1,23,0,0,0,0,0,0,0,0,0
+121,1,389,2,1,India,K L Rahul,Alasdair Evans,,3,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.1,2,1,0,154030,-180.79,-23.81,4,0,,,Knuckleball,5,LOFT OFF,0,0,1,2,27,0,1,0,0,0,0,0,0,0
+122,2,389,2,1,India,K L Rahul,Alasdair Evans,,3,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,2.2,2,1,0,154031,167.75,-74.00,6,0,,,Knuckleball,40,FLICK,0,0,2,2,33,0,0,0,0,0,0,0,0,0
+123,3,389,2,1,India,K L Rahul,Alasdair Evans,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,154032,-132.91,166.35,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,2,34,0,0,0,0,0,0,0,0,0
+124,4,389,2,1,India,Rohit Sharma,Alasdair Evans,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,154033,-132.91,166.35,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,2,34,0,0,0,0,0,0,0,0,0
+125,5,389,2,1,India,Rohit Sharma,Alasdair Evans,,3,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.5,2,1,0,154034,-132.91,166.35,4,0,,,Knuckleball,5,LOFT OFF,0,0,5,2,38,0,0,0,0,0,0,0,0,0
+126,6,389,2,1,India,Rohit Sharma,Alasdair Evans,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,154035,38.83,151.61,1,0,,,Knuckleball,122,SDL OFF,0,0,6,2,39,0,0,0,0,0,0,0,0,0
+127,1,389,2,1,India,Rohit Sharma,Safyaan Sharif,,4,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.1,2,1,0,154036,183.41,101.88,6,0,,,Knuckleball,18,SLOG SHOT,0,0,1,3,45,0,1,0,0,0,0,0,0,0
+128,2,389,2,1,India,Rohit Sharma,Safyaan Sharif,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,154037,-61.08,109.71,0,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,2,3,45,0,0,0,0,0,0,0,0,0
+129,3,389,2,1,India,Rohit Sharma,Safyaan Sharif,,4,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.3,2,1,0,154038,-187.70,76.10,4,0,,,Knuckleball,15,LOFT COVER,0,0,3,3,49,0,0,0,0,0,0,0,0,0
+130,4,389,2,1,India,Rohit Sharma,Safyaan Sharif,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,154039,-89.63,-9.08,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,3,49,0,0,0,0,0,0,0,0,0
+131,5,389,2,1,India,Rohit Sharma,Safyaan Sharif,,4,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.5,2,1,0,154040,182.95,27.29,4,0,,,Knuckleball,40,FLICK,0,0,5,3,53,0,0,1,1,0,1,0,0,0
+132,6,389,2,1,India,Rohit Sharma,Safyaan Sharif,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,154041,182.95,27.29,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,3,53,0,0,0,1,0,0,0,0,0
+133,1,389,2,1,India,K L Rahul,Brad Wheal,,5,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,154042,50.80,174.63,2,0,,,Knuckleball,58,PULL SHOT,0,0,1,4,55,0,1,0,1,0,0,0,0,0
+134,2,389,2,1,India,K L Rahul,Brad Wheal,,5,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.2,2,1,0,154043,-195.07,63.67,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,4,59,0,0,0,1,0,0,0,0,0
+135,3,389,2,1,India,K L Rahul,Brad Wheal,,5,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,4.3,2,1,0,154044,178.34,-10.00,6,0,,,Knuckleball,58,PULL SHOT,0,0,3,4,65,0,0,0,1,0,0,0,0,0
+136,4,389,2,1,India,K L Rahul,Brad Wheal,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,154045,146.11,74.72,1,0,,,Knuckleball,40,FLICK,0,0,4,4,66,0,0,0,1,0,0,0,0,0
+137,5,389,2,1,India,Rohit Sharma,Brad Wheal,,5,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.5,2,1,0,154046,121.25,174.63,4,0,,,Knuckleball,58,PULL SHOT,0,0,5,4,70,0,0,0,1,0,0,0,0,0
+138,6,389,2,1,India,Rohit Sharma,Brad Wheal,,5,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,4.6,2,1,0,154047,121.25,174.63,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,4,70,1,1,0,1,0,0,0,0,0
+139,1,389,2,1,India,K L Rahul,Mark Watt,,6,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.1,2,1,0,154048,126.31,25.91,4,0,,,Knuckleball,84,OFF DRIVE,0,0,1,5,74,1,2,0,1,0,0,0,0,0
+140,2,389,2,1,India,K L Rahul,Mark Watt,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,154049,-42.67,94.06,0,0,,,Knuckleball,84,OFF DRIVE,0,0,2,5,74,1,0,0,1,0,0,0,0,0
+141,3,389,2,1,India,K L Rahul,Mark Watt,,6,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,5.3,2,1,0,154050,126.31,25.91,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,3,5,80,1,0,0,1,0,0,0,0,0
+142,4,389,2,1,India,K L Rahul,Mark Watt,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,154051,126.31,25.91,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,5,81,1,0,0,1,0,0,0,0,0
+143,5,389,2,1,India,Virat Kohli,Mark Watt,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,154052,126.31,25.91,1,0,,,Knuckleball,40,FLICK,0,0,5,5,82,1,0,0,1,0,0,0,0,0
+144,6,389,2,1,India,K L Rahul,Mark Watt,,6,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.6,2,1,0,154053,126.31,25.91,0,0,,,Knuckleball,11,LOFT ON,0,0,6,5,82,2,1,0,1,0,0,0,0,0
+145,1,389,2,1,India,Virat Kohli,Chris Greaves,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,154054,117.56,-59.27,1,0,,,Knuckleball,58,PULL SHOT,0,0,1,6,83,2,2,0,1,0,0,0,0,0
+146,2,389,2,1,India,Suryakumar Yadav,Chris Greaves,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,154055,117.56,-59.27,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,6,83,2,0,0,1,0,0,0,0,0
+147,3,389,2,1,India,Suryakumar Yadav,Chris Greaves,,7,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,6.3,2,1,0,154056,-5.37,222.98,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,3,6,89,2,0,0,1,0,0,0,0,0

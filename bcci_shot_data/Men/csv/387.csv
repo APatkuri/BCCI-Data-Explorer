@@ -1,0 +1,257 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,387,1,6,Sri Lanka,Pathum Nissanka,Roston Chase,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,153403,25.50,50.00,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,387,1,6,Sri Lanka,Pathum Nissanka,Roston Chase,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,153404,71.50,158.00,1,0,,25,OFF SPIN,74,SD ON,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+2,3,387,1,6,Sri Lanka,Kusal Perera,Roston Chase,,1,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.3,1,1,0,153405,64.50,-150.00,4,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,3,0,5,0,0,0,0,0,0,0,0,0
+3,4,387,1,6,Sri Lanka,Kusal Perera,Roston Chase,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,153406,-21.50,62.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,0,5,0,0,0,0,0,0,0,0,0
+4,5,387,1,6,Sri Lanka,Kusal Perera,Roston Chase,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,153407,-17.50,48.00,0,0,,,Knuckleball,77,SD DEFENCE,0,0,5,0,5,0,0,0,0,0,0,0,0,0
+5,6,387,1,6,Sri Lanka,Kusal Perera,Roston Chase,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,153408,-29.50,-53.00,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,0,6,0,0,0,0,0,0,0,0,0
+6,1,387,1,6,Sri Lanka,Kusal Perera,Jason Holder,,2,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,153409,-144.50,44.00,2,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,1,8,0,1,0,0,0,0,0,0,0
+7,2,387,1,6,Sri Lanka,Kusal Perera,Jason Holder,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,153410,-144.50,44.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,1,8,0,0,0,0,0,0,0,0,0
+8,3,387,1,6,Sri Lanka,Kusal Perera,Jason Holder,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,153411,-19.50,38.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,1,8,0,0,0,0,0,0,0,0,0
+9,4,387,1,6,Sri Lanka,Kusal Perera,Jason Holder,,2,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,153412,-37.50,-112.00,2,0,,,Knuckleball,54,LEG GLANCE,0,0,4,1,10,0,0,0,0,0,0,0,0,0
+10,5,387,1,6,Sri Lanka,Kusal Perera,Jason Holder,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,153413,86.50,66.00,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,1,10,0,0,0,0,0,0,0,0,0
+11,6,387,1,6,Sri Lanka,Kusal Perera,Jason Holder,,2,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.6,1,1,0,153414,-85.50,202.00,4,0,,,Knuckleball,11,LOFT ON,0,0,6,1,14,0,0,0,0,0,0,0,0,0
+12,1,387,1,6,Sri Lanka,Pathum Nissanka,Ravi Rampaul,,3,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,2.1,1,1,1,153415,-85.50,202.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,1,2,15,0,1,0,0,0,0,0,0,0
+13,2,387,1,6,Sri Lanka,Pathum Nissanka,Ravi Rampaul,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,153416,71.50,-93.00,1,0,,,Knuckleball,40,FLICK,0,0,2,2,16,0,0,0,0,0,0,0,0,0
+14,3,387,1,6,Sri Lanka,Kusal Perera,Ravi Rampaul,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,153417,78.50,-16.00,0,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,3,2,16,0,0,0,0,0,0,0,0,0
+15,4,387,1,6,Sri Lanka,Kusal Perera,Ravi Rampaul,,3,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,153418,-155.50,61.00,2,0,,,Knuckleball,58,PULL SHOT,0,0,4,2,18,0,0,0,0,0,0,0,0,0
+16,5,387,1,6,Sri Lanka,Kusal Perera,Ravi Rampaul,,3,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,153419,-83.50,-58.00,2,0,,,Knuckleball,40,FLICK,0,0,5,2,20,0,0,0,0,0,0,0,0,0
+17,6,387,1,6,Sri Lanka,Kusal Perera,Ravi Rampaul,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,153420,-90.50,-88.00,1,0,,,Knuckleball,40,FLICK,0,0,6,2,21,0,0,0,0,0,0,0,0,0
+18,7,387,1,6,Sri Lanka,Pathum Nissanka,Ravi Rampaul,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,153421,-44.50,25.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,7,2,21,0,0,0,0,0,0,0,0,0
+19,1,387,1,6,Sri Lanka,Kusal Perera,Jason Holder,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,153422,-133.50,96.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,3,22,0,1,0,0,0,0,0,0,0
+20,2,387,1,6,Sri Lanka,Pathum Nissanka,Jason Holder,,4,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,3.2,1,1,1,153423,-133.50,96.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,2,3,23,0,0,0,0,0,0,0,0,0
+21,3,387,1,6,Sri Lanka,Pathum Nissanka,Jason Holder,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,153424,10.50,50.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,3,23,0,0,0,0,0,0,0,0,0
+22,4,387,1,6,Sri Lanka,Pathum Nissanka,Jason Holder,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,153425,106.50,13.00,1,0,,,Knuckleball,40,FLICK,0,0,4,3,24,0,0,0,0,0,0,0,0,0
+23,5,387,1,6,Sri Lanka,Kusal Perera,Jason Holder,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,153426,-57.50,45.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,3,24,0,0,0,0,0,0,0,0,0
+24,6,387,1,6,Sri Lanka,Kusal Perera,Jason Holder,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,153427,-81.50,71.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,3,25,0,0,0,0,0,0,0,0,0
+25,7,387,1,6,Sri Lanka,Pathum Nissanka,Jason Holder,,4,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.6,1,1,0,153428,39.50,-147.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,7,3,29,0,0,0,0,0,0,0,0,0
+26,1,387,1,6,Sri Lanka,Kusal Perera,Ravi Rampaul,,5,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,4.1,1,1,0,153429,-172.50,-40.00,6,0,,,Knuckleball,58,PULL SHOT,0,0,1,4,35,0,1,0,0,0,0,0,0,0
+27,2,387,1,6,Sri Lanka,Kusal Perera,Ravi Rampaul,,5,2,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,153430,-54.50,172.00,3,0,,,Knuckleball,11,LOFT ON,0,0,2,4,38,0,0,0,0,0,0,0,0,0
+28,3,387,1,6,Sri Lanka,Pathum Nissanka,Ravi Rampaul,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,153431,-54.50,172.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,4,38,0,0,0,0,0,0,0,0,0
+29,4,387,1,6,Sri Lanka,Pathum Nissanka,Ravi Rampaul,,5,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,153432,7.50,170.00,2,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,4,4,40,0,0,0,0,0,0,0,0,0
+30,5,387,1,6,Sri Lanka,Pathum Nissanka,Ravi Rampaul,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,153433,-50.50,18.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,4,40,0,0,0,0,0,0,0,0,0
+31,6,387,1,6,Sri Lanka,Pathum Nissanka,Ravi Rampaul,,5,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,153434,54.50,112.00,2,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,4,42,0,0,0,0,0,0,0,0,0
+32,1,387,1,6,Sri Lanka,Kusal Perera,Andre Russell,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,153435,58.50,102.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,1,5,42,0,1,0,0,0,0,0,0,0
+33,2,387,1,6,Sri Lanka,Kusal Perera,Andre Russell,,6,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught & Bowled,WICKET,1,5.2,1,1,0,153436,-6.50,58.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,5,42,1,2,0,0,0,0,0,0,0
+34,3,387,1,6,Sri Lanka,Charith Asalanka,Andre Russell,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,153437,41.50,-47.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,5,42,1,3,0,0,0,0,0,0,0
+35,4,387,1,6,Sri Lanka,Charith Asalanka,Andre Russell,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,1,1,0,153438,30.50,-29.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,5,43,1,0,0,0,0,0,0,0,0
+36,5,387,1,6,Sri Lanka,Pathum Nissanka,Andre Russell,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,153439,133.50,-34.00,1,0,,,Knuckleball,40,FLICK,0,0,5,5,44,1,0,0,0,0,0,0,0,0
+37,6,387,1,6,Sri Lanka,Charith Asalanka,Andre Russell,,6,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.6,1,1,0,153440,-22.50,-154.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,6,5,48,1,0,0,0,0,0,0,0,0
+38,1,387,1,6,Sri Lanka,Pathum Nissanka,Akeal Hosein,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,153441,-138.50,8.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,6,49,1,1,0,0,0,0,0,0,0
+39,2,387,1,6,Sri Lanka,Charith Asalanka,Akeal Hosein,,7,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.2,1,1,0,153442,47.50,-152.00,4,0,,,Knuckleball,44,GLIDE,0,0,2,6,53,1,0,1,1,0,1,0,0,0
+40,3,387,1,6,Sri Lanka,Charith Asalanka,Akeal Hosein,,7,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,153443,129.50,98.00,2,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,6,55,1,0,0,1,0,0,0,0,0
+41,4,387,1,6,Sri Lanka,Charith Asalanka,Akeal Hosein,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,153444,-119.50,-34.00,1,0,,,Knuckleball,40,FLICK,0,0,4,6,56,1,0,0,1,0,0,0,0,0
+42,5,387,1,6,Sri Lanka,Pathum Nissanka,Akeal Hosein,,7,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.5,1,1,0,153445,-42.50,-145.00,4,0,,,Knuckleball,44,GLIDE,0,0,5,6,60,1,0,0,1,0,0,0,0,0
+43,6,387,1,6,Sri Lanka,Pathum Nissanka,Akeal Hosein,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,153446,145.50,-25.00,1,0,,,Knuckleball,40,FLICK,0,0,6,6,61,1,0,0,1,0,0,0,0,0
+44,1,387,1,6,Sri Lanka,Pathum Nissanka,Andre Russell,,8,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,153447,131.50,102.00,2,0,,,Knuckleball,40,FLICK,0,0,1,7,63,1,1,0,1,0,0,0,0,0
+45,2,387,1,6,Sri Lanka,Pathum Nissanka,Andre Russell,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,153448,80.50,38.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,7,63,1,0,0,1,0,0,0,0,0
+46,3,387,1,6,Sri Lanka,Pathum Nissanka,Andre Russell,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,153449,-9.50,59.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,7,63,1,0,0,1,0,0,0,0,0
+47,4,387,1,6,Sri Lanka,Pathum Nissanka,Andre Russell,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,153450,94.50,157.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,7,64,1,0,0,1,0,0,0,0,0
+48,5,387,1,6,Sri Lanka,Charith Asalanka,Andre Russell,,8,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,153451,-134.50,-22.00,2,0,,,Knuckleball,58,PULL SHOT,0,0,5,7,66,1,0,0,1,0,0,0,0,0
+49,6,387,1,6,Sri Lanka,Charith Asalanka,Andre Russell,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,153452,150.50,10.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,7,67,1,0,0,1,0,0,0,0,0
+50,1,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,153453,93.50,37.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,8,67,1,1,0,1,0,0,0,0,0
+51,2,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,9,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.2,1,1,0,153454,167.50,140.00,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,8,71,1,0,0,1,0,0,0,0,0
+52,3,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,153455,51.50,-97.00,1,0,,,Knuckleball,44,GLIDE,0,0,3,8,72,1,0,0,1,0,0,0,0,0
+53,4,387,1,6,Sri Lanka,Pathum Nissanka,Dwayne Bravo,,9,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,8.4,1,1,1,153456,51.50,-97.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,4,8,73,1,0,0,1,0,0,0,0,0
+54,5,387,1,6,Sri Lanka,Pathum Nissanka,Dwayne Bravo,,9,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,153457,-92.50,59.00,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,8,75,1,0,0,1,0,0,0,0,0
+55,6,387,1,6,Sri Lanka,Pathum Nissanka,Dwayne Bravo,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,153458,-72.50,-15.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,8,75,1,0,0,1,0,0,0,0,0
+56,7,387,1,6,Sri Lanka,Pathum Nissanka,Dwayne Bravo,,9,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,153459,-122.50,141.00,2,0,,,Knuckleball,84,OFF DRIVE,0,0,7,8,77,1,0,0,1,0,0,0,0,0
+57,1,387,1,6,Sri Lanka,Charith Asalanka,Jason Holder,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,153460,45.50,-101.00,1,0,,,Knuckleball,44,GLIDE,0,0,1,9,78,1,1,0,1,0,0,0,0,0
+58,2,387,1,6,Sri Lanka,Pathum Nissanka,Jason Holder,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,153461,45.50,-101.00,0,0,,,Knuckleball,40,FLICK,0,0,2,9,78,1,0,0,1,0,0,0,0,0
+59,3,387,1,6,Sri Lanka,Pathum Nissanka,Jason Holder,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,153462,-120.50,85.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,9,79,1,0,0,1,0,0,0,0,0
+60,4,387,1,6,Sri Lanka,Charith Asalanka,Jason Holder,,10,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,153463,-149.50,87.00,2,0,,,Knuckleball,58,PULL SHOT,0,0,4,9,81,1,0,0,1,0,0,0,0,0
+61,5,387,1,6,Sri Lanka,Charith Asalanka,Jason Holder,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,153464,-9.50,33.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,9,81,1,0,0,1,0,0,0,0,0
+62,6,387,1,6,Sri Lanka,Charith Asalanka,Jason Holder,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,153465,-128.50,81.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,9,82,1,0,0,1,0,0,0,0,0
+63,1,387,1,6,Sri Lanka,Charith Asalanka,Akeal Hosein,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,153466,-109.50,62.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,10,83,1,1,0,1,0,0,0,0,0
+64,2,387,1,6,Sri Lanka,Pathum Nissanka,Akeal Hosein,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,153467,35.50,-61.00,1,0,,,Knuckleball,37,SD FLICK,0,0,2,10,84,1,0,0,1,0,0,0,0,0
+65,3,387,1,6,Sri Lanka,Charith Asalanka,Akeal Hosein,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,153468,-142.50,16.00,1,0,,,Knuckleball,40,FLICK,0,0,3,10,85,1,0,0,1,0,0,0,0,0
+66,4,387,1,6,Sri Lanka,Pathum Nissanka,Akeal Hosein,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,153469,-110.50,146.00,1,0,,,Knuckleball,5,LOFT OFF,0,0,4,10,86,1,0,0,1,0,0,0,0,0
+67,5,387,1,6,Sri Lanka,Charith Asalanka,Akeal Hosein,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,153470,-144.50,-23.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,10,87,1,0,0,1,0,0,0,0,0
+68,6,387,1,6,Sri Lanka,Pathum Nissanka,Akeal Hosein,,11,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.6,1,1,0,153471,-159.50,-69.00,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,6,10,91,1,0,0,1,0,0,0,0,0
+69,1,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,12,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,153472,127.50,91.00,2,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,11,93,1,1,0,1,0,0,0,0,0
+70,2,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,153473,86.50,-24.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,11,94,1,0,0,1,0,0,0,0,0
+71,3,387,1,6,Sri Lanka,Pathum Nissanka,Dwayne Bravo,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,153474,118.50,129.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,11,95,1,0,0,1,0,0,0,0,0
+72,4,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,12,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.4,1,1,0,153475,64.50,-135.00,4,0,,,Knuckleball,96,Slice,0,0,4,11,99,1,0,0,1,0,0,0,0,0
+73,5,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,153476,125.50,86.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,11,100,1,0,1,2,0,0,1,0,0
+74,6,387,1,6,Sri Lanka,Pathum Nissanka,Dwayne Bravo,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,153477,135.50,-38.00,1,0,,,Knuckleball,40,FLICK,0,0,6,11,101,1,0,0,2,0,0,0,0,0
+75,1,387,1,6,Sri Lanka,Pathum Nissanka,Andre Russell,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,153478,-74.50,37.00,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,12,101,1,1,0,2,0,0,0,0,0
+76,2,387,1,6,Sri Lanka,Pathum Nissanka,Andre Russell,,13,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.2,1,1,0,153479,-28.50,-154.00,4,0,,,Knuckleball,122,SDL OFF,0,0,2,12,105,1,0,0,2,0,0,0,0,0
+77,3,387,1,6,Sri Lanka,Pathum Nissanka,Andre Russell,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,153480,-86.50,4.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,12,106,1,0,0,2,0,0,0,0,0
+78,4,387,1,6,Sri Lanka,Charith Asalanka,Andre Russell,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,153481,27.50,-48.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,12,107,1,0,0,2,0,0,0,0,0
+79,5,387,1,6,Sri Lanka,Pathum Nissanka,Andre Russell,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,153482,-68.50,95.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,12,108,1,0,0,2,0,0,0,0,0
+80,6,387,1,6,Sri Lanka,Charith Asalanka,Andre Russell,,13,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.6,1,1,0,153483,-36.50,-140.00,4,0,,,Knuckleball,40,FLICK,0,0,6,12,112,1,0,0,2,0,0,0,0,0
+81,1,387,1,6,Sri Lanka,Pathum Nissanka,Kieron Pollard,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,153484,67.50,130.00,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,1,13,113,1,1,0,2,0,0,0,0,0
+82,2,387,1,6,Sri Lanka,Charith Asalanka,Kieron Pollard,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,153485,74.50,-19.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,13,114,1,0,0,2,0,0,0,0,0
+83,3,387,1,6,Sri Lanka,Pathum Nissanka,Kieron Pollard,,14,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,153486,52.50,-110.00,2,0,,,Knuckleball,54,LEG GLANCE,0,0,3,13,116,1,0,0,2,0,0,0,0,0
+84,4,387,1,6,Sri Lanka,Pathum Nissanka,Kieron Pollard,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,153487,112.50,-39.00,1,0,,,Knuckleball,40,FLICK,0,0,4,13,117,1,0,0,2,0,0,0,0,0
+85,5,387,1,6,Sri Lanka,Charith Asalanka,Kieron Pollard,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,153488,129.50,23.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,13,118,1,0,0,2,0,0,0,0,0
+86,6,387,1,6,Sri Lanka,Pathum Nissanka,Kieron Pollard,,14,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,13.6,1,1,1,153489,129.50,23.00,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,13,119,1,0,0,2,0,0,0,0,0
+87,7,387,1,6,Sri Lanka,Pathum Nissanka,Kieron Pollard,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,153490,72.50,50.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,7,13,120,1,0,0,2,0,0,0,0,0
+88,1,387,1,6,Sri Lanka,Pathum Nissanka,Ravi Rampaul,,15,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.1,1,1,0,153491,148.50,-72.00,4,0,,,Knuckleball,40,FLICK,0,0,1,14,124,1,1,0,2,0,0,0,0,0
+89,2,387,1,6,Sri Lanka,Pathum Nissanka,Ravi Rampaul,,15,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,153492,-145.50,-16.00,2,0,,,Knuckleball,36,CUT SHOT,0,0,2,14,126,1,0,0,2,0,0,0,0,0
+90,3,387,1,6,Sri Lanka,Pathum Nissanka,Ravi Rampaul,,15,3,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,14.3,1,1,1,153493,-145.50,-16.00,1,0,,,Knuckleball,40,FLICK,0,0,3,14,127,1,0,0,2,0,0,0,0,0
+91,4,387,1,6,Sri Lanka,Charith Asalanka,Ravi Rampaul,,15,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.4,1,1,0,153494,-166.50,159.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,4,14,131,1,0,0,2,0,0,0,0,0
+92,5,387,1,6,Sri Lanka,Charith Asalanka,Ravi Rampaul,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,153495,14.50,55.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,14,131,1,0,0,2,0,0,0,0,0
+93,6,387,1,6,Sri Lanka,Charith Asalanka,Ravi Rampaul,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,153496,-154.50,9.00,1,0,,,Knuckleball,40,FLICK,0,0,6,14,132,1,0,0,2,0,0,0,0,0
+94,1,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,153497,-154.50,9.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,15,132,1,1,0,2,0,0,0,0,0
+95,2,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,153498,144.50,71.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,15,133,1,0,0,2,0,0,0,0,0
+96,3,387,1,6,Sri Lanka,Pathum Nissanka,Dwayne Bravo,,16,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,15.3,1,1,0,153499,134.50,59.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,15,133,2,1,0,2,0,0,0,0,0
+97,4,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,153500,137.50,52.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,15,134,2,2,0,2,0,0,0,0,0
+98,5,387,1,6,Sri Lanka,Dasun Shanaka,Dwayne Bravo,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,153501,77.50,141.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,15,135,2,0,0,2,0,0,0,0,0
+99,6,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,16,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,15.6,1,1,1,153502,77.50,141.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,15,136,2,0,0,2,0,0,0,0,0
+100,7,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,153503,84.50,18.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,7,15,137,2,0,0,2,0,0,0,0,0
+101,1,387,1,6,Sri Lanka,Charith Asalanka,Jason Holder,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,153504,91.50,-11.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,16,138,2,1,0,2,0,0,0,0,0
+102,2,387,1,6,Sri Lanka,Dasun Shanaka,Jason Holder,,17,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,16.2,1,1,1,153505,177.50,107.00,1,0,,,Knuckleball,18,SLOG SHOT,0,0,2,16,139,2,0,0,2,0,0,0,0,0
+103,3,387,1,6,Sri Lanka,Dasun Shanaka,Jason Holder,,17,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,16.2,1,1,0,153506,177.50,107.00,6,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,16,145,2,0,0,2,0,0,0,0,0
+104,4,387,1,6,Sri Lanka,Dasun Shanaka,Jason Holder,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,1,1,0,153507,-44.50,124.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,16,146,2,0,0,2,0,0,0,0,0
+105,5,387,1,6,Sri Lanka,Charith Asalanka,Jason Holder,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,153508,-71.50,162.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,16,147,2,0,0,2,0,0,0,0,0
+106,6,387,1,6,Sri Lanka,Dasun Shanaka,Jason Holder,,17,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,153509,-126.50,-50.00,2,0,,,Knuckleball,59,SQUARE DRIVE,0,0,6,16,149,2,0,0,2,0,0,0,0,0
+107,7,387,1,6,Sri Lanka,Dasun Shanaka,Jason Holder,,17,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.6,1,1,0,153510,-33.50,-143.00,4,0,,,Knuckleball,77,SD DEFENCE,0,0,7,16,153,2,0,1,3,0,0,0,0,0
+108,1,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,153511,127.50,-59.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,17,154,2,1,0,3,0,0,0,0,0
+109,2,387,1,6,Sri Lanka,Dasun Shanaka,Dwayne Bravo,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,1,1,0,153512,-31.50,145.00,1,0,,,Knuckleball,5,LOFT OFF,0,0,2,17,155,2,0,0,3,0,0,0,0,0
+110,3,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,18,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.3,1,1,0,153513,16.50,215.00,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,3,17,161,2,0,0,3,0,0,0,0,0
+111,4,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,18,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,17.4,1,1,1,153514,16.50,215.00,1,0,,,Knuckleball,105,LEFT ALONE,0,0,4,17,162,2,0,0,3,0,0,0,0,0
+112,5,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,18,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,17.4,1,1,1,153515,16.50,215.00,1,0,,,Knuckleball,105,LEFT ALONE,0,0,5,17,163,2,0,0,3,0,0,0,0,0
+113,6,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,18,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,17.4,1,1,1,153516,16.50,215.00,1,0,,,Knuckleball,105,LEFT ALONE,0,0,6,17,164,2,0,0,3,0,0,0,0,0
+114,7,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,1,1,0,153517,117.50,-49.00,1,0,,,Knuckleball,5,LOFT OFF,0,0,7,17,165,2,0,0,3,0,0,0,0,0
+115,8,387,1,6,Sri Lanka,Dasun Shanaka,Dwayne Bravo,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,153518,-71.50,13.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,8,17,166,2,0,0,3,0,0,0,0,0
+116,9,387,1,6,Sri Lanka,Charith Asalanka,Dwayne Bravo,,18,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.6,1,1,0,153519,-8.50,215.00,4,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,9,17,170,2,0,0,3,0,0,0,0,0
+117,1,387,1,6,Sri Lanka,Dasun Shanaka,Andre Russell,,19,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.1,1,1,0,153520,47.50,-150.00,4,0,,,Knuckleball,99,SCOOP,0,0,1,18,174,2,1,0,3,0,0,0,0,0
+118,2,387,1,6,Sri Lanka,Dasun Shanaka,Andre Russell,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.2,1,1,0,153521,75.50,-11.00,1,0,,,Knuckleball,21,SD OFF,0,0,2,18,175,2,0,0,3,0,0,0,0,0
+119,3,387,1,6,Sri Lanka,Charith Asalanka,Andre Russell,,19,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.3,1,1,0,153522,157.50,131.00,4,0,,,Knuckleball,15,LOFT COVER,0,0,3,18,179,2,0,0,3,0,0,0,0,0
+120,4,387,1,6,Sri Lanka,Charith Asalanka,Andre Russell,,19,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.4,1,1,0,153523,-139.50,-39.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,4,18,179,3,1,0,3,0,0,0,0,0
+121,5,387,1,6,Sri Lanka,Dasun Shanaka,Andre Russell,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,153524,-139.50,-39.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,5,18,179,3,2,0,3,0,0,0,0,0
+122,6,387,1,6,Sri Lanka,Dasun Shanaka,Andre Russell,,19,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,153525,-78.50,-11.00,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,18,180,3,0,0,3,0,0,0,0,0
+123,1,387,1,6,Sri Lanka,Dasun Shanaka,Ravi Rampaul,,20,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,19.1,1,1,1,153526,-78.50,-11.00,1,0,,,Knuckleball,40,FLICK,0,0,1,19,181,3,1,0,3,0,0,0,0,0
+124,2,387,1,6,Sri Lanka,Chamika Karunaratne,Ravi Rampaul,,20,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,153527,36.50,165.00,2,0,,,Knuckleball,47,ON DRIVE,0,0,2,19,183,3,0,0,3,0,0,0,0,0
+125,3,387,1,6,Sri Lanka,Chamika Karunaratne,Ravi Rampaul,,20,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.3,1,1,0,153528,79.50,136.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,19,184,3,0,0,3,0,0,0,0,0
+126,4,387,1,6,Sri Lanka,Dasun Shanaka,Ravi Rampaul,,20,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.4,1,1,0,153529,136.50,99.00,2,0,,,Knuckleball,74,SD ON,0,0,4,19,186,3,0,0,3,0,0,0,0,0
+127,5,387,1,6,Sri Lanka,Dasun Shanaka,Ravi Rampaul,,20,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.5,1,1,0,153530,-77.50,51.00,1,0,,,Knuckleball,24,REVERSE SCOOP,0,0,5,19,187,3,0,0,3,0,0,0,0,0
+128,6,387,1,6,Sri Lanka,Chamika Karunaratne,Ravi Rampaul,,20,6,2 (LB),2,0,0,0,0,1,2,0,0,0,1,0,0,0,,,0,19.6,1,1,1,153531,-77.50,51.00,2,0,,,Knuckleball,,,0,0,6,19,189,3,0,0,3,0,0,0,0,0
+129,1,387,2,7,West Indies,Chris Gayle,Maheesh Theekshana,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,153532,-55.50,11.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+130,2,387,2,7,West Indies,Chris Gayle,Maheesh Theekshana,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,153533,-60.50,38.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+131,3,387,2,7,West Indies,Chris Gayle,Maheesh Theekshana,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,153534,76.50,80.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+132,4,387,2,7,West Indies,Evin Lewis,Maheesh Theekshana,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,153535,80.50,30.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,0,1,0,0,0,0,0,0,0,0,0
+133,5,387,2,7,West Indies,Evin Lewis,Maheesh Theekshana,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,153536,71.50,23.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,0,1,0,0,0,0,0,0,0,0,0
+134,6,387,2,7,West Indies,Evin Lewis,Maheesh Theekshana,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,153537,28.50,51.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,0,1,0,0,0,0,0,0,0,0,0
+135,1,387,2,7,West Indies,Chris Gayle,Binura Fernando,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,153538,28.50,51.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,1,1,0,1,0,0,0,0,0,0,0
+136,2,387,2,7,West Indies,Chris Gayle,Binura Fernando,,2,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,1.2,2,1,0,153539,70.50,124.00,0,0,,,Knuckleball,5,LOFT OFF,0,0,2,1,1,1,2,0,0,0,0,0,0,0
+137,3,387,2,7,West Indies,Nicholas Pooran,Binura Fernando,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,153540,72.50,-90.00,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,1,2,1,3,0,0,0,0,0,0,0
+138,4,387,2,7,West Indies,Evin Lewis,Binura Fernando,,2,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.4,2,1,0,153541,-161.50,-42.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,4,1,6,1,0,0,0,0,0,0,0,0
+139,5,387,2,7,West Indies,Evin Lewis,Binura Fernando,,2,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.5,2,1,0,153542,-84.50,207.00,4,0,,,Knuckleball,47,ON DRIVE,0,0,5,1,10,1,0,0,0,0,0,0,0,0
+140,6,387,2,7,West Indies,Evin Lewis,Binura Fernando,,2,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,1.6,2,1,0,153543,-84.50,207.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,1,10,2,1,0,0,0,0,0,0,0
+141,1,387,2,7,West Indies,Nicholas Pooran,Maheesh Theekshana,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,153544,-84.50,207.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,2,10,2,2,0,0,0,0,0,0,0
+142,2,387,2,7,West Indies,Nicholas Pooran,Maheesh Theekshana,,3,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.2,2,1,0,153545,157.50,133.00,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,2,14,2,0,0,0,0,0,0,0,0
+143,3,387,2,7,West Indies,Nicholas Pooran,Maheesh Theekshana,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,153546,15.50,48.00,0,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,3,2,14,2,0,0,0,0,0,0,0,0
+144,4,387,2,7,West Indies,Nicholas Pooran,Maheesh Theekshana,,3,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,153547,-159.50,70.00,2,0,,,Knuckleball,37,SD FLICK,0,0,4,2,16,2,0,0,0,0,0,0,0,0
+145,5,387,2,7,West Indies,Nicholas Pooran,Maheesh Theekshana,,3,5,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,153548,-88.50,-88.00,3,0,,,Knuckleball,18,SLOG SHOT,0,0,5,2,19,2,0,0,0,0,0,0,0,0
+146,6,387,2,7,West Indies,Roston Chase,Maheesh Theekshana,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,153549,-43.50,115.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,6,2,19,2,0,0,0,0,0,0,0,0
+147,1,387,2,7,West Indies,Nicholas Pooran,Binura Fernando,,4,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.1,2,1,0,153550,-78.50,-134.00,4,0,,,Knuckleball,40,FLICK,0,0,1,3,23,2,1,0,0,0,0,0,0,0
+148,2,387,2,7,West Indies,Nicholas Pooran,Binura Fernando,,4,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.2,2,1,0,153551,-89.50,201.00,6,0,,,Knuckleball,11,LOFT ON,0,0,2,3,29,2,0,0,0,0,0,0,0,0
+149,3,387,2,7,West Indies,Nicholas Pooran,Binura Fernando,,4,3,1 (NB),1,0,0,0,0,1,1,0,1,0,0,0,0,0,,,0,3.3,2,1,1,153552,95.50,28.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,3,30,2,0,0,0,0,0,0,0,0
+150,4,387,2,7,West Indies,Nicholas Pooran,Binura Fernando,,4,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.3,2,1,0,153553,73.50,-147.00,4,0,,,Knuckleball,5,LOFT OFF,0,0,4,3,34,2,0,0,0,0,0,0,0,0
+151,5,387,2,7,West Indies,Nicholas Pooran,Binura Fernando,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,153554,52.50,123.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,5,3,34,2,0,0,0,0,0,0,0,0
+152,6,387,2,7,West Indies,Nicholas Pooran,Binura Fernando,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,153555,20.50,65.00,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,6,3,34,2,0,0,0,0,0,0,0,0
+153,7,387,2,7,West Indies,Nicholas Pooran,Binura Fernando,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,153556,71.50,108.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,7,3,34,2,0,0,0,0,0,0,0,0
+154,1,387,2,7,West Indies,Roston Chase,Dushmantha Chameera,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,153557,-84.50,41.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,4,34,2,1,0,0,0,0,0,0,0
+155,2,387,2,7,West Indies,Roston Chase,Dushmantha Chameera,,5,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.2,2,1,0,153558,-47.50,-145.00,4,0,,,Knuckleball,44,GLIDE,0,0,2,4,38,2,0,0,0,0,0,0,0,0
+156,3,387,2,7,West Indies,Roston Chase,Dushmantha Chameera,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,153559,-91.50,22.00,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,4,38,2,0,0,0,0,0,0,0,0
+157,4,387,2,7,West Indies,Roston Chase,Dushmantha Chameera,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,153560,-9.50,73.00,1,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,4,4,39,2,0,0,0,0,0,0,0,0
+158,5,387,2,7,West Indies,Nicholas Pooran,Dushmantha Chameera,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,153561,-57.50,42.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,5,4,39,2,0,0,0,0,0,0,0,0
+159,6,387,2,7,West Indies,Nicholas Pooran,Dushmantha Chameera,,5,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.6,2,1,0,153562,159.50,132.00,4,0,,,Knuckleball,15,LOFT COVER,0,0,6,4,43,2,0,0,0,0,0,0,0,0
+160,1,387,2,7,West Indies,Roston Chase,Chamika Karunaratne,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,153563,-59.50,95.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,1,5,43,2,1,0,0,0,0,0,0,0
+161,2,387,2,7,West Indies,Roston Chase,Chamika Karunaratne,,6,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.2,2,1,0,153564,64.50,-144.00,4,0,,,Knuckleball,94,SDL ON,0,0,2,5,47,2,0,0,0,0,0,0,0,0
+162,3,387,2,7,West Indies,Roston Chase,Chamika Karunaratne,,6,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.3,2,1,0,153565,67.50,42.00,0,0,,,Knuckleball,40,FLICK,0,0,3,5,47,3,1,0,0,0,0,0,0,0
+163,4,387,2,7,West Indies,Shimron Hetmyer,Chamika Karunaratne,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,153566,-71.50,41.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,5,47,3,2,0,0,0,0,0,0,0
+164,5,387,2,7,West Indies,Shimron Hetmyer,Chamika Karunaratne,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,153567,58.50,93.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,5,48,3,0,0,0,0,0,0,0,0
+165,6,387,2,7,West Indies,Nicholas Pooran,Chamika Karunaratne,,6,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.6,2,1,0,153568,112.50,-104.00,4,0,,,Knuckleball,59,SQUARE DRIVE,0,0,6,5,52,3,0,1,1,0,1,0,0,0
+166,1,387,2,7,West Indies,Shimron Hetmyer,Dasun Shanaka,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,153569,-100.50,133.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,1,6,53,3,1,0,1,0,0,0,0,0
+167,2,387,2,7,West Indies,Nicholas Pooran,Dasun Shanaka,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,153570,-100.50,133.00,0,0,,,Knuckleball,94,SDL ON,0,0,2,6,53,3,0,0,1,0,0,0,0,0
+168,3,387,2,7,West Indies,Nicholas Pooran,Dasun Shanaka,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,153571,-146.50,79.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,6,54,3,0,0,1,0,0,0,0,0
+169,4,387,2,7,West Indies,Shimron Hetmyer,Dasun Shanaka,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,153572,60.50,108.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,6,54,3,0,0,1,0,0,0,0,0
+170,5,387,2,7,West Indies,Shimron Hetmyer,Dasun Shanaka,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,153573,-149.50,71.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,6,55,3,0,0,1,0,0,0,0,0
+171,6,387,2,7,West Indies,Nicholas Pooran,Dasun Shanaka,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,153574,77.50,141.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,6,6,56,3,0,0,1,0,0,0,0,0
+172,1,387,2,7,West Indies,Nicholas Pooran,Maheesh Theekshana,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,153575,51.50,84.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,7,56,3,1,0,1,0,0,0,0,0
+173,2,387,2,7,West Indies,Nicholas Pooran,Maheesh Theekshana,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,153576,130.50,-14.00,1,0,,,Knuckleball,35,LATE CUT,0,0,2,7,57,3,0,0,1,0,0,0,0,0
+174,3,387,2,7,West Indies,Shimron Hetmyer,Maheesh Theekshana,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,153577,-17.50,7.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,7,57,3,0,0,1,0,0,0,0,0
+175,4,387,2,7,West Indies,Shimron Hetmyer,Maheesh Theekshana,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,153578,-100.50,146.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,4,7,58,3,0,0,1,0,0,0,0,0
+176,5,387,2,7,West Indies,Nicholas Pooran,Maheesh Theekshana,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,153579,124.50,-28.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,7,59,3,0,0,1,0,0,0,0,0
+177,6,387,2,7,West Indies,Shimron Hetmyer,Maheesh Theekshana,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,153580,124.50,-28.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,7,59,3,0,0,1,0,0,0,0,0
+178,1,387,2,7,West Indies,Nicholas Pooran,Chamika Karunaratne,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,153581,124.50,-28.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,8,59,3,1,0,1,0,0,0,0,0
+179,2,387,2,7,West Indies,Nicholas Pooran,Chamika Karunaratne,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,153582,124.50,-28.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,8,59,3,0,0,1,0,0,0,0,0
+180,3,387,2,7,West Indies,Nicholas Pooran,Chamika Karunaratne,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,153583,-99.50,159.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,8,60,3,0,0,1,0,0,0,0,0
+181,4,387,2,7,West Indies,Shimron Hetmyer,Chamika Karunaratne,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,153584,76.50,-21.00,1,0,,,Knuckleball,35,LATE CUT,0,0,4,8,61,3,0,0,1,0,0,0,0,0
+182,5,387,2,7,West Indies,Nicholas Pooran,Chamika Karunaratne,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,153585,76.50,146.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,8,62,3,0,0,1,0,0,0,0,0
+183,6,387,2,7,West Indies,Shimron Hetmyer,Chamika Karunaratne,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,153586,-162.50,39.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,8,63,3,0,0,1,0,0,0,0,0
+184,1,387,2,7,West Indies,Shimron Hetmyer,Maheesh Theekshana,,10,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,9.1,2,1,1,153587,-25.50,-58.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,1,9,64,3,1,0,1,0,0,0,0,0
+185,2,387,2,7,West Indies,Nicholas Pooran,Maheesh Theekshana,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,153588,-25.50,-58.00,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,2,9,64,3,0,0,1,0,0,0,0,0
+186,3,387,2,7,West Indies,Nicholas Pooran,Maheesh Theekshana,,10,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,9.3,2,1,1,153589,-25.50,-58.00,1,0,,,Knuckleball,105,LEFT ALONE,0,0,3,9,65,3,0,0,1,0,0,0,0,0
+187,4,387,2,7,West Indies,Nicholas Pooran,Maheesh Theekshana,,10,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.3,2,1,0,153590,64.50,-133.00,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,4,9,69,3,0,0,1,0,0,0,0,0
+188,5,387,2,7,West Indies,Nicholas Pooran,Maheesh Theekshana,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,153591,-150.50,43.00,1,0,,,Knuckleball,40,FLICK,0,0,5,9,70,3,0,0,1,0,0,0,0,0
+189,6,387,2,7,West Indies,Shimron Hetmyer,Maheesh Theekshana,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,153592,49.50,-47.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,9,71,3,0,0,1,0,0,0,0,0
+190,7,387,2,7,West Indies,Nicholas Pooran,Maheesh Theekshana,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,153593,-38.50,141.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,7,9,72,3,0,0,1,0,0,0,0,0
+191,1,387,2,7,West Indies,Nicholas Pooran,Wanindu Hasaranga,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,153594,68.50,-16.00,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,10,73,3,1,0,1,0,0,0,0,0
+192,2,387,2,7,West Indies,Shimron Hetmyer,Wanindu Hasaranga,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,153595,-90.50,100.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,10,74,3,0,0,1,0,0,0,0,0
+193,3,387,2,7,West Indies,Nicholas Pooran,Wanindu Hasaranga,,11,3,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,10.3,2,1,1,153596,-90.50,100.00,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,10,75,3,0,0,1,0,0,0,0,0
+194,4,387,2,7,West Indies,Shimron Hetmyer,Wanindu Hasaranga,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,153597,-90.50,100.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,10,75,3,0,0,1,0,0,0,0,0
+195,5,387,2,7,West Indies,Shimron Hetmyer,Wanindu Hasaranga,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,153598,-88.50,150.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,10,76,3,0,0,1,0,0,0,0,0
+196,6,387,2,7,West Indies,Nicholas Pooran,Wanindu Hasaranga,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,153599,-137.50,62.00,1,0,,,Knuckleball,40,FLICK,0,0,6,10,77,3,0,0,1,0,0,0,0,0
+197,1,387,2,7,West Indies,Nicholas Pooran,Dushmantha Chameera,,12,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,11.1,2,1,0,153600,67.50,138.00,0,0,,,Knuckleball,5,LOFT OFF,0,0,1,11,77,4,1,0,1,0,0,0,0,0
+198,2,387,2,7,West Indies,Shimron Hetmyer,Dushmantha Chameera,,12,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,11.2,2,1,0,153601,-179.50,65.00,6,0,,,Knuckleball,58,PULL SHOT,0,0,2,11,83,4,2,0,1,0,0,0,0,0
+199,3,387,2,7,West Indies,Shimron Hetmyer,Dushmantha Chameera,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,153602,65.50,31.00,0,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,3,11,83,4,0,0,1,0,0,0,0,0
+200,4,387,2,7,West Indies,Shimron Hetmyer,Dushmantha Chameera,,12,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.4,2,1,0,153603,49.50,211.00,4,0,,,Knuckleball,5,LOFT OFF,0,0,4,11,87,4,0,0,1,0,0,0,0,0
+201,5,387,2,7,West Indies,Shimron Hetmyer,Dushmantha Chameera,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,153604,-94.50,81.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,11,88,4,0,0,1,0,0,0,0,0
+202,6,387,2,7,West Indies,Andre Russell,Dushmantha Chameera,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,153605,-43.50,-116.00,1,0,,,Knuckleball,35,LATE CUT,0,0,6,11,89,4,0,0,1,0,0,0,0,0
+203,1,387,2,7,West Indies,Andre Russell,Wanindu Hasaranga,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,153606,-43.50,-116.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,12,89,4,1,0,1,0,0,0,0,0
+204,2,387,2,7,West Indies,Andre Russell,Wanindu Hasaranga,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,153607,136.50,76.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,12,90,4,0,0,1,0,0,0,0,0
+205,3,387,2,7,West Indies,Shimron Hetmyer,Wanindu Hasaranga,,13,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,153608,127.50,100.00,2,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,12,92,4,0,0,1,0,0,0,0,0
+206,4,387,2,7,West Indies,Shimron Hetmyer,Wanindu Hasaranga,,13,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,153609,-131.50,80.00,2,0,,,Knuckleball,40,FLICK,0,0,4,12,94,4,0,0,1,0,0,0,0,0
+207,5,387,2,7,West Indies,Shimron Hetmyer,Wanindu Hasaranga,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,153610,41.50,-55.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,12,94,4,0,0,1,0,0,0,0,0
+208,6,387,2,7,West Indies,Shimron Hetmyer,Wanindu Hasaranga,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,153611,41.50,-55.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,12,94,4,0,0,1,0,0,0,0,0
+209,1,387,2,7,West Indies,Andre Russell,Chamika Karunaratne,,14,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught & Bowled,WICKET,1,13.1,2,1,0,153612,-18.50,57.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,1,13,94,5,1,0,1,0,0,0,0,0
+210,2,387,2,7,West Indies,Shimron Hetmyer,Chamika Karunaratne,,14,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.2,2,1,0,153613,-165.50,141.00,4,0,,,Knuckleball,58,PULL SHOT,0,0,2,13,98,5,2,0,1,0,0,0,0,0
+211,3,387,2,7,West Indies,Shimron Hetmyer,Chamika Karunaratne,,14,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,13.3,2,1,1,153614,-165.50,141.00,1,0,,,Knuckleball,105,LEFT ALONE,0,0,3,13,99,5,0,0,1,0,0,0,0,0
+212,4,387,2,7,West Indies,Shimron Hetmyer,Chamika Karunaratne,,14,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.3,2,1,0,153615,84.50,198.00,4,0,,,Knuckleball,5,LOFT OFF,0,0,4,13,103,5,0,1,2,0,0,1,0,0
+213,5,387,2,7,West Indies,Shimron Hetmyer,Chamika Karunaratne,,14,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.4,2,1,0,153616,-166.50,117.00,4,0,,,Knuckleball,18,SLOG SHOT,0,0,5,13,107,5,0,0,2,0,0,0,0,0
+214,6,387,2,7,West Indies,Shimron Hetmyer,Chamika Karunaratne,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,153617,-166.50,117.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,13,107,5,0,0,2,0,0,0,0,0
+215,7,387,2,7,West Indies,Shimron Hetmyer,Chamika Karunaratne,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,153618,-166.50,117.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,7,13,107,5,0,0,2,0,0,0,0,0
+216,1,387,2,7,West Indies,Kieron Pollard,Wanindu Hasaranga,,15,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,14.1,2,1,0,153619,-166.50,117.00,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,14,107,6,1,0,2,0,0,0,0,0
+217,2,387,2,7,West Indies,Jason Holder,Wanindu Hasaranga,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,153620,48.50,-33.00,1,0,,,Knuckleball,40,FLICK,0,0,2,14,108,6,2,0,2,0,0,0,0,0
+218,3,387,2,7,West Indies,Shimron Hetmyer,Wanindu Hasaranga,,15,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,153621,58.50,33.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,14,108,6,0,0,2,0,0,0,0,0
+219,4,387,2,7,West Indies,Shimron Hetmyer,Wanindu Hasaranga,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,153622,129.50,54.00,1,0,,,Knuckleball,15,LOFT COVER,0,0,4,14,109,6,0,0,2,0,0,0,0,0
+220,5,387,2,7,West Indies,Jason Holder,Wanindu Hasaranga,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,153623,-19.50,49.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,14,109,6,0,0,2,0,0,0,0,0
+221,6,387,2,7,West Indies,Jason Holder,Wanindu Hasaranga,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,153624,140.50,89.00,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,6,14,110,6,0,0,2,0,0,0,0,0
+222,1,387,2,7,West Indies,Jason Holder,Dasun Shanaka,,16,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.1,2,1,0,153625,-15.50,212.00,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,1,15,116,6,1,0,2,0,0,0,0,0
+223,2,387,2,7,West Indies,Jason Holder,Dasun Shanaka,,16,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,15.2,2,1,1,153626,-15.50,212.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,2,15,117,6,0,0,2,0,0,0,0,0
+224,3,387,2,7,West Indies,Jason Holder,Dasun Shanaka,,16,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,15.2,2,1,0,153627,129.50,86.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,15,117,7,1,0,2,0,0,0,0,0
+225,4,387,2,7,West Indies,Shimron Hetmyer,Dasun Shanaka,,16,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,15.3,2,1,1,153628,129.50,86.00,1,0,,,Knuckleball,105,LEFT ALONE,0,0,4,15,118,7,2,0,2,0,0,0,0,0
+226,5,387,2,7,West Indies,Shimron Hetmyer,Dasun Shanaka,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,153629,134.50,72.00,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,15,119,7,0,0,2,0,0,0,0,0
+227,6,387,2,7,West Indies,Dwayne Bravo,Dasun Shanaka,,16,4,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,0,,,0,15.4,2,1,1,153630,134.50,72.00,2,0,,,Knuckleball,105,LEFT ALONE,0,0,6,15,121,7,0,0,2,0,0,0,0,0
+228,7,387,2,7,West Indies,Shimron Hetmyer,Dasun Shanaka,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,153631,-96.50,163.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,7,15,122,7,0,0,2,0,0,0,0,0
+229,8,387,2,7,West Indies,Dwayne Bravo,Dasun Shanaka,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,153632,-149.50,89.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,8,15,123,7,0,0,2,0,0,0,0,0
+230,9,387,2,7,West Indies,Shimron Hetmyer,Dasun Shanaka,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,153633,-73.50,169.00,1,0,,,Knuckleball,11,LOFT ON,0,0,9,15,124,7,0,0,2,0,0,0,0,0
+231,1,387,2,7,West Indies,Shimron Hetmyer,Wanindu Hasaranga,,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,153634,81.50,48.00,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,16,124,7,1,0,2,0,0,0,0,0
+232,2,387,2,7,West Indies,Shimron Hetmyer,Wanindu Hasaranga,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,153635,-117.50,-50.00,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,16,125,7,0,0,2,0,0,0,0,0
+233,3,387,2,7,West Indies,Dwayne Bravo,Wanindu Hasaranga,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,153636,-92.50,154.00,1,0,,,Knuckleball,21,SD OFF,0,0,3,16,126,7,0,0,2,0,0,0,0,0
+234,4,387,2,7,West Indies,Shimron Hetmyer,Wanindu Hasaranga,,17,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.4,2,1,0,153637,158.50,144.00,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,16,130,7,0,0,2,0,0,0,0,0
+235,5,387,2,7,West Indies,Shimron Hetmyer,Wanindu Hasaranga,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,153638,-100.50,138.00,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,5,16,131,7,0,0,2,0,0,0,0,0
+236,6,387,2,7,West Indies,Dwayne Bravo,Wanindu Hasaranga,,17,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,16.6,2,1,0,153639,-100.50,138.00,0,0,,,Knuckleball,94,SDL ON,0,0,6,16,131,8,1,0,2,0,0,0,0,0
+237,1,387,2,7,West Indies,Shimron Hetmyer,Dushmantha Chameera,,18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,153640,-100.50,138.00,0,0,,,Knuckleball,105,LEFT ALONE,0,0,1,17,131,8,2,0,2,0,0,0,0,0
+238,2,387,2,7,West Indies,Shimron Hetmyer,Dushmantha Chameera,,18,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.2,2,1,0,153641,150.50,162.00,4,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,2,17,135,8,0,0,2,0,0,0,0,0
+239,3,387,2,7,West Indies,Shimron Hetmyer,Dushmantha Chameera,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,153642,-64.50,145.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,17,136,8,0,0,2,0,0,0,0,0
+240,4,387,2,7,West Indies,Akeal Hosein,Dushmantha Chameera,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,153643,121.50,87.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,17,137,8,0,0,2,0,0,0,0,0
+241,5,387,2,7,West Indies,Shimron Hetmyer,Dushmantha Chameera,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,153644,121.50,87.00,0,0,,,Knuckleball,18,SLOG SHOT,0,0,5,17,137,8,0,0,2,0,0,0,0,0
+242,6,387,2,7,West Indies,Shimron Hetmyer,Dushmantha Chameera,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,153645,62.50,156.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,6,17,138,8,0,0,2,0,0,0,0,0
+243,1,387,2,7,West Indies,Shimron Hetmyer,Chamika Karunaratne,,19,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,153646,-96.50,163.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,1,18,138,8,1,0,2,0,0,0,0,0
+244,2,387,2,7,West Indies,Shimron Hetmyer,Chamika Karunaratne,,19,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,18.2,2,1,1,153647,-96.50,163.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,18,139,8,0,0,2,0,0,0,0,0
+245,3,387,2,7,West Indies,Shimron Hetmyer,Chamika Karunaratne,,19,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.2,2,1,0,153648,-69.50,205.00,6,0,,,Knuckleball,11,LOFT ON,0,0,3,18,145,8,0,0,2,0,0,0,0,0
+246,4,387,2,7,West Indies,Shimron Hetmyer,Chamika Karunaratne,,19,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.3,2,1,0,153649,9.50,210.00,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,4,18,151,8,0,1,3,0,0,0,0,0
+247,5,387,2,7,West Indies,Shimron Hetmyer,Chamika Karunaratne,,19,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.4,2,1,0,153650,161.50,145.00,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,18,155,8,0,0,3,0,0,0,0,0
+248,6,387,2,7,West Indies,Shimron Hetmyer,Chamika Karunaratne,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,2,1,0,153651,1.50,11.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,6,18,155,8,0,0,3,0,0,0,0,0
+249,7,387,2,7,West Indies,Shimron Hetmyer,Chamika Karunaratne,,19,6,1 (BY),1,0,0,0,0,1,1,0,0,1,0,0,0,0,,,0,18.6,2,1,1,153652,1.50,11.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,7,18,156,8,0,0,3,0,0,0,0,0
+250,1,387,2,7,West Indies,Shimron Hetmyer,Dushmantha Chameera,,20,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.1,2,1,0,153653,-137.50,85.00,2,0,,,Knuckleball,18,SLOG SHOT,0,0,1,19,158,8,1,0,3,0,0,0,0,0
+251,2,387,2,7,West Indies,Shimron Hetmyer,Dushmantha Chameera,,20,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.2,2,1,0,153654,73.50,-21.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,19,158,8,0,0,3,0,0,0,0,0
+252,3,387,2,7,West Indies,Shimron Hetmyer,Dushmantha Chameera,,20,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.3,2,1,0,153655,141.50,165.00,6,0,,,Knuckleball,5,LOFT OFF,0,0,3,19,164,8,0,0,3,0,0,0,0,0
+253,4,387,2,7,West Indies,Shimron Hetmyer,Dushmantha Chameera,,20,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.4,2,1,0,153656,-9.50,47.00,0,0,,,Knuckleball,47,ON DRIVE,0,0,4,19,164,8,0,0,3,0,0,0,0,0
+254,5,387,2,7,West Indies,Shimron Hetmyer,Dushmantha Chameera,,20,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.5,2,1,0,153657,-21.50,-152.00,4,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,19,168,8,0,0,3,0,0,0,0,0
+255,6,387,2,7,West Indies,Shimron Hetmyer,Dushmantha Chameera,,20,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.6,2,1,0,153658,16.50,56.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,6,19,169,8,0,0,3,0,0,0,0,0

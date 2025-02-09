@@ -1,0 +1,245 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,632,1,52,India Women,Smriti Mandhana,Katherine Brunt,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,234451,78.43,-34.40,1,0,,41,INSWINGER,27,FORWARD PUSH,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+1,2,632,1,52,India Women,Shafali Verma,Katherine Brunt,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,234452,92.24,37.88,1,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,2,0,2,0,0,0,0,0,0,0,0,0
+2,3,632,1,52,India Women,Smriti Mandhana,Katherine Brunt,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,234453,71.98,48.47,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,3,0,2,0,0,0,0,0,0,0,0,0
+3,4,632,1,52,India Women,Smriti Mandhana,Katherine Brunt,,1,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.4,1,1,0,234454,54.49,214.23,4,0,,8,OFF CUTTER,84,FRONTFOOT OFF DRIVE,0,0,4,0,6,0,0,0,0,0,0,0,0,0
+4,5,632,1,52,India Women,Smriti Mandhana,Katherine Brunt,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,234455,56.33,91.76,0,0,,43,NIPBACKER,97,BACKFOOT PUSH,0,0,5,0,6,0,0,0,0,0,0,0,0,0
+5,6,632,1,52,India Women,Smriti Mandhana,Katherine Brunt,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,234456,56.33,91.76,0,0,,30,ANGLED ACROSS,84,FRONTFOOT OFF DRIVE,0,0,6,0,6,0,0,0,0,0,0,0,0,0
+6,1,632,1,52,India Women,Shafali Verma,Alice Capsey,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,234457,-90.09,26.37,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,1,1,6,0,1,0,0,0,0,0,0,0
+7,2,632,1,52,India Women,Shafali Verma,Alice Capsey,,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,234458,13.05,91.29,1,0,,25,OFF SPIN,1,STEP DOWN STRAIGHT DRIVE,0,0,2,1,7,0,0,0,0,0,0,0,0,0
+8,3,632,1,52,India Women,Smriti Mandhana,Alice Capsey,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,234459,-78.12,139.18,1,0,,23,ARM BALL,94,STEP DOWN LOFTED ON DRIVE,0,0,3,1,8,0,0,0,0,0,0,0,0,0
+9,4,632,1,52,India Women,Shafali Verma,Alice Capsey,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,234460,57.71,158.52,1,0,,25,OFF SPIN,74,STEP DOWN ON DRIVE,0,0,4,1,9,0,0,0,0,0,0,0,0,0
+10,5,632,1,52,India Women,Smriti Mandhana,Alice Capsey,,2,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.5,1,1,0,234461,139.67,152.99,4,0,,25,OFF SPIN,21,STEP DOWN OFF DRIVE,0,0,5,1,13,0,0,0,0,0,0,0,0,0
+11,6,632,1,52,India Women,Smriti Mandhana,Alice Capsey,,2,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.6,1,1,0,234462,-179.87,-27.96,4,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,6,1,17,0,0,0,0,0,0,0,0,0
+12,1,632,1,52,India Women,Shafali Verma,Katherine Brunt,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,234463,-80.42,-93.80,1,0,,42,OUTSWINGER,44,GLIDE,0,0,1,2,18,0,1,0,0,0,0,0,0,0
+13,2,632,1,52,India Women,Smriti Mandhana,Katherine Brunt,,3,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.2,1,1,0,234464,-141.66,-73.54,4,0,,38,STRAIGHT BALL,58,BACKFOOT PULL SHOT,0,0,2,2,22,0,0,0,0,0,0,0,0,0
+14,3,632,1,52,India Women,Smriti Mandhana,Katherine Brunt,,3,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,234465,144.27,13.02,2,0,,8,OFF CUTTER,51,FRONTFOOT COVERDRIVE,0,0,3,2,24,0,0,0,0,0,0,0,0,0
+15,4,632,1,52,India Women,Smriti Mandhana,Katherine Brunt,,3,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.4,1,1,0,234466,76.59,-133.40,4,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,4,2,28,0,0,0,0,0,0,0,0,0
+16,5,632,1,52,India Women,Smriti Mandhana,Katherine Brunt,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,234467,71.98,28.22,0,0,,8,OFF CUTTER,97,BACKFOOT PUSH,0,0,5,2,28,0,0,0,0,0,0,0,0,0
+17,6,632,1,52,India Women,Smriti Mandhana,Katherine Brunt,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,234468,71.98,28.22,0,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,6,2,28,0,0,0,0,0,0,0,0,0
+18,1,632,1,52,India Women,Shafali Verma,Issy Wong,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,234469,129.08,-10.46,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,1,3,29,0,1,0,0,0,0,0,0,0
+19,2,632,1,52,India Women,Smriti Mandhana,Issy Wong,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,234470,80.73,-11.38,0,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,2,3,29,0,0,0,0,0,0,0,0,0
+20,3,632,1,52,India Women,Smriti Mandhana,Issy Wong,,4,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.3,1,1,0,234471,-179.87,90.83,6,0,,30,ANGLED ACROSS,46,FRONTFOOT PULL SHOT,0,0,3,3,35,0,0,0,0,0,0,0,0,0
+21,4,632,1,52,India Women,Smriti Mandhana,Issy Wong,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,234472,52.18,7.04,0,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,4,3,35,0,0,0,0,0,0,0,0,0
+22,5,632,1,52,India Women,Smriti Mandhana,Issy Wong,,4,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.5,1,1,0,234473,-65.69,211.47,4,0,,38,STRAIGHT BALL,11,LOFTED ON DRIVE,0,0,5,3,39,0,0,0,0,0,0,0,0,0
+23,6,632,1,52,India Women,Smriti Mandhana,Issy Wong,,4,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,234474,76.59,-86.89,1,0,,30,ANGLED ACROSS,44,GLIDE,0,0,6,3,40,0,0,0,0,0,0,0,0,0
+24,1,632,1,52,India Women,Smriti Mandhana,Natalie Sciver,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,234475,73.82,24.07,0,0,,8,OFF CUTTER,50,BACKFOOT DEFENCE,0,0,1,4,40,0,1,0,0,0,0,0,0,0
+25,2,632,1,52,India Women,Smriti Mandhana,Natalie Sciver,,5,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,4.2,1,1,0,234476,-162.84,133.19,6,0,,8,OFF CUTTER,18,SLOG SHOT,0,0,2,4,46,0,0,0,0,0,0,0,0,0
+26,3,632,1,52,India Women,Smriti Mandhana,Natalie Sciver,,5,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.3,1,1,0,234477,-30.23,-146.29,4,0,,39,ANGLED IN,99,SCOOP,0,0,3,4,50,0,0,1,1,0,1,0,0,0
+27,4,632,1,52,India Women,Smriti Mandhana,Natalie Sciver,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,234478,-129.23,-49.14,1,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,4,4,51,0,0,0,1,0,0,0,0,0
+28,5,632,1,52,India Women,Shafali Verma,Natalie Sciver,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,234479,67.84,37.42,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,5,4,51,0,0,0,1,0,0,0,0,0
+29,6,632,1,52,India Women,Shafali Verma,Natalie Sciver,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,234480,67.84,37.42,0,0,,20,BACKHAND SLOWER,27,FORWARD PUSH,0,0,6,4,51,0,0,0,1,0,0,0,0,0
+30,1,632,1,52,India Women,Smriti Mandhana,Sophie Ecclestone,,6,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.1,1,1,0,234481,-159.62,-56.96,4,0,https://scores.bcci.tv/matchcentre/commentaryFiles/COMMONWEALTH-GAMES-WOMENS-CRICKET-2022/England-Women-VS-India-Women-(06-Aug-2022)/File_1-6-234481.jpg,10,ORTHODOX,58,BACKFOOT PULL SHOT,0,0,1,5,55,0,1,0,1,0,0,0,0,0
+31,2,632,1,52,India Women,Smriti Mandhana,Sophie Ecclestone,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,234482,-91.93,110.63,1,0,,10,ORTHODOX,47,FRONTFOOT ON DRIVE,0,0,2,5,56,0,0,0,1,0,0,0,0,0
+32,3,632,1,52,India Women,Shafali Verma,Sophie Ecclestone,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,234483,45.74,24.07,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,3,5,56,0,0,0,1,0,0,0,0,0
+33,4,632,1,52,India Women,Shafali Verma,Sophie Ecclestone,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.4,1,1,0,234484,27.78,211.01,4,0,,10,ORTHODOX,69,STEP DOWN LOFTED STRAIGHT DRIVE,0,0,4,5,60,0,0,0,1,0,0,0,0,0
+34,5,632,1,52,India Women,Shafali Verma,Sophie Ecclestone,,6,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.5,1,1,0,234485,-51.87,208.71,4,0,,10,ORTHODOX,5,LOFTED OFF DRIVE,0,0,5,5,64,0,0,0,1,0,0,0,0,0
+35,6,632,1,52,India Women,Shafali Verma,Sophie Ecclestone,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,234486,79.35,37.88,0,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,6,5,64,0,0,0,1,0,0,0,0,0
+36,1,632,1,52,India Women,Smriti Mandhana,Sarah Glenn,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,234487,90.86,134.12,1,0,,24,LEG SPIN,84,FRONTFOOT OFF DRIVE,0,0,1,6,65,0,1,0,1,0,0,0,0,0
+37,2,632,1,52,India Women,Shafali Verma,Sarah Glenn,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,234488,109.74,119.84,1,0,,24,LEG SPIN,94,STEP DOWN LOFTED ON DRIVE,0,0,2,6,66,0,0,0,1,0,0,0,0,0
+38,3,632,1,52,India Women,Smriti Mandhana,Sarah Glenn,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,234489,31.92,77.48,0,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,3,6,66,0,0,0,1,0,0,0,0,0
+39,4,632,1,52,India Women,Smriti Mandhana,Sarah Glenn,,7,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,6.4,1,1,0,234490,-142.58,158.06,6,0,,24,LEG SPIN,94,STEP DOWN LOFTED ON DRIVE,0,0,4,6,72,0,0,0,1,0,0,0,0,0
+40,5,632,1,52,India Women,Smriti Mandhana,Sarah Glenn,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,234491,-146.72,43.41,1,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,5,6,73,0,0,0,1,0,0,0,0,0
+41,6,632,1,52,India Women,Shafali Verma,Sarah Glenn,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,234492,32.38,-35.78,0,0,,24,LEG SPIN,74,STEP DOWN ON DRIVE,0,0,6,6,73,0,0,0,1,0,0,0,0,0
+42,1,632,1,52,India Women,Smriti Mandhana,Freya Kemp,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,234493,-55.10,87.15,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,1,7,74,0,1,0,1,0,0,0,0,0
+43,2,632,1,52,India Women,Shafali Verma,Freya Kemp,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,234494,7.98,-15.99,0,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,2,7,74,0,0,0,1,0,0,0,0,0
+44,3,632,1,52,India Women,Shafali Verma,Freya Kemp,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,234495,-105.74,56.76,1,0,,20,BACKHAND SLOWER,52,BACKFOOT COVERDRIVE,0,0,3,7,75,0,0,0,1,0,0,0,0,0
+45,4,632,1,52,India Women,Smriti Mandhana,Freya Kemp,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,234496,92.24,35.58,1,0,,20,BACKHAND SLOWER,27,FORWARD PUSH,0,0,4,7,76,0,0,0,1,0,0,0,0,0
+46,5,632,1,52,India Women,Shafali Verma,Freya Kemp,,8,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,7.5,1,1,0,234497,92.24,35.58,0,0,,20,BACKHAND SLOWER,13,LOFTED STRAIGHT,0,0,5,7,76,1,1,0,1,0,0,0,0,0
+47,6,632,1,52,India Women,Smriti Mandhana,Freya Kemp,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,234498,36.07,121.22,0,0,,20,BACKHAND SLOWER,84,FRONTFOOT OFF DRIVE,0,0,6,7,76,1,2,0,1,0,0,0,0,0
+48,1,632,1,52,India Women,Jemimah Rodrigues,Natalie Sciver,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,234499,-59.70,-21.97,0,0,,37,NIPPED AWAY,97,BACKFOOT PUSH,0,0,1,8,76,1,3,0,1,0,0,0,0,0
+49,2,632,1,52,India Women,Jemimah Rodrigues,Natalie Sciver,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,234500,127.69,55.38,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,2,8,77,1,0,0,1,0,0,0,0,0
+50,3,632,1,52,India Women,Smriti Mandhana,Natalie Sciver,,9,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,8.3,1,1,0,234501,127.69,55.38,0,0,,8,OFF CUTTER,99,SCOOP,0,0,3,8,77,2,1,0,1,0,0,0,0,0
+51,4,632,1,52,India Women,Harmanpreet Kaur,Natalie Sciver,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,234502,-71.67,25.45,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,4,8,77,2,2,0,1,0,0,0,0,0
+52,5,632,1,52,India Women,Harmanpreet Kaur,Natalie Sciver,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,234503,45.74,41.11,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,5,8,77,2,0,0,1,0,0,0,0,0
+53,6,632,1,52,India Women,Harmanpreet Kaur,Natalie Sciver,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,234504,-37.14,52.62,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,6,8,77,2,0,0,1,0,0,0,0,0
+54,1,632,1,52,India Women,Jemimah Rodrigues,Sophie Ecclestone,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,234505,103.75,-56.04,1,0,,10,ORTHODOX,40,FRONTFOOT FLICK,0,0,1,9,78,2,1,0,1,0,0,0,0,0
+55,2,632,1,52,India Women,Harmanpreet Kaur,Sophie Ecclestone,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,234506,50.80,27.29,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,2,9,78,2,0,0,1,0,0,0,0,0
+56,3,632,1,52,India Women,Harmanpreet Kaur,Sophie Ecclestone,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,234507,72.44,44.33,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,3,9,78,2,0,0,1,0,0,0,0,0
+57,4,632,1,52,India Women,Harmanpreet Kaur,Sophie Ecclestone,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,234508,72.44,44.33,0,0,,23,ARM BALL,49,FORWARD DEFENCE,0,0,4,9,78,2,0,0,1,0,0,0,0,0
+58,5,632,1,52,India Women,Harmanpreet Kaur,Sophie Ecclestone,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,234509,74.28,137.34,1,0,,10,ORTHODOX,74,STEP DOWN ON DRIVE,0,0,5,9,79,2,0,0,1,0,0,0,0,0
+59,6,632,1,52,India Women,Jemimah Rodrigues,Sophie Ecclestone,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,234510,71.98,80.24,0,0,,23,ARM BALL,47,FRONTFOOT ON DRIVE,0,0,6,9,79,2,0,0,1,0,0,0,0,0
+60,1,632,1,52,India Women,Harmanpreet Kaur,Freya Kemp,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,234511,-133.37,69.19,1,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,1,10,80,2,1,0,1,0,0,0,0,0
+61,2,632,1,52,India Women,Jemimah Rodrigues,Freya Kemp,,11,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.2,1,1,0,234512,-150.87,-73.54,4,0,,30,ANGLED ACROSS,59,FRONTFOOT SQUARE DRIVE,0,0,2,10,84,2,0,0,1,0,0,0,0,0
+62,3,632,1,52,India Women,Jemimah Rodrigues,Freya Kemp,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,234513,-123.70,46.17,1,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,3,10,85,2,0,0,1,0,0,0,0,0
+63,4,632,1,52,India Women,Harmanpreet Kaur,Freya Kemp,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,234514,-59.70,-14.60,0,0,,43,NIPBACKER,49,FORWARD DEFENCE,0,0,4,10,85,2,0,0,1,0,0,0,0,0
+64,5,632,1,52,India Women,Harmanpreet Kaur,Freya Kemp,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,234515,62.31,32.36,0,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,5,10,85,2,0,0,1,0,0,0,0,0
+65,6,632,1,52,India Women,Harmanpreet Kaur,Freya Kemp,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,234516,-64.77,78.86,0,0,,30,ANGLED ACROSS,84,FRONTFOOT OFF DRIVE,0,0,6,10,85,2,0,0,1,0,0,0,0,0
+66,1,632,1,52,India Women,Jemimah Rodrigues,Issy Wong,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,234517,114.80,-21.51,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,1,11,86,2,1,0,1,0,0,0,0,0
+67,2,632,1,52,India Women,Harmanpreet Kaur,Issy Wong,,12,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.2,1,1,0,234518,142.89,155.29,4,0,,39,ANGLED IN,11,LOFTED ON DRIVE,0,0,2,11,90,2,0,0,1,0,0,0,0,0
+68,3,632,1,52,India Women,Harmanpreet Kaur,Issy Wong,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,234519,140.13,23.15,1,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,3,11,91,2,0,0,1,0,0,0,0,0
+69,4,632,1,52,India Women,Jemimah Rodrigues,Issy Wong,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,234520,30.08,121.68,0,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,4,11,91,2,0,0,1,0,0,0,0,0
+70,5,632,1,52,India Women,Jemimah Rodrigues,Issy Wong,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,234521,69.68,-98.86,1,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,5,11,92,2,0,0,1,0,0,0,0,0
+71,6,632,1,52,India Women,Harmanpreet Kaur,Issy Wong,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,234522,-57.40,35.12,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,6,11,92,2,0,0,1,0,0,0,0,0
+72,1,632,1,52,India Women,Jemimah Rodrigues,Sarah Glenn,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,234523,-52.33,97.28,0,0,,24,LEG SPIN,84,FRONTFOOT OFF DRIVE,0,0,1,12,92,2,1,0,1,0,0,0,0,0
+73,2,632,1,52,India Women,Jemimah Rodrigues,Sarah Glenn,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,1,1,0,234524,131.84,101.88,1,0,,24,LEG SPIN,58,BACKFOOT PULL SHOT,0,0,2,12,93,2,0,0,1,0,0,0,0,0
+74,3,632,1,52,India Women,Harmanpreet Kaur,Sarah Glenn,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,234525,-93.31,-0.79,0,0,,24,LEG SPIN,36,CUT SHOT,0,0,3,12,93,2,0,0,1,0,0,0,0,0
+75,4,632,1,52,India Women,Harmanpreet Kaur,Sarah Glenn,,13,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.4,1,1,0,234526,173.74,12.56,4,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,4,12,97,2,0,0,1,0,0,0,0,0
+76,5,632,1,52,India Women,Harmanpreet Kaur,Sarah Glenn,,13,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,234527,67.84,-104.85,2,0,,24,LEG SPIN,22,FRONTFOOT PADDLE SWEEP,0,0,5,12,99,2,0,0,1,0,0,0,0,0
+77,6,632,1,52,India Women,Harmanpreet Kaur,Sarah Glenn,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,234528,-100.22,133.19,1,0,,24,LEG SPIN,21,STEP DOWN OFF DRIVE,0,0,6,12,100,2,0,1,2,0,0,1,0,0
+78,1,632,1,52,India Women,Harmanpreet Kaur,Freya Kemp,,14,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,13.1,1,1,0,234529,144.73,151.15,6,0,,30,ANGLED ACROSS,11,LOFTED ON DRIVE,0,0,1,13,106,2,1,0,2,0,0,0,0,0
+79,2,632,1,52,India Women,Harmanpreet Kaur,Freya Kemp,,14,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,13.2,1,1,0,234530,125.39,-10.46,0,0,,30,ANGLED ACROSS,58,BACKFOOT PULL SHOT,0,0,2,13,106,3,2,0,2,0,0,0,0,0
+80,3,632,1,52,India Women,Deepti Sharma,Freya Kemp,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,234531,-88.25,-87.35,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,3,13,107,3,3,0,2,0,0,0,0,0
+81,4,632,1,52,India Women,Jemimah Rodrigues,Freya Kemp,,14,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.4,1,1,0,234532,-133.83,150.23,4,0,,30,ANGLED ACROSS,5,LOFTED OFF DRIVE,0,0,4,13,111,3,0,0,2,0,0,0,0,0
+82,5,632,1,52,India Women,Jemimah Rodrigues,Freya Kemp,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,234533,-90.55,-84.13,1,0,,30,ANGLED ACROSS,44,GLIDE,0,0,5,13,112,3,0,0,2,0,0,0,0,0
+83,6,632,1,52,India Women,Deepti Sharma,Freya Kemp,,14,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,13.6,1,1,1,234534,-90.55,-84.13,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,6,13,113,3,0,0,2,0,0,0,0,0
+84,7,632,1,52,India Women,Deepti Sharma,Freya Kemp,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,234535,43.44,34.66,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,7,13,113,3,0,0,2,0,0,0,0,0
+85,1,632,1,52,India Women,Jemimah Rodrigues,Sarah Glenn,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,234536,43.44,34.66,0,0,,24,LEG SPIN,5,LOFTED OFF DRIVE,0,0,1,14,113,3,1,0,2,0,0,0,0,0
+86,2,632,1,52,India Women,Jemimah Rodrigues,Sarah Glenn,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,234537,-60.62,35.12,0,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,2,14,113,3,0,0,2,0,0,0,0,0
+87,3,632,1,52,India Women,Jemimah Rodrigues,Sarah Glenn,,15,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,234538,54.95,-47.76,0,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,3,14,113,3,0,0,2,0,0,0,0,0
+88,4,632,1,52,India Women,Jemimah Rodrigues,Sarah Glenn,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,234539,141.51,12.10,1,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,4,14,114,3,0,0,2,0,0,0,0,0
+89,5,632,1,52,India Women,Deepti Sharma,Sarah Glenn,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,234540,71.52,56.30,0,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,5,14,114,3,0,0,2,0,0,0,0,0
+90,6,632,1,52,India Women,Deepti Sharma,Sarah Glenn,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,234541,-63.85,-42.69,1,0,,24,LEG SPIN,47,FRONTFOOT ON DRIVE,0,0,6,14,115,3,0,0,2,0,0,0,0,0
+91,1,632,1,52,India Women,Deepti Sharma,Sophie Ecclestone,,16,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.1,1,1,0,234542,-52.33,-132.47,4,0,,10,ORTHODOX,99,SCOOP,0,0,1,15,119,3,1,0,2,0,0,0,0,0
+92,2,632,1,52,India Women,Deepti Sharma,Sophie Ecclestone,,16,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.2,1,1,0,234543,-35.76,-139.84,4,0,,10,ORTHODOX,99,SCOOP,0,0,2,15,123,3,0,0,2,0,0,0,0,0
+93,3,632,1,52,India Women,Deepti Sharma,Sophie Ecclestone,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,234544,-111.27,123.06,1,0,,23,ARM BALL,74,STEP DOWN ON DRIVE,0,0,3,15,124,3,0,0,2,0,0,0,0,0
+94,4,632,1,52,India Women,Jemimah Rodrigues,Sophie Ecclestone,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,234545,26.40,176.47,1,0,,10,ORTHODOX,13,LOFTED STRAIGHT,0,0,4,15,125,3,0,0,2,0,0,0,0,0
+95,5,632,1,52,India Women,Deepti Sharma,Sophie Ecclestone,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,234546,-75.36,130.43,1,0,,10,ORTHODOX,11,LOFTED ON DRIVE,0,0,5,15,126,3,0,0,2,0,0,0,0,0
+96,6,632,1,52,India Women,Jemimah Rodrigues,Sophie Ecclestone,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,234547,-44.97,-42.23,1,0,,10,ORTHODOX,35,LATE CUT,0,0,6,15,127,3,0,0,2,0,0,0,0,0
+97,1,632,1,52,India Women,Jemimah Rodrigues,Katherine Brunt,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,234548,-59.24,-93.80,1,0,,38,STRAIGHT BALL,35,LATE CUT,0,0,1,16,128,3,1,0,2,0,0,0,0,0
+98,2,632,1,52,India Women,Deepti Sharma,Katherine Brunt,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,234549,-59.24,-93.80,0,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,2,16,128,3,0,0,2,0,0,0,0,0
+99,3,632,1,52,India Women,Deepti Sharma,Katherine Brunt,,17,3,1 (BY),1,0,0,0,0,1,1,0,0,1,0,0,0,0,,,0,16.3,1,1,1,234550,-59.24,-93.80,1,0,,36,BOUNCER,105,LEFT ALONE,1,0,3,16,129,3,0,0,2,0,0,0,0,0
+100,4,632,1,52,India Women,Jemimah Rodrigues,Katherine Brunt,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,234551,-84.10,55.38,0,0,,20,BACKHAND SLOWER,52,BACKFOOT COVERDRIVE,0,0,4,16,129,3,0,0,2,0,0,0,0,0
+101,5,632,1,52,India Women,Jemimah Rodrigues,Katherine Brunt,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,234552,-46.81,28.68,1,0,,39,ANGLED IN,61,INSIDE OUT,0,0,5,16,130,3,0,0,2,0,0,0,0,0
+102,6,632,1,52,India Women,Deepti Sharma,Katherine Brunt,,17,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,234553,-59.70,150.23,2,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,6,16,132,3,0,0,2,0,0,0,0,0
+103,1,632,1,52,India Women,Jemimah Rodrigues,Natalie Sciver,,18,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.1,1,1,0,234554,-150.87,136.42,4,0,,39,ANGLED IN,15,LOFTED COVER DRIVE,0,0,1,17,136,3,1,0,2,0,0,0,0,0
+104,2,632,1,52,India Women,Jemimah Rodrigues,Natalie Sciver,,18,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.2,1,1,0,234555,-33.00,-147.21,4,0,,39,ANGLED IN,61,INSIDE OUT,0,0,2,17,140,3,0,0,2,0,0,0,0,0
+105,3,632,1,52,India Women,Jemimah Rodrigues,Natalie Sciver,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.3,1,1,0,234556,98.23,-81.37,1,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,3,17,141,3,0,0,2,0,0,0,0,0
+106,4,632,1,52,India Women,Deepti Sharma,Natalie Sciver,,18,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.4,1,1,0,234557,98.23,-81.37,0,0,,20,BACKHAND SLOWER,18,SLOG SHOT,0,0,4,17,141,3,0,0,2,0,0,0,0,0
+107,5,632,1,52,India Women,Deepti Sharma,Natalie Sciver,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,234558,56.33,167.27,1,0,,39,ANGLED IN,5,LOFTED OFF DRIVE,0,0,5,17,142,3,0,0,2,0,0,0,0,0
+108,6,632,1,52,India Women,Jemimah Rodrigues,Natalie Sciver,,18,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.6,1,1,0,234559,-176.19,96.36,4,0,,20,BACKHAND SLOWER,15,LOFTED COVER DRIVE,0,0,6,17,146,3,0,0,2,0,0,0,0,0
+109,1,632,1,52,India Women,Deepti Sharma,Sarah Glenn,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,1,1,0,234560,-131.07,51.70,1,0,,24,LEG SPIN,94,STEP DOWN LOFTED ON DRIVE,0,0,1,18,147,3,1,0,2,0,0,0,0,0
+110,2,632,1,52,India Women,Jemimah Rodrigues,Sarah Glenn,,19,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.2,1,1,0,234561,-185.40,95.44,4,0,,24,LEG SPIN,114,STEP DOWN LOFTED COVER DRIVE,0,0,2,18,151,3,0,1,3,0,0,0,0,0
+111,3,632,1,52,India Women,Jemimah Rodrigues,Sarah Glenn,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,234562,36.53,-54.66,1,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,3,18,152,3,0,0,3,0,0,0,0,0
+112,4,632,1,52,India Women,Deepti Sharma,Sarah Glenn,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,1,1,0,234563,-104.36,117.54,1,0,,24,LEG SPIN,11,LOFTED ON DRIVE,0,0,4,18,153,3,0,0,3,0,0,0,0,0
+113,5,632,1,52,India Women,Jemimah Rodrigues,Sarah Glenn,,19,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,234564,-85.49,59.06,1,0,,24,LEG SPIN,89,STEP DOWN COVER DRIVE,0,0,5,18,154,3,0,0,3,0,0,0,0,0
+114,6,632,1,52,India Women,Deepti Sharma,Sarah Glenn,,19,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,234565,98.23,111.09,1,0,,24,LEG SPIN,21,STEP DOWN OFF DRIVE,0,0,6,18,155,3,0,0,3,0,0,0,0,0
+115,1,632,1,52,India Women,Deepti Sharma,Katherine Brunt,,20,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.1,1,1,0,234566,146.11,-25.19,2,0,,20,BACKHAND SLOWER,15,LOFTED COVER DRIVE,0,0,1,19,157,3,1,0,3,0,0,0,0,0
+116,2,632,1,52,India Women,Deepti Sharma,Katherine Brunt,,20,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,234567,52.18,24.07,0,0,,36,BOUNCER,50,BACKFOOT DEFENCE,1,0,2,19,157,3,0,0,3,0,0,0,0,0
+117,3,632,1,52,India Women,Deepti Sharma,Katherine Brunt,,20,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.3,1,1,0,234568,-35.76,-114.06,2,0,,20,BACKHAND SLOWER,99,SCOOP,0,0,3,19,159,3,0,0,3,0,0,0,0,0
+118,4,632,1,52,India Women,Deepti Sharma,Katherine Brunt,,20,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught & Bowled,WICKET,1,19.4,1,1,0,234569,-35.76,-114.06,0,0,,36,BOUNCER,46,FRONTFOOT PULL SHOT,1,0,4,19,159,4,1,0,3,0,0,0,0,0
+119,5,632,1,52,India Women,Jemimah Rodrigues,Katherine Brunt,,20,5,1 WK,1,1,1,0,0,0,0,0,0,0,0,0,0,1,Run Out,WICKET,0,19.5,1,1,0,234570,140.13,55.38,1,0,,36,BOUNCER,46,FRONTFOOT PULL SHOT,1,0,5,19,160,5,2,0,3,0,0,0,0,0
+120,6,632,1,52,India Women,Jemimah Rodrigues,Katherine Brunt,,20,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.6,1,1,0,234571,-182.64,28.68,4,0,https://scores.bcci.tv/matchcentre/commentaryFiles/COMMONWEALTH-GAMES-WOMENS-CRICKET-2022/England-Women-VS-India-Women-(06-Aug-2022)/File_1-20-234571.jpg,20,BACKHAND SLOWER,15,LOFTED COVER DRIVE,0,0,6,19,164,5,0,0,3,0,0,0,0,0
+122,1,632,2,53,England Women,Sophia Dunkley,Renuka Singh,,1,1,5 (NB),5,4,0,0,0,0,1,0,1,0,0,1,0,0,,,0,0.1,1,1,1,234572,-53.72,216.53,5,0,,38,STRAIGHT BALL,84,FRONTFOOT OFF DRIVE,0,0,1,0,5,0,1,0,0,0,0,0,0,0
+123,2,632,2,53,England Women,Sophia Dunkley,Renuka Singh,,1,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.1,1,1,0,234573,138.28,155.29,4,0,,38,STRAIGHT BALL,46,FRONTFOOT PULL SHOT,0,0,2,0,9,0,0,0,0,0,0,0,0,0
+124,3,632,2,53,England Women,Sophia Dunkley,Renuka Singh,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,234574,-56.48,102.35,0,0,,38,STRAIGHT BALL,84,FRONTFOOT OFF DRIVE,0,0,3,0,9,0,0,0,0,0,0,0,0,0
+125,4,632,2,53,England Women,Sophia Dunkley,Renuka Singh,,1,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.3,1,1,1,234575,-56.48,102.35,1,0,,41,INSWINGER,54,LEG GLANCE,0,0,4,0,10,0,0,0,0,0,0,0,0,0
+126,5,632,2,53,England Women,Sophia Dunkley,Renuka Singh,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,234576,114.80,100.04,1,0,,41,INSWINGER,11,LOFTED ON DRIVE,0,0,5,0,11,0,0,0,0,0,0,0,0,0
+127,6,632,2,53,England Women,Danielle Wyatt,Renuka Singh,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,234577,52.64,46.17,0,0,,41,INSWINGER,49,FORWARD DEFENCE,0,0,6,0,11,0,0,0,0,0,0,0,0,0
+128,7,632,2,53,England Women,Danielle Wyatt,Renuka Singh,,1,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.5,1,1,0,234578,-77.66,-133.86,4,0,,41,INSWINGER,35,LATE CUT,0,0,7,0,15,0,0,0,0,0,0,0,0,0
+129,8,632,2,53,England Women,Danielle Wyatt,Renuka Singh,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,234579,-70.75,42.03,0,0,,41,INSWINGER,49,FORWARD DEFENCE,0,0,8,0,15,0,0,0,0,0,0,0,0,0
+130,1,632,2,53,England Women,Sophia Dunkley,Meghna Singh,,2,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.1,1,1,0,234580,-18.26,216.53,4,0,,42,OUTSWINGER,53,FRONTFOOT STRAIGHT DRIVE,0,0,1,1,19,0,1,0,0,0,0,0,0,0
+131,2,632,2,53,England Women,Sophia Dunkley,Meghna Singh,,2,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.2,1,1,0,234581,147.03,132.73,4,0,,42,OUTSWINGER,11,LOFTED ON DRIVE,0,0,2,1,23,0,0,0,0,0,0,0,0,0
+132,3,632,2,53,England Women,Sophia Dunkley,Meghna Singh,,2,3,1 (BY),1,0,0,0,0,1,1,0,0,1,0,0,0,0,,,0,1.3,1,1,1,234582,147.03,132.73,1,0,,42,OUTSWINGER,5,LOFTED OFF DRIVE,0,0,3,1,24,0,0,0,0,0,0,0,0,0
+133,4,632,2,53,England Women,Danielle Wyatt,Meghna Singh,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,234583,-45.89,27.29,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,4,1,24,0,0,0,0,0,0,0,0,0
+134,5,632,2,53,England Women,Danielle Wyatt,Meghna Singh,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,234584,-25.17,48.94,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,5,1,24,0,0,0,0,0,0,0,0,0
+135,6,632,2,53,England Women,Danielle Wyatt,Meghna Singh,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,234585,-25.17,48.94,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,6,1,24,0,0,0,0,0,0,0,0,0
+136,1,632,2,53,England Women,Sophia Dunkley,Deepti Sharma,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,234586,21.33,183.84,1,0,,25,OFF SPIN,1,STEP DOWN STRAIGHT DRIVE,0,0,1,2,25,0,1,0,0,0,0,0,0,0
+137,2,632,2,53,England Women,Danielle Wyatt,Deepti Sharma,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,234587,-128.77,59.06,1,0,,25,OFF SPIN,89,STEP DOWN COVER DRIVE,0,0,2,2,26,0,0,0,0,0,0,0,0,0
+138,3,632,2,53,England Women,Sophia Dunkley,Deepti Sharma,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,234588,122.63,102.35,1,0,,25,OFF SPIN,58,BACKFOOT PULL SHOT,0,0,3,2,27,0,0,0,0,0,0,0,0,0
+139,4,632,2,53,England Women,Danielle Wyatt,Deepti Sharma,,3,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,234589,-136.13,10.72,1,0,,25,OFF SPIN,36,CUT SHOT,0,0,4,2,28,0,0,0,0,0,0,0,0,0
+140,5,632,2,53,England Women,Sophia Dunkley,Deepti Sharma,,3,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,2.5,1,1,0,234590,-136.13,10.72,0,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,5,2,28,1,1,0,0,0,0,0,0,0
+141,6,632,2,53,England Women,Alice Capsey,Deepti Sharma,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,234591,-19.18,55.84,0,0,,25,OFF SPIN,53,FRONTFOOT STRAIGHT DRIVE,0,0,6,2,28,1,2,0,0,0,0,0,0,0
+142,1,632,2,53,England Women,Danielle Wyatt,Meghna Singh,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,234592,-80.42,13.48,0,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,1,3,28,1,3,0,0,0,0,0,0,0
+143,2,632,2,53,England Women,Danielle Wyatt,Meghna Singh,,4,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.2,1,1,0,234593,-176.19,34.20,4,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,2,3,32,1,0,0,0,0,0,0,0,0
+144,3,632,2,53,England Women,Danielle Wyatt,Meghna Singh,,4,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,234594,-153.17,13.02,2,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,3,3,34,1,0,0,0,0,0,0,0,0
+145,4,632,2,53,England Women,Danielle Wyatt,Meghna Singh,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,234595,-76.28,-10.46,0,0,,42,OUTSWINGER,50,BACKFOOT DEFENCE,0,0,4,3,34,1,0,0,0,0,0,0,0,0
+146,5,632,2,53,England Women,Danielle Wyatt,Meghna Singh,,4,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.5,1,1,0,234596,173.28,118.46,4,0,,39,ANGLED IN,11,LOFTED ON DRIVE,0,0,5,3,38,1,0,0,0,0,0,0,0,0
+147,6,632,2,53,England Women,Danielle Wyatt,Meghna Singh,,4,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.6,1,1,0,234597,71.52,-134.78,4,0,,39,ANGLED IN,54,LEG GLANCE,0,0,6,3,42,1,0,0,0,0,0,0,0,0
+148,1,632,2,53,England Women,Alice Capsey,Deepti Sharma,,5,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.1,1,1,0,234598,91.78,-124.19,4,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,1,4,46,1,1,0,0,0,0,0,0,0
+149,2,632,2,53,England Women,Alice Capsey,Deepti Sharma,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,234599,-47.73,-51.44,1,0,,25,OFF SPIN,36,CUT SHOT,0,0,2,4,47,1,0,0,0,0,0,0,0,0
+150,3,632,2,53,England Women,Danielle Wyatt,Deepti Sharma,,5,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,234600,-73.97,8.42,1,0,,25,OFF SPIN,52,BACKFOOT COVERDRIVE,0,0,3,4,48,1,0,0,0,0,0,0,0,0
+151,4,632,2,53,England Women,Alice Capsey,Deepti Sharma,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,234601,-43.59,-87.35,1,0,,23,ARM BALL,36,CUT SHOT,0,0,4,4,49,1,0,0,0,0,0,0,0,0
+152,5,632,2,53,England Women,Danielle Wyatt,Deepti Sharma,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,234602,-43.59,-87.35,0,0,,25,OFF SPIN,105,LEFT ALONE,0,0,5,4,49,1,0,0,0,0,0,0,0,0
+153,6,632,2,53,England Women,Danielle Wyatt,Deepti Sharma,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,234603,-72.13,-22.43,0,0,,25,OFF SPIN,36,CUT SHOT,0,0,6,4,49,1,0,0,0,0,0,0,0,0
+154,1,632,2,53,England Women,Alice Capsey,Renuka Singh,,6,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,234604,-143.50,48.94,1,0,,38,STRAIGHT BALL,52,BACKFOOT COVERDRIVE,0,0,1,5,50,1,1,1,1,0,1,0,0,0
+155,2,632,2,53,England Women,Danielle Wyatt,Renuka Singh,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,234605,-74.90,25.45,1,0,,8,OFF CUTTER,49,FORWARD DEFENCE,0,0,2,5,51,1,0,0,1,0,0,0,0,0
+156,3,632,2,53,England Women,Alice Capsey,Renuka Singh,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,234606,-128.77,47.09,1,0,,39,ANGLED IN,51,FRONTFOOT COVERDRIVE,0,0,3,5,52,1,0,0,1,0,0,0,0,0
+157,4,632,2,53,England Women,Danielle Wyatt,Renuka Singh,,6,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,5.4,1,1,0,234607,122.63,100.04,2,0,,46,LEGCUTTER,18,SLOG SHOT,0,0,4,5,54,1,0,0,1,0,0,0,0,0
+158,5,632,2,53,England Women,Danielle Wyatt,Renuka Singh,,6,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.5,1,1,0,234608,-120.02,-113.14,4,0,,46,LEGCUTTER,35,LATE CUT,0,0,5,5,58,1,0,0,1,0,0,0,0,0
+159,6,632,2,53,England Women,Danielle Wyatt,Renuka Singh,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,234609,-120.02,-113.14,0,0,,46,LEGCUTTER,84,FRONTFOOT OFF DRIVE,0,0,6,5,58,1,0,0,1,0,0,0,0,0
+160,1,632,2,53,England Women,Alice Capsey,Sneh Rana,,7,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.1,1,1,0,234610,-31.15,-146.75,4,0,,25,OFF SPIN,56,REVERSE SWEEP,0,0,1,6,62,1,1,0,1,0,0,0,0,0
+161,2,632,2,53,England Women,Alice Capsey,Sneh Rana,,7,2,1 WK,1,1,1,0,0,0,0,0,0,0,0,0,0,1,Run Out,WICKET,0,6.2,1,1,0,234611,-72.13,-36.24,1,0,,25,OFF SPIN,122,STEP DOWN LOFTED OFF DRIVE,0,0,2,6,63,2,0,0,1,0,0,0,0,0
+162,3,632,2,53,England Women,Danielle Wyatt,Sneh Rana,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,234612,-137.97,56.30,1,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,3,6,64,2,0,0,1,0,0,0,0,0
+163,4,632,2,53,England Women,Natalie Sciver,Sneh Rana,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,234613,-62.46,13.48,0,0,,25,OFF SPIN,77,STEP DOWN DEFENCE,0,0,4,6,64,2,0,0,1,0,0,0,0,0
+164,5,632,2,53,England Women,Natalie Sciver,Sneh Rana,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,234614,38.83,168.19,1,0,,25,OFF SPIN,1,STEP DOWN STRAIGHT DRIVE,0,0,5,6,65,2,0,0,1,0,0,0,0,0
+165,6,632,2,53,England Women,Danielle Wyatt,Sneh Rana,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,234615,-70.75,-31.64,0,0,,25,OFF SPIN,36,CUT SHOT,0,0,6,6,65,2,0,0,1,0,0,0,0,0
+166,1,632,2,53,England Women,Natalie Sciver,Pooja Vastrakar,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,234616,99.61,-64.33,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,1,7,66,2,1,0,1,0,0,0,0,0
+167,2,632,2,53,England Women,Danielle Wyatt,Pooja Vastrakar,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,234617,-89.17,-72.16,1,0,,38,STRAIGHT BALL,44,GLIDE,0,0,2,7,67,2,0,0,1,0,0,0,0,0
+168,3,632,2,53,England Women,Natalie Sciver,Pooja Vastrakar,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,234618,144.73,36.04,1,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,3,7,68,2,0,0,1,0,0,0,0,0
+169,4,632,2,53,England Women,Danielle Wyatt,Pooja Vastrakar,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,234619,107.90,-76.30,1,0,,36,BOUNCER,46,FRONTFOOT PULL SHOT,1,0,4,7,69,2,0,0,1,0,0,0,0,0
+170,5,632,2,53,England Women,Natalie Sciver,Pooja Vastrakar,,8,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,234620,135.98,71.04,2,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,5,7,71,2,0,0,1,0,0,0,0,0
+171,6,632,2,53,England Women,Natalie Sciver,Pooja Vastrakar,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,234621,124.93,-21.97,1,0,,39,ANGLED IN,70,STEP DOWN PULL SHOT,0,0,6,7,72,2,0,0,1,0,0,0,0,0
+172,1,632,2,53,England Women,Natalie Sciver,Sneh Rana,,9,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.1,1,1,0,234622,-68.45,197.65,4,0,,25,OFF SPIN,122,STEP DOWN LOFTED OFF DRIVE,0,0,1,8,76,2,1,0,1,0,0,0,0,0
+173,2,632,2,53,England Women,Natalie Sciver,Sneh Rana,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,234623,-60.16,109.25,0,0,,25,OFF SPIN,21,STEP DOWN OFF DRIVE,0,0,2,8,76,2,0,0,1,0,0,0,0,0
+174,3,632,2,53,England Women,Natalie Sciver,Sneh Rana,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,234624,-73.05,50.78,0,0,,25,OFF SPIN,89,STEP DOWN COVER DRIVE,0,0,3,8,76,2,0,0,1,0,0,0,0,0
+175,4,632,2,53,England Women,Natalie Sciver,Sneh Rana,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,234625,63.23,51.70,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,4,8,77,2,0,0,1,0,0,0,0,0
+176,5,632,2,53,England Women,Danielle Wyatt,Sneh Rana,,9,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.5,1,1,0,234626,62.77,-133.86,4,0,,25,OFF SPIN,22,FRONTFOOT PADDLE SWEEP,0,0,5,8,81,2,0,0,1,0,0,0,0,0
+177,6,632,2,53,England Women,Danielle Wyatt,Sneh Rana,,9,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,8.6,1,1,0,234627,62.77,-133.86,0,0,,25,OFF SPIN,99,SCOOP,0,0,6,8,81,3,1,0,1,0,0,0,0,0
+178,1,632,2,53,England Women,Natalie Sciver,Pooja Vastrakar,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,234628,144.73,48.94,1,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,1,9,82,3,2,0,1,0,0,0,0,0
+179,2,632,2,53,England Women,Amy Ellen Jones,Pooja Vastrakar,,10,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,234629,132.30,-10.46,2,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,2,9,84,3,0,0,1,0,0,0,0,0
+180,3,632,2,53,England Women,Amy Ellen Jones,Pooja Vastrakar,,10,3,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,9.3,1,1,1,234630,132.30,-10.46,1,0,,43,NIPBACKER,54,LEG GLANCE,0,0,3,9,85,3,0,0,1,0,0,0,0,0
+181,4,632,2,53,England Women,Natalie Sciver,Pooja Vastrakar,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,234631,-69.37,49.86,0,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,4,9,85,3,0,0,1,0,0,0,0,0
+182,5,632,2,53,England Women,Natalie Sciver,Pooja Vastrakar,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,234632,-69.37,49.86,0,0,,43,NIPBACKER,84,FRONTFOOT OFF DRIVE,0,0,5,9,85,3,0,0,1,0,0,0,0,0
+183,6,632,2,53,England Women,Natalie Sciver,Pooja Vastrakar,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,234633,-106.67,-71.70,1,0,,38,STRAIGHT BALL,59,FRONTFOOT SQUARE DRIVE,0,0,6,9,86,3,0,0,1,0,0,0,0,0
+185,1,632,2,53,England Women,Natalie Sciver,Shafali Verma,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,234634,-95.15,128.13,1,0,,38,STRAIGHT BALL,84,FRONTFOOT OFF DRIVE,0,0,1,10,87,3,1,0,1,0,0,0,0,0
+186,2,632,2,53,England Women,Amy Ellen Jones,Shafali Verma,,11,2,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,0,,,0,10.2,1,1,1,234635,-95.15,128.13,2,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,2,10,89,3,0,0,1,0,0,0,0,0
+187,3,632,2,53,England Women,Natalie Sciver,Shafali Verma,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,234636,125.39,-33.48,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,3,10,90,3,0,0,1,0,0,0,0,0
+188,4,632,2,53,England Women,Amy Ellen Jones,Shafali Verma,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,234637,-137.51,-3.55,1,0,,38,STRAIGHT BALL,59,FRONTFOOT SQUARE DRIVE,0,0,4,10,91,3,0,0,1,0,0,0,0,0
+189,5,632,2,53,England Women,Natalie Sciver,Shafali Verma,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,234638,-79.50,-30.72,0,0,,38,STRAIGHT BALL,59,FRONTFOOT SQUARE DRIVE,0,0,5,10,91,3,0,0,1,0,0,0,0,0
+190,6,632,2,53,England Women,Natalie Sciver,Shafali Verma,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,234639,100.99,-45.45,1,0,,39,ANGLED IN,37,STEP DOWN FLICK,0,0,6,10,92,3,0,0,1,0,0,0,0,0
+191,7,632,2,53,England Women,Amy Ellen Jones,Shafali Verma,,11,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,234640,-136.13,71.04,2,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,7,10,94,3,0,0,1,0,0,0,0,0
+192,1,632,2,53,England Women,Natalie Sciver,Radha Yadav,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,234641,-36.68,23.15,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,1,11,94,3,1,0,1,0,0,0,0,0
+193,2,632,2,53,England Women,Natalie Sciver,Radha Yadav,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,234642,132.76,-37.17,1,0,,10,ORTHODOX,55,SWEEP SHOT,0,0,2,11,95,3,0,0,1,0,0,0,0,0
+194,3,632,2,53,England Women,Amy Ellen Jones,Radha Yadav,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,234643,132.76,-37.17,0,0,,10,ORTHODOX,55,SWEEP SHOT,0,0,3,11,95,3,0,0,1,0,0,0,0,0
+195,4,632,2,53,England Women,Amy Ellen Jones,Radha Yadav,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,234644,116.18,-34.86,1,0,,10,ORTHODOX,54,LEG GLANCE,0,0,4,11,96,3,0,0,1,0,0,0,0,0
+196,5,632,2,53,England Women,Natalie Sciver,Radha Yadav,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,234645,-35.30,-44.53,0,0,,10,ORTHODOX,44,GLIDE,0,0,5,11,96,3,0,0,1,0,0,0,0,0
+197,6,632,2,53,England Women,Natalie Sciver,Radha Yadav,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,234646,106.51,-47.76,1,0,,10,ORTHODOX,55,SWEEP SHOT,0,0,6,11,97,3,0,0,1,0,0,0,0,0
+198,1,632,2,53,England Women,Natalie Sciver,Renuka Singh,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,234647,68.30,42.95,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,1,12,97,3,1,0,1,0,0,0,0,0
+199,2,632,2,53,England Women,Natalie Sciver,Renuka Singh,,13,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.2,1,1,0,234648,-178.49,-13.68,4,0,,38,STRAIGHT BALL,59,FRONTFOOT SQUARE DRIVE,0,0,2,12,101,3,0,1,2,0,0,1,0,0
+200,3,632,2,53,England Women,Natalie Sciver,Renuka Singh,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,234649,-178.49,-13.68,0,0,,46,LEGCUTTER,51,FRONTFOOT COVERDRIVE,0,0,3,12,101,3,0,0,2,0,0,0,0,0
+201,4,632,2,53,England Women,Natalie Sciver,Renuka Singh,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,234650,-47.27,109.25,1,0,,46,LEGCUTTER,84,FRONTFOOT OFF DRIVE,0,0,4,12,102,3,0,0,2,0,0,0,0,0
+202,5,632,2,53,England Women,Amy Ellen Jones,Renuka Singh,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,234651,-138.44,26.37,1,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,5,12,103,3,0,0,2,0,0,0,0,0
+203,6,632,2,53,England Women,Natalie Sciver,Renuka Singh,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,234652,-123.70,-50.52,1,0,,38,STRAIGHT BALL,59,FRONTFOOT SQUARE DRIVE,0,0,6,12,104,3,0,0,2,0,0,0,0,0
+204,1,632,2,53,England Women,Natalie Sciver,Radha Yadav,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,234653,49.42,159.90,1,0,,10,ORTHODOX,74,STEP DOWN ON DRIVE,0,0,1,13,105,3,1,0,2,0,0,0,0,0
+205,2,632,2,53,England Women,Amy Ellen Jones,Radha Yadav,,14,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.2,1,1,0,234654,-123.24,153.45,4,0,,10,ORTHODOX,5,LOFTED OFF DRIVE,0,0,2,13,109,3,0,0,2,0,0,0,0,0
+206,3,632,2,53,England Women,Amy Ellen Jones,Radha Yadav,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,234655,-132.91,51.70,1,0,,10,ORTHODOX,51,FRONTFOOT COVERDRIVE,0,0,3,13,110,3,0,0,2,0,0,0,0,0
+207,4,632,2,53,England Women,Natalie Sciver,Radha Yadav,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,234656,-81.80,35.58,1,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,4,13,111,3,0,0,2,0,0,0,0,0
+208,5,632,2,53,England Women,Amy Ellen Jones,Radha Yadav,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,234657,-120.02,53.08,1,0,,10,ORTHODOX,51,FRONTFOOT COVERDRIVE,0,0,5,13,112,3,0,0,2,0,0,0,0,0
+209,6,632,2,53,England Women,Natalie Sciver,Radha Yadav,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,234658,-134.29,46.17,1,0,,10,ORTHODOX,52,BACKFOOT COVERDRIVE,0,0,6,13,113,3,0,0,2,0,0,0,0,0
+211,1,632,2,53,England Women,Natalie Sciver,Deepti Sharma,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,234659,138.28,-26.12,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,1,14,114,3,1,0,2,0,0,0,0,0
+212,2,632,2,53,England Women,Amy Ellen Jones,Deepti Sharma,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,234660,-149.49,-7.24,1,0,,25,OFF SPIN,36,CUT SHOT,0,0,2,14,115,3,0,0,2,0,0,0,0,0
+213,3,632,2,53,England Women,Natalie Sciver,Deepti Sharma,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,234661,39.29,-47.29,1,0,,25,OFF SPIN,54,LEG GLANCE,0,0,3,14,116,3,0,0,2,0,0,0,0,0
+214,4,632,2,53,England Women,Amy Ellen Jones,Deepti Sharma,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,234662,39.29,-47.29,0,0,,25,OFF SPIN,35,LATE CUT,0,0,4,14,116,3,0,0,2,0,0,0,0,0
+215,5,632,2,53,England Women,Amy Ellen Jones,Deepti Sharma,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,234663,-48.65,-42.69,0,0,,25,OFF SPIN,56,REVERSE SWEEP,0,0,5,14,116,3,0,0,2,0,0,0,0,0
+216,6,632,2,53,England Women,Amy Ellen Jones,Deepti Sharma,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,234664,54.03,31.44,1,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,6,14,117,3,0,0,2,0,0,0,0,0
+217,1,632,2,53,England Women,Amy Ellen Jones,Shafali Verma,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,234665,34.69,-27.50,1,0,,38,STRAIGHT BALL,99,SCOOP,0,0,1,15,118,3,1,0,2,0,0,0,0,0
+218,2,632,2,53,England Women,Natalie Sciver,Shafali Verma,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,234666,-125.54,75.18,1,0,,38,STRAIGHT BALL,52,BACKFOOT COVERDRIVE,0,0,2,15,119,3,0,0,2,0,0,0,0,0
+219,3,632,2,53,England Women,Amy Ellen Jones,Shafali Verma,,16,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,234667,-122.78,106.95,2,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,3,15,121,3,0,0,2,0,0,0,0,0
+220,4,632,2,53,England Women,Amy Ellen Jones,Shafali Verma,,16,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.4,1,1,0,234668,-177.57,-9.08,4,0,,38,STRAIGHT BALL,59,FRONTFOOT SQUARE DRIVE,0,0,4,15,125,3,0,0,2,0,0,0,0,0
+221,5,632,2,53,England Women,Amy Ellen Jones,Shafali Verma,,16,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.5,1,1,0,234669,-127.38,-94.72,4,0,,38,STRAIGHT BALL,56,REVERSE SWEEP,0,0,5,15,129,3,0,0,2,0,0,0,0,0
+222,6,632,2,53,England Women,Amy Ellen Jones,Shafali Verma,,16,6,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,234670,110.66,-75.84,3,0,,38,STRAIGHT BALL,55,SWEEP SHOT,0,0,6,15,132,3,0,0,2,0,0,0,0,0
+224,1,632,2,53,England Women,Amy Ellen Jones,Deepti Sharma,,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,234671,-48.19,-49.14,0,0,,25,OFF SPIN,56,REVERSE SWEEP,0,0,1,16,132,3,1,0,2,0,0,0,0,0
+225,2,632,2,53,England Women,Amy Ellen Jones,Deepti Sharma,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,234672,-126.00,29.14,1,0,,25,OFF SPIN,89,STEP DOWN COVER DRIVE,0,0,2,16,133,3,0,0,2,0,0,0,0,0
+226,3,632,2,53,England Women,Natalie Sciver,Deepti Sharma,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.3,1,1,0,234673,-42.67,111.55,0,0,,25,OFF SPIN,21,STEP DOWN OFF DRIVE,0,0,3,16,133,3,0,0,2,0,0,0,0,0
+227,4,632,2,53,England Women,Natalie Sciver,Deepti Sharma,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,234674,-25.17,20.39,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,4,16,133,3,0,0,2,0,0,0,0,0
+228,5,632,2,53,England Women,Natalie Sciver,Deepti Sharma,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,234675,119.87,-49.14,1,0,,25,OFF SPIN,40,FRONTFOOT FLICK,0,0,5,16,134,3,0,0,2,0,0,0,0,0
+229,6,632,2,53,England Women,Amy Ellen Jones,Deepti Sharma,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,234676,-80.42,-20.59,1,0,,25,OFF SPIN,36,CUT SHOT,0,0,6,16,135,3,0,0,2,0,0,0,0,0
+231,1,632,2,53,England Women,Amy Ellen Jones,Sneh Rana,,18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,234677,-80.42,-20.59,0,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,1,17,135,3,1,0,2,0,0,0,0,0
+232,2,632,2,53,England Women,Amy Ellen Jones,Sneh Rana,,18,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,17.2,1,1,0,234678,-68.45,55.38,0,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,2,17,135,4,0,0,2,0,0,0,0,0
+233,3,632,2,53,England Women,Natalie Sciver,Sneh Rana,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.3,1,1,0,234679,77.51,137.80,1,0,,25,OFF SPIN,74,STEP DOWN ON DRIVE,0,0,3,17,136,4,0,0,2,0,0,0,0,0
+234,4,632,2,53,England Women,Maia Bouchier,Sneh Rana,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,1,1,0,234680,-139.82,46.63,1,0,,25,OFF SPIN,89,STEP DOWN COVER DRIVE,0,0,4,17,137,4,0,0,2,0,0,0,0,0
+235,5,632,2,53,England Women,Natalie Sciver,Sneh Rana,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,234681,-139.82,46.63,0,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,5,17,137,4,0,0,2,0,0,0,0,0
+236,6,632,2,53,England Women,Natalie Sciver,Sneh Rana,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,234682,96.85,114.78,1,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,6,17,138,4,0,0,2,0,0,0,0,0
+237,1,632,2,53,England Women,Natalie Sciver,Pooja Vastrakar,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,1,1,0,234683,180.18,62.75,1,0,,46,LEGCUTTER,46,FRONTFOOT PULL SHOT,0,0,1,18,139,4,1,0,2,0,0,0,0,0
+238,2,632,2,53,England Women,Maia Bouchier,Pooja Vastrakar,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.2,1,1,0,234684,180.18,62.75,1,0,,46,LEGCUTTER,51,FRONTFOOT COVERDRIVE,0,0,2,18,140,4,0,0,2,0,0,0,0,0
+239,3,632,2,53,England Women,Natalie Sciver,Pooja Vastrakar,,19,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.3,1,1,0,234685,180.18,62.75,6,0,,46,LEGCUTTER,46,FRONTFOOT PULL SHOT,0,0,3,18,146,4,0,0,2,0,0,0,0,0
+240,4,632,2,53,England Women,Natalie Sciver,Pooja Vastrakar,,19,4,4 (LB),4,0,0,0,0,1,4,0,0,0,1,1,0,0,,,0,18.4,1,1,1,234686,180.18,62.75,4,0,,39,ANGLED IN,18,SLOG SHOT,0,0,4,18,150,4,0,1,3,0,0,0,0,0
+241,5,632,2,53,England Women,Natalie Sciver,Pooja Vastrakar,,19,5,1 WK,1,1,1,0,0,0,0,0,0,0,0,0,0,1,Run Out,WICKET,0,18.5,1,1,0,234687,136.44,37.42,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,5,18,151,5,0,0,3,0,0,0,0,0
+242,6,632,2,53,England Women,Katherine Brunt,Pooja Vastrakar,,19,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,234688,136.44,37.42,0,0,,36,BOUNCER,70,STEP DOWN PULL SHOT,1,0,6,18,151,5,0,0,3,0,0,0,0,0
+243,1,632,2,53,England Women,Maia Bouchier,Sneh Rana,,20,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.1,1,1,0,234689,136.44,37.42,0,0,,25,OFF SPIN,61,INSIDE OUT,0,0,1,19,151,5,1,0,3,0,0,0,0,0
+244,2,632,2,53,England Women,Maia Bouchier,Sneh Rana,,20,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,234690,-53.26,112.47,1,0,,25,OFF SPIN,21,STEP DOWN OFF DRIVE,0,0,2,19,152,5,0,0,3,0,0,0,0,0
+245,3,632,2,53,England Women,Katherine Brunt,Sneh Rana,,20,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.3,1,1,0,234691,-53.26,112.47,0,0,,25,OFF SPIN,5,LOFTED OFF DRIVE,0,0,3,19,152,6,1,0,3,0,0,0,0,0
+246,4,632,2,53,England Women,Sophie Ecclestone,Sneh Rana,,20,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.4,1,1,0,234692,66.00,147.47,1,0,,25,OFF SPIN,94,STEP DOWN LOFTED ON DRIVE,0,0,4,19,153,6,2,0,3,0,0,0,0,0
+247,5,632,2,53,England Women,Maia Bouchier,Sneh Rana,,20,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.5,1,1,0,234693,75.67,145.17,1,0,,25,OFF SPIN,74,STEP DOWN ON DRIVE,0,0,5,19,154,6,0,0,3,0,0,0,0,0
+248,6,632,2,53,England Women,Sophie Ecclestone,Sneh Rana,,20,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.6,1,1,0,234694,77.05,199.50,6,0,,25,OFF SPIN,94,STEP DOWN LOFTED ON DRIVE,0,0,6,19,160,6,0,0,3,0,0,0,0,0

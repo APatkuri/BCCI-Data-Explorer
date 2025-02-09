@@ -1,0 +1,253 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,692,1,1,India,K L Rahul,Mitchell Starc,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,254410,-27.93,128.59,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+1,2,692,1,1,India,Rohit Sharma,Mitchell Starc,,1,2,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,0.2,1,1,1,254411,-27.93,128.59,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,0,2,0,0,0,0,0,0,0,0,0
+2,3,692,1,1,India,K L Rahul,Mitchell Starc,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,254412,-27.93,128.59,0,0,,,Knuckleball,105,LEFT ALONE,0,0,3,0,2,0,0,0,0,0,0,0,0,0
+3,4,692,1,1,India,K L Rahul,Mitchell Starc,,1,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,254413,98.69,-61.11,2,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,4,0,4,0,0,0,0,0,0,0,0,0
+4,5,692,1,1,India,K L Rahul,Mitchell Starc,,1,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.5,1,1,0,254414,-184.02,35.12,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,0,8,0,0,0,0,0,0,0,0,0
+5,6,692,1,1,India,K L Rahul,Mitchell Starc,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,254415,-36.68,-49.14,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,0,9,0,0,0,0,0,0,0,0,0
+6,1,692,1,1,India,K L Rahul,Kane Richardson,,2,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,1.1,1,1,1,254416,-36.68,-49.14,1,0,,,Knuckleball,105,LEFT ALONE,0,0,1,1,10,0,1,0,0,0,0,0,0,0
+7,2,692,1,1,India,K L Rahul,Kane Richardson,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,254417,-36.68,-49.14,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,1,10,0,0,0,0,0,0,0,0,0
+8,3,692,1,1,India,K L Rahul,Kane Richardson,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,254418,-36.68,-49.14,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,3,1,10,0,0,0,0,0,0,0,0,0
+9,4,692,1,1,India,K L Rahul,Kane Richardson,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,254419,32.38,33.74,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,1,10,0,0,0,0,0,0,0,0,0
+10,5,692,1,1,India,K L Rahul,Kane Richardson,,2,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.4,1,1,0,254420,-183.56,95.44,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,1,14,0,0,0,0,0,0,0,0,0
+11,6,692,1,1,India,K L Rahul,Kane Richardson,,2,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,1.5,1,1,1,254421,53.10,-7.24,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,1,15,0,0,0,0,0,0,0,0,0
+12,7,692,1,1,India,Rohit Sharma,Kane Richardson,,2,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,1.6,1,1,1,254422,53.10,-7.24,1,0,,,Knuckleball,36,CUT SHOT,0,0,7,1,16,0,0,0,0,0,0,0,0,0
+13,8,692,1,1,India,Rohit Sharma,Kane Richardson,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,254423,-8.13,30.98,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,8,1,16,0,0,0,0,0,0,0,0,0
+14,1,692,1,1,India,K L Rahul,Pat Cummins,,3,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,2.1,1,1,0,254424,176.04,-22.43,6,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,1,2,22,0,1,0,0,0,0,0,0,0
+15,2,692,1,1,India,K L Rahul,Pat Cummins,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,254425,53.56,27.76,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,2,22,0,0,0,0,0,0,0,0,0
+16,3,692,1,1,India,K L Rahul,Pat Cummins,,3,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.3,1,1,0,254426,61.85,-145.37,4,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,3,2,26,0,0,0,0,0,0,0,0,0
+17,4,692,1,1,India,K L Rahul,Pat Cummins,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,254427,47.12,-43.15,0,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,4,2,26,0,0,0,0,0,0,0,0,0
+18,5,692,1,1,India,K L Rahul,Pat Cummins,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,254428,-13.66,22.23,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,2,26,0,0,0,0,0,0,0,0,0
+19,6,692,1,1,India,K L Rahul,Pat Cummins,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,254429,-48.65,-103.01,1,0,,,Knuckleball,44,GLIDE,0,0,6,2,27,0,0,0,0,0,0,0,0,0
+20,1,692,1,1,India,K L Rahul,Marcus Stoinis,,4,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.1,1,1,0,254430,153.94,133.19,4,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ICC-T20-World-Cup-Warm-up-Matches-2022/India-VS-Australia-(17-Oct-2022)/File_1-4-254430.jpg,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,1,3,31,0,1,0,0,0,0,0,0,0
+21,2,692,1,1,India,K L Rahul,Marcus Stoinis,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,254431,-84.56,51.70,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,3,31,0,0,0,0,0,0,0,0,0
+22,3,692,1,1,India,K L Rahul,Marcus Stoinis,,4,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.3,1,1,0,254432,-5.83,217.45,6,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,3,3,37,0,0,0,0,0,0,0,0,0
+23,4,692,1,1,India,K L Rahul,Marcus Stoinis,,4,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.4,1,1,0,254433,48.50,-150.43,4,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,4,3,41,0,0,0,0,0,0,0,0,0
+24,5,692,1,1,India,K L Rahul,Marcus Stoinis,,4,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,254434,103.75,70.12,2,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,5,3,43,0,0,0,0,0,0,0,0,0
+25,6,692,1,1,India,K L Rahul,Marcus Stoinis,,4,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.6,1,1,0,254435,184.33,11.18,4,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,6,3,47,0,0,0,0,0,0,0,0,0
+26,1,692,1,1,India,Rohit Sharma,Pat Cummins,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,254436,87.18,-7.70,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,4,48,0,1,0,0,0,0,0,0,0
+27,2,692,1,1,India,K L Rahul,Pat Cummins,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,254437,87.18,-7.70,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,4,48,0,0,0,0,0,0,0,0,0
+28,3,692,1,1,India,K L Rahul,Pat Cummins,,5,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,4.3,1,1,1,254438,87.18,-7.70,1,0,,,Knuckleball,105,LEFT ALONE,0,0,3,4,49,0,0,0,0,0,0,0,0,0
+29,4,692,1,1,India,K L Rahul,Pat Cummins,,5,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,4.3,1,1,0,254439,176.04,51.24,6,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,4,4,55,0,0,1,1,0,1,0,0,0
+30,5,692,1,1,India,K L Rahul,Pat Cummins,,5,4,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,4.4,1,1,1,254440,176.04,51.24,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,5,4,56,0,0,0,1,0,0,0,0,0
+31,6,692,1,1,India,Rohit Sharma,Pat Cummins,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,254441,176.04,51.24,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,4,56,0,0,0,1,0,0,0,0,0
+32,7,692,1,1,India,Rohit Sharma,Pat Cummins,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,254442,176.04,51.24,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,7,4,56,0,0,0,1,0,0,0,0,0
+33,1,692,1,1,India,K L Rahul,Glenn Maxwell,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,254443,-40.36,10.72,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,5,56,0,1,0,1,0,0,0,0,0
+34,2,692,1,1,India,K L Rahul,Glenn Maxwell,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,254444,100.07,93.14,1,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ICC-T20-World-Cup-Warm-up-Matches-2022/India-VS-Australia-(17-Oct-2022)/File_1-6-254444.jpg,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,2,5,57,0,0,0,1,0,0,0,0,0
+35,3,692,1,1,India,Rohit Sharma,Glenn Maxwell,,6,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,254445,90.40,130.43,2,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,3,5,59,0,0,0,1,0,0,0,0,0
+36,4,692,1,1,India,Rohit Sharma,Glenn Maxwell,,6,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,5.4,1,1,0,254446,126.31,174.63,6,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,4,5,65,0,0,0,1,0,0,0,0,0
+37,5,692,1,1,India,Rohit Sharma,Glenn Maxwell,,6,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.5,1,1,0,254447,5.68,211.47,4,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,5,5,69,0,0,0,1,0,0,0,0,0
+38,6,692,1,1,India,Rohit Sharma,Glenn Maxwell,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,254448,-75.82,-10.46,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,5,69,0,0,0,1,0,0,0,0,0
+39,1,692,1,1,India,K L Rahul,Ashton Agar,,7,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,254449,136.90,-27.04,2,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,1,6,71,0,1,0,1,0,0,0,0,0
+40,2,692,1,1,India,K L Rahul,Ashton Agar,,7,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,254450,-20.56,36.04,2,0,,,Knuckleball,59,FRONTFOOT SQUARE DRIVE,0,0,2,6,73,0,0,0,1,0,0,0,0,0
+41,3,692,1,1,India,K L Rahul,Ashton Agar,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,254451,-20.56,36.04,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,3,6,74,0,0,0,1,0,0,0,0,0
+42,4,692,1,1,India,Rohit Sharma,Ashton Agar,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,254452,-20.56,36.04,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,6,74,0,0,0,1,0,0,0,0,0
+43,5,692,1,1,India,Rohit Sharma,Ashton Agar,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,254453,121.71,-9.08,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,6,75,0,0,0,1,0,0,0,0,0
+44,6,692,1,1,India,K L Rahul,Ashton Agar,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,254454,121.71,-9.08,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,6,6,75,0,0,0,1,0,0,0,0,0
+45,1,692,1,1,India,Rohit Sharma,Glenn Maxwell,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,254455,-70.75,79.32,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,7,76,0,1,0,1,0,0,0,0,0
+46,2,692,1,1,India,K L Rahul,Glenn Maxwell,,8,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,254456,106.97,88.07,2,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,7,78,0,0,0,1,0,0,0,0,0
+47,3,692,1,1,India,K L Rahul,Glenn Maxwell,,8,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,7.3,1,1,0,254457,106.97,88.07,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,3,7,78,1,1,0,1,0,0,0,0,0
+48,4,692,1,1,India,Virat Kohli,Glenn Maxwell,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,254458,-62.46,87.61,0,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,4,7,78,1,2,0,1,0,0,0,0,0
+49,5,692,1,1,India,Virat Kohli,Glenn Maxwell,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,254459,-80.42,130.89,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,5,7,79,1,0,0,1,0,0,0,0,0
+50,6,692,1,1,India,Rohit Sharma,Glenn Maxwell,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,254460,-85.49,-13.22,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,7,79,1,0,0,1,0,0,0,0,0
+51,1,692,1,1,India,Virat Kohli,Ashton Agar,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,254461,89.94,-42.69,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,8,80,1,1,0,1,0,0,0,0,0
+52,2,692,1,1,India,Rohit Sharma,Ashton Agar,,9,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,8.2,1,1,0,254462,89.94,-42.69,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,2,8,80,2,2,0,1,0,0,0,0,0
+53,3,692,1,1,India,Suryakumar Yadav,Ashton Agar,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,254463,-69.37,-24.27,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,8,80,2,3,0,1,0,0,0,0,0
+54,4,692,1,1,India,Suryakumar Yadav,Ashton Agar,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,254464,124.93,-42.69,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,8,81,2,0,0,1,0,0,0,0,0
+55,5,692,1,1,India,Virat Kohli,Ashton Agar,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,254465,94.08,-5.40,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,8,82,2,0,0,1,0,0,0,0,0
+56,6,692,1,1,India,Suryakumar Yadav,Ashton Agar,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,254466,-59.70,-10.92,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,8,82,2,0,0,1,0,0,0,0,0
+57,1,692,1,1,India,Virat Kohli,Tim David,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,254467,82.57,124.45,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,9,83,2,1,0,1,0,0,0,0,0
+58,2,692,1,1,India,Suryakumar Yadav,Tim David,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,254468,-83.18,-25.65,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,9,84,2,0,0,1,0,0,0,0,0
+59,3,692,1,1,India,Virat Kohli,Tim David,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,254469,88.10,120.30,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,3,9,85,2,0,0,1,0,0,0,0,0
+60,4,692,1,1,India,Suryakumar Yadav,Tim David,,10,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,254470,-142.58,46.17,2,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,9,87,2,0,0,1,0,0,0,0,0
+61,5,692,1,1,India,Suryakumar Yadav,Tim David,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,254471,86.72,135.50,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,5,9,88,2,0,0,1,0,0,0,0,0
+62,6,692,1,1,India,Virat Kohli,Tim David,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,254472,-80.42,128.59,1,0,,,Knuckleball,122,STEP DOWN LOFTED OFF DRIVE,0,0,6,9,89,2,0,0,1,0,0,0,0,0
+63,1,692,1,1,India,Virat Kohli,Ashton Agar,,11,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,10.1,1,1,0,254473,-66.61,205.48,6,0,,,Knuckleball,122,STEP DOWN LOFTED OFF DRIVE,0,0,1,10,95,2,1,0,1,0,0,0,0,0
+64,2,692,1,1,India,Virat Kohli,Ashton Agar,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,254474,-131.07,31.44,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,10,96,2,0,0,1,0,0,0,0,0
+65,3,692,1,1,India,Suryakumar Yadav,Ashton Agar,,11,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.3,1,1,0,254475,-155.47,133.19,4,0,,,Knuckleball,61,INSIDE OUT,0,0,3,10,100,2,0,1,2,0,0,1,0,0
+66,4,692,1,1,India,Suryakumar Yadav,Ashton Agar,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,254476,-79.04,-31.18,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,10,100,2,0,0,2,0,0,0,0,0
+67,5,692,1,1,India,Suryakumar Yadav,Ashton Agar,,11,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.5,1,1,0,254477,-182.18,-32.10,4,0,,,Knuckleball,59,FRONTFOOT SQUARE DRIVE,0,0,5,10,104,2,0,0,2,0,0,0,0,0
+68,6,692,1,1,India,Suryakumar Yadav,Ashton Agar,,11,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,254478,-110.81,111.09,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,10,106,2,0,0,2,0,0,0,0,0
+69,1,692,1,1,India,Virat Kohli,Glenn Maxwell,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,254479,-68.45,138.26,1,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,1,11,107,2,1,0,2,0,0,0,0,0
+70,2,692,1,1,India,Suryakumar Yadav,Glenn Maxwell,,12,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,254480,50.80,-111.29,2,0,,,Knuckleball,99,SCOOP,0,0,2,11,109,2,0,0,2,0,0,0,0,0
+71,3,692,1,1,India,Suryakumar Yadav,Glenn Maxwell,,12,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,11.3,1,1,1,254481,50.80,-111.29,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,11,110,2,0,0,2,0,0,0,0,0
+72,4,692,1,1,India,Suryakumar Yadav,Glenn Maxwell,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,254482,127.23,-43.15,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,11,111,2,0,0,2,0,0,0,0,0
+73,5,692,1,1,India,Virat Kohli,Glenn Maxwell,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,254483,62.77,136.42,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,5,11,112,2,0,0,2,0,0,0,0,0
+74,6,692,1,1,India,Suryakumar Yadav,Glenn Maxwell,,12,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.5,1,1,0,254484,-139.82,-85.97,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,6,11,116,2,0,0,2,0,0,0,0,0
+75,7,692,1,1,India,Suryakumar Yadav,Glenn Maxwell,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,254485,129.08,-20.59,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,7,11,117,2,0,0,2,0,0,0,0,0
+76,1,692,1,1,India,Suryakumar Yadav,Mitchell Starc,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,254486,-129.69,35.58,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,12,118,2,1,0,2,0,0,0,0,0
+77,2,692,1,1,India,Virat Kohli,Mitchell Starc,,13,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.2,1,1,0,254487,-98.38,182.46,4,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,2,12,122,2,0,0,2,0,0,0,0,0
+78,3,692,1,1,India,Virat Kohli,Mitchell Starc,,13,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,12.3,1,1,0,254488,-98.38,182.46,0,0,,,Knuckleball,57,HOOK SHOT,0,0,3,12,122,3,1,0,2,0,0,0,0,0
+79,4,692,1,1,India,Hardik Pandya,Mitchell Starc,,13,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,254489,-98.38,182.46,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,12,122,3,2,0,2,0,0,0,0,0
+80,5,692,1,1,India,Hardik Pandya,Mitchell Starc,,13,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,12.5,1,1,1,254490,-98.38,182.46,1,0,,,Knuckleball,105,LEFT ALONE,0,0,5,12,123,3,0,0,2,0,0,0,0,0
+81,6,692,1,1,India,Hardik Pandya,Mitchell Starc,,13,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,12.5,1,1,1,254491,-98.38,182.46,1,0,,,Knuckleball,105,LEFT ALONE,0,0,6,12,124,3,0,0,2,0,0,0,0,0
+82,7,692,1,1,India,Hardik Pandya,Mitchell Starc,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,254492,-98.38,182.46,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,7,12,124,3,0,0,2,0,0,0,0,0
+83,8,692,1,1,India,Hardik Pandya,Mitchell Starc,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,254493,-51.41,-99.32,1,0,,,Knuckleball,44,GLIDE,0,0,8,12,125,3,0,0,2,0,0,0,0,0
+84,1,692,1,1,India,Hardik Pandya,Kane Richardson,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,254494,-141.66,-10.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,13,126,3,1,0,2,0,0,0,0,0
+85,2,692,1,1,India,Suryakumar Yadav,Kane Richardson,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,254495,-141.66,-10.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,13,126,3,0,0,2,0,0,0,0,0
+86,3,692,1,1,India,Suryakumar Yadav,Kane Richardson,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,254496,-140.28,22.23,1,0,,,Knuckleball,61,INSIDE OUT,0,0,3,13,127,3,0,0,2,0,0,0,0,0
+87,4,692,1,1,India,Hardik Pandya,Kane Richardson,,14,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,13.4,1,1,0,254497,-140.28,22.23,0,0,,,Knuckleball,31,UPPER CUT,0,0,4,13,127,4,1,0,2,0,0,0,0,0
+88,5,692,1,1,India,Dinesh Karthik,Kane Richardson,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,254498,-16.88,52.62,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,13,127,4,2,0,2,0,0,0,0,0
+89,6,692,1,1,India,Dinesh Karthik,Kane Richardson,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,254499,-36.22,-113.60,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,13,128,4,0,0,2,0,0,0,0,0
+90,1,692,1,1,India,Dinesh Karthik,Ashton Agar,,15,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,254500,130.46,-32.10,2,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,14,130,4,1,0,2,0,0,0,0,0
+91,2,692,1,1,India,Dinesh Karthik,Ashton Agar,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,254501,141.97,36.04,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,14,131,4,0,0,2,0,0,0,0,0
+92,3,692,1,1,India,Suryakumar Yadav,Ashton Agar,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,254502,134.60,73.80,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,14,132,4,0,0,2,0,0,0,0,0
+93,4,692,1,1,India,Dinesh Karthik,Ashton Agar,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,254503,-24.71,15.78,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,14,132,4,0,0,2,0,0,0,0,0
+94,5,692,1,1,India,Dinesh Karthik,Ashton Agar,,15,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,14.5,1,1,0,254504,152.56,-85.51,6,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,5,14,138,4,0,0,2,0,0,0,0,0
+95,6,692,1,1,India,Dinesh Karthik,Ashton Agar,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,254505,-10.90,58.60,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,14,138,4,0,0,2,0,0,0,0,0
+96,1,692,1,1,India,Suryakumar Yadav,Marcus Stoinis,,16,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.1,1,1,0,254506,36.53,-140.76,4,0,,,Knuckleball,99,SCOOP,0,0,1,15,142,4,1,0,2,0,0,0,0,0
+97,2,692,1,1,India,Suryakumar Yadav,Marcus Stoinis,,16,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,15.2,1,1,1,254507,36.53,-140.76,1,0,,,Knuckleball,105,LEFT ALONE,0,0,2,15,143,4,0,0,2,0,0,0,0,0
+98,3,692,1,1,India,Suryakumar Yadav,Marcus Stoinis,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,254508,123.09,-18.75,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,15,144,4,0,0,2,0,0,0,0,0
+99,4,692,1,1,India,Dinesh Karthik,Marcus Stoinis,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,254509,87.64,-91.04,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,4,15,145,4,0,0,2,0,0,0,0,0
+100,5,692,1,1,India,Suryakumar Yadav,Marcus Stoinis,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,254510,48.96,140.10,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,5,15,146,4,0,0,2,0,0,0,0,0
+101,6,692,1,1,India,Dinesh Karthik,Marcus Stoinis,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,254511,48.96,140.10,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,6,15,146,4,0,0,2,0,0,0,0,0
+102,7,692,1,1,India,Dinesh Karthik,Marcus Stoinis,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,254512,91.78,-69.40,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,7,15,147,4,0,0,2,0,0,0,0,0
+103,1,692,1,1,India,Dinesh Karthik,Kane Richardson,,17,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,254513,124.93,14.86,2,0,,,Knuckleball,18,SLOG SHOT,0,0,1,16,149,4,1,0,2,0,0,0,0,0
+104,2,692,1,1,India,Dinesh Karthik,Kane Richardson,,17,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,254514,-133.83,-36.24,2,0,,,Knuckleball,59,FRONTFOOT SQUARE DRIVE,0,0,2,16,151,4,0,1,3,0,0,0,0,0
+105,3,692,1,1,India,Dinesh Karthik,Kane Richardson,,17,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.3,1,1,0,254515,-160.08,-60.65,4,0,,,Knuckleball,36,CUT SHOT,0,0,3,16,155,4,0,0,3,0,0,0,0,0
+106,4,692,1,1,India,Dinesh Karthik,Kane Richardson,,17,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,16.4,1,1,0,254516,-160.08,-60.65,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,16,155,5,1,0,3,0,0,0,0,0
+107,5,692,1,1,India,Axar Patel,Kane Richardson,,17,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,254517,-110.81,9.34,2,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,16,157,5,2,0,3,0,0,0,0,0
+108,6,692,1,1,India,Axar Patel,Kane Richardson,,17,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,254518,-110.81,9.34,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,6,16,157,5,0,0,3,0,0,0,0,0
+109,1,692,1,1,India,Suryakumar Yadav,Pat Cummins,,18,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,254519,94.54,84.39,2,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,17,159,5,1,0,3,0,0,0,0,0
+110,2,692,1,1,India,Suryakumar Yadav,Pat Cummins,,18,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.2,1,1,0,254520,7.52,-141.22,4,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,2,17,163,5,0,0,3,0,0,0,0,0
+111,3,692,1,1,India,Suryakumar Yadav,Pat Cummins,,18,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.3,1,1,0,254521,7.52,-141.22,0,0,,,Knuckleball,89,STEP DOWN COVER DRIVE,0,0,3,17,163,5,0,0,3,0,0,0,0,0
+112,4,692,1,1,India,Suryakumar Yadav,Pat Cummins,,18,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.4,1,1,0,254522,-0.77,211.01,6,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,4,17,169,5,0,0,3,0,0,0,0,0
+113,5,692,1,1,India,Suryakumar Yadav,Pat Cummins,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,254523,144.73,20.39,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,17,170,5,0,0,3,0,0,0,0,0
+114,6,692,1,1,India,Axar Patel,Pat Cummins,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,254524,86.72,8.42,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,17,171,5,0,0,3,0,0,0,0,0
+115,1,692,1,1,India,Axar Patel,Mitchell Starc,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,1,1,0,254525,83.95,-10.92,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,18,172,5,1,0,3,0,0,0,0,0
+116,2,692,1,1,India,Suryakumar Yadav,Mitchell Starc,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.2,1,1,0,254526,-77.20,-6.78,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,18,173,5,0,0,3,0,0,0,0,0
+117,3,692,1,1,India,Axar Patel,Mitchell Starc,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,254527,-131.07,-52.36,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,18,174,5,0,0,3,0,0,0,0,0
+118,4,692,1,1,India,Suryakumar Yadav,Mitchell Starc,,19,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,18.4,1,1,1,254528,-131.07,-52.36,1,0,,,Knuckleball,105,LEFT ALONE,0,0,4,18,175,5,0,0,3,0,0,0,0,0
+119,5,692,1,1,India,Suryakumar Yadav,Mitchell Starc,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.4,1,1,0,254529,-131.07,-52.36,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,18,175,5,0,0,3,0,0,0,0,0
+120,6,692,1,1,India,Suryakumar Yadav,Mitchell Starc,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,254530,-131.07,-52.36,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,6,18,175,5,0,0,3,0,0,0,0,0
+121,7,692,1,1,India,Suryakumar Yadav,Mitchell Starc,,19,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,254531,-131.07,-52.36,0,0,,,Knuckleball,36,CUT SHOT,0,0,7,18,175,5,0,0,3,0,0,0,0,0
+122,1,692,1,1,India,Axar Patel,Kane Richardson,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.1,1,1,0,254532,66.00,152.53,1,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,1,19,176,5,1,0,3,0,0,0,0,0
+123,2,692,1,1,India,Suryakumar Yadav,Kane Richardson,,20,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,254533,66.00,152.53,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,2,19,176,5,0,0,3,0,0,0,0,0
+124,3,692,1,1,India,Suryakumar Yadav,Kane Richardson,,20,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.3,1,1,0,254534,-173.89,122.14,4,0,,,Knuckleball,114,STEP DOWN LOFTED COVER DRIVE,0,0,3,19,180,5,0,0,3,0,0,0,0,0
+125,4,692,1,1,India,Suryakumar Yadav,Kane Richardson,,20,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught & Bowled,WICKET,1,19.4,1,1,0,254535,-173.89,122.14,0,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,4,19,180,6,1,0,3,0,0,0,0,0
+126,5,692,1,1,India,Ravichandran Ashwin,Kane Richardson,,20,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.5,1,1,0,254536,-145.80,-71.70,6,0,,,Knuckleball,31,UPPER CUT,0,0,5,19,186,6,2,0,3,0,0,0,0,0
+127,6,692,1,1,India,Ravichandran Ashwin,Kane Richardson,,20,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.6,1,1,0,254537,-145.80,-71.70,0,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,6,19,186,7,3,0,3,0,0,0,0,0
+128,1,692,2,2,Australia,Mitchell Marsh,Bhuvneshwar Kumar,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,254538,,,0,0,,,Knuckleball,105,LEFT ALONE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+129,2,692,2,2,Australia,Mitchell Marsh,Bhuvneshwar Kumar,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,254539,,,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+130,3,692,2,2,Australia,Mitchell Marsh,Bhuvneshwar Kumar,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,254540,-77.20,-7.24,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+131,4,692,2,2,Australia,Mitchell Marsh,Bhuvneshwar Kumar,,1,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.4,1,1,0,254541,-166.52,-40.39,4,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,4,0,4,0,0,0,0,0,0,0,0,0
+132,5,692,2,2,Australia,Mitchell Marsh,Bhuvneshwar Kumar,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,254542,-23.33,13.94,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,0,4,0,0,0,0,0,0,0,0,0
+133,6,692,2,2,Australia,Mitchell Marsh,Bhuvneshwar Kumar,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,254543,-23.33,13.94,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,0,4,0,0,0,0,0,0,0,0,0
+134,1,692,2,2,Australia,Aaron Finch,Arshdeep Singh,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,254544,-23.33,13.94,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,1,4,0,1,0,0,0,0,0,0,0
+135,2,692,2,2,Australia,Aaron Finch,Arshdeep Singh,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,254545,-23.33,13.94,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,1,4,0,0,0,0,0,0,0,0,0
+136,3,692,2,2,Australia,Aaron Finch,Arshdeep Singh,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,254546,-23.33,13.94,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,1,4,0,0,0,0,0,0,0,0,0
+137,4,692,2,2,Australia,Aaron Finch,Arshdeep Singh,,2,4,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,1.4,1,1,1,254547,-23.33,13.94,1,0,,,Knuckleball,54,LEG GLANCE,0,0,4,1,5,0,0,0,0,0,0,0,0,0
+138,5,692,2,2,Australia,Mitchell Marsh,Arshdeep Singh,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,254548,-23.33,13.94,0,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,5,1,5,0,0,0,0,0,0,0,0,0
+139,6,692,2,2,Australia,Mitchell Marsh,Arshdeep Singh,,2,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.6,1,1,0,254549,-6.29,213.31,4,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,6,1,9,0,0,0,0,0,0,0,0,0
+140,1,692,2,2,Australia,Aaron Finch,Hardik Pandya,,3,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.1,1,1,0,254550,-160.54,-36.71,4,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,1,2,13,0,1,0,0,0,0,0,0,0
+141,2,692,2,2,Australia,Aaron Finch,Hardik Pandya,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,254551,-91.47,-80.45,1,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,2,2,14,0,0,0,0,0,0,0,0,0
+142,3,692,2,2,Australia,Mitchell Marsh,Hardik Pandya,,3,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.3,1,1,0,254552,-42.21,-148.13,4,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,2,18,0,0,0,0,0,0,0,0,0
+143,4,692,2,2,Australia,Mitchell Marsh,Hardik Pandya,,3,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,2.4,1,1,0,254553,-0.77,-155.50,6,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,4,2,24,0,0,0,0,0,0,0,0,0
+144,5,692,2,2,Australia,Mitchell Marsh,Hardik Pandya,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,254554,-14.12,14.40,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,2,24,0,0,0,0,0,0,0,0,0
+145,6,692,2,2,Australia,Mitchell Marsh,Hardik Pandya,,3,6,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,254555,154.40,-21.97,3,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,6,2,27,0,0,0,0,0,0,0,0,0
+146,1,692,2,2,Australia,Mitchell Marsh,Harshal Patel,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,254556,80.27,73.80,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,3,28,0,1,0,0,0,0,0,0,0
+147,2,692,2,2,Australia,Aaron Finch,Harshal Patel,,4,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.2,1,1,0,254557,-117.72,169.57,4,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,2,3,32,0,0,0,0,0,0,0,0,0
+148,3,692,2,2,Australia,Aaron Finch,Harshal Patel,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,254558,-117.72,169.57,0,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,3,32,0,0,0,0,0,0,0,0,0
+149,4,692,2,2,Australia,Aaron Finch,Harshal Patel,,4,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.4,1,1,0,254559,184.79,-16.45,6,0,,,Knuckleball,18,SLOG SHOT,0,0,4,3,38,0,0,0,0,0,0,0,0,0
+150,5,692,2,2,Australia,Aaron Finch,Harshal Patel,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,254560,184.79,-16.45,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,3,38,0,0,0,0,0,0,0,0,0
+151,6,692,2,2,Australia,Aaron Finch,Harshal Patel,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,254561,184.79,-16.45,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,3,38,0,0,0,0,0,0,0,0,0
+152,1,692,2,2,Australia,Mitchell Marsh,Ravichandran Ashwin,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,254562,100.99,97.74,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,4,39,0,1,0,0,0,0,0,0,0
+153,2,692,2,2,Australia,Aaron Finch,Ravichandran Ashwin,,5,2,5 (WD),5,0,0,0,0,0,5,1,0,0,0,1,0,0,,,0,4.2,1,1,1,254563,100.99,97.74,5,0,,,Knuckleball,105,LEFT ALONE,0,0,2,4,44,0,0,0,0,0,0,0,0,0
+154,3,692,2,2,Australia,Aaron Finch,Ravichandran Ashwin,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,254564,100.99,97.74,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,4,44,0,0,0,0,0,0,0,0,0
+155,4,692,2,2,Australia,Aaron Finch,Ravichandran Ashwin,,5,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.3,1,1,0,254565,-156.39,129.97,4,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,4,4,48,0,0,0,0,0,0,0,0,0
+156,5,692,2,2,Australia,Aaron Finch,Ravichandran Ashwin,,5,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.4,1,1,0,254566,-135.21,154.83,4,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,5,4,52,0,0,1,1,0,1,0,0,0
+157,6,692,2,2,Australia,Aaron Finch,Ravichandran Ashwin,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,254567,-71.21,-22.43,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,4,52,0,0,0,1,0,0,0,0,0
+158,7,692,2,2,Australia,Aaron Finch,Ravichandran Ashwin,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,254568,-71.21,-22.43,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,7,4,52,0,0,0,1,0,0,0,0,0
+159,1,692,2,2,Australia,Mitchell Marsh,Bhuvneshwar Kumar,,6,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.1,1,1,0,254569,107.44,170.95,4,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,1,5,56,0,1,0,1,0,0,0,0,0
+160,2,692,2,2,Australia,Mitchell Marsh,Bhuvneshwar Kumar,,6,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,5.2,1,1,0,254570,155.78,139.64,6,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,5,62,0,0,0,1,0,0,0,0,0
+161,3,692,2,2,Australia,Mitchell Marsh,Bhuvneshwar Kumar,,6,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,254571,-112.65,-47.76,2,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,3,5,64,0,0,0,1,0,0,0,0,0
+162,4,692,2,2,Australia,Mitchell Marsh,Bhuvneshwar Kumar,,6,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,5.4,1,1,0,254572,-112.65,-47.76,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,5,64,1,1,0,1,0,0,0,0,0
+163,5,692,2,2,Australia,Steven Smith,Bhuvneshwar Kumar,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,254573,-80.88,37.42,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,5,64,1,2,0,1,0,0,0,0,0
+164,6,692,2,2,Australia,Steven Smith,Bhuvneshwar Kumar,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,254574,29.16,66.43,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,5,64,1,0,0,1,0,0,0,0,0
+165,1,692,2,2,Australia,Aaron Finch,Ravichandran Ashwin,,7,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,6.1,1,1,1,254575,-21.03,-44.99,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,6,65,1,1,0,1,0,0,0,0,0
+166,2,692,2,2,Australia,Steven Smith,Ravichandran Ashwin,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,254576,73.82,-18.75,1,0,,,Knuckleball,54,LEG GLANCE,0,0,2,6,66,1,0,0,1,0,0,0,0,0
+167,3,692,2,2,Australia,Aaron Finch,Ravichandran Ashwin,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,254577,116.18,0.59,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,3,6,67,1,0,0,1,0,0,0,0,0
+168,4,692,2,2,Australia,Steven Smith,Ravichandran Ashwin,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,254578,-132.45,-5.86,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,6,68,1,0,0,1,0,0,0,0,0
+169,5,692,2,2,Australia,Aaron Finch,Ravichandran Ashwin,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,254579,77.05,-30.26,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,6,69,1,0,0,1,0,0,0,0,0
+170,6,692,2,2,Australia,Steven Smith,Ravichandran Ashwin,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,254580,-14.58,48.94,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,6,69,1,0,0,1,0,0,0,0,0
+171,1,692,2,2,Australia,Aaron Finch,Hardik Pandya,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,254581,38.37,56.30,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,7,69,1,1,0,1,0,0,0,0,0
+172,2,692,2,2,Australia,Aaron Finch,Hardik Pandya,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,254582,41.13,-3.09,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,7,70,1,0,0,1,0,0,0,0,0
+173,3,692,2,2,Australia,Steven Smith,Hardik Pandya,,8,3,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,7.3,1,1,1,254583,33.77,22.23,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,3,7,71,1,0,0,1,0,0,0,0,0
+174,4,692,2,2,Australia,Aaron Finch,Hardik Pandya,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,254584,33.77,22.23,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,7,71,1,0,0,1,0,0,0,0,0
+175,5,692,2,2,Australia,Aaron Finch,Hardik Pandya,,8,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.5,1,1,0,254585,155.78,-53.74,4,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,5,7,75,1,0,0,1,0,0,0,0,0
+176,6,692,2,2,Australia,Aaron Finch,Hardik Pandya,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,254586,146.57,51.24,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,6,7,76,1,0,0,1,0,0,0,0,0
+177,1,692,2,2,Australia,Aaron Finch,Ravichandran Ashwin,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,254587,26.86,43.87,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,8,76,1,1,0,1,0,0,0,0,0
+178,2,692,2,2,Australia,Aaron Finch,Ravichandran Ashwin,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,254588,30.08,50.78,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,8,76,1,0,0,1,0,0,0,0,0
+179,3,692,2,2,Australia,Aaron Finch,Ravichandran Ashwin,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,254589,-7.67,61.37,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,8,76,1,0,0,1,0,0,0,0,0
+180,4,692,2,2,Australia,Aaron Finch,Ravichandran Ashwin,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,254590,-98.84,-7.24,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,8,77,1,0,0,1,0,0,0,0,0
+181,5,692,2,2,Australia,Steven Smith,Ravichandran Ashwin,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,254591,138.74,33.28,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,5,8,78,1,0,0,1,0,0,0,0,0
+182,6,692,2,2,Australia,Aaron Finch,Ravichandran Ashwin,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,254592,67.84,-40.85,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,8,79,1,0,0,1,0,0,0,0,0
+183,1,692,2,2,Australia,Aaron Finch,Harshal Patel,,10,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,9.1,1,1,0,254593,173.74,-5.86,6,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,9,85,1,1,0,1,0,0,0,0,0
+184,2,692,2,2,Australia,Aaron Finch,Harshal Patel,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,254594,-121.40,14.40,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,9,86,1,0,0,1,0,0,0,0,0
+185,3,692,2,2,Australia,Steven Smith,Harshal Patel,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,254595,-62.46,-15.99,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,9,86,1,0,0,1,0,0,0,0,0
+186,4,692,2,2,Australia,Steven Smith,Harshal Patel,,10,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,9.4,1,1,0,254596,180.64,-33.48,6,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,4,9,92,1,0,0,1,0,0,0,0,0
+187,5,692,2,2,Australia,Steven Smith,Harshal Patel,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,254597,87.64,13.48,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,9,93,1,0,0,1,0,0,0,0,0
+188,6,692,2,2,Australia,Aaron Finch,Harshal Patel,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,254598,90.86,131.35,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,6,9,94,1,0,0,1,0,0,0,0,0
+189,1,692,2,2,Australia,Aaron Finch,Yuzvendra Chahal,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,254599,-99.76,44.79,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,10,95,1,1,0,1,0,0,0,0,0
+190,2,692,2,2,Australia,Steven Smith,Yuzvendra Chahal,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,254600,-138.44,34.66,1,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,2,10,96,1,0,0,1,0,0,0,0,0
+191,3,692,2,2,Australia,Aaron Finch,Yuzvendra Chahal,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,254601,-138.44,34.66,1,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,10,97,1,0,0,1,0,0,0,0,0
+192,4,692,2,2,Australia,Steven Smith,Yuzvendra Chahal,,11,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,10.4,1,1,0,254602,-138.44,34.66,0,0,,,Knuckleball,61,INSIDE OUT,0,0,4,10,97,2,1,0,1,0,0,0,0,0
+193,5,692,2,2,Australia,Glenn Maxwell,Yuzvendra Chahal,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,254603,-1.69,65.05,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,10,97,2,2,0,1,0,0,0,0,0
+194,6,692,2,2,Australia,Glenn Maxwell,Yuzvendra Chahal,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,254604,-1.69,65.05,0,0,,,Knuckleball,35,LATE CUT,0,0,6,10,97,2,0,0,1,0,0,0,0,0
+195,1,692,2,2,Australia,Aaron Finch,Hardik Pandya,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,254605,117.10,-47.76,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,1,11,98,2,1,0,1,0,0,0,0,0
+196,2,692,2,2,Australia,Glenn Maxwell,Hardik Pandya,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,254606,32.38,88.53,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,11,98,2,0,0,1,0,0,0,0,0
+197,3,692,2,2,Australia,Glenn Maxwell,Hardik Pandya,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,254607,5.22,43.41,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,11,98,2,0,0,1,0,0,0,0,0
+198,4,692,2,2,Australia,Glenn Maxwell,Hardik Pandya,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,254608,-53.72,-109.45,1,0,,,Knuckleball,35,LATE CUT,0,0,4,11,99,2,0,0,1,0,0,0,0,0
+199,5,692,2,2,Australia,Aaron Finch,Hardik Pandya,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,254609,143.81,96.36,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,5,11,100,2,0,1,2,0,0,1,0,0
+200,6,692,2,2,Australia,Glenn Maxwell,Hardik Pandya,,12,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,254610,116.64,21.77,2,0,,,Knuckleball,57,HOOK SHOT,0,0,6,11,102,2,0,0,2,0,0,0,0,0
+201,1,692,2,2,Australia,Aaron Finch,Yuzvendra Chahal,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,254611,-105.28,48.01,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,12,103,2,1,0,2,0,0,0,0,0
+202,2,692,2,2,Australia,Glenn Maxwell,Yuzvendra Chahal,,13,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.2,1,1,0,254612,-174.35,103.73,4,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,2,12,107,2,0,0,2,0,0,0,0,0
+203,3,692,2,2,Australia,Glenn Maxwell,Yuzvendra Chahal,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,254613,67.84,-37.17,1,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,12,108,2,0,0,2,0,0,0,0,0
+204,4,692,2,2,Australia,Aaron Finch,Yuzvendra Chahal,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,254614,60.01,146.55,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,4,12,109,2,0,0,2,0,0,0,0,0
+205,5,692,2,2,Australia,Glenn Maxwell,Yuzvendra Chahal,,13,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.5,1,1,0,254615,-146.72,142.40,4,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,5,12,113,2,0,0,2,0,0,0,0,0
+206,6,692,2,2,Australia,Glenn Maxwell,Yuzvendra Chahal,,13,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.6,1,1,0,254616,-139.36,142.40,4,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,6,12,117,2,0,0,2,0,0,0,0,0
+207,1,692,2,2,Australia,Aaron Finch,Arshdeep Singh,,14,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,13.1,1,1,1,254617,-139.36,142.40,1,0,,,Knuckleball,105,LEFT ALONE,0,0,1,13,118,2,1,0,2,0,0,0,0,0
+208,2,692,2,2,Australia,Aaron Finch,Arshdeep Singh,,14,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,254618,-139.36,-61.57,2,0,,,Knuckleball,36,CUT SHOT,0,0,2,13,120,2,0,0,2,0,0,0,0,0
+209,3,692,2,2,Australia,Aaron Finch,Arshdeep Singh,,14,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.2,1,1,0,254619,-131.99,-79.99,4,0,,,Knuckleball,36,CUT SHOT,0,0,3,13,124,2,0,0,2,0,0,0,0,0
+210,4,692,2,2,Australia,Aaron Finch,Arshdeep Singh,,14,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.3,1,1,0,254620,90.86,192.59,4,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,4,13,128,2,0,0,2,0,0,0,0,0
+211,5,692,2,2,Australia,Aaron Finch,Arshdeep Singh,,14,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,254621,-112.65,-48.68,2,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,5,13,130,2,0,0,2,0,0,0,0,0
+212,6,692,2,2,Australia,Aaron Finch,Arshdeep Singh,,14,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,13.5,1,1,1,254622,-112.65,-48.68,1,0,,,Knuckleball,105,LEFT ALONE,0,0,6,13,131,2,0,0,2,0,0,0,0,0
+213,7,692,2,2,Australia,Aaron Finch,Arshdeep Singh,,14,5,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,254623,-134.75,123.06,3,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,7,13,134,2,0,0,2,0,0,0,0,0
+214,8,692,2,2,Australia,Glenn Maxwell,Arshdeep Singh,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,254624,-134.75,123.06,0,0,,,Knuckleball,36,CUT SHOT,0,0,8,13,134,2,0,0,2,0,0,0,0,0
+215,1,692,2,2,Australia,Aaron Finch,Yuzvendra Chahal,,15,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,14.1,1,1,1,254625,-134.75,123.06,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,14,135,2,1,0,2,0,0,0,0,0
+216,2,692,2,2,Australia,Aaron Finch,Yuzvendra Chahal,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,254626,81.65,-6.78,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,14,136,2,0,0,2,0,0,0,0,0
+217,3,692,2,2,Australia,Glenn Maxwell,Yuzvendra Chahal,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,254627,91.32,-67.09,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,14,137,2,0,0,2,0,0,0,0,0
+218,4,692,2,2,Australia,Aaron Finch,Yuzvendra Chahal,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,254628,77.51,-17.83,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,14,138,2,0,0,2,0,0,0,0,0
+219,5,692,2,2,Australia,Glenn Maxwell,Yuzvendra Chahal,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,254629,77.51,-17.83,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,14,138,2,0,0,2,0,0,0,0,0
+220,6,692,2,2,Australia,Glenn Maxwell,Yuzvendra Chahal,,15,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,254630,-135.67,57.68,2,0,,,Knuckleball,56,REVERSE SWEEP,0,0,6,14,140,2,0,0,2,0,0,0,0,0
+221,7,692,2,2,Australia,Glenn Maxwell,Yuzvendra Chahal,,15,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.6,1,1,0,254631,-183.56,68.73,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,7,14,144,2,0,0,2,0,0,0,0,0
+222,1,692,2,2,Australia,Aaron Finch,Bhuvneshwar Kumar,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,254632,-183.56,68.73,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,15,144,2,1,0,2,0,0,0,0,0
+223,2,692,2,2,Australia,Aaron Finch,Bhuvneshwar Kumar,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,254633,-120.02,-15.06,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,15,145,2,0,0,2,0,0,0,0,0
+224,3,692,2,2,Australia,Glenn Maxwell,Bhuvneshwar Kumar,,16,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,15.3,1,1,0,254634,-120.02,-15.06,0,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,3,15,145,3,1,0,2,0,0,0,0,0
+225,4,692,2,2,Australia,Marcus Stoinis,Bhuvneshwar Kumar,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,254635,-75.82,-19.21,0,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,4,15,145,3,2,0,2,0,0,0,0,0
+226,5,692,2,2,Australia,Marcus Stoinis,Bhuvneshwar Kumar,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,254636,90.40,-90.12,1,0,,,Knuckleball,54,LEG GLANCE,0,0,5,15,146,3,0,0,2,0,0,0,0,0
+227,6,692,2,2,Australia,Aaron Finch,Bhuvneshwar Kumar,,16,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,254637,-140.28,83.47,2,0,,,Knuckleball,89,STEP DOWN COVER DRIVE,0,0,6,15,148,3,0,0,2,0,0,0,0,0
+228,1,692,2,2,Australia,Marcus Stoinis,Ravichandran Ashwin,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,254638,56.79,122.14,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,16,149,3,1,0,2,0,0,0,0,0
+229,2,692,2,2,Australia,Aaron Finch,Ravichandran Ashwin,,17,2,3 (LB),3,0,0,0,0,1,3,0,0,0,1,0,0,0,,,0,16.2,1,1,1,254639,36.99,-125.57,3,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,16,152,3,0,1,3,0,0,0,0,0
+230,3,692,2,2,Australia,Marcus Stoinis,Ravichandran Ashwin,,17,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.3,1,1,0,254640,184.79,101.88,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,16,156,3,0,0,3,0,0,0,0,0
+231,4,692,2,2,Australia,Marcus Stoinis,Ravichandran Ashwin,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,254641,-91.01,66.43,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,16,156,3,0,0,3,0,0,0,0,0
+232,5,692,2,2,Australia,Marcus Stoinis,Ravichandran Ashwin,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,254642,119.87,0.59,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,16,157,3,0,0,3,0,0,0,0,0
+233,6,692,2,2,Australia,Aaron Finch,Ravichandran Ashwin,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,254643,104.67,17.17,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,16,158,3,0,0,3,0,0,0,0,0
+234,1,692,2,2,Australia,Aaron Finch,Arshdeep Singh,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,254644,-105.28,-59.27,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,17,159,3,1,0,3,0,0,0,0,0
+235,2,692,2,2,Australia,Marcus Stoinis,Arshdeep Singh,,18,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,17.2,1,1,0,254645,-105.28,-59.27,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,17,159,4,2,0,3,0,0,0,0,0
+236,3,692,2,2,Australia,Tim David,Arshdeep Singh,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.3,1,1,0,254646,-94.23,-22.89,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,17,160,4,3,0,3,0,0,0,0,0
+237,4,692,2,2,Australia,Aaron Finch,Arshdeep Singh,,18,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.4,1,1,0,254647,148.41,146.55,6,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,4,17,166,4,0,0,3,0,0,0,0,0
+238,5,692,2,2,Australia,Aaron Finch,Arshdeep Singh,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,254648,-62.92,117.08,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,17,167,4,0,0,3,0,0,0,0,0
+239,6,692,2,2,Australia,Tim David,Arshdeep Singh,,18,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.6,1,1,0,254649,-36.22,-138.46,4,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,17,171,4,0,0,3,0,0,0,0,0
+240,1,692,2,2,Australia,Aaron Finch,Harshal Patel,,19,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,18.1,1,1,0,254650,-36.22,-138.46,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,18,171,5,1,0,3,0,0,0,0,0
+241,2,692,2,2,Australia,Josh Inglis,Harshal Patel,,19,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,18.2,1,1,0,254651,45.28,19.01,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,18,171,6,2,0,3,0,0,0,0,0
+242,3,692,2,2,Australia,Pat Cummins,Harshal Patel,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,254652,81.65,-76.30,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,18,172,6,0,0,3,0,0,0,0,0
+243,4,692,2,2,Australia,Josh Inglis,Harshal Patel,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,1,1,0,254653,54.49,-36.24,1,0,,,Knuckleball,56,REVERSE SWEEP,0,0,4,18,173,6,0,0,3,0,0,0,0,0
+244,5,692,2,2,Australia,Pat Cummins,Harshal Patel,,19,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,254654,103.29,3.35,2,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,18,175,6,0,0,3,0,0,0,0,0
+245,6,692,2,2,Australia,Pat Cummins,Harshal Patel,,19,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,18.6,1,1,1,254655,103.29,3.35,1,0,,,Knuckleball,18,SLOG SHOT,0,0,6,18,176,6,0,0,3,0,0,0,0,0
+246,1,692,2,2,Australia,Pat Cummins,Mohammad Shami,,20,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.1,1,1,0,254656,125.85,124.45,2,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,1,19,178,6,1,0,3,0,0,0,0,0
+247,2,692,2,2,Australia,Pat Cummins,Mohammad Shami,,20,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,254657,91.78,90.83,2,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,19,180,6,0,0,3,0,0,0,0,0
+248,3,692,2,2,Australia,Pat Cummins,Mohammad Shami,,20,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.3,1,1,0,254658,91.78,90.83,0,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,3,19,180,7,1,0,3,0,0,0,0,0
+249,4,692,2,2,Australia,Ashton Agar,Mohammad Shami,,20,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,19.4,1,1,0,254659,91.78,90.83,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,4,19,180,8,2,0,3,0,0,0,0,0
+250,5,692,2,2,Australia,Josh Inglis,Mohammad Shami,,20,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,19.5,1,1,0,254660,91.78,90.83,0,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,19,180,9,3,0,3,0,0,0,0,0
+251,6,692,2,2,Australia,Kane Richardson,Mohammad Shami,,20,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,19.6,1,1,0,254661,91.78,90.83,0,0,,32,YORKER,97,BACKFOOT PUSH,0,0,6,19,180,10,0,0,3,0,0,0,0,1

@@ -1,0 +1,236 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,361,1,6,Sri Lanka,Pathum Nissanka,Paul Stirling,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,147885,24.10,130.89,1,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+1,2,361,1,6,Sri Lanka,Kusal Perera,Paul Stirling,,1,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,0.2,1,1,0,147886,24.10,130.89,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,0,1,1,2,0,0,0,0,0,0,0
+2,3,361,1,6,Sri Lanka,Dinesh Chandimal,Paul Stirling,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,147887,-33.00,66.43,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,0,2,1,3,0,0,0,0,0,0,0
+3,4,361,1,6,Sri Lanka,Pathum Nissanka,Paul Stirling,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,147888,95.00,112.94,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,0,3,1,0,0,0,0,0,0,0,0
+4,5,361,1,6,Sri Lanka,Dinesh Chandimal,Paul Stirling,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,147889,-33.00,66.43,0,0,,,Knuckleball,84,OFF DRIVE,0,0,5,0,3,1,0,0,0,0,0,0,0,0
+5,6,361,1,6,Sri Lanka,Dinesh Chandimal,Paul Stirling,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,147890,85.33,-32.10,1,0,,,Knuckleball,40,FLICK,0,0,6,0,4,1,0,0,0,0,0,0,0,0
+6,1,361,1,6,Sri Lanka,Dinesh Chandimal,Josh Little,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,147891,85.33,-32.10,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,1,4,1,1,0,0,0,0,0,0,0
+7,2,361,1,6,Sri Lanka,Dinesh Chandimal,Josh Little,,2,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.2,1,1,0,147892,-186.32,-4.94,4,0,,,Knuckleball,21,SD OFF,0,0,2,1,8,1,0,0,0,0,0,0,0,0
+8,3,361,1,6,Sri Lanka,Dinesh Chandimal,Josh Little,,2,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,1.3,1,1,0,147893,-186.32,-4.94,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,1,8,2,1,0,0,0,0,0,0,0
+9,4,361,1,6,Sri Lanka,Avishka Fernando,Josh Little,,2,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,1.4,1,1,0,147894,-186.32,-4.94,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,1,8,3,0,0,0,0,0,0,0,0
+10,5,361,1,6,Sri Lanka,Wanindu Hasaranga,Josh Little,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,147895,-84.10,0.13,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,1,8,3,1,0,0,0,0,0,0,0
+11,6,361,1,6,Sri Lanka,Wanindu Hasaranga,Josh Little,,2,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,1.6,1,1,1,147896,-84.10,0.13,1,0,,,Knuckleball,54,LEG GLANCE,0,0,6,1,9,3,0,0,0,0,0,0,0,0
+12,7,361,1,6,Sri Lanka,Wanindu Hasaranga,Josh Little,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,147897,-79.04,70.58,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,7,1,9,3,0,0,0,0,0,0,0,0
+13,1,361,1,6,Sri Lanka,Pathum Nissanka,Craig Young,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,147898,-17.80,-19.67,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,2,9,3,1,0,0,0,0,0,0,0
+14,2,361,1,6,Sri Lanka,Pathum Nissanka,Craig Young,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,147899,53.10,70.58,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,2,9,3,0,0,0,0,0,0,0,0
+15,3,361,1,6,Sri Lanka,Pathum Nissanka,Craig Young,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,147900,-31.62,-16.45,0,0,,,Knuckleball,21,SD OFF,0,0,3,2,9,3,0,0,0,0,0,0,0,0
+16,4,361,1,6,Sri Lanka,Pathum Nissanka,Craig Young,,3,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,147901,78.89,51.24,1,0,,,Knuckleball,40,FLICK,0,0,4,2,10,3,0,0,0,0,0,0,0,0
+17,5,361,1,6,Sri Lanka,Wanindu Hasaranga,Craig Young,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,147902,9.82,69.19,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,2,10,3,0,0,0,0,0,0,0,0
+18,6,361,1,6,Sri Lanka,Wanindu Hasaranga,Craig Young,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,147903,-102.98,-84.13,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,2,11,3,0,0,0,0,0,0,0,0
+19,1,361,1,6,Sri Lanka,Wanindu Hasaranga,Josh Little,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,147904,-102.98,-84.13,0,0,,,Knuckleball,58,PULL SHOT,0,0,1,3,11,3,1,0,0,0,0,0,0,0
+20,2,361,1,6,Sri Lanka,Wanindu Hasaranga,Josh Little,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,147905,-85.95,26.83,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,3,11,3,0,0,0,0,0,0,0,0
+21,3,361,1,6,Sri Lanka,Wanindu Hasaranga,Josh Little,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,147906,-108.51,-80.91,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,3,12,3,0,0,0,0,0,0,0,0
+22,4,361,1,6,Sri Lanka,Pathum Nissanka,Josh Little,,4,4,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,3.4,1,1,1,147907,-108.51,-80.91,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,3,13,3,0,0,0,0,0,0,0,0
+23,5,361,1,6,Sri Lanka,Wanindu Hasaranga,Josh Little,,4,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.5,1,1,0,147908,-183.10,102.35,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,3,17,3,0,0,0,0,0,0,0,0
+24,6,361,1,6,Sri Lanka,Wanindu Hasaranga,Josh Little,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,147909,-71.67,-28.88,0,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,6,3,17,3,0,0,0,0,0,0,0,0
+25,1,361,1,6,Sri Lanka,Pathum Nissanka,Mark Adair,,5,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.1,1,1,0,147910,-48.19,-153.19,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,4,21,3,1,0,0,0,0,0,0,0
+26,2,361,1,6,Sri Lanka,Pathum Nissanka,Mark Adair,,5,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.2,1,1,0,147911,-148.10,-94.72,4,0,,,Knuckleball,36,CUT SHOT,0,0,2,4,25,3,0,0,0,0,0,0,0,0
+27,3,361,1,6,Sri Lanka,Pathum Nissanka,Mark Adair,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,147912,-65.23,43.87,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,4,25,3,0,0,0,0,0,0,0,0
+28,4,361,1,6,Sri Lanka,Pathum Nissanka,Mark Adair,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,147913,-78.12,-99.32,1,0,,,Knuckleball,44,GLIDE,0,0,4,4,26,3,0,0,0,0,0,0,0,0
+29,5,361,1,6,Sri Lanka,Wanindu Hasaranga,Mark Adair,,5,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.5,1,1,0,147914,12.13,224.82,4,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,5,4,30,3,0,0,0,0,0,0,0,0
+30,6,361,1,6,Sri Lanka,Wanindu Hasaranga,Mark Adair,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,147915,-20.56,60.91,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,4,30,3,0,0,0,0,0,0,0,0
+31,1,361,1,6,Sri Lanka,Pathum Nissanka,Simi Singh,,6,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,147916,74.74,160.36,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,5,31,3,1,0,0,0,0,0,0,0
+32,2,361,1,6,Sri Lanka,Wanindu Hasaranga,Simi Singh,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,147917,-51.41,124.45,0,0,,,Knuckleball,84,OFF DRIVE,0,0,2,5,31,3,0,0,0,0,0,0,0,0
+33,3,361,1,6,Sri Lanka,Wanindu Hasaranga,Simi Singh,,6,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.3,1,1,0,147918,-187.24,33.28,4,0,,,Knuckleball,36,CUT SHOT,0,0,3,5,35,3,0,0,0,0,0,0,0,0
+34,4,361,1,6,Sri Lanka,Wanindu Hasaranga,Simi Singh,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.4,1,1,0,147919,-195.07,64.13,4,0,,,Knuckleball,15,LOFT COVER,0,0,4,5,39,3,0,0,0,0,0,0,0,0
+35,5,361,1,6,Sri Lanka,Wanindu Hasaranga,Simi Singh,,6,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.5,1,1,0,147920,-178.49,122.14,4,0,,,Knuckleball,122,SDL OFF,0,0,5,5,43,3,0,0,0,0,0,0,0,0
+36,6,361,1,6,Sri Lanka,Wanindu Hasaranga,Simi Singh,,6,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.6,1,1,0,147921,-148.10,158.06,4,0,,,Knuckleball,5,LOFT OFF,0,0,6,5,47,3,0,0,0,0,0,0,0,0
+37,1,361,1,6,Sri Lanka,Pathum Nissanka,Curtis Campher,,7,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,147922,-133.37,101.88,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,6,49,3,1,0,0,0,0,0,0,0
+38,2,361,1,6,Sri Lanka,Pathum Nissanka,Curtis Campher,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,147923,-87.33,-91.50,1,0,,,Knuckleball,44,GLIDE,0,0,2,6,50,3,0,1,1,0,1,0,0,0
+39,3,361,1,6,Sri Lanka,Wanindu Hasaranga,Curtis Campher,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,147924,-159.62,57.22,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,6,51,3,0,0,1,0,0,0,0,0
+40,4,361,1,6,Sri Lanka,Pathum Nissanka,Curtis Campher,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,147925,100.07,25.45,1,0,,,Knuckleball,40,FLICK,0,0,4,6,52,3,0,0,1,0,0,0,0,0
+41,5,361,1,6,Sri Lanka,Wanindu Hasaranga,Curtis Campher,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,147926,-135.67,-10.46,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,5,6,53,3,0,0,1,0,0,0,0,0
+42,6,361,1,6,Sri Lanka,Pathum Nissanka,Curtis Campher,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,147927,139.67,-7.70,1,0,,,Knuckleball,40,FLICK,0,0,6,6,54,3,0,0,1,0,0,0,0,0
+43,1,361,1,6,Sri Lanka,Pathum Nissanka,Craig Young,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,147928,-56.02,-115.44,1,0,,,Knuckleball,44,GLIDE,0,0,1,7,55,3,1,0,1,0,0,0,0,0
+44,2,361,1,6,Sri Lanka,Wanindu Hasaranga,Craig Young,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,147929,-72.59,60.91,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,7,55,3,0,0,1,0,0,0,0,0
+45,3,361,1,6,Sri Lanka,Wanindu Hasaranga,Craig Young,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,147930,-45.43,177.86,1,0,,,Knuckleball,5,LOFT OFF,0,0,3,7,56,3,0,0,1,0,0,0,0,0
+46,4,361,1,6,Sri Lanka,Pathum Nissanka,Craig Young,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,147931,154.86,20.39,1,0,,,Knuckleball,40,FLICK,0,0,4,7,57,3,0,0,1,0,0,0,0,0
+47,5,361,1,6,Sri Lanka,Wanindu Hasaranga,Craig Young,,8,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,147932,124.93,120.30,2,0,,,Knuckleball,11,LOFT ON,0,0,5,7,59,3,0,0,1,0,0,0,0,0
+48,6,361,1,6,Sri Lanka,Wanindu Hasaranga,Craig Young,,8,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,7.6,1,1,0,147933,140.59,160.36,6,0,,,Knuckleball,58,PULL SHOT,0,0,6,7,65,3,0,0,1,0,0,0,0,0
+49,1,361,1,6,Sri Lanka,Pathum Nissanka,Curtis Campher,,9,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,8.1,1,1,1,147934,30.54,28.68,1,0,,,Knuckleball,40,FLICK,0,0,1,8,66,3,1,0,1,0,0,0,0,0
+50,2,361,1,6,Sri Lanka,Wanindu Hasaranga,Curtis Campher,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,147935,-30.23,-56.96,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,8,66,3,0,0,1,0,0,0,0,0
+51,3,361,1,6,Sri Lanka,Wanindu Hasaranga,Curtis Campher,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,147936,-64.77,-20.13,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,8,66,3,0,0,1,0,0,0,0,0
+52,4,361,1,6,Sri Lanka,Wanindu Hasaranga,Curtis Campher,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,147937,-91.01,-22.43,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,4,8,66,3,0,0,1,0,0,0,0,0
+53,5,361,1,6,Sri Lanka,Wanindu Hasaranga,Curtis Campher,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,147938,-153.17,71.96,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,8,67,3,0,0,1,0,0,0,0,0
+54,6,361,1,6,Sri Lanka,Pathum Nissanka,Curtis Campher,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,147939,-149.03,6.58,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,8,68,3,0,0,1,0,0,0,0,0
+55,1,361,1,6,Sri Lanka,Pathum Nissanka,Simi Singh,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,147940,101.91,140.56,1,0,,,Knuckleball,74,SD ON,0,0,1,9,69,3,1,0,1,0,0,0,0,0
+56,2,361,1,6,Sri Lanka,Wanindu Hasaranga,Simi Singh,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,147941,88.56,104.65,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,9,70,3,0,0,1,0,0,0,0,0
+57,3,361,1,6,Sri Lanka,Pathum Nissanka,Simi Singh,,10,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.3,1,1,0,147942,-45.89,-142.14,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,9,74,3,0,0,1,0,0,0,0,0
+58,4,361,1,6,Sri Lanka,Pathum Nissanka,Simi Singh,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,147943,151.64,48.47,1,0,,,Knuckleball,40,FLICK,0,0,4,9,75,3,0,0,1,0,0,0,0,0
+59,5,361,1,6,Sri Lanka,Wanindu Hasaranga,Simi Singh,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,147944,113.88,131.35,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,9,76,3,0,0,1,0,0,0,0,0
+60,6,361,1,6,Sri Lanka,Pathum Nissanka,Simi Singh,,10,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,147945,124.01,100.50,2,0,,,Knuckleball,40,FLICK,0,0,6,9,78,3,0,0,1,0,0,0,0,0
+61,1,361,1,6,Sri Lanka,Wanindu Hasaranga,Mark Adair,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,147946,-74.90,59.99,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,10,78,3,1,0,1,0,0,0,0,0
+62,2,361,1,6,Sri Lanka,Wanindu Hasaranga,Mark Adair,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,147947,-76.74,-24.73,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,10,78,3,0,0,1,0,0,0,0,0
+63,3,361,1,6,Sri Lanka,Wanindu Hasaranga,Mark Adair,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,147948,-88.25,61.83,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,10,78,3,0,0,1,0,0,0,0,0
+64,4,361,1,6,Sri Lanka,Wanindu Hasaranga,Mark Adair,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,147949,-157.77,48.01,1,0,,,Knuckleball,21,SD OFF,0,0,4,10,79,3,0,0,1,0,0,0,0,0
+65,5,361,1,6,Sri Lanka,Pathum Nissanka,Mark Adair,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,147950,-52.33,108.79,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,10,80,3,0,0,1,0,0,0,0,0
+66,6,361,1,6,Sri Lanka,Wanindu Hasaranga,Mark Adair,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,147951,-52.33,108.79,0,0,,,Knuckleball,70,SD PULL,0,0,6,10,80,3,0,0,1,0,0,0,0,0
+67,1,361,1,6,Sri Lanka,Pathum Nissanka,Curtis Campher,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,147952,-90.09,53.08,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,11,80,3,1,0,1,0,0,0,0,0
+68,2,361,1,6,Sri Lanka,Pathum Nissanka,Curtis Campher,,12,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,11.2,1,1,0,147953,-186.32,97.74,6,0,,,Knuckleball,15,LOFT COVER,0,0,2,11,86,3,0,0,1,0,0,0,0,0
+69,3,361,1,6,Sri Lanka,Pathum Nissanka,Curtis Campher,,12,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,147954,124.93,79.78,2,0,,,Knuckleball,40,FLICK,0,0,3,11,88,3,0,0,1,0,0,0,0,0
+70,4,361,1,6,Sri Lanka,Pathum Nissanka,Curtis Campher,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,147955,-58.32,53.08,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,11,89,3,0,0,1,0,0,0,0,0
+71,5,361,1,6,Sri Lanka,Wanindu Hasaranga,Curtis Campher,,12,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.5,1,1,0,147956,-165.14,-58.35,4,0,,,Knuckleball,5,LOFT OFF,0,0,5,11,93,3,0,0,1,0,0,0,0,0
+72,6,361,1,6,Sri Lanka,Wanindu Hasaranga,Curtis Campher,,12,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,147957,142.89,91.76,2,0,,,Knuckleball,58,PULL SHOT,0,0,6,11,95,3,0,0,1,0,0,0,0,0
+73,1,361,1,6,Sri Lanka,Pathum Nissanka,Craig Young,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,147958,-82.72,57.68,1,0,,,Knuckleball,114,SDL COVER,0,0,1,12,96,3,1,0,1,0,0,0,0,0
+74,2,361,1,6,Sri Lanka,Wanindu Hasaranga,Craig Young,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,1,1,0,147959,-79.96,-9.08,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,12,97,3,0,0,1,0,0,0,0,0
+75,3,361,1,6,Sri Lanka,Pathum Nissanka,Craig Young,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,147960,-60.62,106.49,1,0,,,Knuckleball,84,OFF DRIVE,0,0,3,12,98,3,0,0,1,0,0,0,0,0
+76,4,361,1,6,Sri Lanka,Wanindu Hasaranga,Craig Young,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,147961,-135.67,-42.23,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,12,99,3,0,0,1,0,0,0,0,0
+77,5,361,1,6,Sri Lanka,Pathum Nissanka,Craig Young,,13,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,12.5,1,1,1,147962,84.41,14.40,1,0,,,Knuckleball,40,FLICK,0,0,5,12,100,3,0,1,2,0,0,1,0,0
+78,6,361,1,6,Sri Lanka,Wanindu Hasaranga,Craig Young,,13,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,147963,-137.51,102.35,2,0,,,Knuckleball,36,CUT SHOT,0,0,6,12,102,3,0,0,2,0,0,0,0,0
+79,1,361,1,6,Sri Lanka,Pathum Nissanka,Simi Singh,,14,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,147964,124.93,-60.65,2,0,,,Knuckleball,40,FLICK,0,0,1,13,104,3,1,0,2,0,0,0,0,0
+80,2,361,1,6,Sri Lanka,Pathum Nissanka,Simi Singh,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,147965,98.23,147.93,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,13,105,3,0,0,2,0,0,0,0,0
+81,3,361,1,6,Sri Lanka,Wanindu Hasaranga,Simi Singh,,14,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,147966,-127.38,116.16,2,0,,,Knuckleball,89,SD COVER,0,0,3,13,107,3,0,0,2,0,0,0,0,0
+82,4,361,1,6,Sri Lanka,Wanindu Hasaranga,Simi Singh,,14,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.4,1,1,0,147967,-91.01,-128.79,4,0,,,Knuckleball,59,SQUARE DRIVE,0,0,4,13,111,3,0,0,2,0,0,0,0,0
+83,5,361,1,6,Sri Lanka,Wanindu Hasaranga,Simi Singh,,14,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.5,1,1,0,147968,-164.22,-64.33,4,0,,,Knuckleball,5,LOFT OFF,0,0,5,13,115,3,0,0,2,0,0,0,0,0
+84,6,361,1,6,Sri Lanka,Wanindu Hasaranga,Simi Singh,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,147969,83.95,157.60,1,0,,,Knuckleball,11,LOFT ON,0,0,6,13,116,3,0,0,2,0,0,0,0,0
+85,1,361,1,6,Sri Lanka,Wanindu Hasaranga,Curtis Campher,,15,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,147970,-136.59,103.27,2,0,,,Knuckleball,15,LOFT COVER,0,0,1,14,118,3,1,0,2,0,0,0,0,0
+86,2,361,1,6,Sri Lanka,Wanindu Hasaranga,Curtis Campher,,15,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.2,1,1,0,147971,-182.18,152.99,4,0,,,Knuckleball,15,LOFT COVER,0,0,2,14,122,3,0,0,2,0,0,0,0,0
+87,3,361,1,6,Sri Lanka,Wanindu Hasaranga,Curtis Campher,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,147972,-33.00,-56.04,1,0,,,Knuckleball,44,GLIDE,0,0,3,14,123,3,0,0,2,0,0,0,0,0
+88,4,361,1,6,Sri Lanka,Pathum Nissanka,Curtis Campher,,15,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.4,1,1,0,147973,40.21,-150.89,4,0,,,Knuckleball,58,PULL SHOT,0,0,4,14,127,3,0,0,2,0,0,0,0,0
+89,5,361,1,6,Sri Lanka,Pathum Nissanka,Curtis Campher,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,147974,-74.44,-21.51,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,14,128,3,0,0,2,0,0,0,0,0
+90,6,361,1,6,Sri Lanka,Wanindu Hasaranga,Curtis Campher,,15,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,147975,-130.15,-51.90,2,0,,,Knuckleball,59,SQUARE DRIVE,0,0,6,14,130,3,0,0,2,0,0,0,0,0
+91,1,361,1,6,Sri Lanka,Pathum Nissanka,Mark Adair,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,147976,102.83,-46.37,1,0,,,Knuckleball,40,FLICK,0,0,1,15,131,3,1,0,2,0,0,0,0,0
+92,2,361,1,6,Sri Lanka,Wanindu Hasaranga,Mark Adair,,16,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,15.2,1,1,0,147977,102.83,-46.37,0,0,,,Knuckleball,96,Slice,0,0,2,15,131,4,2,0,2,0,0,0,0,0
+93,3,361,1,6,Sri Lanka,Bhanuka Rajapaksa,Mark Adair,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,147978,155.32,42.49,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,15,132,4,3,0,2,0,0,0,0,0
+94,4,361,1,6,Sri Lanka,Pathum Nissanka,Mark Adair,,16,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.4,1,1,0,147979,-133.37,-105.31,4,0,,,Knuckleball,36,CUT SHOT,0,0,4,15,136,4,0,0,2,0,0,0,0,0
+95,5,361,1,6,Sri Lanka,Pathum Nissanka,Mark Adair,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,147980,-33.92,40.65,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,15,136,4,0,0,2,0,0,0,0,0
+96,6,361,1,6,Sri Lanka,Pathum Nissanka,Mark Adair,,16,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,15.6,1,1,1,147981,96.85,36.04,1,0,,,Knuckleball,40,FLICK,0,0,6,15,137,4,0,0,2,0,0,0,0,0
+97,1,361,1,6,Sri Lanka,Pathum Nissanka,Josh Little,,17,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,16.1,1,1,1,147982,96.85,36.04,1,0,,,Knuckleball,105,LEFT ALONE,0,0,1,16,138,4,1,0,2,0,0,0,0,0
+98,2,361,1,6,Sri Lanka,Pathum Nissanka,Josh Little,,17,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.1,1,1,0,147983,-39.44,-148.59,4,0,,,Knuckleball,96,Slice,0,0,2,16,142,4,0,0,2,0,0,0,0,0
+99,3,361,1,6,Sri Lanka,Pathum Nissanka,Josh Little,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,147984,36.99,121.68,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,16,143,4,0,0,2,0,0,0,0,0
+100,4,361,1,6,Sri Lanka,Bhanuka Rajapaksa,Josh Little,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.3,1,1,0,147985,36.99,121.68,0,0,,,Knuckleball,21,SD OFF,0,0,4,16,143,4,0,0,2,0,0,0,0,0
+101,5,361,1,6,Sri Lanka,Bhanuka Rajapaksa,Josh Little,,17,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,16.4,1,1,0,147986,36.99,121.68,0,0,,,Knuckleball,40,FLICK,0,0,5,16,143,5,1,0,2,0,0,0,0,0
+102,6,361,1,6,Sri Lanka,Pathum Nissanka,Josh Little,,17,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,16.5,1,1,1,147987,36.99,121.68,1,0,,,Knuckleball,99,SCOOP,0,0,6,16,144,5,2,0,2,0,0,0,0,0
+103,7,361,1,6,Sri Lanka,Dasun Shanaka,Josh Little,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,147988,-79.04,-2.63,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,7,16,145,5,0,0,2,0,0,0,0,0
+104,1,361,1,6,Sri Lanka,Dasun Shanaka,Craig Young,,18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,147989,148.41,84.39,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,17,145,5,1,0,2,0,0,0,0,0
+105,2,361,1,6,Sri Lanka,Dasun Shanaka,Craig Young,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,1,1,0,147990,148.41,84.39,1,0,,,Knuckleball,40,FLICK,0,0,2,17,146,5,0,0,2,0,0,0,0,0
+106,3,361,1,6,Sri Lanka,Pathum Nissanka,Craig Young,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.3,1,1,0,147991,148.41,84.39,1,0,,,Knuckleball,11,LOFT ON,0,0,3,17,147,5,0,0,2,0,0,0,0,0
+107,4,361,1,6,Sri Lanka,Dasun Shanaka,Craig Young,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,1,1,0,147992,148.41,84.39,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,17,148,5,0,0,2,0,0,0,0,0
+108,5,361,1,6,Sri Lanka,Pathum Nissanka,Craig Young,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,147993,148.41,84.39,1,0,,,Knuckleball,18,SLOG SHOT,0,0,5,17,149,5,0,0,2,0,0,0,0,0
+109,6,361,1,6,Sri Lanka,Dasun Shanaka,Craig Young,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,147994,40.67,85.77,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,17,150,5,0,1,3,0,0,0,0,0
+110,1,361,1,6,Sri Lanka,Dasun Shanaka,Josh Little,,19,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.1,1,1,0,147995,188.93,83.47,4,0,,,Knuckleball,70,SD PULL,0,0,1,18,154,5,1,0,3,0,0,0,0,0
+111,2,361,1,6,Sri Lanka,Dasun Shanaka,Josh Little,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.2,1,1,0,147996,70.14,90.37,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,18,155,5,0,0,3,0,0,0,0,0
+112,3,361,1,6,Sri Lanka,Pathum Nissanka,Josh Little,,19,3,1 (BY),1,0,0,0,0,1,1,0,0,1,0,0,0,0,,,0,18.3,1,1,1,147997,70.14,90.37,1,0,,,Knuckleball,18,SLOG SHOT,0,0,3,18,156,5,0,0,3,0,0,0,0,0
+113,4,361,1,6,Sri Lanka,Dasun Shanaka,Josh Little,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,1,1,0,147998,-74.44,158.06,1,0,,,Knuckleball,5,LOFT OFF,0,0,4,18,157,5,0,0,3,0,0,0,0,0
+114,5,361,1,6,Sri Lanka,Pathum Nissanka,Josh Little,,19,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.5,1,1,0,147999,-74.44,158.06,0,0,,,Knuckleball,96,Slice,0,0,5,18,157,6,1,0,3,0,0,0,0,0
+115,6,361,1,6,Sri Lanka,Chamika Karunaratne,Josh Little,,19,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,148000,-7.67,62.29,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,6,18,157,6,2,0,3,0,0,0,0,0
+116,1,361,1,6,Sri Lanka,Dasun Shanaka,Mark Adair,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.1,1,1,0,148001,-67.07,169.57,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,19,158,6,3,0,3,0,0,0,0,0
+117,2,361,1,6,Sri Lanka,Chamika Karunaratne,Mark Adair,,20,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,148002,117.56,101.42,2,0,,,Knuckleball,58,PULL SHOT,0,0,2,19,160,6,0,0,3,0,0,0,0,0
+118,3,361,1,6,Sri Lanka,Chamika Karunaratne,Mark Adair,,20,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,19.3,1,1,0,148003,117.56,101.42,0,0,,,Knuckleball,18,SLOG SHOT,0,0,3,19,160,7,1,0,3,0,0,0,0,0
+119,4,361,1,6,Sri Lanka,Dushmantha Chameera,Mark Adair,,20,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.4,1,1,0,148004,159.92,57.22,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,19,161,7,2,0,3,0,0,0,0,0
+120,5,361,1,6,Sri Lanka,Dasun Shanaka,Mark Adair,,20,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.5,1,1,0,148005,169.13,131.35,6,0,,,Knuckleball,58,PULL SHOT,0,0,5,19,167,7,0,0,3,0,0,0,0,0
+121,6,361,1,6,Sri Lanka,Dasun Shanaka,Mark Adair,,20,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.6,1,1,0,148006,63.23,-142.14,4,0,,,Knuckleball,99,SCOOP,0,0,6,19,171,7,0,0,3,0,0,0,0,0
+122,1,361,2,12,Ireland,Paul Stirling,Chamika Karunaratne,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,148007,51.26,64.59,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+123,2,361,2,12,Ireland,Kevin O Brien,Chamika Karunaratne,,1,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.2,2,1,0,148008,-192.77,24.99,4,0,,,Knuckleball,36,CUT SHOT,0,0,2,0,5,0,0,0,0,0,0,0,0,0
+124,3,361,2,12,Ireland,Kevin O Brien,Chamika Karunaratne,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,148009,138.74,-33.94,1,0,,,Knuckleball,40,FLICK,0,0,3,0,6,0,0,0,0,0,0,0,0,0
+125,4,361,2,12,Ireland,Paul Stirling,Chamika Karunaratne,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,148010,-115.87,66.43,0,0,,,Knuckleball,21,SD OFF,0,0,4,0,6,0,0,0,0,0,0,0,0,0
+126,5,361,2,12,Ireland,Paul Stirling,Chamika Karunaratne,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,148011,154.86,27.29,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,0,7,0,0,0,0,0,0,0,0,0
+127,6,361,2,12,Ireland,Kevin O Brien,Chamika Karunaratne,,1,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.6,2,1,1,148012,154.86,27.29,1,0,,,Knuckleball,40,FLICK,0,0,6,0,8,0,0,0,0,0,0,0,0,0
+128,7,361,2,12,Ireland,Kevin O Brien,Chamika Karunaratne,,1,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,0.6,2,1,0,148013,154.86,27.29,0,0,,,Knuckleball,58,PULL SHOT,0,0,7,0,8,1,1,0,0,0,0,0,0,0
+129,1,361,2,12,Ireland,Andy Balbirnie,Dushmantha Chameera,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,148014,154.86,27.29,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,1,8,1,2,0,0,0,0,0,0,0
+130,2,361,2,12,Ireland,Andy Balbirnie,Dushmantha Chameera,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,148015,34.69,67.35,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,1,8,1,0,0,0,0,0,0,0,0
+131,3,361,2,12,Ireland,Andy Balbirnie,Dushmantha Chameera,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,148016,75.21,80.71,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,1,9,1,0,0,0,0,0,0,0,0
+132,4,361,2,12,Ireland,Paul Stirling,Dushmantha Chameera,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,148017,63.69,-112.68,1,0,,,Knuckleball,18,SLOG SHOT,0,0,4,1,10,1,0,0,0,0,0,0,0,0
+133,5,361,2,12,Ireland,Andy Balbirnie,Dushmantha Chameera,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,148018,63.69,-112.68,0,0,,,Knuckleball,105,LEFT ALONE,0,0,5,1,10,1,0,0,0,0,0,0,0,0
+134,6,361,2,12,Ireland,Andy Balbirnie,Dushmantha Chameera,,2,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.6,2,1,0,148019,36.53,-149.51,4,0,,,Knuckleball,58,PULL SHOT,0,0,6,1,14,1,0,0,0,0,0,0,0,0
+135,1,361,2,12,Ireland,Paul Stirling,Maheesh Theekshana,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,148020,27.78,-20.59,0,0,,,Knuckleball,84,OFF DRIVE,0,0,1,2,14,1,1,0,0,0,0,0,0,0
+136,2,361,2,12,Ireland,Paul Stirling,Maheesh Theekshana,,3,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.2,2,1,0,148021,192.15,-23.81,4,0,,,Knuckleball,95,SLOG SWEEP,0,0,2,2,18,1,0,0,0,0,0,0,0,0
+137,3,361,2,12,Ireland,Paul Stirling,Maheesh Theekshana,,3,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,2.3,2,1,0,148022,192.15,-23.81,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,2,18,2,1,0,0,0,0,0,0,0
+138,4,361,2,12,Ireland,Gareth Delany,Maheesh Theekshana,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,148023,87.18,48.47,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,2,18,2,2,0,0,0,0,0,0,0
+139,5,361,2,12,Ireland,Gareth Delany,Maheesh Theekshana,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,148024,60.93,60.91,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,2,18,2,0,0,0,0,0,0,0,0
+140,6,361,2,12,Ireland,Gareth Delany,Maheesh Theekshana,,3,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,148025,-53.72,-117.74,2,0,,,Knuckleball,44,GLIDE,0,0,6,2,20,2,0,0,0,0,0,0,0,0
+141,1,361,2,12,Ireland,Andy Balbirnie,Lahiru Kumara,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,148026,-53.72,-117.74,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,3,20,2,1,0,0,0,0,0,0,0
+142,2,361,2,12,Ireland,Andy Balbirnie,Lahiru Kumara,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,148027,-83.64,-5.86,0,0,,,Knuckleball,59,SQUARE DRIVE,0,0,2,3,20,2,0,0,0,0,0,0,0,0
+143,3,361,2,12,Ireland,Andy Balbirnie,Lahiru Kumara,,4,3,4 (BY),4,0,0,0,0,1,4,0,0,1,0,1,0,0,,,0,3.3,2,1,1,148028,-83.64,-5.86,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,3,24,2,0,0,0,0,0,0,0,0
+144,4,361,2,12,Ireland,Andy Balbirnie,Lahiru Kumara,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,148029,-97.46,48.94,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,3,24,2,0,0,0,0,0,0,0,0
+145,5,361,2,12,Ireland,Andy Balbirnie,Lahiru Kumara,,4,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.5,2,1,0,148030,78.43,-138.46,6,0,,,Knuckleball,58,PULL SHOT,0,0,5,3,30,2,0,0,0,0,0,0,0,0
+146,6,361,2,12,Ireland,Andy Balbirnie,Lahiru Kumara,,4,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,148031,73.36,60.91,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,3,31,2,0,0,0,0,0,0,0,0
+147,1,361,2,12,Ireland,Andy Balbirnie,Wanindu Hasaranga,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,148032,80.27,75.18,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,4,32,2,1,0,0,0,0,0,0,0
+148,2,361,2,12,Ireland,Gareth Delany,Wanindu Hasaranga,,5,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,4.2,2,1,0,148033,80.27,75.18,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,4,32,3,2,0,0,0,0,0,0,0
+149,3,361,2,12,Ireland,Curtis Campher,Wanindu Hasaranga,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,148034,-36.22,58.60,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,4,32,3,3,0,0,0,0,0,0,0
+150,4,361,2,12,Ireland,Curtis Campher,Wanindu Hasaranga,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,148035,-26.55,65.97,0,0,,,Knuckleball,84,OFF DRIVE,0,0,4,4,32,3,0,0,0,0,0,0,0,0
+151,5,361,2,12,Ireland,Curtis Campher,Wanindu Hasaranga,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,148036,-97.46,12.56,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,4,32,3,0,0,0,0,0,0,0,0
+152,6,361,2,12,Ireland,Curtis Campher,Wanindu Hasaranga,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,148037,-5.83,156.68,1,0,,,Knuckleball,19,BACKFOOT STRAIGHT DRIVE,0,0,6,4,33,3,0,0,0,0,0,0,0,0
+153,1,361,2,12,Ireland,Curtis Campher,Dushmantha Chameera,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,148038,13.51,71.04,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,5,33,3,1,0,0,0,0,0,0,0
+154,2,361,2,12,Ireland,Curtis Campher,Dushmantha Chameera,,6,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.2,2,1,0,148039,-82.26,-147.21,4,0,,,Knuckleball,44,GLIDE,0,0,2,5,37,3,0,0,0,0,0,0,0,0
+155,3,361,2,12,Ireland,Curtis Campher,Dushmantha Chameera,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,148040,-82.26,-147.21,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,5,37,3,0,0,0,0,0,0,0,0
+156,4,361,2,12,Ireland,Curtis Campher,Dushmantha Chameera,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.4,2,1,0,148041,-48.65,212.85,4,0,,,Knuckleball,84,OFF DRIVE,0,0,4,5,41,3,0,0,0,0,0,0,0,0
+157,5,361,2,12,Ireland,Curtis Campher,Dushmantha Chameera,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,148042,-48.65,212.85,0,0,,,Knuckleball,58,PULL SHOT,0,0,5,5,41,3,0,0,0,0,0,0,0,0
+158,6,361,2,12,Ireland,Curtis Campher,Dushmantha Chameera,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,148043,-48.65,212.85,0,0,,,Knuckleball,58,PULL SHOT,0,0,6,5,41,3,0,0,0,0,0,0,0,0
+159,1,361,2,12,Ireland,Andy Balbirnie,Wanindu Hasaranga,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,148044,3.38,-10.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,6,41,3,1,0,0,0,0,0,0,0
+160,2,361,2,12,Ireland,Andy Balbirnie,Wanindu Hasaranga,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,148045,29.16,67.35,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,6,41,3,0,0,0,0,0,0,0,0
+161,3,361,2,12,Ireland,Andy Balbirnie,Wanindu Hasaranga,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,148046,-111.73,148.85,1,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,6,42,3,0,0,0,0,0,0,0,0
+162,4,361,2,12,Ireland,Curtis Campher,Wanindu Hasaranga,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,148047,-111.73,148.85,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,6,42,3,0,0,0,0,0,0,0,0
+163,5,361,2,12,Ireland,Curtis Campher,Wanindu Hasaranga,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,148048,-111.73,148.85,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,5,6,43,3,0,0,0,0,0,0,0,0
+164,6,361,2,12,Ireland,Andy Balbirnie,Wanindu Hasaranga,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,148049,80.73,40.65,0,0,,,Knuckleball,84,OFF DRIVE,0,0,6,6,43,3,0,0,0,0,0,0,0,0
+165,1,361,2,12,Ireland,Curtis Campher,Chamika Karunaratne,,8,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,7.1,2,1,1,148050,138.28,-54.20,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,7,44,3,1,0,0,0,0,0,0,0
+166,2,361,2,12,Ireland,Andy Balbirnie,Chamika Karunaratne,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,148051,138.28,-54.20,0,0,,,Knuckleball,84,OFF DRIVE,0,0,2,7,44,3,0,0,0,0,0,0,0,0
+167,3,361,2,12,Ireland,Andy Balbirnie,Chamika Karunaratne,,8,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,7.3,2,1,0,148052,173.28,118.92,6,0,,,Knuckleball,58,PULL SHOT,0,0,3,7,50,3,0,1,1,0,1,0,0,0
+168,4,361,2,12,Ireland,Andy Balbirnie,Chamika Karunaratne,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,148053,138.28,-54.20,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,7,51,3,0,0,1,0,0,0,0,0
+169,5,361,2,12,Ireland,Curtis Campher,Chamika Karunaratne,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,148054,138.28,-54.20,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,7,51,3,0,0,1,0,0,0,0,0
+170,6,361,2,12,Ireland,Curtis Campher,Chamika Karunaratne,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,148055,49.42,137.80,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,7,52,3,0,0,1,0,0,0,0,0
+171,1,361,2,12,Ireland,Curtis Campher,Maheesh Theekshana,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,148056,14.43,62.29,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,8,52,3,1,0,1,0,0,0,0,0
+172,2,361,2,12,Ireland,Curtis Campher,Maheesh Theekshana,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,148057,47.12,-56.04,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,8,53,3,0,0,1,0,0,0,0,0
+173,3,361,2,12,Ireland,Andy Balbirnie,Maheesh Theekshana,,9,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,148058,95.00,104.19,2,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,8,55,3,0,0,1,0,0,0,0,0
+174,4,361,2,12,Ireland,Andy Balbirnie,Maheesh Theekshana,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,148059,-80.42,54.46,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,8,55,3,0,0,1,0,0,0,0,0
+175,5,361,2,12,Ireland,Andy Balbirnie,Maheesh Theekshana,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,148060,-154.09,53.54,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,8,56,3,0,0,1,0,0,0,0,0
+176,6,361,2,12,Ireland,Curtis Campher,Maheesh Theekshana,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,148061,-78.12,54.00,0,0,,,Knuckleball,21,SD OFF,0,0,6,8,56,3,0,0,1,0,0,0,0,0
+177,1,361,2,12,Ireland,Andy Balbirnie,Lahiru Kumara,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,148062,-95.62,-91.04,1,0,,,Knuckleball,44,GLIDE,0,0,1,9,57,3,1,0,1,0,0,0,0,0
+178,2,361,2,12,Ireland,Curtis Campher,Lahiru Kumara,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,148063,-95.62,-91.04,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,9,57,3,0,0,1,0,0,0,0,0
+179,3,361,2,12,Ireland,Curtis Campher,Lahiru Kumara,,10,3,5,5,5,0,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,148064,70.60,61.83,5,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,9,62,3,0,0,1,0,0,0,0,0
+180,4,361,2,12,Ireland,Andy Balbirnie,Lahiru Kumara,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,148065,-134.75,-42.23,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,4,9,63,3,0,0,1,0,0,0,0,0
+181,5,361,2,12,Ireland,Curtis Campher,Lahiru Kumara,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,148066,-143.50,-25.65,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,9,64,3,0,0,1,0,0,0,0,0
+182,6,361,2,12,Ireland,Andy Balbirnie,Lahiru Kumara,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,148067,113.88,133.19,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,9,65,3,0,0,1,0,0,0,0,0
+183,1,361,2,12,Ireland,Andy Balbirnie,Wanindu Hasaranga,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,148068,-15.50,71.04,0,0,,,Knuckleball,19,BACKFOOT STRAIGHT DRIVE,0,0,1,10,65,3,1,0,1,0,0,0,0,0
+184,2,361,2,12,Ireland,Andy Balbirnie,Wanindu Hasaranga,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,148069,124.47,-61.11,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,10,66,3,0,0,1,0,0,0,0,0
+185,3,361,2,12,Ireland,Curtis Campher,Wanindu Hasaranga,,11,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,148070,124.47,-61.11,2,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,10,68,3,0,0,1,0,0,0,0,0
+186,4,361,2,12,Ireland,Curtis Campher,Wanindu Hasaranga,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,148071,-81.80,24.07,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,10,69,3,0,0,1,0,0,0,0,0
+187,5,361,2,12,Ireland,Andy Balbirnie,Wanindu Hasaranga,,11,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,148072,-146.26,93.14,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,10,71,3,0,0,1,0,0,0,0,0
+188,6,361,2,12,Ireland,Andy Balbirnie,Wanindu Hasaranga,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,148073,41.13,72.42,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,10,71,3,0,0,1,0,0,0,0,0
+189,1,361,2,12,Ireland,Curtis Campher,Chamika Karunaratne,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,148074,-156.39,-7.70,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,11,72,3,1,0,1,0,0,0,0,0
+190,2,361,2,12,Ireland,Andy Balbirnie,Chamika Karunaratne,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,148075,-87.33,56.30,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,11,72,3,0,0,1,0,0,0,0,0
+191,3,361,2,12,Ireland,Andy Balbirnie,Chamika Karunaratne,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,148076,-151.33,79.32,1,0,,,Knuckleball,15,LOFT COVER,0,0,3,11,73,3,0,0,1,0,0,0,0,0
+192,4,361,2,12,Ireland,Curtis Campher,Chamika Karunaratne,,12,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,11.4,2,1,1,148077,-151.33,79.32,1,0,,,Knuckleball,56,REVERSE SWEEP,0,0,4,11,74,3,0,0,1,0,0,0,0,0
+193,5,361,2,12,Ireland,Curtis Campher,Chamika Karunaratne,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,148078,147.03,90.83,1,0,,,Knuckleball,18,SLOG SHOT,0,0,5,11,75,3,0,0,1,0,0,0,0,0
+194,6,361,2,12,Ireland,Andy Balbirnie,Chamika Karunaratne,,12,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.5,2,1,0,148079,106.97,-129.25,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,11,79,3,0,0,1,0,0,0,0,0
+195,7,361,2,12,Ireland,Andy Balbirnie,Chamika Karunaratne,,12,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,148080,-108.51,98.20,2,0,,,Knuckleball,5,LOFT OFF,0,0,7,11,81,3,0,0,1,0,0,0,0,0
+196,1,361,2,12,Ireland,Curtis Campher,Maheesh Theekshana,,13,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,12.1,2,1,1,148081,-108.51,98.20,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,12,82,3,1,0,1,0,0,0,0,0
+197,2,361,2,12,Ireland,Andy Balbirnie,Maheesh Theekshana,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,148082,-147.64,73.34,1,0,,,Knuckleball,15,LOFT COVER,0,0,2,12,83,3,0,0,1,0,0,0,0,0
+198,3,361,2,12,Ireland,Curtis Campher,Maheesh Theekshana,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,148083,-143.50,56.76,1,0,,,Knuckleball,15,LOFT COVER,0,0,3,12,84,3,0,0,1,0,0,0,0,0
+199,4,361,2,12,Ireland,Andy Balbirnie,Maheesh Theekshana,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,148084,129.08,-46.37,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,12,85,3,0,0,1,0,0,0,0,0
+200,5,361,2,12,Ireland,Curtis Campher,Maheesh Theekshana,,13,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,12.5,2,1,0,148085,-143.50,56.76,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,5,12,85,4,1,0,1,0,0,0,0,0
+201,6,361,2,12,Ireland,Harry Tector,Maheesh Theekshana,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,148086,129.54,85.77,1,0,,,Knuckleball,40,FLICK,0,0,6,12,86,4,2,0,1,0,0,0,0,0
+202,1,361,2,12,Ireland,Harry Tector,Lahiru Kumara,,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,148087,-15.50,73.34,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,1,13,86,4,3,0,1,0,0,0,0,0
+203,2,361,2,12,Ireland,Harry Tector,Lahiru Kumara,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,148088,94.08,22.23,0,0,,,Knuckleball,58,PULL SHOT,0,0,2,13,86,4,0,0,1,0,0,0,0,0
+204,3,361,2,12,Ireland,Harry Tector,Lahiru Kumara,,14,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,148089,119.41,117.54,2,0,,,Knuckleball,47,ON DRIVE,0,0,3,13,88,4,0,0,1,0,0,0,0,0
+205,4,361,2,12,Ireland,Harry Tector,Lahiru Kumara,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,148090,-5.37,69.65,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,4,13,88,4,0,0,1,0,0,0,0,0
+206,5,361,2,12,Ireland,Harry Tector,Lahiru Kumara,,14,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,13.5,2,1,0,148091,-5.37,69.65,0,0,,,Knuckleball,58,PULL SHOT,0,0,5,13,88,5,1,0,1,0,0,0,0,0
+207,6,361,2,12,Ireland,Neil Rock,Lahiru Kumara,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,148092,-138.44,-36.24,1,0,,,Knuckleball,40,FLICK,0,0,6,13,89,5,2,0,1,0,0,0,0,0
+208,1,361,2,12,Ireland,Neil Rock,Maheesh Theekshana,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,148093,-138.44,-36.24,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,14,89,5,3,0,1,0,0,0,0,0
+209,2,361,2,12,Ireland,Neil Rock,Maheesh Theekshana,,15,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Stumped,WICKET,1,14.2,2,1,0,148094,-138.44,-36.24,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,2,14,89,6,4,0,1,0,0,0,0,0
+210,3,361,2,12,Ireland,Mark Adair,Maheesh Theekshana,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,148095,65.54,167.73,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,14,90,6,5,0,1,0,0,0,0,0
+211,4,361,2,12,Ireland,Andy Balbirnie,Maheesh Theekshana,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,148096,-143.50,109.25,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,14,91,6,0,0,1,0,0,0,0,0
+212,5,361,2,12,Ireland,Mark Adair,Maheesh Theekshana,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,148097,68.76,169.57,1,0,,,Knuckleball,74,SD ON,0,0,5,14,92,6,0,0,1,0,0,0,0,0
+213,6,361,2,12,Ireland,Andy Balbirnie,Maheesh Theekshana,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,148098,68.76,169.57,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,14,92,6,0,0,1,0,0,0,0,0
+214,1,361,2,12,Ireland,Mark Adair,Lahiru Kumara,,16,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,15.1,2,1,0,148099,-7.67,110.63,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,1,15,92,7,1,0,1,0,0,0,0,0
+215,2,361,2,12,Ireland,Andy Balbirnie,Lahiru Kumara,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,148100,35.61,115.70,1,0,,,Knuckleball,96,Slice,0,0,2,15,93,7,0,0,1,0,0,0,0,0
+216,3,361,2,12,Ireland,Simi Singh,Lahiru Kumara,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,148101,35.61,115.70,1,0,,,Knuckleball,47,ON DRIVE,0,0,3,15,94,7,0,0,1,0,0,0,0,0
+217,4,361,2,12,Ireland,Andy Balbirnie,Lahiru Kumara,,16,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,15.4,2,1,0,148102,35.61,115.70,0,0,,,Knuckleball,5,LOFT OFF,0,0,4,15,94,8,1,0,1,0,0,0,0,0
+218,5,361,2,12,Ireland,Craig Young,Lahiru Kumara,,16,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,15.5,2,1,1,148103,35.61,115.70,1,0,,,Knuckleball,40,FLICK,0,0,5,15,95,8,2,0,1,0,0,0,0,0
+219,6,361,2,12,Ireland,Simi Singh,Lahiru Kumara,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,148104,-143.04,-10.00,1,0,,,Knuckleball,59,SQUARE DRIVE,0,0,6,15,96,8,0,0,1,0,0,0,0,0
+220,1,361,2,12,Ireland,Simi Singh,Wanindu Hasaranga,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,148105,137.36,-29.34,1,0,,,Knuckleball,40,FLICK,0,0,1,16,97,8,1,0,1,0,0,0,0,0
+221,2,361,2,12,Ireland,Craig Young,Wanindu Hasaranga,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,148106,25.94,-0.33,0,0,,,Knuckleball,40,FLICK,0,0,2,16,97,8,0,0,1,0,0,0,0,0
+222,3,361,2,12,Ireland,Craig Young,Wanindu Hasaranga,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,148107,25.94,-0.33,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,3,16,97,8,0,0,1,0,0,0,0,0
+223,4,361,2,12,Ireland,Craig Young,Wanindu Hasaranga,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,148108,-68.91,50.78,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,16,97,8,0,0,1,0,0,0,0,0
+224,5,361,2,12,Ireland,Craig Young,Wanindu Hasaranga,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,148109,141.05,74.72,1,0,,,Knuckleball,18,SLOG SHOT,0,0,5,16,98,8,0,0,1,0,0,0,0,0
+225,6,361,2,12,Ireland,Simi Singh,Wanindu Hasaranga,,17,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,148110,-16.42,66.43,0,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,6,16,98,8,0,0,1,0,0,0,0,0
+226,1,361,2,12,Ireland,Craig Young,Dushmantha Chameera,,18,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,17.1,2,1,0,148111,-16.42,66.43,0,0,,,Knuckleball,84,OFF DRIVE,0,0,1,17,98,9,1,0,1,0,0,0,0,0
+227,2,361,2,12,Ireland,Josh Little,Dushmantha Chameera,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,148112,38.37,94.52,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,17,99,9,2,0,1,0,0,0,0,0
+228,3,361,2,12,Ireland,Simi Singh,Dushmantha Chameera,,18,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,148113,45.74,69.65,0,0,,,Knuckleball,84,OFF DRIVE,0,0,3,17,99,9,0,0,1,0,0,0,0,0
+229,4,361,2,12,Ireland,Simi Singh,Dushmantha Chameera,,18,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,148114,-22.87,14.86,0,0,,,Knuckleball,5,LOFT OFF,0,0,4,17,99,9,0,0,1,0,0,0,0,0
+230,5,361,2,12,Ireland,Simi Singh,Dushmantha Chameera,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,148115,93.16,16.24,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,17,100,9,0,1,2,0,0,1,0,0
+231,6,361,2,12,Ireland,Josh Little,Dushmantha Chameera,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,148116,93.16,16.24,0,0,,,Knuckleball,18,SLOG SHOT,0,0,6,17,100,9,0,0,2,0,0,0,0,0
+232,1,361,2,12,Ireland,Simi Singh,Chamika Karunaratne,,19,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,148117,93.16,16.24,0,0,,,Knuckleball,40,FLICK,0,0,1,18,100,9,1,0,2,0,0,0,0,0
+233,2,361,2,12,Ireland,Simi Singh,Chamika Karunaratne,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,148118,-137.51,90.83,1,0,,,Knuckleball,21,SD OFF,0,0,2,18,101,9,0,0,2,0,0,0,0,0
+234,3,361,2,12,Ireland,Josh Little,Chamika Karunaratne,,19,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,18.3,2,1,0,148119,-137.51,90.83,0,0,,,Knuckleball,99,SCOOP,0,0,3,18,101,10,1,0,2,0,0,0,0,0

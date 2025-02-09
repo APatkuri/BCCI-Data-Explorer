@@ -1,0 +1,248 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,391,1,5,South Africa,Reeza Hendricks,Moeen Ali,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,154285,-64.77,42.03,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,391,1,5,South Africa,Reeza Hendricks,Moeen Ali,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,154286,116.18,138.72,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+2,3,391,1,5,South Africa,Quinton De Kock,Moeen Ali,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,154287,54.49,10.72,0,0,,,Knuckleball,40,FLICK,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+3,4,391,1,5,South Africa,Quinton De Kock,Moeen Ali,,1,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.4,1,1,0,154288,167.75,141.02,4,0,,,Knuckleball,15,LOFT COVER,0,0,4,0,5,0,0,0,0,0,0,0,0,0
+4,5,391,1,5,South Africa,Quinton De Kock,Moeen Ali,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,154289,-93.31,75.64,1,0,,,Knuckleball,40,FLICK,0,0,5,0,6,0,0,0,0,0,0,0,0,0
+5,6,391,1,5,South Africa,Reeza Hendricks,Moeen Ali,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,154290,-82.26,-31.64,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,0,6,0,0,0,0,0,0,0,0,0
+6,1,391,1,5,South Africa,Quinton De Kock,Chris Woakes,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,154291,105.13,34.66,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,1,6,0,1,0,0,0,0,0,0,0
+7,2,391,1,5,South Africa,Quinton De Kock,Chris Woakes,,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,154292,30.08,97.74,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,1,7,0,0,0,0,0,0,0,0,0
+8,3,391,1,5,South Africa,Reeza Hendricks,Chris Woakes,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,154293,-131.07,13.48,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,1,8,0,0,0,0,0,0,0,0,0
+9,4,391,1,5,South Africa,Quinton De Kock,Chris Woakes,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,154294,-32.54,95.44,0,0,,,Knuckleball,40,FLICK,0,0,4,1,8,0,0,0,0,0,0,0,0,0
+10,5,391,1,5,South Africa,Quinton De Kock,Chris Woakes,,2,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,154295,46.20,115.70,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,1,9,0,0,0,0,0,0,0,0,0
+11,6,391,1,5,South Africa,Reeza Hendricks,Chris Woakes,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,154296,-74.90,56.76,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,1,9,0,0,0,0,0,0,0,0,0
+12,1,391,1,5,South Africa,Quinton De Kock,Moeen Ali,,3,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.1,1,1,0,154297,54.49,213.77,4,0,,,Knuckleball,122,SDL OFF,0,0,1,2,13,0,1,0,0,0,0,0,0,0
+13,2,391,1,5,South Africa,Quinton De Kock,Moeen Ali,,3,2,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,0,,,0,2.2,1,1,1,154298,54.49,213.77,2,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,2,15,0,0,0,0,0,0,0,0,0
+14,3,391,1,5,South Africa,Reeza Hendricks,Moeen Ali,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,154299,-105.28,21.77,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,2,15,0,0,0,0,0,0,0,0,0
+15,4,391,1,5,South Africa,Reeza Hendricks,Moeen Ali,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,154300,-99.30,60.91,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,2,15,0,0,0,0,0,0,0,0,0
+16,5,391,1,5,South Africa,Reeza Hendricks,Moeen Ali,,3,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,2.4,1,1,0,154301,-99.30,60.91,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,2,15,1,1,0,0,0,0,0,0,0
+17,6,391,1,5,South Africa,Rassie van der Dussen,Moeen Ali,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,154302,139.67,88.53,1,0,,,Knuckleball,40,FLICK,0,0,6,2,16,1,2,0,0,0,0,0,0,0
+18,7,391,1,5,South Africa,Quinton De Kock,Moeen Ali,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,154303,47.58,32.36,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,7,2,16,1,0,0,0,0,0,0,0,0
+19,1,391,1,5,South Africa,Rassie van der Dussen,Chris Woakes,,4,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.1,1,1,0,154304,87.64,-138.46,4,0,,,Knuckleball,99,SCOOP,0,0,1,3,20,1,1,0,0,0,0,0,0,0
+20,2,391,1,5,South Africa,Rassie van der Dussen,Chris Woakes,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,154305,87.64,-138.46,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,3,20,1,0,0,0,0,0,0,0,0
+21,3,391,1,5,South Africa,Rassie van der Dussen,Chris Woakes,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,154306,-61.08,120.76,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,3,20,1,0,0,0,0,0,0,0,0
+22,4,391,1,5,South Africa,Rassie van der Dussen,Chris Woakes,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,154307,12.59,59.99,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,3,20,1,0,0,0,0,0,0,0,0
+23,5,391,1,5,South Africa,Rassie van der Dussen,Chris Woakes,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,154308,45.28,95.90,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,3,20,1,0,0,0,0,0,0,0,0
+24,6,391,1,5,South Africa,Rassie van der Dussen,Chris Woakes,,4,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,154309,98.69,63.67,1,0,,,Knuckleball,40,FLICK,0,0,6,3,21,1,0,0,0,0,0,0,0,0
+25,1,391,1,5,South Africa,Rassie van der Dussen,Moeen Ali,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,154310,82.57,142.40,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,4,22,1,1,0,0,0,0,0,0,0
+26,2,391,1,5,South Africa,Quinton De Kock,Moeen Ali,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,154311,-137.05,107.87,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,4,23,1,0,0,0,0,0,0,0,0
+27,3,391,1,5,South Africa,Rassie van der Dussen,Moeen Ali,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,154312,53.56,79.32,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,4,23,1,0,0,0,0,0,0,0,0
+28,4,391,1,5,South Africa,Rassie van der Dussen,Moeen Ali,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,154313,-57.86,112.47,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,4,4,24,1,0,0,0,0,0,0,0,0
+29,5,391,1,5,South Africa,Quinton De Kock,Moeen Ali,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,154314,-135.67,99.12,1,0,,,Knuckleball,40,FLICK,0,0,5,4,25,1,0,0,0,0,0,0,0,0
+30,6,391,1,5,South Africa,Rassie van der Dussen,Moeen Ali,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,154315,94.08,11.64,1,0,,,Knuckleball,40,FLICK,0,0,6,4,26,1,0,0,0,0,0,0,0,0
+31,1,391,1,5,South Africa,Rassie van der Dussen,Chris Woakes,,6,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.1,1,1,0,154316,135.98,-92.42,4,0,,,Knuckleball,37,SD FLICK,0,0,1,5,30,1,1,0,0,0,0,0,0,0
+32,2,391,1,5,South Africa,Rassie van der Dussen,Chris Woakes,,6,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,5.2,1,1,0,154317,189.85,71.50,6,0,,,Knuckleball,37,SD FLICK,0,0,2,5,36,1,0,0,0,0,0,0,0,0
+33,3,391,1,5,South Africa,Rassie van der Dussen,Chris Woakes,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,154318,137.36,73.34,1,0,,,Knuckleball,37,SD FLICK,0,0,3,5,37,1,0,0,0,0,0,0,0,0
+34,4,391,1,5,South Africa,Quinton De Kock,Chris Woakes,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,1,1,0,154319,81.19,14.86,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,5,38,1,0,0,0,0,0,0,0,0
+35,5,391,1,5,South Africa,Rassie van der Dussen,Chris Woakes,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,154320,75.21,-104.85,1,0,,,Knuckleball,37,SD FLICK,0,0,5,5,39,1,0,0,0,0,0,0,0,0
+36,6,391,1,5,South Africa,Quinton De Kock,Chris Woakes,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,154321,-96.54,-70.32,1,0,,,Knuckleball,40,FLICK,0,0,6,5,40,1,0,0,0,0,0,0,0,0
+37,1,391,1,5,South Africa,Quinton De Kock,Moeen Ali,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,154322,71.98,86.69,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,6,41,1,1,0,0,0,0,0,0,0
+38,2,391,1,5,South Africa,Rassie van der Dussen,Moeen Ali,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,154323,129.54,97.74,1,0,,,Knuckleball,40,FLICK,0,0,2,6,42,1,0,0,0,0,0,0,0,0
+39,3,391,1,5,South Africa,Quinton De Kock,Moeen Ali,,7,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.3,1,1,0,154324,149.33,-78.14,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,6,46,1,0,0,0,0,0,0,0,0
+40,4,391,1,5,South Africa,Quinton De Kock,Moeen Ali,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,154325,-93.31,55.84,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,6,47,1,0,0,0,0,0,0,0,0
+41,5,391,1,5,South Africa,Rassie van der Dussen,Moeen Ali,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,154326,141.05,-15.06,1,0,,,Knuckleball,40,FLICK,0,0,5,6,48,1,0,0,0,0,0,0,0,0
+42,6,391,1,5,South Africa,Quinton De Kock,Moeen Ali,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,154327,154.40,32.82,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,6,49,1,0,0,0,0,0,0,0,0
+43,1,391,1,5,South Africa,Quinton De Kock,Adil Rashid,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,154328,-116.33,141.48,1,0,,,Knuckleball,47,ON DRIVE,0,0,1,7,50,1,1,1,1,0,1,0,0,0
+44,2,391,1,5,South Africa,Rassie van der Dussen,Adil Rashid,,8,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.2,1,1,0,154329,-139.82,-104.85,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,2,7,54,1,0,0,1,0,0,0,0,0
+45,3,391,1,5,South Africa,Rassie van der Dussen,Adil Rashid,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,154330,-139.82,-104.85,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,7,54,1,0,0,1,0,0,0,0,0
+46,4,391,1,5,South Africa,Rassie van der Dussen,Adil Rashid,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,154331,116.18,129.97,1,0,,,Knuckleball,47,ON DRIVE,0,0,4,7,55,1,0,0,1,0,0,0,0,0
+47,5,391,1,5,South Africa,Quinton De Kock,Adil Rashid,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,154332,-132.91,106.49,1,0,,,Knuckleball,40,FLICK,0,0,5,7,56,1,0,0,1,0,0,0,0,0
+48,6,391,1,5,South Africa,Rassie van der Dussen,Adil Rashid,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,154333,38.83,-62.03,0,0,,,Knuckleball,40,FLICK,0,0,6,7,56,1,0,0,1,0,0,0,0,0
+49,1,391,1,5,South Africa,Quinton De Kock,Chris Jordan,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,154334,150.26,17.63,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,8,57,1,1,0,1,0,0,0,0,0
+50,2,391,1,5,South Africa,Rassie van der Dussen,Chris Jordan,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,154335,-31.62,75.64,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,8,57,1,0,0,1,0,0,0,0,0
+51,3,391,1,5,South Africa,Rassie van der Dussen,Chris Jordan,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,154336,45.28,139.18,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,8,58,1,0,0,1,0,0,0,0,0
+52,4,391,1,5,South Africa,Quinton De Kock,Chris Jordan,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,154337,-157.31,51.24,1,0,,,Knuckleball,40,FLICK,0,0,4,8,59,1,0,0,1,0,0,0,0,0
+53,5,391,1,5,South Africa,Rassie van der Dussen,Chris Jordan,,9,5,2 (LB),2,0,0,0,0,1,2,0,0,0,1,0,0,0,,,0,8.5,1,1,1,154338,90.40,-6.32,2,0,,,Knuckleball,37,SD FLICK,0,0,5,8,61,1,0,0,1,0,0,0,0,0
+54,6,391,1,5,South Africa,Rassie van der Dussen,Chris Jordan,,9,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.6,1,1,0,154339,30.08,-143.53,4,0,,,Knuckleball,54,LEG GLANCE,0,0,6,8,65,1,0,0,1,0,0,0,0,0
+55,1,391,1,5,South Africa,Quinton De Kock,Adil Rashid,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,154340,-120.02,119.84,1,0,,,Knuckleball,11,LOFT ON,0,0,1,9,66,1,1,0,1,0,0,0,0,0
+56,2,391,1,5,South Africa,Rassie van der Dussen,Adil Rashid,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,154341,130.92,10.72,1,0,,,Knuckleball,40,FLICK,0,0,2,9,67,1,0,0,1,0,0,0,0,0
+57,3,391,1,5,South Africa,Quinton De Kock,Adil Rashid,,10,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.3,1,1,0,154342,146.11,-85.97,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,9,71,1,0,0,1,0,0,0,0,0
+58,4,391,1,5,South Africa,Quinton De Kock,Adil Rashid,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,154343,38.83,188.45,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,4,9,72,1,0,0,1,0,0,0,0,0
+59,5,391,1,5,South Africa,Rassie van der Dussen,Adil Rashid,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,154344,1.08,26.83,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,9,72,1,0,0,1,0,0,0,0,0
+60,6,391,1,5,South Africa,Rassie van der Dussen,Adil Rashid,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,154345,-74.90,163.58,1,0,,,Knuckleball,84,OFF DRIVE,0,0,6,9,73,1,0,0,1,0,0,0,0,0
+61,1,391,1,5,South Africa,Rassie van der Dussen,Mark Wood,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,154346,144.73,17.17,1,0,,,Knuckleball,40,FLICK,0,0,1,10,74,1,1,0,1,0,0,0,0,0
+62,2,391,1,5,South Africa,Quinton De Kock,Mark Wood,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,154347,101.45,13.48,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,10,75,1,0,0,1,0,0,0,0,0
+63,3,391,1,5,South Africa,Rassie van der Dussen,Mark Wood,,11,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,10.3,1,1,0,154348,21.33,-148.59,6,0,,,Knuckleball,99,SCOOP,0,0,3,10,81,1,0,0,1,0,0,0,0,0
+64,4,391,1,5,South Africa,Rassie van der Dussen,Mark Wood,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,154349,60.93,-107.61,1,0,,,Knuckleball,54,LEG GLANCE,0,0,4,10,82,1,0,0,1,0,0,0,0,0
+65,5,391,1,5,South Africa,Quinton De Kock,Mark Wood,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,154350,-153.17,35.58,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,10,83,1,0,0,1,0,0,0,0,0
+66,6,391,1,5,South Africa,Rassie van der Dussen,Mark Wood,,11,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,10.6,1,1,1,154351,-153.17,35.58,1,0,,,Knuckleball,105,LEFT ALONE,0,0,6,10,84,1,0,0,1,0,0,0,0,0
+67,7,391,1,5,South Africa,Rassie van der Dussen,Mark Wood,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,154352,-70.75,10.72,1,0,,,Knuckleball,40,FLICK,0,0,7,10,85,1,0,0,1,0,0,0,0,0
+68,1,391,1,5,South Africa,Rassie van der Dussen,Adil Rashid,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,154353,133.68,12.56,1,0,,,Knuckleball,40,FLICK,0,0,1,11,86,1,1,0,1,0,0,0,0,0
+69,2,391,1,5,South Africa,Quinton De Kock,Adil Rashid,,12,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,11.2,1,1,0,154354,133.68,12.56,0,0,,,Knuckleball,11,LOFT ON,0,0,2,11,86,2,2,0,1,0,0,0,0,0
+70,3,391,1,5,South Africa,Rassie van der Dussen,Adil Rashid,,12,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,154355,22.26,-119.58,2,0,,,Knuckleball,54,LEG GLANCE,0,0,3,11,88,2,3,0,1,0,0,0,0,0
+71,4,391,1,5,South Africa,Rassie van der Dussen,Adil Rashid,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,154356,112.50,77.48,1,0,,,Knuckleball,40,FLICK,0,0,4,11,89,2,0,0,1,0,0,0,0,0
+72,5,391,1,5,South Africa,Aiden Markram,Adil Rashid,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,154357,71.98,167.27,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,11,90,2,0,0,1,0,0,0,0,0
+73,6,391,1,5,South Africa,Rassie van der Dussen,Adil Rashid,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,154358,149.79,59.06,1,0,,,Knuckleball,40,FLICK,0,0,6,11,91,2,0,0,1,0,0,0,0,0
+74,1,391,1,5,South Africa,Rassie van der Dussen,Mark Wood,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,154359,-89.17,52.62,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,12,92,2,1,0,1,0,0,0,0,0
+75,2,391,1,5,South Africa,Aiden Markram,Mark Wood,,13,2,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,12.2,1,1,1,154360,150.26,37.42,1,0,,,Knuckleball,40,FLICK,0,0,2,12,93,2,0,0,1,0,0,0,0,0
+76,3,391,1,5,South Africa,Rassie van der Dussen,Mark Wood,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,154361,62.77,-110.37,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,12,94,2,0,0,1,0,0,0,0,0
+77,4,391,1,5,South Africa,Aiden Markram,Mark Wood,,13,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,154362,150.26,37.42,2,0,,,Knuckleball,40,FLICK,0,0,4,12,96,2,0,0,1,0,0,0,0,0
+78,5,391,1,5,South Africa,Aiden Markram,Mark Wood,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,154363,143.35,-13.68,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,12,97,2,0,0,1,0,0,0,0,0
+79,6,391,1,5,South Africa,Rassie van der Dussen,Mark Wood,,13,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,12.6,1,1,0,154364,155.78,-74.00,6,0,,,Knuckleball,58,PULL SHOT,0,0,6,12,103,2,0,1,2,0,0,1,0,0
+80,1,391,1,5,South Africa,Aiden Markram,Adil Rashid,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,154365,156.70,37.42,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,13,104,2,1,0,2,0,0,0,0,0
+81,2,391,1,5,South Africa,Rassie van der Dussen,Adil Rashid,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,154366,154.86,7.04,1,0,,,Knuckleball,40,FLICK,0,0,2,13,105,2,0,0,2,0,0,0,0,0
+82,3,391,1,5,South Africa,Aiden Markram,Adil Rashid,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,154367,-67.99,175.09,1,0,,,Knuckleball,21,SD OFF,0,0,3,13,106,2,0,0,2,0,0,0,0,0
+83,4,391,1,5,South Africa,Rassie van der Dussen,Adil Rashid,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,154368,-93.31,159.90,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,13,107,2,0,0,2,0,0,0,0,0
+84,5,391,1,5,South Africa,Aiden Markram,Adil Rashid,,14,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,13.5,1,1,0,154369,160.38,135.04,6,0,,,Knuckleball,94,SDL ON,0,0,5,13,113,2,0,0,2,0,0,0,0,0
+85,6,391,1,5,South Africa,Aiden Markram,Adil Rashid,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,154370,157.62,13.48,1,0,,,Knuckleball,47,ON DRIVE,0,0,6,13,114,2,0,0,2,0,0,0,0,0
+86,1,391,1,5,South Africa,Aiden Markram,Chris Jordan,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,154371,-150.87,12.10,1,0,,,Knuckleball,21,SD OFF,0,0,1,14,115,2,1,0,2,0,0,0,0,0
+87,2,391,1,5,South Africa,Rassie van der Dussen,Chris Jordan,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,154372,-150.87,12.10,0,0,,,Knuckleball,24,REVERSE SCOOP,0,0,2,14,115,2,0,0,2,0,0,0,0,0
+88,3,391,1,5,South Africa,Rassie van der Dussen,Chris Jordan,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,154373,-66.61,17.63,1,0,,,Knuckleball,40,FLICK,0,0,3,14,116,2,0,0,2,0,0,0,0,0
+89,4,391,1,5,South Africa,Aiden Markram,Chris Jordan,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,154374,-144.88,95.44,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,14,117,2,0,0,2,0,0,0,0,0
+90,5,391,1,5,South Africa,Rassie van der Dussen,Chris Jordan,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,154375,-144.88,95.44,0,0,,,Knuckleball,99,SCOOP,0,0,5,14,117,2,0,0,2,0,0,0,0,0
+91,6,391,1,5,South Africa,Rassie van der Dussen,Chris Jordan,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,154376,70.60,50.32,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,14,118,2,0,0,2,0,0,0,0,0
+92,1,391,1,5,South Africa,Rassie van der Dussen,Chris Woakes,,16,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.1,1,1,0,154377,17.65,213.77,6,0,,,Knuckleball,70,SD PULL,0,0,1,15,124,2,1,0,2,0,0,0,0,0
+93,2,391,1,5,South Africa,Rassie van der Dussen,Chris Woakes,,16,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.2,1,1,0,154378,173.74,125.83,6,0,,,Knuckleball,40,FLICK,0,0,2,15,130,2,0,0,2,0,0,0,0,0
+94,3,391,1,5,South Africa,Rassie van der Dussen,Chris Woakes,,16,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,154379,-139.82,-36.24,2,0,,,Knuckleball,21,SD OFF,0,0,3,15,132,2,0,0,2,0,0,0,0,0
+95,4,391,1,5,South Africa,Rassie van der Dussen,Chris Woakes,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,154380,-123.24,-62.95,1,0,,,Knuckleball,96,Slice,0,0,4,15,133,2,0,0,2,0,0,0,0,0
+96,5,391,1,5,South Africa,Aiden Markram,Chris Woakes,,16,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.5,1,1,0,154381,181.10,123.99,6,0,,,Knuckleball,40,FLICK,0,0,5,15,139,2,0,0,2,0,0,0,0,0
+97,6,391,1,5,South Africa,Aiden Markram,Chris Woakes,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,154382,-21.03,-34.86,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,15,139,2,0,0,2,0,0,0,0,0
+98,1,391,1,5,South Africa,Rassie van der Dussen,Mark Wood,,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,154383,-21.03,-34.86,0,0,,,Knuckleball,58,PULL SHOT,0,0,1,16,139,2,1,0,2,0,0,0,0,0
+99,2,391,1,5,South Africa,Rassie van der Dussen,Mark Wood,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,154384,146.11,56.76,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,16,140,2,0,0,2,0,0,0,0,0
+100,3,391,1,5,South Africa,Aiden Markram,Mark Wood,,17,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.3,1,1,0,154385,-137.97,-91.96,4,0,,,Knuckleball,36,CUT SHOT,0,0,3,16,144,2,0,0,2,0,0,0,0,0
+101,4,391,1,5,South Africa,Aiden Markram,Mark Wood,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,154386,-6.75,18.55,0,0,,,Knuckleball,58,PULL SHOT,0,0,4,16,144,2,0,0,2,0,0,0,0,0
+102,5,391,1,5,South Africa,Aiden Markram,Mark Wood,,17,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,154387,113.88,44.33,2,0,,,Knuckleball,58,PULL SHOT,0,0,5,16,146,2,0,0,2,0,0,0,0,0
+103,6,391,1,5,South Africa,Aiden Markram,Mark Wood,,17,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.6,1,1,0,154388,-190.00,88.53,4,0,,,Knuckleball,36,CUT SHOT,0,0,6,16,150,2,0,1,3,0,0,0,0,0
+104,1,391,1,5,South Africa,Rassie van der Dussen,Chris Jordan,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,154389,-88.71,63.21,1,0,,,Knuckleball,21,SD OFF,0,0,1,17,151,2,1,0,3,0,0,0,0,0
+105,2,391,1,5,South Africa,Aiden Markram,Chris Jordan,,18,2,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,17.2,1,1,0,154390,-134.29,106.49,3,0,,,Knuckleball,5,LOFT OFF,0,0,2,17,154,2,0,0,3,0,0,0,0,0
+106,3,391,1,5,South Africa,Rassie van der Dussen,Chris Jordan,,18,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.3,1,1,0,154391,-134.29,106.49,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,17,154,2,0,0,3,0,0,0,0,0
+107,4,391,1,5,South Africa,Rassie van der Dussen,Chris Jordan,,18,4,1 (BY),1,0,0,0,0,1,1,0,0,1,0,0,0,0,,,0,17.4,1,1,1,154392,-134.29,106.49,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,17,155,2,0,0,3,0,0,0,0,0
+108,5,391,1,5,South Africa,Aiden Markram,Chris Jordan,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,154393,134.60,113.86,1,0,,,Knuckleball,18,SLOG SHOT,0,0,5,17,156,2,0,0,3,0,0,0,0,0
+109,6,391,1,5,South Africa,Rassie van der Dussen,Chris Jordan,,18,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.6,1,1,0,154394,-52.79,-149.51,4,0,,,Knuckleball,24,REVERSE SCOOP,0,0,6,17,160,2,0,0,3,0,0,0,0,0
+110,1,391,1,5,South Africa,Aiden Markram,Mark Wood,,19,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.1,1,1,0,154395,-52.79,-149.51,0,0,,,Knuckleball,99,SCOOP,0,0,1,18,160,2,1,0,3,0,0,0,0,0
+111,2,391,1,5,South Africa,Aiden Markram,Mark Wood,,19,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.2,1,1,0,154396,-24.25,55.38,2,0,,,Knuckleball,36,CUT SHOT,0,0,2,18,162,2,0,0,3,0,0,0,0,0
+112,3,391,1,5,South Africa,Aiden Markram,Mark Wood,,19,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.3,1,1,0,154397,180.18,115.24,6,0,,,Knuckleball,58,PULL SHOT,0,0,3,18,168,2,0,0,3,0,0,0,0,0
+113,4,391,1,5,South Africa,Aiden Markram,Mark Wood,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,1,1,0,154398,144.73,-25.19,1,0,,,Knuckleball,58,PULL SHOT,0,0,4,18,169,2,0,0,3,0,0,0,0,0
+114,5,391,1,5,South Africa,Rassie van der Dussen,Mark Wood,,19,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,154399,116.18,15.32,2,0,,,Knuckleball,40,FLICK,0,0,5,18,171,2,0,0,3,0,0,0,0,0
+115,6,391,1,5,South Africa,Rassie van der Dussen,Mark Wood,,19,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,154400,118.95,7.04,2,0,,,Knuckleball,37,SD FLICK,0,0,6,18,173,2,0,0,3,0,0,0,0,0
+116,1,391,1,5,South Africa,Aiden Markram,Chris Jordan,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.1,1,1,0,154401,-47.27,19.93,1,0,,,Knuckleball,18,SLOG SHOT,0,0,1,19,174,2,1,0,3,0,0,0,0,0
+117,2,391,1,5,South Africa,Rassie van der Dussen,Chris Jordan,,20,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,154402,107.44,-79.99,1,0,,,Knuckleball,18,SLOG SHOT,0,0,2,19,175,2,0,0,3,0,0,0,0,0
+118,3,391,1,5,South Africa,Aiden Markram,Chris Jordan,,20,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.3,1,1,0,154403,-148.10,150.23,6,0,,,Knuckleball,5,LOFT OFF,0,0,3,19,181,2,0,0,3,0,0,0,0,0
+119,4,391,1,5,South Africa,Aiden Markram,Chris Jordan,,20,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.4,1,1,0,154404,14.89,180.16,1,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,4,19,182,2,0,0,3,0,0,0,0,0
+120,5,391,1,5,South Africa,Rassie van der Dussen,Chris Jordan,,20,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.5,1,1,0,154405,150.26,153.45,6,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,5,19,188,2,0,0,3,0,0,0,0,0
+121,6,391,1,5,South Africa,Rassie van der Dussen,Chris Jordan,,20,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.6,1,1,0,154406,-142.12,-27.04,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,19,189,2,0,0,3,0,0,0,0,0
+122,1,391,2,3,England,Jason Roy,Keshav Maharaj,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,154407,-66.15,45.25,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+123,2,391,2,3,England,Jason Roy,Keshav Maharaj,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,154408,-33.92,66.43,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+124,3,391,2,3,England,Jason Roy,Keshav Maharaj,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,154409,-23.33,66.43,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,0,0,0,0,0,0,0,0,0,0,0
+125,4,391,2,3,England,Jason Roy,Keshav Maharaj,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,154410,-86.41,164.96,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,0,1,0,0,0,0,0,0,0,0,0
+126,5,391,2,3,England,Jos Buttler,Keshav Maharaj,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,154411,-102.06,17.63,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,0,1,0,0,0,0,0,0,0,0,0
+127,6,391,2,3,England,Jos Buttler,Keshav Maharaj,,1,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,0.6,2,1,1,154412,97.77,13.02,1,0,,,Knuckleball,40,FLICK,0,0,6,0,2,0,0,0,0,0,0,0,0,0
+128,1,391,2,3,England,Jos Buttler,Anrich Nortje,,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,154413,-96.54,77.48,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,1,3,0,1,0,0,0,0,0,0,0
+129,2,391,2,3,England,Jason Roy,Anrich Nortje,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,154414,-60.62,-45.45,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,1,3,0,0,0,0,0,0,0,0,0
+130,3,391,2,3,England,Jason Roy,Anrich Nortje,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,154415,73.36,13.48,0,0,,,Knuckleball,40,FLICK,0,0,3,1,3,0,0,0,0,0,0,0,0,0
+131,4,391,2,3,England,Jason Roy,Anrich Nortje,,2,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.4,2,1,0,154416,-52.33,221.14,4,0,,,Knuckleball,21,SD OFF,0,0,4,1,7,0,0,0,0,0,0,0,0,0
+132,5,391,2,3,England,Jason Roy,Anrich Nortje,,2,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,154417,-44.97,117.08,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,1,8,0,0,0,0,0,0,0,0,0
+133,6,391,2,3,England,Jos Buttler,Anrich Nortje,,2,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.6,2,1,0,154418,-30.23,210.55,4,0,,,Knuckleball,5,LOFT OFF,0,0,6,1,12,0,0,0,0,0,0,0,0,0
+134,1,391,2,3,England,Jason Roy,Keshav Maharaj,,3,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.1,2,1,0,154419,144.73,158.98,4,0,,,Knuckleball,94,SDL ON,0,0,1,2,16,0,1,0,0,0,0,0,0,0
+135,2,391,2,3,England,Jason Roy,Keshav Maharaj,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,154420,-71.67,61.83,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,2,16,0,0,0,0,0,0,0,0,0
+136,3,391,2,3,England,Jason Roy,Keshav Maharaj,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,154421,-64.31,7.96,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,2,16,0,0,0,0,0,0,0,0,0
+137,4,391,2,3,England,Jason Roy,Keshav Maharaj,,3,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.4,2,1,0,154422,193.08,-12.76,4,0,,,Knuckleball,58,PULL SHOT,0,0,4,2,20,0,0,0,0,0,0,0,0,0
+138,5,391,2,3,England,Jason Roy,Keshav Maharaj,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,154423,147.49,8.42,1,0,,,Knuckleball,40,FLICK,0,0,5,2,21,0,0,0,0,0,0,0,0,0
+139,6,391,2,3,England,Jos Buttler,Keshav Maharaj,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,154424,-76.28,72.88,1,0,,,Knuckleball,21,SD OFF,0,0,6,2,22,0,0,0,0,0,0,0,0,0
+140,1,391,2,3,England,Jos Buttler,Kagiso Rabada,,4,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.1,2,1,0,154425,-187.24,77.48,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,3,26,0,1,0,0,0,0,0,0,0
+141,2,391,2,3,England,Jos Buttler,Kagiso Rabada,,4,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.2,2,1,0,154426,184.33,74.26,4,0,,,Knuckleball,18,SLOG SHOT,0,0,2,3,30,0,0,0,0,0,0,0,0,0
+142,3,391,2,3,England,Jos Buttler,Kagiso Rabada,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,154427,68.30,-104.85,1,0,,,Knuckleball,54,LEG GLANCE,0,0,3,3,31,0,0,0,0,0,0,0,0,0
+143,4,391,2,3,England,Jason Roy,Kagiso Rabada,,4,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.4,2,1,0,154428,65.08,-149.51,4,0,,,Knuckleball,40,FLICK,0,0,4,3,35,0,0,0,0,0,0,0,0,0
+144,5,391,2,3,England,Jason Roy,Kagiso Rabada,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,154429,74.28,-109.91,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,3,36,0,0,0,0,0,0,0,0,0
+145,6,391,2,3,England,Jos Buttler,Kagiso Rabada,,4,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,154430,-87.33,52.16,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,3,37,0,0,0,0,0,0,0,0,0
+146,1,391,2,3,England,Jos Buttler,Keshav Maharaj,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,Retired Hurt,,0,4.1,2,1,0,154431,152.56,44.33,1,0,,,Knuckleball,37,SD FLICK,0,0,1,4,38,1,1,0,0,0,0,0,0,0
+147,2,391,2,3,England,Moeen Ali,Keshav Maharaj,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,154432,151.64,53.54,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,4,39,1,0,0,0,0,0,0,0,0
+148,3,391,2,3,England,Jos Buttler,Keshav Maharaj,,5,3,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,4.3,2,1,1,154433,151.64,53.54,1,0,,,Knuckleball,37,SD FLICK,0,0,3,4,40,1,0,0,0,0,0,0,0,0
+149,4,391,2,3,England,Moeen Ali,Keshav Maharaj,,5,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,4.4,2,1,1,154434,53.10,-52.36,1,0,,,Knuckleball,105,LEFT ALONE,0,0,4,4,41,1,0,0,0,0,0,0,0,0
+150,5,391,2,3,England,Moeen Ali,Keshav Maharaj,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,154435,-149.03,62.75,1,0,,,Knuckleball,18,SLOG SHOT,0,0,5,4,42,1,0,0,0,0,0,0,0,0
+151,6,391,2,3,England,Jos Buttler,Keshav Maharaj,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,154436,151.64,53.54,1,0,,,Knuckleball,40,FLICK,0,0,6,4,43,1,0,0,0,0,0,0,0,0
+152,7,391,2,3,England,Moeen Ali,Keshav Maharaj,,5,6,5 (NB),5,4,0,0,0,0,1,0,1,0,0,1,0,0,,,0,4.6,2,1,1,154437,173.74,133.19,5,0,,,Knuckleball,15,LOFT COVER,0,0,7,4,48,1,0,0,0,0,0,0,0,0
+153,8,391,2,3,England,Moeen Ali,Keshav Maharaj,,5,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,154438,147.49,-13.68,2,0,,,Knuckleball,11,LOFT ON,0,0,8,4,50,1,0,1,1,0,1,0,0,0
+154,1,391,2,3,England,Jos Buttler,Anrich Nortje,,6,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,5.1,2,1,0,154439,159.46,129.05,6,0,,,Knuckleball,18,SLOG SHOT,0,0,1,5,56,1,1,0,1,0,0,0,0,0
+155,2,391,2,3,England,Jos Buttler,Anrich Nortje,,6,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,154440,-124.16,129.05,2,0,,,Knuckleball,84,OFF DRIVE,0,0,2,5,58,1,0,0,1,0,0,0,0,0
+156,3,391,2,3,England,Jos Buttler,Anrich Nortje,,6,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.3,2,1,0,154441,-124.16,129.05,0,0,,,Knuckleball,5,LOFT OFF,0,0,3,5,58,2,1,0,1,0,0,0,0,0
+157,4,391,2,3,England,Jonny Bairstow,Anrich Nortje,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,154442,124.93,43.41,1,0,,,Knuckleball,40,FLICK,0,0,4,5,59,2,2,0,1,0,0,0,0,0
+158,5,391,2,3,England,Moeen Ali,Anrich Nortje,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,154443,108.36,17.63,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,5,59,2,0,0,1,0,0,0,0,0
+159,6,391,2,3,England,Moeen Ali,Anrich Nortje,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,154444,74.28,-1.71,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,5,59,2,0,0,1,0,0,0,0,0
+160,1,391,2,3,England,Jonny Bairstow,Tabraiz Shamsi,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,154445,34.69,-6.32,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,6,59,2,1,0,1,0,0,0,0,0
+161,2,391,2,3,England,Jonny Bairstow,Tabraiz Shamsi,,7,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,6.2,2,1,0,154446,34.69,-6.32,0,0,,,Knuckleball,40,FLICK,0,0,2,6,59,3,2,0,1,0,0,0,0,0
+162,3,391,2,3,England,Dawid Malan,Tabraiz Shamsi,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,154447,162.69,41.11,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,6,60,3,3,0,1,0,0,0,0,0
+163,4,391,2,3,England,Moeen Ali,Tabraiz Shamsi,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,154448,162.69,41.11,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,6,60,3,0,0,1,0,0,0,0,0
+164,5,391,2,3,England,Moeen Ali,Tabraiz Shamsi,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,154449,-91.93,19.01,1,0,,,Knuckleball,40,FLICK,0,0,5,6,61,3,0,0,1,0,0,0,0,0
+165,6,391,2,3,England,Dawid Malan,Tabraiz Shamsi,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,154450,-91.93,19.01,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,6,61,3,0,0,1,0,0,0,0,0
+166,1,391,2,3,England,Moeen Ali,Aiden Markram,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,154451,91.78,53.08,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,7,61,3,1,0,1,0,0,0,0,0
+167,2,391,2,3,England,Moeen Ali,Aiden Markram,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,154452,-118.18,130.43,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,7,62,3,0,0,1,0,0,0,0,0
+168,3,391,2,3,England,Dawid Malan,Aiden Markram,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,154453,-118.18,130.43,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,7,62,3,0,0,1,0,0,0,0,0
+169,4,391,2,3,England,Dawid Malan,Aiden Markram,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,154454,102.83,143.32,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,7,63,3,0,0,1,0,0,0,0,0
+170,5,391,2,3,England,Moeen Ali,Aiden Markram,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,154455,-20.56,189.37,1,0,,,Knuckleball,74,SD ON,0,0,5,7,64,3,0,0,1,0,0,0,0,0
+171,6,391,2,3,England,Dawid Malan,Aiden Markram,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,154456,13.51,68.27,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,7,64,3,0,0,1,0,0,0,0,0
+172,1,391,2,3,England,Moeen Ali,Tabraiz Shamsi,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,154457,90.40,50.78,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,8,64,3,1,0,1,0,0,0,0,0
+173,2,391,2,3,England,Moeen Ali,Tabraiz Shamsi,,9,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.2,2,1,0,154458,-192.31,61.83,4,0,,,Knuckleball,37,SD FLICK,0,0,2,8,68,3,0,0,1,0,0,0,0,0
+174,3,391,2,3,England,Moeen Ali,Tabraiz Shamsi,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,154459,-192.31,61.83,0,0,,,Knuckleball,58,PULL SHOT,0,0,3,8,68,3,0,0,1,0,0,0,0,0
+175,4,391,2,3,England,Moeen Ali,Tabraiz Shamsi,,9,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,154460,154.86,68.27,2,0,,,Knuckleball,15,LOFT COVER,0,0,4,8,70,3,0,0,1,0,0,0,0,0
+176,5,391,2,3,England,Moeen Ali,Tabraiz Shamsi,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,154461,94.08,-16.45,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,8,70,3,0,0,1,0,0,0,0,0
+177,6,391,2,3,England,Moeen Ali,Tabraiz Shamsi,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,154462,86.26,-18.29,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,8,70,3,0,0,1,0,0,0,0,0
+178,1,391,2,3,England,Dawid Malan,Kagiso Rabada,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,154463,48.04,116.62,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,9,71,3,1,0,1,0,0,0,0,0
+179,2,391,2,3,England,Moeen Ali,Kagiso Rabada,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,154464,-144.42,-27.04,1,0,,,Knuckleball,40,FLICK,0,0,2,9,72,3,0,0,1,0,0,0,0,0
+180,3,391,2,3,England,Dawid Malan,Kagiso Rabada,,10,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.3,2,1,0,154465,51.72,-154.12,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,9,76,3,0,0,1,0,0,0,0,0
+181,4,391,2,3,England,Dawid Malan,Kagiso Rabada,,10,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.4,2,1,0,154466,172.82,106.49,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,9,80,3,0,0,1,0,0,0,0,0
+182,5,391,2,3,England,Dawid Malan,Kagiso Rabada,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,154467,79.35,6.58,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,9,80,3,0,0,1,0,0,0,0,0
+183,6,391,2,3,England,Dawid Malan,Kagiso Rabada,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,154468,-142.12,-22.89,1,0,,,Knuckleball,40,FLICK,0,0,6,9,81,3,0,0,1,0,0,0,0,0
+184,1,391,2,3,England,Dawid Malan,Tabraiz Shamsi,,11,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,154469,13.97,-125.11,2,0,,,Knuckleball,56,REVERSE SWEEP,0,0,1,10,83,3,1,0,1,0,0,0,0,0
+185,2,391,2,3,England,Dawid Malan,Tabraiz Shamsi,,11,2,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,154470,23.18,-118.66,3,0,,,Knuckleball,44,GLIDE,0,0,2,10,86,3,0,0,1,0,0,0,0,0
+186,3,391,2,3,England,Moeen Ali,Tabraiz Shamsi,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,154471,90.86,37.42,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,10,86,3,0,0,1,0,0,0,0,0
+187,4,391,2,3,England,Moeen Ali,Tabraiz Shamsi,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,154472,-62.46,-27.04,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,10,87,3,0,0,1,0,0,0,0,0
+188,5,391,2,3,England,Dawid Malan,Tabraiz Shamsi,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,154473,32.85,-60.19,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,5,10,87,3,0,0,1,0,0,0,0,0
+189,6,391,2,3,England,Dawid Malan,Tabraiz Shamsi,,11,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,154474,130.92,-47.76,2,0,,,Knuckleball,36,CUT SHOT,0,0,6,10,89,3,0,0,1,0,0,0,0,0
+190,1,391,2,3,England,Moeen Ali,Aiden Markram,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,154475,22.26,67.81,0,0,,,Knuckleball,1,SD STRAIGHT,0,0,1,11,89,3,1,0,1,0,0,0,0,0
+191,2,391,2,3,England,Moeen Ali,Aiden Markram,,12,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,11.2,2,1,0,154476,43.44,210.55,6,0,,,Knuckleball,122,SDL OFF,0,0,2,11,95,3,0,0,1,0,0,0,0,0
+192,3,391,2,3,England,Moeen Ali,Aiden Markram,,12,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.3,2,1,0,154477,43.44,210.55,4,0,,,Knuckleball,21,SD OFF,0,0,3,11,99,3,0,0,1,0,0,0,0,0
+193,4,391,2,3,England,Moeen Ali,Aiden Markram,,12,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,11.4,2,1,1,154478,43.44,210.55,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,11,100,3,0,1,2,0,0,1,0,0
+194,5,391,2,3,England,Moeen Ali,Aiden Markram,,12,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,11.4,2,1,1,154479,43.44,210.55,1,0,,,Knuckleball,54,LEG GLANCE,0,0,5,11,101,3,0,0,2,0,0,0,0,0
+195,6,391,2,3,England,Moeen Ali,Aiden Markram,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,154480,-133.83,96.36,1,0,,,Knuckleball,40,FLICK,0,0,6,11,102,3,0,0,2,0,0,0,0,0
+196,7,391,2,3,England,Dawid Malan,Aiden Markram,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,154481,-30.69,185.22,1,0,,,Knuckleball,74,SD ON,0,0,7,11,103,3,0,0,2,0,0,0,0,0
+197,8,391,2,3,England,Moeen Ali,Aiden Markram,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,154482,-116.79,115.24,1,0,,,Knuckleball,40,FLICK,0,0,8,11,104,3,0,0,2,0,0,0,0,0
+198,1,391,2,3,England,Moeen Ali,Tabraiz Shamsi,,13,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,12.1,2,1,0,154483,-143.96,169.57,6,0,,,Knuckleball,94,SDL ON,0,0,1,12,110,3,1,0,2,0,0,0,0,0
+199,2,391,2,3,England,Moeen Ali,Tabraiz Shamsi,,13,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,12.2,2,1,0,154484,-143.96,169.57,0,0,,,Knuckleball,94,SDL ON,0,0,2,12,110,4,2,0,2,0,0,0,0,0
+200,3,391,2,3,England,Liam Livingstone,Tabraiz Shamsi,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,154485,32.85,-47.29,0,0,,,Knuckleball,84,OFF DRIVE,0,0,3,12,110,4,3,0,2,0,0,0,0,0
+201,4,391,2,3,England,Liam Livingstone,Tabraiz Shamsi,,13,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,154486,76.13,59.99,0,0,,,Knuckleball,40,FLICK,0,0,4,12,110,4,0,0,2,0,0,0,0,0
+202,5,391,2,3,England,Liam Livingstone,Tabraiz Shamsi,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,154487,102.37,155.76,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,12,111,4,0,0,2,0,0,0,0,0
+203,6,391,2,3,England,Dawid Malan,Tabraiz Shamsi,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,154488,-85.95,71.04,1,0,,,Knuckleball,40,FLICK,0,0,6,12,112,4,0,0,2,0,0,0,0,0
+204,1,391,2,3,England,Dawid Malan,Anrich Nortje,,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,154489,-85.95,71.04,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,13,112,4,1,0,2,0,0,0,0,0
+205,2,391,2,3,England,Dawid Malan,Anrich Nortje,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,154490,-85.95,71.04,0,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,2,13,112,4,0,0,2,0,0,0,0,0
+206,3,391,2,3,England,Dawid Malan,Anrich Nortje,,14,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.3,2,1,0,154491,-156.39,-71.24,4,0,,,Knuckleball,40,FLICK,0,0,3,13,116,4,0,0,2,0,0,0,0,0
+207,4,391,2,3,England,Dawid Malan,Anrich Nortje,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,154492,-20.56,13.94,0,0,,,Knuckleball,58,PULL SHOT,0,0,4,13,116,4,0,0,2,0,0,0,0,0
+208,5,391,2,3,England,Dawid Malan,Anrich Nortje,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,154493,-128.77,-8.16,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,13,117,4,0,0,2,0,0,0,0,0
+209,6,391,2,3,England,Liam Livingstone,Anrich Nortje,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,154494,-128.77,-8.16,0,0,,,Knuckleball,37,SD FLICK,0,0,6,13,117,4,0,0,2,0,0,0,0,0
+210,1,391,2,3,England,Dawid Malan,Dwaine Pretorius,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,154495,-128.77,-8.16,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,14,117,4,1,0,2,0,0,0,0,0
+211,2,391,2,3,England,Dawid Malan,Dwaine Pretorius,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,154496,-128.77,-8.16,0,0,,,Knuckleball,18,SLOG SHOT,0,0,2,14,117,4,0,0,2,0,0,0,0,0
+212,3,391,2,3,England,Dawid Malan,Dwaine Pretorius,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,154497,114.34,131.81,1,0,,,Knuckleball,84,OFF DRIVE,0,0,3,14,118,4,0,0,2,0,0,0,0,0
+213,4,391,2,3,England,Liam Livingstone,Dwaine Pretorius,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,154498,-100.68,24.07,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,14,118,4,0,0,2,0,0,0,0,0
+214,5,391,2,3,England,Liam Livingstone,Dwaine Pretorius,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,154499,86.72,8.88,1,0,,,Knuckleball,21,SD OFF,0,0,5,14,119,4,0,0,2,0,0,0,0,0
+215,6,391,2,3,England,Dawid Malan,Dwaine Pretorius,,15,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,14.6,2,1,0,154500,78.43,206.86,6,0,,,Knuckleball,5,LOFT OFF,0,0,6,14,125,4,0,0,2,0,0,0,0,0
+216,1,391,2,3,England,Liam Livingstone,Kagiso Rabada,,16,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.1,2,1,0,154501,186.17,97.28,6,0,,,Knuckleball,18,SLOG SHOT,0,0,1,15,131,4,1,0,2,0,0,0,0,0
+217,2,391,2,3,England,Liam Livingstone,Kagiso Rabada,,16,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.2,2,1,0,154502,170.97,135.96,6,0,,,Knuckleball,18,SLOG SHOT,0,0,2,15,137,4,0,0,2,0,0,0,0,0
+218,3,391,2,3,England,Liam Livingstone,Kagiso Rabada,,16,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.3,2,1,0,154503,-7.67,213.31,6,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,3,15,143,4,0,0,2,0,0,0,0,0
+219,4,391,2,3,England,Liam Livingstone,Kagiso Rabada,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,154504,14.43,-38.55,0,0,,,Knuckleball,18,SLOG SHOT,0,0,4,15,143,4,0,0,2,0,0,0,0,0
+220,5,391,2,3,England,Liam Livingstone,Kagiso Rabada,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,154505,14.43,-38.55,0,0,,,Knuckleball,18,SLOG SHOT,0,0,5,15,143,4,0,0,2,0,0,0,0,0
+221,6,391,2,3,England,Liam Livingstone,Kagiso Rabada,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,154506,138.28,100.04,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,15,144,4,0,0,2,0,0,0,0,0
+222,1,391,2,3,England,Liam Livingstone,Dwaine Pretorius,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,154507,-100.68,84.85,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,16,145,4,1,0,2,0,0,0,0,0
+223,2,391,2,3,England,Dawid Malan,Dwaine Pretorius,,17,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,16.2,2,1,0,154508,-100.68,84.85,0,0,,,Knuckleball,5,LOFT OFF,0,0,2,16,145,5,2,0,2,0,0,0,0,0
+224,3,391,2,3,England,Liam Livingstone,Dwaine Pretorius,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,154509,107.90,123.53,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,3,16,146,5,3,0,2,0,0,0,0,0
+225,4,391,2,3,England,Eoin Morgan,Dwaine Pretorius,,17,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.4,2,1,0,154510,-157.77,-80.45,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,16,150,5,0,1,3,0,0,0,0,0
+226,5,391,2,3,England,Eoin Morgan,Dwaine Pretorius,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,154511,-36.68,-61.11,1,0,,,Knuckleball,94,SDL ON,0,0,5,16,151,5,0,0,3,0,0,0,0,0
+227,6,391,2,3,England,Liam Livingstone,Dwaine Pretorius,,17,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.6,2,1,0,154512,-160.54,-77.22,4,0,,,Knuckleball,36,CUT SHOT,0,0,6,16,155,5,0,0,3,0,0,0,0,0
+228,1,391,2,3,England,Eoin Morgan,Anrich Nortje,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,154513,108.36,-79.99,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,17,156,5,1,0,3,0,0,0,0,0
+229,2,391,2,3,England,Liam Livingstone,Anrich Nortje,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,154514,-91.47,153.45,1,0,,,Knuckleball,96,Slice,0,0,2,17,157,5,0,0,3,0,0,0,0,0
+230,3,391,2,3,England,Eoin Morgan,Anrich Nortje,,18,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.3,2,1,0,154515,166.83,118.46,4,0,,,Knuckleball,36,CUT SHOT,0,0,3,17,161,5,0,0,3,0,0,0,0,0
+231,4,391,2,3,England,Eoin Morgan,Anrich Nortje,,18,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,154516,92.24,-17.83,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,17,161,5,0,0,3,0,0,0,0,0
+232,5,391,2,3,England,Eoin Morgan,Anrich Nortje,,18,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.5,2,1,0,154517,149.79,-92.88,4,0,,,Knuckleball,36,CUT SHOT,0,0,5,17,165,5,0,0,3,0,0,0,0,0
+233,6,391,2,3,England,Eoin Morgan,Anrich Nortje,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,154518,149.79,-92.88,0,0,,,Knuckleball,96,Slice,0,0,6,17,165,5,0,0,3,0,0,0,0,0
+234,1,391,2,3,England,Liam Livingstone,Dwaine Pretorius,,19,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.1,2,1,0,154519,149.79,-92.88,0,0,,,Knuckleball,58,PULL SHOT,0,0,1,18,165,6,1,0,3,0,0,0,0,0
+235,2,391,2,3,England,Eoin Morgan,Dwaine Pretorius,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,154520,10.28,-22.89,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,2,18,165,6,2,0,3,0,0,0,0,0
+236,3,391,2,3,England,Eoin Morgan,Dwaine Pretorius,,19,3,2 (NB),2,1,1,0,0,0,1,0,1,0,0,0,0,0,,,0,18.3,2,1,1,154521,-114.03,134.12,2,0,,,Knuckleball,58,PULL SHOT,0,0,3,18,167,6,0,0,3,0,0,0,0,0
+237,4,391,2,3,England,Chris Woakes,Dwaine Pretorius,,19,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.3,2,1,0,154522,-127.85,171.87,6,0,,,Knuckleball,5,LOFT OFF,0,0,4,18,173,6,0,0,3,0,0,0,0,0
+238,5,391,2,3,England,Chris Woakes,Dwaine Pretorius,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,154523,48.50,-59.73,1,0,,,Knuckleball,18,SLOG SHOT,0,0,5,18,174,6,0,0,3,0,0,0,0,0
+239,6,391,2,3,England,Eoin Morgan,Dwaine Pretorius,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,2,1,0,154524,48.50,-59.73,0,0,,,Knuckleball,18,SLOG SHOT,0,0,6,18,174,6,0,0,3,0,0,0,0,0
+240,7,391,2,3,England,Eoin Morgan,Dwaine Pretorius,,19,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.6,2,1,0,154525,-149.03,46.17,2,0,,,Knuckleball,18,SLOG SHOT,0,0,7,18,176,6,0,0,3,0,0,0,0,0
+241,1,391,2,3,England,Chris Woakes,Kagiso Rabada,,20,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.1,2,1,0,154526,-149.03,46.17,0,0,,,Knuckleball,18,SLOG SHOT,0,0,1,19,176,7,1,0,3,0,0,0,0,0
+242,2,391,2,3,England,Eoin Morgan,Kagiso Rabada,,20,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.2,2,1,0,154527,-149.03,46.17,0,0,,,Knuckleball,58,PULL SHOT,0,0,2,19,176,8,0,0,3,0,0,0,0,0
+243,3,391,2,3,England,Chris Jordan,Kagiso Rabada,,20,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.3,2,1,0,154528,-149.03,46.17,0,0,,,Knuckleball,5,LOFT OFF,0,0,3,19,176,9,0,0,3,0,0,0,0,1
+244,4,391,2,3,England,Adil Rashid,Kagiso Rabada,,20,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.4,2,1,0,154529,105.13,125.37,1,0,,,Knuckleball,18,SLOG SHOT,0,0,4,19,177,9,1,0,3,0,0,0,0,0
+245,5,391,2,3,England,Mark Wood,Kagiso Rabada,,20,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.5,2,1,0,154530,141.51,96.82,1,0,,,Knuckleball,58,PULL SHOT,0,0,5,19,178,9,0,0,3,0,0,0,0,0
+246,6,391,2,3,England,Adil Rashid,Kagiso Rabada,,20,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.6,2,1,0,154531,86.72,164.50,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,19,179,9,0,0,3,0,0,0,0,0

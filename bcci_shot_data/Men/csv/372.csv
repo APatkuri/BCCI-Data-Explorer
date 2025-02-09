@@ -1,0 +1,215 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,372,1,11,Bangladesh,Liton Das,Moeen Ali,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,149995,-71.50,24.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,372,1,11,Bangladesh,Liton Das,Moeen Ali,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,149996,-81.00,-21.50,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2,3,372,1,11,Bangladesh,Liton Das,Moeen Ali,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,149997,135.50,73.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+3,4,372,1,11,Bangladesh,Mohammad Naim Sheikh,Moeen Ali,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,149998,-87.50,-14.50,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,0,2,0,0,0,0,0,0,0,0,0
+4,5,372,1,11,Bangladesh,Liton Das,Moeen Ali,,1,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.5,2,1,0,149999,61.50,207.00,4,0,,,Knuckleball,94,SDL ON,0,0,5,0,6,0,0,0,0,0,0,0,0,0
+5,6,372,1,11,Bangladesh,Liton Das,Moeen Ali,,1,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.6,2,1,0,150000,-130.50,163.50,4,0,,,Knuckleball,122,SDL OFF,0,0,6,0,10,0,0,0,0,0,0,0,0,0
+6,1,372,1,11,Bangladesh,Mohammad Naim Sheikh,Chris Woakes,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,150001,-16.00,46.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,1,10,0,1,0,0,0,0,0,0,0
+7,2,372,1,11,Bangladesh,Mohammad Naim Sheikh,Chris Woakes,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,150002,58.00,18.50,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,1,10,0,0,0,0,0,0,0,0,0
+8,3,372,1,11,Bangladesh,Mohammad Naim Sheikh,Chris Woakes,,2,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,150003,-119.00,46.00,2,0,,,Knuckleball,58,PULL SHOT,0,0,3,1,12,0,0,0,0,0,0,0,0,0
+9,4,372,1,11,Bangladesh,Mohammad Naim Sheikh,Chris Woakes,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,150004,80.00,92.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,4,1,13,0,0,0,0,0,0,0,0,0
+10,5,372,1,11,Bangladesh,Liton Das,Chris Woakes,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,150005,80.00,92.00,0,0,,,Knuckleball,40,FLICK,0,0,5,1,13,0,0,0,0,0,0,0,0,0
+11,6,372,1,11,Bangladesh,Liton Das,Chris Woakes,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,150006,80.00,92.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,6,1,13,0,0,0,0,0,0,0,0,0
+12,1,372,1,11,Bangladesh,Mohammad Naim Sheikh,Moeen Ali,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,150007,-102.50,93.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,2,14,0,1,0,0,0,0,0,0,0
+13,2,372,1,11,Bangladesh,Liton Das,Moeen Ali,,3,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,2.2,2,1,0,150008,121.50,-48.00,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,2,14,1,2,0,0,0,0,0,0,0
+14,3,372,1,11,Bangladesh,Mohammad Naim Sheikh,Moeen Ali,,3,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,2.3,2,1,0,150009,-56.00,107.50,0,0,,,Knuckleball,94,SDL ON,0,0,3,2,14,2,0,0,0,0,0,0,0,0
+15,4,372,1,11,Bangladesh,Mushfiqur Rahim,Moeen Ali,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,150010,-45.00,28.50,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,2,14,2,1,0,0,0,0,0,0,0
+16,5,372,1,11,Bangladesh,Mushfiqur Rahim,Moeen Ali,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,150011,-62.50,-24.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,2,14,2,0,0,0,0,0,0,0,0
+17,6,372,1,11,Bangladesh,Mushfiqur Rahim,Moeen Ali,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,150012,138.50,19.50,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,2,15,2,0,0,0,0,0,0,0,0
+18,1,372,1,11,Bangladesh,Mushfiqur Rahim,Chris Woakes,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,150013,-86.50,-18.50,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,3,15,2,1,0,0,0,0,0,0,0
+19,2,372,1,11,Bangladesh,Mushfiqur Rahim,Chris Woakes,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,150014,137.50,49.50,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,3,16,2,0,0,0,0,0,0,0,0
+20,3,372,1,11,Bangladesh,Shakib Al Hasan,Chris Woakes,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,150015,-26.00,49.50,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,3,16,2,0,0,0,0,0,0,0,0
+21,4,372,1,11,Bangladesh,Shakib Al Hasan,Chris Woakes,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,150016,-89.00,-7.00,1,0,,,Knuckleball,40,FLICK,0,0,4,3,17,2,0,0,0,0,0,0,0,0
+22,5,372,1,11,Bangladesh,Mushfiqur Rahim,Chris Woakes,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,150017,-89.00,-7.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,3,17,2,0,0,0,0,0,0,0,0
+23,6,372,1,11,Bangladesh,Mushfiqur Rahim,Chris Woakes,,4,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,150018,133.50,-14.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,6,3,18,2,0,0,0,0,0,0,0,0
+24,1,372,1,11,Bangladesh,Mushfiqur Rahim,Moeen Ali,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,150019,138.50,-27.00,1,0,,,Knuckleball,40,FLICK,0,0,1,4,19,2,1,0,0,0,0,0,0,0
+25,2,372,1,11,Bangladesh,Shakib Al Hasan,Moeen Ali,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,150020,-27.00,41.50,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,2,4,19,2,0,0,0,0,0,0,0,0
+26,3,372,1,11,Bangladesh,Shakib Al Hasan,Moeen Ali,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,150021,-27.00,41.50,0,0,,,Knuckleball,,,0,0,3,4,19,2,0,0,0,0,0,0,0,0
+27,4,372,1,11,Bangladesh,Shakib Al Hasan,Moeen Ali,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,150022,60.00,96.50,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,4,20,2,0,0,0,0,0,0,0,0
+28,5,372,1,11,Bangladesh,Mushfiqur Rahim,Moeen Ali,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,150023,-83.50,-13.00,0,0,,,Knuckleball,35,LATE CUT,0,0,5,4,20,2,0,0,0,0,0,0,0,0
+29,6,372,1,11,Bangladesh,Mushfiqur Rahim,Moeen Ali,,5,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.6,2,1,0,150024,-24.50,220.00,4,0,,,Knuckleball,13,LOFT STRAIGHT,0,0,6,4,24,2,0,0,0,0,0,0,0,0
+30,1,372,1,11,Bangladesh,Shakib Al Hasan,Chris Woakes,,6,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,150025,-133.50,79.50,2,0,,,Knuckleball,58,PULL SHOT,0,0,1,5,26,2,1,0,0,0,0,0,0,0
+31,2,372,1,11,Bangladesh,Shakib Al Hasan,Chris Woakes,,6,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.2,2,1,0,150026,-38.50,-50.50,0,0,,,Knuckleball,58,PULL SHOT,0,0,2,5,26,3,2,0,0,0,0,0,0,0
+32,3,372,1,11,Bangladesh,Mushfiqur Rahim,Chris Woakes,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,150027,-50.00,19.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,5,26,3,3,0,0,0,0,0,0,0
+33,4,372,1,11,Bangladesh,Mushfiqur Rahim,Chris Woakes,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,150028,33.00,-55.50,0,0,,,Knuckleball,40,FLICK,0,0,4,5,26,3,0,0,0,0,0,0,0,0
+34,5,372,1,11,Bangladesh,Mushfiqur Rahim,Chris Woakes,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,150029,-67.50,-13.50,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,5,26,3,0,0,0,0,0,0,0,0
+35,6,372,1,11,Bangladesh,Mushfiqur Rahim,Chris Woakes,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,150030,-67.00,-105.50,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,5,27,3,0,0,0,0,0,0,0,0
+36,1,372,1,11,Bangladesh,Mushfiqur Rahim,Adil Rashid,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,150031,32.00,-52.00,0,0,,,Knuckleball,54,LEG GLANCE,0,0,1,6,27,3,1,0,0,0,0,0,0,0
+37,2,372,1,11,Bangladesh,Mushfiqur Rahim,Adil Rashid,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,150032,25.00,54.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,6,27,3,0,0,0,0,0,0,0,0
+38,3,372,1,11,Bangladesh,Mushfiqur Rahim,Adil Rashid,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,150033,-89.50,-69.50,1,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,6,28,3,0,0,0,0,0,0,0,0
+39,4,372,1,11,Bangladesh,Mahmudullah,Adil Rashid,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,150034,-95.00,128.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,6,29,3,0,0,0,0,0,0,0,0
+40,5,372,1,11,Bangladesh,Mushfiqur Rahim,Adil Rashid,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,150035,-118.00,141.50,1,0,,,Knuckleball,5,LOFT OFF,0,0,5,6,30,3,0,0,0,0,0,0,0,0
+41,6,372,1,11,Bangladesh,Mahmudullah,Adil Rashid,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,150036,-75.00,-13.50,0,0,,,Knuckleball,35,LATE CUT,0,0,6,6,30,3,0,0,0,0,0,0,0,0
+42,1,372,1,11,Bangladesh,Mushfiqur Rahim,Chris Jordan,,8,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,150037,-92.00,-84.50,2,0,,,Knuckleball,36,CUT SHOT,0,0,1,7,32,3,1,0,0,0,0,0,0,0
+43,2,372,1,11,Bangladesh,Mushfiqur Rahim,Chris Jordan,,8,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,7.2,2,1,1,150038,-92.00,-84.50,1,0,,,Knuckleball,54,LEG GLANCE,0,0,2,7,33,3,0,0,0,0,0,0,0,0
+44,3,372,1,11,Bangladesh,Mushfiqur Rahim,Chris Jordan,,8,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.2,2,1,0,150039,-41.00,-151.50,4,0,,,Knuckleball,36,CUT SHOT,0,0,3,7,37,3,0,0,0,0,0,0,0,0
+45,4,372,1,11,Bangladesh,Mushfiqur Rahim,Chris Jordan,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,150040,-154.50,-25.00,1,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,4,7,38,3,0,0,0,0,0,0,0,0
+46,5,372,1,11,Bangladesh,Mahmudullah,Chris Jordan,,8,4,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,7.4,2,1,1,150041,129.50,-27.50,1,0,,,Knuckleball,40,FLICK,0,0,5,7,39,3,0,0,0,0,0,0,0,0
+47,6,372,1,11,Bangladesh,Mushfiqur Rahim,Chris Jordan,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,150042,129.50,-27.50,1,0,,,Knuckleball,40,FLICK,0,0,6,7,40,3,0,0,0,0,0,0,0,0
+48,7,372,1,11,Bangladesh,Mahmudullah,Chris Jordan,,8,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,7.6,2,1,1,150043,129.50,-27.50,1,0,,,Knuckleball,36,CUT SHOT,0,0,7,7,41,3,0,0,0,0,0,0,0,0
+49,8,372,1,11,Bangladesh,Mahmudullah,Chris Jordan,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,150044,-134.00,-21.50,1,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,8,7,42,3,0,0,0,0,0,0,0,0
+50,1,372,1,11,Bangladesh,Mahmudullah,Adil Rashid,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,150045,-138.00,37.50,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,8,43,3,1,0,0,0,0,0,0,0
+51,2,372,1,11,Bangladesh,Mushfiqur Rahim,Adil Rashid,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,150046,-25.50,-19.00,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,8,44,3,0,0,0,0,0,0,0,0
+52,3,372,1,11,Bangladesh,Mahmudullah,Adil Rashid,,9,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.3,2,1,0,150047,-75.50,199.00,4,0,,,Knuckleball,122,SDL OFF,0,0,3,8,48,3,0,0,0,0,0,0,0,0
+53,4,372,1,11,Bangladesh,Mahmudullah,Adil Rashid,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,150048,-70.50,-18.00,0,0,,,Knuckleball,35,LATE CUT,0,0,4,8,48,3,0,0,0,0,0,0,0,0
+54,5,372,1,11,Bangladesh,Mahmudullah,Adil Rashid,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,150049,71.00,-9.00,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,8,49,3,0,0,0,0,0,0,0,0
+55,6,372,1,11,Bangladesh,Mushfiqur Rahim,Adil Rashid,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,150050,-29.00,-49.00,0,0,,,Knuckleball,44,GLIDE,0,0,6,8,49,3,0,0,0,0,0,0,0,0
+56,1,372,1,11,Bangladesh,Mahmudullah,Tymal Mills,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,150051,-21.00,47.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,9,50,3,1,1,1,0,1,0,0,0
+57,2,372,1,11,Bangladesh,Mushfiqur Rahim,Tymal Mills,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,150052,-104.50,-78.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,9,51,3,0,0,1,0,0,0,0,0
+58,3,372,1,11,Bangladesh,Mahmudullah,Tymal Mills,,10,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,150053,126.50,102.50,2,0,,,Knuckleball,58,PULL SHOT,0,0,3,9,53,3,0,0,1,0,0,0,0,0
+59,4,372,1,11,Bangladesh,Mahmudullah,Tymal Mills,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,150054,122.50,27.00,1,0,,,Knuckleball,40,FLICK,0,0,4,9,54,3,0,0,1,0,0,0,0,0
+60,5,372,1,11,Bangladesh,Mushfiqur Rahim,Tymal Mills,,10,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.5,2,1,0,150055,-63.00,-144.50,4,0,,,Knuckleball,31,UPPER CUT,0,0,5,9,58,3,0,0,1,0,0,0,0,0
+61,6,372,1,11,Bangladesh,Mushfiqur Rahim,Tymal Mills,,10,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,150056,-102.50,-72.50,2,0,,,Knuckleball,96,Slice,0,0,6,9,60,3,0,0,1,0,0,0,0,0
+62,1,372,1,11,Bangladesh,Mahmudullah,Liam Livingstone,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,150057,-65.00,149.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,10,61,3,1,0,1,0,0,0,0,0
+63,2,372,1,11,Bangladesh,Mushfiqur Rahim,Liam Livingstone,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,150058,-81.50,-31.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,10,61,3,0,0,1,0,0,0,0,0
+64,3,372,1,11,Bangladesh,Mushfiqur Rahim,Liam Livingstone,,11,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,150059,-119.50,141.50,2,0,,,Knuckleball,61,INSIDE OUT,0,0,3,10,63,3,0,0,1,0,0,0,0,0
+65,4,372,1,11,Bangladesh,Mushfiqur Rahim,Liam Livingstone,,11,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,10.4,2,1,0,150060,-119.50,141.50,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,4,10,63,4,1,0,1,0,0,0,0,0
+66,5,372,1,11,Bangladesh,Afif Hossain Dhrubo,Liam Livingstone,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,150061,17.50,39.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,10,63,4,2,0,1,0,0,0,0,0
+67,6,372,1,11,Bangladesh,Afif Hossain Dhrubo,Liam Livingstone,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,150062,24.50,53.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,10,63,4,0,0,1,0,0,0,0,0
+68,1,372,1,11,Bangladesh,Mahmudullah,Chris Woakes,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,150063,136.00,-22.50,1,0,,,Knuckleball,40,FLICK,0,0,1,11,64,4,1,0,1,0,0,0,0,0
+69,2,372,1,11,Bangladesh,Afif Hossain Dhrubo,Chris Woakes,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,150064,136.00,-22.50,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,11,64,4,0,0,1,0,0,0,0,0
+70,3,372,1,11,Bangladesh,Afif Hossain Dhrubo,Chris Woakes,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,150065,71.50,109.50,1,0,,,Knuckleball,122,SDL OFF,0,0,3,11,65,4,0,0,1,0,0,0,0,0
+71,4,372,1,11,Bangladesh,Mahmudullah,Chris Woakes,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,150066,71.50,109.50,0,0,,,Knuckleball,58,PULL SHOT,0,0,4,11,65,4,0,0,1,0,0,0,0,0
+72,5,372,1,11,Bangladesh,Mahmudullah,Chris Woakes,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,150067,-22.00,60.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,11,65,4,0,0,1,0,0,0,0,0
+73,6,372,1,11,Bangladesh,Mahmudullah,Chris Woakes,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,150068,-24.00,-50.00,1,0,,,Knuckleball,44,GLIDE,0,0,6,11,66,4,0,0,1,0,0,0,0,0
+74,1,372,1,11,Bangladesh,Mahmudullah,Liam Livingstone,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,150069,-119.50,42.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,12,67,4,1,0,1,0,0,0,0,0
+75,2,372,1,11,Bangladesh,Afif Hossain Dhrubo,Liam Livingstone,,13,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.2,2,1,0,150070,179.00,-49.50,4,0,,,Knuckleball,36,CUT SHOT,0,0,2,12,71,4,0,0,1,0,0,0,0,0
+76,3,372,1,11,Bangladesh,Afif Hossain Dhrubo,Liam Livingstone,,13,3,1 (BY),1,0,0,0,0,1,1,0,0,1,0,0,0,0,,,0,12.3,2,1,1,150071,179.00,-49.50,1,0,,,Knuckleball,56,REVERSE SWEEP,0,0,3,12,72,4,0,0,1,0,0,0,0,0
+77,4,372,1,11,Bangladesh,Mahmudullah,Liam Livingstone,,13,4,1 WK,1,1,1,0,0,0,0,0,0,0,0,0,0,1,Run Out,WICKET,0,12.4,2,1,0,150072,55.50,-76.50,1,0,,,Knuckleball,54,LEG GLANCE,0,0,4,12,73,5,0,0,1,0,0,0,0,0
+78,5,372,1,11,Bangladesh,Nurul Hasan,Liam Livingstone,,13,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,150073,149.00,28.00,2,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,12,75,5,0,0,1,0,0,0,0,0
+79,6,372,1,11,Bangladesh,Nurul Hasan,Liam Livingstone,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,150074,-28.00,-57.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,12,76,5,0,0,1,0,0,0,0,0
+80,1,372,1,11,Bangladesh,Nurul Hasan,Chris Jordan,,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,150075,-28.00,-57.00,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,13,76,5,1,0,1,0,0,0,0,0
+81,2,372,1,11,Bangladesh,Nurul Hasan,Chris Jordan,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,150076,111.00,120.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,2,13,77,5,0,0,1,0,0,0,0,0
+82,3,372,1,11,Bangladesh,Mahmudullah,Chris Jordan,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,150077,65.50,-82.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,13,78,5,0,0,1,0,0,0,0,0
+83,4,372,1,11,Bangladesh,Nurul Hasan,Chris Jordan,,14,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,13.4,2,1,1,150078,65.50,-82.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,4,13,79,5,0,0,1,0,0,0,0,0
+84,5,372,1,11,Bangladesh,Nurul Hasan,Chris Jordan,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,150079,-144.50,-11.00,1,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,5,13,80,5,0,0,1,0,0,0,0,0
+85,6,372,1,11,Bangladesh,Mahmudullah,Chris Jordan,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,150080,-31.00,115.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,6,13,80,5,0,0,1,0,0,0,0,0
+86,7,372,1,11,Bangladesh,Mahmudullah,Chris Jordan,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,150081,-31.00,115.00,0,0,,,Knuckleball,122,SDL OFF,0,0,7,13,80,5,0,0,1,0,0,0,0,0
+87,1,372,1,11,Bangladesh,Nurul Hasan,Liam Livingstone,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,150082,142.00,30.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,14,81,5,1,0,1,0,0,0,0,0
+88,2,372,1,11,Bangladesh,Mahmudullah,Liam Livingstone,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,150083,33.50,-59.00,0,0,,,Knuckleball,54,LEG GLANCE,0,0,2,14,81,5,0,0,1,0,0,0,0,0
+89,3,372,1,11,Bangladesh,Mahmudullah,Liam Livingstone,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,150084,99.50,109.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,14,82,5,0,0,1,0,0,0,0,0
+90,4,372,1,11,Bangladesh,Nurul Hasan,Liam Livingstone,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,150085,113.00,119.50,1,0,,,Knuckleball,47,ON DRIVE,0,0,4,14,83,5,0,0,1,0,0,0,0,0
+91,5,372,1,11,Bangladesh,Mahmudullah,Liam Livingstone,,15,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,14.5,2,1,0,150086,-86.00,-19.50,0,0,,,Knuckleball,94,SDL ON,0,0,5,14,83,6,1,0,1,0,0,0,0,0
+92,6,372,1,11,Bangladesh,Mahedi Hasan,Liam Livingstone,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,150087,-93.00,-16.50,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,14,83,6,2,0,1,0,0,0,0,0
+93,1,372,1,11,Bangladesh,Nurul Hasan,Tymal Mills,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,150088,-75.00,-100.50,1,0,,,Knuckleball,44,GLIDE,0,0,1,15,84,6,3,0,1,0,0,0,0,0
+94,2,372,1,11,Bangladesh,Mahedi Hasan,Tymal Mills,,16,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,150089,-75.00,-100.50,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,15,84,6,0,0,1,0,0,0,0,0
+95,3,372,1,11,Bangladesh,Mahedi Hasan,Tymal Mills,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,150090,79.50,3.00,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,15,85,6,0,0,1,0,0,0,0,0
+96,4,372,1,11,Bangladesh,Nurul Hasan,Tymal Mills,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,150091,-82.00,-18.00,1,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,4,15,86,6,0,0,1,0,0,0,0,0
+97,5,372,1,11,Bangladesh,Mahedi Hasan,Tymal Mills,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,150092,-77.00,8.50,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,15,86,6,0,0,1,0,0,0,0,0
+98,6,372,1,11,Bangladesh,Mahedi Hasan,Tymal Mills,,16,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.6,2,1,0,150093,-44.50,-145.00,4,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,15,90,6,0,0,1,0,0,0,0,0
+99,1,372,1,11,Bangladesh,Nurul Hasan,Adil Rashid,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,150094,126.00,40.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,16,91,6,1,0,1,0,0,0,0,0
+100,2,372,1,11,Bangladesh,Mahedi Hasan,Adil Rashid,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,150095,80.50,16.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,16,92,6,0,0,1,0,0,0,0,0
+101,3,372,1,11,Bangladesh,Nurul Hasan,Adil Rashid,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,150096,81.00,8.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,16,93,6,0,0,1,0,0,0,0,0
+102,4,372,1,11,Bangladesh,Mahedi Hasan,Adil Rashid,,17,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.4,2,1,0,150097,-151.00,143.50,4,0,,,Knuckleball,61,INSIDE OUT,0,0,4,16,97,6,0,0,1,0,0,0,0,0
+103,5,372,1,11,Bangladesh,Mahedi Hasan,Adil Rashid,,17,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,150098,17.50,61.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,16,97,6,0,0,1,0,0,0,0,0
+104,6,372,1,11,Bangladesh,Mahedi Hasan,Adil Rashid,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,150099,122.00,33.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,16,98,6,0,0,1,0,0,0,0,0
+105,1,372,1,11,Bangladesh,Mahedi Hasan,Tymal Mills,,18,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,17.1,2,1,0,150100,35.00,-55.50,0,0,,,Knuckleball,99,SCOOP,0,0,1,17,98,7,1,0,1,0,0,0,0,0
+106,2,372,1,11,Bangladesh,Nasum Ahmed,Tymal Mills,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,150101,116.50,14.50,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,17,99,7,2,0,1,0,0,0,0,0
+107,3,372,1,11,Bangladesh,Nurul Hasan,Tymal Mills,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,150102,136.50,-24.50,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,17,100,7,0,1,2,0,0,1,0,0
+108,4,372,1,11,Bangladesh,Nasum Ahmed,Tymal Mills,,18,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,150103,63.00,-105.50,2,0,,,Knuckleball,58,PULL SHOT,0,0,4,17,102,7,0,0,2,0,0,0,0,0
+109,5,372,1,11,Bangladesh,Nasum Ahmed,Tymal Mills,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,150104,63.00,-105.50,0,0,,,Knuckleball,11,LOFT ON,0,0,5,17,102,7,0,0,2,0,0,0,0,0
+110,6,372,1,11,Bangladesh,Nasum Ahmed,Tymal Mills,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,150105,63.00,-105.50,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,17,102,7,0,0,2,0,0,0,0,0
+111,1,372,1,11,Bangladesh,Nurul Hasan,Adil Rashid,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,150106,135.00,61.00,1,0,,,Knuckleball,,,0,0,1,18,103,7,1,0,2,0,0,0,0,0
+112,2,372,1,11,Bangladesh,Nasum Ahmed,Adil Rashid,,19,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.2,2,1,0,150107,-175.50,-27.00,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,2,18,109,7,0,0,2,0,0,0,0,0
+113,3,372,1,11,Bangladesh,Nasum Ahmed,Adil Rashid,,19,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,150108,-175.50,-27.00,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,18,109,7,0,0,2,0,0,0,0,0
+114,4,372,1,11,Bangladesh,Nasum Ahmed,Adil Rashid,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,150109,-175.50,-27.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,4,18,109,7,0,0,2,0,0,0,0,0
+115,5,372,1,11,Bangladesh,Nasum Ahmed,Adil Rashid,,19,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.5,2,1,0,150110,-175.00,-39.00,6,0,,,Knuckleball,58,PULL SHOT,0,0,5,18,115,7,0,0,2,0,0,0,0,0
+116,6,372,1,11,Bangladesh,Nasum Ahmed,Adil Rashid,,19,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.6,2,1,0,150111,123.50,-104.00,4,0,,,Knuckleball,36,CUT SHOT,0,0,6,18,119,7,0,0,2,0,0,0,0,0
+117,1,372,1,11,Bangladesh,Nurul Hasan,Tymal Mills,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.1,2,1,0,150112,-70.00,104.50,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,19,120,7,1,0,2,0,0,0,0,0
+118,2,372,1,11,Bangladesh,Nasum Ahmed,Tymal Mills,,20,2,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,0,,,0,19.2,2,1,1,150113,-70.00,104.50,2,0,,,Knuckleball,105,LEFT ALONE,0,0,2,19,122,7,0,0,2,0,0,0,0,0
+119,3,372,1,11,Bangladesh,Nurul Hasan,Tymal Mills,,20,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.2,2,1,0,150114,-70.00,104.50,0,0,,,Knuckleball,18,SLOG SHOT,0,0,3,19,122,7,0,0,2,0,0,0,0,0
+120,4,372,1,11,Bangladesh,Nurul Hasan,Tymal Mills,,20,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.3,2,1,0,150115,-86.50,-13.50,0,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,4,19,122,7,0,0,2,0,0,0,0,0
+121,5,372,1,11,Bangladesh,Nurul Hasan,Tymal Mills,,20,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.4,2,1,0,150116,73.50,144.00,2,0,,,Knuckleball,47,ON DRIVE,0,0,5,19,124,7,0,0,2,0,0,0,0,0
+122,6,372,1,11,Bangladesh,Nurul Hasan,Tymal Mills,,20,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.5,2,1,0,150117,-14.50,-28.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,6,19,124,8,1,0,2,0,0,0,0,0
+123,7,372,1,11,Bangladesh,Mustafizur Rahman,Tymal Mills,,20,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,19.6,2,1,0,150118,-14.50,-28.00,0,0,,,Knuckleball,94,SDL ON,0,0,7,19,124,9,0,0,2,0,0,0,0,0
+124,1,372,2,3,England,Jason Roy,Shakib Al Hasan,,1,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.1,2,1,0,150119,-187.00,-21.00,4,0,,,Knuckleball,36,CUT SHOT,0,0,1,0,4,0,1,0,0,0,0,0,0,0
+125,2,372,2,3,England,Jason Roy,Shakib Al Hasan,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,150120,-34.50,117.00,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,2,0,5,0,0,0,0,0,0,0,0,0
+126,3,372,2,3,England,Jos Buttler,Shakib Al Hasan,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,150121,-87.00,23.00,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,0,5,0,0,0,0,0,0,0,0,0
+127,4,372,2,3,England,Jos Buttler,Shakib Al Hasan,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,150122,87.50,-10.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,0,6,0,0,0,0,0,0,0,0,0
+128,5,372,2,3,England,Jason Roy,Shakib Al Hasan,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,150123,-81.00,162.50,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,0,7,0,0,0,0,0,0,0,0,0
+129,6,372,2,3,England,Jos Buttler,Shakib Al Hasan,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,150124,-80.00,56.00,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,0,7,0,0,0,0,0,0,0,0,0
+130,1,372,2,3,England,Jason Roy,Mustafizur Rahman,,2,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,1.1,2,1,1,150125,-80.00,56.00,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,1,8,0,1,0,0,0,0,0,0,0
+131,2,372,2,3,England,Jos Buttler,Mustafizur Rahman,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,150126,-42.50,111.50,0,0,,,Knuckleball,84,OFF DRIVE,0,0,2,1,8,0,0,0,0,0,0,0,0,0
+132,3,372,2,3,England,Jos Buttler,Mustafizur Rahman,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,150127,71.50,98.00,0,0,,,Knuckleball,84,OFF DRIVE,0,0,3,1,8,0,0,0,0,0,0,0,0,0
+133,4,372,2,3,England,Jos Buttler,Mustafizur Rahman,,2,4,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,1.4,2,1,1,150128,71.50,98.00,1,0,,,Knuckleball,40,FLICK,0,0,4,1,9,0,0,0,0,0,0,0,0,0
+134,5,372,2,3,England,Jason Roy,Mustafizur Rahman,,2,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,1.5,2,1,1,150129,71.50,98.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,5,1,10,0,0,0,0,0,0,0,0,0
+135,6,372,2,3,England,Jason Roy,Mustafizur Rahman,,2,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.5,2,1,0,150130,-16.00,212.00,4,0,,,Knuckleball,53,STRAIGHT DRIVE,0,0,6,1,14,0,0,0,0,0,0,0,0,0
+136,7,372,2,3,England,Jason Roy,Mustafizur Rahman,,2,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.6,2,1,0,150131,78.50,-129.00,4,0,,,Knuckleball,27,FORWARD PUSH,0,0,7,1,18,0,0,0,0,0,0,0,0,0
+137,1,372,2,3,England,Jos Buttler,Shakib Al Hasan,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,150132,138.50,30.00,1,0,,,Knuckleball,40,FLICK,0,0,1,2,19,0,1,0,0,0,0,0,0,0
+138,2,372,2,3,England,Jason Roy,Shakib Al Hasan,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,150133,-101.00,37.50,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,2,19,0,0,0,0,0,0,0,0,0
+139,3,372,2,3,England,Jason Roy,Shakib Al Hasan,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,150134,-76.50,151.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,3,2,20,0,0,0,0,0,0,0,0,0
+140,4,372,2,3,England,Jos Buttler,Shakib Al Hasan,,3,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,2.4,2,1,0,150135,34.50,212.00,6,0,,,Knuckleball,94,SDL ON,0,0,4,2,26,0,0,0,0,0,0,0,0,0
+141,5,372,2,3,England,Jos Buttler,Shakib Al Hasan,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,150136,-90.00,-8.50,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,2,26,0,0,0,0,0,0,0,0,0
+142,6,372,2,3,England,Jos Buttler,Shakib Al Hasan,,3,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,150137,132.50,94.00,2,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,6,2,28,0,0,0,0,0,0,0,0,0
+143,1,372,2,3,England,Jason Roy,Shoriful Islam,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,150138,30.00,51.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,3,28,0,1,0,0,0,0,0,0,0
+144,2,372,2,3,England,Jason Roy,Shoriful Islam,,4,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,3.2,2,1,1,150139,30.00,51.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,3,29,0,0,0,0,0,0,0,0,0
+145,3,372,2,3,England,Jason Roy,Shoriful Islam,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,150140,88.00,23.50,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,3,30,0,0,0,0,0,0,0,0,0
+146,4,372,2,3,England,Jos Buttler,Shoriful Islam,,4,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.3,2,1,0,150141,145.00,163.00,4,0,,,Knuckleball,11,LOFT ON,0,0,4,3,34,0,0,0,0,0,0,0,0,0
+147,5,372,2,3,England,Jos Buttler,Shoriful Islam,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,150142,144.50,-20.50,1,0,,,Knuckleball,40,FLICK,0,0,5,3,35,0,0,0,0,0,0,0,0,0
+148,6,372,2,3,England,Jason Roy,Shoriful Islam,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,150143,7.50,132.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,3,36,0,0,0,0,0,0,0,0,0
+149,7,372,2,3,England,Jos Buttler,Shoriful Islam,,4,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,150144,50.50,-119.50,1,0,,,Knuckleball,40,FLICK,0,0,7,3,37,0,0,0,0,0,0,0,0,0
+150,1,372,2,3,England,Jos Buttler,Nasum Ahmed,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,150145,-6.50,56.50,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,4,37,0,1,0,0,0,0,0,0,0
+151,2,372,2,3,England,Jos Buttler,Nasum Ahmed,,5,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,150146,133.00,-26.00,2,0,,,Knuckleball,40,FLICK,0,0,2,4,39,0,0,0,0,0,0,0,0,0
+152,3,372,2,3,England,Jos Buttler,Nasum Ahmed,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,150147,-19.50,36.50,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,4,39,0,0,0,0,0,0,0,0,0
+153,4,372,2,3,England,Jos Buttler,Nasum Ahmed,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,150148,-68.50,30.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,4,39,0,0,0,0,0,0,0,0,0
+154,5,372,2,3,England,Jos Buttler,Nasum Ahmed,,5,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,4.5,2,1,0,150149,-87.00,133.50,0,0,,,Knuckleball,5,LOFT OFF,0,0,5,4,39,1,1,0,0,0,0,0,0,0
+155,6,372,2,3,England,Jason Roy,Nasum Ahmed,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,150150,-87.00,138.00,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,6,4,40,1,2,0,0,0,0,0,0,0
+156,1,372,2,3,England,Jason Roy,Mustafizur Rahman,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,150151,-87.00,138.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,5,40,1,3,0,0,0,0,0,0,0
+157,2,372,2,3,England,Jason Roy,Mustafizur Rahman,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,150152,-137.00,83.50,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,5,41,1,0,0,0,0,0,0,0,0
+158,3,372,2,3,England,Dawid Malan,Mustafizur Rahman,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,150153,20.00,51.50,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,5,41,1,0,0,0,0,0,0,0,0
+159,4,372,2,3,England,Dawid Malan,Mustafizur Rahman,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,150154,78.50,15.00,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,5,42,1,0,0,0,0,0,0,0,0
+160,5,372,2,3,England,Jason Roy,Mustafizur Rahman,,6,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.5,2,1,0,150155,53.00,-148.50,4,0,,,Knuckleball,54,LEG GLANCE,0,0,5,5,46,1,0,0,0,0,0,0,0,0
+161,6,372,2,3,England,Jason Roy,Mustafizur Rahman,,6,6,4 (LB),4,0,0,0,0,1,4,0,0,0,1,1,0,0,,,0,5.6,2,1,1,150156,39.50,-142.50,4,0,,,Knuckleball,40,FLICK,0,0,6,5,50,1,0,1,1,0,1,0,0,0
+162,1,372,2,3,England,Dawid Malan,Mahedi Hasan,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,150157,20.00,40.50,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,6,50,1,1,0,1,0,0,0,0,0
+163,2,372,2,3,England,Dawid Malan,Mahedi Hasan,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,150158,-24.00,58.00,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,6,51,1,0,0,1,0,0,0,0,0
+164,3,372,2,3,England,Jason Roy,Mahedi Hasan,,7,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,6.3,2,1,0,150159,10.50,215.00,6,0,,,Knuckleball,94,SDL ON,0,0,3,6,57,1,0,0,1,0,0,0,0,0
+165,4,372,2,3,England,Jason Roy,Mahedi Hasan,,7,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.4,2,1,0,150160,-161.50,-69.50,4,0,,,Knuckleball,36,CUT SHOT,0,0,4,6,61,1,0,0,1,0,0,0,0,0
+166,5,372,2,3,England,Jason Roy,Mahedi Hasan,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,150161,136.00,-8.00,1,0,,,Knuckleball,40,FLICK,0,0,5,6,62,1,0,0,1,0,0,0,0,0
+167,6,372,2,3,England,Dawid Malan,Mahedi Hasan,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,150162,144.50,61.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,6,63,1,0,0,1,0,0,0,0,0
+168,1,372,2,3,England,Dawid Malan,Nasum Ahmed,,8,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.1,2,1,0,150163,52.50,-157.50,4,0,,,Knuckleball,56,REVERSE SWEEP,0,0,1,7,67,1,1,0,1,0,0,0,0,0
+169,2,372,2,3,England,Dawid Malan,Nasum Ahmed,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,150164,-140.50,38.50,1,0,,,Knuckleball,40,FLICK,0,0,2,7,68,1,0,0,1,0,0,0,0,0
+170,3,372,2,3,England,Jason Roy,Nasum Ahmed,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,150165,136.00,98.00,1,0,,,Knuckleball,40,FLICK,0,0,3,7,69,1,0,0,1,0,0,0,0,0
+171,4,372,2,3,England,Dawid Malan,Nasum Ahmed,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,150166,-72.00,152.50,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,4,7,70,1,0,0,1,0,0,0,0,0
+172,5,372,2,3,England,Jason Roy,Nasum Ahmed,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,150167,132.00,-20.50,1,0,,,Knuckleball,40,FLICK,0,0,5,7,71,1,0,0,1,0,0,0,0,0
+173,6,372,2,3,England,Dawid Malan,Nasum Ahmed,,8,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.6,2,1,0,150168,169.00,132.50,4,0,,,Knuckleball,61,INSIDE OUT,0,0,6,7,75,1,0,0,1,0,0,0,0,0
+174,1,372,2,3,England,Jason Roy,Mahedi Hasan,,9,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,8.1,2,1,1,150169,169.00,132.50,1,0,,,Knuckleball,105,LEFT ALONE,0,0,1,8,76,1,1,0,1,0,0,0,0,0
+175,2,372,2,3,England,Jason Roy,Mahedi Hasan,,9,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,150170,-138.00,-25.00,2,0,,,Knuckleball,56,REVERSE SWEEP,0,0,2,8,78,1,0,0,1,0,0,0,0,0
+176,3,372,2,3,England,Jason Roy,Mahedi Hasan,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,150171,124.00,-48.50,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,8,79,1,0,0,1,0,0,0,0,0
+177,4,372,2,3,England,Dawid Malan,Mahedi Hasan,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,150172,97.50,138.50,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,8,80,1,0,0,1,0,0,0,0,0
+178,5,372,2,3,England,Jason Roy,Mahedi Hasan,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,150173,-148.50,31.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,8,81,1,0,0,1,0,0,0,0,0
+179,6,372,2,3,England,Dawid Malan,Mahedi Hasan,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,150174,102.50,148.50,1,0,,,Knuckleball,84,OFF DRIVE,0,0,6,8,82,1,0,0,1,0,0,0,0,0
+180,7,372,2,3,England,Jason Roy,Mahedi Hasan,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,150175,-93.00,139.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,7,8,83,1,0,0,1,0,0,0,0,0
+181,1,372,2,3,England,Jason Roy,Shakib Al Hasan,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,150176,105.50,146.50,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,1,9,84,1,1,0,1,0,0,0,0,0
+182,2,372,2,3,England,Dawid Malan,Shakib Al Hasan,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,150177,-80.50,29.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,9,84,1,0,0,1,0,0,0,0,0
+183,3,372,2,3,England,Dawid Malan,Shakib Al Hasan,,10,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,9.3,2,1,1,150178,-80.50,29.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,3,9,85,1,0,0,1,0,0,0,0,0
+184,4,372,2,3,England,Dawid Malan,Shakib Al Hasan,,10,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,9.3,2,1,1,150179,-80.50,29.00,1,0,,,Knuckleball,105,LEFT ALONE,0,0,4,9,86,1,0,0,1,0,0,0,0,0
+185,5,372,2,3,England,Dawid Malan,Shakib Al Hasan,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,150180,-63.00,-12.50,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,9,87,1,0,0,1,0,0,0,0,0
+186,6,372,2,3,England,Jason Roy,Shakib Al Hasan,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,150181,77.00,140.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,6,9,88,1,0,0,1,0,0,0,0,0
+187,7,372,2,3,England,Dawid Malan,Shakib Al Hasan,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,150182,-95.00,153.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,7,9,89,1,0,0,1,0,0,0,0,0
+188,8,372,2,3,England,Jason Roy,Shakib Al Hasan,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,150183,39.50,178.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,8,9,90,1,0,0,1,0,0,0,0,0
+189,1,372,2,3,England,Jason Roy,Shoriful Islam,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,150184,46.00,-124.50,1,0,,,Knuckleball,58,PULL SHOT,0,0,1,10,91,1,1,0,1,0,0,0,0,0
+190,2,372,2,3,England,Dawid Malan,Shoriful Islam,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,150185,132.00,42.50,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,10,92,1,0,0,1,0,0,0,0,0
+191,3,372,2,3,England,Jason Roy,Shoriful Islam,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,150186,121.50,-50.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,3,10,93,1,0,0,1,0,0,0,0,0
+192,4,372,2,3,England,Dawid Malan,Shoriful Islam,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,150187,69.50,-26.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,10,93,1,0,0,1,0,0,0,0,0
+193,5,372,2,3,England,Dawid Malan,Shoriful Islam,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,150188,78.50,-30.00,0,0,,,Knuckleball,89,SD COVER,0,0,5,10,93,1,0,0,1,0,0,0,0,0
+194,6,372,2,3,England,Dawid Malan,Shoriful Islam,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,150189,70.50,56.50,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,10,93,1,0,0,1,0,0,0,0,0
+195,1,372,2,3,England,Jason Roy,Nasum Ahmed,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,150190,-75.00,142.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,11,94,1,1,0,1,0,0,0,0,0
+196,2,372,2,3,England,Dawid Malan,Nasum Ahmed,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,150191,108.00,128.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,2,11,95,1,0,0,1,0,0,0,0,0
+197,3,372,2,3,England,Jason Roy,Nasum Ahmed,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,150192,5.50,21.00,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,11,95,1,0,0,1,0,0,0,0,0
+198,4,372,2,3,England,Jason Roy,Nasum Ahmed,,12,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,11.4,2,1,0,150193,62.50,201.00,6,0,,,Knuckleball,11,LOFT ON,0,0,4,11,101,1,0,1,2,0,0,1,0,0
+199,5,372,2,3,England,Jason Roy,Nasum Ahmed,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,150194,131.00,28.50,1,0,,,Knuckleball,40,FLICK,0,0,5,11,102,1,0,0,2,0,0,0,0,0
+200,6,372,2,3,England,Dawid Malan,Nasum Ahmed,,12,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,150195,-83.50,131.50,2,0,,,Knuckleball,95,SLOG SWEEP,0,0,6,11,104,1,0,0,2,0,0,0,0,0
+201,1,372,2,3,England,Jason Roy,Shoriful Islam,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,150196,-83.50,131.50,0,0,,,Knuckleball,40,FLICK,0,0,1,12,104,1,1,0,2,0,0,0,0,0
+202,2,372,2,3,England,Jason Roy,Shoriful Islam,,13,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,12.2,2,1,0,150197,70.50,-151.50,6,0,,,Knuckleball,57,HOOK SHOT,0,0,2,12,110,1,0,0,2,0,0,0,0,0
+203,3,372,2,3,England,Jason Roy,Shoriful Islam,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,150198,-73.00,101.50,1,0,,,Knuckleball,21,SD OFF,0,0,3,12,111,1,0,0,2,0,0,0,0,0
+204,4,372,2,3,England,Dawid Malan,Shoriful Islam,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,150199,51.50,-98.00,1,0,,,Knuckleball,44,GLIDE,0,0,4,12,112,1,0,0,2,0,0,0,0,0
+205,5,372,2,3,England,Jason Roy,Shoriful Islam,,13,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,12.5,2,1,0,150200,-60.50,-98.50,0,0,,,Knuckleball,31,UPPER CUT,0,0,5,12,112,2,1,0,2,0,0,0,0,0
+206,6,372,2,3,England,Jonny Bairstow,Shoriful Islam,,13,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,150201,-118.00,84.00,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,12,114,2,2,0,2,0,0,0,0,0
+207,1,372,2,3,England,Dawid Malan,Mustafizur Rahman,,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,150202,68.00,-8.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,13,114,2,3,0,2,0,0,0,0,0
+208,2,372,2,3,England,Dawid Malan,Mustafizur Rahman,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,150203,-80.00,-95.00,1,0,,,Knuckleball,54,LEG GLANCE,0,0,2,13,115,2,0,0,2,0,0,0,0,0
+209,3,372,2,3,England,Jonny Bairstow,Mustafizur Rahman,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,150204,64.50,20.50,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,13,116,2,0,0,2,0,0,0,0,0
+210,4,372,2,3,England,Dawid Malan,Mustafizur Rahman,,14,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.4,2,1,0,150205,182.00,106.50,4,0,,,Knuckleball,15,LOFT COVER,0,0,4,13,120,2,0,0,2,0,0,0,0,0
+211,5,372,2,3,England,Dawid Malan,Mustafizur Rahman,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,150206,97.00,-19.00,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,13,121,2,0,0,2,0,0,0,0,0
+212,6,372,2,3,England,Jonny Bairstow,Mustafizur Rahman,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,150207,71.50,23.50,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,13,122,2,0,0,2,0,0,0,0,0
+213,1,372,2,3,England,Jonny Bairstow,Shoriful Islam,,15,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.1,2,1,0,150208,178.50,72.50,4,0,,,Knuckleball,58,PULL SHOT,0,0,1,14,126,2,1,0,2,0,0,0,0,0

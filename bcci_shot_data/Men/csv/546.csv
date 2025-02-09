@@ -1,0 +1,246 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,546,1,52,India Women,Shafali Verma,Udeshika Prabodhani,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,222291,,,0,0,,38,STRAIGHT BALL,105,LEFT ALONE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,546,1,52,India Women,Shafali Verma,Udeshika Prabodhani,,1,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.2,2,1,1,222309,,,1,0,,,Knuckleball,,,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+2,3,546,1,52,India Women,Shafali Verma,Udeshika Prabodhani,,1,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.2,2,1,1,222310,,,1,0,,,Knuckleball,,,0,0,3,0,2,0,0,0,0,0,0,0,0,0
+3,4,546,1,52,India Women,Shafali Verma,Udeshika Prabodhani,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,222292,54.03,48.94,1,0,,,Knuckleball,,,0,0,4,0,3,0,0,0,0,0,0,0,0,0
+4,5,546,1,52,India Women,Smriti Mandhana,Udeshika Prabodhani,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,222293,-68.45,50.78,1,0,,,Knuckleball,,,0,0,5,0,4,0,0,0,0,0,0,0,0,0
+5,6,546,1,52,India Women,Shafali Verma,Udeshika Prabodhani,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,222294,-68.45,50.78,0,0,,30,ANGLED ACROSS,105,LEFT ALONE,0,0,6,0,4,0,0,0,0,0,0,0,0,0
+6,7,546,1,52,India Women,Shafali Verma,Udeshika Prabodhani,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,222295,-74.90,26.83,0,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,7,0,4,0,0,0,0,0,0,0,0,0
+7,8,546,1,52,India Women,Shafali Verma,Udeshika Prabodhani,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,222296,-49.11,97.28,1,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,8,0,5,0,0,0,0,0,0,0,0,0
+8,1,546,1,52,India Women,Shafali Verma,Sugandika Kumari,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,222297,-31.62,37.42,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,1,1,5,0,1,0,0,0,0,0,0,0
+9,2,546,1,52,India Women,Shafali Verma,Sugandika Kumari,,2,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.2,1,1,0,222298,-18.26,205.02,4,0,,39,ANGLED IN,53,FRONTFOOT STRAIGHT DRIVE,0,0,2,1,9,0,0,0,0,0,0,0,0,0
+10,3,546,1,52,India Women,Shafali Verma,Sugandika Kumari,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,222299,-71.21,31.90,1,0,,,Knuckleball,,,0,0,3,1,10,0,0,0,0,0,0,0,0,0
+11,4,546,1,52,India Women,Smriti Mandhana,Sugandika Kumari,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,222300,-71.21,31.90,0,0,,,Knuckleball,,,0,0,4,1,10,0,0,0,0,0,0,0,0,0
+12,5,546,1,52,India Women,Smriti Mandhana,Sugandika Kumari,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,222301,-71.21,31.90,0,0,,,Knuckleball,,,0,0,5,1,10,0,0,0,0,0,0,0,0,0
+13,6,546,1,52,India Women,Smriti Mandhana,Sugandika Kumari,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,222302,-71.21,31.90,0,0,,,Knuckleball,,,0,0,6,1,10,0,0,0,0,0,0,0,0,0
+14,1,546,1,52,India Women,Shafali Verma,Udeshika Prabodhani,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,222303,-71.21,31.90,0,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,1,2,10,0,1,0,0,0,0,0,0,0
+15,2,546,1,52,India Women,Shafali Verma,Udeshika Prabodhani,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,222304,34.69,-40.85,0,0,,41,INSWINGER,54,LEG GLANCE,0,0,2,2,10,0,0,0,0,0,0,0,0,0
+16,3,546,1,52,India Women,Shafali Verma,Udeshika Prabodhani,,3,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,2.3,1,1,1,222305,34.69,-40.85,1,0,,41,INSWINGER,54,LEG GLANCE,0,0,3,2,11,0,0,0,0,0,0,0,0,0
+17,4,546,1,52,India Women,Shafali Verma,Udeshika Prabodhani,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,222306,-51.41,80.24,0,0,,30,ANGLED ACROSS,84,FRONTFOOT OFF DRIVE,0,0,4,2,11,0,0,0,0,0,0,0,0,0
+18,5,546,1,52,India Women,Shafali Verma,Udeshika Prabodhani,,3,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.4,1,1,0,222307,-137.51,146.55,4,0,,30,ANGLED ACROSS,84,FRONTFOOT OFF DRIVE,0,0,5,2,15,0,0,0,0,0,0,0,0,0
+19,6,546,1,52,India Women,Shafali Verma,Udeshika Prabodhani,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,222308,-60.16,93.14,1,0,,30,ANGLED ACROSS,84,FRONTFOOT OFF DRIVE,0,0,6,2,16,0,0,0,0,0,0,0,0,0
+20,7,546,1,52,India Women,Smriti Mandhana,Udeshika Prabodhani,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,222311,-60.16,93.14,0,0,,,Knuckleball,,,0,0,7,2,16,0,0,0,0,0,0,0,0,0
+21,1,546,1,52,India Women,Shafali Verma,Oshadi Ranasinghe,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,222312,-60.16,93.14,0,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,1,3,16,0,1,0,0,0,0,0,0,0
+22,2,546,1,52,India Women,Shafali Verma,Oshadi Ranasinghe,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,222313,91.32,32.82,1,0,,,Knuckleball,,,0,0,2,3,17,0,0,0,0,0,0,0,0,0
+23,3,546,1,52,India Women,Smriti Mandhana,Oshadi Ranasinghe,,4,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,3.3,1,1,0,222314,60.93,95.44,0,0,,25,OFF SPIN,94,STEP DOWN LOFTED ON DRIVE,0,0,3,3,17,1,1,0,0,0,0,0,0,0
+24,4,546,1,52,India Women,S Meghana,Oshadi Ranasinghe,,4,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,3.4,1,1,0,222315,-71.67,42.03,0,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,4,3,17,2,0,0,0,0,0,0,0,0
+25,5,546,1,52,India Women,Harmanpreet Kaur,Oshadi Ranasinghe,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,222316,89.94,116.16,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,5,3,18,2,1,0,0,0,0,0,0,0
+26,6,546,1,52,India Women,Shafali Verma,Oshadi Ranasinghe,,4,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,222317,119.41,87.61,1,0,,25,OFF SPIN,94,STEP DOWN LOFTED ON DRIVE,0,0,6,3,19,2,0,0,0,0,0,0,0,0
+27,1,546,1,52,India Women,Shafali Verma,Sugandika Kumari,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,222318,-72.59,-31.64,0,0,,23,ARM BALL,36,CUT SHOT,0,0,1,4,19,2,1,0,0,0,0,0,0,0
+28,2,546,1,52,India Women,Shafali Verma,Sugandika Kumari,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,222319,79.81,100.96,1,0,,23,ARM BALL,47,FRONTFOOT ON DRIVE,0,0,2,4,20,2,0,0,0,0,0,0,0,0
+29,3,546,1,52,India Women,Harmanpreet Kaur,Sugandika Kumari,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,222320,-94.69,-3.55,0,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,3,4,20,2,0,0,0,0,0,0,0,0
+30,4,546,1,52,India Women,Harmanpreet Kaur,Sugandika Kumari,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,222321,-47.27,84.39,0,0,,23,ARM BALL,6,BACKFOOT OFF DRIVE,0,0,4,4,20,2,0,0,0,0,0,0,0,0
+31,5,546,1,52,India Women,Harmanpreet Kaur,Sugandika Kumari,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,222322,-77.20,56.30,0,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,5,4,20,2,0,0,0,0,0,0,0,0
+32,6,546,1,52,India Women,Harmanpreet Kaur,Sugandika Kumari,,5,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.6,1,1,0,222323,154.86,-52.82,4,0,,23,ARM BALL,55,SWEEP SHOT,0,0,6,4,24,2,0,0,0,0,0,0,0,0
+33,1,546,1,52,India Women,Shafali Verma,Oshadi Ranasinghe,,6,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,222324,-131.07,50.78,2,0,,25,OFF SPIN,5,LOFTED OFF DRIVE,0,0,1,5,26,2,1,0,0,0,0,0,0,0
+34,2,546,1,52,India Women,Shafali Verma,Oshadi Ranasinghe,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,222325,-7.67,168.19,1,0,,25,OFF SPIN,13,LOFTED STRAIGHT,0,0,2,5,27,2,0,0,0,0,0,0,0,0
+35,3,546,1,52,India Women,Harmanpreet Kaur,Oshadi Ranasinghe,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,222326,-50.03,-10.92,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,3,5,27,2,0,0,0,0,0,0,0,0
+36,4,546,1,52,India Women,Harmanpreet Kaur,Oshadi Ranasinghe,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.4,2,1,0,222327,170.05,-33.02,4,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,4,5,31,2,0,0,0,0,0,0,0,0
+37,5,546,1,52,India Women,Harmanpreet Kaur,Oshadi Ranasinghe,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,222328,84.87,-28.42,0,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,5,5,31,2,0,0,0,0,0,0,0,0
+38,6,546,1,52,India Women,Harmanpreet Kaur,Oshadi Ranasinghe,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,222329,115.26,-12.30,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,6,5,32,2,0,0,0,0,0,0,0,0
+39,1,546,1,52,India Women,Harmanpreet Kaur,Ama Kanchana,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,222330,82.11,137.80,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,1,6,33,2,1,0,0,0,0,0,0,0
+40,2,546,1,52,India Women,Shafali Verma,Ama Kanchana,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,222331,-73.97,-20.59,0,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,2,6,33,2,0,0,0,0,0,0,0,0
+41,3,546,1,52,India Women,Shafali Verma,Ama Kanchana,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,222332,-63.38,84.85,1,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,3,6,34,2,0,0,0,0,0,0,0,0
+42,4,546,1,52,India Women,Harmanpreet Kaur,Ama Kanchana,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,222333,153.94,-15.06,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,4,6,35,2,0,0,0,0,0,0,0,0
+43,5,546,1,52,India Women,Shafali Verma,Ama Kanchana,,7,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.5,2,1,0,222334,-179.41,39.73,4,0,,38,STRAIGHT BALL,15,LOFTED COVER DRIVE,0,0,5,6,39,2,0,0,0,0,0,0,0,0
+44,6,546,1,52,India Women,Shafali Verma,Ama Kanchana,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,222335,-48.65,146.55,1,0,,38,STRAIGHT BALL,84,FRONTFOOT OFF DRIVE,0,0,6,6,40,2,0,0,0,0,0,0,0,0
+45,1,546,1,52,India Women,Shafali Verma,Inoka Ranaweera,,8,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.1,2,1,0,222336,21.33,213.77,4,0,,10,ORTHODOX,69,STEP DOWN LOFTED STRAIGHT DRIVE,0,0,1,7,44,2,1,0,0,0,0,0,0,0
+46,2,546,1,52,India Women,Shafali Verma,Inoka Ranaweera,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,222337,-10.90,66.89,0,0,,10,ORTHODOX,1,STEP DOWN STRAIGHT DRIVE,0,0,2,7,44,2,0,0,0,0,0,0,0,0
+47,3,546,1,52,India Women,Shafali Verma,Inoka Ranaweera,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,222338,98.69,121.68,1,0,,10,ORTHODOX,11,LOFTED ON DRIVE,0,0,3,7,45,2,0,0,0,0,0,0,0,0
+48,4,546,1,52,India Women,Harmanpreet Kaur,Inoka Ranaweera,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,222339,109.28,10.72,1,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,4,7,46,2,0,0,0,0,0,0,0,0
+49,5,546,1,52,India Women,Shafali Verma,Inoka Ranaweera,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,222340,93.62,112.01,1,0,,10,ORTHODOX,74,STEP DOWN ON DRIVE,0,0,5,7,47,2,0,0,0,0,0,0,0,0
+50,6,546,1,52,India Women,Harmanpreet Kaur,Inoka Ranaweera,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,222341,146.11,68.73,1,0,,10,ORTHODOX,55,SWEEP SHOT,0,0,6,7,48,2,0,0,0,0,0,0,0,0
+51,1,546,1,52,India Women,Harmanpreet Kaur,Sugandika Kumari,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,222342,141.51,76.56,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,1,8,49,2,1,0,0,0,0,0,0,0
+52,2,546,1,52,India Women,Shafali Verma,Sugandika Kumari,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,222343,-87.33,133.19,1,0,,10,ORTHODOX,84,FRONTFOOT OFF DRIVE,0,0,2,8,50,2,0,1,1,0,1,0,0,0
+53,3,546,1,52,India Women,Harmanpreet Kaur,Sugandika Kumari,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,222344,-82.72,37.42,0,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,3,8,50,2,0,0,1,0,0,0,0,0
+54,4,546,1,52,India Women,Harmanpreet Kaur,Sugandika Kumari,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,222345,-82.72,37.42,0,0,,23,ARM BALL,55,SWEEP SHOT,0,0,4,8,50,2,0,0,1,0,0,0,0,0
+55,5,546,1,52,India Women,Harmanpreet Kaur,Sugandika Kumari,,9,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,222346,131.84,41.57,2,0,,23,ARM BALL,27,FORWARD PUSH,0,0,5,8,52,2,0,0,1,0,0,0,0,0
+56,6,546,1,52,India Women,Harmanpreet Kaur,Sugandika Kumari,,9,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.6,2,1,0,222347,187.09,16.24,4,0,,23,ARM BALL,55,SWEEP SHOT,0,0,6,8,56,2,0,0,1,0,0,0,0,0
+57,1,546,1,52,India Women,Shafali Verma,Chamari Athapaththu,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,222348,187.09,16.24,0,0,,25,OFF SPIN,54,LEG GLANCE,0,0,1,9,56,2,1,0,1,0,0,0,0,0
+58,2,546,1,52,India Women,Shafali Verma,Chamari Athapaththu,,10,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,9.2,2,1,0,222349,83.03,142.40,0,0,,25,OFF SPIN,11,LOFTED ON DRIVE,0,0,2,9,56,3,2,0,1,0,0,0,0,0
+59,3,546,1,52,India Women,Jemimah Rodrigues,Chamari Athapaththu,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,222350,83.03,142.40,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,3,9,56,3,3,0,1,0,0,0,0,0
+60,4,546,1,52,India Women,Jemimah Rodrigues,Chamari Athapaththu,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,222351,-70.29,46.63,0,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,4,9,56,3,0,0,1,0,0,0,0,0
+61,5,546,1,52,India Women,Jemimah Rodrigues,Chamari Athapaththu,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,222352,150.72,56.30,1,0,,25,OFF SPIN,95,SLOG SWEEP,0,0,5,9,57,3,0,0,1,0,0,0,0,0
+62,6,546,1,52,India Women,Harmanpreet Kaur,Chamari Athapaththu,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,222353,67.84,143.32,1,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,6,9,58,3,0,0,1,0,0,0,0,0
+64,1,546,1,52,India Women,Harmanpreet Kaur,Inoka Ranaweera,,11,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,10.1,2,1,0,222354,67.84,143.32,0,0,,23,ARM BALL,49,FORWARD DEFENCE,0,0,1,10,58,4,1,0,1,0,0,0,0,0
+65,2,546,1,52,India Women,Richa Ghosh,Inoka Ranaweera,,11,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,10.2,2,1,1,222355,67.84,143.32,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,10,59,4,2,0,1,0,0,0,0,0
+66,3,546,1,52,India Women,Richa Ghosh,Inoka Ranaweera,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,222356,109.28,8.42,1,0,,23,ARM BALL,40,FRONTFOOT FLICK,0,0,3,10,60,4,0,0,1,0,0,0,0,0
+67,4,546,1,52,India Women,Jemimah Rodrigues,Inoka Ranaweera,,11,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.3,2,1,0,222357,-112.19,-119.58,4,0,,23,ARM BALL,35,LATE CUT,0,0,4,10,64,4,0,0,1,0,0,0,0,0
+68,5,546,1,52,India Women,Jemimah Rodrigues,Inoka Ranaweera,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,222358,-67.53,115.70,1,0,,10,ORTHODOX,84,FRONTFOOT OFF DRIVE,0,0,5,10,65,4,0,0,1,0,0,0,0,0
+69,6,546,1,52,India Women,Richa Ghosh,Inoka Ranaweera,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,222359,130.92,-39.01,1,0,,10,ORTHODOX,55,SWEEP SHOT,0,0,6,10,66,4,0,0,1,0,0,0,0,0
+70,7,546,1,52,India Women,Jemimah Rodrigues,Inoka Ranaweera,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,222360,-88.25,39.73,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,7,10,66,4,0,0,1,0,0,0,0,0
+71,1,546,1,52,India Women,Richa Ghosh,Chamari Athapaththu,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,222361,-78.12,45.25,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,1,11,66,4,1,0,1,0,0,0,0,0
+72,2,546,1,52,India Women,Richa Ghosh,Chamari Athapaththu,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,222362,-74.44,-43.15,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,2,11,67,4,0,0,1,0,0,0,0,0
+73,3,546,1,52,India Women,Jemimah Rodrigues,Chamari Athapaththu,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,222363,-27.47,48.94,0,0,,25,OFF SPIN,50,BACKFOOT DEFENCE,0,0,3,11,67,4,0,0,1,0,0,0,0,0
+74,4,546,1,52,India Women,Jemimah Rodrigues,Chamari Athapaththu,,12,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,222364,-131.53,52.62,2,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,4,11,69,4,0,0,1,0,0,0,0,0
+75,5,546,1,52,India Women,Jemimah Rodrigues,Chamari Athapaththu,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,222365,-49.57,-73.54,1,0,,25,OFF SPIN,35,LATE CUT,0,0,5,11,70,4,0,0,1,0,0,0,0,0
+76,6,546,1,52,India Women,Richa Ghosh,Chamari Athapaththu,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,222366,76.59,12.56,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,6,11,71,4,0,0,1,0,0,0,0,0
+77,1,546,1,52,India Women,Richa Ghosh,Udeshika Prabodhani,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,222367,-9.51,50.78,0,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,1,12,71,4,1,0,1,0,0,0,0,0
+78,2,546,1,52,India Women,Richa Ghosh,Udeshika Prabodhani,,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,222368,-9.51,50.78,0,0,,30,ANGLED ACROSS,84,FRONTFOOT OFF DRIVE,0,0,2,12,71,4,0,0,1,0,0,0,0,0
+79,3,546,1,52,India Women,Richa Ghosh,Udeshika Prabodhani,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,222369,-9.51,50.78,1,0,,30,ANGLED ACROSS,95,SLOG SWEEP,0,0,3,12,72,4,0,0,1,0,0,0,0,0
+80,4,546,1,52,India Women,Jemimah Rodrigues,Udeshika Prabodhani,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,222370,-9.51,50.78,1,0,,41,INSWINGER,27,FORWARD PUSH,0,0,4,12,73,4,0,0,1,0,0,0,0,0
+81,5,546,1,52,India Women,Richa Ghosh,Udeshika Prabodhani,,13,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.5,2,1,0,222371,-9.51,50.78,4,0,,41,INSWINGER,54,LEG GLANCE,0,0,5,12,77,4,0,0,1,0,0,0,0,0
+82,6,546,1,52,India Women,Richa Ghosh,Udeshika Prabodhani,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,222372,-9.51,50.78,0,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,6,12,77,4,0,0,1,0,0,0,0,0
+83,1,546,1,52,India Women,Jemimah Rodrigues,Kavisha Dilhari,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,222373,88.56,-4.94,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,1,13,78,4,1,0,1,0,0,0,0,0
+84,2,546,1,52,India Women,Richa Ghosh,Kavisha Dilhari,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,222374,88.56,-4.94,0,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,2,13,78,4,0,0,1,0,0,0,0,0
+85,3,546,1,52,India Women,Richa Ghosh,Kavisha Dilhari,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,222375,25.02,27.29,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,3,13,78,4,0,0,1,0,0,0,0,0
+86,4,546,1,52,India Women,Richa Ghosh,Kavisha Dilhari,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,222376,126.31,-43.15,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,4,13,79,4,0,0,1,0,0,0,0,0
+87,5,546,1,52,India Women,Jemimah Rodrigues,Kavisha Dilhari,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,222377,81.65,32.82,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,5,13,80,4,0,0,1,0,0,0,0,0
+88,6,546,1,52,India Women,Richa Ghosh,Kavisha Dilhari,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,222378,132.30,-41.31,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,6,13,81,4,0,0,1,0,0,0,0,0
+89,1,546,1,52,India Women,Richa Ghosh,Inoka Ranaweera,,15,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Stumped,WICKET,1,14.1,2,1,0,222379,132.30,-41.31,0,0,,10,ORTHODOX,94,STEP DOWN LOFTED ON DRIVE,0,0,1,14,81,5,1,0,1,0,0,0,0,0
+90,2,546,1,52,India Women,Pooja Vastrakar,Inoka Ranaweera,,15,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,14.2,2,1,1,222380,132.30,-41.31,1,0,,23,ARM BALL,54,LEG GLANCE,0,0,2,14,82,5,2,0,1,0,0,0,0,0
+91,3,546,1,52,India Women,Pooja Vastrakar,Inoka Ranaweera,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,222381,-15.04,38.81,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,3,14,82,5,0,0,1,0,0,0,0,0
+92,4,546,1,52,India Women,Pooja Vastrakar,Inoka Ranaweera,,15,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,222382,-15.04,38.81,0,0,,10,ORTHODOX,36,CUT SHOT,0,0,4,14,82,5,0,0,1,0,0,0,0,0
+93,5,546,1,52,India Women,Pooja Vastrakar,Inoka Ranaweera,,15,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,222383,132.76,13.94,2,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,5,14,84,5,0,0,1,0,0,0,0,0
+94,6,546,1,52,India Women,Pooja Vastrakar,Inoka Ranaweera,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,222384,-73.51,37.88,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,6,14,84,5,0,0,1,0,0,0,0,0
+95,7,546,1,52,India Women,Pooja Vastrakar,Inoka Ranaweera,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,222385,-70.29,-21.05,1,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,7,14,85,5,0,0,1,0,0,0,0,0
+96,1,546,1,52,India Women,Pooja Vastrakar,Oshadi Ranasinghe,,16,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.1,2,1,0,222386,-183.10,-25.65,4,0,,25,OFF SPIN,36,CUT SHOT,0,0,1,15,89,5,1,0,1,0,0,0,0,0
+97,2,546,1,52,India Women,Pooja Vastrakar,Oshadi Ranasinghe,,16,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,222387,-84.56,-13.68,0,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,2,15,89,5,0,0,1,0,0,0,0,0
+98,3,546,1,52,India Women,Pooja Vastrakar,Oshadi Ranasinghe,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,222388,56.33,55.38,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,3,15,90,5,0,0,1,0,0,0,0,0
+99,4,546,1,52,India Women,Jemimah Rodrigues,Oshadi Ranasinghe,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,222389,-49.11,-35.78,1,0,,25,OFF SPIN,35,LATE CUT,0,0,4,15,91,5,0,0,1,0,0,0,0,0
+100,5,546,1,52,India Women,Pooja Vastrakar,Oshadi Ranasinghe,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,222390,97.77,90.83,1,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,5,15,92,5,0,0,1,0,0,0,0,0
+101,6,546,1,52,India Women,Jemimah Rodrigues,Oshadi Ranasinghe,,16,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.6,2,1,0,222391,52.18,211.47,4,0,,25,OFF SPIN,94,STEP DOWN LOFTED ON DRIVE,0,0,6,15,96,5,0,0,1,0,0,0,0,0
+102,1,546,1,52,India Women,Pooja Vastrakar,Inoka Ranaweera,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,222392,94.08,95.44,1,0,,10,ORTHODOX,47,FRONTFOOT ON DRIVE,0,0,1,16,97,5,1,0,1,0,0,0,0,0
+103,2,546,1,52,India Women,Jemimah Rodrigues,Inoka Ranaweera,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,222393,-81.80,39.73,0,0,,10,ORTHODOX,89,STEP DOWN COVER DRIVE,0,0,2,16,97,5,0,0,1,0,0,0,0,0
+104,3,546,1,52,India Women,Jemimah Rodrigues,Inoka Ranaweera,,17,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.3,2,1,0,222394,180.18,27.29,4,0,,10,ORTHODOX,55,SWEEP SHOT,0,0,3,16,101,5,0,1,2,0,0,1,0,0
+105,4,546,1,52,India Women,Jemimah Rodrigues,Inoka Ranaweera,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,222395,-67.99,30.06,1,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,4,16,102,5,0,0,2,0,0,0,0,0
+106,5,546,1,52,India Women,Pooja Vastrakar,Inoka Ranaweera,,17,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.5,2,1,0,222396,-158.23,135.50,4,0,,10,ORTHODOX,61,INSIDE OUT,0,0,5,16,106,5,0,0,2,0,0,0,0,0
+107,6,546,1,52,India Women,Pooja Vastrakar,Inoka Ranaweera,,17,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,16.6,2,1,0,222397,-158.23,135.50,0,0,,10,ORTHODOX,47,FRONTFOOT ON DRIVE,0,0,6,16,106,6,1,0,2,0,0,0,0,0
+108,1,546,1,52,India Women,Jemimah Rodrigues,Kavisha Dilhari,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,222398,49.88,144.71,1,0,,25,OFF SPIN,74,STEP DOWN ON DRIVE,0,0,1,17,107,6,2,0,2,0,0,0,0,0
+109,2,546,1,52,India Women,Deepti Sharma,Kavisha Dilhari,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,222399,-64.77,39.73,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,2,17,108,6,0,0,2,0,0,0,0,0
+110,3,546,1,52,India Women,Jemimah Rodrigues,Kavisha Dilhari,,18,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,222400,147.03,-2.17,2,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,3,17,110,6,0,0,2,0,0,0,0,0
+111,4,546,1,52,India Women,Jemimah Rodrigues,Kavisha Dilhari,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,222401,136.44,-14.60,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,4,17,111,6,0,0,2,0,0,0,0,0
+112,5,546,1,52,India Women,Deepti Sharma,Kavisha Dilhari,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,222402,-141.20,14.86,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,5,17,112,6,0,0,2,0,0,0,0,0
+113,6,546,1,52,India Women,Jemimah Rodrigues,Kavisha Dilhari,,18,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,222403,155.32,40.19,2,0,,25,OFF SPIN,94,STEP DOWN LOFTED ON DRIVE,0,0,6,17,114,6,0,0,2,0,0,0,0,0
+114,1,546,1,52,India Women,Deepti Sharma,Udeshika Prabodhani,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,222404,-60.16,138.72,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,1,18,115,6,1,0,2,0,0,0,0,0
+115,2,546,1,52,India Women,Jemimah Rodrigues,Udeshika Prabodhani,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,222405,-60.16,138.72,0,0,,43,NIPBACKER,11,LOFTED ON DRIVE,0,0,2,18,115,6,0,0,2,0,0,0,0,0
+116,3,546,1,52,India Women,Jemimah Rodrigues,Udeshika Prabodhani,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,222406,139.67,64.13,1,0,,38,STRAIGHT BALL,18,SLOG SHOT,0,0,3,18,116,6,0,0,2,0,0,0,0,0
+117,4,546,1,52,India Women,Deepti Sharma,Udeshika Prabodhani,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,222407,-120.02,72.88,1,0,,38,STRAIGHT BALL,18,SLOG SHOT,0,0,4,18,117,6,0,0,2,0,0,0,0,0
+118,5,546,1,52,India Women,Jemimah Rodrigues,Udeshika Prabodhani,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,2,1,0,222408,-96.54,29.14,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,5,18,117,6,0,0,2,0,0,0,0,0
+119,6,546,1,52,India Women,Jemimah Rodrigues,Udeshika Prabodhani,,19,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.6,2,1,0,222409,116.64,44.79,1,0,,43,NIPBACKER,84,FRONTFOOT OFF DRIVE,0,0,6,18,118,6,0,0,2,0,0,0,0,0
+120,1,546,1,52,India Women,Jemimah Rodrigues,Kavisha Dilhari,,20,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,19.1,2,1,1,222410,116.64,44.79,1,0,,25,OFF SPIN,58,BACKFOOT PULL SHOT,0,0,1,19,119,6,1,0,2,0,0,0,0,0
+121,2,546,1,52,India Women,Deepti Sharma,Kavisha Dilhari,,20,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.2,2,1,0,222411,-145.80,127.67,4,0,,25,OFF SPIN,11,LOFTED ON DRIVE,0,0,2,19,123,6,0,0,2,0,0,0,0,0
+122,3,546,1,52,India Women,Deepti Sharma,Kavisha Dilhari,,20,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.3,2,1,0,222412,22.72,216.07,4,0,,25,OFF SPIN,13,LOFTED STRAIGHT,0,0,3,19,127,6,0,0,2,0,0,0,0,0
+123,4,546,1,52,India Women,Deepti Sharma,Kavisha Dilhari,,20,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.4,2,1,0,222413,-56.94,-142.60,4,0,,25,OFF SPIN,99,SCOOP,0,0,4,19,131,6,0,0,2,0,0,0,0,0
+124,5,546,1,52,India Women,Deepti Sharma,Kavisha Dilhari,,20,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.5,2,1,0,222414,70.14,134.12,1,0,,25,OFF SPIN,5,LOFTED OFF DRIVE,0,0,5,19,132,6,0,0,2,0,0,0,0,0
+125,6,546,1,52,India Women,Jemimah Rodrigues,Kavisha Dilhari,,20,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.6,2,1,0,222415,85.33,200.42,6,0,,25,OFF SPIN,94,STEP DOWN LOFTED ON DRIVE,0,0,6,19,138,6,0,0,2,0,0,0,0,0
+126,1,546,2,83,Sri Lanka Women,Vishmi Gunarathne,Renuka Singh,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,222416,-97.00,15.32,0,0,,38,STRAIGHT BALL,97,BACKFOOT PUSH,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+127,2,546,2,83,Sri Lanka Women,Vishmi Gunarathne,Renuka Singh,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,222417,-82.72,27.76,0,0,,38,STRAIGHT BALL,50,BACKFOOT DEFENCE,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+128,3,546,2,83,Sri Lanka Women,Vishmi Gunarathne,Renuka Singh,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,222418,-115.41,24.07,1,0,,38,STRAIGHT BALL,97,BACKFOOT PUSH,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+129,4,546,2,83,Sri Lanka Women,Chamari Athapaththu,Renuka Singh,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,222419,96.38,19.93,0,0,,30,ANGLED ACROSS,89,STEP DOWN COVER DRIVE,0,0,4,0,1,0,0,0,0,0,0,0,0,0
+130,5,546,2,83,Sri Lanka Women,Chamari Athapaththu,Renuka Singh,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,222420,96.38,19.93,0,0,,30,ANGLED ACROSS,105,LEFT ALONE,0,0,5,0,1,0,0,0,0,0,0,0,0,0
+131,6,546,2,83,Sri Lanka Women,Chamari Athapaththu,Renuka Singh,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,222421,96.38,19.93,0,0,,30,ANGLED ACROSS,105,LEFT ALONE,0,0,6,0,1,0,0,0,0,0,0,0,0,0
+132,1,546,2,83,Sri Lanka Women,Vishmi Gunarathne,Deepti Sharma,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,222422,-25.17,56.30,0,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,1,1,1,0,1,0,0,0,0,0,0,0
+133,2,546,2,83,Sri Lanka Women,Vishmi Gunarathne,Deepti Sharma,,2,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,1.2,2,1,0,222423,-25.17,56.30,0,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,2,1,1,1,2,0,0,0,0,0,0,0
+134,3,546,2,83,Sri Lanka Women,Harshitha Madavi,Deepti Sharma,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,222424,83.49,47.09,0,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,3,1,1,1,3,0,0,0,0,0,0,0
+135,4,546,2,83,Sri Lanka Women,Harshitha Madavi,Deepti Sharma,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,222425,95.00,16.24,0,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,4,1,1,1,0,0,0,0,0,0,0,0
+136,5,546,2,83,Sri Lanka Women,Harshitha Madavi,Deepti Sharma,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,222426,90.86,11.64,0,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,5,1,1,1,0,0,0,0,0,0,0,0
+137,6,546,2,83,Sri Lanka Women,Harshitha Madavi,Deepti Sharma,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,222427,40.21,-33.94,0,0,,23,ARM BALL,35,LATE CUT,0,0,6,1,1,1,0,0,0,0,0,0,0,0
+138,1,546,2,83,Sri Lanka Women,Chamari Athapaththu,Renuka Singh,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,222428,-67.07,53.08,0,0,,30,ANGLED ACROSS,70,STEP DOWN PULL SHOT,0,0,1,2,1,1,1,0,0,0,0,0,0,0
+139,2,546,2,83,Sri Lanka Women,Chamari Athapaththu,Renuka Singh,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,222429,147.49,57.68,1,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,2,2,2,1,0,0,0,0,0,0,0,0
+140,3,546,2,83,Sri Lanka Women,Harshitha Madavi,Renuka Singh,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,222430,-7.67,4.27,0,0,,30,ANGLED ACROSS,99,SCOOP,0,0,3,2,2,1,0,0,0,0,0,0,0,0
+141,4,546,2,83,Sri Lanka Women,Harshitha Madavi,Renuka Singh,,3,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,222431,141.05,57.68,2,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,4,2,4,1,0,0,0,0,0,0,0,0
+142,5,546,2,83,Sri Lanka Women,Harshitha Madavi,Renuka Singh,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,222432,141.05,57.68,0,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,5,2,4,1,0,0,0,0,0,0,0,0
+143,6,546,2,83,Sri Lanka Women,Harshitha Madavi,Renuka Singh,,3,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.6,2,1,0,222433,-155.93,-52.36,4,0,,30,ANGLED ACROSS,58,BACKFOOT PULL SHOT,0,0,6,2,8,1,0,0,0,0,0,0,0,0
+144,1,546,2,83,Sri Lanka Women,Chamari Athapaththu,Deepti Sharma,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,222434,-155.93,-52.36,0,0,,25,OFF SPIN,36,CUT SHOT,0,0,1,3,8,1,1,0,0,0,0,0,0,0
+145,2,546,2,83,Sri Lanka Women,Chamari Athapaththu,Deepti Sharma,,4,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,222435,135.06,-13.68,2,0,,25,OFF SPIN,36,CUT SHOT,0,0,2,3,10,1,0,0,0,0,0,0,0,0
+146,3,546,2,83,Sri Lanka Women,Chamari Athapaththu,Deepti Sharma,,4,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,222436,142.89,89.45,2,0,,25,OFF SPIN,52,BACKFOOT COVERDRIVE,0,0,3,3,12,1,0,0,0,0,0,0,0,0
+147,4,546,2,83,Sri Lanka Women,Chamari Athapaththu,Deepti Sharma,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,222437,144.73,48.47,1,0,,25,OFF SPIN,15,LOFTED COVER DRIVE,0,0,4,3,13,1,0,0,0,0,0,0,0,0
+148,5,546,2,83,Sri Lanka Women,Harshitha Madavi,Deepti Sharma,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,222438,144.73,48.47,0,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,5,3,13,1,0,0,0,0,0,0,0,0
+149,6,546,2,83,Sri Lanka Women,Harshitha Madavi,Deepti Sharma,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,222439,80.27,-28.88,0,0,,25,OFF SPIN,36,CUT SHOT,0,0,6,3,13,1,0,0,0,0,0,0,0,0
+150,1,546,2,83,Sri Lanka Women,Chamari Athapaththu,Radha Yadav,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,222440,76.59,27.76,0,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,1,4,13,1,1,0,0,0,0,0,0,0
+151,2,546,2,83,Sri Lanka Women,Chamari Athapaththu,Radha Yadav,,5,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.2,2,1,0,222441,-137.97,-80.45,4,0,,10,ORTHODOX,55,SWEEP SHOT,0,0,2,4,17,1,0,0,0,0,0,0,0,0
+152,3,546,2,83,Sri Lanka Women,Chamari Athapaththu,Radha Yadav,,5,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.3,2,1,0,222442,190.31,76.10,4,0,,10,ORTHODOX,51,FRONTFOOT COVERDRIVE,0,0,3,4,21,1,0,0,0,0,0,0,0,0
+153,4,546,2,83,Sri Lanka Women,Chamari Athapaththu,Radha Yadav,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,222443,71.52,-17.83,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,4,4,21,1,0,0,0,0,0,0,0,0
+154,5,546,2,83,Sri Lanka Women,Chamari Athapaththu,Radha Yadav,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,222444,71.52,-17.83,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,5,4,21,1,0,0,0,0,0,0,0,0
+155,6,546,2,83,Sri Lanka Women,Chamari Athapaththu,Radha Yadav,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,222445,61.85,8.42,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,6,4,21,1,0,0,0,0,0,0,0,0
+156,1,546,2,83,Sri Lanka Women,Harshitha Madavi,Deepti Sharma,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,222446,61.85,8.42,0,0,,25,OFF SPIN,36,CUT SHOT,0,0,1,5,21,1,1,0,0,0,0,0,0,0
+157,2,546,2,83,Sri Lanka Women,Harshitha Madavi,Deepti Sharma,,6,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,222447,132.30,-18.75,2,0,,25,OFF SPIN,36,CUT SHOT,0,0,2,5,23,1,0,0,0,0,0,0,0,0
+158,3,546,2,83,Sri Lanka Women,Harshitha Madavi,Deepti Sharma,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,222448,129.54,6.58,1,0,,25,OFF SPIN,52,BACKFOOT COVERDRIVE,0,0,3,5,24,1,0,0,0,0,0,0,0,0
+159,4,546,2,83,Sri Lanka Women,Chamari Athapaththu,Deepti Sharma,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,222449,129.54,6.58,0,0,,25,OFF SPIN,36,CUT SHOT,0,0,4,5,24,1,0,0,0,0,0,0,0,0
+160,5,546,2,83,Sri Lanka Women,Chamari Athapaththu,Deepti Sharma,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,222450,-114.49,108.33,1,0,,25,OFF SPIN,11,LOFTED ON DRIVE,0,0,5,5,25,1,0,0,0,0,0,0,0,0
+161,6,546,2,83,Sri Lanka Women,Harshitha Madavi,Deepti Sharma,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,222451,46.66,-51.44,0,0,,25,OFF SPIN,56,REVERSE SWEEP,0,0,6,5,25,1,0,0,0,0,0,0,0,0
+162,1,546,2,83,Sri Lanka Women,Chamari Athapaththu,Radha Yadav,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,222452,-17.80,-57.42,1,0,,10,ORTHODOX,55,SWEEP SHOT,0,0,1,6,26,1,1,0,0,0,0,0,0,0
+163,2,546,2,83,Sri Lanka Women,Harshitha Madavi,Radha Yadav,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,222453,-83.64,15.78,1,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,2,6,27,1,0,0,0,0,0,0,0,0
+164,3,546,2,83,Sri Lanka Women,Chamari Athapaththu,Radha Yadav,,7,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,6.3,2,1,0,222454,-56.02,-38.09,0,0,,10,ORTHODOX,58,BACKFOOT PULL SHOT,0,0,3,6,27,2,1,0,0,0,0,0,0,0
+165,4,546,2,83,Sri Lanka Women,Harshitha Madavi,Radha Yadav,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,222455,126.77,-31.18,0,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,4,6,27,2,2,0,0,0,0,0,0,0
+166,5,546,2,83,Sri Lanka Women,Harshitha Madavi,Radha Yadav,,7,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,6.5,2,1,0,222456,126.77,-31.18,0,0,,10,ORTHODOX,58,BACKFOOT PULL SHOT,0,0,5,6,27,3,3,0,0,0,0,0,0,0
+167,6,546,2,83,Sri Lanka Women,Kavisha Dilhari,Radha Yadav,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,222457,112.96,24.99,1,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,6,6,28,3,4,0,0,0,0,0,0,0
+168,1,546,2,83,Sri Lanka Women,Kavisha Dilhari,Pooja Vastrakar,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,222458,124.93,16.71,0,0,,42,OUTSWINGER,97,BACKFOOT PUSH,0,0,1,7,28,3,5,0,0,0,0,0,0,0
+169,2,546,2,83,Sri Lanka Women,Kavisha Dilhari,Pooja Vastrakar,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,222459,124.93,16.71,0,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,2,7,28,3,0,0,0,0,0,0,0,0
+170,3,546,2,83,Sri Lanka Women,Kavisha Dilhari,Pooja Vastrakar,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,222460,-73.05,-22.43,0,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,3,7,28,3,0,0,0,0,0,0,0,0
+171,4,546,2,83,Sri Lanka Women,Kavisha Dilhari,Pooja Vastrakar,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,222461,-73.05,-22.43,0,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,4,7,28,3,0,0,0,0,0,0,0,0
+172,5,546,2,83,Sri Lanka Women,Kavisha Dilhari,Pooja Vastrakar,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,222462,-73.05,-22.43,0,0,,42,OUTSWINGER,89,STEP DOWN COVER DRIVE,0,0,5,7,28,3,0,0,0,0,0,0,0,0
+173,6,546,2,83,Sri Lanka Women,Kavisha Dilhari,Pooja Vastrakar,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,222463,47.58,77.02,0,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,6,7,28,3,0,0,0,0,0,0,0,0
+174,1,546,2,83,Sri Lanka Women,Nilakshi De Silva,Rajeshwari Gayakwad,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,222464,77.97,25.45,1,0,,23,ARM BALL,50,BACKFOOT DEFENCE,0,0,1,8,29,3,1,0,0,0,0,0,0,0
+175,2,546,2,83,Sri Lanka Women,Kavisha Dilhari,Rajeshwari Gayakwad,,9,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,222465,76.13,-95.64,2,0,,10,ORTHODOX,22,FRONTFOOT PADDLE SWEEP,0,0,2,8,31,3,0,0,0,0,0,0,0,0
+176,3,546,2,83,Sri Lanka Women,Kavisha Dilhari,Rajeshwari Gayakwad,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,222466,-70.75,-35.78,0,0,,10,ORTHODOX,36,CUT SHOT,0,0,3,8,31,3,0,0,0,0,0,0,0,0
+177,4,546,2,83,Sri Lanka Women,Kavisha Dilhari,Rajeshwari Gayakwad,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,222467,-26.09,-40.85,0,0,,23,ARM BALL,35,LATE CUT,0,0,4,8,31,3,0,0,0,0,0,0,0,0
+178,5,546,2,83,Sri Lanka Women,Kavisha Dilhari,Rajeshwari Gayakwad,,9,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.5,2,1,0,222468,48.50,-146.75,4,0,,10,ORTHODOX,22,FRONTFOOT PADDLE SWEEP,0,0,5,8,35,3,0,0,0,0,0,0,0,0
+179,6,546,2,83,Sri Lanka Women,Kavisha Dilhari,Rajeshwari Gayakwad,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,222469,67.38,21.77,0,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,6,8,35,3,0,0,0,0,0,0,0,0
+180,1,546,2,83,Sri Lanka Women,Nilakshi De Silva,Pooja Vastrakar,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,222470,118.49,10.72,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,1,9,36,3,1,0,0,0,0,0,0,0
+181,2,546,2,83,Sri Lanka Women,Kavisha Dilhari,Pooja Vastrakar,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,222471,130.92,-10.00,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,2,9,37,3,0,0,0,0,0,0,0,0
+182,3,546,2,83,Sri Lanka Women,Nilakshi De Silva,Pooja Vastrakar,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,222472,62.31,25.91,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,3,9,37,3,0,0,0,0,0,0,0,0
+183,4,546,2,83,Sri Lanka Women,Nilakshi De Silva,Pooja Vastrakar,,10,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.4,2,1,0,222473,169.13,90.37,4,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,4,9,41,3,0,0,0,0,0,0,0,0
+184,5,546,2,83,Sri Lanka Women,Nilakshi De Silva,Pooja Vastrakar,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,222474,19.03,46.63,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,5,9,41,3,0,0,0,0,0,0,0,0
+185,6,546,2,83,Sri Lanka Women,Nilakshi De Silva,Pooja Vastrakar,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,222475,71.98,44.33,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,6,9,41,3,0,0,0,0,0,0,0,0
+187,1,546,2,83,Sri Lanka Women,Kavisha Dilhari,Renuka Singh,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,222476,151.64,40.65,1,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,1,10,42,3,1,0,0,0,0,0,0,0
+188,2,546,2,83,Sri Lanka Women,Nilakshi De Silva,Renuka Singh,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,222477,72.44,39.73,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,2,10,42,3,0,0,0,0,0,0,0,0
+189,3,546,2,83,Sri Lanka Women,Nilakshi De Silva,Renuka Singh,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,222478,148.41,37.42,1,0,,8,OFF CUTTER,18,SLOG SHOT,0,0,3,10,43,3,0,0,0,0,0,0,0,0
+190,4,546,2,83,Sri Lanka Women,Kavisha Dilhari,Renuka Singh,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,222479,-59.24,27.29,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,4,10,43,3,0,0,0,0,0,0,0,0
+191,5,546,2,83,Sri Lanka Women,Kavisha Dilhari,Renuka Singh,,11,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,222480,112.50,106.49,2,0,,39,ANGLED IN,11,LOFTED ON DRIVE,0,0,5,10,45,3,0,0,0,0,0,0,0,0
+192,6,546,2,83,Sri Lanka Women,Kavisha Dilhari,Renuka Singh,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,222481,-33.92,-85.05,1,0,,39,ANGLED IN,99,SCOOP,0,0,6,10,46,3,0,0,0,0,0,0,0,0
+193,1,546,2,83,Sri Lanka Women,Kavisha Dilhari,Harmanpreet Kaur,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,222482,-91.47,34.20,0,0,,25,OFF SPIN,89,STEP DOWN COVER DRIVE,0,0,1,11,46,3,1,0,0,0,0,0,0,0
+194,2,546,2,83,Sri Lanka Women,Kavisha Dilhari,Harmanpreet Kaur,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,222483,-64.31,43.87,0,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,2,11,46,3,0,0,0,0,0,0,0,0
+195,3,546,2,83,Sri Lanka Women,Kavisha Dilhari,Harmanpreet Kaur,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,222484,148.87,41.11,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,3,11,47,3,0,0,0,0,0,0,0,0
+196,4,546,2,83,Sri Lanka Women,Nilakshi De Silva,Harmanpreet Kaur,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,222485,127.69,-6.32,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,4,11,48,3,0,0,0,0,0,0,0,0
+197,5,546,2,83,Sri Lanka Women,Kavisha Dilhari,Harmanpreet Kaur,,12,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.5,2,1,0,222486,-159.62,-50.06,4,0,,25,OFF SPIN,59,FRONTFOOT SQUARE DRIVE,0,0,5,11,52,3,0,1,1,0,1,0,0,0
+198,6,546,2,83,Sri Lanka Women,Kavisha Dilhari,Harmanpreet Kaur,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,222487,92.24,128.59,1,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,6,11,53,3,0,0,1,0,0,0,0,0
+199,1,546,2,83,Sri Lanka Women,Kavisha Dilhari,Pooja Vastrakar,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,222488,-47.27,77.02,0,0,,38,STRAIGHT BALL,84,FRONTFOOT OFF DRIVE,0,0,1,12,53,3,1,0,1,0,0,0,0,0
+200,2,546,2,83,Sri Lanka Women,Kavisha Dilhari,Pooja Vastrakar,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,222489,142.43,4.27,1,0,,38,STRAIGHT BALL,40,FRONTFOOT FLICK,0,0,2,12,54,3,0,0,1,0,0,0,0,0
+201,3,546,2,83,Sri Lanka Women,Nilakshi De Silva,Pooja Vastrakar,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,222490,-84.56,-23.35,0,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,3,12,54,3,0,0,1,0,0,0,0,0
+202,4,546,2,83,Sri Lanka Women,Nilakshi De Silva,Pooja Vastrakar,,13,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,12.4,2,1,0,222491,-69.37,152.99,0,0,,38,STRAIGHT BALL,5,LOFTED OFF DRIVE,0,0,4,12,54,4,1,0,1,0,0,0,0,0
+203,5,546,2,83,Sri Lanka Women,Kavisha Dilhari,Pooja Vastrakar,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,222492,-69.37,152.99,0,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,5,12,54,4,2,0,1,0,0,0,0,0
+204,6,546,2,83,Sri Lanka Women,Kavisha Dilhari,Pooja Vastrakar,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,222493,113.88,104.19,1,0,,39,ANGLED IN,11,LOFTED ON DRIVE,0,0,6,12,55,4,0,0,1,0,0,0,0,0
+205,1,546,2,83,Sri Lanka Women,Kavisha Dilhari,Shafali Verma,,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,222494,113.88,104.19,0,0,,25,OFF SPIN,36,CUT SHOT,0,0,1,13,55,4,1,0,1,0,0,0,0,0
+206,2,546,2,83,Sri Lanka Women,Kavisha Dilhari,Shafali Verma,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,222495,70.60,133.19,1,0,,25,OFF SPIN,94,STEP DOWN LOFTED ON DRIVE,0,0,2,13,56,4,0,0,1,0,0,0,0,0
+207,3,546,2,83,Sri Lanka Women,Ama Kanchana,Shafali Verma,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,222496,-78.12,-15.99,0,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,3,13,56,4,0,0,1,0,0,0,0,0
+208,4,546,2,83,Sri Lanka Women,Ama Kanchana,Shafali Verma,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,222497,144.73,77.94,1,0,,24,LEG SPIN,74,STEP DOWN ON DRIVE,0,0,4,13,57,4,0,0,1,0,0,0,0,0
+209,5,546,2,83,Sri Lanka Women,Kavisha Dilhari,Shafali Verma,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,222498,-64.77,34.66,0,0,,25,OFF SPIN,89,STEP DOWN COVER DRIVE,0,0,5,13,57,4,0,0,1,0,0,0,0,0
+210,6,546,2,83,Sri Lanka Women,Kavisha Dilhari,Shafali Verma,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,222499,92.70,110.17,1,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,6,13,58,4,0,0,1,0,0,0,0,0
+211,1,546,2,83,Sri Lanka Women,Kavisha Dilhari,Radha Yadav,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,222500,-17.34,-27.96,0,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,1,14,58,4,1,0,1,0,0,0,0,0
+212,2,546,2,83,Sri Lanka Women,Kavisha Dilhari,Radha Yadav,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,222501,-21.95,-43.61,1,0,,10,ORTHODOX,74,STEP DOWN ON DRIVE,0,0,2,14,59,4,0,0,1,0,0,0,0,0
+213,3,546,2,83,Sri Lanka Women,Ama Kanchana,Radha Yadav,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,222502,-56.02,26.37,1,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,3,14,60,4,0,0,1,0,0,0,0,0
+214,4,546,2,83,Sri Lanka Women,Kavisha Dilhari,Radha Yadav,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,222503,91.78,54.92,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,4,14,60,4,0,0,1,0,0,0,0,0
+215,5,546,2,83,Sri Lanka Women,Kavisha Dilhari,Radha Yadav,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,222504,91.78,54.92,1,0,,10,ORTHODOX,36,CUT SHOT,0,0,5,14,61,4,0,0,1,0,0,0,0,0
+216,6,546,2,83,Sri Lanka Women,Ama Kanchana,Radha Yadav,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,222505,55.87,143.32,0,0,,10,ORTHODOX,94,STEP DOWN LOFTED ON DRIVE,0,0,6,14,61,4,0,0,1,0,0,0,0,0
+217,1,546,2,83,Sri Lanka Women,Kavisha Dilhari,Harmanpreet Kaur,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,222506,-68.91,44.33,0,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,1,15,61,4,1,0,1,0,0,0,0,0
+218,2,546,2,83,Sri Lanka Women,Kavisha Dilhari,Harmanpreet Kaur,,16,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.2,2,1,0,222507,-165.14,123.53,4,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,2,15,65,4,0,0,1,0,0,0,0,0
+219,3,546,2,83,Sri Lanka Women,Kavisha Dilhari,Harmanpreet Kaur,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,222508,27.32,159.90,1,0,,25,OFF SPIN,11,LOFTED ON DRIVE,0,0,3,15,66,4,0,0,1,0,0,0,0,0
+220,4,546,2,83,Sri Lanka Women,Ama Kanchana,Harmanpreet Kaur,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,222509,54.49,-38.09,0,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,4,15,66,4,0,0,1,0,0,0,0,0
+221,5,546,2,83,Sri Lanka Women,Ama Kanchana,Harmanpreet Kaur,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,222510,139.67,56.76,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,5,15,67,4,0,0,1,0,0,0,0,0
+222,6,546,2,83,Sri Lanka Women,Kavisha Dilhari,Harmanpreet Kaur,,16,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.6,2,1,0,222511,-132.91,-103.01,4,0,,25,OFF SPIN,36,CUT SHOT,0,0,6,15,71,4,0,0,1,0,0,0,0,0
+223,1,546,2,83,Sri Lanka Women,Ama Kanchana,Radha Yadav,,17,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,222512,148.87,82.55,2,0,,,Knuckleball,,,0,0,1,16,73,4,1,0,1,0,0,0,0,0
+224,2,546,2,83,Sri Lanka Women,Ama Kanchana,Radha Yadav,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,222513,48.96,-49.14,1,0,,,Knuckleball,99,SCOOP,0,0,2,16,74,4,0,0,1,0,0,0,0,0
+225,3,546,2,83,Sri Lanka Women,Kavisha Dilhari,Radha Yadav,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,222514,48.96,-49.14,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,16,74,4,0,0,1,0,0,0,0,0
+226,4,546,2,83,Sri Lanka Women,Kavisha Dilhari,Radha Yadav,,17,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.4,2,1,0,222515,181.56,21.31,4,0,,10,ORTHODOX,55,SWEEP SHOT,0,0,4,16,78,4,0,0,1,0,0,0,0,0
+227,5,546,2,83,Sri Lanka Women,Kavisha Dilhari,Radha Yadav,,17,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,222516,-8.59,65.05,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,5,16,78,4,0,0,1,0,0,0,0,0
+228,6,546,2,83,Sri Lanka Women,Kavisha Dilhari,Radha Yadav,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,222517,134.60,70.58,1,0,,10,ORTHODOX,11,LOFTED ON DRIVE,0,0,6,16,79,4,0,0,1,0,0,0,0,0
+230,1,546,2,83,Sri Lanka Women,Kavisha Dilhari,Shafali Verma,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,222518,-116.33,74.26,1,0,,25,OFF SPIN,51,FRONTFOOT COVERDRIVE,0,0,1,17,80,4,1,0,1,0,0,0,0,0
+231,2,546,2,83,Sri Lanka Women,Ama Kanchana,Shafali Verma,,18,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.2,2,1,0,222519,-72.59,200.88,4,0,,25,OFF SPIN,122,STEP DOWN LOFTED OFF DRIVE,0,0,2,17,84,4,0,0,1,0,0,0,0,0
+232,3,546,2,83,Sri Lanka Women,Ama Kanchana,Shafali Verma,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,222520,141.51,36.96,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,3,17,85,4,0,0,1,0,0,0,0,0
+233,4,546,2,83,Sri Lanka Women,Kavisha Dilhari,Shafali Verma,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,222521,-67.07,99.12,1,0,,25,OFF SPIN,84,FRONTFOOT OFF DRIVE,0,0,4,17,86,4,0,0,1,0,0,0,0,0
+234,5,546,2,83,Sri Lanka Women,Ama Kanchana,Shafali Verma,,18,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Stumped,WICKET,1,17.5,2,1,0,222522,-67.07,99.12,0,0,,25,OFF SPIN,94,STEP DOWN LOFTED ON DRIVE,0,0,5,17,86,5,1,0,1,0,0,0,0,0
+235,6,546,2,83,Sri Lanka Women,Anushka Sanjeewani,Shafali Verma,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,222523,-67.07,99.12,0,0,,25,OFF SPIN,35,LATE CUT,0,0,6,17,86,5,2,0,1,0,0,0,0,0
+236,1,546,2,83,Sri Lanka Women,Kavisha Dilhari,Pooja Vastrakar,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,222524,-49.11,-34.40,1,0,,38,STRAIGHT BALL,49,FORWARD DEFENCE,0,0,1,18,87,5,3,0,1,0,0,0,0,0
+237,2,546,2,83,Sri Lanka Women,Anushka Sanjeewani,Pooja Vastrakar,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,222525,-108.51,42.03,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,18,88,5,0,0,1,0,0,0,0,0
+238,3,546,2,83,Sri Lanka Women,Kavisha Dilhari,Pooja Vastrakar,,19,3,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,18.3,2,1,1,222526,-108.51,42.03,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,3,18,89,5,0,0,1,0,0,0,0,0
+239,4,546,2,83,Sri Lanka Women,Anushka Sanjeewani,Pooja Vastrakar,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,222527,143.81,42.95,1,0,,38,STRAIGHT BALL,18,SLOG SHOT,0,0,4,18,90,5,0,0,1,0,0,0,0,0
+240,5,546,2,83,Sri Lanka Women,Kavisha Dilhari,Pooja Vastrakar,,19,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.5,2,1,0,222528,36.99,-50.06,1,0,,46,LEGCUTTER,99,SCOOP,0,0,5,18,91,5,0,0,1,0,0,0,0,0
+241,6,546,2,83,Sri Lanka Women,Anushka Sanjeewani,Pooja Vastrakar,,19,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.6,2,1,0,222529,-109.89,64.13,1,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,6,18,92,5,0,0,1,0,0,0,0,0
+242,1,546,2,83,Sri Lanka Women,Anushka Sanjeewani,Renuka Singh,,20,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.1,2,1,0,222530,-84.56,-30.72,0,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,1,19,92,5,1,0,1,0,0,0,0,0
+243,2,546,2,83,Sri Lanka Women,Anushka Sanjeewani,Renuka Singh,,20,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.2,2,1,0,222531,-38.52,-99.32,2,0,,8,OFF CUTTER,99,SCOOP,0,0,2,19,94,5,0,0,1,0,0,0,0,0
+244,3,546,2,83,Sri Lanka Women,Anushka Sanjeewani,Renuka Singh,,20,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.3,2,1,0,222532,54.95,-133.86,4,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,3,19,98,5,0,0,1,0,0,0,0,0
+245,4,546,2,83,Sri Lanka Women,Anushka Sanjeewani,Renuka Singh,,20,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.4,2,1,0,222533,150.72,44.79,1,0,,38,STRAIGHT BALL,18,SLOG SHOT,0,0,4,19,99,5,0,0,1,0,0,0,0,0
+246,5,546,2,83,Sri Lanka Women,Kavisha Dilhari,Renuka Singh,,20,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.5,2,1,0,222534,-160.54,110.17,4,0,,39,ANGLED IN,15,LOFTED COVER DRIVE,0,0,5,19,103,5,0,1,2,0,0,1,0,0
+247,6,546,2,83,Sri Lanka Women,Kavisha Dilhari,Renuka Singh,,20,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.6,2,1,0,222535,63.23,117.54,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,6,19,104,5,0,0,2,0,0,0,0,0

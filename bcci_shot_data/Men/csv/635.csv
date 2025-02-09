@@ -1,0 +1,253 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,635,1,1,India,K L Rahul,Haroon Arshad,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,239221,-17.80,47.55,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,635,1,1,India,K L Rahul,Haroon Arshad,,1,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.2,1,1,1,239223,-17.80,47.55,1,0,,,Knuckleball,54,LEG GLANCE,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+2,3,635,1,1,India,K L Rahul,Haroon Arshad,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,239225,-73.05,58.14,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+3,4,635,1,1,India,K L Rahul,Haroon Arshad,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,239227,-102.52,-67.09,1,0,,,Knuckleball,44,GLIDE,0,0,4,0,2,0,0,0,0,0,0,0,0,0
+4,5,635,1,1,India,Rohit Sharma,Haroon Arshad,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,239229,128.62,-20.59,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,0,3,0,0,0,0,0,0,0,0,0
+5,6,635,1,1,India,K L Rahul,Haroon Arshad,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,239231,32.38,-45.91,1,0,,,Knuckleball,54,LEG GLANCE,0,0,6,0,4,0,0,0,0,0,0,0,0,0
+6,7,635,1,1,India,Rohit Sharma,Haroon Arshad,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,239233,134.60,27.76,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,7,0,5,0,0,0,0,0,0,0,0,0
+7,1,635,1,1,India,Rohit Sharma,Ayush Shukla,,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,239235,-131.07,88.99,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,1,6,0,1,0,0,0,0,0,0,0
+8,2,635,1,1,India,K L Rahul,Ayush Shukla,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,239237,-45.43,91.76,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,1,6,0,0,0,0,0,0,0,0,0
+9,3,635,1,1,India,K L Rahul,Ayush Shukla,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,239239,-44.51,103.27,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,1,6,0,0,0,0,0,0,0,0,0
+10,4,635,1,1,India,K L Rahul,Ayush Shukla,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,239241,-81.34,73.34,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,1,6,0,0,0,0,0,0,0,0,0
+11,5,635,1,1,India,K L Rahul,Ayush Shukla,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,239243,-78.12,64.13,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,1,6,0,0,0,0,0,0,0,0,0
+12,6,635,1,1,India,K L Rahul,Ayush Shukla,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,239245,-17.34,69.19,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,1,6,0,0,0,0,0,0,0,0,0
+13,1,635,1,1,India,Rohit Sharma,Haroon Arshad,,3,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,2.1,1,1,0,239246,94.54,196.73,6,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,1,2,12,0,1,0,0,0,0,0,0,0
+14,2,635,1,1,India,Rohit Sharma,Haroon Arshad,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,239249,56.79,46.63,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,2,12,0,0,0,0,0,0,0,0,0
+15,3,635,1,1,India,Rohit Sharma,Haroon Arshad,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,239251,69.68,30.52,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,2,13,0,0,0,0,0,0,0,0,0
+16,4,635,1,1,India,K L Rahul,Haroon Arshad,,3,4,3 (NB),3,2,0,1,0,0,1,0,1,0,0,0,0,0,,,0,2.4,1,1,1,239253,115.26,-52.36,3,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,4,2,16,0,0,0,0,0,0,0,0,0
+17,5,635,1,1,India,K L Rahul,Haroon Arshad,,3,4,1 (NB),1,0,0,0,0,1,1,0,1,0,0,0,0,0,,,0,2.4,1,1,1,239255,115.26,-52.36,1,0,,,Knuckleball,105,LEFT ALONE,0,0,5,2,17,0,0,0,0,0,0,0,0,0
+18,6,635,1,1,India,K L Rahul,Haroon Arshad,,3,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,2.4,1,1,0,239257,185.71,77.02,6,0,,,Knuckleball,18,SLOG SHOT,0,0,6,2,23,0,0,0,0,0,0,0,0,0
+19,7,635,1,1,India,K L Rahul,Haroon Arshad,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,239259,137.82,-9.08,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,7,2,24,0,0,0,0,0,0,0,0,0
+20,8,635,1,1,India,Rohit Sharma,Haroon Arshad,,3,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.6,1,1,0,239261,-177.57,99.12,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,8,2,28,0,0,0,0,0,0,0,0,0
+21,1,635,1,1,India,K L Rahul,Ehsan Khan,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,239263,-56.02,104.19,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,1,3,29,0,1,0,0,0,0,0,0,0
+22,2,635,1,1,India,Rohit Sharma,Ehsan Khan,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,239265,34.23,159.90,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,2,3,30,0,0,0,0,0,0,0,0,0
+23,3,635,1,1,India,K L Rahul,Ehsan Khan,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,239267,-87.79,85.77,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,3,31,0,0,0,0,0,0,0,0,0
+24,4,635,1,1,India,Rohit Sharma,Ehsan Khan,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,239268,48.04,106.95,0,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,4,3,31,0,0,0,0,0,0,0,0,0
+25,5,635,1,1,India,Rohit Sharma,Ehsan Khan,,4,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,239270,140.59,-7.24,2,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,3,33,0,0,0,0,0,0,0,0,0
+26,6,635,1,1,India,Rohit Sharma,Ehsan Khan,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,239273,73.82,-35.78,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,3,33,0,0,0,0,0,0,0,0,0
+27,1,635,1,1,India,K L Rahul,Ayush Shukla,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,239275,-90.55,35.58,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,4,33,0,1,0,0,0,0,0,0,0
+28,2,635,1,1,India,K L Rahul,Ayush Shukla,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,239277,-80.42,64.13,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,4,33,0,0,0,0,0,0,0,0,0
+29,3,635,1,1,India,K L Rahul,Ayush Shukla,,5,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,239279,-82.72,-92.42,1,0,,,Knuckleball,35,LATE CUT,0,0,3,4,34,0,0,0,0,0,0,0,0,0
+30,4,635,1,1,India,Rohit Sharma,Ayush Shukla,,5,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.4,1,1,0,239281,-3.99,210.09,4,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,4,4,38,0,0,0,0,0,0,0,0,0
+31,5,635,1,1,India,Rohit Sharma,Ayush Shukla,,5,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,4.5,1,1,0,239282,-3.99,210.09,0,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,4,38,1,1,0,0,0,0,0,0,0
+32,6,635,1,1,India,Virat Kohli,Ayush Shukla,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,239285,27.32,127.21,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,6,4,39,1,2,0,0,0,0,0,0,0
+33,1,635,1,1,India,Virat Kohli,Ehsan Khan,,6,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,239287,-67.99,103.27,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,1,5,40,1,3,0,0,0,0,0,0,0
+34,2,635,1,1,India,K L Rahul,Ehsan Khan,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,239290,38.83,155.76,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,2,5,41,1,0,0,0,0,0,0,0,0
+35,3,635,1,1,India,Virat Kohli,Ehsan Khan,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,239291,-44.97,5.19,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,5,41,1,0,0,0,0,0,0,0,0
+36,4,635,1,1,India,Virat Kohli,Ehsan Khan,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,1,1,0,239293,45.74,150.69,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,4,5,42,1,0,0,0,0,0,0,0,0
+37,5,635,1,1,India,K L Rahul,Ehsan Khan,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,239296,-39.44,-115.44,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,5,43,1,0,0,0,0,0,0,0,0
+38,6,635,1,1,India,Virat Kohli,Ehsan Khan,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,239297,-47.27,13.94,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,5,44,1,0,0,0,0,0,0,0,0
+39,1,635,1,1,India,Virat Kohli,Aizaz Khan,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,239299,98.23,92.68,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,6,45,1,1,0,0,0,0,0,0,0
+40,2,635,1,1,India,K L Rahul,Aizaz Khan,,7,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,6.2,1,1,1,239301,98.23,92.68,1,0,,,Knuckleball,105,LEFT ALONE,0,0,2,6,46,1,0,0,0,0,0,0,0,0
+41,3,635,1,1,India,K L Rahul,Aizaz Khan,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,239303,49.88,151.15,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,3,6,47,1,0,0,0,0,0,0,0,0
+42,4,635,1,1,India,Virat Kohli,Aizaz Khan,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,239305,115.26,104.19,1,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,4,6,48,1,0,0,0,0,0,0,0,0
+43,5,635,1,1,India,K L Rahul,Aizaz Khan,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,239307,-56.02,-109.45,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,6,49,1,0,0,0,0,0,0,0,0
+44,6,635,1,1,India,Virat Kohli,Aizaz Khan,,7,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,239309,-120.02,88.99,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,6,51,1,0,1,1,0,1,0,0,0
+45,7,635,1,1,India,Virat Kohli,Aizaz Khan,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,239311,67.84,98.20,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,7,6,52,1,0,0,1,0,0,0,0,0
+46,1,635,1,1,India,Virat Kohli,Yasim Murtaza,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,239314,90.40,119.84,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,7,53,1,1,0,1,0,0,0,0,0
+47,2,635,1,1,India,K L Rahul,Yasim Murtaza,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,239316,-15.96,59.06,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,7,53,1,0,0,1,0,0,0,0,0
+48,3,635,1,1,India,K L Rahul,Yasim Murtaza,,8,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,239318,-143.96,-13.68,2,0,,,Knuckleball,36,CUT SHOT,0,0,3,7,55,1,0,0,1,0,0,0,0,0
+49,4,635,1,1,India,K L Rahul,Yasim Murtaza,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,239321,116.64,107.41,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,4,7,56,1,0,0,1,0,0,0,0,0
+50,5,635,1,1,India,Virat Kohli,Yasim Murtaza,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,239322,-12.74,62.29,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,7,56,1,0,0,1,0,0,0,0,0
+51,6,635,1,1,India,Virat Kohli,Yasim Murtaza,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,239324,118.49,110.63,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,7,57,1,0,0,1,0,0,0,0,0
+52,1,635,1,1,India,Virat Kohli,Aizaz Khan,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,239326,2.00,-25.19,0,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,8,57,1,1,0,1,0,0,0,0,0
+53,2,635,1,1,India,Virat Kohli,Aizaz Khan,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,239328,99.15,87.61,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,2,8,58,1,0,0,1,0,0,0,0,0
+54,3,635,1,1,India,K L Rahul,Aizaz Khan,,9,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,8.3,1,1,0,239330,143.81,152.07,6,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,3,8,64,1,0,0,1,0,0,0,0,0
+55,4,635,1,1,India,K L Rahul,Aizaz Khan,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,239332,78.89,144.71,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,4,8,65,1,0,0,1,0,0,0,0,0
+56,5,635,1,1,India,Virat Kohli,Aizaz Khan,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,239334,-66.15,-6.78,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,8,66,1,0,0,1,0,0,0,0,0
+57,6,635,1,1,India,K L Rahul,Aizaz Khan,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,239336,-24.71,60.91,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,8,66,1,0,0,1,0,0,0,0,0
+58,1,635,1,1,India,Virat Kohli,Yasim Murtaza,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,239339,-69.37,79.78,0,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,1,9,66,1,1,0,1,0,0,0,0,0
+59,2,635,1,1,India,Virat Kohli,Yasim Murtaza,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,239340,54.49,101.88,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,9,67,1,0,0,1,0,0,0,0,0
+60,3,635,1,1,India,K L Rahul,Yasim Murtaza,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,239342,61.85,151.15,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,3,9,68,1,0,0,1,0,0,0,0,0
+61,4,635,1,1,India,Virat Kohli,Yasim Murtaza,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,239344,-48.65,14.86,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,9,69,1,0,0,1,0,0,0,0,0
+62,5,635,1,1,India,K L Rahul,Yasim Murtaza,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,239346,-17.34,10.72,0,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,9,69,1,0,0,1,0,0,0,0,0
+63,6,635,1,1,India,K L Rahul,Yasim Murtaza,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,239348,93.62,73.34,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,9,70,1,0,0,1,0,0,0,0,0
+65,1,635,1,1,India,K L Rahul,Mohammad Ghazanfar,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,239350,122.63,-3.09,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,10,71,1,1,0,1,0,0,0,0,0
+66,2,635,1,1,India,Virat Kohli,Mohammad Ghazanfar,,11,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,239352,34.69,178.32,2,0,,,Knuckleball,69,STEP DOWN LOFTED STRAIGHT DRIVE,0,0,2,10,73,1,0,0,1,0,0,0,0,0
+67,3,635,1,1,India,Virat Kohli,Mohammad Ghazanfar,,11,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.3,1,1,0,239354,77.05,201.80,4,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,3,10,77,1,0,0,1,0,0,0,0,0
+68,4,635,1,1,India,Virat Kohli,Mohammad Ghazanfar,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,239356,-52.79,153.91,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,4,10,78,1,0,0,1,0,0,0,0,0
+69,5,635,1,1,India,K L Rahul,Mohammad Ghazanfar,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,239358,41.13,162.66,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,5,10,79,1,0,0,1,0,0,0,0,0
+70,6,635,1,1,India,Virat Kohli,Mohammad Ghazanfar,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,239360,128.15,111.09,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,10,80,1,0,0,1,0,0,0,0,0
+71,1,635,1,1,India,Virat Kohli,Yasim Murtaza,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,239362,114.34,104.65,1,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,1,11,81,1,1,0,1,0,0,0,0,0
+72,2,635,1,1,India,K L Rahul,Yasim Murtaza,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,239364,-84.56,-25.65,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,11,81,1,0,0,1,0,0,0,0,0
+73,3,635,1,1,India,K L Rahul,Yasim Murtaza,,12,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,239366,12.59,-106.69,2,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,11,83,1,0,0,1,0,0,0,0,0
+74,4,635,1,1,India,K L Rahul,Yasim Murtaza,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,239368,76.59,149.77,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,4,11,84,1,0,0,1,0,0,0,0,0
+75,5,635,1,1,India,Virat Kohli,Yasim Murtaza,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,239370,-50.49,-35.78,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,11,85,1,0,0,1,0,0,0,0,0
+76,6,635,1,1,India,K L Rahul,Yasim Murtaza,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,239372,9.82,-11.84,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,6,11,85,1,0,0,1,0,0,0,0,0
+77,1,635,1,1,India,Virat Kohli,Mohammad Ghazanfar,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,239374,-40.36,91.29,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,12,85,1,1,0,1,0,0,0,0,0
+78,2,635,1,1,India,Virat Kohli,Mohammad Ghazanfar,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,1,1,0,239376,62.31,157.14,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,2,12,86,1,0,0,1,0,0,0,0,0
+79,3,635,1,1,India,K L Rahul,Mohammad Ghazanfar,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,239378,-128.77,6.12,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,12,87,1,0,0,1,0,0,0,0,0
+80,4,635,1,1,India,Virat Kohli,Mohammad Ghazanfar,,13,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,12.4,1,1,0,239380,178.80,123.53,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,12,93,1,0,0,1,0,0,0,0,0
+81,5,635,1,1,India,Virat Kohli,Mohammad Ghazanfar,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,239382,-135.67,17.17,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,12,94,1,0,0,1,0,0,0,0,0
+82,6,635,1,1,India,K L Rahul,Mohammad Ghazanfar,,13,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,12.6,1,1,0,239383,-135.67,17.17,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,12,94,2,1,0,1,0,0,0,0,0
+83,1,635,1,1,India,Virat Kohli,Yasim Murtaza,,14,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,239386,106.51,13.94,2,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,13,96,2,2,0,1,0,0,0,0,0
+84,2,635,1,1,India,Virat Kohli,Yasim Murtaza,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,239388,92.24,124.45,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,2,13,97,2,0,0,1,0,0,0,0,0
+85,3,635,1,1,India,Suryakumar Yadav,Yasim Murtaza,,14,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.3,1,1,0,239390,178.80,-12.76,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,13,101,2,0,1,2,0,0,1,0,0
+86,4,635,1,1,India,Suryakumar Yadav,Yasim Murtaza,,14,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.4,1,1,0,239392,151.64,-73.08,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,13,105,2,0,0,2,0,0,0,0,0
+87,5,635,1,1,India,Suryakumar Yadav,Yasim Murtaza,,14,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,239394,83.03,135.50,2,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,5,13,107,2,0,0,2,0,0,0,0,0
+88,6,635,1,1,India,Suryakumar Yadav,Yasim Murtaza,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,239396,11.67,63.21,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,13,107,2,0,0,2,0,0,0,0,0
+89,1,635,1,1,India,Virat Kohli,Ayush Shukla,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,239398,-56.02,104.19,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,1,14,107,2,1,0,2,0,0,0,0,0
+90,2,635,1,1,India,Virat Kohli,Ayush Shukla,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,239400,56.79,154.83,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,2,14,108,2,0,0,2,0,0,0,0,0
+91,3,635,1,1,India,Suryakumar Yadav,Ayush Shukla,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,239402,127.23,-25.65,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,14,109,2,0,0,2,0,0,0,0,0
+92,4,635,1,1,India,Virat Kohli,Ayush Shukla,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,239404,138.28,-11.38,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,4,14,110,2,0,0,2,0,0,0,0,0
+93,5,635,1,1,India,Suryakumar Yadav,Ayush Shukla,,15,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.5,1,1,0,239406,147.03,-80.91,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,14,114,2,0,0,2,0,0,0,0,0
+94,6,635,1,1,India,Suryakumar Yadav,Ayush Shukla,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,239408,147.03,-80.91,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,6,14,114,2,0,0,2,0,0,0,0,0
+95,1,635,1,1,India,Virat Kohli,Aizaz Khan,,16,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.1,1,1,0,239410,155.78,142.40,6,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,1,15,120,2,1,0,2,0,0,0,0,0
+96,2,635,1,1,India,Virat Kohli,Aizaz Khan,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,239412,-42.67,-43.15,1,0,,,Knuckleball,44,GLIDE,0,0,2,15,121,2,0,0,2,0,0,0,0,0
+97,3,635,1,1,India,Suryakumar Yadav,Aizaz Khan,,16,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.3,1,1,0,239414,-77.20,-137.54,4,0,,,Knuckleball,31,UPPER CUT,0,0,3,15,125,2,0,0,2,0,0,0,0,0
+98,4,635,1,1,India,Suryakumar Yadav,Aizaz Khan,,16,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.4,1,1,0,239416,25.02,-145.83,6,0,,,Knuckleball,99,SCOOP,0,0,4,15,131,2,0,0,2,0,0,0,0,0
+99,5,635,1,1,India,Suryakumar Yadav,Aizaz Khan,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,239418,-143.50,37.88,1,0,,,Knuckleball,89,STEP DOWN COVER DRIVE,0,0,5,15,132,2,0,0,2,0,0,0,0,0
+100,6,635,1,1,India,Virat Kohli,Aizaz Khan,,16,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,15.6,1,1,1,239420,-143.50,37.88,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,6,15,133,2,0,0,2,0,0,0,0,0
+101,7,635,1,1,India,Virat Kohli,Aizaz Khan,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,239422,112.50,95.90,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,7,15,134,2,0,0,2,0,0,0,0,0
+102,1,635,1,1,India,Virat Kohli,Ehsan Khan,,17,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,239424,112.50,95.90,0,0,,,Knuckleball,56,REVERSE SWEEP,0,0,1,16,134,2,1,0,2,0,0,0,0,0
+103,2,635,1,1,India,Virat Kohli,Ehsan Khan,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,239426,72.44,149.77,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,2,16,135,2,0,0,2,0,0,0,0,0
+104,3,635,1,1,India,Suryakumar Yadav,Ehsan Khan,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,1,1,0,239428,-82.26,-15.99,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,3,16,136,2,0,0,2,0,0,0,0,0
+105,4,635,1,1,India,Virat Kohli,Ehsan Khan,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,239430,-55.10,154.83,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,4,16,137,2,0,0,2,0,0,0,0,0
+106,5,635,1,1,India,Suryakumar Yadav,Ehsan Khan,,17,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,239432,-7.67,59.53,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,16,137,2,0,0,2,0,0,0,0,0
+107,6,635,1,1,India,Suryakumar Yadav,Ehsan Khan,,17,6,1 (BY),1,0,0,0,0,1,1,0,0,1,0,0,0,0,,,0,16.6,1,1,1,239434,-7.67,59.53,1,0,,,Knuckleball,105,LEFT ALONE,0,0,6,16,138,2,0,0,2,0,0,0,0,0
+108,1,635,1,1,India,Suryakumar Yadav,Ayush Shukla,,18,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.1,1,1,0,239436,-139.82,146.55,4,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,1,17,142,2,1,0,2,0,0,0,0,0
+109,2,635,1,1,India,Suryakumar Yadav,Ayush Shukla,,18,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.2,1,1,0,239438,-51.41,-140.76,4,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-2022/India-VS-Hong-Kong-(31-Aug-2022)/File_1-18-239438.jpg,,Knuckleball,36,CUT SHOT,0,0,2,17,146,2,0,0,2,0,0,0,0,0
+110,3,635,1,1,India,Suryakumar Yadav,Ayush Shukla,,18,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,17.3,1,1,1,239440,-51.41,-140.76,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,3,17,147,2,0,0,2,0,0,0,0,0
+111,4,635,1,1,India,Suryakumar Yadav,Ayush Shukla,,18,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.3,1,1,0,239442,-51.41,-140.76,0,0,,,Knuckleball,31,UPPER CUT,0,0,4,17,147,2,0,0,2,0,0,0,0,0
+112,5,635,1,1,India,Suryakumar Yadav,Ayush Shukla,,18,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.4,1,1,0,239444,173.74,-12.76,6,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,17,153,2,0,1,3,0,0,0,0,0
+113,6,635,1,1,India,Suryakumar Yadav,Ayush Shukla,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,239446,-36.22,-38.09,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,17,153,2,0,0,3,0,0,0,0,0
+114,7,635,1,1,India,Suryakumar Yadav,Ayush Shukla,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,239448,-85.49,-10.92,0,0,,,Knuckleball,36,CUT SHOT,0,0,7,17,153,2,0,0,3,0,0,0,0,0
+115,1,635,1,1,India,Virat Kohli,Ehsan Khan,,19,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.1,1,1,0,239450,133.68,25.91,2,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-2022/India-VS-Hong-Kong-(31-Aug-2022)/File_1-19-239450.jpg,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,18,155,2,1,0,3,0,0,0,0,0
+116,2,635,1,1,India,Virat Kohli,Ehsan Khan,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.2,1,1,0,239452,63.23,155.76,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,2,18,156,2,0,0,3,0,0,0,0,0
+117,3,635,1,1,India,Suryakumar Yadav,Ehsan Khan,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,239454,105.13,114.78,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,3,18,157,2,0,0,3,0,0,0,0,0
+118,4,635,1,1,India,Virat Kohli,Ehsan Khan,,19,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.4,1,1,0,239456,167.29,135.50,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,18,163,2,0,0,3,0,0,0,0,0
+119,5,635,1,1,India,Virat Kohli,Ehsan Khan,,19,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,239458,-124.16,113.40,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,18,165,2,0,0,3,0,0,0,0,0
+120,6,635,1,1,India,Virat Kohli,Ehsan Khan,,19,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,18.6,1,1,1,239460,-124.16,113.40,1,0,,,Knuckleball,105,LEFT ALONE,0,0,6,18,166,2,0,0,3,0,0,0,0,0
+121,7,635,1,1,India,Virat Kohli,Ehsan Khan,,19,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,239462,-124.16,113.40,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,7,18,166,2,0,0,3,0,0,0,0,0
+122,1,635,1,1,India,Suryakumar Yadav,Haroon Arshad,,20,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.1,1,1,0,239464,-159.15,-70.78,6,0,,,Knuckleball,96,SLICED OVER POINT,0,0,1,19,172,2,1,0,3,0,0,0,0,0
+123,2,635,1,1,India,Suryakumar Yadav,Haroon Arshad,,20,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.2,1,1,0,239466,-184.02,33.28,6,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-2022/India-VS-Hong-Kong-(31-Aug-2022)/File_1-20-239466.jpg,,Knuckleball,15,LOFTED COVER DRIVE,0,0,2,19,178,2,0,0,3,0,0,0,0,0
+124,3,635,1,1,India,Suryakumar Yadav,Haroon Arshad,,20,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.3,1,1,0,239468,-23.33,213.77,6,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,3,19,184,2,0,0,3,0,0,0,0,0
+125,4,635,1,1,India,Suryakumar Yadav,Haroon Arshad,,20,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.4,1,1,0,239470,-23.33,213.77,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,19,184,2,0,0,3,0,0,0,0,0
+126,5,635,1,1,India,Suryakumar Yadav,Haroon Arshad,,20,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.5,1,1,0,239472,47.12,-141.22,6,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,19,190,2,0,0,3,0,0,0,0,0
+127,6,635,1,1,India,Suryakumar Yadav,Haroon Arshad,,20,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.6,1,1,0,239474,47.58,137.80,2,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,6,19,192,2,0,0,3,0,0,0,0,0
+129,1,635,2,34,Hong Kong,Nizakat Khan,Bhuvneshwar Kumar,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,239476,-72.13,-34.86,0,0,,,Knuckleball,44,GLIDE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+130,2,635,2,34,Hong Kong,Nizakat Khan,Bhuvneshwar Kumar,,1,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,239478,-123.24,97.74,2,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,2,0,2,0,0,0,0,0,0,0,0,0
+131,3,635,2,34,Hong Kong,Nizakat Khan,Bhuvneshwar Kumar,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,239480,53.56,110.63,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,0,3,0,0,0,0,0,0,0,0,0
+132,4,635,2,34,Hong Kong,Yasim Murtaza,Bhuvneshwar Kumar,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,239482,-51.87,54.46,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,0,3,0,0,0,0,0,0,0,0,0
+133,5,635,2,34,Hong Kong,Yasim Murtaza,Bhuvneshwar Kumar,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,239484,-16.42,28.68,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,0,3,0,0,0,0,0,0,0,0,0
+134,6,635,2,34,Hong Kong,Yasim Murtaza,Bhuvneshwar Kumar,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,239486,-74.90,-14.14,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,0,4,0,0,0,0,0,0,0,0,0
+135,1,635,2,34,Hong Kong,Yasim Murtaza,Arshdeep Singh,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,239488,68.76,-33.94,0,0,,,Knuckleball,44,GLIDE,0,0,1,1,4,0,1,0,0,0,0,0,0,0
+136,2,635,2,34,Hong Kong,Yasim Murtaza,Arshdeep Singh,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,239490,3.38,57.68,0,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,2,1,4,0,0,0,0,0,0,0,0,0
+137,3,635,2,34,Hong Kong,Yasim Murtaza,Arshdeep Singh,,2,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.3,1,1,0,239492,90.86,-121.42,4,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,3,1,8,0,0,0,0,0,0,0,0,0
+138,4,635,2,34,Hong Kong,Yasim Murtaza,Arshdeep Singh,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,239494,-77.66,-29.34,0,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,4,1,8,0,0,0,0,0,0,0,0,0
+139,5,635,2,34,Hong Kong,Yasim Murtaza,Arshdeep Singh,,2,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.5,1,1,0,239496,-166.06,106.49,4,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,5,1,12,0,0,0,0,0,0,0,0,0
+140,6,635,2,34,Hong Kong,Yasim Murtaza,Arshdeep Singh,,2,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,1.6,1,1,0,239497,-166.06,106.49,0,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-2022/India-VS-Hong-Kong-(31-Aug-2022)/File_2-2-239497.jpg,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,1,12,1,1,0,0,0,0,0,0,0
+141,1,635,2,34,Hong Kong,Nizakat Khan,Bhuvneshwar Kumar,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,239500,-97.92,-51.44,1,0,,,Knuckleball,44,GLIDE,0,0,1,2,13,1,2,0,0,0,0,0,0,0
+142,2,635,2,34,Hong Kong,Babar Hayat,Bhuvneshwar Kumar,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,239502,-18.72,26.37,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,2,13,1,0,0,0,0,0,0,0,0
+143,3,635,2,34,Hong Kong,Babar Hayat,Bhuvneshwar Kumar,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,239504,-18.72,26.37,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,2,13,1,0,0,0,0,0,0,0,0
+144,4,635,2,34,Hong Kong,Babar Hayat,Bhuvneshwar Kumar,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,239506,-44.97,-8.16,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,2,13,1,0,0,0,0,0,0,0,0
+145,5,635,2,34,Hong Kong,Babar Hayat,Bhuvneshwar Kumar,,3,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,2.5,1,1,0,239508,-21.49,221.14,6,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,5,2,19,1,0,0,0,0,0,0,0,0
+146,6,635,2,34,Hong Kong,Babar Hayat,Bhuvneshwar Kumar,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,239510,-21.49,221.14,0,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,2,19,1,0,0,0,0,0,0,0,0
+147,1,635,2,34,Hong Kong,Nizakat Khan,Ravindra Jadeja,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,239513,48.04,115.70,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,3,19,1,1,0,0,0,0,0,0,0
+148,2,635,2,34,Hong Kong,Nizakat Khan,Ravindra Jadeja,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,239514,48.04,115.70,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,3,19,1,0,0,0,0,0,0,0,0
+149,3,635,2,34,Hong Kong,Nizakat Khan,Ravindra Jadeja,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,239516,56.33,77.94,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,3,20,1,0,0,0,0,0,0,0,0
+150,4,635,2,34,Hong Kong,Babar Hayat,Ravindra Jadeja,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,239519,49.88,104.19,0,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,4,3,20,1,0,0,0,0,0,0,0,0
+151,5,635,2,34,Hong Kong,Babar Hayat,Ravindra Jadeja,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,239520,-82.26,48.47,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,3,20,1,0,0,0,0,0,0,0,0
+152,6,635,2,34,Hong Kong,Babar Hayat,Ravindra Jadeja,,4,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,239522,-111.27,107.41,2,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,6,3,22,1,0,0,0,0,0,0,0,0
+153,1,635,2,34,Hong Kong,Nizakat Khan,Avesh Khan,,5,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,4.1,1,1,1,239524,31.00,-19.21,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,4,23,1,1,0,0,0,0,0,0,0
+154,2,635,2,34,Hong Kong,Babar Hayat,Avesh Khan,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,239526,31.00,-19.21,0,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,2,4,23,1,0,0,0,0,0,0,0,0
+155,3,635,2,34,Hong Kong,Babar Hayat,Avesh Khan,,5,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,4.3,1,1,0,239528,-58.32,219.76,6,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,3,4,29,1,0,0,0,0,0,0,0,0
+156,4,635,2,34,Hong Kong,Babar Hayat,Avesh Khan,,5,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.4,1,1,0,239530,-91.47,191.21,4,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,4,4,33,1,0,0,0,0,0,0,0,0
+157,5,635,2,34,Hong Kong,Babar Hayat,Avesh Khan,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,239532,55.87,116.16,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,5,4,34,1,0,0,0,0,0,0,0,0
+158,6,635,2,34,Hong Kong,Nizakat Khan,Avesh Khan,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,239534,-20.56,-20.59,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,4,34,1,0,0,0,0,0,0,0,0
+159,1,635,2,34,Hong Kong,Babar Hayat,Arshdeep Singh,,6,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.1,1,1,0,239536,63.23,-142.14,4,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,5,38,1,1,0,0,0,0,0,0,0
+160,2,635,2,34,Hong Kong,Babar Hayat,Arshdeep Singh,,6,2,1 (NB),1,0,0,0,0,1,1,0,1,0,0,0,0,0,,,0,5.2,1,1,1,239538,63.23,-142.14,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,5,39,1,0,0,0,0,0,0,0,0
+161,3,635,2,34,Hong Kong,Babar Hayat,Arshdeep Singh,,6,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.2,1,1,0,239540,148.87,153.45,4,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,3,5,43,1,0,0,0,0,0,0,0,0
+162,4,635,2,34,Hong Kong,Babar Hayat,Arshdeep Singh,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,239542,-49.57,106.49,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,4,5,44,1,0,0,0,0,0,0,0,0
+163,5,635,2,34,Hong Kong,Nizakat Khan,Arshdeep Singh,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.4,1,1,0,239544,-154.09,129.51,4,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,5,5,48,1,0,0,0,0,0,0,0,0
+164,6,635,2,34,Hong Kong,Nizakat Khan,Arshdeep Singh,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,239546,117.10,-46.83,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,6,5,49,1,0,0,0,0,0,0,0,0
+165,7,635,2,34,Hong Kong,Babar Hayat,Arshdeep Singh,,6,6,2 (NB),2,1,1,0,0,0,1,0,1,0,0,0,0,0,,,0,5.6,1,1,1,239547,17.65,160.82,2,0,,,Knuckleball,19,BACKFOOT STRAIGHT DRIVE,0,0,7,5,51,1,0,1,1,0,1,0,0,0
+166,8,635,2,34,Hong Kong,Nizakat Khan,Arshdeep Singh,,6,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,5.6,1,1,0,239549,-72.13,-34.40,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,8,5,51,2,0,0,1,0,0,0,0,0
+167,1,635,2,34,Hong Kong,Babar Hayat,Yuzvendra Chahal,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,239552,-53.72,13.94,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,6,52,2,1,0,1,0,0,0,0,0
+168,2,635,2,34,Hong Kong,Kinchit Devang Shah,Yuzvendra Chahal,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,239554,70.14,63.21,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,6,52,2,0,0,1,0,0,0,0,0
+169,3,635,2,34,Hong Kong,Kinchit Devang Shah,Yuzvendra Chahal,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,239556,70.14,63.21,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,6,52,2,0,0,1,0,0,0,0,0
+170,4,635,2,34,Hong Kong,Kinchit Devang Shah,Yuzvendra Chahal,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,239558,70.14,63.21,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,6,52,2,0,0,1,0,0,0,0,0
+171,5,635,2,34,Hong Kong,Kinchit Devang Shah,Yuzvendra Chahal,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,239560,-89.63,-44.07,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,6,53,2,0,0,1,0,0,0,0,0
+172,6,635,2,34,Hong Kong,Babar Hayat,Yuzvendra Chahal,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,239562,121.71,61.83,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,6,54,2,0,0,1,0,0,0,0,0
+173,1,635,2,34,Hong Kong,Babar Hayat,Ravindra Jadeja,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,239565,-67.07,-32.10,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,7,54,2,1,0,1,0,0,0,0,0
+174,2,635,2,34,Hong Kong,Babar Hayat,Ravindra Jadeja,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,239567,-85.49,-33.48,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,7,54,2,0,0,1,0,0,0,0,0
+175,3,635,2,34,Hong Kong,Babar Hayat,Ravindra Jadeja,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,239568,-85.49,-33.48,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,7,54,2,0,0,1,0,0,0,0,0
+176,4,635,2,34,Hong Kong,Babar Hayat,Ravindra Jadeja,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,239570,118.95,69.65,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,7,55,2,0,0,1,0,0,0,0,0
+177,5,635,2,34,Hong Kong,Kinchit Devang Shah,Ravindra Jadeja,,8,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,7.5,1,1,1,239572,118.95,69.65,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,7,56,2,0,0,1,0,0,0,0,0
+178,6,635,2,34,Hong Kong,Kinchit Devang Shah,Ravindra Jadeja,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,239574,74.74,-36.24,1,0,,,Knuckleball,44,GLIDE,0,0,6,7,57,2,0,0,1,0,0,0,0,0
+179,7,635,2,34,Hong Kong,Babar Hayat,Ravindra Jadeja,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,239576,-56.02,152.99,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,7,7,58,2,0,0,1,0,0,0,0,0
+180,1,635,2,34,Hong Kong,Babar Hayat,Yuzvendra Chahal,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,239578,-56.02,152.99,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,8,58,2,1,0,1,0,0,0,0,0
+181,2,635,2,34,Hong Kong,Babar Hayat,Yuzvendra Chahal,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,239580,59.09,-24.73,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,8,58,2,0,0,1,0,0,0,0,0
+182,3,635,2,34,Hong Kong,Babar Hayat,Yuzvendra Chahal,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,239582,-93.77,121.68,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,3,8,59,2,0,0,1,0,0,0,0,0
+183,4,635,2,34,Hong Kong,Kinchit Devang Shah,Yuzvendra Chahal,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,239584,-124.16,-56.50,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,8,60,2,0,0,1,0,0,0,0,0
+184,5,635,2,34,Hong Kong,Babar Hayat,Yuzvendra Chahal,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,239586,49.88,151.61,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,5,8,61,2,0,0,1,0,0,0,0,0
+185,6,635,2,34,Hong Kong,Kinchit Devang Shah,Yuzvendra Chahal,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,239588,70.60,-29.34,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,8,61,2,0,0,1,0,0,0,0,0
+186,1,635,2,34,Hong Kong,Babar Hayat,Ravindra Jadeja,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,239590,-7.21,51.70,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,9,61,2,1,0,1,0,0,0,0,0
+187,2,635,2,34,Hong Kong,Babar Hayat,Ravindra Jadeja,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,239592,156.24,10.72,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,9,62,2,0,0,1,0,0,0,0,0
+188,3,635,2,34,Hong Kong,Kinchit Devang Shah,Ravindra Jadeja,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,239594,-50.95,136.42,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,9,63,2,0,0,1,0,0,0,0,0
+189,4,635,2,34,Hong Kong,Babar Hayat,Ravindra Jadeja,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,239596,-53.26,158.52,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,4,9,64,2,0,0,1,0,0,0,0,0
+190,5,635,2,34,Hong Kong,Kinchit Devang Shah,Ravindra Jadeja,,10,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,9.5,1,1,1,239598,-53.26,158.52,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,9,65,2,0,0,1,0,0,0,0,0
+191,6,635,2,34,Hong Kong,Kinchit Devang Shah,Ravindra Jadeja,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,239600,-53.26,158.52,0,0,,,Knuckleball,54,LEG GLANCE,0,0,6,9,65,2,0,0,1,0,0,0,0,0
+192,7,635,2,34,Hong Kong,Kinchit Devang Shah,Ravindra Jadeja,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,239602,-53.26,158.52,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,7,9,65,2,0,0,1,0,0,0,0,0
+194,1,635,2,34,Hong Kong,Babar Hayat,Yuzvendra Chahal,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,239604,-76.74,9.80,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,10,66,2,1,0,1,0,0,0,0,0
+195,2,635,2,34,Hong Kong,Kinchit Devang Shah,Yuzvendra Chahal,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,239606,138.28,-6.32,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,10,67,2,0,0,1,0,0,0,0,0
+196,3,635,2,34,Hong Kong,Babar Hayat,Yuzvendra Chahal,,11,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,239608,106.05,113.40,2,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,3,10,69,2,0,0,1,0,0,0,0,0
+197,4,635,2,34,Hong Kong,Babar Hayat,Yuzvendra Chahal,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,239610,118.03,106.95,1,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,4,10,70,2,0,0,1,0,0,0,0,0
+198,5,635,2,34,Hong Kong,Kinchit Devang Shah,Yuzvendra Chahal,,11,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.5,1,1,0,239612,-154.09,-70.78,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,10,74,2,0,0,1,0,0,0,0,0
+199,6,635,2,34,Hong Kong,Kinchit Devang Shah,Yuzvendra Chahal,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,239614,43.90,109.71,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,6,10,74,2,0,0,1,0,0,0,0,0
+200,1,635,2,34,Hong Kong,Babar Hayat,Ravindra Jadeja,,12,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,11.1,1,1,0,239615,43.90,109.71,0,0,https://scores.bcci.tv/matchcentre/commentaryFiles/ASIA-CUP-2022/India-VS-Hong-Kong-(31-Aug-2022)/File_2-12-239615.jpg,,Knuckleball,5,LOFTED OFF DRIVE,0,0,1,11,74,3,1,0,1,0,0,0,0,0
+201,2,635,2,34,Hong Kong,Aizaz Khan,Ravindra Jadeja,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,239619,-51.41,158.52,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,2,11,75,3,2,0,1,0,0,0,0,0
+202,3,635,2,34,Hong Kong,Kinchit Devang Shah,Ravindra Jadeja,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,239620,-145.34,19.47,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,3,11,76,3,0,0,1,0,0,0,0,0
+203,4,635,2,34,Hong Kong,Aizaz Khan,Ravindra Jadeja,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,239622,-62.46,-38.09,1,0,,,Knuckleball,35,LATE CUT,0,0,4,11,77,3,0,0,1,0,0,0,0,0
+204,5,635,2,34,Hong Kong,Kinchit Devang Shah,Ravindra Jadeja,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,239625,60.93,-33.02,1,0,,,Knuckleball,44,GLIDE,0,0,5,11,78,3,0,0,1,0,0,0,0,0
+205,6,635,2,34,Hong Kong,Aizaz Khan,Ravindra Jadeja,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,239626,37.45,92.22,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,11,78,3,0,0,1,0,0,0,0,0
+206,1,635,2,34,Hong Kong,Kinchit Devang Shah,Avesh Khan,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,239628,123.55,-44.99,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,12,79,3,1,0,1,0,0,0,0,0
+207,2,635,2,34,Hong Kong,Aizaz Khan,Avesh Khan,,13,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.2,1,1,0,239630,-67.53,-139.38,4,0,,,Knuckleball,36,CUT SHOT,0,0,2,12,83,3,0,0,1,0,0,0,0,0
+208,3,635,2,34,Hong Kong,Aizaz Khan,Avesh Khan,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,239632,-67.53,-139.38,0,0,,,Knuckleball,105,LEFT ALONE,0,0,3,12,83,3,0,0,1,0,0,0,0,0
+209,4,635,2,34,Hong Kong,Aizaz Khan,Avesh Khan,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,239634,-45.89,-100.24,1,0,,,Knuckleball,44,GLIDE,0,0,4,12,84,3,0,0,1,0,0,0,0,0
+210,5,635,2,34,Hong Kong,Kinchit Devang Shah,Avesh Khan,,13,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,12.5,1,1,0,239637,181.56,21.77,6,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,5,12,90,3,0,0,1,0,0,0,0,0
+211,6,635,2,34,Hong Kong,Kinchit Devang Shah,Avesh Khan,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,239638,41.13,111.55,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,6,12,91,3,0,0,1,0,0,0,0,0
+212,1,635,2,34,Hong Kong,Kinchit Devang Shah,Arshdeep Singh,,14,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.1,1,1,0,239640,136.90,-92.42,4,0,,,Knuckleball,96,SLICED OVER POINT,0,0,1,13,95,3,1,0,1,0,0,0,0,0
+213,2,635,2,34,Hong Kong,Kinchit Devang Shah,Arshdeep Singh,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,239642,-51.87,153.45,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,2,13,96,3,0,0,1,0,0,0,0,0
+214,3,635,2,34,Hong Kong,Aizaz Khan,Arshdeep Singh,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,239644,-51.87,153.45,0,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,3,13,96,3,0,0,1,0,0,0,0,0
+215,4,635,2,34,Hong Kong,Aizaz Khan,Arshdeep Singh,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,239646,-51.87,153.45,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,13,96,3,0,0,1,0,0,0,0,0
+216,5,635,2,34,Hong Kong,Aizaz Khan,Arshdeep Singh,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,239648,118.95,-11.38,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,13,97,3,0,0,1,0,0,0,0,0
+217,6,635,2,34,Hong Kong,Kinchit Devang Shah,Arshdeep Singh,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,239650,-141.66,44.33,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,13,98,3,0,0,1,0,0,0,0,0
+219,1,635,2,34,Hong Kong,Kinchit Devang Shah,Avesh Khan,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,239652,21.33,9.80,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,1,14,99,3,1,0,1,0,0,0,0,0
+220,2,635,2,34,Hong Kong,Aizaz Khan,Avesh Khan,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,239654,21.33,9.80,0,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,14,99,3,0,0,1,0,0,0,0,0
+221,3,635,2,34,Hong Kong,Aizaz Khan,Avesh Khan,,15,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,239656,27.32,-113.14,2,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,3,14,101,3,0,1,2,0,0,1,0,0
+222,4,635,2,34,Hong Kong,Aizaz Khan,Avesh Khan,,15,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.4,1,1,0,239658,180.18,89.45,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,4,14,105,3,0,0,2,0,0,0,0,0
+223,5,635,2,34,Hong Kong,Aizaz Khan,Avesh Khan,,15,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,14.5,1,1,0,239659,180.18,89.45,0,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,5,14,105,4,1,0,2,0,0,0,0,0
+224,6,635,2,34,Hong Kong,Zeeshan Ali,Avesh Khan,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,239662,130.46,-18.29,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,6,14,106,4,2,0,2,0,0,0,0,0
+225,1,635,2,34,Hong Kong,Zeeshan Ali,Yuzvendra Chahal,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,239664,130.46,-18.29,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,15,106,4,3,0,2,0,0,0,0,0
+226,2,635,2,34,Hong Kong,Zeeshan Ali,Yuzvendra Chahal,,16,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,239667,-27.01,-78.60,2,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,2,15,108,4,0,0,2,0,0,0,0,0
+227,3,635,2,34,Hong Kong,Zeeshan Ali,Yuzvendra Chahal,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,239668,-27.01,-78.60,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,15,108,4,0,0,2,0,0,0,0,0
+228,4,635,2,34,Hong Kong,Zeeshan Ali,Yuzvendra Chahal,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,239670,-114.95,110.63,1,0,,,Knuckleball,114,STEP DOWN LOFTED COVER DRIVE,0,0,4,15,109,4,0,0,2,0,0,0,0,0
+229,5,635,2,34,Hong Kong,Kinchit Devang Shah,Yuzvendra Chahal,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,239672,43.44,-22.43,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,15,109,4,0,0,2,0,0,0,0,0
+230,6,635,2,34,Hong Kong,Kinchit Devang Shah,Yuzvendra Chahal,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,239674,74.28,-25.65,0,0,,,Knuckleball,36,CUT SHOT,0,0,6,15,109,4,0,0,2,0,0,0,0,0
+231,1,635,2,34,Hong Kong,Zeeshan Ali,Virat Kohli,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,239676,118.49,62.29,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,16,110,4,1,0,2,0,0,0,0,0
+232,2,635,2,34,Hong Kong,Kinchit Devang Shah,Virat Kohli,,17,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,239678,-131.07,112.01,2,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,16,112,4,0,0,2,0,0,0,0,0
+233,3,635,2,34,Hong Kong,Kinchit Devang Shah,Virat Kohli,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,1,1,0,239680,-69.37,152.07,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,3,16,113,4,0,0,2,0,0,0,0,0
+234,4,635,2,34,Hong Kong,Zeeshan Ali,Virat Kohli,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,239682,56.33,-31.64,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,16,113,4,0,0,2,0,0,0,0,0
+235,5,635,2,34,Hong Kong,Zeeshan Ali,Virat Kohli,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,239684,111.58,-44.99,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,16,114,4,0,0,2,0,0,0,0,0
+236,6,635,2,34,Hong Kong,Kinchit Devang Shah,Virat Kohli,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,239686,-117.72,95.44,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,6,16,115,4,0,0,2,0,0,0,0,0
+237,1,635,2,34,Hong Kong,Kinchit Devang Shah,Bhuvneshwar Kumar,,18,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,17.1,1,1,1,239688,-117.72,95.44,1,0,,,Knuckleball,105,LEFT ALONE,0,0,1,17,116,4,1,0,2,0,0,0,0,0
+238,2,635,2,34,Hong Kong,Kinchit Devang Shah,Bhuvneshwar Kumar,,18,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,17.1,1,1,0,239690,-117.72,95.44,0,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,2,17,116,5,2,0,2,0,0,0,0,0
+239,3,635,2,34,Hong Kong,Zeeshan Ali,Bhuvneshwar Kumar,,18,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.2,1,1,0,239691,-80.42,-15.99,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,17,118,5,3,0,2,0,0,0,0,0
+240,4,635,2,34,Hong Kong,Zeeshan Ali,Bhuvneshwar Kumar,,18,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.3,1,1,0,239693,-80.42,-15.99,0,0,,,Knuckleball,44,GLIDE,0,0,4,17,118,5,0,0,2,0,0,0,0,0
+241,5,635,2,34,Hong Kong,Zeeshan Ali,Bhuvneshwar Kumar,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,1,1,0,239696,-80.42,-15.99,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,17,119,5,0,0,2,0,0,0,0,0
+242,6,635,2,34,Hong Kong,Scott McKechnie,Bhuvneshwar Kumar,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,239697,-50.49,-53.28,0,0,,,Knuckleball,44,GLIDE,0,0,6,17,119,5,0,0,2,0,0,0,0,0
+243,7,635,2,34,Hong Kong,Scott McKechnie,Bhuvneshwar Kumar,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,239700,-50.49,-53.28,0,0,,,Knuckleball,99,SCOOP,0,0,7,17,119,5,0,0,2,0,0,0,0,0
+244,1,635,2,34,Hong Kong,Zeeshan Ali,Avesh Khan,,19,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.1,1,1,0,239701,-156.39,139.64,6,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,1,18,125,5,1,0,2,0,0,0,0,0
+245,2,635,2,34,Hong Kong,Zeeshan Ali,Avesh Khan,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.2,1,1,0,239702,-93.77,76.56,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,18,126,5,0,0,2,0,0,0,0,0
+246,3,635,2,34,Hong Kong,Scott McKechnie,Avesh Khan,,19,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,239706,-52.79,106.03,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,18,126,5,0,0,2,0,0,0,0,0
+247,4,635,2,34,Hong Kong,Scott McKechnie,Avesh Khan,,19,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.4,1,1,0,239707,-76.28,-129.71,6,0,,,Knuckleball,31,UPPER CUT,0,0,4,18,132,5,0,0,2,0,0,0,0,0
+248,5,635,2,34,Hong Kong,Scott McKechnie,Avesh Khan,,19,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.5,1,1,0,239710,142.89,-69.86,4,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,18,136,5,0,0,2,0,0,0,0,0
+249,6,635,2,34,Hong Kong,Scott McKechnie,Avesh Khan,,19,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.6,1,1,0,239712,-83.18,-121.42,4,0,,,Knuckleball,44,GLIDE,0,0,6,18,140,5,0,0,2,0,0,0,0,0
+250,1,635,2,34,Hong Kong,Zeeshan Ali,Arshdeep Singh,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.1,1,1,0,239714,117.10,-52.36,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,19,141,5,1,0,2,0,0,0,0,0
+251,2,635,2,34,Hong Kong,Scott McKechnie,Arshdeep Singh,,20,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,239715,-75.82,-20.59,1,0,,,Knuckleball,59,FRONTFOOT SQUARE DRIVE,0,0,2,19,142,5,0,0,2,0,0,0,0,0
+252,3,635,2,34,Hong Kong,Zeeshan Ali,Arshdeep Singh,,20,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.3,1,1,0,239716,85.33,-129.71,4,0,,,Knuckleball,99,SCOOP,0,0,3,19,146,5,0,0,2,0,0,0,0,0
+253,4,635,2,34,Hong Kong,Zeeshan Ali,Arshdeep Singh,,20,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.4,1,1,0,239717,-93.77,-120.04,4,0,,,Knuckleball,44,GLIDE,0,0,4,19,150,5,0,1,3,0,0,0,0,0
+254,5,635,2,34,Hong Kong,Zeeshan Ali,Arshdeep Singh,,20,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.5,1,1,0,239722,-114.49,-56.04,1,0,,,Knuckleball,59,FRONTFOOT SQUARE DRIVE,0,0,5,19,151,5,0,0,3,0,0,0,0,0
+255,6,635,2,34,Hong Kong,Scott McKechnie,Arshdeep Singh,,20,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.6,1,1,0,239724,-147.18,9.80,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,19,152,5,0,0,3,0,0,0,0,0

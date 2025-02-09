@@ -1,0 +1,448 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,618,1,10,Zimbabwe,Innocent Kaia,Deepak Chahar,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,235415,-49.57,96.82,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,618,1,10,Zimbabwe,Innocent Kaia,Deepak Chahar,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,235416,-27.01,62.29,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2,3,618,1,10,Zimbabwe,Innocent Kaia,Deepak Chahar,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,235417,-95.62,-59.73,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,0,1,0,0,0,0,0,0,0,0,0
+3,4,618,1,10,Zimbabwe,Tadiwanashe Marumani,Deepak Chahar,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,235418,-95.62,-59.73,0,0,,,Knuckleball,105,LEFT ALONE,0,0,4,0,1,0,0,0,0,0,0,0,0,0
+4,5,618,1,10,Zimbabwe,Tadiwanashe Marumani,Deepak Chahar,,1,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,0.5,1,1,1,235419,-95.62,-59.73,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,0,2,0,0,0,0,0,0,0,0,0
+5,6,618,1,10,Zimbabwe,Innocent Kaia,Deepak Chahar,,1,6,4 (LB),4,0,0,0,0,1,4,0,0,0,1,1,0,0,,,0,0.6,1,1,1,235420,-95.62,-59.73,4,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,6,0,6,0,0,0,0,0,0,0,0,0
+6,1,618,1,10,Zimbabwe,Tadiwanashe Marumani,Mohammed Siraj,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,235421,-24.25,18.55,0,0,,,Knuckleball,54,LEG GLANCE,0,0,1,1,6,0,1,0,0,0,0,0,0,0
+7,2,618,1,10,Zimbabwe,Tadiwanashe Marumani,Mohammed Siraj,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,235422,11.21,33.28,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,1,6,0,0,0,0,0,0,0,0,0
+8,3,618,1,10,Zimbabwe,Tadiwanashe Marumani,Mohammed Siraj,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,235423,-17.80,15.32,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,1,6,0,0,0,0,0,0,0,0,0
+9,4,618,1,10,Zimbabwe,Tadiwanashe Marumani,Mohammed Siraj,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,235424,-17.80,15.32,0,0,,,Knuckleball,105,LEFT ALONE,0,0,4,1,6,0,0,0,0,0,0,0,0,0
+10,5,618,1,10,Zimbabwe,Tadiwanashe Marumani,Mohammed Siraj,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,235425,-0.77,-18.29,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,1,6,0,0,0,0,0,0,0,0,0
+11,6,618,1,10,Zimbabwe,Tadiwanashe Marumani,Mohammed Siraj,,2,6,5 (WD),5,0,0,0,0,0,5,1,0,0,0,1,0,0,,,0,1.6,1,1,1,235426,-0.77,-18.29,5,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,6,1,11,0,0,0,0,0,0,0,0,0
+12,7,618,1,10,Zimbabwe,Tadiwanashe Marumani,Mohammed Siraj,,2,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,235427,67.84,95.44,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,7,1,12,0,0,0,0,0,0,0,0,0
+14,1,618,1,10,Zimbabwe,Tadiwanashe Marumani,Deepak Chahar,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,235428,67.84,95.44,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,2,12,0,1,0,0,0,0,0,0,0
+15,2,618,1,10,Zimbabwe,Tadiwanashe Marumani,Deepak Chahar,,3,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,2.2,1,1,1,235429,67.84,95.44,1,0,,,Knuckleball,105,LEFT ALONE,0,0,2,2,13,0,0,0,0,0,0,0,0,0
+16,3,618,1,10,Zimbabwe,Tadiwanashe Marumani,Deepak Chahar,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,235430,-70.29,64.59,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,2,14,0,0,0,0,0,0,0,0,0
+17,4,618,1,10,Zimbabwe,Innocent Kaia,Deepak Chahar,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,235431,-37.60,23.15,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,2,14,0,0,0,0,0,0,0,0,0
+18,5,618,1,10,Zimbabwe,Innocent Kaia,Deepak Chahar,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,235432,-37.60,23.15,0,0,,,Knuckleball,105,LEFT ALONE,0,0,5,2,14,0,0,0,0,0,0,0,0,0
+19,6,618,1,10,Zimbabwe,Innocent Kaia,Deepak Chahar,,3,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,235433,-107.13,-60.65,2,0,,,Knuckleball,59,FRONTFOOT SQUARE DRIVE,0,0,6,2,16,0,0,0,0,0,0,0,0,0
+20,7,618,1,10,Zimbabwe,Innocent Kaia,Deepak Chahar,,3,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,2.6,1,1,1,235434,-107.13,-60.65,1,0,,,Knuckleball,105,LEFT ALONE,0,0,7,2,17,0,0,0,0,0,0,0,0,0
+21,8,618,1,10,Zimbabwe,Innocent Kaia,Deepak Chahar,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,235435,-107.13,-60.65,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,8,2,17,0,0,0,0,0,0,0,0,0
+22,1,618,1,10,Zimbabwe,Tadiwanashe Marumani,Mohammed Siraj,,4,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,3.1,1,1,1,235436,-15.50,8.88,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,3,18,0,1,0,0,0,0,0,0,0
+23,2,618,1,10,Zimbabwe,Innocent Kaia,Mohammed Siraj,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,235437,-15.50,8.88,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,3,18,0,0,0,0,0,0,0,0,0
+24,3,618,1,10,Zimbabwe,Innocent Kaia,Mohammed Siraj,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,235438,2.92,-26.58,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,3,18,0,0,0,0,0,0,0,0,0
+25,4,618,1,10,Zimbabwe,Innocent Kaia,Mohammed Siraj,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,235439,2.92,-26.58,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,3,18,0,0,0,0,0,0,0,0,0
+26,5,618,1,10,Zimbabwe,Innocent Kaia,Mohammed Siraj,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,235440,2.92,-26.58,0,0,,,Knuckleball,105,LEFT ALONE,0,0,5,3,18,0,0,0,0,0,0,0,0,0
+27,6,618,1,10,Zimbabwe,Innocent Kaia,Mohammed Siraj,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,235441,-48.65,93.14,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,3,18,0,0,0,0,0,0,0,0,0
+28,1,618,1,10,Zimbabwe,Tadiwanashe Marumani,Deepak Chahar,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,235442,-48.65,93.14,0,0,,,Knuckleball,105,LEFT ALONE,0,0,1,4,18,0,1,0,0,0,0,0,0,0
+29,2,618,1,10,Zimbabwe,Tadiwanashe Marumani,Deepak Chahar,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,235443,-48.65,93.14,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,4,18,0,0,0,0,0,0,0,0,0
+30,3,618,1,10,Zimbabwe,Tadiwanashe Marumani,Deepak Chahar,,5,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.3,1,1,0,235444,78.89,195.81,4,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,3,4,22,0,0,0,0,0,0,0,0,0
+31,4,618,1,10,Zimbabwe,Tadiwanashe Marumani,Deepak Chahar,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,235445,78.89,195.81,0,0,,,Knuckleball,105,LEFT ALONE,0,0,4,4,22,0,0,0,0,0,0,0,0,0
+32,5,618,1,10,Zimbabwe,Tadiwanashe Marumani,Deepak Chahar,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,235446,78.89,195.81,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,4,22,0,0,0,0,0,0,0,0,0
+33,6,618,1,10,Zimbabwe,Tadiwanashe Marumani,Deepak Chahar,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,235447,25.94,25.91,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,4,22,0,0,0,0,0,0,0,0,0
+34,1,618,1,10,Zimbabwe,Innocent Kaia,Mohammed Siraj,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,235448,25.94,25.91,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,5,22,0,1,0,0,0,0,0,0,0
+35,2,618,1,10,Zimbabwe,Innocent Kaia,Mohammed Siraj,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,235449,25.94,25.91,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,5,22,0,0,0,0,0,0,0,0,0
+36,3,618,1,10,Zimbabwe,Innocent Kaia,Mohammed Siraj,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,235450,-77.20,-44.99,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,5,23,0,0,0,0,0,0,0,0,0
+37,4,618,1,10,Zimbabwe,Tadiwanashe Marumani,Mohammed Siraj,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,1,1,0,235451,-77.20,-44.99,0,0,,,Knuckleball,105,LEFT ALONE,0,0,4,5,23,0,0,0,0,0,0,0,0,0
+38,5,618,1,10,Zimbabwe,Tadiwanashe Marumani,Mohammed Siraj,,6,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,235452,-105.74,90.37,2,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,5,5,25,0,0,0,0,0,0,0,0,0
+39,6,618,1,10,Zimbabwe,Tadiwanashe Marumani,Mohammed Siraj,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,235453,-105.74,90.37,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,5,25,0,0,0,0,0,0,0,0,0
+40,1,618,1,10,Zimbabwe,Innocent Kaia,Deepak Chahar,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,235454,-105.74,90.37,0,0,,,Knuckleball,105,LEFT ALONE,0,0,1,6,25,0,1,0,0,0,0,0,0,0
+41,2,618,1,10,Zimbabwe,Innocent Kaia,Deepak Chahar,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,235455,-105.74,90.37,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,6,25,0,0,0,0,0,0,0,0,0
+42,3,618,1,10,Zimbabwe,Innocent Kaia,Deepak Chahar,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,235456,-72.13,57.68,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,6,25,0,0,0,0,0,0,0,0,0
+43,4,618,1,10,Zimbabwe,Innocent Kaia,Deepak Chahar,,7,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,6.4,1,1,0,235457,-72.13,57.68,0,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,4,6,25,1,1,0,0,0,0,0,0,0
+44,5,618,1,10,Zimbabwe,Wesley Madhevere,Deepak Chahar,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,235458,39.29,21.31,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,6,26,1,2,0,0,0,0,0,0,0
+45,6,618,1,10,Zimbabwe,Tadiwanashe Marumani,Deepak Chahar,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,235459,39.29,21.31,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,6,26,1,0,0,0,0,0,0,0,0
+46,1,618,1,10,Zimbabwe,Wesley Madhevere,Mohammed Siraj,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,235460,39.29,21.31,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,7,26,1,1,0,0,0,0,0,0,0
+47,2,618,1,10,Zimbabwe,Wesley Madhevere,Mohammed Siraj,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,235461,39.29,21.31,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,7,26,1,0,0,0,0,0,0,0,0
+48,3,618,1,10,Zimbabwe,Wesley Madhevere,Mohammed Siraj,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,235462,-89.17,-3.55,0,0,,,Knuckleball,59,FRONTFOOT SQUARE DRIVE,0,0,3,7,26,1,0,0,0,0,0,0,0,0
+49,4,618,1,10,Zimbabwe,Wesley Madhevere,Mohammed Siraj,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,235463,-89.17,-3.55,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,7,26,1,0,0,0,0,0,0,0,0
+50,5,618,1,10,Zimbabwe,Wesley Madhevere,Mohammed Siraj,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,235464,-71.67,60.91,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,7,26,1,0,0,0,0,0,0,0,0
+51,6,618,1,10,Zimbabwe,Wesley Madhevere,Mohammed Siraj,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,235465,-51.87,25.91,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,7,26,1,0,0,0,0,0,0,0,0
+52,1,618,1,10,Zimbabwe,Tadiwanashe Marumani,Deepak Chahar,,9,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,8.1,1,1,0,235466,-51.87,25.91,0,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,1,8,26,2,1,0,0,0,0,0,0,0
+53,2,618,1,10,Zimbabwe,Sean Williams,Deepak Chahar,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,235467,25.48,4.27,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,8,26,2,2,0,0,0,0,0,0,0
+54,3,618,1,10,Zimbabwe,Sean Williams,Deepak Chahar,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,235468,52.18,108.79,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,8,27,2,0,0,0,0,0,0,0,0
+55,4,618,1,10,Zimbabwe,Wesley Madhevere,Deepak Chahar,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,235469,38.83,101.88,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,8,27,2,0,0,0,0,0,0,0,0
+56,5,618,1,10,Zimbabwe,Wesley Madhevere,Deepak Chahar,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,235470,63.23,42.49,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,8,27,2,0,0,0,0,0,0,0,0
+57,6,618,1,10,Zimbabwe,Wesley Madhevere,Deepak Chahar,,9,6,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,235471,-116.33,101.42,3,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,8,30,2,0,0,0,0,0,0,0,0
+58,1,618,1,10,Zimbabwe,Wesley Madhevere,Mohammed Siraj,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,235472,71.98,77.02,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,9,31,2,1,0,0,0,0,0,0,0
+59,2,618,1,10,Zimbabwe,Sean Williams,Mohammed Siraj,,10,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,9.2,1,1,0,235473,71.98,77.02,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,9,31,3,2,0,0,0,0,0,0,0
+60,3,618,1,10,Zimbabwe,Sikandar Raza,Mohammed Siraj,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,235474,71.98,77.02,0,0,,,Knuckleball,89,STEP DOWN COVER DRIVE,0,0,3,9,31,3,3,0,0,0,0,0,0,0
+61,4,618,1,10,Zimbabwe,Sikandar Raza,Mohammed Siraj,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,235475,42.51,44.33,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,9,31,3,0,0,0,0,0,0,0,0
+62,5,618,1,10,Zimbabwe,Sikandar Raza,Mohammed Siraj,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,235476,42.51,44.33,0,0,,,Knuckleball,105,LEFT ALONE,0,0,5,9,31,3,0,0,0,0,0,0,0,0
+63,6,618,1,10,Zimbabwe,Sikandar Raza,Mohammed Siraj,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,235477,-31.62,-31.64,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,9,31,3,0,0,0,0,0,0,0,0
+64,1,618,1,10,Zimbabwe,Wesley Madhevere,Deepak Chahar,,11,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,10.1,1,1,0,235478,-31.62,-31.64,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,10,31,4,1,0,0,0,0,0,0,0
+65,2,618,1,10,Zimbabwe,Regis Chakabva,Deepak Chahar,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,235479,-30.23,70.58,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,10,31,4,2,0,0,0,0,0,0,0
+66,3,618,1,10,Zimbabwe,Regis Chakabva,Deepak Chahar,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,235480,46.66,35.12,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,10,31,4,0,0,0,0,0,0,0,0
+67,4,618,1,10,Zimbabwe,Regis Chakabva,Deepak Chahar,,11,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,235481,-88.71,-78.60,2,0,,,Knuckleball,105,LEFT ALONE,0,0,4,10,33,4,0,0,0,0,0,0,0,0
+68,5,618,1,10,Zimbabwe,Regis Chakabva,Deepak Chahar,,11,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.5,1,1,0,235482,188.47,10.26,4,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,10,37,4,0,0,0,0,0,0,0,0
+69,6,618,1,10,Zimbabwe,Regis Chakabva,Deepak Chahar,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,235483,188.47,10.26,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,10,37,4,0,0,0,0,0,0,0,0
+70,1,618,1,10,Zimbabwe,Sikandar Raza,Mohammed Siraj,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,235484,-83.18,-67.09,1,0,,,Knuckleball,44,GLIDE,0,0,1,11,38,4,1,0,0,0,0,0,0,0
+71,2,618,1,10,Zimbabwe,Regis Chakabva,Mohammed Siraj,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,235485,-83.18,-67.09,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,11,38,4,0,0,0,0,0,0,0,0
+72,3,618,1,10,Zimbabwe,Regis Chakabva,Mohammed Siraj,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,235486,-38.06,24.53,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,11,38,4,0,0,0,0,0,0,0,0
+73,4,618,1,10,Zimbabwe,Regis Chakabva,Mohammed Siraj,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,235487,-46.81,104.19,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,4,11,38,4,0,0,0,0,0,0,0,0
+74,5,618,1,10,Zimbabwe,Regis Chakabva,Mohammed Siraj,,12,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.5,1,1,0,235488,-81.80,195.81,4,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,5,11,42,4,0,0,0,0,0,0,0,0
+75,6,618,1,10,Zimbabwe,Regis Chakabva,Mohammed Siraj,,12,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.6,1,1,0,235489,46.20,211.47,4,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,6,11,46,4,0,0,0,0,0,0,0,0
+76,1,618,1,10,Zimbabwe,Sikandar Raza,Deepak Chahar,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,235490,-91.93,-60.65,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,12,47,4,1,0,0,0,0,0,0,0
+77,2,618,1,10,Zimbabwe,Regis Chakabva,Deepak Chahar,,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.2,1,1,0,235491,-91.93,-60.65,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,12,47,4,0,0,0,0,0,0,0,0
+78,3,618,1,10,Zimbabwe,Regis Chakabva,Deepak Chahar,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,235492,113.88,-8.16,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,3,12,48,4,0,0,0,0,0,0,0,0
+79,4,618,1,10,Zimbabwe,Sikandar Raza,Deepak Chahar,,13,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.4,1,1,0,235493,-149.49,132.73,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,12,52,4,0,1,1,0,1,0,0,0
+80,5,618,1,10,Zimbabwe,Sikandar Raza,Deepak Chahar,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,235494,40.21,4.27,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,12,52,4,0,0,1,0,0,0,0,0
+81,6,618,1,10,Zimbabwe,Sikandar Raza,Deepak Chahar,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,235495,48.96,102.81,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,6,12,52,4,0,0,1,0,0,0,0,0
+82,1,618,1,10,Zimbabwe,Regis Chakabva,Kuldeep Yadav,,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,235496,-21.49,-13.68,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,13,52,4,1,0,1,0,0,0,0,0
+83,2,618,1,10,Zimbabwe,Regis Chakabva,Kuldeep Yadav,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,1,1,0,235497,-33.92,91.76,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,13,52,4,0,0,1,0,0,0,0,0
+84,3,618,1,10,Zimbabwe,Regis Chakabva,Kuldeep Yadav,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,235498,-11.36,61.37,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,13,52,4,0,0,1,0,0,0,0,0
+85,4,618,1,10,Zimbabwe,Regis Chakabva,Kuldeep Yadav,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,235499,-78.12,63.21,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,13,52,4,0,0,1,0,0,0,0,0
+86,5,618,1,10,Zimbabwe,Regis Chakabva,Kuldeep Yadav,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,235500,-81.34,86.69,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,13,52,4,0,0,1,0,0,0,0,0
+87,6,618,1,10,Zimbabwe,Regis Chakabva,Kuldeep Yadav,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,235501,-69.37,147.01,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,6,13,53,4,0,0,1,0,0,0,0,0
+88,1,618,1,10,Zimbabwe,Regis Chakabva,Prasidh Krishna,,15,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,235502,121.71,99.58,2,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,14,55,4,1,0,1,0,0,0,0,0
+89,2,618,1,10,Zimbabwe,Regis Chakabva,Prasidh Krishna,,15,2,2 (LB),2,0,0,0,0,1,2,0,0,0,1,0,0,0,,,0,14.2,1,1,1,235503,121.71,99.58,2,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,2,14,57,4,0,0,1,0,0,0,0,0
+90,3,618,1,10,Zimbabwe,Regis Chakabva,Prasidh Krishna,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,235504,71.06,88.53,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,14,58,4,0,0,1,0,0,0,0,0
+91,4,618,1,10,Zimbabwe,Sikandar Raza,Prasidh Krishna,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,235505,71.06,88.53,0,0,,,Knuckleball,105,LEFT ALONE,0,0,4,14,58,4,0,0,1,0,0,0,0,0
+92,5,618,1,10,Zimbabwe,Sikandar Raza,Prasidh Krishna,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,235506,-11.82,55.38,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,14,58,4,0,0,1,0,0,0,0,0
+93,6,618,1,10,Zimbabwe,Sikandar Raza,Prasidh Krishna,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,235507,-11.82,55.38,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,14,58,4,0,0,1,0,0,0,0,0
+94,1,618,1,10,Zimbabwe,Regis Chakabva,Kuldeep Yadav,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,235508,-58.32,141.48,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,1,15,59,4,1,0,1,0,0,0,0,0
+95,2,618,1,10,Zimbabwe,Sikandar Raza,Kuldeep Yadav,,16,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,235509,70.60,-99.32,2,0,,,Knuckleball,22,FRONTFOOT PADDLE SWEEP,0,0,2,15,61,4,0,0,1,0,0,0,0,0
+96,3,618,1,10,Zimbabwe,Sikandar Raza,Kuldeep Yadav,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,235510,83.03,-72.62,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,15,62,4,0,0,1,0,0,0,0,0
+97,4,618,1,10,Zimbabwe,Regis Chakabva,Kuldeep Yadav,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,235511,-64.77,-68.01,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,15,63,4,0,0,1,0,0,0,0,0
+98,5,618,1,10,Zimbabwe,Sikandar Raza,Kuldeep Yadav,,16,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,235512,45.74,-109.91,2,0,,,Knuckleball,22,FRONTFOOT PADDLE SWEEP,0,0,5,15,65,4,0,0,1,0,0,0,0,0
+99,6,618,1,10,Zimbabwe,Sikandar Raza,Kuldeep Yadav,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,235513,59.09,-101.17,1,0,,,Knuckleball,22,FRONTFOOT PADDLE SWEEP,0,0,6,15,66,4,0,0,1,0,0,0,0,0
+100,1,618,1,10,Zimbabwe,Sikandar Raza,Prasidh Krishna,,17,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,16.1,1,1,0,235514,59.09,-101.17,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,16,66,5,1,0,1,0,0,0,0,0
+101,2,618,1,10,Zimbabwe,Ryan Burl,Prasidh Krishna,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,235515,11.67,46.63,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,16,66,5,2,0,1,0,0,0,0,0
+102,3,618,1,10,Zimbabwe,Ryan Burl,Prasidh Krishna,,17,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.3,1,1,0,235516,55.87,208.24,4,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,3,16,70,5,0,0,1,0,0,0,0,0
+103,4,618,1,10,Zimbabwe,Ryan Burl,Prasidh Krishna,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,235517,-6.29,57.22,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,16,70,5,0,0,1,0,0,0,0,0
+104,5,618,1,10,Zimbabwe,Ryan Burl,Prasidh Krishna,,17,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,16.5,1,1,1,235518,-6.29,57.22,1,0,,,Knuckleball,105,LEFT ALONE,0,0,5,16,71,5,0,0,1,0,0,0,0,0
+105,6,618,1,10,Zimbabwe,Ryan Burl,Prasidh Krishna,,17,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,235519,-6.29,57.22,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,16,71,5,0,0,1,0,0,0,0,0
+106,7,618,1,10,Zimbabwe,Ryan Burl,Prasidh Krishna,,17,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,235520,-9.05,52.16,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,7,16,71,5,0,0,1,0,0,0,0,0
+107,1,618,1,10,Zimbabwe,Regis Chakabva,Kuldeep Yadav,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,235521,-56.02,149.77,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,1,17,72,5,1,0,1,0,0,0,0,0
+108,2,618,1,10,Zimbabwe,Ryan Burl,Kuldeep Yadav,,18,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.2,1,1,0,235522,-21.95,19.47,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,17,72,5,0,0,1,0,0,0,0,0
+109,3,618,1,10,Zimbabwe,Ryan Burl,Kuldeep Yadav,,18,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.3,1,1,0,235523,12.59,64.59,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,17,72,5,0,0,1,0,0,0,0,0
+110,4,618,1,10,Zimbabwe,Ryan Burl,Kuldeep Yadav,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,1,1,0,235524,-56.94,148.85,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,17,73,5,0,0,1,0,0,0,0,0
+111,5,618,1,10,Zimbabwe,Regis Chakabva,Kuldeep Yadav,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,235525,39.29,26.37,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,17,73,5,0,0,1,0,0,0,0,0
+112,6,618,1,10,Zimbabwe,Regis Chakabva,Kuldeep Yadav,,18,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,235526,-68.91,155.29,2,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,6,17,75,5,0,0,1,0,0,0,0,0
+113,1,618,1,10,Zimbabwe,Ryan Burl,Prasidh Krishna,,19,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.1,1,1,0,235527,48.50,-17.83,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,18,75,5,1,0,1,0,0,0,0,0
+114,2,618,1,10,Zimbabwe,Ryan Burl,Prasidh Krishna,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.2,1,1,0,235528,48.50,-17.83,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,18,75,5,0,0,1,0,0,0,0,0
+115,3,618,1,10,Zimbabwe,Ryan Burl,Prasidh Krishna,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,235529,72.44,-1.25,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,18,76,5,0,0,1,0,0,0,0,0
+116,4,618,1,10,Zimbabwe,Regis Chakabva,Prasidh Krishna,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.4,1,1,0,235530,-38.52,87.15,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,18,76,5,0,0,1,0,0,0,0,0
+117,5,618,1,10,Zimbabwe,Regis Chakabva,Prasidh Krishna,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,235531,45.74,89.45,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,18,76,5,0,0,1,0,0,0,0,0
+118,6,618,1,10,Zimbabwe,Regis Chakabva,Prasidh Krishna,,19,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,235532,-5.37,23.61,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,18,76,5,0,0,1,0,0,0,0,0
+119,1,618,1,10,Zimbabwe,Ryan Burl,Kuldeep Yadav,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.1,1,1,0,235533,-95.15,145.17,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,19,77,5,1,0,1,0,0,0,0,0
+120,2,618,1,10,Zimbabwe,Regis Chakabva,Kuldeep Yadav,,20,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,235534,-14.12,47.55,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,19,77,5,0,0,1,0,0,0,0,0
+121,3,618,1,10,Zimbabwe,Regis Chakabva,Kuldeep Yadav,,20,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.3,1,1,0,235535,3.38,7.96,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,19,77,5,0,0,1,0,0,0,0,0
+122,4,618,1,10,Zimbabwe,Regis Chakabva,Kuldeep Yadav,,20,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.4,1,1,0,235536,-105.74,125.37,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,4,19,78,5,0,0,1,0,0,0,0,0
+123,5,618,1,10,Zimbabwe,Ryan Burl,Kuldeep Yadav,,20,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.5,1,1,0,235537,-36.68,42.03,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,19,78,5,0,0,1,0,0,0,0,0
+124,6,618,1,10,Zimbabwe,Ryan Burl,Kuldeep Yadav,,20,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.6,1,1,0,235538,35.61,15.32,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,19,78,5,0,0,1,0,0,0,0,0
+125,1,618,1,10,Zimbabwe,Regis Chakabva,Prasidh Krishna,,21,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,20.1,1,1,0,235539,52.18,28.22,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,20,79,5,1,0,1,0,0,0,0,0
+126,2,618,1,10,Zimbabwe,Ryan Burl,Prasidh Krishna,,21,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,20.2,1,1,0,235540,52.18,28.22,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,20,79,5,0,0,1,0,0,0,0,0
+127,3,618,1,10,Zimbabwe,Ryan Burl,Prasidh Krishna,,21,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,20.3,1,1,0,235541,-15.50,24.07,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,20,79,5,0,0,1,0,0,0,0,0
+128,4,618,1,10,Zimbabwe,Ryan Burl,Prasidh Krishna,,21,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,20.4,1,1,0,235542,177.88,108.33,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,20,83,5,0,0,1,0,0,0,0,0
+129,5,618,1,10,Zimbabwe,Ryan Burl,Prasidh Krishna,,21,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,20.5,1,1,0,235543,177.88,108.33,0,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,20,83,6,1,0,1,0,0,0,0,0
+130,6,618,1,10,Zimbabwe,Regis Chakabva,Prasidh Krishna,,21,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,20.6,1,1,0,235544,142.89,-72.16,4,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,6,20,87,6,2,0,1,0,0,0,0,0
+131,1,618,1,10,Zimbabwe,Luke Jongwe,Kuldeep Yadav,,22,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,21.1,1,1,0,235545,12.59,51.70,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,21,87,6,3,0,1,0,0,0,0,0
+132,2,618,1,10,Zimbabwe,Luke Jongwe,Kuldeep Yadav,,22,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,21.2,1,1,0,235546,-32.08,-2.63,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,21,87,6,0,0,1,0,0,0,0,0
+133,3,618,1,10,Zimbabwe,Luke Jongwe,Kuldeep Yadav,,22,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,21.3,1,1,0,235547,-26.09,22.69,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,21,87,6,0,0,1,0,0,0,0,0
+134,4,618,1,10,Zimbabwe,Luke Jongwe,Kuldeep Yadav,,22,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,21.4,1,1,0,235548,-26.55,30.06,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,21,87,6,0,0,1,0,0,0,0,0
+135,5,618,1,10,Zimbabwe,Luke Jongwe,Kuldeep Yadav,,22,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,21.5,1,1,0,235549,-3.07,57.68,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,21,87,6,0,0,1,0,0,0,0,0
+136,6,618,1,10,Zimbabwe,Luke Jongwe,Kuldeep Yadav,,22,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,21.6,1,1,0,235550,54.49,36.04,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,21,87,6,0,0,1,0,0,0,0,0
+137,1,618,1,10,Zimbabwe,Regis Chakabva,Axar Patel,,23,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,22.1,1,1,0,235551,-9.51,22.23,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,22,87,6,1,0,1,0,0,0,0,0
+138,2,618,1,10,Zimbabwe,Regis Chakabva,Axar Patel,,23,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,22.2,1,1,0,235552,17.65,15.32,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,22,87,6,0,0,1,0,0,0,0,0
+139,3,618,1,10,Zimbabwe,Regis Chakabva,Axar Patel,,23,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,22.3,1,1,0,235553,-8.13,66.43,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,22,87,6,0,0,1,0,0,0,0,0
+140,4,618,1,10,Zimbabwe,Regis Chakabva,Axar Patel,,23,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,22.4,1,1,0,235554,36.07,25.91,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,22,87,6,0,0,1,0,0,0,0,0
+141,5,618,1,10,Zimbabwe,Regis Chakabva,Axar Patel,,23,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,22.5,1,1,0,235555,-69.37,59.99,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,22,87,6,0,0,1,0,0,0,0,0
+142,6,618,1,10,Zimbabwe,Regis Chakabva,Axar Patel,,23,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,22.6,1,1,0,235556,25.48,-4.94,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,22,87,6,0,0,1,0,0,0,0,0
+144,1,618,1,10,Zimbabwe,Luke Jongwe,Kuldeep Yadav,,24,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,23.1,1,1,0,235557,-71.67,-33.94,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,23,87,6,1,0,1,0,0,0,0,0
+145,2,618,1,10,Zimbabwe,Luke Jongwe,Kuldeep Yadav,,24,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,23.2,1,1,0,235558,-71.67,-33.94,0,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,2,23,87,6,0,0,1,0,0,0,0,0
+146,3,618,1,10,Zimbabwe,Luke Jongwe,Kuldeep Yadav,,24,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,23.3,1,1,0,235559,108.36,8.42,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,23,88,6,0,0,1,0,0,0,0,0
+147,4,618,1,10,Zimbabwe,Regis Chakabva,Kuldeep Yadav,,24,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,23.4,1,1,0,235560,-71.67,-76.30,2,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,23,90,6,0,0,1,0,0,0,0,0
+148,5,618,1,10,Zimbabwe,Regis Chakabva,Kuldeep Yadav,,24,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,23.5,1,1,0,235561,101.91,-20.59,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,23,91,6,0,0,1,0,0,0,0,0
+149,6,618,1,10,Zimbabwe,Luke Jongwe,Kuldeep Yadav,,24,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,23.6,1,1,0,235562,-51.41,7.96,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,23,91,6,0,0,1,0,0,0,0,0
+150,1,618,1,10,Zimbabwe,Regis Chakabva,Axar Patel,,25,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,24.1,1,1,0,235563,-0.77,55.84,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,24,91,6,1,0,1,0,0,0,0,0
+151,2,618,1,10,Zimbabwe,Regis Chakabva,Axar Patel,,25,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,24.2,1,1,0,235564,-14.12,63.67,0,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,2,24,91,6,0,0,1,0,0,0,0,0
+152,3,618,1,10,Zimbabwe,Regis Chakabva,Axar Patel,,25,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,24.3,1,1,0,235565,38.83,20.39,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,24,91,6,0,0,1,0,0,0,0,0
+153,4,618,1,10,Zimbabwe,Regis Chakabva,Axar Patel,,25,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,24.4,1,1,0,235566,28.70,17.63,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,24,91,6,0,0,1,0,0,0,0,0
+154,5,618,1,10,Zimbabwe,Regis Chakabva,Axar Patel,,25,5,4 (BY),4,0,0,0,0,1,4,0,0,1,0,1,0,0,,,0,24.5,1,1,1,235567,28.70,17.63,4,0,,,Knuckleball,19,BACKFOOT STRAIGHT DRIVE,0,0,5,24,95,6,0,0,1,0,0,0,0,0
+155,6,618,1,10,Zimbabwe,Regis Chakabva,Axar Patel,,25,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,24.6,1,1,0,235568,38.83,-15.99,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,24,95,6,0,0,1,0,0,0,0,0
+157,1,618,1,10,Zimbabwe,Luke Jongwe,Prasidh Krishna,,26,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,25.1,1,1,0,235569,38.83,-15.99,0,0,,,Knuckleball,105,LEFT ALONE,0,0,1,25,95,6,1,0,1,0,0,0,0,0
+158,2,618,1,10,Zimbabwe,Luke Jongwe,Prasidh Krishna,,26,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,25.2,1,1,0,235570,-110.81,-62.49,2,0,,,Knuckleball,44,GLIDE,0,0,2,25,97,6,0,0,1,0,0,0,0,0
+159,3,618,1,10,Zimbabwe,Luke Jongwe,Prasidh Krishna,,26,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,25.3,1,1,0,235571,-110.81,-62.49,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,25,97,6,0,0,1,0,0,0,0,0
+160,4,618,1,10,Zimbabwe,Luke Jongwe,Prasidh Krishna,,26,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,25.4,1,1,0,235572,-184.94,39.73,4,0,,,Knuckleball,36,CUT SHOT,0,0,4,25,101,6,0,1,2,0,0,1,0,0
+161,5,618,1,10,Zimbabwe,Luke Jongwe,Prasidh Krishna,,26,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,25.5,1,1,0,235573,-38.98,15.78,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,25,101,6,0,0,2,0,0,0,0,0
+162,6,618,1,10,Zimbabwe,Luke Jongwe,Prasidh Krishna,,26,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,25.6,1,1,0,235574,48.04,210.55,4,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,6,25,105,6,0,0,2,0,0,0,0,0
+163,1,618,1,10,Zimbabwe,Regis Chakabva,Axar Patel,,27,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,26.1,1,1,0,235575,112.50,-46.37,2,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,26,107,6,1,0,2,0,0,0,0,0
+164,2,618,1,10,Zimbabwe,Regis Chakabva,Axar Patel,,27,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,26.2,1,1,0,235576,-30.23,62.29,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,2,26,107,6,0,0,2,0,0,0,0,0
+165,3,618,1,10,Zimbabwe,Regis Chakabva,Axar Patel,,27,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,26.3,1,1,0,235577,-30.23,62.29,0,0,,23,ARM BALL,53,FRONTFOOT STRAIGHT DRIVE,0,0,3,26,107,7,1,0,2,0,0,0,0,0
+166,4,618,1,10,Zimbabwe,Brad Evans,Axar Patel,,27,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,26.4,1,1,0,235578,-5.37,22.69,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,26,107,7,2,0,2,0,0,0,0,0
+167,5,618,1,10,Zimbabwe,Brad Evans,Axar Patel,,27,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,26.5,1,1,0,235579,-16.42,21.31,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,26,107,7,0,0,2,0,0,0,0,0
+168,6,618,1,10,Zimbabwe,Brad Evans,Axar Patel,,27,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,26.6,1,1,0,235580,23.64,-10.92,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,26,107,7,0,0,2,0,0,0,0,0
+169,1,618,1,10,Zimbabwe,Luke Jongwe,Prasidh Krishna,,28,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,27.1,1,1,0,235581,-56.02,-26.58,0,0,,,Knuckleball,44,GLIDE,0,0,1,27,107,7,1,0,2,0,0,0,0,0
+170,2,618,1,10,Zimbabwe,Luke Jongwe,Prasidh Krishna,,28,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,27.2,1,1,0,235582,-56.02,-26.58,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,27,107,7,0,0,2,0,0,0,0,0
+171,3,618,1,10,Zimbabwe,Luke Jongwe,Prasidh Krishna,,28,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,27.3,1,1,0,235583,-88.71,-63.41,1,0,,,Knuckleball,44,GLIDE,0,0,3,27,108,7,0,0,2,0,0,0,0,0
+172,4,618,1,10,Zimbabwe,Brad Evans,Prasidh Krishna,,28,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,27.4,1,1,0,235584,-49.57,-25.19,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,27,108,7,0,0,2,0,0,0,0,0
+173,5,618,1,10,Zimbabwe,Brad Evans,Prasidh Krishna,,28,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,27.5,1,1,0,235585,58.17,65.05,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,27,109,7,0,0,2,0,0,0,0,0
+174,6,618,1,10,Zimbabwe,Luke Jongwe,Prasidh Krishna,,28,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,27.6,1,1,0,235586,-134.29,-12.30,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,27,110,7,0,0,2,0,0,0,0,0
+175,1,618,1,10,Zimbabwe,Luke Jongwe,Axar Patel,,29,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,28.1,1,1,0,235587,-9.51,48.47,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,28,110,7,1,0,2,0,0,0,0,0
+176,2,618,1,10,Zimbabwe,Luke Jongwe,Axar Patel,,29,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,28.2,1,1,0,235588,-29.31,-18.75,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,28,110,7,0,0,2,0,0,0,0,0
+177,3,618,1,10,Zimbabwe,Luke Jongwe,Axar Patel,,29,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,28.3,1,1,0,235589,-29.31,-18.75,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,28,110,8,1,0,2,0,0,0,0,0
+178,4,618,1,10,Zimbabwe,Richard Ngarava,Axar Patel,,29,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,28.4,1,1,0,235590,27.78,11.18,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,28,110,8,2,0,2,0,0,0,0,0
+179,5,618,1,10,Zimbabwe,Richard Ngarava,Axar Patel,,29,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,28.5,1,1,0,235591,78.89,94.06,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,5,28,111,8,0,0,2,0,0,0,0,0
+180,6,618,1,10,Zimbabwe,Brad Evans,Axar Patel,,29,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,28.6,1,1,0,235592,-32.08,37.88,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,28,111,8,0,0,2,0,0,0,0,0
+182,1,618,1,10,Zimbabwe,Richard Ngarava,Kuldeep Yadav,,30,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,29.1,1,1,0,235593,-57.40,148.85,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,1,29,112,8,1,0,2,0,0,0,0,0
+183,2,618,1,10,Zimbabwe,Brad Evans,Kuldeep Yadav,,30,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,29.2,1,1,0,235594,95.92,-71.24,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,29,113,8,0,0,2,0,0,0,0,0
+184,3,618,1,10,Zimbabwe,Richard Ngarava,Kuldeep Yadav,,30,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,29.3,1,1,0,235595,28.70,11.18,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,29,113,8,0,0,2,0,0,0,0,0
+185,4,618,1,10,Zimbabwe,Richard Ngarava,Kuldeep Yadav,,30,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,29.4,1,1,0,235596,20.41,-5.86,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,29,113,8,0,0,2,0,0,0,0,0
+186,5,618,1,10,Zimbabwe,Richard Ngarava,Kuldeep Yadav,,30,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,29.5,1,1,0,235597,-88.25,100.04,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,5,29,114,8,0,0,2,0,0,0,0,0
+187,6,618,1,10,Zimbabwe,Brad Evans,Kuldeep Yadav,,30,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,29.6,1,1,0,235598,37.91,54.46,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,29,114,8,0,0,2,0,0,0,0,0
+188,1,618,1,10,Zimbabwe,Richard Ngarava,Axar Patel,,31,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,30.1,1,1,0,235599,37.91,54.46,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,30,114,8,1,0,2,0,0,0,0,0
+189,2,618,1,10,Zimbabwe,Richard Ngarava,Axar Patel,,31,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,30.2,1,1,0,235600,70.14,85.77,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,2,30,114,8,0,0,2,0,0,0,0,0
+190,3,618,1,10,Zimbabwe,Richard Ngarava,Axar Patel,,31,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,30.3,1,1,0,235601,-9.97,63.21,0,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,3,30,114,8,0,0,2,0,0,0,0,0
+191,4,618,1,10,Zimbabwe,Richard Ngarava,Axar Patel,,31,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,30.4,1,1,0,235602,-71.21,-35.78,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,30,115,8,0,0,2,0,0,0,0,0
+192,5,618,1,10,Zimbabwe,Brad Evans,Axar Patel,,31,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,30.5,1,1,0,235603,135.52,89.91,2,0,,,Knuckleball,95,SLOG SWEEP,0,0,5,30,117,8,0,0,2,0,0,0,0,0
+193,6,618,1,10,Zimbabwe,Brad Evans,Axar Patel,,31,6,4 (LB),4,0,0,0,0,1,4,0,0,0,1,1,0,0,,,0,30.6,1,1,1,235604,30.08,-141.68,4,0,,,Knuckleball,22,FRONTFOOT PADDLE SWEEP,0,0,6,30,121,8,0,0,2,0,0,0,0,0
+194,1,618,1,10,Zimbabwe,Richard Ngarava,Kuldeep Yadav,,32,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,31.1,1,1,0,235605,59.09,65.05,0,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,1,31,121,8,1,0,2,0,0,0,0,0
+195,2,618,1,10,Zimbabwe,Richard Ngarava,Kuldeep Yadav,,32,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,31.2,1,1,0,235606,-14.12,4.73,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,31,121,8,0,0,2,0,0,0,0,0
+196,3,618,1,10,Zimbabwe,Richard Ngarava,Kuldeep Yadav,,32,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,31.3,1,1,0,235607,25.48,66.43,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,3,31,122,8,0,0,2,0,0,0,0,0
+197,4,618,1,10,Zimbabwe,Brad Evans,Kuldeep Yadav,,32,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,31.4,1,1,0,235608,25.48,66.43,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,31,122,8,0,0,2,0,0,0,0,0
+198,5,618,1,10,Zimbabwe,Brad Evans,Kuldeep Yadav,,32,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,31.5,1,1,0,235609,89.02,122.14,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,5,31,123,8,0,0,2,0,0,0,0,0
+199,6,618,1,10,Zimbabwe,Richard Ngarava,Kuldeep Yadav,,32,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,31.6,1,1,0,235610,91.32,117.54,1,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,6,31,124,8,0,0,2,0,0,0,0,0
+200,1,618,1,10,Zimbabwe,Richard Ngarava,Axar Patel,,33,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,32.1,1,1,0,235611,-126.46,160.36,4,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,1,32,128,8,1,0,2,0,0,0,0,0
+201,2,618,1,10,Zimbabwe,Richard Ngarava,Axar Patel,,33,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,32.2,1,1,0,235612,30.08,17.17,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,32,128,8,0,0,2,0,0,0,0,0
+202,3,618,1,10,Zimbabwe,Richard Ngarava,Axar Patel,,33,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,32.3,1,1,0,235613,-36.68,24.07,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,32,128,8,0,0,2,0,0,0,0,0
+203,4,618,1,10,Zimbabwe,Richard Ngarava,Axar Patel,,33,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,32.4,1,1,0,235614,-67.07,-42.69,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,32,129,8,0,0,2,0,0,0,0,0
+204,5,618,1,10,Zimbabwe,Brad Evans,Axar Patel,,33,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,32.5,1,1,0,235615,67.84,-43.15,0,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,32,129,8,0,0,2,0,0,0,0,0
+205,6,618,1,10,Zimbabwe,Brad Evans,Axar Patel,,33,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,32.6,1,1,0,235616,-99.76,-114.52,4,0,,,Knuckleball,44,GLIDE,0,0,6,32,133,8,0,0,2,0,0,0,0,0
+206,1,618,1,10,Zimbabwe,Richard Ngarava,Kuldeep Yadav,,34,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,33.1,1,1,0,235617,34.23,-4.01,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,33,133,8,1,0,2,0,0,0,0,0
+207,2,618,1,10,Zimbabwe,Richard Ngarava,Kuldeep Yadav,,34,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,33.2,1,1,0,235618,-88.71,-48.68,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,33,134,8,0,0,2,0,0,0,0,0
+208,3,618,1,10,Zimbabwe,Brad Evans,Kuldeep Yadav,,34,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,33.3,1,1,0,235619,-88.71,-48.68,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,33,134,8,0,0,2,0,0,0,0,0
+209,4,618,1,10,Zimbabwe,Brad Evans,Kuldeep Yadav,,34,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,33.4,1,1,0,235620,91.32,19.47,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,33,135,8,0,0,2,0,0,0,0,0
+210,5,618,1,10,Zimbabwe,Richard Ngarava,Kuldeep Yadav,,34,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,33.5,1,1,0,235621,-115.87,123.53,2,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,5,33,137,8,0,0,2,0,0,0,0,0
+211,6,618,1,10,Zimbabwe,Richard Ngarava,Kuldeep Yadav,,34,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,33.6,1,1,0,235622,-71.67,66.43,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,6,33,137,8,0,0,2,0,0,0,0,0
+212,1,618,1,10,Zimbabwe,Brad Evans,Mohammed Siraj,,35,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,34.1,1,1,0,235623,33.31,108.79,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,34,137,8,1,0,2,0,0,0,0,0
+213,2,618,1,10,Zimbabwe,Brad Evans,Mohammed Siraj,,35,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,34.2,1,1,0,235624,-142.58,145.63,4,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,2,34,141,8,0,0,2,0,0,0,0,0
+214,3,618,1,10,Zimbabwe,Brad Evans,Mohammed Siraj,,35,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,34.3,1,1,0,235625,132.76,40.65,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,3,34,142,8,0,0,2,0,0,0,0,0
+215,4,618,1,10,Zimbabwe,Richard Ngarava,Mohammed Siraj,,35,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,34.4,1,1,0,235626,-102.98,92.22,2,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,4,34,144,8,0,0,2,0,0,0,0,0
+216,5,618,1,10,Zimbabwe,Richard Ngarava,Mohammed Siraj,,35,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,34.5,1,1,0,235627,-4.91,7.50,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,34,144,8,0,0,2,0,0,0,0,0
+217,6,618,1,10,Zimbabwe,Richard Ngarava,Mohammed Siraj,,35,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,34.6,1,1,0,235628,-4.91,7.50,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,34,144,8,0,0,2,0,0,0,0,0
+218,1,618,1,10,Zimbabwe,Brad Evans,Kuldeep Yadav,,36,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,35.1,1,1,0,235629,-71.67,59.99,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,1,35,144,8,1,0,2,0,0,0,0,0
+219,2,618,1,10,Zimbabwe,Brad Evans,Kuldeep Yadav,,36,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,35.2,1,1,0,235630,166.83,120.76,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,2,35,150,8,0,1,3,0,0,0,0,0
+220,3,618,1,10,Zimbabwe,Brad Evans,Kuldeep Yadav,,36,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,35.3,1,1,0,235631,94.08,-55.58,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,35,151,8,0,0,3,0,0,0,0,0
+221,4,618,1,10,Zimbabwe,Richard Ngarava,Kuldeep Yadav,,36,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,35.4,1,1,0,235632,19.03,-12.30,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,35,151,8,0,0,3,0,0,0,0,0
+222,5,618,1,10,Zimbabwe,Richard Ngarava,Kuldeep Yadav,,36,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,35.5,1,1,0,235633,19.03,-12.30,0,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,5,35,151,8,0,0,3,0,0,0,0,0
+223,6,618,1,10,Zimbabwe,Richard Ngarava,Kuldeep Yadav,,36,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,35.6,1,1,0,235634,13.05,21.31,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,35,151,8,0,0,3,0,0,0,0,0
+224,1,618,1,10,Zimbabwe,Brad Evans,Mohammed Siraj,,37,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,36.1,1,1,1,235635,13.05,21.31,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,36,152,8,1,0,3,0,0,0,0,0
+225,2,618,1,10,Zimbabwe,Brad Evans,Mohammed Siraj,,37,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,36.1,1,1,0,235636,-6.75,48.47,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,36,152,8,0,0,3,0,0,0,0,0
+226,3,618,1,10,Zimbabwe,Brad Evans,Mohammed Siraj,,37,2,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,36.2,1,1,0,235637,118.49,-64.33,3,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,3,36,155,8,0,0,3,0,0,0,0,0
+227,4,618,1,10,Zimbabwe,Richard Ngarava,Mohammed Siraj,,37,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,36.3,1,1,0,235638,-54.64,207.32,4,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,4,36,159,8,0,0,3,0,0,0,0,0
+228,5,618,1,10,Zimbabwe,Richard Ngarava,Mohammed Siraj,,37,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,36.4,1,1,0,235639,-2.61,198.12,2,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,5,36,161,8,0,0,3,0,0,0,0,0
+229,6,618,1,10,Zimbabwe,Richard Ngarava,Mohammed Siraj,,37,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,36.5,1,1,0,235640,-2.61,198.12,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,36,161,8,0,0,3,0,0,0,0,0
+230,7,618,1,10,Zimbabwe,Richard Ngarava,Mohammed Siraj,,37,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,36.6,1,1,0,235641,-2.61,198.12,0,0,,,Knuckleball,105,LEFT ALONE,0,0,7,36,161,8,0,0,3,0,0,0,0,0
+231,1,618,1,10,Zimbabwe,Brad Evans,Prasidh Krishna,,38,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,37.1,1,1,0,235642,-72.59,200.42,4,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,1,37,165,8,1,0,3,0,0,0,0,0
+232,2,618,1,10,Zimbabwe,Brad Evans,Prasidh Krishna,,38,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,37.2,1,1,0,235643,122.63,19.47,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,2,37,166,8,0,0,3,0,0,0,0,0
+233,3,618,1,10,Zimbabwe,Richard Ngarava,Prasidh Krishna,,38,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,37.3,1,1,0,235644,51.72,-26.58,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,37,166,8,0,0,3,0,0,0,0,0
+234,4,618,1,10,Zimbabwe,Richard Ngarava,Prasidh Krishna,,38,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,37.4,1,1,0,235645,65.08,97.74,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,37,166,8,0,0,3,0,0,0,0,0
+235,5,618,1,10,Zimbabwe,Richard Ngarava,Prasidh Krishna,,38,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,37.5,1,1,0,235646,-167.44,114.78,4,0,,,Knuckleball,18,SLOG SHOT,0,0,5,37,170,8,0,0,3,0,0,0,0,0
+236,6,618,1,10,Zimbabwe,Richard Ngarava,Prasidh Krishna,,38,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,37.6,1,1,0,235647,127.23,-17.37,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,37,171,8,0,0,3,0,0,0,0,0
+237,1,618,1,10,Zimbabwe,Richard Ngarava,Axar Patel,,39,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,38.1,1,1,0,235648,45.74,6.58,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,38,171,8,1,0,3,0,0,0,0,0
+238,2,618,1,10,Zimbabwe,Richard Ngarava,Axar Patel,,39,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,38.2,1,1,0,235649,0.62,67.81,0,0,,,Knuckleball,19,BACKFOOT STRAIGHT DRIVE,0,0,2,38,171,8,0,0,3,0,0,0,0,0
+239,3,618,1,10,Zimbabwe,Richard Ngarava,Axar Patel,,39,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,38.3,1,1,0,235650,23.64,-4.94,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,38,171,8,0,0,3,0,0,0,0,0
+240,4,618,1,10,Zimbabwe,Richard Ngarava,Axar Patel,,39,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,38.4,1,1,0,235651,-58.32,-5.40,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,38,172,8,0,0,3,0,0,0,0,0
+241,5,618,1,10,Zimbabwe,Brad Evans,Axar Patel,,39,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,38.5,1,1,0,235652,99.15,-49.14,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,38,173,8,0,0,3,0,0,0,0,0
+242,6,618,1,10,Zimbabwe,Richard Ngarava,Axar Patel,,39,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,38.6,1,1,0,235653,-77.20,201.80,6,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,6,38,179,8,0,0,3,0,0,0,0,0
+243,1,618,1,10,Zimbabwe,Brad Evans,Prasidh Krishna,,40,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,39.1,1,1,0,235654,77.05,-36.24,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,1,39,180,8,1,0,3,0,0,0,0,0
+244,2,618,1,10,Zimbabwe,Richard Ngarava,Prasidh Krishna,,40,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,39.2,1,1,0,235655,77.05,-36.24,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,39,180,9,2,0,3,0,0,0,0,0
+245,3,618,1,10,Zimbabwe,Victor Nyauchi,Prasidh Krishna,,40,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,39.3,1,1,0,235656,-95.62,-44.07,2,0,,,Knuckleball,59,FRONTFOOT SQUARE DRIVE,0,0,3,39,182,9,3,0,3,0,0,0,0,0
+246,4,618,1,10,Zimbabwe,Victor Nyauchi,Prasidh Krishna,,40,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,39.4,1,1,0,235657,-67.07,-137.08,4,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,4,39,186,9,0,0,3,0,0,0,0,0
+247,5,618,1,10,Zimbabwe,Victor Nyauchi,Prasidh Krishna,,40,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,39.5,1,1,0,235658,-125.08,-44.53,2,0,,,Knuckleball,59,FRONTFOOT SQUARE DRIVE,0,0,5,39,188,9,0,0,3,0,0,0,0,0
+248,6,618,1,10,Zimbabwe,Victor Nyauchi,Prasidh Krishna,,40,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,39.6,1,1,0,235659,37.45,-33.48,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,39,188,9,0,0,3,0,0,0,0,0
+249,1,618,1,10,Zimbabwe,Brad Evans,Axar Patel,,41,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,40.1,1,1,0,235660,59.55,28.68,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,40,189,9,1,0,3,0,0,0,0,0
+250,2,618,1,10,Zimbabwe,Victor Nyauchi,Axar Patel,,41,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,40.2,1,1,0,235661,-56.48,90.37,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,40,189,9,0,0,3,0,0,0,0,0
+251,3,618,1,10,Zimbabwe,Victor Nyauchi,Axar Patel,,41,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,40.3,1,1,0,235662,-56.48,90.37,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,40,189,10,1,0,3,0,0,0,0,0
+253,1,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,1,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.1,1,1,0,235663,-71.67,-129.25,4,0,,,Knuckleball,54,LEG GLANCE,0,0,1,0,4,0,1,0,0,0,0,0,0,0
+254,2,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,1,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.2,1,1,0,235664,157.16,-67.55,4,0,,,Knuckleball,36,CUT SHOT,0,0,2,0,8,0,0,0,0,0,0,0,0,0
+255,3,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,235665,54.49,-12.30,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,0,8,0,0,0,0,0,0,0,0,0
+256,4,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,235666,78.89,-35.32,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,0,8,0,0,0,0,0,0,0,0,0
+257,5,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,235667,8.44,39.73,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,0,8,0,0,0,0,0,0,0,0,0
+258,6,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,235668,8.44,39.73,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,0,8,0,0,0,0,0,0,0,0,0
+259,1,618,2,1,India,Shubman Gill,Victor Nyauchi,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,235669,-5.83,-27.04,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,1,8,0,1,0,0,0,0,0,0,0
+260,2,618,2,1,India,Shubman Gill,Victor Nyauchi,,2,2,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,0,,,0,1.2,1,1,1,235670,-5.83,-27.04,2,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,2,1,10,0,0,0,0,0,0,0,0,0
+261,3,618,2,1,India,Shikhar Dhawan,Victor Nyauchi,,2,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,1.2,1,1,1,235671,-5.83,-27.04,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,3,1,11,0,0,0,0,0,0,0,0,0
+262,4,618,2,1,India,Shikhar Dhawan,Victor Nyauchi,,2,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,1.2,1,1,1,235672,63.23,-17.83,1,0,,,Knuckleball,105,LEFT ALONE,0,0,4,1,12,0,0,0,0,0,0,0,0,0
+263,5,618,2,1,India,Shikhar Dhawan,Victor Nyauchi,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,235673,56.79,-31.64,0,0,,,Knuckleball,35,LATE CUT,0,0,5,1,12,0,0,0,0,0,0,0,0,0
+264,6,618,2,1,India,Shikhar Dhawan,Victor Nyauchi,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,235674,63.23,-17.83,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,1,12,0,0,0,0,0,0,0,0,0
+265,7,618,2,1,India,Shikhar Dhawan,Victor Nyauchi,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,235675,67.84,-6.32,0,0,,,Knuckleball,36,CUT SHOT,0,0,7,1,12,0,0,0,0,0,0,0,0,0
+266,8,618,2,1,India,Shikhar Dhawan,Victor Nyauchi,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,1,1,0,235676,-52.79,52.62,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,8,1,12,0,0,0,0,0,0,0,0,0
+267,9,618,2,1,India,Shikhar Dhawan,Victor Nyauchi,,2,6,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,0,,,0,1.6,1,1,1,235677,-52.79,52.62,2,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,9,1,14,0,0,0,0,0,0,0,0,0
+268,10,618,2,1,India,Shubman Gill,Victor Nyauchi,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,235678,-27.93,23.61,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,10,1,14,0,0,0,0,0,0,0,0,0
+269,1,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,235679,67.38,-0.79,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,2,14,0,1,0,0,0,0,0,0,0
+270,2,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,235680,32.38,-15.99,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,2,14,0,0,0,0,0,0,0,0,0
+271,3,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,235681,14.89,13.02,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,2,14,0,0,0,0,0,0,0,0,0
+272,4,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,3,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,235682,105.13,-57.42,1,0,,,Knuckleball,44,GLIDE,0,0,4,2,15,0,0,0,0,0,0,0,0,0
+273,5,618,2,1,India,Shubman Gill,Richard Ngarava,,3,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,2.5,1,1,1,235683,105.13,-57.42,1,0,,,Knuckleball,54,LEG GLANCE,0,0,5,2,16,0,0,0,0,0,0,0,0,0
+274,6,618,2,1,India,Shubman Gill,Richard Ngarava,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,235684,-105.28,-60.65,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,2,17,0,0,0,0,0,0,0,0,0
+275,7,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,3,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,235685,-91.93,-31.64,2,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,7,2,19,0,0,0,0,0,0,0,0,0
+276,1,618,2,1,India,Shubman Gill,Victor Nyauchi,,4,1,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,235686,124.01,49.40,3,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,1,3,22,0,1,0,0,0,0,0,0,0
+277,2,618,2,1,India,Shikhar Dhawan,Victor Nyauchi,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,235687,81.65,-15.53,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,3,22,0,0,0,0,0,0,0,0,0
+278,3,618,2,1,India,Shikhar Dhawan,Victor Nyauchi,,4,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,235688,103.75,-47.76,2,0,,,Knuckleball,36,CUT SHOT,0,0,3,3,24,0,0,0,0,0,0,0,0,0
+279,4,618,2,1,India,Shikhar Dhawan,Victor Nyauchi,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,1,1,0,235689,103.75,-47.76,0,0,,,Knuckleball,77,STEP DOWN DEFENCE,0,0,4,3,24,0,0,0,0,0,0,0,0,0
+280,5,618,2,1,India,Shikhar Dhawan,Victor Nyauchi,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,1,1,0,235690,-71.21,58.60,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,3,24,0,0,0,0,0,0,0,0,0
+281,6,618,2,1,India,Shikhar Dhawan,Victor Nyauchi,,4,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,235691,-93.31,-64.79,1,0,,,Knuckleball,54,LEG GLANCE,0,0,6,3,25,0,0,0,0,0,0,0,0,0
+282,1,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,235692,-93.31,-64.79,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,4,25,0,1,0,0,0,0,0,0,0
+283,2,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,235693,-93.31,-64.79,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,4,25,0,0,0,0,0,0,0,0,0
+284,3,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,235694,12.59,-15.99,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,4,25,0,0,0,0,0,0,0,0,0
+285,4,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,1,1,0,235695,-91.93,-58.35,1,0,,,Knuckleball,54,LEG GLANCE,0,0,4,4,26,0,0,0,0,0,0,0,0,0
+286,5,618,2,1,India,Shubman Gill,Richard Ngarava,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,1,1,0,235696,-9.97,10.72,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,4,26,0,0,0,0,0,0,0,0,0
+287,6,618,2,1,India,Shubman Gill,Richard Ngarava,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,1,1,0,235697,-79.50,-11.38,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,4,26,0,0,0,0,0,0,0,0,0
+288,1,618,2,1,India,Shikhar Dhawan,Victor Nyauchi,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,1,1,0,235698,-79.50,-11.38,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,5,26,0,1,0,0,0,0,0,0,0
+289,2,618,2,1,India,Shikhar Dhawan,Victor Nyauchi,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,235699,98.23,-62.49,1,0,,,Knuckleball,44,GLIDE,0,0,2,5,27,0,0,0,0,0,0,0,0,0
+290,3,618,2,1,India,Shubman Gill,Victor Nyauchi,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,1,1,0,235700,31.00,4.73,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,5,27,0,0,0,0,0,0,0,0,0
+291,4,618,2,1,India,Shubman Gill,Victor Nyauchi,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,1,1,0,235701,36.53,94.52,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,5,27,0,0,0,0,0,0,0,0,0
+292,5,618,2,1,India,Shubman Gill,Victor Nyauchi,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,235702,-40.82,97.28,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,5,27,0,0,0,0,0,0,0,0,0
+293,6,618,2,1,India,Shubman Gill,Victor Nyauchi,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,235703,63.23,-40.39,0,0,,,Knuckleball,37,STEP DOWN FLICK,0,0,6,5,27,0,0,0,0,0,0,0,0,0
+294,1,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,235704,-62.00,90.37,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,6,27,0,1,0,0,0,0,0,0,0
+295,2,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,235705,-62.00,90.37,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,6,27,0,0,0,0,0,0,0,0,0
+296,3,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,7,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,235706,-68.91,-112.22,2,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,3,6,29,0,0,0,0,0,0,0,0,0
+297,4,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,235707,27.78,7.50,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,6,29,0,0,0,0,0,0,0,0,0
+298,5,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,235708,60.01,28.22,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,6,29,0,0,0,0,0,0,0,0,0
+299,6,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,235709,52.64,20.39,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,6,29,0,0,0,0,0,0,0,0,0
+300,1,618,2,1,India,Shubman Gill,Victor Nyauchi,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,235710,53.10,111.55,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,7,30,0,1,0,0,0,0,0,0,0
+301,2,618,2,1,India,Shikhar Dhawan,Victor Nyauchi,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,235711,53.10,111.55,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,7,30,0,0,0,0,0,0,0,0,0
+302,3,618,2,1,India,Shikhar Dhawan,Victor Nyauchi,,8,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,7.3,1,1,1,235712,53.10,111.55,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,7,31,0,0,0,0,0,0,0,0,0
+303,4,618,2,1,India,Shikhar Dhawan,Victor Nyauchi,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,235713,-91.01,-7.70,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,4,7,32,0,0,0,0,0,0,0,0,0
+304,5,618,2,1,India,Shubman Gill,Victor Nyauchi,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,235714,-91.01,-7.70,0,0,,,Knuckleball,105,LEFT ALONE,0,0,5,7,32,0,0,0,0,0,0,0,0,0
+305,6,618,2,1,India,Shubman Gill,Victor Nyauchi,,8,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,7.5,1,1,1,235715,-91.01,-7.70,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,7,33,0,0,0,0,0,0,0,0,0
+306,7,618,2,1,India,Shubman Gill,Victor Nyauchi,,8,5,4 (LB),4,0,0,0,0,1,4,0,0,0,1,1,0,0,,,0,7.5,1,1,1,235716,42.97,-140.76,4,0,,,Knuckleball,77,STEP DOWN DEFENCE,0,0,7,7,37,0,0,0,0,0,0,0,0,0
+307,8,618,2,1,India,Shubman Gill,Victor Nyauchi,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,235717,-41.74,100.50,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,8,7,37,0,0,0,0,0,0,0,0,0
+308,1,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,235718,14.43,40.19,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,8,37,0,1,0,0,0,0,0,0,0
+309,2,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,235719,-44.51,24.07,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,8,37,0,0,0,0,0,0,0,0,0
+310,3,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,235720,-44.51,24.07,0,0,,,Knuckleball,105,LEFT ALONE,0,0,3,8,37,0,0,0,0,0,0,0,0,0
+311,4,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,235721,-44.51,24.07,0,0,,,Knuckleball,105,LEFT ALONE,0,0,4,8,37,0,0,0,0,0,0,0,0,0
+312,5,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,1,1,0,235722,36.53,6.58,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,5,8,37,0,0,0,0,0,0,0,0,0
+313,6,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,9,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.6,1,1,0,235723,152.56,-68.47,4,0,,,Knuckleball,36,CUT SHOT,0,0,6,8,41,0,0,0,0,0,0,0,0,0
+314,1,618,2,1,India,Shubman Gill,Brad Evans,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,235724,48.04,102.81,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,9,42,0,1,0,0,0,0,0,0,0
+315,2,618,2,1,India,Shikhar Dhawan,Brad Evans,,10,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,235725,24.56,56.30,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,9,42,0,0,0,0,0,0,0,0,0
+316,3,618,2,1,India,Shikhar Dhawan,Brad Evans,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,235726,41.59,46.17,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,9,42,0,0,0,0,0,0,0,0,0
+317,4,618,2,1,India,Shikhar Dhawan,Brad Evans,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,235727,41.59,46.17,0,0,,,Knuckleball,105,LEFT ALONE,0,0,4,9,42,0,0,0,0,0,0,0,0,0
+318,5,618,2,1,India,Shikhar Dhawan,Brad Evans,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,1,1,0,235728,-14.12,25.91,0,0,,,Knuckleball,77,STEP DOWN DEFENCE,0,0,5,9,42,0,0,0,0,0,0,0,0,0
+319,6,618,2,1,India,Shikhar Dhawan,Brad Evans,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,235729,-113.57,-48.22,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,9,43,0,0,0,0,0,0,0,0,0
+320,1,618,2,1,India,Shikhar Dhawan,Sean Williams,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,235730,-54.64,137.80,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,10,44,0,1,0,0,0,0,0,0,0
+321,2,618,2,1,India,Shubman Gill,Sean Williams,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,1,1,0,235731,-69.37,145.63,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,10,45,0,0,0,0,0,0,0,0,0
+322,3,618,2,1,India,Shikhar Dhawan,Sean Williams,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,1,1,0,235732,-107.13,79.78,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,3,10,46,0,0,0,0,0,0,0,0,0
+323,4,618,2,1,India,Shubman Gill,Sean Williams,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,235733,58.63,-29.34,0,0,,,Knuckleball,37,STEP DOWN FLICK,0,0,4,10,46,0,0,0,0,0,0,0,0,0
+324,5,618,2,1,India,Shubman Gill,Sean Williams,,11,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,235734,-105.74,76.10,2,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,10,48,0,0,0,0,0,0,0,0,0
+325,6,618,2,1,India,Shubman Gill,Sean Williams,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,235735,50.34,106.49,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,10,49,0,0,0,0,0,0,0,0,0
+326,1,618,2,1,India,Shubman Gill,Brad Evans,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.1,1,1,0,235736,-8.13,57.68,0,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,1,11,49,0,1,0,0,0,0,0,0,0
+327,2,618,2,1,India,Shubman Gill,Brad Evans,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,1,1,0,235737,100.99,-67.09,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,11,50,0,0,1,1,0,1,0,0,0
+328,3,618,2,1,India,Shikhar Dhawan,Brad Evans,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,235738,-49.11,31.90,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,11,50,0,0,0,1,0,0,0,0,0
+329,4,618,2,1,India,Shikhar Dhawan,Brad Evans,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,235739,-118.64,96.36,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,4,11,51,0,0,0,1,0,0,0,0,0
+330,5,618,2,1,India,Shubman Gill,Brad Evans,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,235740,41.59,100.50,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,11,51,0,0,0,1,0,0,0,0,0
+331,6,618,2,1,India,Shubman Gill,Brad Evans,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,235741,-97.92,-62.49,1,0,,,Knuckleball,44,GLIDE,0,0,6,11,52,0,0,0,1,0,0,0,0,0
+333,1,618,2,1,India,Shubman Gill,Sean Williams,,13,1,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,0,,,0,12.1,1,1,1,235742,-97.92,-62.49,2,0,,,Knuckleball,54,LEG GLANCE,0,0,1,12,54,0,1,0,1,0,0,0,0,0
+334,2,618,2,1,India,Shikhar Dhawan,Sean Williams,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,235743,-61.08,-78.14,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,12,55,0,0,0,1,0,0,0,0,0
+335,3,618,2,1,India,Shubman Gill,Sean Williams,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,1,1,0,235744,66.46,146.55,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,12,56,0,0,0,1,0,0,0,0,0
+336,4,618,2,1,India,Shikhar Dhawan,Sean Williams,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,235745,21.33,77.48,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,12,56,0,0,0,1,0,0,0,0,0
+337,5,618,2,1,India,Shikhar Dhawan,Sean Williams,,13,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.4,1,1,0,235746,-166.52,-60.19,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,12,60,0,0,0,1,0,0,0,0,0
+338,6,618,2,1,India,Shikhar Dhawan,Sean Williams,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,235747,-5.83,35.12,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,12,60,0,0,0,1,0,0,0,0,0
+339,7,618,2,1,India,Shikhar Dhawan,Sean Williams,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,235748,-69.37,-31.18,0,0,,,Knuckleball,55,SWEEP SHOT,0,0,7,12,60,0,0,0,1,0,0,0,0,0
+340,1,618,2,1,India,Shubman Gill,Brad Evans,,14,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.1,1,1,0,235749,-190.46,67.81,4,0,,38,STRAIGHT BALL,52,BACKFOOT COVERDRIVE,0,0,1,13,64,0,1,0,1,0,0,0,0,0
+341,2,618,2,1,India,Shubman Gill,Brad Evans,,14,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.2,1,1,0,235750,-41.28,-140.76,4,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,2,13,68,0,0,0,1,0,0,0,0,0
+342,3,618,2,1,India,Shubman Gill,Brad Evans,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,235751,118.49,-52.36,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,3,13,69,0,0,0,1,0,0,0,0,0
+343,4,618,2,1,India,Shikhar Dhawan,Brad Evans,,14,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,235752,-120.94,84.39,2,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,4,13,71,0,0,0,1,0,0,0,0,0
+344,5,618,2,1,India,Shikhar Dhawan,Brad Evans,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,235753,110.66,-49.60,1,0,,,Knuckleball,44,GLIDE,0,0,5,13,72,0,0,0,1,0,0,0,0,0
+345,6,618,2,1,India,Shubman Gill,Brad Evans,,14,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.6,1,1,0,235754,-179.41,28.68,4,0,,,Knuckleball,36,CUT SHOT,0,0,6,13,76,0,0,0,1,0,0,0,0,0
+347,1,618,2,1,India,Shikhar Dhawan,Sean Williams,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,235755,-65.69,35.12,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,14,76,0,1,0,1,0,0,0,0,0
+348,2,618,2,1,India,Shikhar Dhawan,Sean Williams,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,235756,-49.57,76.10,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,14,76,0,0,0,1,0,0,0,0,0
+349,3,618,2,1,India,Shikhar Dhawan,Sean Williams,,15,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,235757,-64.77,32.82,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,14,76,0,0,0,1,0,0,0,0,0
+350,4,618,2,1,India,Shikhar Dhawan,Sean Williams,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,235758,85.79,-8.16,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,14,76,0,0,0,1,0,0,0,0,0
+351,5,618,2,1,India,Shikhar Dhawan,Sean Williams,,15,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,235759,128.15,106.49,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,14,78,0,0,0,1,0,0,0,0,0
+352,6,618,2,1,India,Shikhar Dhawan,Sean Williams,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,235760,97.77,-8.62,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,14,79,0,0,0,1,0,0,0,0,0
+353,1,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,235761,76.59,-20.59,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,15,79,0,1,0,1,0,0,0,0,0
+354,2,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,1,1,0,235762,63.69,136.42,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,15,80,0,0,0,1,0,0,0,0,0
+355,3,618,2,1,India,Shubman Gill,Sikandar Raza,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,235763,81.19,-5.40,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,15,80,0,0,0,1,0,0,0,0,0
+356,4,618,2,1,India,Shubman Gill,Sikandar Raza,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,1,1,0,235764,117.56,67.35,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,15,81,0,0,0,1,0,0,0,0,0
+357,5,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,235765,-102.52,-51.44,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,15,82,0,0,0,1,0,0,0,0,0
+358,6,618,2,1,India,Shubman Gill,Sikandar Raza,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,235766,50.34,153.45,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,15,83,0,0,0,1,0,0,0,0,0
+359,1,618,2,1,India,Shubman Gill,Sean Williams,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,1,1,0,235767,52.18,148.85,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,16,84,0,1,0,1,0,0,0,0,0
+360,2,618,2,1,India,Shikhar Dhawan,Sean Williams,,17,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.2,1,1,0,235768,-161.46,124.91,4,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,2,16,88,0,0,0,1,0,0,0,0,0
+361,3,618,2,1,India,Shikhar Dhawan,Sean Williams,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.3,1,1,0,235769,67.84,-29.34,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,16,88,0,0,0,1,0,0,0,0,0
+362,4,618,2,1,India,Shikhar Dhawan,Sean Williams,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,235770,62.77,38.81,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,16,89,0,0,0,1,0,0,0,0,0
+363,5,618,2,1,India,Shubman Gill,Sean Williams,,17,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,235771,70.14,68.27,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,16,89,0,0,0,1,0,0,0,0,0
+364,6,618,2,1,India,Shubman Gill,Sean Williams,,17,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,235772,-127.38,119.38,2,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,16,91,0,0,0,1,0,0,0,0,0
+366,1,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,1,1,0,235773,128.15,42.49,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,17,92,0,1,0,1,0,0,0,0,0
+367,2,618,2,1,India,Shubman Gill,Sikandar Raza,,18,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.2,1,1,0,235774,-75.82,-25.65,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,17,92,0,0,0,1,0,0,0,0,0
+368,3,618,2,1,India,Shubman Gill,Sikandar Raza,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.3,1,1,0,235775,119.87,30.98,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,17,93,0,0,0,1,0,0,0,0,0
+369,4,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,1,1,0,235776,69.68,142.40,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,4,17,94,0,0,0,1,0,0,0,0,0
+370,5,618,2,1,India,Shubman Gill,Sikandar Raza,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,1,1,0,235777,127.23,54.00,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,5,17,95,0,0,0,1,0,0,0,0,0
+371,6,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,235778,-30.69,160.36,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,17,96,0,0,0,1,0,0,0,0,0
+372,1,618,2,1,India,Shikhar Dhawan,Sean Williams,,19,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.1,1,1,0,235779,-37.60,57.68,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,18,96,0,1,0,1,0,0,0,0,0
+373,2,618,2,1,India,Shikhar Dhawan,Sean Williams,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.2,1,1,0,235780,-97.92,10.26,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,18,97,0,0,0,1,0,0,0,0,0
+374,3,618,2,1,India,Shubman Gill,Sean Williams,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,235781,69.22,125.83,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,18,98,0,0,0,1,0,0,0,0,0
+375,4,618,2,1,India,Shikhar Dhawan,Sean Williams,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.4,1,1,0,235782,20.41,-6.32,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,18,98,0,0,0,1,0,0,0,0,0
+376,5,618,2,1,India,Shikhar Dhawan,Sean Williams,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,235783,-50.03,32.82,0,0,,,Knuckleball,77,STEP DOWN DEFENCE,0,0,5,18,98,0,0,0,1,0,0,0,0,0
+377,6,618,2,1,India,Shikhar Dhawan,Sean Williams,,19,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,235784,-73.05,140.10,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,18,99,0,0,0,1,0,0,0,0,0
+379,1,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,20,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.1,1,1,0,235785,159.00,117.54,4,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,1,19,103,0,1,1,2,0,0,1,0,0
+380,2,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,20,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.2,1,1,0,235786,-16.88,66.89,0,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,2,19,103,0,0,0,2,0,0,0,0,0
+381,3,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,20,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.3,1,1,0,235787,48.96,100.96,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,3,19,103,0,0,0,2,0,0,0,0,0
+382,4,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,20,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.4,1,1,0,235788,-60.62,158.06,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,4,19,104,0,0,0,2,0,0,0,0,0
+383,5,618,2,1,India,Shubman Gill,Sikandar Raza,,20,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.5,1,1,0,235789,-78.12,71.96,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,19,104,0,0,0,2,0,0,0,0,0
+384,6,618,2,1,India,Shubman Gill,Sikandar Raza,,20,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.6,1,1,0,235790,60.93,155.76,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,6,19,105,0,0,0,2,0,0,0,0,0
+385,1,618,2,1,India,Shubman Gill,Luke Jongwe,,21,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,20.1,1,1,0,235791,101.91,-58.35,1,0,,,Knuckleball,54,LEG GLANCE,0,0,1,20,106,0,1,0,2,0,0,0,0,0
+386,2,618,2,1,India,Shikhar Dhawan,Luke Jongwe,,21,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,20.2,1,1,0,235792,-104.36,77.48,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,20,107,0,0,0,2,0,0,0,0,0
+387,3,618,2,1,India,Shubman Gill,Luke Jongwe,,21,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,20.3,1,1,1,235793,-104.36,77.48,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,20,108,0,0,0,2,0,0,0,0,0
+388,4,618,2,1,India,Shubman Gill,Luke Jongwe,,21,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,20.3,1,1,1,235794,-104.36,77.48,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,4,20,109,0,0,0,2,0,0,0,0,0
+389,5,618,2,1,India,Shubman Gill,Luke Jongwe,,21,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,20.3,1,1,0,235795,77.97,32.36,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,20,110,0,0,0,2,0,0,0,0,0
+390,6,618,2,1,India,Shikhar Dhawan,Luke Jongwe,,21,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,20.4,1,1,1,235796,77.97,32.36,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,20,111,0,0,0,2,0,0,0,0,0
+391,7,618,2,1,India,Shikhar Dhawan,Luke Jongwe,,21,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,20.4,1,1,0,235797,74.74,68.73,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,7,20,111,0,0,0,2,0,0,0,0,0
+392,8,618,2,1,India,Shikhar Dhawan,Luke Jongwe,,21,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,20.5,1,1,0,235798,91.32,-63.87,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,8,20,112,0,0,0,2,0,0,0,0,0
+393,9,618,2,1,India,Shubman Gill,Luke Jongwe,,21,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,20.6,1,1,0,235799,105.13,-56.04,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,9,20,113,0,0,0,2,0,0,0,0,0
+394,1,618,2,1,India,Shubman Gill,Sikandar Raza,,22,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,21.1,1,1,0,235800,-14.12,36.96,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,21,113,0,1,0,2,0,0,0,0,0
+395,2,618,2,1,India,Shubman Gill,Sikandar Raza,,22,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,21.2,1,1,0,235801,-156.39,144.24,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,21,117,0,0,0,2,0,0,0,0,0
+396,3,618,2,1,India,Shubman Gill,Sikandar Raza,,22,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,21.3,1,1,0,235802,97.77,39.27,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,21,118,0,0,0,2,0,0,0,0,0
+397,4,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,22,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,21.4,1,1,0,235803,97.77,39.27,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,21,118,0,0,0,2,0,0,0,0,0
+398,5,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,22,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,21.5,1,1,0,235804,97.77,39.27,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,5,21,118,0,0,0,2,0,0,0,0,0
+399,6,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,22,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,21.6,1,1,0,235805,11.67,63.21,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,21,118,0,0,0,2,0,0,0,0,0
+400,1,618,2,1,India,Shubman Gill,Luke Jongwe,,23,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,22.1,1,1,0,235806,-5.37,14.86,0,0,,,Knuckleball,70,STEP DOWN PULL SHOT,0,0,1,22,118,0,1,0,2,0,0,0,0,0
+401,2,618,2,1,India,Shubman Gill,Luke Jongwe,,23,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,22.2,1,1,0,235807,42.97,105.11,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,22,118,0,0,0,2,0,0,0,0,0
+402,3,618,2,1,India,Shubman Gill,Luke Jongwe,,23,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,22.3,1,1,0,235808,-11.82,158.06,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,3,22,119,0,0,0,2,0,0,0,0,0
+403,4,618,2,1,India,Shikhar Dhawan,Luke Jongwe,,23,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,22.4,1,1,1,235809,-11.82,158.06,1,0,,,Knuckleball,57,HOOK SHOT,0,0,4,22,120,0,0,0,2,0,0,0,0,0
+404,5,618,2,1,India,Shikhar Dhawan,Luke Jongwe,,23,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,22.4,1,1,0,235810,85.33,82.55,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,22,120,0,0,0,2,0,0,0,0,0
+405,6,618,2,1,India,Shikhar Dhawan,Luke Jongwe,,23,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,22.5,1,1,0,235811,-8.13,15.32,0,0,,,Knuckleball,54,LEG GLANCE,0,0,6,22,120,0,0,0,2,0,0,0,0,0
+406,7,618,2,1,India,Shikhar Dhawan,Luke Jongwe,,23,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,22.6,1,1,0,235812,42.51,8.42,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,7,22,121,0,0,0,2,0,0,0,0,0
+407,1,618,2,1,India,Shikhar Dhawan,Wesley Madhevere,,24,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,23.1,1,1,0,235813,23.64,60.45,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,1,23,121,0,1,0,2,0,0,0,0,0
+408,2,618,2,1,India,Shikhar Dhawan,Wesley Madhevere,,24,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,23.2,1,1,0,235814,70.14,-28.42,0,0,,,Knuckleball,36,CUT SHOT,0,0,2,23,121,0,0,0,2,0,0,0,0,0
+409,3,618,2,1,India,Shikhar Dhawan,Wesley Madhevere,,24,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,23.3,1,1,0,235815,55.41,98.66,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,23,121,0,0,0,2,0,0,0,0,0
+410,4,618,2,1,India,Shikhar Dhawan,Wesley Madhevere,,24,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,23.4,1,1,0,235816,-114.95,-58.35,2,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,23,123,0,0,0,2,0,0,0,0,0
+411,5,618,2,1,India,Shikhar Dhawan,Wesley Madhevere,,24,5,4 (LB),4,0,0,0,0,1,4,0,0,0,1,1,0,0,,,0,23.5,1,1,1,235817,-51.87,-141.22,4,0,,,Knuckleball,22,FRONTFOOT PADDLE SWEEP,0,0,5,23,127,0,0,0,2,0,0,0,0,0
+412,6,618,2,1,India,Shikhar Dhawan,Wesley Madhevere,,24,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,23.6,1,1,0,235818,120.33,35.58,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,23,128,0,0,0,2,0,0,0,0,0
+413,1,618,2,1,India,Shikhar Dhawan,Ryan Burl,,25,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,24.1,1,1,0,235819,-98.38,45.25,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,24,129,0,1,0,2,0,0,0,0,0
+414,2,618,2,1,India,Shubman Gill,Ryan Burl,,25,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,24.2,1,1,0,235820,-161.92,112.94,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,24,133,0,0,0,2,0,0,0,0,0
+415,3,618,2,1,India,Shubman Gill,Ryan Burl,,25,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,24.3,1,1,0,235821,-172.97,-16.91,4,0,,,Knuckleball,59,FRONTFOOT SQUARE DRIVE,0,0,3,24,137,0,0,0,2,0,0,0,0,0
+416,4,618,2,1,India,Shubman Gill,Ryan Burl,,25,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,24.4,1,1,0,235822,-94.69,77.02,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,4,24,138,0,0,0,2,0,0,0,0,0
+417,5,618,2,1,India,Shikhar Dhawan,Ryan Burl,,25,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,24.5,1,1,0,235823,63.69,146.55,2,0,,,Knuckleball,122,STEP DOWN LOFTED OFF DRIVE,0,0,5,24,140,0,0,0,2,0,0,0,0,0
+418,6,618,2,1,India,Shikhar Dhawan,Ryan Burl,,25,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,24.6,1,1,0,235824,50.34,118.92,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,6,24,140,0,0,0,2,0,0,0,0,0
+419,1,618,2,1,India,Shubman Gill,Wesley Madhevere,,26,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,25.1,1,1,0,235825,129.54,160.36,4,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,25,144,0,1,0,2,0,0,0,0,0
+420,2,618,2,1,India,Shubman Gill,Wesley Madhevere,,26,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,25.2,1,1,0,235826,149.79,131.35,6,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,2,25,150,0,0,1,3,0,0,0,0,0
+421,3,618,2,1,India,Shubman Gill,Wesley Madhevere,,26,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,25.3,1,1,0,235827,98.23,84.39,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,25,151,0,0,0,3,0,0,0,0,0
+422,4,618,2,1,India,Shikhar Dhawan,Wesley Madhevere,,26,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,25.4,1,1,0,235828,70.60,78.86,0,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,4,25,151,0,0,0,3,0,0,0,0,0
+423,5,618,2,1,India,Shikhar Dhawan,Wesley Madhevere,,26,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,25.5,1,1,0,235829,65.54,24.53,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,25,152,0,0,0,3,0,0,0,0,0
+424,6,618,2,1,India,Shubman Gill,Wesley Madhevere,,26,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,25.6,1,1,0,235830,54.95,145.63,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,25,153,0,0,0,3,0,0,0,0,0
+425,1,618,2,1,India,Shubman Gill,Richard Ngarava,,27,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,26.1,1,1,0,235831,-69.37,-37.17,0,0,,,Knuckleball,36,CUT SHOT,0,0,1,26,153,0,1,0,3,0,0,0,0,0
+426,2,618,2,1,India,Shubman Gill,Richard Ngarava,,27,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,26.2,1,1,0,235832,-50.03,106.95,0,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,2,26,153,0,0,0,3,0,0,0,0,0
+427,3,618,2,1,India,Shubman Gill,Richard Ngarava,,27,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,26.3,1,1,0,235833,32.38,51.24,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,26,153,0,0,0,3,0,0,0,0,0
+428,4,618,2,1,India,Shubman Gill,Richard Ngarava,,27,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,26.4,1,1,0,235834,-21.95,-147.21,4,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,4,26,157,0,0,0,3,0,0,0,0,0
+429,5,618,2,1,India,Shubman Gill,Richard Ngarava,,27,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,26.5,1,1,0,235835,63.69,73.34,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,26,158,0,0,0,3,0,0,0,0,0
+430,6,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,27,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,26.6,1,1,0,235836,63.69,73.34,0,0,,,Knuckleball,44,GLIDE,0,0,6,26,158,0,0,0,3,0,0,0,0,0
+431,1,618,2,1,India,Shubman Gill,Sikandar Raza,,28,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,27.1,1,1,0,235837,120.79,48.01,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,27,159,0,1,0,3,0,0,0,0,0
+432,2,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,28,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,27.2,1,1,0,235838,-51.41,129.51,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,2,27,160,0,0,0,3,0,0,0,0,0
+433,3,618,2,1,India,Shubman Gill,Sikandar Raza,,28,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,27.3,1,1,0,235839,40.67,110.63,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,27,160,0,0,0,3,0,0,0,0,0
+434,4,618,2,1,India,Shubman Gill,Sikandar Raza,,28,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,27.4,1,1,0,235840,112.96,96.36,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,27,161,0,0,0,3,0,0,0,0,0
+435,5,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,28,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,27.5,1,1,0,235841,91.78,-3.55,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,27,161,0,0,0,3,0,0,0,0,0
+436,6,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,28,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,27.6,1,1,0,235842,-159.15,126.75,4,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,6,27,165,0,0,0,3,0,0,0,0,0
+437,1,618,2,1,India,Shubman Gill,Richard Ngarava,,29,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,28.1,1,1,0,235843,164.99,127.67,4,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,1,28,169,0,1,0,3,0,0,0,0,0
+438,2,618,2,1,India,Shubman Gill,Richard Ngarava,,29,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,28.2,1,1,0,235844,-142.12,69.19,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,28,170,0,0,0,3,0,0,0,0,0
+439,3,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,29,3,5 (WD),5,0,0,0,0,0,5,1,0,0,0,1,0,0,,,0,28.3,1,1,1,235845,-25.17,-143.99,5,0,,,Knuckleball,31,UPPER CUT,0,0,3,28,175,0,0,0,3,0,0,0,0,0
+440,4,618,2,1,India,Shikhar Dhawan,Richard Ngarava,,29,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,28.3,1,1,0,235846,-102.52,-44.07,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,4,28,176,0,0,0,3,0,0,0,0,0
+441,5,618,2,1,India,Shubman Gill,Richard Ngarava,,29,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,28.4,1,1,0,235847,26.40,-143.99,4,0,,,Knuckleball,54,LEG GLANCE,0,0,5,28,180,0,0,0,3,0,0,0,0,0
+442,6,618,2,1,India,Shubman Gill,Richard Ngarava,,29,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,28.5,1,1,0,235848,-36.22,-18.29,0,0,,,Knuckleball,44,GLIDE,0,0,6,28,180,0,0,0,3,0,0,0,0,0
+443,7,618,2,1,India,Shubman Gill,Richard Ngarava,,29,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,28.6,1,1,0,235849,-70.75,-31.64,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,7,28,180,0,0,0,3,0,0,0,0,0
+444,1,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,30,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,29.1,1,1,0,235850,69.68,-7.70,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,29,180,0,1,0,3,0,0,0,0,0
+445,2,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,30,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,29.2,1,1,0,235851,58.63,-7.70,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,29,180,0,0,0,3,0,0,0,0,0
+446,3,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,30,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,29.3,1,1,0,235852,-57.86,94.52,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,29,180,0,0,0,3,0,0,0,0,0
+447,4,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,30,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,29.4,1,1,0,235853,-134.29,156.22,4,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,4,29,184,0,0,0,3,0,0,0,0,0
+448,5,618,2,1,India,Shikhar Dhawan,Sikandar Raza,,30,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,29.5,1,1,0,235854,77.97,129.05,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,5,29,185,0,0,0,3,0,0,0,0,0
+449,6,618,2,1,India,Shubman Gill,Sikandar Raza,,30,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,29.6,1,1,0,235855,-49.11,24.07,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,6,29,185,0,0,0,3,0,0,0,0,0
+450,1,618,2,1,India,Shikhar Dhawan,Brad Evans,,31,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,30.1,1,1,0,235856,-38.52,-27.04,0,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,1,30,185,0,1,0,3,0,0,0,0,0
+451,2,618,2,1,India,Shikhar Dhawan,Brad Evans,,31,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,30.2,1,1,1,235857,-38.52,-27.04,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,30,186,0,0,0,3,0,0,0,0,0
+452,3,618,2,1,India,Shikhar Dhawan,Brad Evans,,31,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,30.2,1,1,0,235858,-126.00,-43.61,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,3,30,187,0,0,0,3,0,0,0,0,0
+453,4,618,2,1,India,Shubman Gill,Brad Evans,,31,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,30.3,1,1,0,235859,-88.71,46.63,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,30,187,0,0,0,3,0,0,0,0,0
+454,5,618,2,1,India,Shubman Gill,Brad Evans,,31,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,30.4,1,1,0,235860,104.21,-52.82,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,5,30,188,0,0,0,3,0,0,0,0,0
+455,6,618,2,1,India,Shikhar Dhawan,Brad Evans,,31,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,30.5,1,1,0,235861,-149.03,-77.22,4,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,6,30,192,0,0,0,3,0,0,0,0,0

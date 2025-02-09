@@ -1,0 +1,241 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,370,1,7,West Indies,Lendl Simmons,Aiden Markram,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.1,1,1,0,149517,82.50,26.50,1,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+1,2,370,1,7,West Indies,Evin Lewis,Aiden Markram,,1,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.2,1,1,1,149518,82.50,26.50,1,0,,25,OFF SPIN,105,LEFT ALONE,0,0,2,0,2,0,0,0,0,0,0,0,0,0
+2,3,370,1,7,West Indies,Evin Lewis,Aiden Markram,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,1,1,0,149519,76.50,-17.00,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,3,0,2,0,0,0,0,0,0,0,0,0
+3,4,370,1,7,West Indies,Evin Lewis,Aiden Markram,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,1,1,0,149520,52.50,129.50,1,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,4,0,3,0,0,0,0,0,0,0,0,0
+4,5,370,1,7,West Indies,Lendl Simmons,Aiden Markram,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,1,1,0,149521,-77.50,-18.50,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,5,0,3,0,0,0,0,0,0,0,0,0
+5,6,370,1,7,West Indies,Lendl Simmons,Aiden Markram,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,1,1,0,149522,51.00,16.00,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,6,0,3,0,0,0,0,0,0,0,0,0
+6,7,370,1,7,West Indies,Lendl Simmons,Aiden Markram,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,1,1,0,149523,-50.50,105.00,1,0,,25,OFF SPIN,84,OFF DRIVE,0,0,7,0,4,0,0,0,0,0,0,0,0,0
+7,1,370,1,7,West Indies,Lendl Simmons,Kagiso Rabada,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,1,1,0,149524,63.50,20.50,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,1,1,4,0,1,0,0,0,0,0,0,0
+8,2,370,1,7,West Indies,Lendl Simmons,Kagiso Rabada,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,1,1,0,149525,63.50,20.50,0,0,,37,NIPPED AWAY,89,SD COVER,0,0,2,1,4,0,0,0,0,0,0,0,0,0
+9,3,370,1,7,West Indies,Lendl Simmons,Kagiso Rabada,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,1,1,0,149526,-88.50,-15.00,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,3,1,4,0,0,0,0,0,0,0,0,0
+10,4,370,1,7,West Indies,Lendl Simmons,Kagiso Rabada,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,1,1,0,149527,-80.00,-97.00,1,0,,39,ANGLED IN,44,GLIDE,0,0,4,1,5,0,0,0,0,0,0,0,0,0
+11,5,370,1,7,West Indies,Evin Lewis,Kagiso Rabada,,2,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,1.5,1,1,1,149528,-80.00,-97.00,1,0,,38,STRAIGHT BALL,54,LEG GLANCE,0,0,5,1,6,0,0,0,0,0,0,0,0,0
+12,6,370,1,7,West Indies,Lendl Simmons,Kagiso Rabada,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,1,1,0,149529,-84.00,-14.50,0,0,,42,OUTSWINGER,97,BACKFOOT PUSH,0,0,6,1,6,0,0,0,0,0,0,0,0,0
+13,1,370,1,7,West Indies,Evin Lewis,Aiden Markram,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,1,1,0,149530,75.00,34.50,0,0,,25,OFF SPIN,52,BACKFOOT COVERDRIVE,0,0,1,2,6,0,1,0,0,0,0,0,0,0
+14,2,370,1,7,West Indies,Evin Lewis,Aiden Markram,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,1,1,0,149531,41.50,33.50,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,2,2,6,0,0,0,0,0,0,0,0,0
+15,3,370,1,7,West Indies,Evin Lewis,Aiden Markram,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,1,1,0,149532,14.50,43.50,0,0,,25,OFF SPIN,50,BACKFOOT DEFENCE,0,0,3,2,6,0,0,0,0,0,0,0,0,0
+16,4,370,1,7,West Indies,Evin Lewis,Aiden Markram,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,1,1,0,149533,-88.50,-17.00,0,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,4,2,6,0,0,0,0,0,0,0,0,0
+17,5,370,1,7,West Indies,Evin Lewis,Aiden Markram,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,1,1,0,149534,-49.00,73.50,0,0,,25,OFF SPIN,50,BACKFOOT DEFENCE,0,0,5,2,6,0,0,0,0,0,0,0,0,0
+18,6,370,1,7,West Indies,Evin Lewis,Aiden Markram,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,1,1,0,149535,82.50,39.00,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,6,2,6,0,0,0,0,0,0,0,0,0
+19,1,370,1,7,West Indies,Lendl Simmons,Kagiso Rabada,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,1,1,0,149536,-89.50,-12.00,0,0,,42,OUTSWINGER,59,SQUARE DRIVE,0,0,1,3,6,0,1,0,0,0,0,0,0,0
+20,2,370,1,7,West Indies,Lendl Simmons,Kagiso Rabada,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.2,1,1,0,149537,-134.50,17.50,1,0,,8,OFF CUTTER,15,LOFT COVER,0,0,2,3,7,0,0,0,0,0,0,0,0,0
+21,3,370,1,7,West Indies,Evin Lewis,Kagiso Rabada,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,1,1,0,149538,-27.00,-3.00,0,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,3,3,7,0,0,0,0,0,0,0,0,0
+22,4,370,1,7,West Indies,Evin Lewis,Kagiso Rabada,,4,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.4,1,1,0,149539,183.00,-11.50,4,0,,8,OFF CUTTER,15,LOFT COVER,0,0,4,3,11,0,0,0,0,0,0,0,0,0
+23,5,370,1,7,West Indies,Evin Lewis,Kagiso Rabada,,4,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.5,1,1,0,149540,6.00,221.50,6,0,,30,ANGLED ACROSS,13,LOFT STRAIGHT,0,0,5,3,17,0,0,0,0,0,0,0,0,0
+24,6,370,1,7,West Indies,Evin Lewis,Kagiso Rabada,,4,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.6,1,1,0,149541,-82.00,9.00,1,0,,8,OFF CUTTER,40,FLICK,0,0,6,3,18,0,0,0,0,0,0,0,0,0
+25,1,370,1,7,West Indies,Evin Lewis,Aiden Markram,,5,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,4.1,1,1,0,149542,-147.50,-10.00,2,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,1,4,20,0,1,0,0,0,0,0,0,0
+26,2,370,1,7,West Indies,Evin Lewis,Aiden Markram,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,1,1,0,149543,-74.50,-12.50,0,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,2,4,20,0,0,0,0,0,0,0,0,0
+27,3,370,1,7,West Indies,Evin Lewis,Aiden Markram,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,1,1,0,149544,9.00,28.00,0,0,,25,OFF SPIN,50,BACKFOOT DEFENCE,0,0,3,4,20,0,0,0,0,0,0,0,0,0
+28,4,370,1,7,West Indies,Evin Lewis,Aiden Markram,,5,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,4.4,1,1,0,149545,-174.50,96.00,6,0,,25,OFF SPIN,58,PULL SHOT,0,0,4,4,26,0,0,0,0,0,0,0,0,0
+29,5,370,1,7,West Indies,Evin Lewis,Aiden Markram,,5,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,4.5,1,1,0,149546,-66.50,205.50,6,0,,25,OFF SPIN,11,LOFT ON,0,0,5,4,32,0,0,0,0,0,0,0,0,0
+30,6,370,1,7,West Indies,Evin Lewis,Aiden Markram,,5,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.6,1,1,0,149547,-140.50,161.00,4,0,,25,OFF SPIN,11,LOFT ON,0,0,6,4,36,0,0,0,0,0,0,0,0,0
+31,1,370,1,7,West Indies,Lendl Simmons,Anrich Nortje,,6,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,5.1,1,1,1,149548,-140.50,161.00,1,0,,39,ANGLED IN,58,PULL SHOT,0,0,1,5,37,0,1,0,0,0,0,0,0,0
+32,2,370,1,7,West Indies,Evin Lewis,Anrich Nortje,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,1,1,0,149549,-40.00,114.50,0,0,,30,ANGLED ACROSS,47,ON DRIVE,0,0,2,5,37,0,0,0,0,0,0,0,0,0
+33,3,370,1,7,West Indies,Evin Lewis,Anrich Nortje,,6,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.3,1,1,0,149550,91.50,197.00,4,0,,30,ANGLED ACROSS,5,LOFT OFF,0,0,3,5,41,0,0,0,0,0,0,0,0,0
+34,4,370,1,7,West Indies,Evin Lewis,Anrich Nortje,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,1,1,0,149551,-59.50,143.50,1,0,,30,ANGLED ACROSS,47,ON DRIVE,0,0,4,5,42,0,0,0,0,0,0,0,0,0
+35,5,370,1,7,West Indies,Lendl Simmons,Anrich Nortje,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,1,1,0,149552,-0.50,-32.00,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,5,5,42,0,0,0,0,0,0,0,0,0
+36,6,370,1,7,West Indies,Lendl Simmons,Anrich Nortje,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,1,1,0,149553,-78.00,16.50,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,6,5,43,0,0,0,0,0,0,0,0,0
+37,1,370,1,7,West Indies,Lendl Simmons,Keshav Maharaj,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,1,1,0,149554,-61.00,152.00,1,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,1,6,44,0,1,0,0,0,0,0,0,0
+38,2,370,1,7,West Indies,Evin Lewis,Keshav Maharaj,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,1,1,0,149555,-91.50,157.00,1,0,,10,ORTHODOX,11,LOFT ON,0,0,2,6,45,0,0,0,0,0,0,0,0,0
+39,3,370,1,7,West Indies,Lendl Simmons,Keshav Maharaj,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.3,1,1,0,149556,-75.00,-14.00,0,0,,10,ORTHODOX,35,LATE CUT,0,0,3,6,45,0,0,0,0,0,0,0,0,0
+40,4,370,1,7,West Indies,Lendl Simmons,Keshav Maharaj,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,1,1,0,149557,-145.50,11.50,1,0,,10,ORTHODOX,52,BACKFOOT COVERDRIVE,0,0,4,6,46,0,0,0,0,0,0,0,0,0
+41,5,370,1,7,West Indies,Evin Lewis,Keshav Maharaj,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,1,1,0,149558,15.00,54.50,0,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,5,6,46,0,0,0,0,0,0,0,0,0
+42,6,370,1,7,West Indies,Evin Lewis,Keshav Maharaj,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,1,1,0,149559,15.00,54.50,0,0,,10,ORTHODOX,55,SWEEP SHOT,0,0,6,6,46,0,0,0,0,0,0,0,0,0
+43,1,370,1,7,West Indies,Lendl Simmons,Anrich Nortje,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,1,1,0,149560,95.50,11.00,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,1,7,46,0,1,0,0,0,0,0,0,0
+44,2,370,1,7,West Indies,Lendl Simmons,Anrich Nortje,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,1,1,0,149561,-39.50,27.00,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,2,7,46,0,0,0,0,0,0,0,0,0
+45,3,370,1,7,West Indies,Lendl Simmons,Anrich Nortje,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,1,1,0,149562,-39.50,27.00,0,0,,39,ANGLED IN,36,CUT SHOT,0,0,3,7,46,0,0,0,0,0,0,0,0,0
+46,4,370,1,7,West Indies,Lendl Simmons,Anrich Nortje,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,1,1,0,149563,-81.00,17.00,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,4,7,47,0,0,0,0,0,0,0,0,0
+47,5,370,1,7,West Indies,Evin Lewis,Anrich Nortje,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,1,1,0,149564,-81.00,17.00,0,0,,30,ANGLED ACROSS,96,Slice,0,0,5,7,47,0,0,0,0,0,0,0,0,0
+48,6,370,1,7,West Indies,Evin Lewis,Anrich Nortje,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,1,1,0,149565,-81.00,17.00,0,0,,38,STRAIGHT BALL,58,PULL SHOT,0,0,6,7,47,0,0,0,0,0,0,0,0,0
+49,1,370,1,7,West Indies,Lendl Simmons,Keshav Maharaj,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,1,1,0,149566,-30.00,60.50,0,0,,10,ORTHODOX,77,SD DEFENCE,0,0,1,8,47,0,1,0,0,0,0,0,0,0
+50,2,370,1,7,West Indies,Lendl Simmons,Keshav Maharaj,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,1,1,0,149567,-93.00,17.00,1,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,2,8,48,0,0,0,0,0,0,0,0,0
+51,3,370,1,7,West Indies,Evin Lewis,Keshav Maharaj,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,1,1,0,149568,-140.50,-32.50,1,0,,10,ORTHODOX,55,SWEEP SHOT,0,0,3,8,49,0,0,0,0,0,0,0,0,0
+52,4,370,1,7,West Indies,Lendl Simmons,Keshav Maharaj,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,1,1,0,149569,73.00,78.50,1,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,4,8,50,0,0,1,1,0,1,0,0,0
+53,5,370,1,7,West Indies,Evin Lewis,Keshav Maharaj,,9,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,8.5,1,1,0,149570,-126.50,172.00,6,0,,10,ORTHODOX,11,LOFT ON,0,0,5,8,56,0,0,0,1,0,0,0,0,0
+54,6,370,1,7,West Indies,Evin Lewis,Keshav Maharaj,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,1,1,0,149571,16.00,65.50,0,0,,10,ORTHODOX,19,BACKFOOT STRAIGHT DRIVE,0,0,6,8,56,0,0,0,1,0,0,0,0,0
+55,1,370,1,7,West Indies,Lendl Simmons,Tabraiz Shamsi,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,1,1,0,149572,-76.50,28.50,1,0,,34,CHINAMAN,49,FORWARD DEFENCE,0,0,1,9,57,0,1,0,1,0,0,0,0,0
+56,2,370,1,7,West Indies,Evin Lewis,Tabraiz Shamsi,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,1,1,0,149573,-91.50,55.00,1,0,,34,CHINAMAN,97,BACKFOOT PUSH,0,0,2,9,58,0,0,0,1,0,0,0,0,0
+57,3,370,1,7,West Indies,Lendl Simmons,Tabraiz Shamsi,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,1,1,0,149574,-53.50,-8.00,0,0,,34,CHINAMAN,50,BACKFOOT DEFENCE,0,0,3,9,58,0,0,0,1,0,0,0,0,0
+58,4,370,1,7,West Indies,Lendl Simmons,Tabraiz Shamsi,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,1,1,0,149575,108.50,-50.50,1,0,,34,CHINAMAN,40,FLICK,0,0,4,9,59,0,0,0,1,0,0,0,0,0
+59,5,370,1,7,West Indies,Evin Lewis,Tabraiz Shamsi,,10,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,9.5,1,1,0,149576,-180.50,50.50,6,0,,34,CHINAMAN,55,SWEEP SHOT,0,0,5,9,65,0,0,0,1,0,0,0,0,0
+60,6,370,1,7,West Indies,Evin Lewis,Tabraiz Shamsi,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,1,1,0,149577,97.00,-5.50,0,0,,34,CHINAMAN,35,LATE CUT,0,0,6,9,65,0,0,0,1,0,0,0,0,0
+61,1,370,1,7,West Indies,Lendl Simmons,Keshav Maharaj,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,1,1,0,149578,-87.50,54.00,1,0,,10,ORTHODOX,52,BACKFOOT COVERDRIVE,0,0,1,10,66,0,1,0,1,0,0,0,0,0
+62,2,370,1,7,West Indies,Evin Lewis,Keshav Maharaj,,11,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,10.2,1,1,0,149579,-30.00,221.50,6,0,,10,ORTHODOX,11,LOFT ON,0,0,2,10,72,0,0,0,1,0,0,0,0,0
+63,3,370,1,7,West Indies,Evin Lewis,Keshav Maharaj,,11,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,10.3,1,1,1,149580,-30.00,221.50,1,0,,23,ARM BALL,105,LEFT ALONE,0,0,3,10,73,0,0,0,1,0,0,0,0,0
+64,4,370,1,7,West Indies,Evin Lewis,Keshav Maharaj,,11,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,10.3,1,1,0,149581,-135.00,79.50,0,0,,10,ORTHODOX,58,PULL SHOT,0,0,4,10,73,1,1,0,1,0,0,0,0,0
+65,5,370,1,7,West Indies,Nicholas Pooran,Keshav Maharaj,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,1,1,0,149582,-135.50,74.00,1,0,,10,ORTHODOX,94,SDL ON,0,0,5,10,74,1,2,0,1,0,0,0,0,0
+66,6,370,1,7,West Indies,Lendl Simmons,Keshav Maharaj,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,1,1,0,149583,-19.50,63.00,0,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,6,10,74,1,0,0,1,0,0,0,0,0
+67,7,370,1,7,West Indies,Lendl Simmons,Keshav Maharaj,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,1,1,0,149584,-47.00,-38.50,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,7,10,74,1,0,0,1,0,0,0,0,0
+68,1,370,1,7,West Indies,Nicholas Pooran,Tabraiz Shamsi,,12,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.1,1,1,0,149585,168.50,-84.50,4,0,,34,CHINAMAN,56,REVERSE SWEEP,0,0,1,11,78,1,1,0,1,0,0,0,0,0
+69,2,370,1,7,West Indies,Nicholas Pooran,Tabraiz Shamsi,,12,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.2,1,1,0,149586,159.00,129.50,4,0,,34,CHINAMAN,51,FRONTFOOT COVERDRIVE,0,0,2,11,82,1,0,0,1,0,0,0,0,0
+70,3,370,1,7,West Indies,Nicholas Pooran,Tabraiz Shamsi,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,1,1,0,149587,156.00,10.00,1,0,,34,CHINAMAN,52,BACKFOOT COVERDRIVE,0,0,3,11,83,1,0,0,1,0,0,0,0,0
+71,4,370,1,7,West Indies,Lendl Simmons,Tabraiz Shamsi,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,1,1,0,149588,-127.00,26.50,1,0,,31,WRONG ONE,77,SD DEFENCE,0,0,4,11,84,1,0,0,1,0,0,0,0,0
+72,5,370,1,7,West Indies,Nicholas Pooran,Tabraiz Shamsi,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,1,1,0,149589,-45.00,-59.00,0,0,,34,CHINAMAN,22,PADDLE SWEEP,0,0,5,11,84,1,0,0,1,0,0,0,0,0
+73,6,370,1,7,West Indies,Nicholas Pooran,Tabraiz Shamsi,,12,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.6,1,1,0,149590,-142.00,-29.00,2,0,,34,CHINAMAN,55,SWEEP SHOT,0,0,6,11,86,1,0,0,1,0,0,0,0,0
+74,1,370,1,7,West Indies,Lendl Simmons,Keshav Maharaj,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,1,1,0,149591,75.50,157.00,1,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,1,12,87,1,1,0,1,0,0,0,0,0
+75,2,370,1,7,West Indies,Nicholas Pooran,Keshav Maharaj,,13,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,12.2,1,1,0,149592,80.50,157.50,0,0,,23,ARM BALL,5,LOFT OFF,0,0,2,12,87,2,2,0,1,0,0,0,0,0
+76,3,370,1,7,West Indies,Chris Gayle,Keshav Maharaj,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,1,1,0,149593,70.00,100.50,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,3,12,87,2,3,0,1,0,0,0,0,0
+77,4,370,1,7,West Indies,Chris Gayle,Keshav Maharaj,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,1,1,0,149594,-92.00,137.00,1,0,,10,ORTHODOX,47,ON DRIVE,0,0,4,12,88,2,0,0,1,0,0,0,0,0
+78,5,370,1,7,West Indies,Lendl Simmons,Keshav Maharaj,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,1,1,0,149595,156.00,-18.00,1,0,,23,ARM BALL,40,FLICK,0,0,5,12,89,2,0,0,1,0,0,0,0,0
+79,6,370,1,7,West Indies,Chris Gayle,Keshav Maharaj,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,1,1,0,149596,156.00,-18.00,0,0,,10,ORTHODOX,55,SWEEP SHOT,0,0,6,12,89,2,0,0,1,0,0,0,0,0
+80,1,370,1,7,West Indies,Lendl Simmons,Kagiso Rabada,,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.1,1,1,0,149597,82.50,35.00,0,0,,39,ANGLED IN,58,PULL SHOT,0,0,1,13,89,2,1,0,1,0,0,0,0,0
+81,2,370,1,7,West Indies,Lendl Simmons,Kagiso Rabada,,14,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,13.2,1,1,0,149598,82.50,35.00,0,0,,46,LEGCUTTER,11,LOFT ON,0,0,2,13,89,3,2,0,1,0,0,0,0,0
+82,3,370,1,7,West Indies,Kieron Pollard,Kagiso Rabada,,14,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,13.3,1,1,0,149599,155.50,-16.00,2,0,,39,ANGLED IN,40,FLICK,0,0,3,13,91,3,3,0,1,0,0,0,0,0
+83,4,370,1,7,West Indies,Kieron Pollard,Kagiso Rabada,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,1,1,0,149600,-79.50,42.50,1,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,4,13,92,3,0,0,1,0,0,0,0,0
+84,5,370,1,7,West Indies,Chris Gayle,Kagiso Rabada,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,1,1,0,149601,55.50,-49.00,1,0,,8,OFF CUTTER,44,GLIDE,0,0,5,13,93,3,0,0,1,0,0,0,0,0
+85,6,370,1,7,West Indies,Kieron Pollard,Kagiso Rabada,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,1,1,0,149602,-39.00,25.50,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,6,13,93,3,0,0,1,0,0,0,0,0
+86,1,370,1,7,West Indies,Chris Gayle,Anrich Nortje,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.1,1,1,0,149603,82.00,-11.00,0,0,,46,LEGCUTTER,97,BACKFOOT PUSH,0,0,1,14,93,3,1,0,1,0,0,0,0,0
+87,2,370,1,7,West Indies,Chris Gayle,Anrich Nortje,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,1,1,0,149604,-56.50,110.00,1,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,2,14,94,3,0,0,1,0,0,0,0,0
+88,3,370,1,7,West Indies,Kieron Pollard,Anrich Nortje,,15,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.3,1,1,0,149605,12.00,36.50,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,3,14,94,3,0,0,1,0,0,0,0,0
+89,4,370,1,7,West Indies,Kieron Pollard,Anrich Nortje,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.4,1,1,0,149606,-89.50,-13.00,0,0,,38,STRAIGHT BALL,59,SQUARE DRIVE,0,0,4,14,94,3,0,0,1,0,0,0,0,0
+90,5,370,1,7,West Indies,Kieron Pollard,Anrich Nortje,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,1,1,0,149607,72.00,153.50,1,0,,39,ANGLED IN,47,ON DRIVE,0,0,5,14,95,3,0,0,1,0,0,0,0,0
+91,6,370,1,7,West Indies,Chris Gayle,Anrich Nortje,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,1,1,0,149608,70.00,12.50,0,0,,46,LEGCUTTER,97,BACKFOOT PUSH,0,0,6,14,95,3,0,0,1,0,0,0,0,0
+92,1,370,1,7,West Indies,Kieron Pollard,Tabraiz Shamsi,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,1,1,0,149609,87.00,26.00,0,0,,34,CHINAMAN,97,BACKFOOT PUSH,0,0,1,15,95,3,1,0,1,0,0,0,0,0
+93,2,370,1,7,West Indies,Kieron Pollard,Tabraiz Shamsi,,16,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.2,1,1,0,149610,185.50,67.00,6,0,,34,CHINAMAN,55,SWEEP SHOT,0,0,2,15,101,3,0,1,2,0,0,1,0,0
+94,3,370,1,7,West Indies,Kieron Pollard,Tabraiz Shamsi,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,1,1,0,149611,87.00,152.50,1,0,,34,CHINAMAN,101,BACKFOOT ON DRIVE,0,0,3,15,102,3,0,0,2,0,0,0,0,0
+95,4,370,1,7,West Indies,Chris Gayle,Tabraiz Shamsi,,16,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.4,1,1,0,149612,-59.00,203.00,6,0,,34,CHINAMAN,11,LOFT ON,0,0,4,15,108,3,0,0,2,0,0,0,0,0
+96,5,370,1,7,West Indies,Chris Gayle,Tabraiz Shamsi,,16,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,15.5,1,1,1,149613,-59.00,203.00,1,0,,34,CHINAMAN,105,LEFT ALONE,0,0,5,15,109,3,0,0,2,0,0,0,0,0
+97,6,370,1,7,West Indies,Chris Gayle,Tabraiz Shamsi,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,1,1,0,149614,96.50,154.50,1,0,,34,CHINAMAN,6,BACKFOOT OFF DRIVE,0,0,6,15,110,3,0,0,2,0,0,0,0,0
+98,7,370,1,7,West Indies,Kieron Pollard,Tabraiz Shamsi,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,1,1,0,149615,120.50,-16.00,1,0,,34,CHINAMAN,40,FLICK,0,0,7,15,111,3,0,0,2,0,0,0,0,0
+99,1,370,1,7,West Indies,Kieron Pollard,Kagiso Rabada,,17,1,1 (NB),1,0,0,0,0,1,1,0,1,0,0,0,0,0,,,0,16.1,1,1,1,149616,-10.00,19.50,1,0,,38,STRAIGHT BALL,84,OFF DRIVE,0,0,1,16,112,3,1,0,2,0,0,0,0,0
+100,2,370,1,7,West Indies,Kieron Pollard,Kagiso Rabada,,17,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.1,1,1,0,149617,171.50,129.50,4,0,,39,ANGLED IN,18,SLOG SHOT,0,0,2,16,116,3,0,0,2,0,0,0,0,0
+101,3,370,1,7,West Indies,Kieron Pollard,Kagiso Rabada,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,1,1,0,149618,122.50,-51.50,1,0,,39,ANGLED IN,58,PULL SHOT,0,0,3,16,117,3,0,0,2,0,0,0,0,0
+102,4,370,1,7,West Indies,Chris Gayle,Kagiso Rabada,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,1,1,0,149619,-142.50,79.50,1,0,,16,SLOW BOUNCER,58,PULL SHOT,0,0,4,16,118,3,0,0,2,0,0,0,0,0
+103,5,370,1,7,West Indies,Kieron Pollard,Kagiso Rabada,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,1,1,0,149620,123.50,-48.00,1,0,,39,ANGLED IN,40,FLICK,0,0,5,16,119,3,0,0,2,0,0,0,0,0
+104,6,370,1,7,West Indies,Chris Gayle,Kagiso Rabada,,17,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,16.5,1,1,1,149621,123.50,-48.00,1,0,,8,OFF CUTTER,105,LEFT ALONE,0,0,6,16,120,3,0,0,2,0,0,0,0,0
+105,7,370,1,7,West Indies,Chris Gayle,Kagiso Rabada,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,1,1,0,149622,-146.50,19.50,1,0,,16,SLOW BOUNCER,58,PULL SHOT,0,0,7,16,121,3,0,0,2,0,0,0,0,0
+106,8,370,1,7,West Indies,Kieron Pollard,Kagiso Rabada,,17,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.6,1,1,0,149623,-74.00,-34.00,0,0,,38,STRAIGHT BALL,44,GLIDE,0,0,8,16,121,3,0,0,2,0,0,0,0,0
+107,1,370,1,7,West Indies,Chris Gayle,Dwaine Pretorius,,18,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,17.1,1,1,0,149624,16.00,-32.50,0,0,,8,OFF CUTTER,5,LOFT OFF,0,0,1,17,121,4,1,0,2,0,0,0,0,0
+108,2,370,1,7,West Indies,Andre Russell,Dwaine Pretorius,,18,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.2,1,1,0,149625,-25.00,219.00,4,0,,38,STRAIGHT BALL,13,LOFT STRAIGHT,0,0,2,17,125,4,2,0,2,0,0,0,0,0
+109,3,370,1,7,West Indies,Andre Russell,Dwaine Pretorius,,18,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.3,1,1,0,149626,-25.00,219.00,0,0,,8,OFF CUTTER,11,LOFT ON,0,0,3,17,125,4,0,0,2,0,0,0,0,0
+110,4,370,1,7,West Indies,Andre Russell,Dwaine Pretorius,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,1,1,0,149627,-149.00,14.50,1,0,,20,BACKHAND SLOWER,52,BACKFOOT COVERDRIVE,0,0,4,17,126,4,0,0,2,0,0,0,0,0
+111,5,370,1,7,West Indies,Kieron Pollard,Dwaine Pretorius,,18,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.5,1,1,0,149628,34.00,211.00,4,0,,8,OFF CUTTER,13,LOFT STRAIGHT,0,0,5,17,130,4,0,0,2,0,0,0,0,0
+112,6,370,1,7,West Indies,Kieron Pollard,Dwaine Pretorius,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,1,1,0,149629,-64.50,161.50,1,0,,38,STRAIGHT BALL,84,OFF DRIVE,0,0,6,17,131,4,0,0,2,0,0,0,0,0
+113,1,370,1,7,West Indies,Kieron Pollard,Anrich Nortje,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,1,1,0,149630,-103.50,142.50,1,0,,38,STRAIGHT BALL,84,OFF DRIVE,0,0,1,18,132,4,1,0,2,0,0,0,0,0
+114,2,370,1,7,West Indies,Andre Russell,Anrich Nortje,,19,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,18.2,1,1,0,149631,-103.50,142.50,0,0,,39,ANGLED IN,11,LOFT ON,0,0,2,18,132,5,2,0,2,0,0,0,0,0
+115,3,370,1,7,West Indies,Shimron Hetmyer,Anrich Nortje,,19,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.3,1,1,0,149632,86.50,23.50,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,3,18,132,5,3,0,2,0,0,0,0,0
+116,4,370,1,7,West Indies,Shimron Hetmyer,Anrich Nortje,,19,4,1 WK,1,1,1,0,0,0,0,0,0,0,0,0,0,1,Run Out,WICKET,0,18.4,1,1,0,149633,85.50,143.00,1,0,,30,ANGLED ACROSS,5,LOFT OFF,0,0,4,18,133,6,0,0,2,0,0,0,0,0
+117,5,370,1,7,West Indies,Dwayne Bravo,Anrich Nortje,,19,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.5,1,1,0,149634,-84.00,-20.00,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,5,18,134,6,0,0,2,0,0,0,0,0
+118,6,370,1,7,West Indies,Kieron Pollard,Anrich Nortje,,19,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.6,1,1,0,149635,-107.50,127.50,2,0,,38,STRAIGHT BALL,84,OFF DRIVE,0,0,6,18,136,6,0,0,2,0,0,0,0,0
+119,1,370,1,7,West Indies,Dwayne Bravo,Dwaine Pretorius,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.1,1,1,0,149636,-132.00,-36.50,1,0,,8,OFF CUTTER,15,LOFT COVER,0,0,1,19,137,6,1,0,2,0,0,0,0,0
+120,2,370,1,7,West Indies,Kieron Pollard,Dwaine Pretorius,,20,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.2,1,1,0,149637,10.00,129.00,0,0,,8,OFF CUTTER,13,LOFT STRAIGHT,0,0,2,19,137,7,2,0,2,0,0,0,0,0
+121,3,370,1,7,West Indies,Hayden Walsh,Dwaine Pretorius,,20,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.3,1,1,0,149638,141.50,90.50,0,0,,8,OFF CUTTER,15,LOFT COVER,0,0,3,19,137,8,0,0,2,0,0,0,0,0
+122,4,370,1,7,West Indies,Dwayne Bravo,Dwaine Pretorius,,20,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.4,1,1,0,149639,-154.00,134.00,4,0,,20,BACKHAND SLOWER,15,LOFT COVER,0,0,4,19,141,8,1,0,2,0,0,0,0,0
+123,5,370,1,7,West Indies,Dwayne Bravo,Dwaine Pretorius,,20,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.5,1,1,0,149640,-154.00,134.00,0,0,,8,OFF CUTTER,11,LOFT ON,0,0,5,19,141,8,0,0,2,0,0,0,0,0
+124,6,370,1,7,West Indies,Dwayne Bravo,Dwaine Pretorius,,20,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.6,1,1,0,149641,-83.50,164.00,2,0,,39,ANGLED IN,5,LOFT OFF,0,0,6,19,143,8,0,0,2,0,0,0,0,0
+125,1,370,2,5,South Africa,Temba Bavuma,Akeal Hosein,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,149642,128.50,-28.50,1,0,,23,ARM BALL,40,FLICK,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+126,2,370,2,5,South Africa,Reeza Hendricks,Akeal Hosein,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,149643,143.00,62.00,1,0,,23,ARM BALL,40,FLICK,0,0,2,0,2,0,0,0,0,0,0,0,0,0
+127,3,370,2,5,South Africa,Temba Bavuma,Akeal Hosein,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,149644,63.50,110.00,1,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,3,0,3,0,0,0,0,0,0,0,0,0
+128,4,370,2,5,South Africa,Reeza Hendricks,Akeal Hosein,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,149645,-29.00,49.50,0,0,,23,ARM BALL,50,BACKFOOT DEFENCE,0,0,4,0,3,0,0,0,0,0,0,0,0,0
+129,5,370,2,5,South Africa,Reeza Hendricks,Akeal Hosein,,1,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,149646,135.00,79.50,1,0,,23,ARM BALL,40,FLICK,0,0,5,0,4,0,0,0,0,0,0,0,0,0
+130,6,370,2,5,South Africa,Temba Bavuma,Akeal Hosein,,1,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,0.6,2,1,0,149647,76.00,103.00,0,0,,23,ARM BALL,27,FORWARD PUSH,0,0,6,0,4,1,0,0,0,0,0,0,0,0
+131,1,370,2,5,South Africa,Rassie van der Dussen,Ravi Rampaul,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,149648,-144.50,5.00,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,1,1,4,1,1,0,0,0,0,0,0,0
+132,2,370,2,5,South Africa,Rassie van der Dussen,Ravi Rampaul,,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,149649,-144.50,5.00,1,0,,37,NIPPED AWAY,52,BACKFOOT COVERDRIVE,0,0,2,1,5,1,0,0,0,0,0,0,0,0
+133,3,370,2,5,South Africa,Reeza Hendricks,Ravi Rampaul,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,149650,-11.00,38.50,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,3,1,5,1,0,0,0,0,0,0,0,0
+134,4,370,2,5,South Africa,Reeza Hendricks,Ravi Rampaul,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,149651,-11.00,38.50,0,0,,43,NIPBACKER,49,FORWARD DEFENCE,0,0,4,1,5,1,0,0,0,0,0,0,0,0
+135,5,370,2,5,South Africa,Reeza Hendricks,Ravi Rampaul,,2,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,149652,100.50,16.50,1,0,,39,ANGLED IN,40,FLICK,0,0,5,1,6,1,0,0,0,0,0,0,0,0
+136,6,370,2,5,South Africa,Rassie van der Dussen,Ravi Rampaul,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,149653,-69.50,-19.50,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,6,1,6,1,0,0,0,0,0,0,0,0
+137,1,370,2,5,South Africa,Reeza Hendricks,Akeal Hosein,,3,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,2.1,2,1,0,149654,60.50,207.50,6,0,,23,ARM BALL,11,LOFT ON,0,0,1,2,12,1,1,0,0,0,0,0,0,0
+138,2,370,2,5,South Africa,Reeza Hendricks,Akeal Hosein,,3,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.2,2,1,0,149655,169.00,-71.00,4,0,,23,ARM BALL,58,PULL SHOT,0,0,2,2,16,1,0,0,0,0,0,0,0,0
+139,3,370,2,5,South Africa,Reeza Hendricks,Akeal Hosein,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,149656,69.00,82.00,1,0,,23,ARM BALL,27,FORWARD PUSH,0,0,3,2,17,1,0,0,0,0,0,0,0,0
+140,4,370,2,5,South Africa,Rassie van der Dussen,Akeal Hosein,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,149657,84.50,24.00,0,0,,23,ARM BALL,40,FLICK,0,0,4,2,17,1,0,0,0,0,0,0,0,0
+141,5,370,2,5,South Africa,Rassie van der Dussen,Akeal Hosein,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,149658,74.50,35.00,0,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,5,2,17,1,0,0,0,0,0,0,0,0
+142,6,370,2,5,South Africa,Rassie van der Dussen,Akeal Hosein,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,149659,73.50,27.00,0,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,6,2,17,1,0,0,0,0,0,0,0,0
+143,1,370,2,5,South Africa,Reeza Hendricks,Ravi Rampaul,,4,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.1,2,1,0,149660,-131.00,-110.00,4,0,,46,LEGCUTTER,36,CUT SHOT,0,0,1,3,21,1,1,0,0,0,0,0,0,0
+144,2,370,2,5,South Africa,Reeza Hendricks,Ravi Rampaul,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,149661,138.00,-61.50,1,0,,39,ANGLED IN,40,FLICK,0,0,2,3,22,1,0,0,0,0,0,0,0,0
+145,3,370,2,5,South Africa,Rassie van der Dussen,Ravi Rampaul,,4,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,149662,-14.50,42.50,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,3,3,22,1,0,0,0,0,0,0,0,0
+146,4,370,2,5,South Africa,Rassie van der Dussen,Ravi Rampaul,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,149663,95.00,-93.00,1,0,,39,ANGLED IN,40,FLICK,0,0,4,3,23,1,0,0,0,0,0,0,0,0
+147,5,370,2,5,South Africa,Reeza Hendricks,Ravi Rampaul,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,149664,139.50,86.50,1,0,,46,LEGCUTTER,40,FLICK,0,0,5,3,24,1,0,0,0,0,0,0,0,0
+148,6,370,2,5,South Africa,Rassie van der Dussen,Ravi Rampaul,,4,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,149665,139.00,75.50,2,0,,39,ANGLED IN,40,FLICK,0,0,6,3,26,1,0,0,0,0,0,0,0,0
+149,1,370,2,5,South Africa,Reeza Hendricks,Andre Russell,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,149666,141.50,45.50,1,0,,39,ANGLED IN,40,FLICK,0,0,1,4,27,1,1,0,0,0,0,0,0,0
+150,2,370,2,5,South Africa,Rassie van der Dussen,Andre Russell,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,149667,143.00,-16.00,1,0,,39,ANGLED IN,40,FLICK,0,0,2,4,28,1,0,0,0,0,0,0,0,0
+151,3,370,2,5,South Africa,Reeza Hendricks,Andre Russell,,5,3,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,149668,134.50,167.50,3,0,,38,STRAIGHT BALL,15,LOFT COVER,0,0,3,4,31,1,0,0,0,0,0,0,0,0
+152,4,370,2,5,South Africa,Rassie van der Dussen,Andre Russell,,5,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,149669,134.50,167.50,1,0,,39,ANGLED IN,40,FLICK,0,0,4,4,32,1,0,0,0,0,0,0,0,0
+153,5,370,2,5,South Africa,Reeza Hendricks,Andre Russell,,5,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.5,2,1,0,149670,134.50,167.50,4,0,,,Knuckleball,58,PULL SHOT,0,0,5,4,36,1,0,0,0,0,0,0,0,0
+154,6,370,2,5,South Africa,Reeza Hendricks,Andre Russell,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,149671,134.50,167.50,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,4,36,1,0,0,0,0,0,0,0,0
+155,1,370,2,5,South Africa,Rassie van der Dussen,Akeal Hosein,,6,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,149672,145.50,-33.50,2,0,,23,ARM BALL,40,FLICK,0,0,1,5,38,1,1,0,0,0,0,0,0,0
+156,2,370,2,5,South Africa,Rassie van der Dussen,Akeal Hosein,,6,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,149673,127.00,-44.50,1,0,,,Knuckleball,40,FLICK,0,0,2,5,39,1,0,0,0,0,0,0,0,0
+157,3,370,2,5,South Africa,Reeza Hendricks,Akeal Hosein,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,149674,-40.00,99.00,0,0,,23,ARM BALL,6,BACKFOOT OFF DRIVE,0,0,3,5,39,1,0,0,0,0,0,0,0,0
+158,4,370,2,5,South Africa,Reeza Hendricks,Akeal Hosein,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,149675,135.00,88.00,1,0,,23,ARM BALL,40,FLICK,0,0,4,5,40,1,0,0,0,0,0,0,0,0
+159,5,370,2,5,South Africa,Rassie van der Dussen,Akeal Hosein,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,149676,132.50,86.50,1,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,5,5,41,1,0,0,0,0,0,0,0,0
+160,6,370,2,5,South Africa,Reeza Hendricks,Akeal Hosein,,6,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,149677,139.50,77.00,1,0,,23,ARM BALL,58,PULL SHOT,0,0,6,5,42,1,0,0,0,0,0,0,0,0
+161,1,370,2,5,South Africa,Reeza Hendricks,Hayden Walsh,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,149678,-126.00,-18.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,1,6,43,1,1,0,0,0,0,0,0,0
+162,2,370,2,5,South Africa,Rassie van der Dussen,Hayden Walsh,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,149679,-146.50,16.50,1,0,,24,LEG SPIN,52,BACKFOOT COVERDRIVE,0,0,2,6,44,1,0,0,0,0,0,0,0,0
+163,3,370,2,5,South Africa,Reeza Hendricks,Hayden Walsh,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,149680,-89.50,149.50,1,0,,24,LEG SPIN,84,OFF DRIVE,0,0,3,6,45,1,0,0,0,0,0,0,0,0
+164,4,370,2,5,South Africa,Rassie van der Dussen,Hayden Walsh,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,149681,-89.50,149.50,0,0,,28,GOOGLY,40,FLICK,0,0,4,6,45,1,0,0,0,0,0,0,0,0
+165,5,370,2,5,South Africa,Rassie van der Dussen,Hayden Walsh,,7,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,6.5,2,1,1,149682,-89.50,149.50,1,0,,28,GOOGLY,54,LEG GLANCE,0,0,5,6,46,1,0,0,0,0,0,0,0,0
+166,6,370,2,5,South Africa,Rassie van der Dussen,Hayden Walsh,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,149683,93.00,142.50,1,0,,24,LEG SPIN,47,ON DRIVE,0,0,6,6,47,1,0,0,0,0,0,0,0,0
+167,7,370,2,5,South Africa,Reeza Hendricks,Hayden Walsh,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,149684,-77.00,44.50,0,0,,24,LEG SPIN,52,BACKFOOT COVERDRIVE,0,0,7,6,47,1,0,0,0,0,0,0,0,0
+168,1,370,2,5,South Africa,Rassie van der Dussen,Dwayne Bravo,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,149685,99.00,152.50,1,0,,38,STRAIGHT BALL,47,ON DRIVE,0,0,1,7,48,1,1,0,0,0,0,0,0,0
+169,2,370,2,5,South Africa,Reeza Hendricks,Dwayne Bravo,,8,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,7.2,2,1,1,149686,99.00,152.50,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,2,7,49,1,0,0,0,0,0,0,0,0
+170,3,370,2,5,South Africa,Reeza Hendricks,Dwayne Bravo,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,149687,99.00,152.50,0,0,,37,NIPPED AWAY,52,BACKFOOT COVERDRIVE,0,0,3,7,49,1,0,0,0,0,0,0,0,0
+171,4,370,2,5,South Africa,Reeza Hendricks,Dwayne Bravo,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,149688,132.50,-37.50,1,0,,39,ANGLED IN,40,FLICK,0,0,4,7,50,1,0,1,1,0,1,0,0,0
+172,5,370,2,5,South Africa,Rassie van der Dussen,Dwayne Bravo,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,149689,137.00,88.00,1,0,,39,ANGLED IN,40,FLICK,0,0,5,7,51,1,0,0,1,0,0,0,0,0
+173,6,370,2,5,South Africa,Reeza Hendricks,Dwayne Bravo,,8,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.5,2,1,0,149690,-180.50,109.00,4,0,,8,OFF CUTTER,15,LOFT COVER,0,0,6,7,55,1,0,0,1,0,0,0,0,0
+174,7,370,2,5,South Africa,Reeza Hendricks,Dwayne Bravo,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,149691,-80.00,42.50,0,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,7,7,55,1,0,0,1,0,0,0,0,0
+175,1,370,2,5,South Africa,Rassie van der Dussen,Hayden Walsh,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,149692,-24.00,-66.50,1,0,,24,LEG SPIN,56,REVERSE SWEEP,0,0,1,8,56,1,1,0,1,0,0,0,0,0
+176,2,370,2,5,South Africa,Reeza Hendricks,Hayden Walsh,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,149693,-149.50,-18.00,1,0,,28,GOOGLY,51,FRONTFOOT COVERDRIVE,0,0,2,8,57,1,0,0,1,0,0,0,0,0
+177,3,370,2,5,South Africa,Rassie van der Dussen,Hayden Walsh,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,149694,138.00,-38.00,1,0,,,Knuckleball,40,FLICK,0,0,3,8,58,1,0,0,1,0,0,0,0,0
+178,4,370,2,5,South Africa,Reeza Hendricks,Hayden Walsh,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,149695,-139.00,14.50,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,8,59,1,0,0,1,0,0,0,0,0
+179,5,370,2,5,South Africa,Rassie van der Dussen,Hayden Walsh,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,149696,148.00,47.50,1,0,,,Knuckleball,40,FLICK,0,0,5,8,60,1,0,0,1,0,0,0,0,0
+180,6,370,2,5,South Africa,Reeza Hendricks,Hayden Walsh,,9,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,149697,-84.50,41.00,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,8,60,1,0,0,1,0,0,0,0,0
+181,1,370,2,5,South Africa,Rassie van der Dussen,Akeal Hosein,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,149698,149.50,-25.00,1,0,,,Knuckleball,40,FLICK,0,0,1,9,61,1,1,0,1,0,0,0,0,0
+182,2,370,2,5,South Africa,Reeza Hendricks,Akeal Hosein,,10,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,9.2,2,1,0,149699,152.50,-23.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,2,9,61,2,2,0,1,0,0,0,0,0
+183,3,370,2,5,South Africa,Aiden Markram,Akeal Hosein,,10,3,3 (WD),3,0,0,0,0,0,3,1,0,0,0,0,0,0,,,0,9.3,2,1,1,149700,152.50,-23.00,3,0,,23,ARM BALL,54,LEG GLANCE,0,0,3,9,64,2,3,0,1,0,0,0,0,0
+184,4,370,2,5,South Africa,Aiden Markram,Akeal Hosein,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,149701,-81.50,141.00,1,0,,23,ARM BALL,21,SD OFF,0,0,4,9,65,2,0,0,1,0,0,0,0,0
+185,5,370,2,5,South Africa,Rassie van der Dussen,Akeal Hosein,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,149702,74.00,40.50,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,9,65,2,0,0,1,0,0,0,0,0
+186,6,370,2,5,South Africa,Rassie van der Dussen,Akeal Hosein,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,149703,74.00,23.00,0,0,,23,ARM BALL,58,PULL SHOT,0,0,6,9,65,2,0,0,1,0,0,0,0,0
+187,7,370,2,5,South Africa,Rassie van der Dussen,Akeal Hosein,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,149704,-75.50,143.50,1,0,,23,ARM BALL,6,BACKFOOT OFF DRIVE,0,0,7,9,66,2,0,0,1,0,0,0,0,0
+188,1,370,2,5,South Africa,Rassie van der Dussen,Hayden Walsh,,11,1,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,0,,,0,10.1,2,1,1,149705,-75.50,143.50,2,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,10,68,2,1,0,1,0,0,0,0,0
+189,2,370,2,5,South Africa,Aiden Markram,Hayden Walsh,,11,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,149706,61.00,-110.00,2,0,,,Knuckleball,40,FLICK,0,0,2,10,70,2,0,0,1,0,0,0,0,0
+190,3,370,2,5,South Africa,Aiden Markram,Hayden Walsh,,11,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,149707,61.00,-110.00,2,0,,,Knuckleball,99,SCOOP,0,0,3,10,72,2,0,0,1,0,0,0,0,0
+191,4,370,2,5,South Africa,Aiden Markram,Hayden Walsh,,11,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,149708,-126.00,-51.00,2,0,,,Knuckleball,36,CUT SHOT,0,0,4,10,74,2,0,0,1,0,0,0,0,0
+192,5,370,2,5,South Africa,Aiden Markram,Hayden Walsh,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,149709,-114.00,128.50,1,0,,,Knuckleball,84,OFF DRIVE,0,0,5,10,75,2,0,0,1,0,0,0,0,0
+193,6,370,2,5,South Africa,Rassie van der Dussen,Hayden Walsh,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,149710,145.50,25.50,1,0,,,Knuckleball,40,FLICK,0,0,6,10,76,2,0,0,1,0,0,0,0,0
+194,7,370,2,5,South Africa,Aiden Markram,Hayden Walsh,,11,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,10.6,2,1,0,149711,116.50,174.00,6,0,,,Knuckleball,11,LOFT ON,0,0,7,10,82,2,0,0,1,0,0,0,0,0
+195,1,370,2,5,South Africa,Rassie van der Dussen,Kieron Pollard,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,149712,-149.00,-13.00,1,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,1,11,83,2,1,0,1,0,0,0,0,0
+196,2,370,2,5,South Africa,Aiden Markram,Kieron Pollard,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,149713,68.00,139.00,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,2,11,84,2,0,0,1,0,0,0,0,0
+197,3,370,2,5,South Africa,Rassie van der Dussen,Kieron Pollard,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,149714,110.00,124.50,1,0,,8,OFF CUTTER,101,BACKFOOT ON DRIVE,0,0,3,11,85,2,0,0,1,0,0,0,0,0
+198,4,370,2,5,South Africa,Aiden Markram,Kieron Pollard,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,149715,-29.00,58.00,0,0,,38,STRAIGHT BALL,84,OFF DRIVE,0,0,4,11,85,2,0,0,1,0,0,0,0,0
+199,5,370,2,5,South Africa,Aiden Markram,Kieron Pollard,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,149716,-29.00,58.00,0,0,,,Knuckleball,40,FLICK,0,0,5,11,85,2,0,0,1,0,0,0,0,0
+200,6,370,2,5,South Africa,Aiden Markram,Kieron Pollard,,12,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,11.6,2,1,0,149717,189.50,-19.00,6,0,,8,OFF CUTTER,58,PULL SHOT,0,0,6,11,91,2,0,0,1,0,0,0,0,0
+201,1,370,2,5,South Africa,Rassie van der Dussen,Andre Russell,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,149718,-83.00,15.50,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,1,12,92,2,1,0,1,0,0,0,0,0
+202,2,370,2,5,South Africa,Aiden Markram,Andre Russell,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,149719,65.50,163.00,1,0,,38,STRAIGHT BALL,47,ON DRIVE,0,0,2,12,93,2,0,0,1,0,0,0,0,0
+203,3,370,2,5,South Africa,Rassie van der Dussen,Andre Russell,,13,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,149720,-65.00,26.00,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,12,93,2,0,0,1,0,0,0,0,0
+204,4,370,2,5,South Africa,Rassie van der Dussen,Andre Russell,,13,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.4,2,1,0,149721,177.00,-25.50,4,0,,,Knuckleball,58,PULL SHOT,0,0,4,12,97,2,0,0,1,0,0,0,0,0
+205,5,370,2,5,South Africa,Rassie van der Dussen,Andre Russell,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,149722,177.00,-25.50,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,5,12,97,2,0,0,1,0,0,0,0,0
+206,6,370,2,5,South Africa,Rassie van der Dussen,Andre Russell,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,149723,-130.50,39.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,6,12,98,2,0,0,1,0,0,0,0,0
+207,1,370,2,5,South Africa,Rassie van der Dussen,Dwayne Bravo,,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,149724,-18.00,-58.50,0,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,13,98,2,1,0,1,0,0,0,0,0
+208,2,370,2,5,South Africa,Rassie van der Dussen,Dwayne Bravo,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,149725,13.00,41.50,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,13,98,2,0,0,1,0,0,0,0,0
+209,3,370,2,5,South Africa,Rassie van der Dussen,Dwayne Bravo,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,149726,55.50,29.50,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,13,98,2,0,0,1,0,0,0,0,0
+210,4,370,2,5,South Africa,Rassie van der Dussen,Dwayne Bravo,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,149727,82.00,37.50,0,0,,,Knuckleball,40,FLICK,0,0,4,13,98,2,0,0,1,0,0,0,0,0
+211,5,370,2,5,South Africa,Rassie van der Dussen,Dwayne Bravo,,14,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,13.5,2,1,1,149728,82.00,37.50,1,0,,,Knuckleball,40,FLICK,0,0,5,13,99,2,0,0,1,0,0,0,0,0
+212,6,370,2,5,South Africa,Aiden Markram,Dwayne Bravo,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,149729,111.50,128.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,6,13,100,2,0,1,2,0,0,1,0,0
+213,1,370,2,5,South Africa,Aiden Markram,Ravi Rampaul,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,149730,92.00,142.50,1,0,,,Knuckleball,101,BACKFOOT ON DRIVE,0,0,1,14,101,2,1,0,2,0,0,0,0,0
+214,2,370,2,5,South Africa,Rassie van der Dussen,Ravi Rampaul,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,149731,134.00,71.00,1,0,,46,LEGCUTTER,58,PULL SHOT,0,0,2,14,102,2,0,0,2,0,0,0,0,0
+215,3,370,2,5,South Africa,Aiden Markram,Ravi Rampaul,,15,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,14.3,2,1,0,149732,190.50,19.50,6,0,,,Knuckleball,18,SLOG SHOT,0,0,3,14,108,2,0,0,2,0,0,0,0,0
+216,4,370,2,5,South Africa,Aiden Markram,Ravi Rampaul,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,149733,71.50,151.00,1,0,,38,STRAIGHT BALL,47,ON DRIVE,0,0,4,14,109,2,0,0,2,0,0,0,0,0
+217,5,370,2,5,South Africa,Rassie van der Dussen,Ravi Rampaul,,15,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,14.5,2,1,1,149734,71.50,151.00,1,0,,38,STRAIGHT BALL,105,LEFT ALONE,0,0,5,14,110,2,0,0,2,0,0,0,0,0
+218,6,370,2,5,South Africa,Rassie van der Dussen,Ravi Rampaul,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,149735,65.50,35.00,0,0,,,Knuckleball,58,PULL SHOT,0,0,6,14,110,2,0,0,2,0,0,0,0,0
+219,7,370,2,5,South Africa,Rassie van der Dussen,Ravi Rampaul,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,149736,54.00,-59.00,1,0,,38,STRAIGHT BALL,40,FLICK,0,0,7,14,111,2,0,0,2,0,0,0,0,0
+220,1,370,2,5,South Africa,Rassie van der Dussen,Dwayne Bravo,,16,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.1,2,1,0,149737,185.00,-31.00,4,0,,,Knuckleball,55,SWEEP SHOT,0,0,1,15,115,2,1,0,2,0,0,0,0,0
+221,2,370,2,5,South Africa,Rassie van der Dussen,Dwayne Bravo,,16,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.2,2,1,0,149738,-43.00,225.50,4,0,,,Knuckleball,5,LOFT OFF,0,0,2,15,119,2,0,0,2,0,0,0,0,0
+222,3,370,2,5,South Africa,Rassie van der Dussen,Dwayne Bravo,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,149739,-86.50,144.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,3,15,120,2,0,0,2,0,0,0,0,0
+223,4,370,2,5,South Africa,Aiden Markram,Dwayne Bravo,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,149740,30.00,57.00,0,0,,,Knuckleball,47,ON DRIVE,0,0,4,15,120,2,0,0,2,0,0,0,0,0
+224,5,370,2,5,South Africa,Aiden Markram,Dwayne Bravo,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,149741,-75.50,35.00,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,15,120,2,0,0,2,0,0,0,0,0
+225,6,370,2,5,South Africa,Aiden Markram,Dwayne Bravo,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,149742,-93.00,153.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,6,15,121,2,0,0,2,0,0,0,0,0
+226,1,370,2,5,South Africa,Aiden Markram,Andre Russell,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,149743,-48.00,186.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,1,16,122,2,1,0,2,0,0,0,0,0
+227,2,370,2,5,South Africa,Rassie van der Dussen,Andre Russell,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,149744,-66.50,156.00,1,0,,,Knuckleball,84,OFF DRIVE,0,0,2,16,123,2,0,0,2,0,0,0,0,0
+228,3,370,2,5,South Africa,Aiden Markram,Andre Russell,,17,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.3,2,1,0,149745,-143.50,152.50,4,0,,,Knuckleball,5,LOFT OFF,0,0,3,16,127,2,0,0,2,0,0,0,0,0
+229,4,370,2,5,South Africa,Aiden Markram,Andre Russell,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,149746,-60.50,64.00,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,16,128,2,0,0,2,0,0,0,0,0
+230,5,370,2,5,South Africa,Rassie van der Dussen,Andre Russell,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,149747,-152.00,-25.00,1,0,,,Knuckleball,36,CUT SHOT,0,0,5,16,129,2,0,0,2,0,0,0,0,0
+231,6,370,2,5,South Africa,Aiden Markram,Andre Russell,,17,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.6,2,1,0,149748,-172.50,89.50,4,0,,,Knuckleball,15,LOFT COVER,0,0,6,16,133,2,0,0,2,0,0,0,0,0
+232,1,370,2,5,South Africa,Rassie van der Dussen,Dwayne Bravo,,18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,149749,-65.50,111.50,0,0,,,Knuckleball,84,OFF DRIVE,0,0,1,17,133,2,1,0,2,0,0,0,0,0
+233,2,370,2,5,South Africa,Rassie van der Dussen,Dwayne Bravo,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,149750,-144.00,-29.50,1,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,2,17,134,2,0,0,2,0,0,0,0,0
+234,3,370,2,5,South Africa,Aiden Markram,Dwayne Bravo,,18,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,149751,-114.50,77.00,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,17,135,2,0,0,2,0,0,0,0,0
+235,4,370,2,5,South Africa,Rassie van der Dussen,Dwayne Bravo,,18,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,149752,-114.50,77.00,0,0,,,Knuckleball,96,Slice,0,0,4,17,135,2,0,0,2,0,0,0,0,0
+236,5,370,2,5,South Africa,Rassie van der Dussen,Dwayne Bravo,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,149753,93.00,144.00,1,0,,,Knuckleball,47,ON DRIVE,0,0,5,17,136,2,0,0,2,0,0,0,0,0
+237,6,370,2,5,South Africa,Aiden Markram,Dwayne Bravo,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,149754,86.50,130.50,1,0,,,Knuckleball,47,ON DRIVE,0,0,6,17,137,2,0,0,2,0,0,0,0,0
+238,1,370,2,5,South Africa,Aiden Markram,Andre Russell,,19,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.1,2,1,0,149755,80.50,220.50,6,0,,,Knuckleball,11,LOFT ON,0,0,1,18,143,2,1,0,2,0,0,0,0,0
+239,2,370,2,5,South Africa,Aiden Markram,Andre Russell,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,149756,137.00,51.00,1,0,,,Knuckleball,58,PULL SHOT,0,0,2,18,144,2,0,0,2,0,0,0,0,0
