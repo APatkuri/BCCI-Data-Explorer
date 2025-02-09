@@ -16,23 +16,24 @@ st.title("BCCI Data Playground")
 if 'button_clicked' not in st.session_state:
     st.session_state.button_clicked = False
 
-submit_button = st.button('Update Data')
+submit_button = st.button('Update Shot Data')
 
-cat = st.selectbox(
-    'Category',
-    ['Men', 'Women'])
+cat = st.selectbox('Category', ['Men', 'Women'])
 
 if submit_button:
-    st.session_state.button_clicked = True  # Set the flag to True when clicked
-    main_func(cat)
-
-if st.session_state.button_clicked:
+    with st.spinner("Updating Shot data... Please wait."):
+        main_func(cat)
     st.success("Update completed successfully!")
+    
 
-#############
 # submit_button = st.button("Update Data")
 # if submit_button:
 #     run_task()
+
+############
+
+
+#############
 try:
     shot_data_df = pd.read_csv(f"./bcci_shot_data/{cat}/combined_shot_data.csv", low_memory=False)
     match_list_df = pd.read_csv(f"./bcci_shot_data/{cat}/bcci_match_list.csv", low_memory=False)
@@ -48,6 +49,21 @@ format_type = st.selectbox(
 
 format_df = match_list_df[match_list_df['MatchTypeName'] == format_type]
 
+
+series_name = st.selectbox(
+    'Series',
+    format_df['CompetitionName'].unique(),
+    index=None,
+    placeholder='Choose an option',
+)
+
+match_name = st.selectbox(
+    'Match',
+    format_df[format_df['CompetitionName'] == series_name]['MatchOrder'],
+    index=None,
+    placeholder='Choose an option',
+)
+
 # if(format_type):
 #     temp = format_df['CompetitionName'] + " " + format_df['MatchOrder']
 #     select_match = st.selectbox(
@@ -57,19 +73,7 @@ format_df = match_list_df[match_list_df['MatchTypeName'] == format_type]
 #         placeholder='Choose an option'
 #     )
 
-series_name = st.selectbox(
-    'Series',
-    format_df['CompetitionName'].unique(),
-    index=None,
-    placeholder='Choose an option'
-)
-
-match_name = st.selectbox(
-    'Match',
-    format_df[format_df['CompetitionName'] == series_name]['MatchOrder'],
-    index=None,
-    placeholder='Choose an option'
-)
+##############################
 
 def line_length_dist(match_shot_data, type):
 
@@ -273,7 +277,7 @@ if(format_type and series_name and match_name):
     max_len_shot_data = len(match_shot_data)
 
     over_range = st.slider(
-        "Select custom range", 0, max_overs, (0, max_overs)
+        "Select custom overs range", 0, max_overs, (0, max_overs)
     )
 
     innings_list = match_shot_data['InningsNo'].unique()
@@ -293,21 +297,6 @@ if(format_type and series_name and match_name):
         hawk_eye_df = hawk_eye_df[hawk_eye_df['OverNo'].between(over_range[0], over_range[1])]
         hawk_eye_delivery_type_list = hawk_eye_df['delivery_type'].dropna().unique()
 
-        hawkid_matchid_df = pd.read_csv(f"./bcci_shot_data/{cat}/hawkeyeid_matchid.csv", low_memory=False)
-        hawkeye_available = hawkid_matchid_df["MatchID"].isin([match_id])
-        # if((max_hawkeye_inns < max_shot_data_inns) or (max_hawkeye_overs < max_shot_data_overs)):
-        print(max_len_shot_data, max_len_hawk_eye_data)
-        if(max_len_hawk_eye_data < max_len_shot_data):
-            st.success("Hawkeye can be Updated!")
-            available_hawkeye_id = hawkid_matchid_df[hawkid_matchid_df['MatchID'] == match_id]["HawkeyeID"].unique()[0]
-            if st.button("Get Hawkeye Data"):
-                with st.spinner("Fetching Hawkeye data... Please wait."):
-                    hawkeye_main(cat, match_id, available_hawkeye_id)
-                # Call your function here, e.g., `your_function(hawk_eye_df)`
-                # st.write("Fetching Hawkeye data...")
-
-                st.success("Hawkeye data fetching completed successfully!")
-
         bowling_type = st.multiselect(
             'Bowling Type',
             hawk_eye_delivery_type_list,
@@ -315,6 +304,22 @@ if(format_type and series_name and match_name):
             placeholder='Choose an option'
         )
         hawkeye_bowling_df = hawk_eye_df[hawk_eye_df['delivery_type'].isin(bowling_type) & hawk_eye_df['InningsNo'].isin(innings_type)]
+
+        hawkid_matchid_df = pd.read_csv(f"./bcci_shot_data/{cat}/hawkeyeid_matchid.csv", low_memory=False)
+        hawkeye_available = hawkid_matchid_df["MatchID"].isin([match_id])
+        # if((max_hawkeye_inns < max_shot_data_inns) or (max_hawkeye_overs < max_shot_data_overs)):
+        print(max_len_shot_data, max_len_hawk_eye_data)
+        if(max_len_hawk_eye_data < max_len_shot_data):
+            # st.success("Hawkeye can be Updated!")
+            available_hawkeye_id = hawkid_matchid_df[hawkid_matchid_df['MatchID'] == match_id]["HawkeyeID"].unique()[0]
+            if st.button("Update Hawkeye Data"):
+                with st.spinner("Fetching Hawkeye data... Please wait."):
+                    hawkeye_main(cat, match_id, available_hawkeye_id)
+                # Call your function here, e.g., `your_function(hawk_eye_df)`
+                # st.write("Fetching Hawkeye data...")
+
+                st.success("Hawkeye data fetching completed successfully!")
+
         # speed_data(hawkeye_bowling_df)
     except:
         hawk_eye_df = None
@@ -335,9 +340,9 @@ if(format_type and series_name and match_name):
             st.warning("Hawkeye Data Not Available")
         
     final_match_shot_data = match_shot_data[match_shot_data['OverNo'].between(over_range[0], over_range[1])]
-
     available_shot_data = (final_match_shot_data["BOWLING_LENGTH_ID"].notna().any() and final_match_shot_data["BOWLING_LINE_ID"].notna().any())
-
+    if(available_shot_data == False):
+        st.warning("Shot Data Not Available")
     # line_length_dist(final_match_shot_data, "Line")
     # line_length_dist(final_match_shot_data, "Length")
     # fig = px.histogram(match_shot_data, x='BOWLING_LENGTH_ID', color='BowlerName', histnorm='probability', category_orders=dict(BOWLING_LENGTH_ID = ['Full Toss', 'Yorker', 'Full Length', 'Good Length', 'Short of Good Length', 'Short Length']))
