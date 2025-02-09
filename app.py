@@ -267,6 +267,7 @@ if(format_type and series_name and match_name):
     match_df = format_df[(format_df['CompetitionName'] == series_name) & (format_df['MatchOrder'] == match_name)]
     match_id = match_df['MatchID'].unique()[0]
     max_overs = match_df['MATCH_NO_OF_OVERS'].unique()[0]
+    max_shot_data_overs = shot_data_df[shot_data_df['MatchID'] == match_id]['OverNo'].max()
     match_shot_data = shot_data_df[shot_data_df['MatchID'] == match_id]
 
     over_range = st.slider(
@@ -284,13 +285,14 @@ if(format_type and series_name and match_name):
 
     try:
         hawk_eye_df = pd.read_csv(f"./bcci_hawkeye_data/{match_id}.csv", low_memory=False)
+        max_hawkeye_overs = hawk_eye_df['OverNo'].max()
         hawk_eye_df = hawk_eye_df[hawk_eye_df['OverNo'].between(over_range[0], over_range[1])]
         hawk_eye_delivery_type_list = hawk_eye_df['delivery_type'].dropna().unique()
 
         hawkid_matchid_df = pd.read_csv(f"./bcci_shot_data/{cat}/hawkeyeid_matchid.csv", low_memory=False)
         hawkeye_available = hawkid_matchid_df["MatchID"].isin([match_id])
-        if(hawk_eye_df['OverNo'].max() < match_shot_data['OverNo'].max()):
-            st.success("Hawkeye is Available")
+        if(max_hawkeye_overs < max_shot_data_overs):
+            st.success("Hawkeye can be Updated!")
             available_hawkeye_id = hawkid_matchid_df[hawkid_matchid_df['MatchID'] == match_id]["HawkeyeID"].unique()[0]
             if st.button("Get Hawkeye Data"):
                 with st.spinner("Fetching Hawkeye data... Please wait."):
@@ -328,6 +330,8 @@ if(format_type and series_name and match_name):
         
     final_match_shot_data = match_shot_data[match_shot_data['OverNo'].between(over_range[0], over_range[1])]
 
+    available_shot_data = (final_match_shot_data["BOWLING_LENGTH_ID"].notna().any() and final_match_shot_data["BOWLING_LINE_ID"].notna().any())
+
     # line_length_dist(final_match_shot_data, "Line")
     # line_length_dist(final_match_shot_data, "Length")
     # fig = px.histogram(match_shot_data, x='BOWLING_LENGTH_ID', color='BowlerName', histnorm='probability', category_orders=dict(BOWLING_LENGTH_ID = ['Full Toss', 'Yorker', 'Full Length', 'Good Length', 'Short of Good Length', 'Short Length']))
@@ -335,8 +339,8 @@ if(format_type and series_name and match_name):
     
     # st.pyplot(plt)
     
-if (format_type and series_name and match_name and len(match_shot_data)> 0):
-    
+if (format_type and series_name and match_name and available_shot_data and len(final_match_shot_data)> 0):
+
     if(hawk_eye_df is not None):
         selected_option = st.selectbox('Choose an option', ['Line Shot Data Probability Distribution', 'Length Shot Data Probability Distribution', 
                                                             'Speed Probability Distibution','Length Kernel Density Estimation',
@@ -370,4 +374,6 @@ if (format_type and series_name and match_name and len(match_shot_data)> 0):
 
     if(selected_option):
         plotting_func(selected_option)
+else:
+    st.error("No Data Available")
     # st.dataframe(match_shot_data, use_container_width=True)
