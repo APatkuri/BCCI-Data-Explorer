@@ -308,7 +308,7 @@ if(format_type and series_name and match_name):
         hawkid_matchid_df = pd.read_csv(f"./bcci_shot_data/{cat}/hawkeyeid_matchid.csv", low_memory=False)
         hawkeye_available = hawkid_matchid_df["MatchID"].isin([match_id])
         # if((max_hawkeye_inns < max_shot_data_inns) or (max_hawkeye_overs < max_shot_data_overs)):
-        print(max_len_shot_data, max_len_hawk_eye_data)
+        # print(max_len_shot_data, max_len_hawk_eye_data)
         if(max_len_hawk_eye_data < max_len_shot_data):
             # st.success("Hawkeye can be Updated!")
             available_hawkeye_id = hawkid_matchid_df[hawkid_matchid_df['MatchID'] == match_id]["HawkeyeID"].unique()[0]

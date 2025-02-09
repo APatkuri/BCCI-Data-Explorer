@@ -3,6 +3,7 @@ from data_scrapper import *
 from process_data import *
 import numpy as np
 import pandas as pd
+import streamlit as st
 import os
 
 FIELDS = ['MatchID', 'InningsNo', 'BattingTeamID',
@@ -28,6 +29,7 @@ FIELDS = ['MatchID', 'InningsNo', 'BattingTeamID',
           'ground', 'date', 'season']
 
 def hawkeye_main(cat, matchid, hawkeyeid):
+    placeholder = st.empty()
     # Reading t20bbb for validation since we don't know the max number of balls (extras + legal balls) in an over 
     # MATCH_INFO_FILENAME = 'matches/hawkeye-keydatatest.csv'
     # hawkeye_ids, match_ids, seasons = read_match_ids(MATCH_INFO_FILENAME)
@@ -90,10 +92,11 @@ def hawkeye_main(cat, matchid, hawkeyeid):
 
                     # fetch data from api and data from 2nd dataset for checking attributes
                     data = fetch_bbb_data(inning, over, ball, hawkID)
-                    # ball_id = int(over) - 1 + float(ball) / 10
-                    ball_id = int(over) - 1 + float(ball) / 100
+                    ball_id = int(over) - 1 + float(ball) / 10
+                    # ball_id = int(over) - 1 + float(ball) / 100
 
                     print(inning, ball_id)
+                    placeholder.text(f"Inning No: {inning}, Ball: {ball_id}")
                     # ball_data_checks = t20bbb.loc[(t20bbb['match_id'] == int(matchID)) & (t20bbb['ball'] == ball_id) & (t20bbb['innings'] == inning)]
                     # ball_data_checks = t20bbb.loc[(t20bbb['p_match'] == int(matchID)) & (t20bbb['ball_id'] == ball_id) & (t20bbb['inns'] == inning)]
                     ball_data_checks = t20bbb.loc[(t20bbb['MatchID'] == int(matchID)) & (t20bbb['OverNo'] == over) & (t20bbb['BallCount'] == ball) & (t20bbb['InningsNo'] == inning)]
@@ -108,6 +111,7 @@ def hawkeye_main(cat, matchid, hawkeyeid):
                             # Fill attributes not associated with hawkeye
                             fill_non_hawkeye_data(ball_data, ball_data_checks)
                             print(f'IMPUTATION DONE - {matchID} {inning} {over} {ball}')
+                            placeholder.text(f'IMPUTATION DONE - MatchID: {matchID}, InningNo: {inning}, OverNo: {over}, BallNo: {ball}')
                     else:
                     #     # Fill non hawkeye and hawkeye attributes
                         if ball_data_checks.empty:
@@ -128,6 +132,7 @@ def hawkeye_main(cat, matchid, hawkeyeid):
         # hawkeye_data = pd.concat([hawkeye_data, new_data_df], ignore_index=True)
         hawkeye_data.to_csv(OUT_FILENAME, index = False)       
         print(f'{matchID} {count} done')
+        placeholder.empty()
 
 
 
