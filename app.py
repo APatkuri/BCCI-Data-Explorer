@@ -242,10 +242,13 @@ def speed_data(custom_df, plotno ,phase="All"):
                 plt.legend()
 
             elif(plotno == 8):
-                pitch_x_list = [float("%.2f"%x) for x in df_bowler['bounce_x'] if x>0]
-                pitch_y_list = [float("%.2f"%x) for x in df_bowler['bounce_y'] if -50<x<50]
+                # pitch_x_list = [float("%.2f"%x) for x in df_bowler['bounce_x'] if x>0]
+                # pitch_y_list = [float("%.2f"%x) for x in df_bowler['bounce_y'] if -50<x<50]
+
+                pitch_x_list = [float("%.2f"%x) for x, y in zip(df_bowler['bounce_x'], df_bowler['bounce_y']) if x>0 and -50<y<50]
+                pitch_y_list = [float("%.2f"%y) for x, y in zip(df_bowler['bounce_x'], df_bowler['bounce_y']) if x>0 and -50<y<50]
                 # show_stump(plt)
-                plt.plot(pitch_y_list,pitch_x_list, 'o',label=f"{bowler_name}")
+                plt.plot(pitch_y_list,pitch_x_list, 'o',label=f"{bowler_name}", markersize=1)
                 plt.xlim(-1.83, 1.83)
                 plt.ylim(0, 22.56)
                 plt.gca().set_aspect('equal', adjustable='box')
