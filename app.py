@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 # import plotly.figure_factory as ff
 from bcci_shot_data import main_func
 from bcci_hawkeye_scrapper import hawkeye_main
+from pitch_view.pitch_densitymap import *
 
 st.title("BCCI Data Playground")
 
@@ -116,147 +117,224 @@ def line_length_dist(match_shot_data, type):
 
 def speed_data(custom_df, plotno ,phase="All"):        
 
-    name_list = list(custom_df['BowlerName'].unique())
-    # fig, ax = plt.subplots(2, 3, figsize=(20, 12))
-    # ax = ax.flatten()
-    # fig1 = go.Figure()
-    max_over_limit = custom_df['OverNo'].max()
-    min_over_limit = custom_df['OverNo'].min()
+    if(len(custom_df) == 0):
+        st.warning("Please Select a Bowling Type")
+        st.empty()
 
-    def input_pdf(input_list):
-        input_list.sort()
-        mean = np.mean(input_list)
-        std = np.std(input_list)
-        input_pdf_list = stats.norm.pdf(input_list, mean, std)
-        return input_pdf_list
-    
-    def show_stump(ax):
-        stump_height = 0.711
-        stump_width = 0.2286 / 2
-        stump_positions = [-stump_width, 0, stump_width]
-        for pos in stump_positions:
-            ax.plot([pos, pos], [0, stump_height], color='brown', linewidth=3)
-        bail_y = stump_height  # Bails are at the top of the stumps
-        ax.plot([stump_positions[0], stump_positions[1]], [bail_y, bail_y], color='brown', linewidth=2)  # Off-stump to Middle-stump
-        ax.plot([stump_positions[1], stump_positions[2]], [bail_y, bail_y], color='brown', linewidth=2)  # Middle-stump to Leg-stump
+    else:
+        name_list = list(custom_df['BowlerName'].unique())
+        # fig, ax = plt.subplots(2, 3, figsize=(20, 12))
+        # ax = ax.flatten()
+        # fig1 = go.Figure()
+        max_over_limit = custom_df['OverNo'].max()
+        min_over_limit = custom_df['OverNo'].min()
 
-    # def gaussian_fun(input_list):
-    #     kde = stats.gaussian_kde(input_list)
-    #     gauss_x = np.linspace(min(input_list), max(input_list), 100)
-    #     gauss_y = kde(gauss_x)
-        # gauss_y_norm = gauss_y / np.trapz(gauss_y, gauss_x) 
-        # return gauss_x, gauss_y_norm
-    
-    for name in name_list:
-        df = custom_df
-        df_bowler = df[df['BowlerName'].str.contains(f"{name}", case=False, na=False)]
-        bowler_name = df_bowler['BowlerName'].unique()[0]
-        # df_bowler = df_bowler[(df_bowler['OverNo'] > 10) & (df_bowler['OverNo'] <= 40)]
+        def input_pdf(input_list):
+            input_list.sort()
+            mean = np.mean(input_list)
+            std = np.std(input_list)
+            input_pdf_list = stats.norm.pdf(input_list, mean, std)
+            return input_pdf_list
+        
+        def show_stump(ax):
+            stump_height = 0.711
+            stump_width = 0.2286 / 2
+            stump_positions = [-stump_width, 0, stump_width]
+            for pos in stump_positions:
+                ax.plot([pos, pos], [0, stump_height], color='brown', linewidth=3)
+            bail_y = stump_height  # Bails are at the top of the stumps
+            ax.plot([stump_positions[0], stump_positions[1]], [bail_y, bail_y], color='brown', linewidth=2)  # Off-stump to Middle-stump
+            ax.plot([stump_positions[1], stump_positions[2]], [bail_y, bail_y], color='brown', linewidth=2)  # Middle-stump to Leg-stump
 
-        if(len(df_bowler) > 0):
+        def show_pitch_top(ax):
+            stump_width = 0.2286 / 2
+            stump_positions = [-stump_width, 0, stump_width]
 
-            if(plotno == 1):
-                speed_list = [float("%.3f"%(x*1.60934)) for x in df_bowler['release_speed']]
-                speed_list = [k for k in speed_list if k<165]
-                # speed_pdf = input_pdf(speed_list)
-                speed_mean = np.mean(speed_list)
-                sns.kdeplot(speed_list, label=f"{bowler_name} {speed_mean:.2f}")
-                bin_edges = np.arange(min(speed_list), max(speed_list), 0.5)
-                # sns.histplot(speed_list, bins=bin_edges, stat="probability", element='step', alpha=0.1)
-                # ax[0].plot(speed_list, speed_pdf, label = f"{bowler_name}")
-                plt.title(f"Overs {min_over_limit}-{max_over_limit} Speed Probability Distibution")
-                plt.legend()
-                
-            elif(plotno == 2):
-                length_list = [float("%.2f"%x) for x in df_bowler['bounce_x'] if x>=0]
-                # length_pdf = input_pdf(length_list)
-                avg_length = np.mean(length_list)
-                sns.kdeplot(length_list, label=f"{bowler_name} {avg_length:.2f}")
-                plt.xlim(0, 16)
-                bin_edges = np.arange(0, 16, 0.5)
-                # sns.histplot(length_list, bins=bin_edges, stat="probability", element="step", alpha = 0.5)
-                # bin_edges = np.arange(0, 16, 0.5)
-                # sns.histplot(length_list, bins=bin_edges, label=f"{bowler_name} {avg_length:.2f}", stat="probability")
-                # ax[1].plot(length_list,length_pdf, label=f"{bowler_name}")
-                plt.title(f"Overs {min_over_limit}-{max_over_limit} Length Probability Distribution")
-                plt.legend()
+            for pos in stump_positions:
+                ax.plot([pos, pos], [-2, 14], color='brown', linewidth=1)
+            ax.plot([-1.83, 1.83], [1.22, 1.22], color='blue', linewidth=2)
+            ax.plot([-1.32, -1.32], [-2, 1.22], color='blue', linewidth=2)
+            ax.plot([1.32, 1.32], [-2, 1.22], color='blue', linewidth=2)
 
-            elif(plotno == 3):
-                line_list = [float("%.2f"%x) for x in df_bowler['stump_y'] if -5<x<5]
-                # line_pdf = input_pdf(line_list)
-                avg_line = np.mean([abs(x) for x in line_list])
-                sns.kdeplot(line_list, label=f"{bowler_name} {avg_line:.2f}")
-                # sns.histplot(line_list, bins=10, stat="probability", ax=ax[2], label=f"{bowler_name}")
-                plt.xlim(-1.75, 1.75)
-                bin_edges = np.arange(-2, 2, 0.1)
-                # sns.histplot(line_list, bins=bin_edges, stat="probability", element="step", alpha = 0.5)
-                # gauss_x, gauss_y = gaussian_fun(line_list)
-                # ax[2].plot(gauss_x,gauss_y, label=f"{bowler_name}")
-                # ax[2].plot(line_list,line_pdf, label=f"{bowler_name}")
-                show_stump(plt)
-                plt.title(f"Overs {min_over_limit}-{max_over_limit} Line Probability Distribution")
-                plt.legend()
+            ax.plot([-1.83, -1.83], [14, -2], color='brown', linewidth=2)
+            ax.plot([1.83, 1.83], [14, -2], color='brown', linewidth=2)
 
-            elif(plotno == 4):
-                swing_list = [float("%.2f"%x) for x in df_bowler['swing'] if -50<x<50]
-                # swing_pdf = input_pdf(swing_list)
-                avg_swing = np.mean([abs(x) for x in swing_list])
-                sns.kdeplot(swing_list, label=f"{bowler_name} {avg_swing:.2f}")
-                bin_edges = np.arange(-8, 8, 0.5)
-                # sns.histplot(swing_list, bins=bin_edges, stat="probability", element="step", alpha = 0.5)
-                # ax[3].plot(swing_list,swing_pdf, label=f"{bowler_name}")
-                plt.title(f"Overs {min_over_limit}-{max_over_limit} Swing Probability Distribution")
-                plt.legend()
+            ax.plot([-stump_width, 0, stump_width], [0, 0, 0], 'o', color='brown', ms=2)
+            ax.xlim(-1.83, 1.83)
+            # ax.ylim(-2, 14)
+            ax.ylim(14, -2)
+            ax.xlim(-4, 4)
 
-            elif(plotno == 5):
-                seam_list = [float("%.2f"%x) for x in df_bowler['deviation'] if -50<x<50]
-                # seam_pdf = input_pdf(seam_list)
-                avg_seam = np.mean([abs(x) for x in seam_list])
-                sns.kdeplot(seam_list, label=f"{bowler_name} {avg_seam:.2f}")
-                bin_edges = np.arange(-10, 10, 0.5)
-                # sns.histplot(seam_list, bins=bin_edges, stat="probability", element="step", alpha = 0.5)
-                # ax[4].plot(seam_list,seam_pdf, label=f"{bowler_name}")
-                plt.title(f"Overs {min_over_limit}-{max_over_limit} Seam Probability Distribution")
-                plt.legend()
+        # def gaussian_fun(input_list):
+        #     kde = stats.gaussian_kde(input_list)
+        #     gauss_x = np.linspace(min(input_list), max(input_list), 100)
+        #     gauss_y = kde(gauss_x)
+            # gauss_y_norm = gauss_y / np.trapz(gauss_y, gauss_x) 
+            # return gauss_x, gauss_y_norm
+        if(plotno < 10):
 
-            elif(plotno == 6):
-                release_y_list = [float("%.2f"%x) for x in df_bowler['release_y'] if -50<x<50]
-                release_z_list = [float("%.2f"%x) for x in df_bowler['release_z'] if -50<x<50]
-                show_stump(plt)
-                plt.plot(release_y_list,release_z_list, 'o',label=f"{bowler_name}")
-                plt.xlim(-1.75, 1.75)
-                plt.ylim(0, 2.5)
-                plt.title(f"Overs {min_over_limit}-{max_over_limit} Release Points Distribution")
-                plt.legend()
+            for name in name_list:
+                df = custom_df
+                df_bowler = df[df['BowlerName'].str.contains(f"{name}", case=False, na=False)]
+                bowler_name = df_bowler['BowlerName'].unique()[0]
+                # df_bowler = df_bowler[(df_bowler['OverNo'] > 10) & (df_bowler['OverNo'] <= 40)]
+
+                if(len(df_bowler) > 0):
+
+                    if(plotno == 1):
+                        speed_list = [float("%.3f"%(x*1.60934)) for x in df_bowler['release_speed']]
+                        speed_list = [k for k in speed_list if k<165]
+                        # speed_pdf = input_pdf(speed_list)
+                        speed_mean = np.mean(speed_list)
+                        sns.kdeplot(speed_list, label=f"{bowler_name} {speed_mean:.2f}")
+                        bin_edges = np.arange(min(speed_list), max(speed_list), 0.5)
+                        # sns.histplot(speed_list, bins=bin_edges, stat="probability", element='step', alpha=0.1)
+                        # ax[0].plot(speed_list, speed_pdf, label = f"{bowler_name}")
+                        plt.title(f"Overs {min_over_limit}-{max_over_limit} Speed Probability Distibution")
+                        plt.legend()
+                        plt.grid(True, linestyle='--')
+                        
+                    elif(plotno == 2):
+                        length_list = [float("%.2f"%x) for x in df_bowler['bounce_x'] if x>=0]
+                        # length_pdf = input_pdf(length_list)
+                        avg_length = np.mean(length_list)
+                        sns.kdeplot(length_list, label=f"{bowler_name} {avg_length:.2f}")
+                        plt.xlim(0, 16)
+                        bin_edges = np.arange(0, 16, 0.5)
+                        # sns.histplot(length_list, bins=bin_edges, stat="probability", element="step", alpha = 0.5)
+                        # bin_edges = np.arange(0, 16, 0.5)
+                        # sns.histplot(length_list, bins=bin_edges, label=f"{bowler_name} {avg_length:.2f}", stat="probability")
+                        # ax[1].plot(length_list,length_pdf, label=f"{bowler_name}")
+                        plt.title(f"Overs {min_over_limit}-{max_over_limit} Length Probability Distribution")
+                        plt.legend()
+                        plt.grid(True, linestyle='--')
+
+                    elif(plotno == 3):
+                        line_list = [float("%.2f"%x) for x in df_bowler['stump_y'] if -5<x<5]
+                        # line_pdf = input_pdf(line_list)
+                        avg_line = np.mean([abs(x) for x in line_list])
+                        sns.kdeplot(line_list, label=f"{bowler_name} {avg_line:.2f}")
+                        # sns.histplot(line_list, bins=10, stat="probability", ax=ax[2], label=f"{bowler_name}")
+                        plt.xlim(-1.75, 1.75)
+                        bin_edges = np.arange(-2, 2, 0.1)
+                        # sns.histplot(line_list, bins=bin_edges, stat="probability", element="step", alpha = 0.5)
+                        # gauss_x, gauss_y = gaussian_fun(line_list)
+                        # ax[2].plot(gauss_x,gauss_y, label=f"{bowler_name}")
+                        # ax[2].plot(line_list,line_pdf, label=f"{bowler_name}")
+                        show_stump(plt)
+                        plt.title(f"Overs {min_over_limit}-{max_over_limit} Line Probability Distribution")
+                        plt.legend()
+                        plt.grid(True, linestyle='--')
+
+                    elif(plotno == 4):
+                        swing_list = [float("%.2f"%x) for x in df_bowler['swing'] if -50<x<50]
+                        # swing_pdf = input_pdf(swing_list)
+                        avg_swing = np.mean([abs(x) for x in swing_list])
+                        sns.kdeplot(swing_list, label=f"{bowler_name} {avg_swing:.2f}")
+                        bin_edges = np.arange(-8, 8, 0.5)
+                        # sns.histplot(swing_list, bins=bin_edges, stat="probability", element="step", alpha = 0.5)
+                        # ax[3].plot(swing_list,swing_pdf, label=f"{bowler_name}")
+                        plt.title(f"Overs {min_over_limit}-{max_over_limit} Swing Probability Distribution")
+                        plt.legend()
+                        plt.grid(True, linestyle='--')
+
+                    elif(plotno == 5):
+                        seam_list = [float("%.2f"%x) for x in df_bowler['deviation'] if -50<x<50]
+                        # seam_pdf = input_pdf(seam_list)
+                        avg_seam = np.mean([abs(x) for x in seam_list])
+                        sns.kdeplot(seam_list, label=f"{bowler_name} {avg_seam:.2f}")
+                        bin_edges = np.arange(-10, 10, 0.5)
+                        # sns.histplot(seam_list, bins=bin_edges, stat="probability", element="step", alpha = 0.5)
+                        # ax[4].plot(seam_list,seam_pdf, label=f"{bowler_name}")
+                        plt.title(f"Overs {min_over_limit}-{max_over_limit} Seam Probability Distribution")
+                        plt.legend()
+                        plt.grid(True, linestyle='--')
+
+                    elif(plotno == 6):
+                        release_y_list = [float("%.2f"%y) for y, z in zip(df_bowler['release_y'], df_bowler['release_z']) if -50<y<50 and -50<z<50]
+                        release_z_list = [float("%.2f"%z) for y, z in zip(df_bowler['release_y'], df_bowler['release_z']) if -50<y<50 and -50<z<50]
+                        show_stump(plt)
+                        plt.plot(release_y_list,release_z_list, 'o',label=f"{bowler_name}")
+                        plt.xlim(-1.75, 1.75)
+                        plt.ylim(0, 2.5)
+                        plt.title(f"Overs {min_over_limit}-{max_over_limit} Release Points Distribution")
+                        plt.legend()
+                        plt.grid(True, linestyle='--')
+                    
+                    elif(plotno == 7):
+                        release_y_list = [float("%.2f"%y) for y, z in zip(df_bowler['stump_y'], df_bowler['stump_z']) if -50<y<50 and -50<z<50]
+                        release_z_list = [float("%.2f"%z) for y, z in zip(df_bowler['stump_y'], df_bowler['stump_z']) if -50<y<50 and -50<z<50]
+                        balls_hitting = [(y, z) for y,z in zip(release_y_list, release_z_list) if (z<0.711)&(y<0.1143)&(y>(-0.1143))]
+                        perc_hitting = (len(balls_hitting)*100)/len(release_y_list)
+                        show_stump(plt)
+                        plt.plot(release_y_list,release_z_list, 'o',label=f"{bowler_name} {perc_hitting:.2f}%")
+                        plt.xlim(-1.75, 1.75)
+                        plt.ylim(0, 2.5)
+                        plt.title(f"Overs {min_over_limit}-{max_over_limit} Beehive Distribution")
+                        plt.legend()
+                        plt.grid(True, linestyle='--')
+
+                    elif(plotno == 8):
+                        # pitch_x_list = [float("%.2f"%x) for x in df_bowler['bounce_x'] if x>0]
+                        # pitch_y_list = [float("%.2f"%x) for x in df_bowler['bounce_y'] if -50<x<50]
+                        plot_df = df_bowler
+                        plot_df['bounce_y'] = plot_df['bounce_y']
+                        pitch_x_list = [float("%.2f"%x) for x, y in zip(plot_df['bounce_x'], plot_df['bounce_y']) if x>-100 and -500<y<500]
+                        pitch_y_list = [float("%.2f"%y) for x, y in zip(plot_df['bounce_x'], plot_df['bounce_y']) if x>-100 and -500<y<500]
+                        # show_stump(plt)
+                        plt.plot(pitch_y_list,pitch_x_list, 'o',label=f"{bowler_name}", markersize=5)
+                        show_pitch_top(plt)
+                        # plt.gca()
+                        plt.title(f"Overs {min_over_limit}-{max_over_limit} Pitch Distribution")
+                        plt.grid(False)
+                        plt.legend()
             
-            elif(plotno == 7):
-                release_y_list = [float("%.2f"%x) for x in df_bowler['stump_y'] if -50<x<50]
-                release_z_list = [float("%.2f"%x) for x in df_bowler['stump_z'] if -50<x<50]
-                balls_hitting = [(y, z) for y,z in zip(release_y_list, release_z_list) if (z<0.711)&(y<0.1143)&(y>(-0.1143))]
-                perc_hitting = (len(balls_hitting)*100)/len(release_y_list)
+            if(plotno == 9):
+                beehive_df = custom_df[custom_df['stump_y'].between(-50, 50) & custom_df['stump_z'].between(-50, 50)].copy()
+                boundaries_df = beehive_df[(beehive_df['IsFour'] == 1) | (beehive_df['IsSix'] == 1)]
+                wickets_df = beehive_df[(beehive_df['IsWicket'] == 1)]
+                dots_df = beehive_df[(beehive_df['IsDotball'] == 1)]
+                runs_df = beehive_df[pd.to_numeric(beehive_df['BallRuns'], errors='coerce').fillna(0).astype(int).gt(0) & (beehive_df['IsFour'] == 0) & (beehive_df['IsSix'] == 0)]
                 show_stump(plt)
-                plt.plot(release_y_list,release_z_list, 'o',label=f"{bowler_name} {perc_hitting:.2f}%")
+                plt.plot(dots_df['stump_y'],dots_df['stump_z'], 'o', color='green',label="Dots", alpha=0.5)
+                plt.plot(runs_df['stump_y'],runs_df['stump_z'], 'o', color='yellow',label="Runs", alpha=0.5)
+                plt.plot(boundaries_df['stump_y'],boundaries_df['stump_z'], 'o', color='red',label="4s/6s")
+                plt.plot(wickets_df['stump_y'],wickets_df['stump_z'], 'o', color='blue',label="Wickets")
+                plt.title(f"Overs {min_over_limit}-{max_over_limit} Beehive Distribution")
                 plt.xlim(-1.75, 1.75)
                 plt.ylim(0, 2.5)
-                plt.title(f"Overs {min_over_limit}-{max_over_limit} Beehive Distribution")
                 plt.legend()
+                plt.grid(True, linestyle='--')
+                
+            
+            # plt.show()
+            st.pyplot(plt)
 
-            elif(plotno == 8):
-                # pitch_x_list = [float("%.2f"%x) for x in df_bowler['bounce_x'] if x>0]
-                # pitch_y_list = [float("%.2f"%x) for x in df_bowler['bounce_y'] if -50<x<50]
+        if(plotno == 10):
+            bowler_name = st.selectbox(
+                'Bowler',
+                custom_df['BowlerName'].unique() if not custom_df.empty else [],
+                index=None,
+                placeholder='Choose an bowler',
+            )
 
-                pitch_x_list = [float("%.2f"%x) for x, y in zip(df_bowler['bounce_x'], df_bowler['bounce_y']) if x>0 and -50<y<50]
-                pitch_y_list = [float("%.2f"%y) for x, y in zip(df_bowler['bounce_x'], df_bowler['bounce_y']) if x>0 and -50<y<50]
-                # show_stump(plt)
-                plt.plot(pitch_y_list,pitch_x_list, 'o',label=f"{bowler_name}", markersize=1)
-                plt.xlim(-1.83, 1.83)
-                plt.ylim(0, 22.56)
-                plt.gca().set_aspect('equal', adjustable='box')
-                plt.title(f"Overs {min_over_limit}-{max_over_limit} Pitch Distribution")
-                plt.grid(False)
-                plt.legend()
+            if bowler_name:
 
-    
+                if custom_df.empty:
+                    st.error("No data available for plotting.")
+                else:
+                    new_df_bowler = custom_df[custom_df['BowlerName'] == bowler_name].copy()
+                    xy_rh = np.array(new_df_bowler[new_df_bowler['bounce_x'] > 0].assign(bounce_y=-new_df_bowler['bounce_y'])[['bounce_y', 'bounce_x']])
+                    # new_df_bowler['bounce_y'] = -new_df_bowler['bounce_y']
+                    # balls = new_df_bowler[new_df_bowler['bounce_x'] > 0].copy()
+                    # xy_rh = np.array(balls[['bounce_y', 'bounce_x']])
+                    title = bowler_name
+                    subtitle_1 = f'Pitch Heatmap | {series_name}: {match_name}'
+                    subtitle_2 = f'Tracking enabled for {len(xy_rh)} balls between Overs {min_over_limit}-{max_over_limit}.'
+                    fig = pitch_densitymap(xy_rh, title, subtitle_1, subtitle_2)
+                    # plt.show()
+                    st.pyplot(fig)
+                
     # fig.update_layout(
     #     title="PowerPlay Speed Probability Distribution",
     #     xaxis_title="Speed (km/h)",
@@ -264,10 +342,7 @@ def speed_data(custom_df, plotno ,phase="All"):
     #     legend_title="Bowler",
     #     template="plotly_white"
     # )
-    plt.grid(True, linestyle='--')
-    plt.show()
     # st.plotly_chart(fig1)
-    st.pyplot(plt)
 # plt.plot()
 
 if(format_type and series_name and match_name):
@@ -280,7 +355,7 @@ if(format_type and series_name and match_name):
     max_len_shot_data = len(match_shot_data)
 
     over_range = st.slider(
-        "Select custom overs range", 0, max_overs, (0, max_overs)
+        "Overs", 0, max_overs, (0, max_overs)
     )
 
     innings_list = match_shot_data['InningsNo'].unique()
@@ -306,6 +381,7 @@ if(format_type and series_name and match_name):
             default=hawk_eye_delivery_type_list,
             placeholder='Choose an option'
         )
+        
         hawkeye_bowling_df = hawk_eye_df[hawk_eye_df['delivery_type'].isin(bowling_type) & hawk_eye_df['InningsNo'].isin(innings_type)]
 
         hawkid_matchid_df = pd.read_csv(f"./bcci_shot_data/{cat}/hawkeyeid_matchid.csv", low_memory=False)
@@ -346,6 +422,7 @@ if(format_type and series_name and match_name):
     available_shot_data = (final_match_shot_data["BOWLING_LENGTH_ID"].notna().any() and final_match_shot_data["BOWLING_LINE_ID"].notna().any())
     if(available_shot_data == False):
         st.warning("Shot Data Not Available")
+    
     # line_length_dist(final_match_shot_data, "Line")
     # line_length_dist(final_match_shot_data, "Length")
     # fig = px.histogram(match_shot_data, x='BOWLING_LENGTH_ID', color='BowlerName', histnorm='probability', category_orders=dict(BOWLING_LENGTH_ID = ['Full Toss', 'Yorker', 'Full Length', 'Good Length', 'Short of Good Length', 'Short Length']))
@@ -360,7 +437,7 @@ if (format_type and series_name and match_name and available_shot_data and len(f
                                                             'Speed Probability Distibution','Length Kernel Density Estimation',
                                                             'Line Kernel Density Estimation', 'Swing Probability Distribution',
                                                             'Seam Probability Distribution', 'Release Points Distribution',
-                                                            'Beehive Distribution', 'Pitch Distribution'])
+                                                            'Beehive Distribution Bowler Comparison', 'Beehive Distribution Outcome Comparision','Pitch Distribution', 'Pitch Heatmap'])
     else:
         selected_option = st.selectbox('Choose an option', ['Line Shot Data Probability Distribution', 'Length Shot Data Probability Distribution'])
 
@@ -381,10 +458,14 @@ if (format_type and series_name and match_name and available_shot_data and len(f
             speed_data(hawkeye_bowling_df, 5)
         elif(selected_option == 'Release Points Distribution'):
             speed_data(hawkeye_bowling_df, 6)
-        elif(selected_option == 'Beehive Distribution'):
+        elif(selected_option == 'Beehive Distribution Bowler Comparison'):
             speed_data(hawkeye_bowling_df, 7)
         elif(selected_option == 'Pitch Distribution'):
             speed_data(hawkeye_bowling_df, 8)
+        elif(selected_option == 'Beehive Distribution Outcome Comparision'):
+            speed_data(hawkeye_bowling_df, 9)
+        elif(selected_option == 'Pitch Heatmap'):
+            speed_data(hawkeye_bowling_df, 10)
 
     if(selected_option):
         plotting_func(selected_option)
