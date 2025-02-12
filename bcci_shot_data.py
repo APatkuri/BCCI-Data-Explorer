@@ -5,6 +5,7 @@ import json
 import glob
 import re
 from bs4 import BeautifulSoup
+from line_profiler import LineProfiler
 
 
 def get_bcci_shot_data(match_id, max_overs, cat):
@@ -127,11 +128,13 @@ def bcci_shot_data_json(cat):
     with open(f"./bcci_shot_data/{cat}/bcci_match_list.json", 'w') as f:
         json.dump(all_matches, f, indent=4)
 
-    return all_matches
+    return all_matches, new_matches
 
-def match_data_procees(bcci_match_list, cat):
+def match_data_procees(bcci_match_list, new_match_list, cat):
     temp_df = pd.DataFrame(bcci_match_list)
-    temp_df = temp_df.drop_duplicates(subset=['MatchID'], keep='first', inplace=False)
+    temp_df = temp_df.drop_duplicates(subset=['MatchID'])
+
+    new_match_df = pd.DataFrame(new_match_list).drop_duplicates(subset=['MatchID'], keep='first', inplace=False)
 
     live_data_file_name = f"./bcci_shot_data/{cat}/live_data_file_name.txt"
     try:
@@ -140,13 +143,17 @@ def match_data_procees(bcci_match_list, cat):
     except FileNotFoundError:
         existing_ids = set()
 
-    data_temp_df = temp_df[temp_df['MatchStatus'] == 'Post']
-    live_data_temp_df = temp_df[temp_df['MatchStatus'] == 'Live']
+    # data_temp_df = temp_df[temp_df['MatchStatus'] == 'Post']
+    # live_data_temp_df = temp_df[temp_df['MatchStatus'] == 'Live']
+
+    data_temp_df = new_match_df[new_match_df['MatchStatus'] == 'Post']
+    live_data_temp_df = new_match_df[new_match_df['MatchStatus'] == 'Live']
 
     for match_id ,max_overs in zip(data_temp_df['MatchID'], data_temp_df['MATCH_NO_OF_OVERS']):
         temp_file_str = f"./bcci_shot_data/{cat}/csv/{match_id}.csv"
 
-        if temp_file_str not in glob.glob(f"./bcci_shot_data/{cat}/csv/*.csv"):
+        # if temp_file_str not in glob.glob(f"./bcci_shot_data/{cat}/csv/*.csv"):
+        if not os.path.exists(temp_file_str):
             get_bcci_shot_data(match_id, max_overs, cat)
             csv_to_json(match_id, cat)
 
@@ -181,27 +188,38 @@ def match_data_procees(bcci_match_list, cat):
     folder_path = f'./bcci_shot_data/{cat}/csv'  # Path to the 'csv' directory
 
     # List of numbers (in the order you want the CSV files to be combined)
-    temp_list = temp_df['MatchID'].tolist()
+    # temp_list = temp_df['MatchID'].tolist()
 
     # List of all CSV files in the folder
-    csv_files = list(f"{num}.csv" for num in temp_list)  # Set for fast lookup
+    csv_files = [os.path.join(folder_path, f"{match_id}.csv") for match_id in temp_df['MatchID']]
+    # csv_files = list(f"{num}.csv" for num in temp_list)  # Set for fast lookup
 
-    # Read and concatenate the CSVs
-    df_list = []
-    for file in csv_files:
-        file_path = os.path.join(folder_path, file)
-        if os.path.exists(file_path):  # Only process if the file exists
-            df = pd.read_csv(file_path)
-            df_list.append(df)
+    existing_csv_files = list(filter(os.path.exists, csv_files)) 
 
-    # Concatenate all DataFrames into one
-    if df_list:
+    if existing_csv_files:
+        df_list = [pd.read_csv(file) for file in existing_csv_files]
         final_df = pd.concat(df_list, ignore_index=True)
-        # Save the result to a new CSV
         final_df.to_csv(f'./bcci_shot_data/{cat}/combined_shot_data.csv', index=False)
         print('CSV files have been concatenated successfully!')
     else:
         print('No CSV files were found to combine.')
+
+    # Read and concatenate the CSVs
+    # df_list = []
+    # for file in csv_files:
+    #     file_path = os.path.join(folder_path, file)
+    #     if os.path.exists(file_path):  # Only process if the file exists
+    #         df = pd.read_csv(file_path)
+    #         df_list.append(df)
+
+    # Concatenate all DataFrames into one
+    # if df_list:
+    #     final_df = pd.concat(df_list, ignore_index=True)
+    #     # Save the result to a new CSV
+    #     final_df.to_csv(f'./bcci_shot_data/{cat}/combined_shot_data.csv', index=False)
+    #     print('CSV files have been concatenated successfully!')
+    # else:
+    #     print('No CSV files were found to combine.')
 
 def hawkeye_data(cat):
     # https://www.bcci.tv/events/183/border-gavaskar-trophy-2024-25/match/1652/4th-test
@@ -217,10 +235,22 @@ def hawkeye_data(cat):
 
     hawkeye_match_ids = {m_id for m_id, _ in hawkeye_ids}
 
-    temp_df = pd.read_json(f"./bcci_shot_data/{cat}/bcci_match_list.json", convert_dates=False)
-    india_match_df = temp_df[(temp_df['HomeTeamName'] == 'India') | (temp_df['HomeTeamName'] == 'India (Women)')]
+    if hawkeye_ids:
+        last_hawkeye_match_id = hawkeye_ids[-1][0]
+    else:
+        last_hawkeye_match_id = None
 
-    india_match_df = india_match_df[~india_match_df['MatchID'].isin(hawkeye_match_ids)]
+    temp_df = pd.read_json(f"./bcci_shot_data/{cat}/bcci_match_list.json", convert_dates=False)
+
+    if last_hawkeye_match_id is not None:
+        last_match_index = temp_df[temp_df['MatchID'] == last_hawkeye_match_id].index.max()
+        india_match_df = temp_df.loc[last_match_index + 1:]
+    else:
+        india_match_df = temp_df
+    # india_match_df = temp_df[(temp_df['HomeTeamName'] == 'India') | (temp_df['HomeTeamName'] == 'India (Women)')]
+    india_match_df = india_match_df[india_match_df['HomeTeamName'].isin(['India', 'India (Women)'])]
+
+    # india_match_df = india_match_df[~india_match_df['MatchID'].isin(hawkeye_match_ids)]
 
     for c_id, c_name, m_id, m_order in zip(india_match_df['CompetitionID'], india_match_df['CompetitionName'], india_match_df['MatchID'], india_match_df['MatchOrder']):
 
@@ -252,8 +282,13 @@ def main_func(cat):
     # category = ["Men", "Women"]
 
     # for cat in category:
-    bcci_match_list = bcci_shot_data_json(cat)
-    match_data_procees(bcci_match_list, cat)
+    all_bcci_match_list, new_match_list = bcci_shot_data_json(cat)
+    # profiler = LineProfiler()
+    # profiler.add_function(match_data_procees)
+    # profiler_wrapper = profiler(match_data_procees)
+    # result = profiler_wrapper(all_bcci_match_list, new_match_list, cat)
+    # profiler.print_stats()
+    match_data_procees(all_bcci_match_list, new_match_list,cat)
     hawkeye_data(cat)
 
 if __name__ == '__main__':

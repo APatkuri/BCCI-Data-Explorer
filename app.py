@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 from bcci_shot_data import main_func
 from bcci_hawkeye_scrapper import hawkeye_main
 from pitch_view.pitch_densitymap import *
+from line_profiler import LineProfiler
 
 st.title("BCCI Data Playground")
 
@@ -23,6 +24,11 @@ cat = st.selectbox('Category', ['Men', 'Women'])
 
 if submit_button:
     with st.spinner("Updating Shot data... Please wait."):
+        # profiler = LineProfiler()
+        # profiler.add_function(main_func)
+        # profiler_wrapper = profiler(main_func)
+        # result = profiler_wrapper(cat)
+        # profiler.print_stats()
         main_func(cat)
     st.success("Update completed successfully!")
     

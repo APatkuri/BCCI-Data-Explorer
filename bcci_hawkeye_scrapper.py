@@ -64,26 +64,51 @@ def hawkeye_main(cat, matchid, hawkeyeid):
             continue
 
         # max_overs_per_innings = t20bbb.groupby('InningsNo')['OverNo'].max()
+        max_innings = t20bbb['InningsNo'].max()
+        max_overs_per_innings = t20bbb.groupby('InningsNo')['OverNo'].max()
+
+        # last_rows_per_innings = t20bbb.groupby('InningsNo').tail(1)
+        # last_rows_per_innings = last_rows_per_innings[['InningsNo', 'OverNo', 'BallNo']]
+
         # t20bbb = pd.read_csv(match_str, dtype = {'line': str, 'length': str, 'shot': str})
-        # if os.path.exists(OUT_FILENAME):
-        #     # If it exists, read the existing data into a DataFrame
-        #     hawkeye_data = pd.read_csv(OUT_FILENAME)
-        #     existing_data_count = len(hawkeye_data)
-        # else:
-        #     # If it doesn't exist, initialize an empty list for new data
-        #     hawkeye_data = pd.DataFrame(columns=FIELDS)
-        #     existing_data_count = 0
+        if os.path.exists(OUT_FILENAME):
+            # If it exists, read the existing data into a DataFrame
+            hawkeye_data = pd.read_csv(OUT_FILENAME)
+            if len(hawkeye_data) == len(t20bbb):
+                print("Data already processed, stopping function.")
+                return
+
+            last_row = hawkeye_data.iloc[-1]
+            start_inning_no = last_row['InningsNo']
+            start_over_no = last_row['OverNo']
+            start_ball_no = last_row['BallCount']
+            count = len(hawkeye_data)
+        else:
+            # If it doesn't exist, initialize an empty list for new data
+            hawkeye_data = pd.DataFrame(columns=FIELDS)
+            start_inning_no = 1
+            start_over_no = 1
+            start_ball_no = 0
+
+            count = 0
 
         count = 0
 
-        for inning in range(1, max_innings+1):
+        for inning in range(start_inning_no, max_innings+1):
             # if inning not in max_overs_per_innings:
             #     continue
-            
-            # max_over = max_overs_per_innings.get(inning, 0)
+            max_over = max_overs_per_innings.get(inning, 0)
+            if(inning == start_inning_no):
+               start_over_no = start_over_no
+            else:
+                start_over_no = 1
 
-            for over in range(1, max_over+1):
-                ball = 1
+            for over in range(start_over_no, max_over+1):
+
+                if((inning == start_inning_no) & (over == start_over_no)):
+                    ball = start_ball_no+1
+                else:
+                    ball = 1
 
                 while True:
                     # initialize ball_data dictionary to add values for keys for FIELDS above
@@ -96,7 +121,7 @@ def hawkeye_main(cat, matchid, hawkeyeid):
                     # ball_id = int(over) - 1 + float(ball) / 100
 
                     print(inning, ball_id)
-                    placeholder.text(f"Inning No: {inning}, Ball: {ball_id}")
+                    # placeholder.text(f"Inning No: {inning}, Ball: {ball_id}")
                     # ball_data_checks = t20bbb.loc[(t20bbb['match_id'] == int(matchID)) & (t20bbb['ball'] == ball_id) & (t20bbb['innings'] == inning)]
                     # ball_data_checks = t20bbb.loc[(t20bbb['p_match'] == int(matchID)) & (t20bbb['ball_id'] == ball_id) & (t20bbb['inns'] == inning)]
                     ball_data_checks = t20bbb.loc[(t20bbb['MatchID'] == int(matchID)) & (t20bbb['OverNo'] == over) & (t20bbb['BallCount'] == ball) & (t20bbb['InningsNo'] == inning)]
@@ -128,13 +153,14 @@ def hawkeye_main(cat, matchid, hawkeyeid):
                     count += 1
 
         # new_data_df = pd.DataFrame(ball_data_all)
-        hawkeye_data = pd.DataFrame(ball_data_all)
-        # hawkeye_data = pd.concat([hawkeye_data, new_data_df], ignore_index=True)
-        hawkeye_data.to_csv(OUT_FILENAME, index = False)       
+        new_hawkeye_data = pd.DataFrame(ball_data_all)
+        # hawkeye_data = pd.concat([hawkeye_data, new_hawkeye_data], ignore_index=True)
+        new_hawkeye_data.to_csv(OUT_FILENAME, mode='a', header=not os.path.exists(OUT_FILENAME), index=False)
+        # hawkeye_data.to_csv(OUT_FILENAME, index = False)       
         print(f'{matchID} {count} done')
         placeholder.empty()
 
 
 
 # if __name__ == "__main__":
-#     main()
+#     hawkeye_main()

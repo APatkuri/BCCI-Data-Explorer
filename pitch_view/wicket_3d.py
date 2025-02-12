@@ -44,12 +44,12 @@ def plot_wicket_3d(ax,
     fp = fm.FontProperties(fname=fname)
 
     if view == 'front':
-        PITCH_X_BOUND = 2
-        PITCH_Y_BOUND = 5
+        PITCH_X_BOUND = 1
+        PITCH_Y_BOUND = 7
         STUMP_LINEWIDTH = 3
-        BEHIND_STUMPS_Y_LIMIT = 1
+        BEHIND_STUMPS_Y_LIMIT = 2
 
-        ax.view_init(elev=8, azim=90)
+        ax.view_init(elev=10, azim=90)
 
     elif view == 'back':
         PITCH_X_BOUND = -0.9
@@ -75,7 +75,7 @@ def plot_wicket_3d(ax,
 
         ax.view_init(elev=-10, azim=90)
 
-    PITCH_Z_BOUND = 0.2
+    PITCH_Z_BOUND = 0.1
 
     WICKET_LENGTH = 22.56
     WICKET_WIDTH = 3.66
@@ -203,7 +203,7 @@ def plot_wicket_3d(ax,
         (2 * PITCH_X_BOUND, PITCH_Y_BOUND - BEHIND_STUMPS_Y_LIMIT, PITCH_Z_BOUND))  # max - min for each axis
 
     # Plot ruler on the surface of the pitch - text angle is in radians
-    for dist in [2, 4, 6, 8, 10]:
+    for dist in [2, 4, 6, 8, 10, 12, 14]:
         # Plot text labels on pitch surface
         # text3d(ax, (2.5, dist, 0),
         #        '{0}m'.format(dist),
