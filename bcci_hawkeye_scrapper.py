@@ -121,7 +121,7 @@ def hawkeye_main(cat, matchid, hawkeyeid):
                     # ball_id = int(over) - 1 + float(ball) / 100
 
                     print(inning, ball_id)
-                    # placeholder.text(f"Inning No: {inning}, Ball: {ball_id}")
+                    placeholder.text(f"Inning No: {inning}, Ball: {ball_id}")
                     # ball_data_checks = t20bbb.loc[(t20bbb['match_id'] == int(matchID)) & (t20bbb['ball'] == ball_id) & (t20bbb['innings'] == inning)]
                     # ball_data_checks = t20bbb.loc[(t20bbb['p_match'] == int(matchID)) & (t20bbb['ball_id'] == ball_id) & (t20bbb['inns'] == inning)]
                     ball_data_checks = t20bbb.loc[(t20bbb['MatchID'] == int(matchID)) & (t20bbb['OverNo'] == over) & (t20bbb['BallCount'] == ball) & (t20bbb['InningsNo'] == inning)]
