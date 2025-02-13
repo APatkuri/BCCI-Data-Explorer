@@ -65,7 +65,9 @@ def fill_non_hawkeye_data(ball_data: dict, ball_data_check: pd.DataFrame):
             team_bowl = ball_data_check.iloc[0]['team_bowl']
             ball_data[attribute] = "-".join(team_bowl.split())
         else:
-            ball_data[attribute] = ball_data_check[attribute].values[0]
+            # ball_data[attribute] = ball_data_check[attribute].values[0]
+            ball_data[attribute] = ball_data_check.get(attribute, pd.Series([""])).values[0]
+
         
 
     

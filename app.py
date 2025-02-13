@@ -56,20 +56,26 @@ format_type = st.selectbox(
 
 format_df = match_list_df[match_list_df['MatchTypeName'] == format_type]
 
+unique_competitions = format_df[['CompetitionID', 'CompetitionName']].drop_duplicates()
+unique_competitions['Display'] = unique_competitions.apply(lambda x: f"{x['CompetitionName']} ({x['CompetitionID']})", axis=1)
 
 series_name = st.selectbox(
     'Series',
-    format_df['CompetitionName'].unique(),
+    # format_df['CompetitionName'].unique(),
+    unique_competitions['Display'],
     index=None,
     placeholder='Choose an option',
 )
 
-match_name = st.selectbox(
-    'Match',
-    format_df[format_df['CompetitionName'] == series_name]['MatchOrder'],
-    index=None,
-    placeholder='Choose an option',
-)
+if series_name:
+    selected_competition_id = int(series_name.split("(")[-1][:-1])
+    match_name = st.selectbox(
+        'Match',
+        # format_df[format_df['CompetitionName'] == series_name]['MatchOrder'],
+        format_df[format_df['CompetitionID'] == selected_competition_id]['MatchOrder'],
+        index=None,
+        placeholder='Choose an option',
+    )
 
 # if(format_type):
 #     temp = format_df['CompetitionName'] + " " + format_df['MatchOrder']
@@ -352,7 +358,8 @@ def speed_data(custom_df, plotno ,phase="All"):
 # plt.plot()
 
 if(format_type and series_name and match_name):
-    match_df = format_df[(format_df['CompetitionName'] == series_name) & (format_df['MatchOrder'] == match_name)]
+    # match_df = format_df[(format_df['CompetitionName'] == series_name) & (format_df['MatchOrder'] == match_name)]
+    match_df = format_df[(format_df['CompetitionID'] == selected_competition_id) & (format_df['MatchOrder'] == match_name)]
     match_id = match_df['MatchID'].unique()[0]
     max_overs = match_df['MATCH_NO_OF_OVERS'].unique()[0]
     # max_shot_data_inns = shot_data_df[shot_data_df['MatchID'] == match_id]['InningsNo'].max()
