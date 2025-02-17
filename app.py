@@ -185,7 +185,7 @@ def speed_data(custom_df, plotno ,phase="All"):
         #     gauss_y = kde(gauss_x)
             # gauss_y_norm = gauss_y / np.trapz(gauss_y, gauss_x) 
             # return gauss_x, gauss_y_norm
-        if(plotno < 11):
+        if(plotno < 12):
 
             for name in name_list:
                 df = custom_df
@@ -288,6 +288,16 @@ def speed_data(custom_df, plotno ,phase="All"):
                         plt.legend()
                         plt.grid(True, linestyle='--')
 
+                    elif(plotno == 8):
+                        length_x = [float("%.2f"%x) for x, z in zip(df_bowler['bounce_x'], df_bowler['stump_z']) if x>=0 and -50<z<50]
+                        height_z = [float("%.2f"%z) for x, z in zip(df_bowler['bounce_x'], df_bowler['stump_z']) if x>=0 and -50<z<50]
+                        plt.plot(length_x, height_z, 'o',label=f"{bowler_name}")
+                        plt.title(f"Overs {min_over_limit}-{max_over_limit} Length vs Height Distribution")
+                        # plt.axhline(y = np.mean(height_z), linestyle= '--', label=f"{bowler_name}")
+                        plt.axhline(y=0.711, color='brown')
+                        plt.legend()
+                        plt.grid(True, linestyle='--')
+
                     # elif(plotno == 8):
                     #     # pitch_x_list = [float("%.2f"%x) for x in df_bowler['bounce_x'] if x>0]
                     #     # pitch_y_list = [float("%.2f"%x) for x in df_bowler['bounce_y'] if -50<x<50]
@@ -304,13 +314,13 @@ def speed_data(custom_df, plotno ,phase="All"):
                     #     plt.legend()
                         
             
-            if(plotno == 8):
+            if(plotno == 9):
                 title = 'Pitch Map'
                 subtitle_1 = f'{series_name}: {match_name}'
                 subtitle_2 = f'Tracking enabled for {len(custom_df)} balls between Overs {min_over_limit}-{max_over_limit}.'
                 fig = plot_pitch(custom_df, title, subtitle_1, subtitle_2)
             
-            if(plotno == 9):
+            if(plotno == 10):
                 beehive_df = custom_df[custom_df['stump_y'].between(-50, 50) & custom_df['stump_z'].between(-50, 50)].copy()
                 boundaries_df = beehive_df[((beehive_df['IsFour'] == 1) | (beehive_df['IsSix'] == 1)) & (beehive_df['IsWicket'] == 0)]
                 wickets_df = beehive_df[(beehive_df['IsWicket'] == 1)]
@@ -327,7 +337,7 @@ def speed_data(custom_df, plotno ,phase="All"):
                 plt.legend()
                 plt.grid(True, linestyle='--')
 
-            if(plotno == 10):
+            if(plotno == 11):
                 beehive_df = custom_df[custom_df['bounce_x'] >= 0].copy()
                 boundaries_df = beehive_df[((beehive_df['IsFour'] == 1) | (beehive_df['IsSix'] == 1)) & (beehive_df['IsWicket'] == 0)]
                 wickets_df = beehive_df[(beehive_df['IsWicket'] == 1)]
@@ -342,7 +352,7 @@ def speed_data(custom_df, plotno ,phase="All"):
             # plt.show()
             st.pyplot(plt)
 
-        if(plotno == 11):
+        if(plotno == 12):
             bowler_name = st.selectbox(
                 'Bowler',
                 custom_df['BowlerName'].unique() if not custom_df.empty else [],
@@ -468,10 +478,10 @@ if (format_type and series_name and match_name and available_shot_data and len(f
     if(hawk_eye_df is not None):
         selected_option = st.selectbox('Choose an option', ['Line Shot Data Probability Distribution', 'Length Shot Data Probability Distribution', 
                                                             'Speed Probability Distibution','Length Kernel Density Estimation',
-                                                            'Line Kernel Density Estimation', 'Swing Probability Distribution',
-                                                            'Seam Probability Distribution', 'Release Points Distribution',
-                                                            'Beehive Distribution Bowler Comparison', 'Beehive Distribution Outcome Comparision','Pitch Map Bowler Comparion', 
-                                                            'Pitch Map Outcome Comparision', 'Pitch Heatmap'])
+                                                            'Line Kernel Density Estimation', 'Length vs Height Distribution',
+                                                            'Swing Probability Distribution', 'Seam Probability Distribution', 'Release Points Distribution',
+                                                            'Beehive Distribution Bowler Comparison', 'Beehive Distribution Outcome Comparison',
+                                                            'Pitch Map Bowler Comparison', 'Pitch Map Outcome Comparison', 'Pitch Heatmap'])
     else:
         selected_option = st.selectbox('Choose an option', ['Line Shot Data Probability Distribution', 'Length Shot Data Probability Distribution'])
 
@@ -494,14 +504,16 @@ if (format_type and series_name and match_name and available_shot_data and len(f
             speed_data(hawkeye_bowling_df, 6)
         elif(selected_option == 'Beehive Distribution Bowler Comparison'):
             speed_data(hawkeye_bowling_df, 7)
-        elif(selected_option == 'Pitch Map Bowler Comparion'):
+        elif(selected_option == 'Length vs Height Distribution'):
             speed_data(hawkeye_bowling_df, 8)
-        elif(selected_option == 'Beehive Distribution Outcome Comparision'):
+        elif(selected_option == 'Pitch Map Bowler Comparison'):
             speed_data(hawkeye_bowling_df, 9)
-        elif(selected_option == 'Pitch Map Outcome Comparision'):
+        elif(selected_option == 'Beehive Distribution Outcome Comparison'):
             speed_data(hawkeye_bowling_df, 10)
-        elif(selected_option == 'Pitch Heatmap'):
+        elif(selected_option == 'Pitch Map Outcome Comparison'):
             speed_data(hawkeye_bowling_df, 11)
+        elif(selected_option == 'Pitch Heatmap'):
+            speed_data(hawkeye_bowling_df, 12)
 
     if(selected_option):
         plotting_func(selected_option)
