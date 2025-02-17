@@ -211,7 +211,7 @@ def plot_wicket_3d(ax,
         #        facecolor='black', edgecolor=outline_colour)
 
         # Plot text labels as a regular text label
-        ax.plot([-2, 2], [dist, dist], 0, c=marking_colour, alpha=0.2, ls='--', lw=1)
+        ax.plot([-2, 2], [dist, dist], 0, c=marking_colour, alpha=0.6, ls='--', lw=1)
         ax.text(2.1, dist, 0, '{0}m'.format(dist), color=outline_colour, fontproperties=fp, size=14)
 
     # for dist in [0.4, 0.8, 1.2, 1.6, 2.0]:

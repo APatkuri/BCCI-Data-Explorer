@@ -472,7 +472,7 @@ def bowling_strikerate_heatmap(xy,
 
     plt.show()
 
-def pitch_map(dots_rh, runs_rh, boundaries_rh, wickets_rh, title='', subtitle_1='', subtitle_2=''):
+def pitch_map(dots_df, runs_df, boundaries_df, wickets_df, title='', subtitle_1='', subtitle_2=''):
 
     """ Plots a heatmap overlaid on wicket_3d front view, using a specified values array for square shading
 
@@ -511,7 +511,7 @@ def pitch_map(dots_rh, runs_rh, boundaries_rh, wickets_rh, title='', subtitle_1=
     fname = './pitch_view/AlumniSans-SemiBold.ttf'
     fp = fm.FontProperties(fname=fname)
 
-    X, Y, Z = get_density(dots_rh)
+    # X, Y, Z = get_density(dots_rh)
 
     # Plot a 2D KDE plot of the delivery pitch locations on a 3D pitch
 
@@ -520,28 +520,28 @@ def pitch_map(dots_rh, runs_rh, boundaries_rh, wickets_rh, title='', subtitle_1=
     fig.subplots_adjust(left=0,
                         right=1,
                         bottom=-0.2,
-                        top=2)  # Get rid of some excess whitespace - adjust to taste
+                        top=1)  # Get rid of some excess whitespace - adjust to taste
 
     # ax = plt.gca(projection='3d')  # We'll plot on a 3D axis
     ax = fig.add_subplot(111, projection='3d')
     # We have data for a 3D surface plot, but we want to plot a 2D surface on the xy plane, so we'll set the Z axis
     # to zeros
-    z_axis = np.zeros(X.shape)
+    # z_axis = np.zeros(X.shape)
 
-    # We will manually set the colours of the surface based on the actual Z data using facecolors argument of
-    # ax.plot_surface
-    colours = plt.cm.PuRd(Z)
+    # # We will manually set the colours of the surface based on the actual Z data using facecolors argument of
+    # # ax.plot_surface
+    # colours = plt.cm.PuRd(Z)
 
-    # A trick to apply gradual alpha shading to the surface plot for cleaner looking visual
+    # # A trick to apply gradual alpha shading to the surface plot for cleaner looking visual
 
-    for i in range(len(colours)):
-        plane = colours[i]
-        for j in range(len(plane)):
-            row = plane[j]
-            if (row[0:3].mean() >= 0.87) & (row[0:3].mean() < 0.92):
-                row[3] = 0.25
-            elif row[0:3].mean() >= 0.92:
-                row[3] = 0
+    # for i in range(len(colours)):
+    #     plane = colours[i]
+    #     for j in range(len(plane)):
+    #         row = plane[j]
+    #         if (row[0:3].mean() >= 0.87) & (row[0:3].mean() < 0.92):
+    #             row[3] = 0.25
+    #         elif row[0:3].mean() >= 0.92:
+    #             row[3] = 0
 
     # Plot the surfaces
     # ax.plot_surface(X,
@@ -557,50 +557,48 @@ def pitch_map(dots_rh, runs_rh, boundaries_rh, wickets_rh, title='', subtitle_1=
     # ax.scatter(runs_rh[:, 0], runs_rh[:, 1], c='yellow', edgecolor='black', alpha=0.5, zorder=9)
     # ax.scatter(boundaries_rh[:, 0], boundaries_rh[:, 1], c='green', edgecolor='black', alpha=0.5, zorder=9)
     # ax.scatter(wickets_rh[:, 0], wickets_rh[:, 1], c='white', edgecolor='black', alpha=0.5, zorder=9)
-
-    # Runs (Yellow)
-    ax.scatter(runs_rh[:, 0], runs_rh[:, 1], 
+    
+    ax.scatter(-dots_df['bounce_y'], dots_df['bounce_x'],  
+            c='green', 
+            # edgecolor='#FF8C00',  # Dark orange hex code
+            alpha=0.7, 
+            zorder=9, 
+            s=30, 
+            linewidth=1.2, 
+            marker='o',
+            label="Dots")
+    
+    ax.scatter(-runs_df['bounce_y'], runs_df['bounce_x'], 
             c='yellow', 
-            edgecolor='#FF8C00',  # Dark orange hex code
+            # edgecolor='#FF8C00',  # Dark orange hex code
             alpha=0.7, 
             zorder=9, 
             s=30, 
             linewidth=1.2, 
             marker='o',
             label="Runs")
-
-    # Boundaries (Green)
-    ax.scatter(boundaries_rh[:, 0], boundaries_rh[:, 1], 
-            c='green', 
-            edgecolor='#006400',  # Dark green hex code
-            alpha=0.7, 
-            zorder=10, 
-            s=30, 
-            linewidth=1.2, 
-            marker='o',
-            label="Boundaries")
     
-    # Dots (Red)
-    ax.scatter(dots_rh[:, 0], dots_rh[:, 1], 
+    ax.scatter(-boundaries_df['bounce_y'], boundaries_df['bounce_x'],  
             c='red', 
-            edgecolor='#8B0000',  # Dark red hex code
-            alpha=0.7, 
-            zorder=11, 
+            # edgecolor='#FF8C00',  # Dark orange hex code
+            alpha=1.0, 
+            zorder=9, 
             s=30, 
             linewidth=1.2, 
             marker='o',
-            label="Dots")
+            label="4s/6s")
     
-    # Wickets (Blue)
-    ax.scatter(wickets_rh[:, 0], wickets_rh[:, 1], 
-           c='blue', 
-           edgecolor='darkblue',  # Dark blue edge 
-           alpha=0.7, 
-           zorder=12, 
-           s=30, 
-           linewidth=1.2, 
-           marker='o',
-           label="Wickets") 
+    ax.scatter(-wickets_df['bounce_y'], wickets_df['bounce_x'], 
+            c='blue', 
+            # edgecolor='#FF8C00',  # Dark orange hex code
+            alpha=1.0, 
+            zorder=9, 
+            s=30, 
+            linewidth=1.2, 
+            marker='o',
+            label="Wickets")
+    
+    ax.legend()
     
     # Add titles and subtitles
     add_title_axis(fig,
@@ -621,7 +619,8 @@ def pitch_map(dots_rh, runs_rh, boundaries_rh, wickets_rh, title='', subtitle_1=
                    wicket_colour=wicket_colour)
                    
     
-    plt.show()
+    # plt.show()
+    return fig
 
 def average_turn_heatmap(xy,
                             turn,
@@ -772,3 +771,58 @@ def average_turn_heatmap(xy,
                    subtitle_colour=subtitle_colour)
 
     plt.show()
+
+def plot_pitch(custom_df, title='', subtitle_1='', subtitle_2=''):
+
+    pitch_colour = 'white'
+    wicket_colour = '#f5f6fa'
+    marking_colour = '#595959'
+    stump_colour = 'slategray'
+    outline_colour = '#595959'
+    title_colour = '#080a2e'
+    subtitle_colour = '#9e9fa3'
+    fname = './pitch_view/AlumniSans-SemiBold.ttf'
+    fp = fm.FontProperties(fname=fname)
+
+    fig = plt.figure(figsize=(8, 5))
+    # fig.set_size_inches(8, 5)
+    fig.subplots_adjust(left=0,
+                        right=1,
+                        bottom=-0.2,
+                        top=1)
+    
+    ax = fig.add_subplot(111, projection='3d')
+
+    name_list = list(custom_df['BowlerName'].unique())
+
+    for name in name_list:
+        df = custom_df
+        df_bowler = df[df['BowlerName'].str.contains(f"{name}", case=False, na=False)]
+        bowler_name = df_bowler['BowlerName'].unique()[0]
+        # df_bowler = df_bowler[(df_bowler['OverNo'] > 10) & (df_bowler['OverNo'] <= 40)]
+
+        if(len(df_bowler) > 0):
+            plot_df = df_bowler
+            pitch_x_list = [float("%.2f"%x) for x, y in zip(plot_df['bounce_x'], plot_df['bounce_y']) if x>=0 and -500<y<500]
+            pitch_y_list = [-float("%.2f"%y) for x, y in zip(plot_df['bounce_x'], plot_df['bounce_y']) if x>=0 and -500<y<500]
+            ax.scatter(pitch_y_list, pitch_x_list, marker='o', alpha=1.0, s=30, label=f"{bowler_name}")
+    
+    ax.legend(loc='upper right')
+
+    add_title_axis(fig,
+                   title,
+                   subtitle_1,
+                   subtitle_2,
+                   fp=fp,
+                   title_colour=title_colour,
+                   subtitle_colour=subtitle_colour)
+
+    # Generate a cricket pitch on the axis we created
+    plot_wicket_3d(ax,
+                   view='front',
+                   pitch_colour=pitch_colour,
+                   marking_colour=marking_colour,
+                   outline_colour=outline_colour,
+                   stump_colour=stump_colour,
+                   wicket_colour=wicket_colour)
+    return fig

@@ -137,9 +137,12 @@ def match_data_procees(bcci_match_list, new_match_list, cat):
     new_match_df = pd.DataFrame(new_match_list).drop_duplicates(subset=['MatchID'], keep='first', inplace=False)
 
     live_data_file_name = f"./bcci_shot_data/{cat}/live_data_file_name.txt"
+    # live_data_file_name = f"./bcci_shot_data/{cat}/live_data_file.csv"
     try:
         with open(live_data_file_name, 'r') as file:
             existing_ids = set(line.strip() for line in file)
+        # existing_df = pd.read_csv(live_data_file_name)
+        # existing_ids = set(existing_df['MatchID'].astype(str))
     except FileNotFoundError:
         existing_ids = set()
 
@@ -171,6 +174,8 @@ def match_data_procees(bcci_match_list, new_match_list, cat):
         get_bcci_shot_data(match_id, max_overs, cat)
         csv_to_json(match_id, cat)
         
+        # updated_df = pd.DataFrame({'MatchID': list(existing_ids)})
+        # updated_df.to_csv(live_data_file_name, index=False)
     with open(live_data_file_name, 'w') as file:
         file.write('\n'.join(str(id) for id in existing_ids))
 

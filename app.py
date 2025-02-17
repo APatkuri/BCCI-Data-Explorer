@@ -44,6 +44,8 @@ if submit_button:
 try:
     shot_data_df = pd.read_csv(f"./bcci_shot_data/{cat}/combined_shot_data.csv", low_memory=False)
     match_list_df = pd.read_csv(f"./bcci_shot_data/{cat}/bcci_match_list.csv", low_memory=False)
+
+    match_list_df = match_list_df[match_list_df['HomeTeamID'].isin([1,52])]
 except:
     st.error("Cannot Load Data")
 
@@ -183,7 +185,7 @@ def speed_data(custom_df, plotno ,phase="All"):
         #     gauss_y = kde(gauss_x)
             # gauss_y_norm = gauss_y / np.trapz(gauss_y, gauss_x) 
             # return gauss_x, gauss_y_norm
-        if(plotno < 10):
+        if(plotno < 11):
 
             for name in name_list:
                 df = custom_df
@@ -286,27 +288,34 @@ def speed_data(custom_df, plotno ,phase="All"):
                         plt.legend()
                         plt.grid(True, linestyle='--')
 
-                    elif(plotno == 8):
-                        # pitch_x_list = [float("%.2f"%x) for x in df_bowler['bounce_x'] if x>0]
-                        # pitch_y_list = [float("%.2f"%x) for x in df_bowler['bounce_y'] if -50<x<50]
-                        plot_df = df_bowler
-                        plot_df['bounce_y'] = plot_df['bounce_y']
-                        pitch_x_list = [float("%.2f"%x) for x, y in zip(plot_df['bounce_x'], plot_df['bounce_y']) if x>-100 and -500<y<500]
-                        pitch_y_list = [float("%.2f"%y) for x, y in zip(plot_df['bounce_x'], plot_df['bounce_y']) if x>-100 and -500<y<500]
-                        # show_stump(plt)
-                        plt.plot(pitch_y_list,pitch_x_list, 'o',label=f"{bowler_name}", markersize=5)
-                        show_pitch_top(plt)
-                        # plt.gca()
-                        plt.title(f"Overs {min_over_limit}-{max_over_limit} Pitch Distribution")
-                        plt.grid(False)
-                        plt.legend()
+                    # elif(plotno == 8):
+                    #     # pitch_x_list = [float("%.2f"%x) for x in df_bowler['bounce_x'] if x>0]
+                    #     # pitch_y_list = [float("%.2f"%x) for x in df_bowler['bounce_y'] if -50<x<50]
+                    #     plot_df = df_bowler
+                    #     plot_df['bounce_y'] = plot_df['bounce_y']
+                    #     pitch_x_list = [float("%.2f"%x) for x, y in zip(plot_df['bounce_x'], plot_df['bounce_y']) if x>-100 and -500<y<500]
+                    #     pitch_y_list = [float("%.2f"%y) for x, y in zip(plot_df['bounce_x'], plot_df['bounce_y']) if x>-100 and -500<y<500]
+                    #     # show_stump(plt)
+                    #     plt.plot(pitch_y_list,pitch_x_list, 'o',label=f"{bowler_name}", markersize=5)
+                    #     show_pitch_top(plt)
+                    #     # plt.gca()
+                    #     plt.title(f"Overs {min_over_limit}-{max_over_limit} Pitch Distribution")
+                    #     plt.grid(False)
+                    #     plt.legend()
+                        
+            
+            if(plotno == 8):
+                title = 'Pitch Map'
+                subtitle_1 = f'{series_name}: {match_name}'
+                subtitle_2 = f'Tracking enabled for {len(custom_df)} balls between Overs {min_over_limit}-{max_over_limit}.'
+                fig = plot_pitch(custom_df, title, subtitle_1, subtitle_2)
             
             if(plotno == 9):
                 beehive_df = custom_df[custom_df['stump_y'].between(-50, 50) & custom_df['stump_z'].between(-50, 50)].copy()
-                boundaries_df = beehive_df[(beehive_df['IsFour'] == 1) | (beehive_df['IsSix'] == 1)]
+                boundaries_df = beehive_df[((beehive_df['IsFour'] == 1) | (beehive_df['IsSix'] == 1)) & (beehive_df['IsWicket'] == 0)]
                 wickets_df = beehive_df[(beehive_df['IsWicket'] == 1)]
-                dots_df = beehive_df[(beehive_df['IsDotball'] == 1)]
-                runs_df = beehive_df[pd.to_numeric(beehive_df['BallRuns'], errors='coerce').fillna(0).astype(int).gt(0) & (beehive_df['IsFour'] == 0) & (beehive_df['IsSix'] == 0)]
+                dots_df = beehive_df[(beehive_df['IsDotball'] == 1) & (beehive_df['IsWicket'] == 0)]
+                runs_df = beehive_df[pd.to_numeric(beehive_df['BallRuns'], errors='coerce').fillna(0).astype(int).gt(0) & (beehive_df['IsFour'] == 0) & (beehive_df['IsSix'] == 0) & (beehive_df['IsWicket'] == 0)]
                 show_stump(plt)
                 plt.plot(dots_df['stump_y'],dots_df['stump_z'], 'o', color='green',label="Dots", alpha=0.5)
                 plt.plot(runs_df['stump_y'],runs_df['stump_z'], 'o', color='yellow',label="Runs", alpha=0.5)
@@ -317,12 +326,23 @@ def speed_data(custom_df, plotno ,phase="All"):
                 plt.ylim(0, 2.5)
                 plt.legend()
                 plt.grid(True, linestyle='--')
-                
+
+            if(plotno == 10):
+                beehive_df = custom_df[custom_df['bounce_x'] >= 0].copy()
+                boundaries_df = beehive_df[((beehive_df['IsFour'] == 1) | (beehive_df['IsSix'] == 1)) & (beehive_df['IsWicket'] == 0)]
+                wickets_df = beehive_df[(beehive_df['IsWicket'] == 1)]
+                dots_df = beehive_df[(beehive_df['IsDotball'] == 1) & (beehive_df['IsWicket'] == 0)]
+                runs_df = beehive_df[pd.to_numeric(beehive_df['BallRuns'], errors='coerce').fillna(0).astype(int).gt(0) & (beehive_df['IsFour'] == 0) & (beehive_df['IsSix'] == 0) & (beehive_df['IsWicket'] == 0)]
+                title = 'Pitch Map'
+                subtitle_1 = f'{series_name}: {match_name}'
+                subtitle_2 = f'Tracking enabled for {len(custom_df)} balls between Overs {min_over_limit}-{max_over_limit}.'
+                fig = pitch_map(dots_df, runs_df, boundaries_df, wickets_df, title, subtitle_1, subtitle_2)
+                # st.pyplot(fig)
             
             # plt.show()
             st.pyplot(plt)
 
-        if(plotno == 10):
+        if(plotno == 11):
             bowler_name = st.selectbox(
                 'Bowler',
                 custom_df['BowlerName'].unique() if not custom_df.empty else [],
@@ -450,7 +470,8 @@ if (format_type and series_name and match_name and available_shot_data and len(f
                                                             'Speed Probability Distibution','Length Kernel Density Estimation',
                                                             'Line Kernel Density Estimation', 'Swing Probability Distribution',
                                                             'Seam Probability Distribution', 'Release Points Distribution',
-                                                            'Beehive Distribution Bowler Comparison', 'Beehive Distribution Outcome Comparision','Pitch Distribution', 'Pitch Heatmap'])
+                                                            'Beehive Distribution Bowler Comparison', 'Beehive Distribution Outcome Comparision','Pitch Map Bowler Comparion', 
+                                                            'Pitch Map Outcome Comparision', 'Pitch Heatmap'])
     else:
         selected_option = st.selectbox('Choose an option', ['Line Shot Data Probability Distribution', 'Length Shot Data Probability Distribution'])
 
@@ -473,12 +494,14 @@ if (format_type and series_name and match_name and available_shot_data and len(f
             speed_data(hawkeye_bowling_df, 6)
         elif(selected_option == 'Beehive Distribution Bowler Comparison'):
             speed_data(hawkeye_bowling_df, 7)
-        elif(selected_option == 'Pitch Distribution'):
+        elif(selected_option == 'Pitch Map Bowler Comparion'):
             speed_data(hawkeye_bowling_df, 8)
         elif(selected_option == 'Beehive Distribution Outcome Comparision'):
             speed_data(hawkeye_bowling_df, 9)
-        elif(selected_option == 'Pitch Heatmap'):
+        elif(selected_option == 'Pitch Map Outcome Comparision'):
             speed_data(hawkeye_bowling_df, 10)
+        elif(selected_option == 'Pitch Heatmap'):
+            speed_data(hawkeye_bowling_df, 11)
 
     if(selected_option):
         plotting_func(selected_option)
