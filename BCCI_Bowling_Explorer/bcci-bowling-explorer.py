@@ -7,6 +7,12 @@ import scipy.stats as stats
 import seaborn as sns
 import matplotlib.pyplot as plt
 # import plotly.figure_factory as ff
+import os
+import sys
+parent_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+if parent_dir not in sys.path:
+    sys.path.append(parent_dir)
+
 from bcci_shot_data import main_func
 from bcci_hawkeye_scrapper import hawkeye_main
 from pitch_view.pitch_densitymap import *
