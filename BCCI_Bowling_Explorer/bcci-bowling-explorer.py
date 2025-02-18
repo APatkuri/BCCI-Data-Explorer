@@ -18,7 +18,7 @@ from bcci_hawkeye_scrapper import hawkeye_main
 from pitch_view.pitch_densitymap import *
 from line_profiler import LineProfiler
 
-st.title("BCCI Data Playground")
+st.title("BCCI Bowling Analysis Playground")
 
 ##################
 if 'button_clicked' not in st.session_state:
