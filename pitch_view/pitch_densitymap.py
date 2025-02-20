@@ -826,3 +826,80 @@ def plot_pitch(custom_df, title='', subtitle_1='', subtitle_2=''):
                    stump_colour=stump_colour,
                    wicket_colour=wicket_colour)
     return fig
+
+def plot_control_pitch(custom_df, title='', subtitle_1='', subtitle_2=''):
+
+    pitch_colour = 'white'
+    wicket_colour = '#f5f6fa'
+    marking_colour = '#595959'
+    stump_colour = 'slategray'
+    outline_colour = '#595959'
+    title_colour = '#080a2e'
+    subtitle_colour = '#9e9fa3'
+    fname = './pitch_view/AlumniSans-SemiBold.ttf'
+    fp = fm.FontProperties(fname=fname)
+
+    fig = plt.figure(figsize=(8, 5))
+    # fig.set_size_inches(8, 5)
+    fig.subplots_adjust(left=0,
+                        right=1,
+                        bottom=-0.2,
+                        top=1)
+    
+    ax = fig.add_subplot(111, projection='3d')
+
+    # name_list = list(custom_df['BowlerName'].unique())
+
+    # for name in name_list:
+    #     df = custom_df
+    #     df_bowler = df[df['BowlerName'].str.contains(f"{name}", case=False, na=False)]
+    #     bowler_name = df_bowler['BowlerName'].unique()[0]
+    #     # df_bowler = df_bowler[(df_bowler['OverNo'] > 10) & (df_bowler['OverNo'] <= 40)]
+
+    #     if(len(df_bowler) > 0):
+    #         plot_df = df_bowler
+            # pitch_x_list = [float("%.2f"%x) for x, y in zip(plot_df['bounce_x'], plot_df['bounce_y']) if x>=0 and -500<y<500]
+            # pitch_y_list = [-float("%.2f"%y) for x, y in zip(plot_df['bounce_x'], plot_df['bounce_y']) if x>=0 and -500<y<500]
+    #         ax.scatter(pitch_y_list, pitch_x_list, marker='o', alpha=1.0, s=30, label=f"{bowler_name}")
+
+    custom_df['shot_played'] = custom_df['shot_played'].fillna("Played")
+    custom_df['shot_attacked'] = custom_df['shot_attacked'].fillna(custom_df['ShotType'].apply(lambda x: 'Defended' if any(word in str(x) for word in ['Alone', 'Defended', 'Defence']) else 'Attacked'))
+    # unique_pairs = custom_df[['shot_attacked', 'shot_played']].drop_duplicates().values
+    shot_attack_types = list(custom_df['shot_attacked'].unique())
+    shot_attack_types.append("Missed/Edged")
+    total_shots = len(custom_df)
+
+    for shot_attack in shot_attack_types:
+
+        if shot_attack == "Missed/Edged":
+            df_shot_attacked = custom_df[(custom_df['shot_played'].isin(['Edged', 'Missed']))]
+        else:
+            df_shot_attacked = custom_df[(custom_df['shot_attacked'].str.contains(f"{shot_attack}", case=False, na=False)) & (custom_df['shot_played'].str.contains("Played", case=False, na=False))]
+        # shot_attack_type = df_shot_attacked['shot_attacked'].unique()[0]
+        if(len(df_shot_attacked)):
+            pitch_x_list = [float("%.2f"%y) for y, z in zip(df_shot_attacked['bounce_x'], df_shot_attacked['bounce_y']) if y>=0 and -500<z<500]
+            pitch_y_list = [-float("%.2f"%z) for y, z in zip(df_shot_attacked['bounce_x'], df_shot_attacked['bounce_y']) if y>=0 and -500<z<500]
+            shot_attacked_number = len(df_shot_attacked)
+            # print(shot_attacked_number)
+            ax.scatter(pitch_y_list, pitch_x_list, marker='o', alpha=1.0, s=30, label=f"{shot_attack} {shot_attacked_number}/{total_shots}")
+            # plt.plot(release_y_list,release_z_list, 'o',label=f"{shot_attack} {shot_attacked_number}/{total_shots}")  
+    
+    ax.legend(loc='upper right')
+
+    add_title_axis(fig,
+                   title,
+                   subtitle_1,
+                   subtitle_2,
+                   fp=fp,
+                   title_colour=title_colour,
+                   subtitle_colour=subtitle_colour)
+
+    # Generate a cricket pitch on the axis we created
+    plot_wicket_3d(ax,
+                   view='front',
+                   pitch_colour=pitch_colour,
+                   marking_colour=marking_colour,
+                   outline_colour=outline_colour,
+                   stump_colour=stump_colour,
+                   wicket_colour=wicket_colour)
+    return fig
