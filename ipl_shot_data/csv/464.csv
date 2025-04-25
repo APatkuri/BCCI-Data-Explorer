@@ -1,0 +1,257 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,464,1,18,Rajasthan Royals,Jos Buttler,Jasprit Bumrah,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,192774,,,0,0,,43,NIPBACKER,105,LEFT ALONE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+1,2,464,1,18,Rajasthan Royals,Jos Buttler,Jasprit Bumrah,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,192775,89.02,46.17,0,0,,41,INSWINGER,97,BACKFOOT PUSH,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+2,3,464,1,18,Rajasthan Royals,Jos Buttler,Jasprit Bumrah,,1,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.3,2,1,0,192776,44.36,-145.83,4,0,,41,INSWINGER,54,LEG GLANCE,0,0,3,0,4,0,0,0,0,0,0,0,0,0
+3,4,464,1,18,Rajasthan Royals,Jos Buttler,Jasprit Bumrah,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,192777,44.36,-145.83,0,0,,42,OUTSWINGER,97,BACKFOOT PUSH,0,0,4,0,4,0,0,0,0,0,0,0,0,0
+4,5,464,1,18,Rajasthan Royals,Jos Buttler,Jasprit Bumrah,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,192778,39.29,11.64,0,0,,41,INSWINGER,97,BACKFOOT PUSH,0,0,5,0,4,0,0,0,0,0,0,0,0,0
+5,6,464,1,18,Rajasthan Royals,Jos Buttler,Jasprit Bumrah,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,192779,39.29,11.64,0,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,6,0,4,0,0,0,0,0,0,0,0,0
+6,1,464,1,18,Rajasthan Royals,Yashasvi Jaiswal,Daniel Sams,,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,192780,53.10,29.60,1,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,1,1,5,0,1,0,0,0,0,0,0,0
+7,2,464,1,18,Rajasthan Royals,Jos Buttler,Daniel Sams,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,192781,-41.74,15.32,0,0,,43,NIPBACKER,50,BACKFOOT DEFENCE,0,0,2,1,5,0,0,0,0,0,0,0,0,0
+8,3,464,1,18,Rajasthan Royals,Jos Buttler,Daniel Sams,,2,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,1.3,2,1,0,192782,179.26,83.93,6,0,,30,ANGLED ACROSS,58,BACKFOOT PULL SHOT,0,0,3,1,11,0,0,0,0,0,0,0,0,0
+9,4,464,1,18,Rajasthan Royals,Jos Buttler,Daniel Sams,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,192783,49.88,36.50,0,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,4,1,11,0,0,0,0,0,0,0,0,0
+10,5,464,1,18,Rajasthan Royals,Jos Buttler,Daniel Sams,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,192784,42.97,56.30,0,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,5,1,11,0,0,0,0,0,0,0,0,0
+11,6,464,1,18,Rajasthan Royals,Jos Buttler,Daniel Sams,,2,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,192785,140.59,-35.78,1,0,,38,STRAIGHT BALL,40,FRONTFOOT FLICK,0,0,6,1,12,0,0,0,0,0,0,0,0,0
+12,1,464,1,18,Rajasthan Royals,Jos Buttler,Jasprit Bumrah,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,192786,-38.06,35.58,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,1,2,12,0,1,0,0,0,0,0,0,0
+13,2,464,1,18,Rajasthan Royals,Jos Buttler,Jasprit Bumrah,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,192787,-38.06,35.58,0,0,,39,ANGLED IN,54,LEG GLANCE,0,0,2,2,12,0,0,0,0,0,0,0,0,0
+14,3,464,1,18,Rajasthan Royals,Jos Buttler,Jasprit Bumrah,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,192788,231.75,212.39,1,0,,43,NIPBACKER,50,BACKFOOT DEFENCE,0,0,3,2,13,0,0,0,0,0,0,0,0,0
+15,4,464,1,18,Rajasthan Royals,Yashasvi Jaiswal,Jasprit Bumrah,,3,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,2.4,2,1,0,192789,-75.82,16.71,0,0,,38,STRAIGHT BALL,40,FRONTFOOT FLICK,0,0,4,2,13,1,1,0,0,0,0,0,0,0
+16,5,464,1,18,Rajasthan Royals,Devdutt Padikkal,Jasprit Bumrah,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,192790,-75.82,16.71,0,0,,30,ANGLED ACROSS,105,LEFT ALONE,0,0,5,2,13,1,2,0,0,0,0,0,0,0
+17,6,464,1,18,Rajasthan Royals,Devdutt Padikkal,Jasprit Bumrah,,3,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.6,2,1,0,192791,-123.24,184.76,4,0,,30,ANGLED ACROSS,11,LOFTED ON DRIVE,0,0,6,2,17,1,0,0,0,0,0,0,0,0
+18,1,464,1,18,Rajasthan Royals,Jos Buttler,Basil Thampi,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,192792,76.59,82.09,0,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,1,3,17,1,1,0,0,0,0,0,0,0
+19,2,464,1,18,Rajasthan Royals,Jos Buttler,Basil Thampi,,4,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.2,2,1,0,192793,106.05,171.41,4,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,2,3,21,1,0,0,0,0,0,0,0,0
+20,3,464,1,18,Rajasthan Royals,Jos Buttler,Basil Thampi,,4,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.3,2,1,0,192794,138.74,156.68,6,0,,8,OFF CUTTER,11,LOFTED ON DRIVE,0,0,3,3,27,1,0,0,0,0,0,0,0,0
+21,4,464,1,18,Rajasthan Royals,Jos Buttler,Basil Thampi,,4,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.4,2,1,0,192795,154.86,135.04,6,0,,39,ANGLED IN,11,LOFTED ON DRIVE,0,0,4,3,33,1,0,0,0,0,0,0,0,0
+22,5,464,1,18,Rajasthan Royals,Jos Buttler,Basil Thampi,,4,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.5,2,1,0,192796,-22.87,213.77,4,0,,39,ANGLED IN,13,LOFTED STRAIGHT,0,0,5,3,37,1,0,0,0,0,0,0,0,0
+23,6,464,1,18,Rajasthan Royals,Jos Buttler,Basil Thampi,,4,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.6,2,1,0,192797,153.48,145.63,6,0,,38,STRAIGHT BALL,11,LOFTED ON DRIVE,0,0,6,3,43,1,0,0,0,0,0,0,0,0
+24,1,464,1,18,Rajasthan Royals,Devdutt Padikkal,Murugan Ashwin,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,192798,-40.36,-51.90,0,0,,24,LEG SPIN,54,LEG GLANCE,0,0,1,4,43,1,1,0,0,0,0,0,0,0
+25,2,464,1,18,Rajasthan Royals,Devdutt Padikkal,Murugan Ashwin,,5,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,192799,-102.98,118.00,2,0,,24,LEG SPIN,47,FRONTFOOT ON DRIVE,0,0,2,4,45,1,0,0,0,0,0,0,0,0
+26,3,464,1,18,Rajasthan Royals,Devdutt Padikkal,Murugan Ashwin,,5,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,192800,-63.38,127.67,1,0,,24,LEG SPIN,47,FRONTFOOT ON DRIVE,0,0,3,4,46,1,0,0,0,0,0,0,0,0
+27,4,464,1,18,Rajasthan Royals,Jos Buttler,Murugan Ashwin,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,192801,61.39,-42.23,0,0,,24,LEG SPIN,54,LEG GLANCE,0,0,4,4,46,1,0,0,0,0,0,0,0,0
+28,5,464,1,18,Rajasthan Royals,Jos Buttler,Murugan Ashwin,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,192802,133.68,56.30,1,0,,24,LEG SPIN,37,STEP DOWN FLICK,0,0,5,4,47,1,0,0,0,0,0,0,0,0
+29,6,464,1,18,Rajasthan Royals,Devdutt Padikkal,Murugan Ashwin,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,192803,-29.77,70.12,0,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,6,4,47,1,0,0,0,0,0,0,0,0
+31,1,464,1,18,Rajasthan Royals,Jos Buttler,Tymal Mills,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,192804,-58.32,36.04,0,0,,30,ANGLED ACROSS,49,FORWARD DEFENCE,0,0,1,5,47,1,1,0,0,0,0,0,0,0
+32,2,464,1,18,Rajasthan Royals,Jos Buttler,Tymal Mills,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,192805,-58.32,36.04,0,0,,30,ANGLED ACROSS,49,FORWARD DEFENCE,0,0,2,5,47,1,0,0,0,0,0,0,0,0
+33,3,464,1,18,Rajasthan Royals,Jos Buttler,Tymal Mills,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,192806,-56.48,22.23,0,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,3,5,47,1,0,0,0,0,0,0,0,0
+34,4,464,1,18,Rajasthan Royals,Jos Buttler,Tymal Mills,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,192807,-56.48,22.23,0,0,,30,ANGLED ACROSS,99,SCOOP,0,0,4,5,47,1,0,0,0,0,0,0,0,0
+35,5,464,1,18,Rajasthan Royals,Jos Buttler,Tymal Mills,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,192808,66.00,89.45,1,0,,20,BACKHAND SLOWER,47,FRONTFOOT ON DRIVE,0,0,5,5,48,1,0,0,0,0,0,0,0,0
+36,6,464,1,18,Rajasthan Royals,Devdutt Padikkal,Tymal Mills,,6,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,5.6,2,1,0,192809,59.09,44.79,0,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,6,5,48,2,1,0,0,0,0,0,0,0
+37,1,464,1,18,Rajasthan Royals,Jos Buttler,Kieron Pollard,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,192810,76.59,-20.13,1,0,,8,OFF CUTTER,40,FRONTFOOT FLICK,0,0,1,6,49,2,2,0,0,0,0,0,0,0
+38,2,464,1,18,Rajasthan Royals,Sanju Samson,Kieron Pollard,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,192811,59.55,42.49,0,0,,8,OFF CUTTER,27,FORWARD PUSH,0,0,2,6,49,2,0,0,0,0,0,0,0,0
+39,3,464,1,18,Rajasthan Royals,Sanju Samson,Kieron Pollard,,7,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.3,2,1,0,192812,-133.37,-85.05,4,0,,8,OFF CUTTER,36,CUT SHOT,0,0,3,6,53,2,0,1,1,0,1,0,0,0
+40,4,464,1,18,Rajasthan Royals,Sanju Samson,Kieron Pollard,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,192813,56.79,50.78,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,4,6,53,2,0,0,1,0,0,0,0,0
+41,5,464,1,18,Rajasthan Royals,Sanju Samson,Kieron Pollard,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,192814,-62.92,29.60,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,5,6,54,2,0,0,1,0,0,0,0,0
+42,6,464,1,18,Rajasthan Royals,Jos Buttler,Kieron Pollard,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,192815,-123.24,-30.26,1,0,,8,OFF CUTTER,36,CUT SHOT,0,0,6,6,55,2,0,0,1,0,0,0,0,0
+43,1,464,1,18,Rajasthan Royals,Jos Buttler,Daniel Sams,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,192816,-138.90,17.63,1,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,1,7,56,2,1,0,1,0,0,0,0,0
+44,2,464,1,18,Rajasthan Royals,Sanju Samson,Daniel Sams,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,192817,-138.90,17.63,0,0,,30,ANGLED ACROSS,105,LEFT ALONE,0,0,2,7,56,2,0,0,1,0,0,0,0,0
+45,3,464,1,18,Rajasthan Royals,Sanju Samson,Daniel Sams,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,192818,-82.26,-87.81,1,0,,30,ANGLED ACROSS,44,GLIDE,0,0,3,7,57,2,0,0,1,0,0,0,0,0
+46,4,464,1,18,Rajasthan Royals,Jos Buttler,Daniel Sams,,8,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.4,2,1,0,192819,-172.05,-21.51,4,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,4,7,61,2,0,0,1,0,0,0,0,0
+47,5,464,1,18,Rajasthan Royals,Jos Buttler,Daniel Sams,,8,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.5,2,1,0,192820,-55.56,-136.62,4,0,,8,OFF CUTTER,44,GLIDE,0,0,5,7,65,2,0,0,1,0,0,0,0,0
+48,6,464,1,18,Rajasthan Royals,Jos Buttler,Daniel Sams,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,192821,-102.98,122.60,1,0,,30,ANGLED ACROSS,6,BACKFOOT OFF DRIVE,0,0,6,7,66,2,0,0,1,0,0,0,0,0
+50,1,464,1,18,Rajasthan Royals,Jos Buttler,Murugan Ashwin,,9,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,8.1,2,1,1,192822,-102.98,122.60,1,0,,24,LEG SPIN,22,FRONTFOOT PADDLE SWEEP,0,0,1,8,67,2,1,0,1,0,0,0,0,0
+51,2,464,1,18,Rajasthan Royals,Jos Buttler,Murugan Ashwin,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,192823,112.50,-0.33,1,0,,24,LEG SPIN,40,FRONTFOOT FLICK,0,0,2,8,68,2,0,0,1,0,0,0,0,0
+52,3,464,1,18,Rajasthan Royals,Sanju Samson,Murugan Ashwin,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,192824,107.90,-20.59,1,0,,24,LEG SPIN,40,FRONTFOOT FLICK,0,0,3,8,69,2,0,0,1,0,0,0,0,0
+53,4,464,1,18,Rajasthan Royals,Jos Buttler,Murugan Ashwin,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,192825,-55.10,38.81,0,0,,24,LEG SPIN,50,BACKFOOT DEFENCE,0,0,4,8,69,2,0,0,1,0,0,0,0,0
+54,5,464,1,18,Rajasthan Royals,Jos Buttler,Murugan Ashwin,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,192826,87.64,52.16,0,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,5,8,69,2,0,0,1,0,0,0,0,0
+55,6,464,1,18,Rajasthan Royals,Jos Buttler,Murugan Ashwin,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,192827,31.92,-43.15,0,0,,24,LEG SPIN,22,FRONTFOOT PADDLE SWEEP,0,0,6,8,69,2,0,0,1,0,0,0,0,0
+56,7,464,1,18,Rajasthan Royals,Jos Buttler,Murugan Ashwin,,9,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.6,2,1,0,192828,68.30,-131.09,4,0,,24,LEG SPIN,22,FRONTFOOT PADDLE SWEEP,0,0,7,8,73,2,0,0,1,0,0,0,0,0
+57,1,464,1,18,Rajasthan Royals,Sanju Samson,Tymal Mills,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,192829,-137.05,-38.09,1,0,,30,ANGLED ACROSS,96,SLICED OVER POINT,0,0,1,9,74,2,1,0,1,0,0,0,0,0
+58,2,464,1,18,Rajasthan Royals,Jos Buttler,Tymal Mills,,10,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,192830,112.96,-74.46,2,0,,8,OFF CUTTER,54,LEG GLANCE,0,0,2,9,76,2,0,0,1,0,0,0,0,0
+59,3,464,1,18,Rajasthan Royals,Jos Buttler,Tymal Mills,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,192831,-72.13,-28.42,0,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,3,9,76,2,0,0,1,0,0,0,0,0
+60,4,464,1,18,Rajasthan Royals,Jos Buttler,Tymal Mills,,10,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.4,2,1,0,192832,164.07,-44.99,4,0,,38,STRAIGHT BALL,58,BACKFOOT PULL SHOT,0,0,4,9,80,2,0,0,1,0,0,0,0,0
+61,5,464,1,18,Rajasthan Royals,Jos Buttler,Tymal Mills,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,192833,-80.88,-28.88,1,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,5,9,81,2,0,0,1,0,0,0,0,0
+62,6,464,1,18,Rajasthan Royals,Sanju Samson,Tymal Mills,,10,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,9.6,2,1,0,192834,180.18,108.79,6,0,,46,LEGCUTTER,58,BACKFOOT PULL SHOT,0,0,6,9,87,2,0,0,1,0,0,0,0,0
+63,1,464,1,18,Rajasthan Royals,Jos Buttler,Murugan Ashwin,,11,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,10.1,2,1,1,192835,180.18,108.79,1,0,,24,LEG SPIN,105,LEFT ALONE,0,0,1,10,88,2,1,0,1,0,0,0,0,0
+64,2,464,1,18,Rajasthan Royals,Jos Buttler,Murugan Ashwin,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,192836,144.73,-10.00,1,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,2,10,89,2,0,0,1,0,0,0,0,0
+65,3,464,1,18,Rajasthan Royals,Sanju Samson,Murugan Ashwin,,11,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,10.2,2,1,0,192837,-91.93,182.00,6,0,,28,GOOGLY,5,LOFTED OFF DRIVE,0,0,3,10,95,2,0,0,1,0,0,0,0,0
+66,4,464,1,18,Rajasthan Royals,Sanju Samson,Murugan Ashwin,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,192838,-84.56,121.68,1,0,,24,LEG SPIN,6,BACKFOOT OFF DRIVE,0,0,4,10,96,2,0,0,1,0,0,0,0,0
+67,5,464,1,18,Rajasthan Royals,Jos Buttler,Murugan Ashwin,,11,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,10.4,2,1,1,192839,-84.56,121.68,1,0,,24,LEG SPIN,22,FRONTFOOT PADDLE SWEEP,0,0,5,10,97,2,0,0,1,0,0,0,0,0
+68,6,464,1,18,Rajasthan Royals,Jos Buttler,Murugan Ashwin,,11,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,10.4,2,1,0,192840,-146.26,131.35,6,0,,24,LEG SPIN,61,INSIDE OUT,0,0,6,10,103,2,0,1,2,0,0,1,0,0
+69,7,464,1,18,Rajasthan Royals,Jos Buttler,Murugan Ashwin,,11,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.5,2,1,0,192841,-124.62,-99.78,4,0,,24,LEG SPIN,56,REVERSE SWEEP,0,0,7,10,107,2,0,0,2,0,0,0,0,0
+70,8,464,1,18,Rajasthan Royals,Jos Buttler,Murugan Ashwin,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,192842,91.78,30.98,1,0,,24,LEG SPIN,50,BACKFOOT DEFENCE,0,0,8,10,108,2,0,0,2,0,0,0,0,0
+71,1,464,1,18,Rajasthan Royals,Jos Buttler,Daniel Sams,,12,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,192843,-81.80,42.49,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,1,11,108,2,1,0,2,0,0,0,0,0
+72,2,464,1,18,Rajasthan Royals,Jos Buttler,Daniel Sams,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,192844,-95.15,111.55,1,0,,8,OFF CUTTER,84,FRONTFOOT OFF DRIVE,0,0,2,11,109,2,0,0,2,0,0,0,0,0
+73,3,464,1,18,Rajasthan Royals,Sanju Samson,Daniel Sams,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,192845,81.65,-22.43,0,0,,38,STRAIGHT BALL,40,FRONTFOOT FLICK,0,0,3,11,109,2,0,0,2,0,0,0,0,0
+74,4,464,1,18,Rajasthan Royals,Sanju Samson,Daniel Sams,,12,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,11.4,2,1,0,192846,-167.44,117.54,6,0,,8,OFF CUTTER,15,LOFTED COVER DRIVE,0,0,4,11,115,2,0,0,2,0,0,0,0,0
+75,5,464,1,18,Rajasthan Royals,Sanju Samson,Daniel Sams,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,192847,-167.44,117.54,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,5,11,115,2,0,0,2,0,0,0,0,0
+76,6,464,1,18,Rajasthan Royals,Sanju Samson,Daniel Sams,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,192848,13.51,59.53,0,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,6,11,115,2,0,0,2,0,0,0,0,0
+77,1,464,1,18,Rajasthan Royals,Jos Buttler,Kieron Pollard,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,192849,-131.99,-10.92,1,0,,8,OFF CUTTER,36,CUT SHOT,0,0,1,12,116,2,1,0,2,0,0,0,0,0
+78,2,464,1,18,Rajasthan Royals,Sanju Samson,Kieron Pollard,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,192850,104.21,108.79,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,2,12,117,2,0,0,2,0,0,0,0,0
+79,3,464,1,18,Rajasthan Royals,Jos Buttler,Kieron Pollard,,13,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.3,2,1,0,192851,-42.21,-147.21,4,0,,16,SLOW BOUNCER,31,UPPER CUT,0,0,3,12,121,2,0,0,2,0,0,0,0,0
+80,4,464,1,18,Rajasthan Royals,Jos Buttler,Kieron Pollard,,13,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,192852,-42.21,-147.21,0,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,4,12,121,2,0,0,2,0,0,0,0,0
+81,5,464,1,18,Rajasthan Royals,Jos Buttler,Kieron Pollard,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,192853,-55.56,-27.50,1,0,,8,OFF CUTTER,44,GLIDE,0,0,5,12,122,2,0,0,2,0,0,0,0,0
+82,6,464,1,18,Rajasthan Royals,Sanju Samson,Kieron Pollard,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,192854,124.01,58.60,1,0,,8,OFF CUTTER,27,FORWARD PUSH,0,0,6,12,123,2,0,0,2,0,0,0,0,0
+83,1,464,1,18,Rajasthan Royals,Sanju Samson,Jasprit Bumrah,,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,192855,-9.51,51.70,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,1,13,123,2,1,0,2,0,0,0,0,0
+84,2,464,1,18,Rajasthan Royals,Sanju Samson,Jasprit Bumrah,,14,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,192856,-58.32,-47.29,0,0,,39,ANGLED IN,44,GLIDE,0,0,2,13,123,2,0,0,2,0,0,0,0,0
+85,3,464,1,18,Rajasthan Royals,Sanju Samson,Jasprit Bumrah,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,192857,61.85,97.74,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,3,13,124,2,0,0,2,0,0,0,0,0
+86,4,464,1,18,Rajasthan Royals,Jos Buttler,Jasprit Bumrah,,14,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.4,2,1,0,192858,-135.67,-82.29,4,0,,38,STRAIGHT BALL,59,FRONTFOOT SQUARE DRIVE,0,0,4,13,128,2,0,0,2,0,0,0,0,0
+87,5,464,1,18,Rajasthan Royals,Jos Buttler,Jasprit Bumrah,,14,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,192859,-39.90,42.49,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,5,13,128,2,0,0,2,0,0,0,0,0
+88,6,464,1,18,Rajasthan Royals,Jos Buttler,Jasprit Bumrah,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,192860,-54.64,26.83,1,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,6,13,129,2,0,0,2,0,0,0,0,0
+89,1,464,1,18,Rajasthan Royals,Jos Buttler,Kieron Pollard,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,192861,115.72,-31.64,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,1,14,130,2,1,0,2,0,0,0,0,0
+90,2,464,1,18,Rajasthan Royals,Sanju Samson,Kieron Pollard,,15,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,14.2,2,1,0,192862,112.04,103.27,0,0,,8,OFF CUTTER,11,LOFTED ON DRIVE,0,0,2,14,130,3,2,0,2,0,0,0,0,0
+91,3,464,1,18,Rajasthan Royals,Shimron Hetmyer,Kieron Pollard,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,192863,56.79,155.29,1,0,,30,ANGLED ACROSS,84,FRONTFOOT OFF DRIVE,0,0,3,14,131,3,3,0,2,0,0,0,0,0
+92,4,464,1,18,Rajasthan Royals,Jos Buttler,Kieron Pollard,,15,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,192864,120.33,26.83,2,0,,8,OFF CUTTER,97,BACKFOOT PUSH,0,0,4,14,133,3,0,0,2,0,0,0,0,0
+93,5,464,1,18,Rajasthan Royals,Jos Buttler,Kieron Pollard,,15,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.5,2,1,0,192865,47.58,-140.76,4,0,,8,OFF CUTTER,54,LEG GLANCE,0,0,5,14,137,3,0,0,2,0,0,0,0,0
+94,6,464,1,18,Rajasthan Royals,Jos Buttler,Kieron Pollard,,15,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,192866,139.21,77.48,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,6,14,138,3,0,0,2,0,0,0,0,0
+95,1,464,1,18,Rajasthan Royals,Jos Buttler,Daniel Sams,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,192867,-8.59,-6.32,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,1,15,138,3,1,0,2,0,0,0,0,0
+96,2,464,1,18,Rajasthan Royals,Jos Buttler,Daniel Sams,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,192868,-114.49,101.42,1,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,2,15,139,3,0,0,2,0,0,0,0,0
+97,3,464,1,18,Rajasthan Royals,Shimron Hetmyer,Daniel Sams,,16,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,15.3,2,1,1,192869,-114.49,101.42,1,0,,36,BOUNCER,105,LEFT ALONE,1,0,3,15,140,3,0,0,2,0,0,0,0,0
+98,4,464,1,18,Rajasthan Royals,Shimron Hetmyer,Daniel Sams,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,192870,-69.37,113.40,1,0,,8,OFF CUTTER,27,FORWARD PUSH,0,0,4,15,141,3,0,0,2,0,0,0,0,0
+99,5,464,1,18,Rajasthan Royals,Jos Buttler,Daniel Sams,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,192871,-17.34,-28.88,1,0,,30,ANGLED ACROSS,96,SLICED OVER POINT,0,0,5,15,142,3,0,0,2,0,0,0,0,0
+100,6,464,1,18,Rajasthan Royals,Shimron Hetmyer,Daniel Sams,,16,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,15.5,2,1,1,192872,-17.34,-28.88,1,0,,39,ANGLED IN,105,LEFT ALONE,0,0,6,15,143,3,0,0,2,0,0,0,0,0
+101,7,464,1,18,Rajasthan Royals,Shimron Hetmyer,Daniel Sams,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,192873,-103.44,19.93,1,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,7,15,144,3,0,0,2,0,0,0,0,0
+102,8,464,1,18,Rajasthan Royals,Jos Buttler,Daniel Sams,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,192874,-103.44,19.93,0,0,,30,ANGLED ACROSS,84,FRONTFOOT OFF DRIVE,0,0,8,15,144,3,0,0,2,0,0,0,0,0
+103,1,464,1,18,Rajasthan Royals,Shimron Hetmyer,Kieron Pollard,,17,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,16.1,2,1,0,192875,-115.41,-105.77,6,0,,8,OFF CUTTER,58,BACKFOOT PULL SHOT,0,0,1,16,150,3,1,1,3,0,0,0,0,0
+104,2,464,1,18,Rajasthan Royals,Shimron Hetmyer,Kieron Pollard,,17,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,16.2,2,1,0,192876,-131.99,148.85,6,0,,38,STRAIGHT BALL,11,LOFTED ON DRIVE,0,0,2,16,156,3,0,0,3,0,0,0,0,0
+105,3,464,1,18,Rajasthan Royals,Shimron Hetmyer,Kieron Pollard,,17,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.3,2,1,0,192877,-62.92,202.26,4,0,,39,ANGLED IN,11,LOFTED ON DRIVE,0,0,3,16,160,3,0,0,3,0,0,0,0,0
+106,4,464,1,18,Rajasthan Royals,Shimron Hetmyer,Kieron Pollard,,17,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.4,2,1,0,192878,-114.49,-110.83,4,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,4,16,164,3,0,0,3,0,0,0,0,0
+107,5,464,1,18,Rajasthan Royals,Shimron Hetmyer,Kieron Pollard,,17,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,16.5,2,1,1,192879,-114.49,-110.83,1,0,,8,OFF CUTTER,105,LEFT ALONE,0,0,5,16,165,3,0,0,3,0,0,0,0,0
+108,6,464,1,18,Rajasthan Royals,Shimron Hetmyer,Kieron Pollard,,17,5,4 (LB),4,0,0,0,0,1,4,0,0,0,1,1,0,0,,,0,16.5,2,1,1,192880,-114.49,-110.83,4,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,6,16,169,3,0,0,3,0,0,0,0,0
+109,7,464,1,18,Rajasthan Royals,Shimron Hetmyer,Kieron Pollard,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,192881,-45.43,165.42,1,0,,8,OFF CUTTER,47,FRONTFOOT ON DRIVE,0,0,7,16,170,3,0,0,3,0,0,0,0,0
+110,1,464,1,18,Rajasthan Royals,Shimron Hetmyer,Tymal Mills,,18,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.1,2,1,0,192882,-184.48,71.50,6,0,,39,ANGLED IN,11,LOFTED ON DRIVE,0,0,1,17,176,3,1,0,3,0,0,0,0,0
+111,2,464,1,18,Rajasthan Royals,Shimron Hetmyer,Tymal Mills,,18,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,192883,-184.48,71.50,0,0,,20,BACKHAND SLOWER,99,SCOOP,0,0,2,17,176,3,0,0,3,0,0,0,0,0
+112,3,464,1,18,Rajasthan Royals,Shimron Hetmyer,Tymal Mills,,18,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.3,2,1,0,192884,171.44,-30.72,4,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,3,17,180,3,0,0,3,0,0,0,0,0
+113,4,464,1,18,Rajasthan Royals,Shimron Hetmyer,Tymal Mills,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,192885,83.03,126.75,1,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,4,17,181,3,0,0,3,0,0,0,0,0
+114,5,464,1,18,Rajasthan Royals,Jos Buttler,Tymal Mills,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,192886,83.03,126.75,0,0,,38,STRAIGHT BALL,96,SLICED OVER POINT,0,0,5,17,181,3,0,0,3,0,0,0,0,0
+115,6,464,1,18,Rajasthan Royals,Jos Buttler,Tymal Mills,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,192887,-66.15,135.50,1,0,,38,STRAIGHT BALL,84,FRONTFOOT OFF DRIVE,0,0,6,17,182,3,0,0,3,0,0,0,0,0
+116,1,464,1,18,Rajasthan Royals,Jos Buttler,Jasprit Bumrah,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,192888,-19.64,10.72,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,1,18,183,3,1,0,3,0,0,0,0,0
+117,2,464,1,18,Rajasthan Royals,Shimron Hetmyer,Jasprit Bumrah,,19,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.2,2,1,0,192889,-123.70,60.91,0,0,,30,ANGLED ACROSS,11,LOFTED ON DRIVE,0,0,2,18,183,4,2,0,3,0,0,0,0,0
+118,3,464,1,18,Rajasthan Royals,Riyan Parag,Jasprit Bumrah,,19,3,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,18.3,2,1,1,192890,-123.70,60.91,1,0,,,Knuckleball,,,0,0,3,18,184,4,3,0,3,0,0,0,0,0
+119,4,464,1,18,Rajasthan Royals,Jos Buttler,Jasprit Bumrah,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,192891,-123.70,60.91,0,0,,39,ANGLED IN,99,SCOOP,0,0,4,18,184,4,0,0,3,0,0,0,0,0
+120,5,464,1,18,Rajasthan Royals,Jos Buttler,Jasprit Bumrah,,19,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,18.5,2,1,0,192892,-123.70,60.91,0,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,5,18,184,5,1,0,3,0,0,0,0,0
+121,6,464,1,18,Rajasthan Royals,Ravichandran Ashwin,Jasprit Bumrah,,19,6,1 WK,1,1,1,0,0,0,0,0,0,0,0,0,0,1,Run Out,WICKET,0,18.6,2,1,0,192893,-124.62,-60.19,1,0,,39,ANGLED IN,59,FRONTFOOT SQUARE DRIVE,0,0,6,18,185,6,2,0,3,0,0,0,0,0
+123,1,464,1,18,Rajasthan Royals,Riyan Parag,Tymal Mills,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.1,2,1,0,192894,-120.02,43.41,1,0,,46,LEGCUTTER,27,FORWARD PUSH,0,0,1,19,186,6,3,0,3,0,0,0,0,0
+124,2,464,1,18,Rajasthan Royals,Navdeep Saini,Tymal Mills,,20,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.2,2,1,0,192895,28.70,-34.86,2,0,,39,ANGLED IN,15,LOFTED COVER DRIVE,0,0,2,19,188,6,0,0,3,0,0,0,0,0
+125,3,464,1,18,Rajasthan Royals,Navdeep Saini,Tymal Mills,,20,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.3,2,1,0,192896,25.48,-30.26,0,0,,46,LEGCUTTER,18,SLOG SHOT,0,0,3,19,188,7,1,0,3,0,0,0,0,0
+126,4,464,1,18,Rajasthan Royals,Trent Boult,Tymal Mills,,20,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.4,2,1,0,192897,46.20,-51.44,1,0,,16,SLOW BOUNCER,54,LEG GLANCE,0,0,4,19,189,7,2,0,3,0,0,0,0,0
+127,5,464,1,18,Rajasthan Royals,Riyan Parag,Tymal Mills,,20,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.5,2,1,0,192898,-27.47,215.15,4,0,,39,ANGLED IN,53,FRONTFOOT STRAIGHT DRIVE,0,0,5,19,193,7,0,0,3,0,0,0,0,0
+128,6,464,1,18,Rajasthan Royals,Riyan Parag,Tymal Mills,,20,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.6,2,1,0,192899,85.79,135.96,0,0,,20,BACKHAND SLOWER,11,LOFTED ON DRIVE,0,0,6,19,193,8,1,0,3,0,0,0,0,0
+130,1,464,2,17,Mumbai Indians,Ishan Kishan,Trent Boult,,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,192900,50.34,18.55,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+131,2,464,2,17,Mumbai Indians,Ishan Kishan,Trent Boult,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,192901,77.05,-22.89,0,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+132,3,464,2,17,Mumbai Indians,Ishan Kishan,Trent Boult,,1,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.3,2,1,0,192902,168.21,100.04,4,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,3,0,4,0,0,0,0,0,0,0,0,0
+133,4,464,2,17,Mumbai Indians,Ishan Kishan,Trent Boult,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,192903,168.21,100.04,0,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,4,0,4,0,0,0,0,0,0,0,0,0
+134,5,464,2,17,Mumbai Indians,Ishan Kishan,Trent Boult,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,192904,70.14,44.33,0,0,,42,OUTSWINGER,51,FRONTFOOT COVERDRIVE,0,0,5,0,4,0,0,0,0,0,0,0,0,0
+135,6,464,2,17,Mumbai Indians,Ishan Kishan,Trent Boult,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,192905,65.54,-27.04,0,0,,42,OUTSWINGER,59,FRONTFOOT SQUARE DRIVE,0,0,6,0,4,0,0,0,0,0,0,0,0,0
+136,1,464,2,17,Mumbai Indians,Rohit Sharma,Prasidh Krishna,,2,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,192906,125.85,-28.88,2,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,1,1,6,0,1,0,0,0,0,0,0,0
+137,2,464,2,17,Mumbai Indians,Rohit Sharma,Prasidh Krishna,,2,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,1.2,2,1,0,192907,112.04,-114.06,6,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,2,1,12,0,0,0,0,0,0,0,0,0
+138,3,464,2,17,Mumbai Indians,Rohit Sharma,Prasidh Krishna,,2,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,1.3,2,1,1,192908,112.04,-114.06,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,3,1,13,0,0,0,0,0,0,0,0,0
+139,4,464,2,17,Mumbai Indians,Rohit Sharma,Prasidh Krishna,,2,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,192909,109.74,-48.22,2,0,,39,ANGLED IN,54,LEG GLANCE,0,0,4,1,15,0,0,0,0,0,0,0,0,0
+140,5,464,2,17,Mumbai Indians,Rohit Sharma,Prasidh Krishna,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,192910,109.74,-48.22,0,0,,39,ANGLED IN,54,LEG GLANCE,0,0,5,1,15,0,0,0,0,0,0,0,0,0
+141,6,464,2,17,Mumbai Indians,Rohit Sharma,Prasidh Krishna,,2,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,1.5,2,1,0,192911,-81.80,-21.97,0,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,6,1,15,1,1,0,0,0,0,0,0,0
+142,7,464,2,17,Mumbai Indians,Anmolpreet Singh,Prasidh Krishna,,2,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.6,2,1,0,192912,192.15,45.25,4,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,7,1,19,1,2,0,0,0,0,0,0,0
+143,1,464,2,17,Mumbai Indians,Ishan Kishan,Trent Boult,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,192913,54.03,49.86,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,1,2,20,1,3,0,0,0,0,0,0,0
+144,2,464,2,17,Mumbai Indians,Anmolpreet Singh,Trent Boult,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,192914,-79.96,77.48,1,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,2,2,21,1,0,0,0,0,0,0,0,0
+145,3,464,2,17,Mumbai Indians,Ishan Kishan,Trent Boult,,3,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,192915,92.24,-35.78,2,0,,42,OUTSWINGER,47,FRONTFOOT ON DRIVE,0,0,3,2,23,1,0,0,0,0,0,0,0,0
+146,4,464,2,17,Mumbai Indians,Ishan Kishan,Trent Boult,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,192916,92.24,-35.78,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,4,2,23,1,0,0,0,0,0,0,0,0
+147,5,464,2,17,Mumbai Indians,Ishan Kishan,Trent Boult,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,192917,67.84,-32.56,0,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,5,2,23,1,0,0,0,0,0,0,0,0
+148,6,464,2,17,Mumbai Indians,Ishan Kishan,Trent Boult,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,192918,-114.95,-24.27,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,6,2,24,1,0,0,0,0,0,0,0,0
+149,1,464,2,17,Mumbai Indians,Ishan Kishan,Navdeep Saini,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,192919,54.49,-42.69,0,0,,30,ANGLED ACROSS,44,GLIDE,0,0,1,3,24,1,1,0,0,0,0,0,0,0
+150,2,464,2,17,Mumbai Indians,Ishan Kishan,Navdeep Saini,,4,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.2,2,1,0,192920,-113.57,-103.01,6,0,,38,STRAIGHT BALL,57,HOOK SHOT,0,0,2,3,30,1,0,0,0,0,0,0,0,0
+151,3,464,2,17,Mumbai Indians,Ishan Kishan,Navdeep Saini,,4,3,5 (NB),5,4,0,0,0,0,1,0,1,0,0,1,0,0,,,0,3.3,2,1,1,192921,71.98,192.59,5,0,,8,OFF CUTTER,5,LOFTED OFF DRIVE,0,0,3,3,35,1,0,0,0,0,0,0,0,0
+152,4,464,2,17,Mumbai Indians,Ishan Kishan,Navdeep Saini,,4,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.3,2,1,0,192922,102.37,180.16,4,0,,8,OFF CUTTER,5,LOFTED OFF DRIVE,0,0,4,3,39,1,0,0,0,0,0,0,0,0
+153,5,464,2,17,Mumbai Indians,Ishan Kishan,Navdeep Saini,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,192923,78.43,-90.58,1,0,,30,ANGLED ACROSS,44,GLIDE,0,0,5,3,40,1,0,0,0,0,0,0,0,0
+154,6,464,2,17,Mumbai Indians,Anmolpreet Singh,Navdeep Saini,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,192924,-63.85,80.71,0,0,,38,STRAIGHT BALL,84,FRONTFOOT OFF DRIVE,0,0,6,3,40,1,0,0,0,0,0,0,0,0
+155,7,464,2,17,Mumbai Indians,Anmolpreet Singh,Navdeep Saini,,4,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,3.6,2,1,0,192925,-74.90,46.63,0,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,7,3,40,2,1,0,0,0,0,0,0,0
+156,1,464,2,17,Mumbai Indians,Ishan Kishan,Ravichandran Ashwin,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,192926,-75.82,88.99,1,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,1,4,41,2,2,0,0,0,0,0,0,0
+157,2,464,2,17,Mumbai Indians,Tilak Varma,Ravichandran Ashwin,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,192927,100.99,124.45,1,0,,25,OFF SPIN,84,FRONTFOOT OFF DRIVE,0,0,2,4,42,2,0,0,0,0,0,0,0,0
+158,3,464,2,17,Mumbai Indians,Ishan Kishan,Ravichandran Ashwin,,5,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,192928,-97.00,13.02,1,0,,23,ARM BALL,27,FORWARD PUSH,0,0,3,4,43,2,0,0,0,0,0,0,0,0
+159,4,464,2,17,Mumbai Indians,Tilak Varma,Ravichandran Ashwin,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,192929,20.87,66.43,0,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,4,4,43,2,0,0,0,0,0,0,0,0
+160,5,464,2,17,Mumbai Indians,Tilak Varma,Ravichandran Ashwin,,5,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,192930,61.85,47.55,1,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,5,4,44,2,0,0,0,0,0,0,0,0
+161,6,464,2,17,Mumbai Indians,Ishan Kishan,Ravichandran Ashwin,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,192931,-125.08,64.13,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,6,4,45,2,0,0,0,0,0,0,0,0
+162,1,464,2,17,Mumbai Indians,Ishan Kishan,Prasidh Krishna,,6,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.1,2,1,0,192932,112.04,-101.63,4,0,,30,ANGLED ACROSS,44,GLIDE,0,0,1,5,49,2,1,0,0,0,0,0,0,0
+163,2,464,2,17,Mumbai Indians,Ishan Kishan,Prasidh Krishna,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,192933,80.73,50.32,0,0,,8,OFF CUTTER,51,FRONTFOOT COVERDRIVE,0,0,2,5,49,2,0,0,0,0,0,0,0,0
+164,3,464,2,17,Mumbai Indians,Ishan Kishan,Prasidh Krishna,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,192934,80.73,50.32,0,0,,30,ANGLED ACROSS,44,GLIDE,0,0,3,5,49,2,0,0,0,0,0,0,0,0
+165,4,464,2,17,Mumbai Indians,Ishan Kishan,Prasidh Krishna,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,192935,69.68,-42.69,1,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,4,5,50,2,0,1,1,0,1,0,0,0
+166,5,464,2,17,Mumbai Indians,Tilak Varma,Prasidh Krishna,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,192936,60.93,-21.05,0,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,5,5,50,2,0,0,1,0,0,0,0,0
+167,6,464,2,17,Mumbai Indians,Tilak Varma,Prasidh Krishna,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,192937,51.26,82.55,0,0,,8,OFF CUTTER,27,FORWARD PUSH,0,0,6,5,50,2,0,0,1,0,0,0,0,0
+168,1,464,2,17,Mumbai Indians,Ishan Kishan,Ravichandran Ashwin,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,192938,-104.82,125.83,1,0,,25,OFF SPIN,94,STEP DOWN LOFTED ON DRIVE,0,0,1,6,51,2,1,0,1,0,0,0,0,0
+169,2,464,2,17,Mumbai Indians,Tilak Varma,Ravichandran Ashwin,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,192939,-86.87,122.14,1,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,2,6,52,2,0,0,1,0,0,0,0,0
+170,3,464,2,17,Mumbai Indians,Ishan Kishan,Ravichandran Ashwin,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,192940,-94.69,90.83,1,0,,23,ARM BALL,27,FORWARD PUSH,0,0,3,6,53,2,0,0,1,0,0,0,0,0
+171,4,464,2,17,Mumbai Indians,Tilak Varma,Ravichandran Ashwin,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,192941,-115.87,81.17,1,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,4,6,54,2,0,0,1,0,0,0,0,0
+172,5,464,2,17,Mumbai Indians,Ishan Kishan,Ravichandran Ashwin,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,192942,-123.24,-56.96,1,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,5,6,55,2,0,0,1,0,0,0,0,0
+173,6,464,2,17,Mumbai Indians,Tilak Varma,Ravichandran Ashwin,,7,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,6.6,2,1,0,192943,-140.28,-79.53,6,0,,23,ARM BALL,58,BACKFOOT PULL SHOT,0,0,6,6,61,2,0,0,1,0,0,0,0,0
+174,1,464,2,17,Mumbai Indians,Ishan Kishan,Yuzvendra Chahal,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,192944,-140.28,-79.53,0,0,,24,LEG SPIN,54,LEG GLANCE,0,0,1,7,61,2,1,0,1,0,0,0,0,0
+175,2,464,2,17,Mumbai Indians,Ishan Kishan,Yuzvendra Chahal,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,192945,-106.67,-64.79,1,0,,24,LEG SPIN,54,LEG GLANCE,0,0,2,7,62,2,0,0,1,0,0,0,0,0
+176,3,464,2,17,Mumbai Indians,Tilak Varma,Yuzvendra Chahal,,8,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,192946,144.73,57.68,2,0,,28,GOOGLY,97,BACKFOOT PUSH,0,0,3,7,64,2,0,0,1,0,0,0,0,0
+177,4,464,2,17,Mumbai Indians,Tilak Varma,Yuzvendra Chahal,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,192947,-103.90,-60.65,1,0,,24,LEG SPIN,40,FRONTFOOT FLICK,0,0,4,7,65,2,0,0,1,0,0,0,0,0
+178,5,464,2,17,Mumbai Indians,Ishan Kishan,Yuzvendra Chahal,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,192948,-106.67,-32.56,1,0,,24,LEG SPIN,54,LEG GLANCE,0,0,5,7,66,2,0,0,1,0,0,0,0,0
+179,6,464,2,17,Mumbai Indians,Tilak Varma,Yuzvendra Chahal,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,192949,-16.42,-62.49,1,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,6,7,67,2,0,0,1,0,0,0,0,0
+180,1,464,2,17,Mumbai Indians,Tilak Varma,Navdeep Saini,,9,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.1,2,1,0,192950,175.12,20.39,4,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,1,8,71,2,1,0,1,0,0,0,0,0
+181,2,464,2,17,Mumbai Indians,Tilak Varma,Navdeep Saini,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,192951,133.68,82.55,1,0,,8,OFF CUTTER,15,LOFTED COVER DRIVE,0,0,2,8,72,2,0,0,1,0,0,0,0,0
+182,3,464,2,17,Mumbai Indians,Ishan Kishan,Navdeep Saini,,9,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,192952,132.76,-32.10,2,0,,30,ANGLED ACROSS,96,SLICED OVER POINT,0,0,3,8,74,2,0,0,1,0,0,0,0,0
+183,4,464,2,17,Mumbai Indians,Ishan Kishan,Navdeep Saini,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,192953,143.35,15.78,1,0,,8,OFF CUTTER,51,FRONTFOOT COVERDRIVE,0,0,4,8,75,2,0,0,1,0,0,0,0,0
+184,5,464,2,17,Mumbai Indians,Tilak Varma,Navdeep Saini,,9,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,8.5,2,1,0,192954,88.10,193.51,6,0,,30,ANGLED ACROSS,5,LOFTED OFF DRIVE,0,0,5,8,81,2,0,0,1,0,0,0,0,0
+185,6,464,2,17,Mumbai Indians,Tilak Varma,Navdeep Saini,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,192955,-118.18,-48.22,1,0,,16,SLOW BOUNCER,58,BACKFOOT PULL SHOT,0,0,6,8,82,2,0,0,1,0,0,0,0,0
+186,1,464,2,17,Mumbai Indians,Tilak Varma,Yuzvendra Chahal,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,192956,65.54,6.12,1,0,,28,GOOGLY,49,FORWARD DEFENCE,0,0,1,9,83,2,1,0,1,0,0,0,0,0
+187,2,464,2,17,Mumbai Indians,Ishan Kishan,Yuzvendra Chahal,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,192957,76.59,77.48,1,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,2,9,84,2,0,0,1,0,0,0,0,0
+188,3,464,2,17,Mumbai Indians,Tilak Varma,Yuzvendra Chahal,,10,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,9.3,2,1,0,192958,-154.55,127.21,6,0,,24,LEG SPIN,94,STEP DOWN LOFTED ON DRIVE,0,0,3,9,90,2,0,0,1,0,0,0,0,0
+189,4,464,2,17,Mumbai Indians,Tilak Varma,Yuzvendra Chahal,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,192959,-15.96,-2.63,0,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,4,9,90,2,0,0,1,0,0,0,0,0
+190,5,464,2,17,Mumbai Indians,Tilak Varma,Yuzvendra Chahal,,10,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.5,2,1,0,192960,-124.16,-98.86,4,0,,28,GOOGLY,55,SWEEP SHOT,0,0,5,9,94,2,0,0,1,0,0,0,0,0
+191,6,464,2,17,Mumbai Indians,Tilak Varma,Yuzvendra Chahal,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,192961,48.04,28.68,0,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,6,9,94,2,0,0,1,0,0,0,0,0
+192,1,464,2,17,Mumbai Indians,Ishan Kishan,Ravichandran Ashwin,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,192962,48.04,28.68,0,0,,25,OFF SPIN,36,CUT SHOT,0,0,1,10,94,2,1,0,1,0,0,0,0,0
+193,2,464,2,17,Mumbai Indians,Ishan Kishan,Ravichandran Ashwin,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,192963,-66.15,152.53,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,2,10,95,2,0,0,1,0,0,0,0,0
+194,3,464,2,17,Mumbai Indians,Tilak Varma,Ravichandran Ashwin,,11,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,192964,-115.87,69.19,2,0,,23,ARM BALL,27,FORWARD PUSH,0,0,3,10,97,2,0,0,1,0,0,0,0,0
+195,4,464,2,17,Mumbai Indians,Tilak Varma,Ravichandran Ashwin,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,192965,76.59,26.83,1,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,4,10,98,2,0,0,1,0,0,0,0,0
+196,5,464,2,17,Mumbai Indians,Ishan Kishan,Ravichandran Ashwin,,11,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,192966,-148.10,48.47,2,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,5,10,100,2,0,1,2,0,0,1,0,0
+197,6,464,2,17,Mumbai Indians,Ishan Kishan,Ravichandran Ashwin,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,192967,-128.77,59.53,1,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,6,10,101,2,0,0,2,0,0,0,0,0
+198,1,464,2,17,Mumbai Indians,Ishan Kishan,Riyan Parag,,12,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,192968,-91.47,14.40,2,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,1,11,103,2,1,0,2,0,0,0,0,0
+199,2,464,2,17,Mumbai Indians,Ishan Kishan,Riyan Parag,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,192969,-114.49,-62.49,1,0,,33,CARROM BALL,55,SWEEP SHOT,0,0,2,11,104,2,0,0,2,0,0,0,0,0
+200,3,464,2,17,Mumbai Indians,Tilak Varma,Riyan Parag,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,192970,142.43,-22.43,1,0,,33,CARROM BALL,36,CUT SHOT,0,0,3,11,105,2,0,0,2,0,0,0,0,0
+201,4,464,2,17,Mumbai Indians,Ishan Kishan,Riyan Parag,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,192971,-87.33,112.01,1,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,4,11,106,2,0,0,2,0,0,0,0,0
+202,5,464,2,17,Mumbai Indians,Tilak Varma,Riyan Parag,,12,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,11.5,2,1,0,192972,73.82,200.88,6,0,,25,OFF SPIN,5,LOFTED OFF DRIVE,0,0,5,11,112,2,0,0,2,0,0,0,0,0
+203,6,464,2,17,Mumbai Indians,Tilak Varma,Riyan Parag,,12,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,192973,52.18,23.15,0,0,,25,OFF SPIN,49,FORWARD DEFENCE,0,0,6,11,112,2,0,0,2,0,0,0,0,0
+204,1,464,2,17,Mumbai Indians,Ishan Kishan,Trent Boult,,13,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,192974,-103.90,-10.92,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,1,12,113,2,1,0,2,0,0,0,0,0
+205,2,464,2,17,Mumbai Indians,Tilak Varma,Trent Boult,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,192975,-113.11,95.44,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,2,12,114,2,0,0,2,0,0,0,0,0
+206,3,464,2,17,Mumbai Indians,Ishan Kishan,Trent Boult,,13,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,12.3,2,1,1,192976,-113.11,95.44,1,0,,39,ANGLED IN,18,SLOG SHOT,0,0,3,12,115,2,0,0,2,0,0,0,0,0
+207,4,464,2,17,Mumbai Indians,Ishan Kishan,Trent Boult,,13,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.3,2,1,0,192977,56.79,205.48,4,0,,8,OFF CUTTER,84,FRONTFOOT OFF DRIVE,0,0,4,12,119,2,0,0,2,0,0,0,0,0
+208,5,464,2,17,Mumbai Indians,Ishan Kishan,Trent Boult,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,192978,107.44,-10.46,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,5,12,120,2,0,0,2,0,0,0,0,0
+209,6,464,2,17,Mumbai Indians,Tilak Varma,Trent Boult,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,192979,84.87,114.78,1,0,,38,STRAIGHT BALL,84,FRONTFOOT OFF DRIVE,0,0,6,12,121,2,0,0,2,0,0,0,0,0
+210,7,464,2,17,Mumbai Indians,Ishan Kishan,Trent Boult,,13,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,12.6,2,1,0,192980,-136.13,-40.39,0,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,7,12,121,3,1,0,2,0,0,0,0,0
+211,1,464,2,17,Mumbai Indians,Tilak Varma,Yuzvendra Chahal,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,192981,134.14,-4.47,1,0,,24,LEG SPIN,36,CUT SHOT,0,0,1,13,122,3,2,0,2,0,0,0,0,0
+212,2,464,2,17,Mumbai Indians,Kieron Pollard,Yuzvendra Chahal,,14,2,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,13.2,2,1,1,192982,134.14,-4.47,1,0,,24,LEG SPIN,50,BACKFOOT DEFENCE,0,0,2,13,123,3,0,0,2,0,0,0,0,0
+213,3,464,2,17,Mumbai Indians,Tilak Varma,Yuzvendra Chahal,,14,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,13.3,2,1,1,192983,134.14,-4.47,1,0,,26,FLIPPER,36,CUT SHOT,0,0,3,13,124,3,0,0,2,0,0,0,0,0
+214,4,464,2,17,Mumbai Indians,Tilak Varma,Yuzvendra Chahal,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,192984,-60.62,49.40,0,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,4,13,124,3,0,0,2,0,0,0,0,0
+215,5,464,2,17,Mumbai Indians,Tilak Varma,Yuzvendra Chahal,,14,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.4,2,1,0,192985,-123.70,-94.72,4,0,,24,LEG SPIN,58,BACKFOOT PULL SHOT,0,0,5,13,128,3,0,0,2,0,0,0,0,0
+216,6,464,2,17,Mumbai Indians,Tilak Varma,Yuzvendra Chahal,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,192986,130.46,36.04,1,0,,24,LEG SPIN,52,BACKFOOT COVERDRIVE,0,0,6,13,129,3,0,0,2,0,0,0,0,0
+217,7,464,2,17,Mumbai Indians,Kieron Pollard,Yuzvendra Chahal,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,192987,130.46,36.04,0,0,,24,LEG SPIN,95,SLOG SWEEP,0,0,7,13,129,3,0,0,2,0,0,0,0,0
+218,1,464,2,17,Mumbai Indians,Tilak Varma,Ravichandran Ashwin,,15,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,14.1,2,1,0,192988,121.25,-111.76,6,0,,25,OFF SPIN,56,REVERSE SWEEP,0,0,1,14,135,3,1,0,2,0,0,0,0,0
+219,2,464,2,17,Mumbai Indians,Tilak Varma,Ravichandran Ashwin,,15,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,14.2,2,1,0,192989,121.25,-111.76,0,0,,25,OFF SPIN,95,SLOG SWEEP,0,0,2,14,135,4,2,0,2,0,0,0,0,0
+220,3,464,2,17,Mumbai Indians,Tim David,Ravichandran Ashwin,,15,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,192990,121.25,-111.76,0,0,,33,CARROM BALL,51,FRONTFOOT COVERDRIVE,0,0,3,14,135,4,3,0,2,0,0,0,0,0
+221,4,464,2,17,Mumbai Indians,Tim David,Ravichandran Ashwin,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,192991,-130.61,-39.47,1,0,,33,CARROM BALL,36,CUT SHOT,0,0,4,14,136,4,0,0,2,0,0,0,0,0
+222,5,464,2,17,Mumbai Indians,Kieron Pollard,Ravichandran Ashwin,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,192992,10.74,44.79,0,0,,33,CARROM BALL,97,BACKFOOT PUSH,0,0,5,14,136,4,0,0,2,0,0,0,0,0
+223,6,464,2,17,Mumbai Indians,Kieron Pollard,Ravichandran Ashwin,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,192993,-21.03,63.21,0,0,,33,CARROM BALL,27,FORWARD PUSH,0,0,6,14,136,4,0,0,2,0,0,0,0,0
+224,1,464,2,17,Mumbai Indians,Tim David,Yuzvendra Chahal,,16,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,15.1,2,1,0,192994,-21.03,63.21,0,0,,24,LEG SPIN,50,BACKFOOT DEFENCE,0,0,1,15,136,5,1,0,2,0,0,0,0,0
+225,2,464,2,17,Mumbai Indians,Daniel Sams,Yuzvendra Chahal,,16,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,15.2,2,1,0,192995,92.24,106.49,0,0,,28,GOOGLY,11,LOFTED ON DRIVE,0,0,2,15,136,6,0,0,2,0,0,0,0,0
+226,3,464,2,17,Mumbai Indians,Murugan Ashwin,Yuzvendra Chahal,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,192996,-21.03,-20.59,0,0,,28,GOOGLY,49,FORWARD DEFENCE,0,0,3,15,136,6,1,0,2,0,0,0,0,0
+227,4,464,2,17,Mumbai Indians,Murugan Ashwin,Yuzvendra Chahal,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,192997,69.68,134.12,1,0,,24,LEG SPIN,47,FRONTFOOT ON DRIVE,0,0,4,15,137,6,0,0,2,0,0,0,0,0
+228,5,464,2,17,Mumbai Indians,Kieron Pollard,Yuzvendra Chahal,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,192998,58.17,44.33,0,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,5,15,137,6,0,0,2,0,0,0,0,0
+229,6,464,2,17,Mumbai Indians,Kieron Pollard,Yuzvendra Chahal,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,192999,-97.00,-15.99,0,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,6,15,137,6,0,0,2,0,0,0,0,0
+230,1,464,2,17,Mumbai Indians,Murugan Ashwin,Prasidh Krishna,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,193000,-79.96,-4.94,1,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,1,16,138,6,1,0,2,0,0,0,0,0
+231,2,464,2,17,Mumbai Indians,Kieron Pollard,Prasidh Krishna,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,193001,-36.22,29.14,0,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,2,16,138,6,0,0,2,0,0,0,0,0
+232,3,464,2,17,Mumbai Indians,Kieron Pollard,Prasidh Krishna,,17,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,16.3,2,1,1,193002,-36.22,29.14,1,0,,39,ANGLED IN,105,LEFT ALONE,0,0,3,16,139,6,0,0,2,0,0,0,0,0
+233,4,464,2,17,Mumbai Indians,Kieron Pollard,Prasidh Krishna,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,193003,-43.59,-42.69,1,0,,39,ANGLED IN,44,GLIDE,0,0,4,16,140,6,0,0,2,0,0,0,0,0
+234,5,464,2,17,Mumbai Indians,Murugan Ashwin,Prasidh Krishna,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,193004,-43.59,-42.69,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,5,16,140,6,0,0,2,0,0,0,0,0
+235,6,464,2,17,Mumbai Indians,Murugan Ashwin,Prasidh Krishna,,17,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.5,2,1,0,193005,-155.93,131.35,4,0,,39,ANGLED IN,15,LOFTED COVER DRIVE,0,0,6,16,144,6,0,0,2,0,0,0,0,0
+236,7,464,2,17,Mumbai Indians,Murugan Ashwin,Prasidh Krishna,,17,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,193006,-155.93,131.35,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,7,16,144,6,0,0,2,0,0,0,0,0
+237,1,464,2,17,Mumbai Indians,Kieron Pollard,Trent Boult,,18,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.1,2,1,0,193007,145.19,-80.45,4,0,,38,STRAIGHT BALL,40,FRONTFOOT FLICK,0,0,1,17,148,6,1,0,2,0,0,0,0,0
+238,2,464,2,17,Mumbai Indians,Kieron Pollard,Trent Boult,,18,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,193008,145.19,-80.45,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,2,17,148,6,0,0,2,0,0,0,0,0
+239,3,464,2,17,Mumbai Indians,Kieron Pollard,Trent Boult,,18,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.3,2,1,0,193009,135.98,152.99,6,0,,30,ANGLED ACROSS,11,LOFTED ON DRIVE,0,0,3,17,154,6,0,1,3,0,0,0,0,0
+240,4,464,2,17,Mumbai Indians,Kieron Pollard,Trent Boult,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,193010,97.77,126.75,1,0,,8,OFF CUTTER,11,LOFTED ON DRIVE,0,0,4,17,155,6,0,0,3,0,0,0,0,0
+241,5,464,2,17,Mumbai Indians,Murugan Ashwin,Trent Boult,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,193011,-85.49,46.63,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,5,17,155,6,0,0,3,0,0,0,0,0
+242,6,464,2,17,Mumbai Indians,Murugan Ashwin,Trent Boult,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,193012,122.63,92.68,0,0,,30,ANGLED ACROSS,47,FRONTFOOT ON DRIVE,0,0,6,17,155,6,0,0,3,0,0,0,0,0
+243,1,464,2,17,Mumbai Indians,Kieron Pollard,Prasidh Krishna,,19,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,193013,-67.07,97.28,0,0,,38,STRAIGHT BALL,84,FRONTFOOT OFF DRIVE,0,0,1,18,155,6,1,0,3,0,0,0,0,0
+244,2,464,2,17,Mumbai Indians,Kieron Pollard,Prasidh Krishna,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,193014,-67.07,97.28,0,0,,8,OFF CUTTER,47,FRONTFOOT ON DRIVE,0,0,2,18,155,6,0,0,3,0,0,0,0,0
+245,3,464,2,17,Mumbai Indians,Kieron Pollard,Prasidh Krishna,,19,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,18.3,2,1,1,193015,-67.07,97.28,1,0,,38,STRAIGHT BALL,5,LOFTED OFF DRIVE,0,0,3,18,156,6,0,0,3,0,0,0,0,0
+246,4,464,2,17,Mumbai Indians,Kieron Pollard,Prasidh Krishna,,19,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,18.3,2,1,1,193016,-67.07,97.28,1,0,,38,STRAIGHT BALL,105,LEFT ALONE,0,0,4,18,157,6,0,0,3,0,0,0,0,0
+247,5,464,2,17,Mumbai Indians,Kieron Pollard,Prasidh Krishna,,19,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,193017,-98.84,125.83,2,0,,38,STRAIGHT BALL,84,FRONTFOOT OFF DRIVE,0,0,5,18,159,6,0,0,3,0,0,0,0,0
+248,6,464,2,17,Mumbai Indians,Kieron Pollard,Prasidh Krishna,,19,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,18.4,2,1,1,193018,-98.84,125.83,1,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,6,18,160,6,0,0,3,0,0,0,0,0
+249,7,464,2,17,Mumbai Indians,Kieron Pollard,Prasidh Krishna,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,193019,-155.47,41.11,0,0,,38,STRAIGHT BALL,15,LOFTED COVER DRIVE,0,0,7,18,160,6,0,0,3,0,0,0,0,0
+250,8,464,2,17,Mumbai Indians,Kieron Pollard,Prasidh Krishna,,19,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.5,2,1,0,193020,-128.77,-95.64,4,0,,8,OFF CUTTER,11,LOFTED ON DRIVE,0,0,8,18,164,6,0,0,3,0,0,0,0,0
+251,9,464,2,17,Mumbai Indians,Kieron Pollard,Prasidh Krishna,,19,6,1 (NB),1,0,0,0,0,1,1,0,1,0,0,0,0,1,Run Out,WICKET,0,18.6,2,1,1,193021,-128.77,-95.64,1,0,,39,ANGLED IN,11,LOFTED ON DRIVE,0,0,9,18,165,7,0,0,3,0,0,0,0,0
+252,10,464,2,17,Mumbai Indians,Jasprit Bumrah,Prasidh Krishna,,19,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.6,2,1,0,193022,36.99,-56.04,0,0,,8,OFF CUTTER,40,FRONTFOOT FLICK,0,0,10,18,165,7,0,0,3,0,0,0,0,0
+253,1,464,2,17,Mumbai Indians,Kieron Pollard,Navdeep Saini,,20,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,19.1,2,1,1,193023,36.99,-56.04,1,0,,38,STRAIGHT BALL,105,LEFT ALONE,0,0,1,19,166,7,1,0,3,0,0,0,0,0
+254,2,464,2,17,Mumbai Indians,Kieron Pollard,Navdeep Saini,,20,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.1,2,1,0,193024,-155.93,134.58,4,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,2,19,170,7,0,0,3,0,0,0,0,0
+255,3,464,2,17,Mumbai Indians,Kieron Pollard,Navdeep Saini,,20,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.2,2,1,0,193025,-155.93,134.58,0,0,,38,STRAIGHT BALL,5,LOFTED OFF DRIVE,0,0,3,19,170,7,0,0,3,0,0,0,0,0
+256,4,464,2,17,Mumbai Indians,Kieron Pollard,Navdeep Saini,,20,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.3,2,1,0,193026,-89.63,135.50,0,0,,38,STRAIGHT BALL,84,FRONTFOOT OFF DRIVE,0,0,4,19,170,7,0,0,3,0,0,0,0,0
+257,5,464,2,17,Mumbai Indians,Kieron Pollard,Navdeep Saini,,20,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.4,2,1,0,193027,-71.67,162.20,0,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,5,19,170,7,0,0,3,0,0,0,0,0
+258,6,464,2,17,Mumbai Indians,Kieron Pollard,Navdeep Saini,,20,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.5,2,1,0,193028,-62.46,-30.72,0,0,,38,STRAIGHT BALL,44,GLIDE,0,0,6,19,170,7,0,0,3,0,0,0,0,0
+259,7,464,2,17,Mumbai Indians,Kieron Pollard,Navdeep Saini,,20,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.6,2,1,0,193029,-126.92,61.37,0,0,,38,STRAIGHT BALL,15,LOFTED COVER DRIVE,0,0,7,19,170,8,1,0,3,0,0,0,0,0

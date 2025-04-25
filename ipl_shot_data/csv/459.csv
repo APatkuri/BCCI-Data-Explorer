@@ -1,0 +1,246 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,459,1,77,Lucknow Super Giants,K L Rahul,Mohammad Shami,,1,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,0.1,2,1,0,191576,,,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,1,0,0,1,1,0,0,0,0,0,0,0
+1,2,459,1,77,Lucknow Super Giants,Evin Lewis,Mohammad Shami,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,191577,-119.56,-48.68,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,2,0,1,1,2,0,0,0,0,0,0,0
+2,3,459,1,77,Lucknow Super Giants,Quinton De Kock,Mohammad Shami,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,191578,65.54,65.51,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,3,0,1,1,0,0,0,0,0,0,0,0
+3,4,459,1,77,Lucknow Super Giants,Quinton De Kock,Mohammad Shami,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,191579,55.87,20.85,1,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,4,0,2,1,0,0,0,0,0,0,0,0
+4,5,459,1,77,Lucknow Super Giants,Evin Lewis,Mohammad Shami,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,191580,77.05,24.99,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,5,0,2,1,0,0,0,0,0,0,0,0
+5,6,459,1,77,Lucknow Super Giants,Evin Lewis,Mohammad Shami,,1,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,191581,43.44,7.04,0,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,6,0,2,1,0,0,0,0,0,0,0,0
+6,1,459,1,77,Lucknow Super Giants,Quinton De Kock,Varun Aaron,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,191582,-40.36,75.18,0,0,,30,ANGLED ACROSS,84,FRONTFOOT OFF DRIVE,0,0,1,1,2,1,1,0,0,0,0,0,0,0
+7,2,459,1,77,Lucknow Super Giants,Quinton De Kock,Varun Aaron,,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,191583,-89.17,81.63,1,0,,38,STRAIGHT BALL,47,FRONTFOOT ON DRIVE,0,0,2,1,3,1,0,0,0,0,0,0,0,0
+8,3,459,1,77,Lucknow Super Giants,Evin Lewis,Varun Aaron,,2,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.3,2,1,0,191584,-52.79,-133.86,4,0,,38,STRAIGHT BALL,58,BACKFOOT PULL SHOT,0,0,3,1,7,1,0,0,0,0,0,0,0,0
+9,4,459,1,77,Lucknow Super Giants,Evin Lewis,Varun Aaron,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,191585,-126.92,-39.47,1,0,,30,ANGLED ACROSS,11,LOFTED ON DRIVE,0,0,4,1,8,1,0,0,0,0,0,0,0,0
+10,5,459,1,77,Lucknow Super Giants,Quinton De Kock,Varun Aaron,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,191586,85.33,-24.73,0,0,,30,ANGLED ACROSS,49,FORWARD DEFENCE,0,0,5,1,8,1,0,0,0,0,0,0,0,0
+11,6,459,1,77,Lucknow Super Giants,Quinton De Kock,Varun Aaron,,2,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,191587,-38.06,-49.60,1,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,6,1,9,1,0,0,0,0,0,0,0,0
+12,1,459,1,77,Lucknow Super Giants,Quinton De Kock,Mohammad Shami,,3,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.1,2,1,0,191588,75.67,-127.87,4,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,1,2,13,1,1,0,0,0,0,0,0,0
+13,2,459,1,77,Lucknow Super Giants,Quinton De Kock,Mohammad Shami,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,191589,75.67,-127.87,0,0,,37,NIPPED AWAY,84,FRONTFOOT OFF DRIVE,0,0,2,2,13,1,0,0,0,0,0,0,0,0
+14,3,459,1,77,Lucknow Super Giants,Quinton De Kock,Mohammad Shami,,3,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,2.3,2,1,0,191590,75.67,-127.87,0,0,,43,NIPBACKER,49,FORWARD DEFENCE,0,0,3,2,13,2,1,0,0,0,0,0,0,0
+15,4,459,1,77,Lucknow Super Giants,Manish Pandey,Mohammad Shami,,3,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,191591,77.51,6.58,1,0,,37,NIPPED AWAY,50,BACKFOOT DEFENCE,0,0,4,2,14,2,2,0,0,0,0,0,0,0
+16,5,459,1,77,Lucknow Super Giants,Evin Lewis,Mohammad Shami,,3,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,191592,15.35,52.62,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,5,2,14,2,0,0,0,0,0,0,0,0
+17,6,459,1,77,Lucknow Super Giants,Evin Lewis,Mohammad Shami,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,191593,82.57,-18.75,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,6,2,14,2,0,0,0,0,0,0,0,0
+18,1,459,1,77,Lucknow Super Giants,Manish Pandey,Varun Aaron,,4,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,3.1,2,1,1,191594,82.57,-18.75,1,0,,39,ANGLED IN,105,LEFT ALONE,0,0,1,3,15,2,1,0,0,0,0,0,0,0
+19,2,459,1,77,Lucknow Super Giants,Manish Pandey,Varun Aaron,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,191595,-100.22,15.32,1,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,2,3,16,2,0,0,0,0,0,0,0,0
+20,3,459,1,77,Lucknow Super Giants,Evin Lewis,Varun Aaron,,4,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.2,2,1,0,191596,156.70,-60.65,4,0,,47,SLOWER BALL,51,FRONTFOOT COVERDRIVE,0,0,3,3,20,2,0,0,0,0,0,0,0,0
+21,4,459,1,77,Lucknow Super Giants,Evin Lewis,Varun Aaron,,4,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,3.3,2,1,0,191597,-126.00,22.23,0,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,4,3,20,3,1,0,0,0,0,0,0,0
+22,5,459,1,77,Lucknow Super Giants,Deepak Hooda,Varun Aaron,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,191598,83.49,-96.56,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,5,3,21,3,2,0,0,0,0,0,0,0
+23,6,459,1,77,Lucknow Super Giants,Manish Pandey,Varun Aaron,,4,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.5,2,1,0,191599,147.03,139.18,4,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,6,3,25,3,0,0,0,0,0,0,0,0
+24,7,459,1,77,Lucknow Super Giants,Manish Pandey,Varun Aaron,,4,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,3.6,2,1,1,191600,147.03,139.18,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,7,3,26,3,0,0,0,0,0,0,0,0
+25,8,459,1,77,Lucknow Super Giants,Manish Pandey,Varun Aaron,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,191601,-69.83,2.43,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,8,3,26,3,0,0,0,0,0,0,0,0
+26,1,459,1,77,Lucknow Super Giants,Deepak Hooda,Mohammad Shami,,5,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,191602,-66.15,-19.21,0,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,1,4,26,3,1,0,0,0,0,0,0,0
+27,2,459,1,77,Lucknow Super Giants,Deepak Hooda,Mohammad Shami,,5,2,3,3,3,0,0,1,0,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,191603,133.22,120.30,3,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,2,4,29,3,0,0,0,0,0,0,0,0
+28,3,459,1,77,Lucknow Super Giants,Manish Pandey,Mohammad Shami,,5,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,4.3,2,1,0,191604,133.22,120.30,0,0,,43,NIPBACKER,27,FORWARD PUSH,0,0,3,4,29,4,1,0,0,0,0,0,0,0
+29,4,459,1,77,Lucknow Super Giants,Ayush Badoni,Mohammad Shami,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,191605,43.44,56.30,0,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,4,4,29,4,2,0,0,0,0,0,0,0
+30,5,459,1,77,Lucknow Super Giants,Ayush Badoni,Mohammad Shami,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,191606,-56.94,-27.04,0,0,,38,STRAIGHT BALL,49,FORWARD DEFENCE,0,0,5,4,29,4,0,0,0,0,0,0,0,0
+31,6,459,1,77,Lucknow Super Giants,Ayush Badoni,Mohammad Shami,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,191607,-56.94,-27.04,0,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,6,4,29,4,0,0,0,0,0,0,0,0
+33,1,459,1,77,Lucknow Super Giants,Deepak Hooda,Lockie Ferguson,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,191608,81.19,23.61,0,0,,37,NIPPED AWAY,59,FRONTFOOT SQUARE DRIVE,0,0,1,5,29,4,1,0,0,0,0,0,0,0
+34,2,459,1,77,Lucknow Super Giants,Deepak Hooda,Lockie Ferguson,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,191609,81.19,23.61,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,2,5,29,4,0,0,0,0,0,0,0,0
+35,3,459,1,77,Lucknow Super Giants,Deepak Hooda,Lockie Ferguson,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,191610,81.19,23.61,1,0,,43,NIPBACKER,97,BACKFOOT PUSH,0,0,3,5,30,4,0,0,0,0,0,0,0,0
+36,4,459,1,77,Lucknow Super Giants,Ayush Badoni,Lockie Ferguson,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,191611,-80.88,-18.29,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,4,5,30,4,0,0,0,0,0,0,0,0
+37,5,459,1,77,Lucknow Super Giants,Ayush Badoni,Lockie Ferguson,,6,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,5.5,2,1,1,191612,-80.88,-18.29,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,5,5,31,4,0,0,0,0,0,0,0,0
+38,6,459,1,77,Lucknow Super Giants,Ayush Badoni,Lockie Ferguson,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,191613,69.22,59.53,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,6,5,32,4,0,0,0,0,0,0,0,0
+39,7,459,1,77,Lucknow Super Giants,Deepak Hooda,Lockie Ferguson,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,191614,-70.29,-27.04,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,7,5,32,4,0,0,0,0,0,0,0,0
+40,1,459,1,77,Lucknow Super Giants,Ayush Badoni,Hardik Pandya,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,191615,-55.10,-31.64,0,0,,42,OUTSWINGER,44,GLIDE,0,0,1,6,32,4,1,0,0,0,0,0,0,0
+41,2,459,1,77,Lucknow Super Giants,Ayush Badoni,Hardik Pandya,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,191616,-54.64,-103.01,1,0,,42,OUTSWINGER,44,GLIDE,0,0,2,6,33,4,0,0,0,0,0,0,0,0
+42,3,459,1,77,Lucknow Super Giants,Deepak Hooda,Hardik Pandya,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,191617,59.09,99.58,0,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,3,6,33,4,0,0,0,0,0,0,0,0
+43,4,459,1,77,Lucknow Super Giants,Deepak Hooda,Hardik Pandya,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,191618,52.18,49.40,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,4,6,33,4,0,0,0,0,0,0,0,0
+44,5,459,1,77,Lucknow Super Giants,Deepak Hooda,Hardik Pandya,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,191619,52.18,49.40,0,0,,43,NIPBACKER,84,FRONTFOOT OFF DRIVE,0,0,5,6,33,4,0,0,0,0,0,0,0,0
+45,6,459,1,77,Lucknow Super Giants,Deepak Hooda,Hardik Pandya,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,191620,-17.34,57.68,0,0,,37,NIPPED AWAY,27,FORWARD PUSH,0,0,6,6,33,4,0,0,0,0,0,0,0,0
+46,1,459,1,77,Lucknow Super Giants,Ayush Badoni,Lockie Ferguson,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,191621,69.22,46.17,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,1,7,33,4,1,0,0,0,0,0,0,0
+47,2,459,1,77,Lucknow Super Giants,Ayush Badoni,Lockie Ferguson,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,191622,118.95,5.65,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,2,7,34,4,0,0,0,0,0,0,0,0
+48,3,459,1,77,Lucknow Super Giants,Deepak Hooda,Lockie Ferguson,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,191623,118.95,5.65,0,0,,36,BOUNCER,31,UPPER CUT,1,0,3,7,34,4,0,0,0,0,0,0,0,0
+49,4,459,1,77,Lucknow Super Giants,Deepak Hooda,Lockie Ferguson,,8,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,191624,126.77,57.68,2,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,4,7,36,4,0,0,0,0,0,0,0,0
+50,5,459,1,77,Lucknow Super Giants,Deepak Hooda,Lockie Ferguson,,8,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,191625,-60.62,-24.73,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,5,7,36,4,0,0,0,0,0,0,0,0
+51,6,459,1,77,Lucknow Super Giants,Deepak Hooda,Lockie Ferguson,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,191626,-62.46,-30.72,0,0,,46,LEGCUTTER,51,FRONTFOOT COVERDRIVE,0,0,6,7,36,4,0,0,0,0,0,0,0,0
+52,1,459,1,77,Lucknow Super Giants,Ayush Badoni,Hardik Pandya,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,191627,-62.46,-30.72,0,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,1,8,36,4,1,0,0,0,0,0,0,0
+53,2,459,1,77,Lucknow Super Giants,Ayush Badoni,Hardik Pandya,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,191628,-44.97,2.43,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,2,8,36,4,0,0,0,0,0,0,0,0
+54,3,459,1,77,Lucknow Super Giants,Ayush Badoni,Hardik Pandya,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,191629,92.70,121.68,1,0,,38,STRAIGHT BALL,47,FRONTFOOT ON DRIVE,0,0,3,8,37,4,0,0,0,0,0,0,0,0
+55,4,459,1,77,Lucknow Super Giants,Deepak Hooda,Hardik Pandya,,9,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.4,2,1,0,191630,-113.57,-108.07,4,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,4,8,41,4,0,0,0,0,0,0,0,0
+56,5,459,1,77,Lucknow Super Giants,Deepak Hooda,Hardik Pandya,,9,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,191631,63.69,49.40,0,0,,39,ANGLED IN,51,FRONTFOOT COVERDRIVE,0,0,5,8,41,4,0,0,0,0,0,0,0,0
+57,6,459,1,77,Lucknow Super Giants,Deepak Hooda,Hardik Pandya,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,191632,-84.56,12.10,1,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,6,8,42,4,0,0,0,0,0,0,0,0
+58,1,459,1,77,Lucknow Super Giants,Deepak Hooda,Rashid Khan,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,191633,48.50,-48.22,1,0,,24,LEG SPIN,22,FRONTFOOT PADDLE SWEEP,0,0,1,9,43,4,1,0,0,0,0,0,0,0
+59,2,459,1,77,Lucknow Super Giants,Ayush Badoni,Rashid Khan,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,191634,134.60,35.58,1,0,,28,GOOGLY,97,BACKFOOT PUSH,0,0,2,9,44,4,0,0,0,0,0,0,0,0
+60,3,459,1,77,Lucknow Super Giants,Deepak Hooda,Rashid Khan,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,191635,117.10,-47.29,1,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,3,9,45,4,0,0,0,0,0,0,0,0
+61,4,459,1,77,Lucknow Super Giants,Ayush Badoni,Rashid Khan,,10,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,191636,121.71,-39.01,1,0,,24,LEG SPIN,40,FRONTFOOT FLICK,0,0,4,9,46,4,0,0,0,0,0,0,0,0
+62,5,459,1,77,Lucknow Super Giants,Deepak Hooda,Rashid Khan,,10,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,191637,39.75,-52.82,0,0,,24,LEG SPIN,22,FRONTFOOT PADDLE SWEEP,0,0,5,9,46,4,0,0,0,0,0,0,0,0
+63,6,459,1,77,Lucknow Super Giants,Deepak Hooda,Rashid Khan,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,191638,88.10,4.73,1,0,,28,GOOGLY,27,FORWARD PUSH,0,0,6,9,47,4,0,0,0,0,0,0,0,0
+64,1,459,1,77,Lucknow Super Giants,Deepak Hooda,Hardik Pandya,,11,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.1,2,1,0,191639,62.77,209.63,4,0,,38,STRAIGHT BALL,11,LOFTED ON DRIVE,0,0,1,10,51,4,1,1,1,0,1,0,0,0
+65,2,459,1,77,Lucknow Super Giants,Deepak Hooda,Hardik Pandya,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,191640,-71.67,48.47,0,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,2,10,51,4,0,0,1,0,0,0,0,0
+66,3,459,1,77,Lucknow Super Giants,Deepak Hooda,Hardik Pandya,,11,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.3,2,1,0,191641,-167.90,113.86,4,0,,39,ANGLED IN,15,LOFTED COVER DRIVE,0,0,3,10,55,4,0,0,1,0,0,0,0,0
+67,4,459,1,77,Lucknow Super Giants,Deepak Hooda,Hardik Pandya,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,191642,64.15,149.77,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,4,10,56,4,0,0,1,0,0,0,0,0
+68,5,459,1,77,Lucknow Super Giants,Ayush Badoni,Hardik Pandya,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,191643,55.87,32.82,1,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,5,10,57,4,0,0,1,0,0,0,0,0
+69,6,459,1,77,Lucknow Super Giants,Deepak Hooda,Hardik Pandya,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,191644,-137.97,-14.14,1,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,6,10,58,4,0,0,1,0,0,0,0,0
+70,1,459,1,77,Lucknow Super Giants,Deepak Hooda,Rashid Khan,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,191645,142.89,-11.38,1,0,,28,GOOGLY,55,SWEEP SHOT,0,0,1,11,59,4,1,0,1,0,0,0,0,0
+71,2,459,1,77,Lucknow Super Giants,Ayush Badoni,Rashid Khan,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,191646,-72.59,-31.64,0,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,2,11,59,4,0,0,1,0,0,0,0,0
+72,3,459,1,77,Lucknow Super Giants,Ayush Badoni,Rashid Khan,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,191647,45.28,-54.20,1,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,3,11,60,4,0,0,1,0,0,0,0,0
+73,4,459,1,77,Lucknow Super Giants,Deepak Hooda,Rashid Khan,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,191648,105.13,83.01,1,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,4,11,61,4,0,0,1,0,0,0,0,0
+74,5,459,1,77,Lucknow Super Giants,Ayush Badoni,Rashid Khan,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,191649,-7.67,-21.51,0,0,,28,GOOGLY,44,GLIDE,0,0,5,11,61,4,0,0,1,0,0,0,0,0
+75,6,459,1,77,Lucknow Super Giants,Ayush Badoni,Rashid Khan,,12,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,191650,115.72,90.37,2,0,,28,GOOGLY,97,BACKFOOT PUSH,0,0,6,11,63,4,0,0,1,0,0,0,0,0
+76,1,459,1,77,Lucknow Super Giants,Deepak Hooda,Varun Aaron,,13,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.1,2,1,0,191651,-137.05,-83.67,4,0,,39,ANGLED IN,36,CUT SHOT,0,0,1,12,67,4,1,0,1,0,0,0,0,0
+77,2,459,1,77,Lucknow Super Giants,Deepak Hooda,Varun Aaron,,13,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,12.2,2,1,0,191652,109.74,-120.96,6,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,2,12,73,4,0,0,1,0,0,0,0,0
+78,3,459,1,77,Lucknow Super Giants,Deepak Hooda,Varun Aaron,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,191653,-49.11,-120.50,1,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,3,12,74,4,0,0,1,0,0,0,0,0
+79,4,459,1,77,Lucknow Super Giants,Ayush Badoni,Varun Aaron,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,191654,79.35,121.68,1,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,4,12,75,4,0,0,1,0,0,0,0,0
+80,5,459,1,77,Lucknow Super Giants,Deepak Hooda,Varun Aaron,,13,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.5,2,1,0,191655,-42.21,206.86,4,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,5,12,79,4,0,0,1,0,0,0,0,0
+81,6,459,1,77,Lucknow Super Giants,Deepak Hooda,Varun Aaron,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,191656,70.60,43.87,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,6,12,80,4,0,0,1,0,0,0,0,0
+82,1,459,1,77,Lucknow Super Giants,Deepak Hooda,Rashid Khan,,14,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,13.1,2,1,0,191657,134.14,161.28,6,0,,24,LEG SPIN,11,LOFTED ON DRIVE,0,0,1,13,86,4,1,0,1,0,0,0,0,0
+83,2,459,1,77,Lucknow Super Giants,Deepak Hooda,Rashid Khan,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,191658,131.84,-2.17,1,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,2,13,87,4,0,0,1,0,0,0,0,0
+84,3,459,1,77,Lucknow Super Giants,Ayush Badoni,Rashid Khan,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,191659,132.76,10.26,1,0,,24,LEG SPIN,40,FRONTFOOT FLICK,0,0,3,13,88,4,0,0,1,0,0,0,0,0
+85,4,459,1,77,Lucknow Super Giants,Deepak Hooda,Rashid Khan,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,191660,-71.21,39.73,0,0,,24,LEG SPIN,51,FRONTFOOT COVERDRIVE,0,0,4,13,88,4,0,0,1,0,0,0,0,0
+86,5,459,1,77,Lucknow Super Giants,Deepak Hooda,Rashid Khan,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,191661,146.11,28.68,1,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,5,13,89,4,0,0,1,0,0,0,0,0
+87,6,459,1,77,Lucknow Super Giants,Ayush Badoni,Rashid Khan,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,191662,91.32,112.01,1,0,,24,LEG SPIN,101,BACKFOOT ON DRIVE,0,0,6,13,90,4,0,0,1,0,0,0,0,0
+89,1,459,1,77,Lucknow Super Giants,Ayush Badoni,Hardik Pandya,,15,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,14.1,2,1,0,191663,137.82,150.69,6,0,,38,STRAIGHT BALL,11,LOFTED ON DRIVE,0,0,1,14,96,4,1,0,1,0,0,0,0,0
+90,2,459,1,77,Lucknow Super Giants,Ayush Badoni,Hardik Pandya,,15,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.2,2,1,0,191664,50.80,-147.21,4,0,,39,ANGLED IN,99,SCOOP,0,0,2,14,100,4,0,1,2,0,0,1,0,0
+91,3,459,1,77,Lucknow Super Giants,Ayush Badoni,Hardik Pandya,,15,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.3,2,1,0,191665,-41.28,-146.75,4,0,,37,NIPPED AWAY,44,GLIDE,0,0,3,14,104,4,0,0,2,0,0,0,0,0
+92,4,459,1,77,Lucknow Super Giants,Ayush Badoni,Hardik Pandya,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,191666,126.31,69.19,1,0,,37,NIPPED AWAY,27,FORWARD PUSH,0,0,4,14,105,4,0,0,2,0,0,0,0,0
+93,5,459,1,77,Lucknow Super Giants,Deepak Hooda,Hardik Pandya,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,191667,126.31,69.19,0,0,,38,STRAIGHT BALL,122,STEP DOWN LOFTED OFF DRIVE,0,0,5,14,105,4,0,0,2,0,0,0,0,0
+94,6,459,1,77,Lucknow Super Giants,Deepak Hooda,Hardik Pandya,,15,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.6,2,1,0,191668,-137.97,-78.14,4,0,,38,STRAIGHT BALL,5,LOFTED OFF DRIVE,0,0,6,14,109,4,0,0,2,0,0,0,0,0
+96,1,459,1,77,Lucknow Super Giants,Ayush Badoni,Rashid Khan,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,191669,-51.41,9.34,0,0,,28,GOOGLY,49,FORWARD DEFENCE,0,0,1,15,109,4,1,0,2,0,0,0,0,0
+97,2,459,1,77,Lucknow Super Giants,Ayush Badoni,Rashid Khan,,16,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,191670,-47.27,36.50,0,0,,28,GOOGLY,49,FORWARD DEFENCE,0,0,2,15,109,4,0,0,2,0,0,0,0,0
+98,3,459,1,77,Lucknow Super Giants,Ayush Badoni,Rashid Khan,,16,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.3,2,1,0,191671,174.20,79.78,6,0,,24,LEG SPIN,95,SLOG SWEEP,0,0,3,15,115,4,0,0,2,0,0,0,0,0
+99,4,459,1,77,Lucknow Super Giants,Ayush Badoni,Rashid Khan,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,191672,108.36,-44.99,1,0,,28,GOOGLY,58,BACKFOOT PULL SHOT,0,0,4,15,116,4,0,0,2,0,0,0,0,0
+100,5,459,1,77,Lucknow Super Giants,Deepak Hooda,Rashid Khan,,16,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,15.5,2,1,0,191673,108.36,-44.99,0,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,5,15,116,5,1,0,2,0,0,0,0,0
+101,6,459,1,77,Lucknow Super Giants,Krunal Pandya,Rashid Khan,,16,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,191674,49.42,35.12,0,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,6,15,116,5,2,0,2,0,0,0,0,0
+102,1,459,1,77,Lucknow Super Giants,Ayush Badoni,Lockie Ferguson,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,191675,-91.47,-89.65,1,0,,46,LEGCUTTER,44,GLIDE,0,0,1,16,117,5,3,0,2,0,0,0,0,0
+103,2,459,1,77,Lucknow Super Giants,Krunal Pandya,Lockie Ferguson,,17,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,191676,17.65,63.67,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,2,16,117,5,0,0,2,0,0,0,0,0
+104,3,459,1,77,Lucknow Super Giants,Krunal Pandya,Lockie Ferguson,,17,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,191677,157.62,-12.30,2,0,,46,LEGCUTTER,36,CUT SHOT,0,0,3,16,119,5,0,0,2,0,0,0,0,0
+105,4,459,1,77,Lucknow Super Giants,Krunal Pandya,Lockie Ferguson,,17,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,191678,-112.19,-64.79,1,0,,46,LEGCUTTER,58,BACKFOOT PULL SHOT,0,0,4,16,120,5,0,0,2,0,0,0,0,0
+106,5,459,1,77,Lucknow Super Giants,Ayush Badoni,Lockie Ferguson,,17,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,191679,-18.26,59.53,0,0,,38,STRAIGHT BALL,53,FRONTFOOT STRAIGHT DRIVE,0,0,5,16,120,5,0,0,2,0,0,0,0,0
+107,6,459,1,77,Lucknow Super Giants,Ayush Badoni,Lockie Ferguson,,17,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.6,2,1,0,191680,31.46,205.48,4,0,,39,ANGLED IN,13,LOFTED STRAIGHT,0,0,6,16,124,5,0,0,2,0,0,0,0,0
+108,1,459,1,77,Lucknow Super Giants,Krunal Pandya,Mohammad Shami,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,191681,-80.88,123.06,1,0,,30,ANGLED ACROSS,47,FRONTFOOT ON DRIVE,0,0,1,17,125,5,1,0,2,0,0,0,0,0
+109,2,459,1,77,Lucknow Super Giants,Ayush Badoni,Mohammad Shami,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,191682,-142.58,14.86,1,0,,38,STRAIGHT BALL,15,LOFTED COVER DRIVE,0,0,2,17,126,5,0,0,2,0,0,0,0,0
+110,3,459,1,77,Lucknow Super Giants,Krunal Pandya,Mohammad Shami,,18,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.3,2,1,0,191683,-18.26,-148.13,4,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,3,17,130,5,0,0,2,0,0,0,0,0
+111,4,459,1,77,Lucknow Super Giants,Krunal Pandya,Mohammad Shami,,18,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.4,2,1,0,191684,40.21,214.23,4,0,,30,ANGLED ACROSS,13,LOFTED STRAIGHT,0,0,4,17,134,5,0,0,2,0,0,0,0,0
+112,5,459,1,77,Lucknow Super Giants,Krunal Pandya,Mohammad Shami,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,191685,-25.17,-21.97,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,5,17,135,5,0,0,2,0,0,0,0,0
+113,6,459,1,77,Lucknow Super Giants,Ayush Badoni,Mohammad Shami,,18,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.6,2,1,0,191686,142.43,-62.49,4,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,6,17,139,5,0,0,2,0,0,0,0,0
+114,1,459,1,77,Lucknow Super Giants,Krunal Pandya,Lockie Ferguson,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,191687,-56.02,154.83,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,1,18,140,5,1,0,2,0,0,0,0,0
+115,2,459,1,77,Lucknow Super Giants,Ayush Badoni,Lockie Ferguson,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,191688,5.68,-42.23,0,0,,46,LEGCUTTER,51,FRONTFOOT COVERDRIVE,0,0,2,18,140,5,0,0,2,0,0,0,0,0
+116,3,459,1,77,Lucknow Super Giants,Ayush Badoni,Lockie Ferguson,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,191689,-64.77,85.31,1,0,,39,ANGLED IN,11,LOFTED ON DRIVE,0,0,3,18,141,5,0,0,2,0,0,0,0,0
+117,4,459,1,77,Lucknow Super Giants,Krunal Pandya,Lockie Ferguson,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,191690,-113.57,-29.34,1,0,,46,LEGCUTTER,58,BACKFOOT PULL SHOT,0,0,4,18,142,5,0,0,2,0,0,0,0,0
+118,5,459,1,77,Lucknow Super Giants,Ayush Badoni,Lockie Ferguson,,19,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.5,2,1,0,191691,170.05,90.37,6,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,5,18,148,5,0,0,2,0,0,0,0,0
+119,6,459,1,77,Lucknow Super Giants,Ayush Badoni,Lockie Ferguson,,19,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.6,2,1,0,191692,-133.37,80.24,1,0,,38,STRAIGHT BALL,15,LOFTED COVER DRIVE,0,0,6,18,149,5,0,0,2,0,0,0,0,0
+121,1,459,1,77,Lucknow Super Giants,Ayush Badoni,Varun Aaron,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.1,2,1,0,191693,140.59,64.13,1,0,,38,STRAIGHT BALL,58,BACKFOOT PULL SHOT,0,0,1,19,150,5,1,1,3,0,0,0,0,0
+122,2,459,1,77,Lucknow Super Giants,Krunal Pandya,Varun Aaron,,20,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,19.2,2,1,1,191694,140.59,64.13,1,0,,30,ANGLED ACROSS,15,LOFTED COVER DRIVE,0,0,2,19,151,5,0,0,3,0,0,0,0,0
+123,3,459,1,77,Lucknow Super Giants,Krunal Pandya,Varun Aaron,,20,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.2,2,1,0,191695,-137.97,144.71,4,0,,30,ANGLED ACROSS,11,LOFTED ON DRIVE,0,0,3,19,155,5,0,0,3,0,0,0,0,0
+124,4,459,1,77,Lucknow Super Giants,Krunal Pandya,Varun Aaron,,20,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.3,2,1,0,191696,18.11,-49.60,1,0,,46,LEGCUTTER,58,BACKFOOT PULL SHOT,0,0,4,19,156,5,0,0,3,0,0,0,0,0
+125,5,459,1,77,Lucknow Super Giants,Ayush Badoni,Varun Aaron,,20,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.4,2,1,0,191697,-71.67,122.14,0,0,,39,ANGLED IN,5,LOFTED OFF DRIVE,0,0,5,19,156,6,1,0,3,0,0,0,0,0
+126,6,459,1,77,Lucknow Super Giants,Dushmantha Chameera,Varun Aaron,,20,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.5,2,1,0,191698,19.95,-110.83,1,0,,38,STRAIGHT BALL,58,BACKFOOT PULL SHOT,0,0,6,19,157,6,2,0,3,0,0,0,0,0
+127,7,459,1,77,Lucknow Super Giants,Krunal Pandya,Varun Aaron,,20,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.6,2,1,0,191699,-116.33,70.58,1,0,,38,STRAIGHT BALL,11,LOFTED ON DRIVE,0,0,7,19,158,6,0,0,3,0,0,0,0,0
+128,1,459,2,35,Gujarat Titans,Shubman Gill,Dushmantha Chameera,,1,1,4 (LB),4,0,0,0,0,1,4,0,0,0,1,1,0,0,,,0,0.1,2,1,1,191700,,,4,0,,39,ANGLED IN,54,LEG GLANCE,0,0,1,0,4,0,1,0,0,0,0,0,0,0
+129,2,459,2,35,Gujarat Titans,Shubman Gill,Dushmantha Chameera,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,191701,67.38,29.60,0,0,,43,NIPBACKER,50,BACKFOOT DEFENCE,0,0,2,0,4,0,0,0,0,0,0,0,0,0
+130,3,459,2,35,Gujarat Titans,Shubman Gill,Dushmantha Chameera,,1,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,0.3,2,1,0,191702,-82.72,-11.38,0,0,,39,ANGLED IN,122,STEP DOWN LOFTED OFF DRIVE,0,0,3,0,4,1,1,0,0,0,0,0,0,0
+131,4,459,2,35,Gujarat Titans,Vijay Shankar,Dushmantha Chameera,,1,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,0.4,2,1,1,191703,-82.72,-11.38,1,0,,39,ANGLED IN,105,LEFT ALONE,0,0,4,0,5,1,2,0,0,0,0,0,0,0
+132,5,459,2,35,Gujarat Titans,Vijay Shankar,Dushmantha Chameera,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,191704,-86.87,9.80,0,0,,38,STRAIGHT BALL,50,BACKFOOT DEFENCE,0,0,5,0,5,1,0,0,0,0,0,0,0,0
+133,6,459,2,35,Gujarat Titans,Vijay Shankar,Dushmantha Chameera,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,191705,-86.87,9.80,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,6,0,5,1,0,0,0,0,0,0,0,0
+134,7,459,2,35,Gujarat Titans,Vijay Shankar,Dushmantha Chameera,,1,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,191706,-123.24,95.44,2,0,,38,STRAIGHT BALL,52,BACKFOOT COVERDRIVE,0,0,7,0,7,1,0,0,0,0,0,0,0,0
+135,1,459,2,35,Gujarat Titans,Matthew Wade,Avesh Khan,,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,191707,37.91,13.02,1,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,1,1,8,1,1,0,0,0,0,0,0,0
+136,2,459,2,35,Gujarat Titans,Vijay Shankar,Avesh Khan,,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,191708,81.65,-82.75,1,0,,43,NIPBACKER,84,FRONTFOOT OFF DRIVE,0,0,2,1,9,1,0,0,0,0,0,0,0,0
+137,3,459,2,35,Gujarat Titans,Matthew Wade,Avesh Khan,,2,3,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,1.3,2,1,1,191709,81.65,-82.75,1,0,,41,INSWINGER,47,FRONTFOOT ON DRIVE,0,0,3,1,10,1,0,0,0,0,0,0,0,0
+138,4,459,2,35,Gujarat Titans,Vijay Shankar,Avesh Khan,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,191710,71.06,69.19,1,0,,38,STRAIGHT BALL,84,FRONTFOOT OFF DRIVE,0,0,4,1,11,1,0,0,0,0,0,0,0,0
+139,5,459,2,35,Gujarat Titans,Matthew Wade,Avesh Khan,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,191711,71.06,69.19,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,5,1,11,1,0,0,0,0,0,0,0,0
+140,6,459,2,35,Gujarat Titans,Matthew Wade,Avesh Khan,,2,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.6,2,1,0,191712,-166.98,-36.24,4,0,,41,INSWINGER,40,FRONTFOOT FLICK,0,0,6,1,15,1,0,0,0,0,0,0,0,0
+141,1,459,2,35,Gujarat Titans,Vijay Shankar,Dushmantha Chameera,,3,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,2.1,2,1,0,191713,-166.98,-36.24,0,0,,39,ANGLED IN,53,FRONTFOOT STRAIGHT DRIVE,0,0,1,2,15,2,1,0,0,0,0,0,0,0
+142,2,459,2,35,Gujarat Titans,Hardik Pandya,Dushmantha Chameera,,3,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.2,2,1,0,191714,175.58,75.64,4,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,2,2,19,2,2,0,0,0,0,0,0,0
+143,3,459,2,35,Gujarat Titans,Hardik Pandya,Dushmantha Chameera,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,191715,-45.43,71.50,0,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,3,2,19,2,0,0,0,0,0,0,0,0
+144,4,459,2,35,Gujarat Titans,Hardik Pandya,Dushmantha Chameera,,3,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,191716,126.77,115.70,2,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,4,2,21,2,0,0,0,0,0,0,0,0
+145,5,459,2,35,Gujarat Titans,Hardik Pandya,Dushmantha Chameera,,3,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.5,2,1,0,191717,147.95,-60.19,4,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,5,2,25,2,0,0,0,0,0,0,0,0
+146,6,459,2,35,Gujarat Titans,Hardik Pandya,Dushmantha Chameera,,3,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,191718,-10.90,66.89,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,6,2,25,2,0,0,0,0,0,0,0,0
+147,1,459,2,35,Gujarat Titans,Matthew Wade,Mohsin Khan,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,191719,25.94,-109.45,1,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,1,3,26,2,1,0,0,0,0,0,0,0
+148,2,459,2,35,Gujarat Titans,Hardik Pandya,Mohsin Khan,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,191720,21.33,65.05,0,0,,30,ANGLED ACROSS,53,FRONTFOOT STRAIGHT DRIVE,0,0,2,3,26,2,0,0,0,0,0,0,0,0
+149,3,459,2,35,Gujarat Titans,Hardik Pandya,Mohsin Khan,,4,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.3,2,1,0,191721,181.10,72.88,4,0,,38,STRAIGHT BALL,47,FRONTFOOT ON DRIVE,0,0,3,3,30,2,0,0,0,0,0,0,0,0
+150,4,459,2,35,Gujarat Titans,Hardik Pandya,Mohsin Khan,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,191722,-60.16,50.32,0,0,,30,ANGLED ACROSS,49,FORWARD DEFENCE,0,0,4,3,30,2,0,0,0,0,0,0,0,0
+151,5,459,2,35,Gujarat Titans,Hardik Pandya,Mohsin Khan,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,191723,-67.07,96.82,1,0,,30,ANGLED ACROSS,84,FRONTFOOT OFF DRIVE,0,0,5,3,31,2,0,0,0,0,0,0,0,0
+152,6,459,2,35,Gujarat Titans,Matthew Wade,Mohsin Khan,,4,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.6,2,1,0,191724,175.58,50.32,4,0,,38,STRAIGHT BALL,52,BACKFOOT COVERDRIVE,0,0,6,3,35,2,0,0,0,0,0,0,0,0
+153,1,459,2,35,Gujarat Titans,Hardik Pandya,Avesh Khan,,5,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.1,2,1,0,191725,177.42,86.69,4,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,1,4,39,2,1,0,0,0,0,0,0,0
+154,2,459,2,35,Gujarat Titans,Hardik Pandya,Avesh Khan,,5,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,191726,177.42,86.69,0,0,,39,ANGLED IN,54,LEG GLANCE,0,0,2,4,39,2,0,0,0,0,0,0,0,0
+155,3,459,2,35,Gujarat Titans,Hardik Pandya,Avesh Khan,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,191727,177.42,86.69,0,0,,43,NIPBACKER,47,FRONTFOOT ON DRIVE,0,0,3,4,39,2,0,0,0,0,0,0,0,0
+156,4,459,2,35,Gujarat Titans,Hardik Pandya,Avesh Khan,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,191728,-86.87,29.60,0,0,,38,STRAIGHT BALL,97,BACKFOOT PUSH,0,0,4,4,39,2,0,0,0,0,0,0,0,0
+157,5,459,2,35,Gujarat Titans,Hardik Pandya,Avesh Khan,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,191729,-67.53,73.34,0,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,5,4,39,2,0,0,0,0,0,0,0,0
+158,6,459,2,35,Gujarat Titans,Hardik Pandya,Avesh Khan,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,191730,-84.10,35.12,0,0,,39,ANGLED IN,51,FRONTFOOT COVERDRIVE,0,0,6,4,39,2,0,0,0,0,0,0,0,0
+159,1,459,2,35,Gujarat Titans,Matthew Wade,Ravi Bishnoi,,6,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,191731,70.14,-38.09,0,0,,28,GOOGLY,36,CUT SHOT,0,0,1,5,39,2,1,0,0,0,0,0,0,0
+160,2,459,2,35,Gujarat Titans,Matthew Wade,Ravi Bishnoi,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,191732,87.64,-18.29,0,0,,28,GOOGLY,36,CUT SHOT,0,0,2,5,39,2,0,0,0,0,0,0,0,0
+161,3,459,2,35,Gujarat Titans,Matthew Wade,Ravi Bishnoi,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,191733,87.64,-18.29,0,0,,28,GOOGLY,27,FORWARD PUSH,0,0,3,5,39,2,0,0,0,0,0,0,0,0
+162,4,459,2,35,Gujarat Titans,Matthew Wade,Ravi Bishnoi,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.4,2,1,0,191734,182.49,72.88,4,0,,21,SLIDER,52,BACKFOOT COVERDRIVE,0,0,4,5,43,2,0,0,0,0,0,0,0,0
+163,5,459,2,35,Gujarat Titans,Matthew Wade,Ravi Bishnoi,,6,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,5.5,2,1,1,191735,182.49,72.88,1,0,,24,LEG SPIN,54,LEG GLANCE,0,0,5,5,44,2,0,0,0,0,0,0,0,0
+164,6,459,2,35,Gujarat Titans,Matthew Wade,Ravi Bishnoi,,6,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,191736,88.56,44.33,0,0,,21,SLIDER,97,BACKFOOT PUSH,0,0,6,5,44,2,0,0,0,0,0,0,0,0
+165,7,459,2,35,Gujarat Titans,Matthew Wade,Ravi Bishnoi,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,191737,10.74,57.68,0,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,7,5,44,2,0,0,0,0,0,0,0,0
+166,1,459,2,35,Gujarat Titans,Hardik Pandya,Krunal Pandya,,7,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,191738,-19.64,57.68,0,0,,23,ARM BALL,53,FRONTFOOT STRAIGHT DRIVE,0,0,1,6,44,2,1,0,0,0,0,0,0,0
+167,2,459,2,35,Gujarat Titans,Hardik Pandya,Krunal Pandya,,7,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,191739,-131.07,46.63,1,0,,10,ORTHODOX,51,FRONTFOOT COVERDRIVE,0,0,2,6,45,2,0,0,0,0,0,0,0,0
+168,3,459,2,35,Gujarat Titans,Matthew Wade,Krunal Pandya,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,191740,139.21,-5.86,1,0,,23,ARM BALL,36,CUT SHOT,0,0,3,6,46,2,0,0,0,0,0,0,0,0
+169,4,459,2,35,Gujarat Titans,Hardik Pandya,Krunal Pandya,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,191741,-53.72,47.09,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,4,6,46,2,0,0,0,0,0,0,0,0
+170,5,459,2,35,Gujarat Titans,Hardik Pandya,Krunal Pandya,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,191742,-58.32,36.96,0,0,,23,ARM BALL,27,FORWARD PUSH,0,0,5,6,46,2,0,0,0,0,0,0,0,0
+171,6,459,2,35,Gujarat Titans,Hardik Pandya,Krunal Pandya,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,191743,-79.96,-22.43,0,0,,23,ARM BALL,49,FORWARD DEFENCE,0,0,6,6,46,2,0,0,0,0,0,0,0,0
+172,1,459,2,35,Gujarat Titans,Matthew Wade,Ravi Bishnoi,,8,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,191744,133.68,-5.40,1,0,,24,LEG SPIN,56,REVERSE SWEEP,0,0,1,7,47,2,1,0,0,0,0,0,0,0
+173,2,459,2,35,Gujarat Titans,Hardik Pandya,Ravi Bishnoi,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,191745,-80.42,-11.38,0,0,,28,GOOGLY,97,BACKFOOT PUSH,0,0,2,7,47,2,0,0,0,0,0,0,0,0
+174,3,459,2,35,Gujarat Titans,Hardik Pandya,Ravi Bishnoi,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,191746,-89.63,122.14,1,0,,24,LEG SPIN,84,FRONTFOOT OFF DRIVE,0,0,3,7,48,2,0,0,0,0,0,0,0,0
+175,4,459,2,35,Gujarat Titans,Matthew Wade,Ravi Bishnoi,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,191747,-106.21,19.93,1,0,,28,GOOGLY,27,FORWARD PUSH,0,0,4,7,49,2,0,0,0,0,0,0,0,0
+176,5,459,2,35,Gujarat Titans,Hardik Pandya,Ravi Bishnoi,,8,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,7.5,2,1,0,191748,-132.45,147.01,6,0,,24,LEG SPIN,5,LOFTED OFF DRIVE,0,0,5,7,55,2,0,1,1,0,1,0,0,0
+177,6,459,2,35,Gujarat Titans,Hardik Pandya,Ravi Bishnoi,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,191749,-68.45,62.75,0,0,,24,LEG SPIN,51,FRONTFOOT COVERDRIVE,0,0,6,7,55,2,0,0,1,0,0,0,0,0
+178,1,459,2,35,Gujarat Titans,Matthew Wade,Krunal Pandya,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,191750,67.38,37.42,0,0,,23,ARM BALL,52,BACKFOOT COVERDRIVE,0,0,1,8,55,2,1,0,1,0,0,0,0,0
+179,2,459,2,35,Gujarat Titans,Matthew Wade,Krunal Pandya,,9,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,191751,139.21,113.40,2,0,,10,ORTHODOX,52,BACKFOOT COVERDRIVE,0,0,2,8,57,2,0,0,1,0,0,0,0,0
+180,3,459,2,35,Gujarat Titans,Matthew Wade,Krunal Pandya,,9,3,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,8.3,2,1,1,191752,139.21,113.40,1,0,,10,ORTHODOX,54,LEG GLANCE,0,0,3,8,58,2,0,0,1,0,0,0,0,0
+181,4,459,2,35,Gujarat Titans,Hardik Pandya,Krunal Pandya,,9,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,191753,-101.14,14.86,1,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,4,8,59,2,0,0,1,0,0,0,0,0
+182,5,459,2,35,Gujarat Titans,Matthew Wade,Krunal Pandya,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,191754,106.05,41.11,1,0,,23,ARM BALL,27,FORWARD PUSH,0,0,5,8,60,2,0,0,1,0,0,0,0,0
+183,6,459,2,35,Gujarat Titans,Hardik Pandya,Krunal Pandya,,9,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.6,2,1,0,191755,154.40,135.50,4,0,,10,ORTHODOX,47,FRONTFOOT ON DRIVE,0,0,6,8,64,2,0,0,1,0,0,0,0,0
+184,1,459,2,35,Gujarat Titans,Matthew Wade,Mohsin Khan,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,191756,154.40,135.50,0,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,1,9,64,2,1,0,1,0,0,0,0,0
+185,2,459,2,35,Gujarat Titans,Matthew Wade,Mohsin Khan,,10,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,191757,-130.61,111.09,2,0,,39,ANGLED IN,11,LOFTED ON DRIVE,0,0,2,9,66,2,0,0,1,0,0,0,0,0
+186,3,459,2,35,Gujarat Titans,Matthew Wade,Mohsin Khan,,10,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.3,2,1,0,191758,165.45,102.81,4,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,3,9,70,2,0,0,1,0,0,0,0,0
+187,4,459,2,35,Gujarat Titans,Matthew Wade,Mohsin Khan,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,191759,-69.37,48.47,0,0,,38,STRAIGHT BALL,58,BACKFOOT PULL SHOT,0,0,4,9,70,2,0,0,1,0,0,0,0,0
+188,5,459,2,35,Gujarat Titans,Matthew Wade,Mohsin Khan,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,191760,52.18,94.98,1,0,,8,OFF CUTTER,97,BACKFOOT PUSH,0,0,5,9,71,2,0,0,1,0,0,0,0,0
+189,6,459,2,35,Gujarat Titans,Hardik Pandya,Mohsin Khan,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,191761,91.32,-66.17,1,0,,16,SLOW BOUNCER,58,BACKFOOT PULL SHOT,0,0,6,9,72,2,0,0,1,0,0,0,0,0
+190,1,459,2,35,Gujarat Titans,Hardik Pandya,Krunal Pandya,,11,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,10.1,2,1,0,191762,-67.07,135.50,0,0,,10,ORTHODOX,5,LOFTED OFF DRIVE,0,0,1,10,72,3,1,0,1,0,0,0,0,0
+191,2,459,2,35,Gujarat Titans,David Miller,Krunal Pandya,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,191763,-60.62,38.81,0,0,,10,ORTHODOX,97,BACKFOOT PUSH,0,0,2,10,72,3,2,0,1,0,0,0,0,0
+192,3,459,2,35,Gujarat Titans,David Miller,Krunal Pandya,,11,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,191764,-70.75,47.55,0,0,,10,ORTHODOX,47,FRONTFOOT ON DRIVE,0,0,3,10,72,3,0,0,1,0,0,0,0,0
+193,4,459,2,35,Gujarat Titans,David Miller,Krunal Pandya,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,191765,63.23,148.85,1,0,,10,ORTHODOX,21,STEP DOWN OFF DRIVE,0,0,4,10,73,3,0,0,1,0,0,0,0,0
+194,5,459,2,35,Gujarat Titans,Matthew Wade,Krunal Pandya,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,191766,-20.56,49.86,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,5,10,73,3,0,0,1,0,0,0,0,0
+195,6,459,2,35,Gujarat Titans,Matthew Wade,Krunal Pandya,,11,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,191767,-125.08,15.32,2,0,,10,ORTHODOX,40,FRONTFOOT FLICK,0,0,6,10,75,3,0,0,1,0,0,0,0,0
+196,1,459,2,35,Gujarat Titans,David Miller,Deepak Hooda,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,191768,-132.91,25.91,1,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,1,11,76,3,1,0,1,0,0,0,0,0
+197,2,459,2,35,Gujarat Titans,Matthew Wade,Deepak Hooda,,12,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,191769,-92.39,121.68,1,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,2,11,77,3,0,0,1,0,0,0,0,0
+198,3,459,2,35,Gujarat Titans,David Miller,Deepak Hooda,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,191770,-58.78,135.50,1,0,,25,OFF SPIN,47,FRONTFOOT ON DRIVE,0,0,3,11,78,3,0,0,1,0,0,0,0,0
+199,4,459,2,35,Gujarat Titans,Matthew Wade,Deepak Hooda,,12,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,191771,57.25,40.19,0,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,4,11,78,3,0,0,1,0,0,0,0,0
+200,5,459,2,35,Gujarat Titans,Matthew Wade,Deepak Hooda,,12,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,11.5,2,1,0,191772,57.25,40.19,0,0,,25,OFF SPIN,95,SLOG SWEEP,0,0,5,11,78,4,1,0,1,0,0,0,0,0
+201,6,459,2,35,Gujarat Titans,Rahul Tewatia,Deepak Hooda,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,191773,-78.58,48.47,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,6,11,79,4,2,0,1,0,0,0,0,0
+202,1,459,2,35,Gujarat Titans,Rahul Tewatia,Krunal Pandya,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,191774,-91.47,124.45,0,0,,10,ORTHODOX,47,FRONTFOOT ON DRIVE,0,0,1,12,79,4,3,0,1,0,0,0,0,0
+203,2,459,2,35,Gujarat Titans,Rahul Tewatia,Krunal Pandya,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,191775,75.21,20.39,1,0,,10,ORTHODOX,49,FORWARD DEFENCE,0,0,2,12,80,4,0,0,1,0,0,0,0,0
+204,3,459,2,35,Gujarat Titans,David Miller,Krunal Pandya,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,191776,40.21,165.42,1,0,,10,ORTHODOX,84,FRONTFOOT OFF DRIVE,0,0,3,12,81,4,0,0,1,0,0,0,0,0
+205,4,459,2,35,Gujarat Titans,Rahul Tewatia,Krunal Pandya,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,191777,88.56,9.80,1,0,,23,ARM BALL,49,FORWARD DEFENCE,0,0,4,12,82,4,0,0,1,0,0,0,0,0
+206,5,459,2,35,Gujarat Titans,David Miller,Krunal Pandya,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,191778,-7.67,45.25,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,5,12,82,4,0,0,1,0,0,0,0,0
+207,6,459,2,35,Gujarat Titans,David Miller,Krunal Pandya,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,191779,-100.22,-56.04,1,0,,10,ORTHODOX,54,LEG GLANCE,0,0,6,12,83,4,0,0,1,0,0,0,0,0
+208,1,459,2,35,Gujarat Titans,David Miller,Deepak Hooda,,14,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,191780,91.78,-0.33,1,0,,25,OFF SPIN,97,BACKFOOT PUSH,0,0,1,13,84,4,1,0,1,0,0,0,0,0
+209,2,459,2,35,Gujarat Titans,Rahul Tewatia,Deepak Hooda,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,191781,78.89,125.37,1,0,,25,OFF SPIN,84,FRONTFOOT OFF DRIVE,0,0,2,13,85,4,0,0,1,0,0,0,0,0
+210,3,459,2,35,Gujarat Titans,David Miller,Deepak Hooda,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,191782,-106.67,79.78,1,0,,25,OFF SPIN,84,FRONTFOOT OFF DRIVE,0,0,3,13,86,4,0,0,1,0,0,0,0,0
+211,4,459,2,35,Gujarat Titans,Rahul Tewatia,Deepak Hooda,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,191783,131.84,-13.22,1,0,,25,OFF SPIN,36,CUT SHOT,0,0,4,13,87,4,0,0,1,0,0,0,0,0
+212,5,459,2,35,Gujarat Titans,David Miller,Deepak Hooda,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,191784,142.89,12.56,1,0,,23,ARM BALL,36,CUT SHOT,0,0,5,13,88,4,0,0,1,0,0,0,0,0
+213,6,459,2,35,Gujarat Titans,Rahul Tewatia,Deepak Hooda,,14,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,191785,142.89,12.56,0,0,,23,ARM BALL,49,FORWARD DEFENCE,0,0,6,13,88,4,0,0,1,0,0,0,0,0
+215,1,459,2,35,Gujarat Titans,David Miller,Ravi Bishnoi,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,191786,83.95,38.35,1,0,,24,LEG SPIN,52,BACKFOOT COVERDRIVE,0,0,1,14,89,4,1,0,1,0,0,0,0,0
+216,2,459,2,35,Gujarat Titans,Rahul Tewatia,Ravi Bishnoi,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,191787,83.95,38.35,0,0,,28,GOOGLY,54,LEG GLANCE,0,0,2,14,89,4,0,0,1,0,0,0,0,0
+217,3,459,2,35,Gujarat Titans,Rahul Tewatia,Ravi Bishnoi,,15,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,191788,133.68,51.24,1,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,3,14,90,4,0,0,1,0,0,0,0,0
+218,4,459,2,35,Gujarat Titans,David Miller,Ravi Bishnoi,,15,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,191789,87.18,37.88,0,0,,28,GOOGLY,52,BACKFOOT COVERDRIVE,0,0,4,14,90,4,0,0,1,0,0,0,0,0
+219,5,459,2,35,Gujarat Titans,David Miller,Ravi Bishnoi,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,191790,142.89,13.02,1,0,,24,LEG SPIN,36,CUT SHOT,0,0,5,14,91,4,0,0,1,0,0,0,0,0
+220,6,459,2,35,Gujarat Titans,Rahul Tewatia,Ravi Bishnoi,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,191791,142.89,13.02,0,0,,28,GOOGLY,49,FORWARD DEFENCE,0,0,6,14,91,4,0,0,1,0,0,0,0,0
+221,1,459,2,35,Gujarat Titans,David Miller,Deepak Hooda,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,191792,78.89,-10.46,1,0,,25,OFF SPIN,27,FORWARD PUSH,0,0,1,15,92,4,1,0,1,0,0,0,0,0
+222,2,459,2,35,Gujarat Titans,Rahul Tewatia,Deepak Hooda,,16,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.2,2,1,0,191793,-166.52,100.96,6,0,,25,OFF SPIN,95,SLOG SWEEP,0,0,2,15,98,4,0,0,1,0,0,0,0,0
+223,3,459,2,35,Gujarat Titans,Rahul Tewatia,Deepak Hooda,,16,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.3,2,1,0,191794,-9.51,215.15,4,0,,25,OFF SPIN,69,STEP DOWN LOFTED STRAIGHT DRIVE,0,0,3,15,102,4,0,1,2,0,0,1,0,0
+224,4,459,2,35,Gujarat Titans,Rahul Tewatia,Deepak Hooda,,16,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,191795,-74.90,-34.40,1,0,,23,ARM BALL,55,SWEEP SHOT,0,0,4,15,103,4,0,0,2,0,0,0,0,0
+225,5,459,2,35,Gujarat Titans,David Miller,Deepak Hooda,,16,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.5,2,1,0,191796,-177.57,-0.33,4,0,,25,OFF SPIN,55,SWEEP SHOT,0,0,5,15,107,4,0,0,2,0,0,0,0,0
+226,6,459,2,35,Gujarat Titans,David Miller,Deepak Hooda,,16,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.6,2,1,0,191797,-136.59,162.66,6,0,,25,OFF SPIN,11,LOFTED ON DRIVE,0,0,6,15,113,4,0,0,2,0,0,0,0,0
+227,1,459,2,35,Gujarat Titans,Rahul Tewatia,Ravi Bishnoi,,17,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,16.1,2,1,0,191798,156.70,-59.27,6,0,,24,LEG SPIN,56,REVERSE SWEEP,0,0,1,16,119,4,1,0,2,0,0,0,0,0
+228,2,459,2,35,Gujarat Titans,Rahul Tewatia,Ravi Bishnoi,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,191799,-117.72,-53.28,1,0,,28,GOOGLY,55,SWEEP SHOT,0,0,2,16,120,4,0,0,2,0,0,0,0,0
+229,3,459,2,35,Gujarat Titans,David Miller,Ravi Bishnoi,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,191800,145.19,62.29,1,0,,28,GOOGLY,52,BACKFOOT COVERDRIVE,0,0,3,16,121,4,0,0,2,0,0,0,0,0
+230,4,459,2,35,Gujarat Titans,Rahul Tewatia,Ravi Bishnoi,,17,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,16.4,2,1,1,191801,145.19,62.29,1,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,4,16,122,4,0,0,2,0,0,0,0,0
+231,5,459,2,35,Gujarat Titans,Rahul Tewatia,Ravi Bishnoi,,17,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.4,2,1,0,191802,-100.68,-116.36,4,0,,28,GOOGLY,55,SWEEP SHOT,0,0,5,16,126,4,0,0,2,0,0,0,0,0
+232,6,459,2,35,Gujarat Titans,Rahul Tewatia,Ravi Bishnoi,,17,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.5,2,1,0,191803,-77.66,-129.71,4,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,6,16,130,4,0,0,2,0,0,0,0,0
+233,7,459,2,35,Gujarat Titans,Rahul Tewatia,Ravi Bishnoi,,17,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,191804,66.00,6.12,0,0,,28,GOOGLY,55,SWEEP SHOT,0,0,7,16,130,4,0,0,2,0,0,0,0,0
+235,1,459,2,35,Gujarat Titans,David Miller,Avesh Khan,,18,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,191805,140.59,117.54,2,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,1,17,132,4,1,0,2,0,0,0,0,0
+236,2,459,2,35,Gujarat Titans,David Miller,Avesh Khan,,18,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.2,2,1,0,191806,-89.17,182.92,6,0,,30,ANGLED ACROSS,11,LOFTED ON DRIVE,0,0,2,17,138,4,0,0,2,0,0,0,0,0
+237,3,459,2,35,Gujarat Titans,David Miller,Avesh Khan,,18,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,17.3,2,1,0,191807,87.64,58.60,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,3,17,138,5,1,0,2,0,0,0,0,0
+238,4,459,2,35,Gujarat Titans,Abhinav Manohar,Avesh Khan,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,191808,-10.90,-101.17,1,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,4,17,139,5,2,0,2,0,0,0,0,0
+239,5,459,2,35,Gujarat Titans,Rahul Tewatia,Avesh Khan,,18,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,191809,85.79,58.14,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,5,17,139,5,0,0,2,0,0,0,0,0
+240,6,459,2,35,Gujarat Titans,Rahul Tewatia,Avesh Khan,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,191810,-86.87,63.21,0,0,,30,ANGLED ACROSS,46,FRONTFOOT PULL SHOT,0,0,6,17,139,5,0,0,2,0,0,0,0,0
+241,1,459,2,35,Gujarat Titans,Abhinav Manohar,Dushmantha Chameera,,19,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.1,2,1,0,191811,-27.01,205.48,4,0,,46,LEGCUTTER,13,LOFTED STRAIGHT,0,0,1,18,143,5,1,0,2,0,0,0,0,0
+242,2,459,2,35,Gujarat Titans,Abhinav Manohar,Dushmantha Chameera,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,191812,-27.01,205.48,0,0,,46,LEGCUTTER,36,CUT SHOT,0,0,2,18,143,5,0,0,2,0,0,0,0,0
+243,3,459,2,35,Gujarat Titans,Abhinav Manohar,Dushmantha Chameera,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,191813,-32.08,-26.12,1,0,,46,LEGCUTTER,84,FRONTFOOT OFF DRIVE,0,0,3,18,144,5,0,0,2,0,0,0,0,0
+244,4,459,2,35,Gujarat Titans,Rahul Tewatia,Dushmantha Chameera,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,191814,-32.08,-26.12,0,0,,30,ANGLED ACROSS,5,LOFTED OFF DRIVE,0,0,4,18,144,5,0,0,2,0,0,0,0,0
+245,5,459,2,35,Gujarat Titans,Rahul Tewatia,Dushmantha Chameera,,19,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.5,2,1,0,191815,54.49,-140.30,4,0,,30,ANGLED ACROSS,96,SLICED OVER POINT,0,0,5,18,148,5,0,0,2,0,0,0,0,0
+246,6,459,2,35,Gujarat Titans,Rahul Tewatia,Dushmantha Chameera,,19,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.6,2,1,0,191816,96.38,57.68,0,0,,30,ANGLED ACROSS,15,LOFTED COVER DRIVE,0,0,6,18,148,5,0,0,2,0,0,0,0,0
+247,1,459,2,35,Gujarat Titans,Abhinav Manohar,Avesh Khan,,20,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.1,2,1,0,191817,176.96,24.07,4,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,1,19,152,5,1,1,3,0,0,0,0,0
+248,2,459,2,35,Gujarat Titans,Abhinav Manohar,Avesh Khan,,20,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.2,2,1,0,191818,-168.36,88.07,4,0,,46,LEGCUTTER,51,FRONTFOOT COVERDRIVE,0,0,2,19,156,5,0,0,3,0,0,0,0,0
+249,3,459,2,35,Gujarat Titans,Abhinav Manohar,Avesh Khan,,20,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.3,2,1,0,191819,71.52,-72.62,1,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,3,19,157,5,0,0,3,0,0,0,0,0
+250,4,459,2,35,Gujarat Titans,Rahul Tewatia,Avesh Khan,,20,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,19.4,2,1,0,191820,173.74,89.91,4,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,4,19,161,5,0,0,3,0,0,0,0,0

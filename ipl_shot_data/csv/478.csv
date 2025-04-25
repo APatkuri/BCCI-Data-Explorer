@@ -1,0 +1,253 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,478,1,15,Punjab Kings,Mayank Agarwal,Basil Thampi,,1,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.1,2,1,0,196196,-160.54,-68.47,4,0,,,Knuckleball,36,CUT SHOT,0,0,1,0,4,0,1,0,0,0,0,0,0,0
+1,2,478,1,15,Punjab Kings,Mayank Agarwal,Basil Thampi,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,196197,-160.54,-68.47,0,0,,,Knuckleball,105,LEFT ALONE,0,0,2,0,4,0,0,0,0,0,0,0,0,0
+2,3,478,1,15,Punjab Kings,Mayank Agarwal,Basil Thampi,,1,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.3,2,1,0,196198,-180.79,-28.42,4,0,,,Knuckleball,36,CUT SHOT,0,0,3,0,8,0,0,0,0,0,0,0,0,0
+3,4,478,1,15,Punjab Kings,Mayank Agarwal,Basil Thampi,,1,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,196199,-82.26,-98.40,1,0,,,Knuckleball,44,GLIDE,0,0,4,0,9,0,0,0,0,0,0,0,0,0
+4,5,478,1,15,Punjab Kings,Shikhar Dhawan,Basil Thampi,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,196200,66.92,-32.10,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,0,9,0,0,0,0,0,0,0,0,0
+5,6,478,1,15,Punjab Kings,Shikhar Dhawan,Basil Thampi,,1,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,0.6,2,1,1,196201,-38.52,-60.65,1,0,,,Knuckleball,54,LEG GLANCE,0,0,6,0,10,0,0,0,0,0,0,0,0,0
+6,1,478,1,15,Punjab Kings,Shikhar Dhawan,Jaydev Unadkat,,2,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,1.1,2,1,0,196202,98.69,185.22,6,0,,,Knuckleball,122,STEP DOWN LOFTED OFF DRIVE,0,0,1,1,16,0,1,0,0,0,0,0,0,0
+7,2,478,1,15,Punjab Kings,Shikhar Dhawan,Jaydev Unadkat,,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,196203,-82.26,1.97,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,1,17,0,0,0,0,0,0,0,0,0
+8,3,478,1,15,Punjab Kings,Mayank Agarwal,Jaydev Unadkat,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,196204,-67.07,-11.84,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,3,1,17,0,0,0,0,0,0,0,0,0
+9,4,478,1,15,Punjab Kings,Mayank Agarwal,Jaydev Unadkat,,2,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,196205,76.59,15.78,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,1,17,0,0,0,0,0,0,0,0,0
+10,5,478,1,15,Punjab Kings,Mayank Agarwal,Jaydev Unadkat,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,196206,-65.23,-11.38,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,1,17,0,0,0,0,0,0,0,0,0
+11,6,478,1,15,Punjab Kings,Mayank Agarwal,Jaydev Unadkat,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,196207,-67.07,-29.80,0,0,,,Knuckleball,44,GLIDE,0,0,6,1,17,0,0,0,0,0,0,0,0,0
+13,1,478,1,15,Punjab Kings,Shikhar Dhawan,Jasprit Bumrah,,3,1,4 (LB),4,0,0,0,0,1,4,0,0,0,1,1,0,0,,,0,2.1,2,1,1,196208,-24.71,-146.75,4,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,2,21,0,1,0,0,0,0,0,0,0
+14,2,478,1,15,Punjab Kings,Shikhar Dhawan,Jasprit Bumrah,,3,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,2.2,2,1,1,196209,-24.71,-146.75,1,0,,,Knuckleball,37,STEP DOWN FLICK,0,0,2,2,22,0,0,0,0,0,0,0,0,0
+15,3,478,1,15,Punjab Kings,Shikhar Dhawan,Jasprit Bumrah,,3,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,2.2,2,1,1,196210,-24.71,-146.75,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,2,23,0,0,0,0,0,0,0,0,0
+16,4,478,1,15,Punjab Kings,Shikhar Dhawan,Jasprit Bumrah,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,196211,-58.78,-6.78,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,4,2,24,0,0,0,0,0,0,0,0,0
+17,5,478,1,15,Punjab Kings,Mayank Agarwal,Jasprit Bumrah,,3,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,196212,-37.14,-111.76,1,0,,,Knuckleball,44,GLIDE,0,0,5,2,25,0,0,0,0,0,0,0,0,0
+18,6,478,1,15,Punjab Kings,Shikhar Dhawan,Jasprit Bumrah,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,196213,-37.14,-111.76,0,0,,,Knuckleball,31,UPPER CUT,0,0,6,2,25,0,0,0,0,0,0,0,0,0
+19,7,478,1,15,Punjab Kings,Shikhar Dhawan,Jasprit Bumrah,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,196214,-87.79,-37.63,1,0,,,Knuckleball,37,STEP DOWN FLICK,0,0,7,2,26,0,0,0,0,0,0,0,0,0
+20,8,478,1,15,Punjab Kings,Mayank Agarwal,Jasprit Bumrah,,3,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.6,2,1,0,196215,-182.18,16.71,4,0,,,Knuckleball,59,FRONTFOOT SQUARE DRIVE,0,0,8,2,30,0,0,0,0,0,0,0,0,0
+21,1,478,1,15,Punjab Kings,Shikhar Dhawan,Jaydev Unadkat,,4,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,196216,-39.90,26.37,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,1,3,31,0,1,0,0,0,0,0,0,0
+22,2,478,1,15,Punjab Kings,Mayank Agarwal,Jaydev Unadkat,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,196217,-39.90,26.37,0,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,2,3,31,0,0,0,0,0,0,0,0,0
+23,3,478,1,15,Punjab Kings,Mayank Agarwal,Jaydev Unadkat,,4,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,196218,99.15,-74.00,2,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,3,33,0,0,0,0,0,0,0,0,0
+24,4,478,1,15,Punjab Kings,Mayank Agarwal,Jaydev Unadkat,,4,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,196219,-63.85,117.54,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,3,34,0,0,0,0,0,0,0,0,0
+25,5,478,1,15,Punjab Kings,Shikhar Dhawan,Jaydev Unadkat,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,196220,70.14,-35.78,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,3,34,0,0,0,0,0,0,0,0,0
+26,6,478,1,15,Punjab Kings,Shikhar Dhawan,Jaydev Unadkat,,4,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,196221,157.16,73.80,2,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,6,3,36,0,0,0,0,0,0,0,0,0
+27,1,478,1,15,Punjab Kings,Mayank Agarwal,Murugan Ashwin,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,196222,-86.87,121.22,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,1,4,37,0,1,0,0,0,0,0,0,0
+28,2,478,1,15,Punjab Kings,Shikhar Dhawan,Murugan Ashwin,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,196223,-89.63,129.97,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,2,4,38,0,0,0,0,0,0,0,0,0
+29,3,478,1,15,Punjab Kings,Mayank Agarwal,Murugan Ashwin,,5,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.3,2,1,0,196224,-179.87,7.04,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,3,4,42,0,0,0,0,0,0,0,0,0
+30,4,478,1,15,Punjab Kings,Mayank Agarwal,Murugan Ashwin,,5,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,4.4,2,1,0,196225,100.99,180.16,4,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,4,4,46,0,0,0,0,0,0,0,0,0
+31,5,478,1,15,Punjab Kings,Mayank Agarwal,Murugan Ashwin,,5,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,4.5,2,1,0,196226,-113.57,197.19,6,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,5,4,52,0,0,1,1,0,1,0,0,0
+32,6,478,1,15,Punjab Kings,Mayank Agarwal,Murugan Ashwin,,5,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,196227,-50.03,46.17,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,6,4,53,0,0,0,1,0,0,0,0,0
+34,1,478,1,15,Punjab Kings,Mayank Agarwal,Tymal Mills,,6,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,196228,128.62,-49.60,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,1,5,54,0,1,0,1,0,0,0,0,0
+35,2,478,1,15,Punjab Kings,Shikhar Dhawan,Tymal Mills,,6,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.2,2,1,0,196229,172.82,111.09,4,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,2,5,58,0,0,0,1,0,0,0,0,0
+36,3,478,1,15,Punjab Kings,Shikhar Dhawan,Tymal Mills,,6,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,5.3,2,1,1,196230,172.82,111.09,1,0,,,Knuckleball,105,LEFT ALONE,0,0,3,5,59,0,0,0,1,0,0,0,0,0
+37,4,478,1,15,Punjab Kings,Shikhar Dhawan,Tymal Mills,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,196231,172.82,111.09,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,5,59,0,0,0,1,0,0,0,0,0
+38,5,478,1,15,Punjab Kings,Shikhar Dhawan,Tymal Mills,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,196232,-115.41,66.43,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,5,5,60,0,0,0,1,0,0,0,0,0
+39,6,478,1,15,Punjab Kings,Mayank Agarwal,Tymal Mills,,6,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,5.5,2,1,1,196233,-115.41,66.43,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,6,5,61,0,0,0,1,0,0,0,0,0
+40,7,478,1,15,Punjab Kings,Mayank Agarwal,Tymal Mills,,6,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.5,2,1,0,196234,-74.44,-132.94,4,0,,,Knuckleball,44,GLIDE,0,0,7,5,65,0,0,0,1,0,0,0,0,0
+41,8,478,1,15,Punjab Kings,Mayank Agarwal,Tymal Mills,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,196235,-74.44,-132.94,0,0,,,Knuckleball,36,CUT SHOT,0,0,8,5,65,0,0,0,1,0,0,0,0,0
+43,1,478,1,15,Punjab Kings,Shikhar Dhawan,Murugan Ashwin,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,196236,-60.62,-23.81,1,0,,,Knuckleball,54,LEG GLANCE,0,0,1,6,66,0,1,0,1,0,0,0,0,0
+44,2,478,1,15,Punjab Kings,Mayank Agarwal,Murugan Ashwin,,7,2,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,6.2,2,1,1,196237,-60.62,-23.81,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,2,6,67,0,0,0,1,0,0,0,0,0
+45,3,478,1,15,Punjab Kings,Shikhar Dhawan,Murugan Ashwin,,7,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,196238,-125.08,-23.81,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,6,68,0,0,0,1,0,0,0,0,0
+46,4,478,1,15,Punjab Kings,Mayank Agarwal,Murugan Ashwin,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,196239,98.23,122.14,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,4,6,69,0,0,0,1,0,0,0,0,0
+47,5,478,1,15,Punjab Kings,Shikhar Dhawan,Murugan Ashwin,,7,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,6.5,2,1,1,196240,98.23,122.14,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,5,6,70,0,0,0,1,0,0,0,0,0
+48,6,478,1,15,Punjab Kings,Mayank Agarwal,Murugan Ashwin,,7,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,196241,37.91,-11.38,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,6,70,0,0,0,1,0,0,0,0,0
+49,1,478,1,15,Punjab Kings,Shikhar Dhawan,Basil Thampi,,8,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.1,2,1,0,196242,145.19,-64.79,4,0,,,Knuckleball,36,CUT SHOT,0,0,1,7,74,0,1,0,1,0,0,0,0,0
+50,2,478,1,15,Punjab Kings,Shikhar Dhawan,Basil Thampi,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,196243,27.78,22.69,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,7,75,0,0,0,1,0,0,0,0,0
+51,3,478,1,15,Punjab Kings,Mayank Agarwal,Basil Thampi,,8,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,196244,-2.15,156.22,2,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,3,7,77,0,0,0,1,0,0,0,0,0
+52,4,478,1,15,Punjab Kings,Mayank Agarwal,Basil Thampi,,8,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,196245,160.85,16.24,2,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,4,7,79,0,0,0,1,0,0,0,0,0
+53,5,478,1,15,Punjab Kings,Mayank Agarwal,Basil Thampi,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,196246,-144.88,34.20,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,7,80,0,0,0,1,0,0,0,0,0
+54,6,478,1,15,Punjab Kings,Shikhar Dhawan,Basil Thampi,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,196247,77.97,37.88,0,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,6,7,80,0,0,0,1,0,0,0,0,0
+55,1,478,1,15,Punjab Kings,Mayank Agarwal,Tymal Mills,,9,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,196248,77.97,37.88,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,8,80,0,1,0,1,0,0,0,0,0
+56,2,478,1,15,Punjab Kings,Mayank Agarwal,Tymal Mills,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,196249,100.53,57.68,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,8,81,0,0,0,1,0,0,0,0,0
+57,3,478,1,15,Punjab Kings,Shikhar Dhawan,Tymal Mills,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,196250,-69.83,128.13,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,3,8,82,0,0,0,1,0,0,0,0,0
+58,4,478,1,15,Punjab Kings,Mayank Agarwal,Tymal Mills,,9,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,8.4,2,1,0,196251,-73.51,197.65,6,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,4,8,88,0,0,0,1,0,0,0,0,0
+59,5,478,1,15,Punjab Kings,Mayank Agarwal,Tymal Mills,,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,196252,120.79,-46.37,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,5,8,89,0,0,0,1,0,0,0,0,0
+60,6,478,1,15,Punjab Kings,Shikhar Dhawan,Tymal Mills,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,196253,-92.39,91.29,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,6,8,90,0,0,0,1,0,0,0,0,0
+62,1,478,1,15,Punjab Kings,Shikhar Dhawan,Murugan Ashwin,,10,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,9.1,2,1,0,196254,-184.02,-39.47,6,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,1,9,96,0,1,0,1,0,0,0,0,0
+63,2,478,1,15,Punjab Kings,Shikhar Dhawan,Murugan Ashwin,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,196255,-41.28,22.23,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,9,97,0,0,0,1,0,0,0,0,0
+64,3,478,1,15,Punjab Kings,Mayank Agarwal,Murugan Ashwin,,10,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,9.3,2,1,0,196256,-13.20,182.92,0,0,,,Knuckleball,18,SLOG SHOT,0,0,3,9,97,1,1,0,1,0,0,0,0,0
+65,4,478,1,15,Punjab Kings,Jonny Bairstow,Murugan Ashwin,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,196257,-30.23,24.07,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,9,97,1,2,0,1,0,0,0,0,0
+66,5,478,1,15,Punjab Kings,Jonny Bairstow,Murugan Ashwin,,10,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,196258,-137.97,23.61,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,9,98,1,0,0,1,0,0,0,0,0
+67,6,478,1,15,Punjab Kings,Shikhar Dhawan,Murugan Ashwin,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,196259,66.46,169.11,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,6,9,99,1,0,0,1,0,0,0,0,0
+69,1,478,1,15,Punjab Kings,Shikhar Dhawan,Jasprit Bumrah,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,196260,58.17,-110.83,1,0,,,Knuckleball,44,GLIDE,0,0,1,10,100,1,1,1,2,0,0,1,0,0
+70,2,478,1,15,Punjab Kings,Jonny Bairstow,Jasprit Bumrah,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,196261,58.17,-110.83,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,10,100,1,0,0,2,0,0,0,0,0
+71,3,478,1,15,Punjab Kings,Jonny Bairstow,Jasprit Bumrah,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,196262,-42.67,-115.90,1,0,,,Knuckleball,44,GLIDE,0,0,3,10,101,1,0,0,2,0,0,0,0,0
+72,4,478,1,15,Punjab Kings,Shikhar Dhawan,Jasprit Bumrah,,11,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.4,2,1,0,196263,2.00,-150.89,4,0,,,Knuckleball,31,UPPER CUT,0,0,4,10,105,1,0,0,2,0,0,0,0,0
+73,5,478,1,15,Punjab Kings,Shikhar Dhawan,Jasprit Bumrah,,11,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,196264,66.46,-23.81,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,10,105,1,0,0,2,0,0,0,0,0
+74,6,478,1,15,Punjab Kings,Shikhar Dhawan,Jasprit Bumrah,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,196265,71.06,7.50,1,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,6,10,106,1,0,0,2,0,0,0,0,0
+75,1,478,1,15,Punjab Kings,Shikhar Dhawan,Murugan Ashwin,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,196266,-72.59,-12.30,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,1,11,107,1,1,0,2,0,0,0,0,0
+76,2,478,1,15,Punjab Kings,Jonny Bairstow,Murugan Ashwin,,12,2,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,11.2,2,1,1,196267,-72.59,-12.30,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,2,11,108,1,0,0,2,0,0,0,0,0
+77,3,478,1,15,Punjab Kings,Shikhar Dhawan,Murugan Ashwin,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,196268,-72.59,-12.30,0,0,,,Knuckleball,95,SLOG SWEEP,0,0,3,11,108,1,0,0,2,0,0,0,0,0
+78,4,478,1,15,Punjab Kings,Shikhar Dhawan,Murugan Ashwin,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,196269,-122.78,-37.17,1,0,,,Knuckleball,55,SWEEP SHOT,0,0,4,11,109,1,0,0,2,0,0,0,0,0
+79,5,478,1,15,Punjab Kings,Jonny Bairstow,Murugan Ashwin,,12,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,196270,-144.42,6.12,2,0,,,Knuckleball,36,CUT SHOT,0,0,5,11,111,1,0,0,2,0,0,0,0,0
+80,6,478,1,15,Punjab Kings,Jonny Bairstow,Murugan Ashwin,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,196271,-142.12,9.80,1,0,,,Knuckleball,36,CUT SHOT,0,0,6,11,112,1,0,0,2,0,0,0,0,0
+81,1,478,1,15,Punjab Kings,Jonny Bairstow,Tymal Mills,,13,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.1,2,1,0,196272,-78.12,209.17,4,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,1,12,116,1,1,0,2,0,0,0,0,0
+82,2,478,1,15,Punjab Kings,Jonny Bairstow,Tymal Mills,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,196273,133.68,-50.52,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,12,117,1,0,0,2,0,0,0,0,0
+83,3,478,1,15,Punjab Kings,Shikhar Dhawan,Tymal Mills,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,196274,49.42,-123.73,1,0,,,Knuckleball,36,CUT SHOT,0,0,3,12,118,1,0,0,2,0,0,0,0,0
+84,4,478,1,15,Punjab Kings,Jonny Bairstow,Tymal Mills,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,196275,-120.02,-29.34,1,0,,,Knuckleball,59,FRONTFOOT SQUARE DRIVE,0,0,4,12,119,1,0,0,2,0,0,0,0,0
+85,5,478,1,15,Punjab Kings,Shikhar Dhawan,Tymal Mills,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,196276,28.24,-62.49,1,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,5,12,120,1,0,0,2,0,0,0,0,0
+86,6,478,1,15,Punjab Kings,Jonny Bairstow,Tymal Mills,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,196277,28.24,-62.49,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,6,12,120,1,0,0,2,0,0,0,0,0
+87,1,478,1,15,Punjab Kings,Shikhar Dhawan,Jaydev Unadkat,,14,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.1,2,1,0,196278,-48.19,-137.08,4,0,,,Knuckleball,99,SCOOP,0,0,1,13,124,1,1,0,2,0,0,0,0,0
+88,2,478,1,15,Punjab Kings,Shikhar Dhawan,Jaydev Unadkat,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,196279,-133.83,19.47,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,2,13,125,1,0,0,2,0,0,0,0,0
+89,3,478,1,15,Punjab Kings,Jonny Bairstow,Jaydev Unadkat,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,196280,147.03,7.96,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,13,126,1,0,0,2,0,0,0,0,0
+90,4,478,1,15,Punjab Kings,Shikhar Dhawan,Jaydev Unadkat,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,196281,-68.91,153.91,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,4,13,127,1,0,0,2,0,0,0,0,0
+91,5,478,1,15,Punjab Kings,Jonny Bairstow,Jaydev Unadkat,,14,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,13.5,2,1,0,196282,-68.91,153.91,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,5,13,127,2,1,0,2,0,0,0,0,0
+92,6,478,1,15,Punjab Kings,Liam Livingstone,Jaydev Unadkat,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,196283,-91.01,2.89,1,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,6,13,128,2,2,0,2,0,0,0,0,0
+94,1,478,1,15,Punjab Kings,Liam Livingstone,Jasprit Bumrah,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,196284,-71.67,104.19,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,1,14,129,2,3,0,2,0,0,0,0,0
+95,2,478,1,15,Punjab Kings,Shikhar Dhawan,Jasprit Bumrah,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,196285,87.64,147.01,1,0,,39,ANGLED IN,21,STEP DOWN OFF DRIVE,0,0,2,14,130,2,0,0,2,0,0,0,0,0
+96,3,478,1,15,Punjab Kings,Liam Livingstone,Jasprit Bumrah,,15,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,14.3,2,1,0,196286,87.64,147.01,0,0,,32,YORKER,27,FORWARD PUSH,0,0,3,14,130,3,1,0,2,0,0,0,0,0
+97,4,478,1,15,Punjab Kings,Jitesh Sharma,Jasprit Bumrah,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,196287,3.38,178.32,1,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,4,14,131,3,2,0,2,0,0,0,0,0
+98,5,478,1,15,Punjab Kings,Shikhar Dhawan,Jasprit Bumrah,,15,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,196288,63.23,28.68,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,14,132,3,0,0,2,0,0,0,0,0
+99,6,478,1,15,Punjab Kings,Jitesh Sharma,Jasprit Bumrah,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,196289,-40.36,82.09,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,14,132,3,0,0,2,0,0,0,0,0
+100,1,478,1,15,Punjab Kings,Shikhar Dhawan,Tymal Mills,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,196290,42.05,-18.29,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,15,133,3,1,0,2,0,0,0,0,0
+101,2,478,1,15,Punjab Kings,Jitesh Sharma,Tymal Mills,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,196291,-78.12,-79.99,1,0,,,Knuckleball,44,GLIDE,0,0,2,15,134,3,0,0,2,0,0,0,0,0
+102,3,478,1,15,Punjab Kings,Shikhar Dhawan,Tymal Mills,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,196292,-78.12,-79.99,0,0,,,Knuckleball,36,CUT SHOT,0,0,3,15,134,3,0,0,2,0,0,0,0,0
+103,4,478,1,15,Punjab Kings,Shikhar Dhawan,Tymal Mills,,16,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,15.4,2,1,0,196293,84.41,-142.60,4,0,,,Knuckleball,31,UPPER CUT,0,0,4,15,138,3,0,0,2,0,0,0,0,0
+104,5,478,1,15,Punjab Kings,Shikhar Dhawan,Tymal Mills,,16,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,196294,67.84,-17.37,0,0,,,Knuckleball,36,CUT SHOT,0,0,5,15,138,3,0,0,2,0,0,0,0,0
+105,6,478,1,15,Punjab Kings,Shikhar Dhawan,Tymal Mills,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,196295,-106.21,102.35,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,6,15,139,3,0,0,2,0,0,0,0,0
+107,1,478,1,15,Punjab Kings,Shikhar Dhawan,Basil Thampi,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,196296,-88.71,98.66,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,1,16,140,3,1,0,2,0,0,0,0,0
+108,2,478,1,15,Punjab Kings,Jitesh Sharma,Basil Thampi,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,196297,-87.79,88.99,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,16,141,3,0,0,2,0,0,0,0,0
+109,3,478,1,15,Punjab Kings,Shikhar Dhawan,Basil Thampi,,17,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,196298,6.60,159.90,2,0,,,Knuckleball,1,STEP DOWN LOFTED STRAIGHT DRIVE,0,0,3,16,143,3,0,0,2,0,0,0,0,0
+110,4,478,1,15,Punjab Kings,Shikhar Dhawan,Basil Thampi,,17,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,16.4,2,1,0,196299,-147.18,126.75,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,16,149,3,0,0,2,0,0,0,0,0
+111,5,478,1,15,Punjab Kings,Shikhar Dhawan,Basil Thampi,,17,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,196300,4.76,191.21,2,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,5,16,151,3,0,1,3,0,0,0,0,0
+112,6,478,1,15,Punjab Kings,Shikhar Dhawan,Basil Thampi,,17,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,16.6,2,1,0,196301,-76.74,139.64,0,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,6,16,151,4,1,0,3,0,0,0,0,0
+113,1,478,1,15,Punjab Kings,Jitesh Sharma,Jaydev Unadkat,,18,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.1,2,1,0,196302,-121.40,169.11,6,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,1,17,157,4,2,0,3,0,0,0,0,0
+114,2,478,1,15,Punjab Kings,Jitesh Sharma,Jaydev Unadkat,,18,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.2,2,1,0,196303,-4.91,213.77,4,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,2,17,161,4,0,0,3,0,0,0,0,0
+115,3,478,1,15,Punjab Kings,Jitesh Sharma,Jaydev Unadkat,,18,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,17.3,2,1,0,196304,-157.77,151.15,6,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,3,17,167,4,0,0,3,0,0,0,0,0
+116,4,478,1,15,Punjab Kings,Jitesh Sharma,Jaydev Unadkat,,18,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,196305,-157.77,151.15,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,4,17,167,4,0,0,3,0,0,0,0,0
+117,5,478,1,15,Punjab Kings,Jitesh Sharma,Jaydev Unadkat,,18,5,2 (WD),2,0,0,0,0,0,2,1,0,0,0,0,0,0,,,0,17.5,2,1,1,196306,-157.77,151.15,2,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,5,17,169,4,0,0,3,0,0,0,0,0
+118,6,478,1,15,Punjab Kings,Shahrukh Khan,Jaydev Unadkat,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,196307,53.10,-20.13,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,17,170,4,0,0,3,0,0,0,0,0
+119,7,478,1,15,Punjab Kings,Jitesh Sharma,Jaydev Unadkat,,18,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.6,2,1,0,196308,-36.22,-139.38,4,0,,,Knuckleball,99,SCOOP,0,0,7,17,174,4,0,0,3,0,0,0,0,0
+121,1,478,1,15,Punjab Kings,Shahrukh Khan,Jasprit Bumrah,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,196309,-88.71,126.29,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,1,18,175,4,1,0,3,0,0,0,0,0
+122,2,478,1,15,Punjab Kings,Jitesh Sharma,Jasprit Bumrah,,19,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,196310,-58.78,-106.23,2,0,,,Knuckleball,18,SLOG SHOT,0,0,2,18,177,4,0,0,3,0,0,0,0,0
+123,3,478,1,15,Punjab Kings,Jitesh Sharma,Jasprit Bumrah,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,196311,-11.82,183.38,1,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,3,18,178,4,0,0,3,0,0,0,0,0
+124,4,478,1,15,Punjab Kings,Shahrukh Khan,Jasprit Bumrah,,19,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,196312,12.59,180.16,1,0,,,Knuckleball,19,BACKFOOT STRAIGHT DRIVE,0,0,4,18,179,4,0,0,3,0,0,0,0,0
+125,5,478,1,15,Punjab Kings,Jitesh Sharma,Jasprit Bumrah,,19,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.5,2,1,0,196313,-116.79,127.67,2,0,,,Knuckleball,6,BACKFOOT OFF DRIVE,0,0,5,18,181,4,0,0,3,0,0,0,0,0
+126,6,478,1,15,Punjab Kings,Jitesh Sharma,Jasprit Bumrah,,19,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.6,2,1,0,196314,93.16,97.28,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,18,182,4,0,0,3,0,0,0,0,0
+127,1,478,1,15,Punjab Kings,Jitesh Sharma,Basil Thampi,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.1,2,1,0,196315,-46.81,160.36,1,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,1,19,183,4,1,0,3,0,0,0,0,0
+128,2,478,1,15,Punjab Kings,Shahrukh Khan,Basil Thampi,,20,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,19.2,2,1,1,196316,-46.81,160.36,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,19,184,4,0,0,3,0,0,0,0,0
+129,3,478,1,15,Punjab Kings,Shahrukh Khan,Basil Thampi,,20,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.2,2,1,0,196317,92.70,199.04,6,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,3,19,190,4,0,0,3,0,0,0,0,0
+130,4,478,1,15,Punjab Kings,Shahrukh Khan,Basil Thampi,,20,3,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,19.3,2,1,1,196318,92.70,199.04,1,0,,,Knuckleball,105,LEFT ALONE,0,0,4,19,191,4,0,0,3,0,0,0,0,0
+131,5,478,1,15,Punjab Kings,Shahrukh Khan,Basil Thampi,,20,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.3,2,1,0,196319,-74.90,206.40,6,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,5,19,197,4,0,0,3,0,0,0,0,0
+132,6,478,1,15,Punjab Kings,Shahrukh Khan,Basil Thampi,,20,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,19.4,2,1,0,196320,-74.90,206.40,0,0,,,Knuckleball,18,SLOG SHOT,0,0,6,19,197,5,1,0,3,0,0,0,0,0
+133,7,478,1,15,Punjab Kings,Odean Smith,Basil Thampi,,20,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.5,2,1,0,196321,129.54,-26.12,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,7,19,198,5,2,0,3,0,0,0,0,0
+134,8,478,1,15,Punjab Kings,Jitesh Sharma,Basil Thampi,,20,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.6,2,1,0,196322,129.54,-26.12,0,0,,,Knuckleball,18,SLOG SHOT,0,0,8,19,198,5,0,0,3,0,0,0,0,0
+136,1,478,2,17,Mumbai Indians,Rohit Sharma,Vaibhav Arora,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,196323,101.91,-18.75,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+137,2,478,2,17,Mumbai Indians,Ishan Kishan,Vaibhav Arora,,1,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,196324,94.08,24.99,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,0,1,0,0,0,0,0,0,0,0,0
+138,3,478,2,17,Mumbai Indians,Ishan Kishan,Vaibhav Arora,,1,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,196325,41.13,-101.63,1,0,,,Knuckleball,44,GLIDE,0,0,3,0,2,0,0,0,0,0,0,0,0,0
+139,4,478,2,17,Mumbai Indians,Rohit Sharma,Vaibhav Arora,,1,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.4,2,1,0,196326,-37.60,-145.37,4,0,,,Knuckleball,99,SCOOP,0,0,4,0,6,0,0,0,0,0,0,0,0,0
+140,5,478,2,17,Mumbai Indians,Rohit Sharma,Vaibhav Arora,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,196327,-37.60,-145.37,0,0,,,Knuckleball,105,LEFT ALONE,0,0,5,0,6,0,0,0,0,0,0,0,0,0
+141,6,478,2,17,Mumbai Indians,Rohit Sharma,Vaibhav Arora,,1,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,0.6,2,1,0,196328,54.49,-135.24,6,0,,,Knuckleball,99,SCOOP,0,0,6,0,12,0,0,0,0,0,0,0,0,0
+142,1,478,2,17,Mumbai Indians,Ishan Kishan,Kagiso Rabada,,2,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,196329,71.98,-107.15,1,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,1,1,13,0,1,0,0,0,0,0,0,0
+143,2,478,2,17,Mumbai Indians,Rohit Sharma,Kagiso Rabada,,2,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.2,2,1,0,196330,-171.13,112.47,4,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,2,1,17,0,0,0,0,0,0,0,0,0
+144,3,478,2,17,Mumbai Indians,Rohit Sharma,Kagiso Rabada,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,196331,-171.13,112.47,0,0,,,Knuckleball,105,LEFT ALONE,0,0,3,1,17,0,0,0,0,0,0,0,0,0
+145,4,478,2,17,Mumbai Indians,Rohit Sharma,Kagiso Rabada,,2,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,1.4,2,1,0,196332,-41.74,-138.92,4,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,1,21,0,0,0,0,0,0,0,0,0
+146,5,478,2,17,Mumbai Indians,Rohit Sharma,Kagiso Rabada,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,196333,-41.74,-138.92,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,1,21,0,0,0,0,0,0,0,0,0
+147,6,478,2,17,Mumbai Indians,Rohit Sharma,Kagiso Rabada,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,196334,-41.74,-138.92,0,0,,,Knuckleball,105,LEFT ALONE,0,0,6,1,21,0,0,0,0,0,0,0,0,0
+148,1,478,2,17,Mumbai Indians,Ishan Kishan,Arshdeep Singh,,3,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,196335,-41.74,-138.92,0,0,,41,INSWINGER,50,BACKFOOT DEFENCE,0,0,1,2,21,0,1,0,0,0,0,0,0,0
+149,2,478,2,17,Mumbai Indians,Ishan Kishan,Arshdeep Singh,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,196336,133.22,-21.51,1,0,,,Knuckleball,21,STEP DOWN OFF DRIVE,0,0,2,2,22,0,0,0,0,0,0,0,0,0
+150,3,478,2,17,Mumbai Indians,Rohit Sharma,Arshdeep Singh,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,196337,133.22,-21.51,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,2,22,0,0,0,0,0,0,0,0,0
+151,4,478,2,17,Mumbai Indians,Rohit Sharma,Arshdeep Singh,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,196338,-65.23,-28.88,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,2,22,0,0,0,0,0,0,0,0,0
+152,5,478,2,17,Mumbai Indians,Rohit Sharma,Arshdeep Singh,,3,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,196339,74.74,17.17,2,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,2,24,0,0,0,0,0,0,0,0,0
+153,6,478,2,17,Mumbai Indians,Rohit Sharma,Arshdeep Singh,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,196340,-50.03,-110.37,1,0,,,Knuckleball,44,GLIDE,0,0,6,2,25,0,0,0,0,0,0,0,0,0
+154,1,478,2,17,Mumbai Indians,Rohit Sharma,Kagiso Rabada,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,196341,-94.69,-11.38,0,0,,,Knuckleball,16,BACKFOOT SQUARE DRIVE,0,0,1,3,25,0,1,0,0,0,0,0,0,0
+155,2,478,2,17,Mumbai Indians,Rohit Sharma,Kagiso Rabada,,4,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,196342,-72.13,-27.96,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,3,25,0,0,0,0,0,0,0,0,0
+156,3,478,2,17,Mumbai Indians,Rohit Sharma,Kagiso Rabada,,4,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,3.3,2,1,0,196343,-185.40,101.88,6,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,3,3,31,0,0,0,0,0,0,0,0,0
+157,4,478,2,17,Mumbai Indians,Rohit Sharma,Kagiso Rabada,,4,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,3.4,2,1,0,196344,66.46,-42.23,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,4,3,31,1,1,0,0,0,0,0,0,0
+158,5,478,2,17,Mumbai Indians,Dewald Brevis,Kagiso Rabada,,4,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,196345,66.46,-42.23,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,5,3,31,1,2,0,0,0,0,0,0,0
+159,6,478,2,17,Mumbai Indians,Dewald Brevis,Kagiso Rabada,,4,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,196346,66.46,-42.23,0,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,6,3,31,1,0,0,0,0,0,0,0,0
+160,1,478,2,17,Mumbai Indians,Ishan Kishan,Vaibhav Arora,,5,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,4.1,2,1,1,196347,66.46,-42.23,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,4,32,1,1,0,0,0,0,0,0,0
+161,2,478,2,17,Mumbai Indians,Ishan Kishan,Vaibhav Arora,,5,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,4.1,2,1,0,196348,66.46,-42.23,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,2,4,32,2,2,0,0,0,0,0,0,0
+162,3,478,2,17,Mumbai Indians,Tilak Varma,Vaibhav Arora,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,196349,31.46,-66.17,1,0,,,Knuckleball,35,LATE CUT,0,0,3,4,33,2,3,0,0,0,0,0,0,0
+163,4,478,2,17,Mumbai Indians,Dewald Brevis,Vaibhav Arora,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,196350,31.46,-66.17,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,4,4,33,2,0,0,0,0,0,0,0,0
+164,5,478,2,17,Mumbai Indians,Dewald Brevis,Vaibhav Arora,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,196351,31.46,-66.17,0,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,5,4,33,2,0,0,0,0,0,0,0,0
+165,6,478,2,17,Mumbai Indians,Dewald Brevis,Vaibhav Arora,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,196352,-82.26,-7.24,0,0,,,Knuckleball,59,FRONTFOOT SQUARE DRIVE,0,0,6,4,33,2,0,0,0,0,0,0,0,0
+166,7,478,2,17,Mumbai Indians,Dewald Brevis,Vaibhav Arora,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,196353,-82.26,-7.24,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,7,4,33,2,0,0,0,0,0,0,0,0
+168,1,478,2,17,Mumbai Indians,Tilak Varma,Arshdeep Singh,,6,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,196354,57.25,-109.45,1,0,,,Knuckleball,44,GLIDE,0,0,1,5,34,2,1,0,0,0,0,0,0,0
+169,2,478,2,17,Mumbai Indians,Dewald Brevis,Arshdeep Singh,,6,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.2,2,1,0,196355,59.09,114.78,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,2,5,34,2,0,0,0,0,0,0,0,0
+170,3,478,2,17,Mumbai Indians,Dewald Brevis,Arshdeep Singh,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,196356,59.09,114.78,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,3,5,34,2,0,0,0,0,0,0,0,0
+171,4,478,2,17,Mumbai Indians,Dewald Brevis,Arshdeep Singh,,6,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.4,2,1,0,196357,-190.92,16.71,4,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,4,5,38,2,0,0,0,0,0,0,0,0
+172,5,478,2,17,Mumbai Indians,Dewald Brevis,Arshdeep Singh,,6,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.5,2,1,0,196358,-9.05,217.91,4,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,5,5,42,2,0,0,0,0,0,0,0,0
+173,6,478,2,17,Mumbai Indians,Dewald Brevis,Arshdeep Singh,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,196359,-79.50,17.17,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,5,42,2,0,0,0,0,0,0,0,0
+174,1,478,2,17,Mumbai Indians,Tilak Varma,Odean Smith,,7,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,6.1,2,1,1,196360,-79.50,17.17,1,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,1,6,43,2,1,0,0,0,0,0,0,0
+175,2,478,2,17,Mumbai Indians,Tilak Varma,Odean Smith,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,196361,56.79,-110.83,1,0,,,Knuckleball,36,CUT SHOT,0,0,2,6,44,2,0,0,0,0,0,0,0,0
+176,3,478,2,17,Mumbai Indians,Dewald Brevis,Odean Smith,,7,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,6.2,2,1,0,196362,194.46,71.04,6,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,3,6,50,2,0,1,1,0,1,0,0,0
+177,4,478,2,17,Mumbai Indians,Dewald Brevis,Odean Smith,,7,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.3,2,1,0,196363,194.46,71.04,0,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,4,6,50,2,0,0,1,0,0,0,0,0
+178,5,478,2,17,Mumbai Indians,Dewald Brevis,Odean Smith,,7,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,196364,-81.80,147.93,1,0,,,Knuckleball,84,FRONTFOOT OFF DRIVE,0,0,5,6,51,2,0,0,1,0,0,0,0,0
+179,6,478,2,17,Mumbai Indians,Tilak Varma,Odean Smith,,7,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,196365,75.67,-7.70,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,6,51,2,0,0,1,0,0,0,0,0
+180,7,478,2,17,Mumbai Indians,Tilak Varma,Odean Smith,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,196366,145.19,30.98,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,7,6,52,2,0,0,1,0,0,0,0,0
+181,1,478,2,17,Mumbai Indians,Tilak Varma,Liam Livingstone,,8,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.1,2,1,0,196367,-144.42,27.29,4,0,,,Knuckleball,35,LATE CUT,0,0,1,7,56,2,1,0,1,0,0,0,0,0
+182,2,478,2,17,Mumbai Indians,Tilak Varma,Liam Livingstone,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,196368,-144.42,27.29,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,7,57,2,0,0,1,0,0,0,0,0
+183,3,478,2,17,Mumbai Indians,Dewald Brevis,Liam Livingstone,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,196369,-144.42,27.29,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,3,7,58,2,0,0,1,0,0,0,0,0
+184,4,478,2,17,Mumbai Indians,Tilak Varma,Liam Livingstone,,8,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.4,2,1,0,196370,20.87,146.55,4,0,,,Knuckleball,36,CUT SHOT,0,0,4,7,62,2,0,0,1,0,0,0,0,0
+185,5,478,2,17,Mumbai Indians,Tilak Varma,Liam Livingstone,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,196371,20.87,146.55,1,0,,,Knuckleball,53,FRONTFOOT STRAIGHT DRIVE,0,0,5,7,63,2,0,0,1,0,0,0,0,0
+186,6,478,2,17,Mumbai Indians,Dewald Brevis,Liam Livingstone,,8,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,196372,-58.78,31.44,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,7,63,2,0,0,1,0,0,0,0,0
+187,1,478,2,17,Mumbai Indians,Tilak Varma,Rahul Chahar,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,196373,-82.26,-29.34,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,1,8,64,2,1,0,1,0,0,0,0,0
+188,2,478,2,17,Mumbai Indians,Dewald Brevis,Rahul Chahar,,9,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.2,2,1,0,196374,15.81,217.91,4,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,8,68,2,0,0,1,0,0,0,0,0
+189,3,478,2,17,Mumbai Indians,Dewald Brevis,Rahul Chahar,,9,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,8.3,2,1,0,196375,1.54,211.47,6,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,3,8,74,2,0,0,1,0,0,0,0,0
+190,4,478,2,17,Mumbai Indians,Dewald Brevis,Rahul Chahar,,9,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,8.4,2,1,0,196376,167.29,124.91,6,0,,,Knuckleball,95,SLOG SWEEP,0,0,4,8,80,2,0,0,1,0,0,0,0,0
+191,5,478,2,17,Mumbai Indians,Dewald Brevis,Rahul Chahar,,9,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,8.5,2,1,0,196377,148.41,149.77,6,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,5,8,86,2,0,0,1,0,0,0,0,0
+192,6,478,2,17,Mumbai Indians,Dewald Brevis,Rahul Chahar,,9,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,8.6,2,1,0,196378,145.19,161.74,6,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,6,8,92,2,0,0,1,0,0,0,0,0
+194,1,478,2,17,Mumbai Indians,Tilak Varma,Vaibhav Arora,,10,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.1,2,1,0,196379,5.22,-150.89,4,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,1,9,96,2,1,0,1,0,0,0,0,0
+195,2,478,2,17,Mumbai Indians,Tilak Varma,Vaibhav Arora,,10,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.2,2,1,0,196380,-85.49,34.66,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,2,9,97,2,0,0,1,0,0,0,0,0
+196,3,478,2,17,Mumbai Indians,Dewald Brevis,Vaibhav Arora,,10,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,196381,54.95,151.61,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,3,9,98,2,0,0,1,0,0,0,0,0
+197,4,478,2,17,Mumbai Indians,Tilak Varma,Vaibhav Arora,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,196382,54.95,151.61,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,9,98,2,0,0,1,0,0,0,0,0
+198,5,478,2,17,Mumbai Indians,Tilak Varma,Vaibhav Arora,,10,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,9.5,2,1,0,196383,-85.49,-131.55,6,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,5,9,104,2,0,1,2,0,0,1,0,0
+199,6,478,2,17,Mumbai Indians,Tilak Varma,Vaibhav Arora,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,196384,71.06,115.70,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,9,105,2,0,0,2,0,0,0,0,0
+200,1,478,2,17,Mumbai Indians,Tilak Varma,Odean Smith,,11,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,10.1,2,1,0,196385,169.59,-51.90,6,0,,,Knuckleball,96,SLICED OVER POINT,0,0,1,10,111,2,1,0,2,0,0,0,0,0
+201,2,478,2,17,Mumbai Indians,Tilak Varma,Odean Smith,,11,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,196386,60.93,-26.58,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,2,10,111,2,0,0,2,0,0,0,0,0
+202,3,478,2,17,Mumbai Indians,Tilak Varma,Odean Smith,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,196387,-99.30,-52.36,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,3,10,112,2,0,0,2,0,0,0,0,0
+203,4,478,2,17,Mumbai Indians,Dewald Brevis,Odean Smith,,11,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,196388,-99.30,-52.36,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,10,112,2,0,0,2,0,0,0,0,0
+204,5,478,2,17,Mumbai Indians,Dewald Brevis,Odean Smith,,11,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.5,2,1,0,196389,-27.47,-139.84,4,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,5,10,116,2,0,0,2,0,0,0,0,0
+205,6,478,2,17,Mumbai Indians,Dewald Brevis,Odean Smith,,11,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,10.6,2,1,0,196390,132.76,-40.39,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,6,10,116,3,1,0,2,0,0,0,0,0
+206,1,478,2,17,Mumbai Indians,Tilak Varma,Rahul Chahar,,12,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,196391,-43.13,132.73,1,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,1,11,117,3,2,0,2,0,0,0,0,0
+207,2,478,2,17,Mumbai Indians,Suryakumar Yadav,Rahul Chahar,,12,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.2,2,1,0,196392,-43.13,132.73,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,11,117,3,0,0,2,0,0,0,0,0
+208,3,478,2,17,Mumbai Indians,Suryakumar Yadav,Rahul Chahar,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,196393,57.25,116.62,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,3,11,118,3,0,0,2,0,0,0,0,0
+209,4,478,2,17,Mumbai Indians,Tilak Varma,Rahul Chahar,,12,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,196394,-96.08,138.72,1,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,4,11,119,3,0,0,2,0,0,0,0,0
+210,5,478,2,17,Mumbai Indians,Suryakumar Yadav,Rahul Chahar,,12,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,196395,-96.08,138.72,0,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,5,11,119,3,0,0,2,0,0,0,0,0
+211,6,478,2,17,Mumbai Indians,Suryakumar Yadav,Rahul Chahar,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,196396,-122.78,82.09,1,0,,24,LEG SPIN,52,BACKFOOT COVERDRIVE,0,0,6,11,120,3,0,0,2,0,0,0,0,0
+212,1,478,2,17,Mumbai Indians,Suryakumar Yadav,Arshdeep Singh,,13,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,196397,159.46,26.37,2,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,1,12,122,3,1,0,2,0,0,0,0,0
+213,2,478,2,17,Mumbai Indians,Suryakumar Yadav,Arshdeep Singh,,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,196398,20.41,8.42,0,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,2,12,122,3,0,0,2,0,0,0,0,0
+214,3,478,2,17,Mumbai Indians,Suryakumar Yadav,Arshdeep Singh,,13,3,1 (NB),1,0,0,0,0,1,1,0,1,0,0,0,0,0,,,0,12.3,2,1,1,196399,20.41,8.42,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,3,12,123,3,0,0,2,0,0,0,0,0
+215,4,478,2,17,Mumbai Indians,Suryakumar Yadav,Arshdeep Singh,,13,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,196400,-85.49,-88.73,2,0,,,Knuckleball,18,SLOG SHOT,0,0,4,12,125,3,0,0,2,0,0,0,0,0
+216,5,478,2,17,Mumbai Indians,Suryakumar Yadav,Arshdeep Singh,,13,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,12.4,2,1,0,196401,161.31,-21.05,6,0,,,Knuckleball,58,BACKFOOT PULL SHOT,0,0,5,12,131,3,0,0,2,0,0,0,0,0
+217,6,478,2,17,Mumbai Indians,Suryakumar Yadav,Arshdeep Singh,,13,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,12.5,2,1,0,196402,90.86,83.93,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,6,12,131,4,0,0,2,0,0,0,0,0
+218,7,478,2,17,Mumbai Indians,Suryakumar Yadav,Arshdeep Singh,,13,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,196403,90.86,83.93,0,0,,,Knuckleball,49,FORWARD DEFENCE,0,0,7,12,131,4,0,0,2,0,0,0,0,0
+219,1,478,2,17,Mumbai Indians,Kieron Pollard,Rahul Chahar,,14,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.1,2,1,0,196404,90.86,83.93,0,0,,,Knuckleball,77,STEP DOWN DEFENCE,0,0,1,13,131,4,1,0,2,0,0,0,0,0
+220,2,478,2,17,Mumbai Indians,Kieron Pollard,Rahul Chahar,,14,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.2,2,1,0,196405,140.59,152.53,4,0,,,Knuckleball,94,STEP DOWN LOFTED ON DRIVE,0,0,2,13,135,4,0,0,2,0,0,0,0,0
+221,3,478,2,17,Mumbai Indians,Kieron Pollard,Rahul Chahar,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,196406,132.76,83.47,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,3,13,136,4,0,0,2,0,0,0,0,0
+222,4,478,2,17,Mumbai Indians,Suryakumar Yadav,Rahul Chahar,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,196407,-63.85,-13.68,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,13,136,4,0,0,2,0,0,0,0,0
+223,5,478,2,17,Mumbai Indians,Suryakumar Yadav,Rahul Chahar,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,196408,-131.07,33.28,1,0,,,Knuckleball,52,BACKFOOT COVERDRIVE,0,0,5,13,137,4,0,0,2,0,0,0,0,0
+224,6,478,2,17,Mumbai Indians,Kieron Pollard,Rahul Chahar,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,196409,133.68,108.79,1,0,,,Knuckleball,95,SLOG SWEEP,0,0,6,13,138,4,0,0,2,0,0,0,0,0
+225,1,478,2,17,Mumbai Indians,Kieron Pollard,Kagiso Rabada,,15,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.1,2,1,0,196410,105.13,-2.17,1,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,14,139,4,1,0,2,0,0,0,0,0
+226,2,478,2,17,Mumbai Indians,Suryakumar Yadav,Kagiso Rabada,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,196411,-6.75,-20.13,0,0,,,Knuckleball,44,GLIDE,0,0,2,14,139,4,0,0,2,0,0,0,0,0
+227,3,478,2,17,Mumbai Indians,Suryakumar Yadav,Kagiso Rabada,,15,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,14.3,2,1,0,196412,181.56,-45.45,6,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,3,14,145,4,0,0,2,0,0,0,0,0
+228,4,478,2,17,Mumbai Indians,Suryakumar Yadav,Kagiso Rabada,,15,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.4,2,1,0,196413,44.36,-118.20,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,4,14,146,4,0,0,2,0,0,0,0,0
+229,5,478,2,17,Mumbai Indians,Kieron Pollard,Kagiso Rabada,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,196414,-53.26,-33.48,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,5,14,146,4,0,0,2,0,0,0,0,0
+230,6,478,2,17,Mumbai Indians,Kieron Pollard,Kagiso Rabada,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,196415,72.90,74.72,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,6,14,146,4,0,0,2,0,0,0,0,0
+232,1,478,2,17,Mumbai Indians,Suryakumar Yadav,Rahul Chahar,,16,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,196416,-119.56,105.11,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,1,15,147,4,1,0,2,0,0,0,0,0
+233,2,478,2,17,Mumbai Indians,Kieron Pollard,Rahul Chahar,,16,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,196417,-119.56,105.11,0,0,,,Knuckleball,50,BACKFOOT DEFENCE,0,0,2,15,147,4,0,0,2,0,0,0,0,0
+234,3,478,2,17,Mumbai Indians,Kieron Pollard,Rahul Chahar,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,196418,123.55,108.79,1,0,,,Knuckleball,74,STEP DOWN ON DRIVE,0,0,3,15,148,4,0,0,2,0,0,0,0,0
+235,4,478,2,17,Mumbai Indians,Suryakumar Yadav,Rahul Chahar,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,196419,-94.69,21.77,0,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,4,15,148,4,0,0,2,0,0,0,0,0
+236,5,478,2,17,Mumbai Indians,Suryakumar Yadav,Rahul Chahar,,16,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,196420,-110.81,105.57,1,0,,,Knuckleball,51,FRONTFOOT COVERDRIVE,0,0,5,15,149,4,0,0,2,0,0,0,0,0
+237,6,478,2,17,Mumbai Indians,Kieron Pollard,Rahul Chahar,,16,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.6,2,1,0,196421,89.48,88.99,1,0,,,Knuckleball,97,BACKFOOT PUSH,0,0,6,15,150,4,0,1,3,0,0,0,0,0
+239,1,478,2,17,Mumbai Indians,Kieron Pollard,Vaibhav Arora,,17,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,16.1,2,1,1,196422,89.48,88.99,1,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,1,16,151,4,1,0,3,0,0,0,0,0
+240,2,478,2,17,Mumbai Indians,Kieron Pollard,Vaibhav Arora,,17,1,1 WK,1,1,1,0,0,0,0,0,0,0,0,0,0,1,Run Out,WICKET,0,16.1,2,1,0,196423,80.73,148.39,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,2,16,152,5,0,0,3,0,0,0,0,0
+241,3,478,2,17,Mumbai Indians,Jaydev Unadkat,Vaibhav Arora,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,196424,-35.76,-82.75,1,0,,,Knuckleball,44,GLIDE,0,0,3,16,153,5,0,0,3,0,0,0,0,0
+242,4,478,2,17,Mumbai Indians,Suryakumar Yadav,Vaibhav Arora,,17,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,196425,-4.45,-32.56,0,0,,,Knuckleball,36,CUT SHOT,0,0,4,16,153,5,0,0,3,0,0,0,0,0
+243,5,478,2,17,Mumbai Indians,Suryakumar Yadav,Vaibhav Arora,,17,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,16.4,2,1,0,196426,-172.97,107.41,6,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,5,16,159,5,0,0,3,0,0,0,0,0
+244,6,478,2,17,Mumbai Indians,Suryakumar Yadav,Vaibhav Arora,,17,5,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,16.5,2,1,0,196427,-117.72,-118.66,6,0,,,Knuckleball,36,CUT SHOT,0,0,6,16,165,5,0,0,3,0,0,0,0,0
+245,7,478,2,17,Mumbai Indians,Suryakumar Yadav,Vaibhav Arora,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,196428,-114.95,-56.50,1,0,,,Knuckleball,36,CUT SHOT,0,0,7,16,166,5,0,0,3,0,0,0,0,0
+246,1,478,2,17,Mumbai Indians,Suryakumar Yadav,Arshdeep Singh,,18,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,196429,-114.95,-56.50,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,1,17,166,5,1,0,3,0,0,0,0,0
+247,2,478,2,17,Mumbai Indians,Suryakumar Yadav,Arshdeep Singh,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,196430,27.78,-125.57,1,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,2,17,167,5,0,0,3,0,0,0,0,0
+248,3,478,2,17,Mumbai Indians,Jaydev Unadkat,Arshdeep Singh,,18,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,17.3,2,1,0,196431,-119.10,87.15,2,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,3,17,169,5,0,0,3,0,0,0,0,0
+249,4,478,2,17,Mumbai Indians,Jaydev Unadkat,Arshdeep Singh,,18,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,196432,-119.10,87.15,0,0,,,Knuckleball,5,LOFTED OFF DRIVE,0,0,4,17,169,5,0,0,3,0,0,0,0,0
+250,5,478,2,17,Mumbai Indians,Jaydev Unadkat,Arshdeep Singh,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,196433,-67.07,64.13,1,0,,,Knuckleball,27,FORWARD PUSH,0,0,5,17,170,5,0,0,3,0,0,0,0,0
+251,6,478,2,17,Mumbai Indians,Suryakumar Yadav,Arshdeep Singh,,18,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,196434,73.82,141.48,1,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,6,17,171,5,0,0,3,0,0,0,0,0
+253,1,478,2,17,Mumbai Indians,Suryakumar Yadav,Kagiso Rabada,,19,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,18.1,2,1,0,196435,141.97,-86.43,4,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,18,175,5,1,0,3,0,0,0,0,0
+254,2,478,2,17,Mumbai Indians,Suryakumar Yadav,Kagiso Rabada,,19,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,196436,129.54,8.42,2,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,2,18,177,5,0,0,3,0,0,0,0,0
+255,3,478,2,17,Mumbai Indians,Suryakumar Yadav,Kagiso Rabada,,19,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,196437,94.08,137.34,0,0,,,Knuckleball,47,FRONTFOOT ON DRIVE,0,0,3,18,177,5,0,0,3,0,0,0,0,0
+256,4,478,2,17,Mumbai Indians,Suryakumar Yadav,Kagiso Rabada,,19,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,18.4,2,1,0,196438,87.64,144.71,0,0,,,Knuckleball,11,LOFTED ON DRIVE,0,0,4,18,177,6,1,0,3,0,0,0,0,0
+257,5,478,2,17,Mumbai Indians,Murugan Ashwin,Kagiso Rabada,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,2,1,0,196439,-11.82,68.27,0,0,,,Knuckleball,18,SLOG SHOT,0,0,5,18,177,6,2,0,3,0,0,0,0,0
+258,6,478,2,17,Mumbai Indians,Murugan Ashwin,Kagiso Rabada,,19,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.6,2,1,0,196440,-11.82,68.27,0,0,,,Knuckleball,27,FORWARD PUSH,0,0,6,18,177,6,0,0,3,0,0,0,0,0
+260,1,478,2,17,Mumbai Indians,Jaydev Unadkat,Odean Smith,,20,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.1,2,1,0,196441,162.69,-57.88,6,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,1,19,183,6,1,0,3,0,0,0,0,0
+261,2,478,2,17,Mumbai Indians,Jaydev Unadkat,Odean Smith,,20,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,19.2,2,1,0,196442,-18.26,195.81,2,0,,,Knuckleball,13,LOFTED STRAIGHT,0,0,2,19,185,6,0,0,3,0,0,0,0,0
+262,3,478,2,17,Mumbai Indians,Jaydev Unadkat,Odean Smith,,20,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.3,2,1,0,196443,-103.90,94.98,0,0,,,Knuckleball,18,SLOG SHOT,0,0,3,19,185,7,1,0,3,0,0,0,0,0
+263,4,478,2,17,Mumbai Indians,Jasprit Bumrah,Odean Smith,,20,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,19.4,2,1,1,196444,-103.90,94.98,1,0,,,Knuckleball,36,CUT SHOT,0,0,4,19,186,7,2,0,3,0,0,0,0,0
+264,5,478,2,17,Mumbai Indians,Jasprit Bumrah,Odean Smith,,20,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.4,2,1,0,196445,-59.70,-41.31,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,5,19,186,8,3,0,3,0,0,0,0,0
+265,6,478,2,17,Mumbai Indians,Tymal Mills,Odean Smith,,20,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.5,2,1,0,196446,-59.70,-41.31,0,0,,,Knuckleball,46,FRONTFOOT PULL SHOT,0,0,6,19,186,8,4,0,3,0,0,0,0,0
+266,7,478,2,17,Mumbai Indians,Tymal Mills,Odean Smith,,20,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.6,2,1,0,196447,-97.92,77.48,0,0,,,Knuckleball,15,LOFTED COVER DRIVE,0,0,7,19,186,9,5,0,3,0,0,0,0,0

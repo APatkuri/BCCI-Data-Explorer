@@ -442,7 +442,7 @@ if(format_type and series_name and match_name):
             available_hawkeye_id = hawkid_matchid_df[hawkid_matchid_df['MatchID'] == match_id]["HawkeyeID"].unique()[0]
             if st.button("Update Hawkeye Data"):
                 with st.spinner("Fetching Hawkeye data... Please wait."):
-                    hawkeye_main(cat, match_id, available_hawkeye_id)
+                    hawkeye_main(cat, match_id, available_hawkeye_id, 'bcci')
                 # Call your function here, e.g., `your_function(hawk_eye_df)`
                 # st.write("Fetching Hawkeye data...")
 
@@ -459,7 +459,7 @@ if(format_type and series_name and match_name):
             available_hawkeye_id = hawkid_matchid_df[hawkid_matchid_df['MatchID'] == match_id]["HawkeyeID"].unique()[0]
             if st.button("Get Hawkeye Data"):
                 with st.spinner("Fetching Hawkeye data... Please wait."):
-                    hawkeye_main(cat, match_id, available_hawkeye_id)
+                    hawkeye_main(cat, match_id, available_hawkeye_id, 'bcci')
                 # Call your function here, e.g., `your_function(hawk_eye_df)`
                 # st.write("Fetching Hawkeye data...")
                 st.success("Hawkeye data fetching completed successfully!")

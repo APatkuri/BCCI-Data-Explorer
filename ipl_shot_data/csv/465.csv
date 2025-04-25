@@ -1,0 +1,248 @@
+,ActualBallNo,MatchID,InningsNo,BattingTeamID,TeamName,BatsManName,BowlerName,BowlerType,OverNo,BallNo,Runs,BallRuns,ActualRuns,IsOne,IsTwo,IsThree,IsDotball,Extras,IsWide,IsNoBall,IsBye,IsLegBye,IsFour,IsSix,IsWicket,WicketType,Wickets,IsBowlerWicket,BallName,Day,SESSION_NO,IsExtra,SNO,Xpitch,Ypitch,RunRuns,IsMaiden,OverImage,BowlTypeID,BowlTypeName,ShotTypeID,ShotType,IsBouncer,IsFreeHit,BallCount,BCCheck,TotalRuns,TotalWickets,FiveHaul,Flag,FlagSet,PenaltyRuns,IsFifty,IsHundred,IsTwoHundred,IsHattrick
+0,1,465,1,35,Gujarat Titans,Matthew Wade,Mustafizur Rahman,,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.1,2,1,0,193030,-88.71,-69.40,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+1,2,465,1,35,Gujarat Titans,Shubman Gill,Mustafizur Rahman,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,193031,90.86,-72.16,1,0,,41,INSWINGER,54,LEG GLANCE,0,0,2,0,2,0,0,0,0,0,0,0,0,0
+2,3,465,1,35,Gujarat Titans,Matthew Wade,Mustafizur Rahman,,1,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,0.3,2,1,0,193032,90.86,-72.16,0,0,,42,OUTSWINGER,99,SCOOP,0,0,3,0,2,1,1,0,0,0,0,0,0,0
+3,4,465,1,35,Gujarat Titans,Vijay Shankar,Mustafizur Rahman,,1,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,193033,42.05,-49.60,0,0,,41,INSWINGER,54,LEG GLANCE,0,0,4,0,2,1,2,0,0,0,0,0,0,0
+4,5,465,1,35,Gujarat Titans,Vijay Shankar,Mustafizur Rahman,,1,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.5,2,1,0,193034,158.54,130.43,4,0,,41,INSWINGER,47,FRONTFOOT ON DRIVE,0,0,5,0,6,1,0,0,0,0,0,0,0,0
+5,6,465,1,35,Gujarat Titans,Vijay Shankar,Mustafizur Rahman,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,193035,-85.95,59.53,1,0,,41,INSWINGER,97,BACKFOOT PUSH,0,0,6,0,7,1,0,0,0,0,0,0,0,0
+6,1,465,1,35,Gujarat Titans,Vijay Shankar,Shardul Thakur,,2,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.1,2,1,0,193036,-85.95,59.53,0,0,,42,OUTSWINGER,105,LEFT ALONE,0,0,1,1,7,1,1,0,0,0,0,0,0,0
+7,2,465,1,35,Gujarat Titans,Vijay Shankar,Shardul Thakur,,2,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,193037,-48.19,-47.29,1,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,2,1,8,1,0,0,0,0,0,0,0,0
+8,3,465,1,35,Gujarat Titans,Shubman Gill,Shardul Thakur,,2,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,193038,-29.31,25.91,0,0,,42,OUTSWINGER,97,BACKFOOT PUSH,0,0,3,1,8,1,0,0,0,0,0,0,0,0
+9,4,465,1,35,Gujarat Titans,Shubman Gill,Shardul Thakur,,2,4,5 (NB),5,4,0,0,0,0,1,0,1,0,0,1,0,0,,,0,1.4,2,1,1,193039,144.73,159.90,5,0,,42,OUTSWINGER,46,FRONTFOOT PULL SHOT,0,0,4,1,13,1,0,0,0,0,0,0,0,0
+10,5,465,1,35,Gujarat Titans,Shubman Gill,Shardul Thakur,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,193040,60.01,118.00,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,5,1,14,1,0,0,0,0,0,0,0,0
+11,6,465,1,35,Gujarat Titans,Vijay Shankar,Shardul Thakur,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,193041,83.03,37.88,0,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,6,1,14,1,0,0,0,0,0,0,0,0
+12,7,465,1,35,Gujarat Titans,Vijay Shankar,Shardul Thakur,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,193042,-75.36,-12.76,0,0,,42,OUTSWINGER,27,FORWARD PUSH,0,0,7,1,14,1,0,0,0,0,0,0,0,0
+13,1,465,1,35,Gujarat Titans,Shubman Gill,Khaleel Ahmed,,3,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,193043,-138.44,41.57,2,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,1,2,16,1,1,0,0,0,0,0,0,0
+14,2,465,1,35,Gujarat Titans,Shubman Gill,Khaleel Ahmed,,3,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,193044,129.08,-45.91,1,0,,38,STRAIGHT BALL,40,FRONTFOOT FLICK,0,0,2,2,17,1,0,0,0,0,0,0,0,0
+15,3,465,1,35,Gujarat Titans,Vijay Shankar,Khaleel Ahmed,,3,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.3,2,1,0,193045,-10.44,-26.12,0,0,,41,INSWINGER,50,BACKFOOT DEFENCE,0,0,3,2,17,1,0,0,0,0,0,0,0,0
+16,4,465,1,35,Gujarat Titans,Vijay Shankar,Khaleel Ahmed,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,193046,-60.62,48.94,0,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,4,2,17,1,0,0,0,0,0,0,0,0
+17,5,465,1,35,Gujarat Titans,Vijay Shankar,Khaleel Ahmed,,3,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.5,2,1,0,193047,-18.72,-50.06,1,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,5,2,18,1,0,0,0,0,0,0,0,0
+18,6,465,1,35,Gujarat Titans,Shubman Gill,Khaleel Ahmed,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,193048,127.23,49.86,1,0,,38,STRAIGHT BALL,97,BACKFOOT PUSH,0,0,6,2,19,1,0,0,0,0,0,0,0,0
+19,1,465,1,35,Gujarat Titans,Shubman Gill,Shardul Thakur,,4,1,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,3.1,2,1,1,193049,127.23,49.86,1,0,,39,ANGLED IN,105,LEFT ALONE,0,0,1,3,20,1,1,0,0,0,0,0,0,0
+20,2,465,1,35,Gujarat Titans,Shubman Gill,Shardul Thakur,,4,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.1,2,1,0,193050,-174.81,-24.73,4,0,,42,OUTSWINGER,36,CUT SHOT,0,0,2,3,24,1,0,0,0,0,0,0,0,0
+21,3,465,1,35,Gujarat Titans,Shubman Gill,Shardul Thakur,,4,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.2,2,1,0,193051,-82.26,-32.10,1,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,3,3,25,1,0,0,0,0,0,0,0,0
+22,4,465,1,35,Gujarat Titans,Vijay Shankar,Shardul Thakur,,4,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.3,2,1,0,193052,-83.64,21.77,1,0,,42,OUTSWINGER,49,FORWARD DEFENCE,0,0,4,3,26,1,0,0,0,0,0,0,0,0
+23,5,465,1,35,Gujarat Titans,Shubman Gill,Shardul Thakur,,4,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,193053,-79.96,52.16,0,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,5,3,26,1,0,0,0,0,0,0,0,0
+24,6,465,1,35,Gujarat Titans,Shubman Gill,Shardul Thakur,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,193054,-49.57,-24.73,1,0,,38,STRAIGHT BALL,27,FORWARD PUSH,0,0,6,3,27,1,0,0,0,0,0,0,0,0
+25,7,465,1,35,Gujarat Titans,Vijay Shankar,Shardul Thakur,,4,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.6,2,1,0,193055,83.95,-36.71,1,0,,43,NIPBACKER,49,FORWARD DEFENCE,0,0,7,3,28,1,0,0,0,0,0,0,0,0
+26,1,465,1,35,Gujarat Titans,Vijay Shankar,Axar Patel,,5,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.1,2,1,0,193056,119.87,105.11,1,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,1,4,29,1,1,0,0,0,0,0,0,0
+27,2,465,1,35,Gujarat Titans,Shubman Gill,Axar Patel,,5,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,4.2,2,1,0,193057,171.44,-36.71,6,0,,10,ORTHODOX,55,SWEEP SHOT,0,0,2,4,35,1,0,0,0,0,0,0,0,0
+28,3,465,1,35,Gujarat Titans,Shubman Gill,Axar Patel,,5,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,193058,-73.51,133.65,1,0,,23,ARM BALL,97,BACKFOOT PUSH,0,0,3,4,36,1,0,0,0,0,0,0,0,0
+29,4,465,1,35,Gujarat Titans,Vijay Shankar,Axar Patel,,5,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,193059,-15.96,177.86,2,0,,23,ARM BALL,13,LOFTED STRAIGHT,0,0,4,4,38,1,0,0,0,0,0,0,0,0
+30,5,465,1,35,Gujarat Titans,Vijay Shankar,Axar Patel,,5,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.5,2,1,0,193060,-73.51,50.78,0,0,,10,ORTHODOX,51,FRONTFOOT COVERDRIVE,0,0,5,4,38,1,0,0,0,0,0,0,0,0
+31,6,465,1,35,Gujarat Titans,Vijay Shankar,Axar Patel,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,193061,-73.51,50.78,0,0,,23,ARM BALL,35,LATE CUT,0,0,6,4,38,1,0,0,0,0,0,0,0,0
+32,1,465,1,35,Gujarat Titans,Shubman Gill,Mustafizur Rahman,,6,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,193062,-61.08,103.73,1,0,,30,ANGLED ACROSS,27,FORWARD PUSH,0,0,1,5,39,1,1,0,0,0,0,0,0,0
+33,2,465,1,35,Gujarat Titans,Vijay Shankar,Mustafizur Rahman,,6,2,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,5.2,2,1,1,193063,-61.08,103.73,1,0,,38,STRAIGHT BALL,49,FORWARD DEFENCE,0,0,2,5,40,1,0,0,0,0,0,0,0,0
+34,3,465,1,35,Gujarat Titans,Shubman Gill,Mustafizur Rahman,,6,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,193064,-84.56,16.71,1,0,,30,ANGLED ACROSS,50,BACKFOOT DEFENCE,0,0,3,5,41,1,0,0,0,0,0,0,0,0
+35,4,465,1,35,Gujarat Titans,Vijay Shankar,Mustafizur Rahman,,6,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,193065,-121.86,-13.68,1,0,,30,ANGLED ACROSS,58,BACKFOOT PULL SHOT,0,0,4,5,42,1,0,0,0,0,0,0,0,0
+36,5,465,1,35,Gujarat Titans,Shubman Gill,Mustafizur Rahman,,6,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.5,2,1,0,193066,-137.97,-10.92,1,0,,8,OFF CUTTER,36,CUT SHOT,0,0,5,5,43,1,0,0,0,0,0,0,0,0
+37,6,465,1,35,Gujarat Titans,Vijay Shankar,Mustafizur Rahman,,6,6,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,5.6,2,1,1,193067,-137.97,-10.92,1,0,,38,STRAIGHT BALL,49,FORWARD DEFENCE,0,0,6,5,44,1,0,0,0,0,0,0,0,0
+38,1,465,1,35,Gujarat Titans,Vijay Shankar,Kuldeep Yadav,,7,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Bowled,WICKET,1,6.1,2,1,0,193068,-137.97,-10.92,0,0,,34,CHINAMAN,95,SLOG SWEEP,0,0,1,6,44,2,1,0,0,0,0,0,0,0
+39,2,465,1,35,Gujarat Titans,Hardik Pandya,Kuldeep Yadav,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,193069,-50.03,-30.72,0,0,,34,CHINAMAN,49,FORWARD DEFENCE,0,0,2,6,44,2,2,0,0,0,0,0,0,0
+40,3,465,1,35,Gujarat Titans,Hardik Pandya,Kuldeep Yadav,,7,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.3,2,1,0,193070,-27.47,-144.91,4,0,,31,WRONG ONE,49,FORWARD DEFENCE,0,0,3,6,48,2,0,0,0,0,0,0,0,0
+41,4,465,1,35,Gujarat Titans,Hardik Pandya,Kuldeep Yadav,,7,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.4,2,1,0,193071,48.04,62.75,0,0,,34,CHINAMAN,27,FORWARD PUSH,0,0,4,6,48,2,0,0,0,0,0,0,0,0
+42,5,465,1,35,Gujarat Titans,Hardik Pandya,Kuldeep Yadav,,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.5,2,1,0,193072,-58.32,25.45,1,0,,31,WRONG ONE,49,FORWARD DEFENCE,0,0,5,6,49,2,0,0,0,0,0,0,0,0
+43,6,465,1,35,Gujarat Titans,Shubman Gill,Kuldeep Yadav,,7,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,193073,107.90,-45.91,2,0,,34,CHINAMAN,55,SWEEP SHOT,0,0,6,6,51,2,0,1,1,0,1,0,0,0
+44,1,465,1,35,Gujarat Titans,Hardik Pandya,Axar Patel,,8,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.1,2,1,0,193074,-65.69,35.12,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,1,7,51,2,1,0,1,0,0,0,0,0
+45,2,465,1,35,Gujarat Titans,Hardik Pandya,Axar Patel,,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,193075,-65.69,35.12,0,0,,10,ORTHODOX,50,BACKFOOT DEFENCE,0,0,2,7,51,2,0,0,1,0,0,0,0,0
+46,3,465,1,35,Gujarat Titans,Hardik Pandya,Axar Patel,,8,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,193076,-36.68,60.91,0,0,,10,ORTHODOX,84,FRONTFOOT OFF DRIVE,0,0,3,7,51,2,0,0,1,0,0,0,0,0
+47,4,465,1,35,Gujarat Titans,Hardik Pandya,Axar Patel,,8,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,193077,-74.90,46.63,0,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,4,7,51,2,0,0,1,0,0,0,0,0
+48,5,465,1,35,Gujarat Titans,Hardik Pandya,Axar Patel,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,193078,-55.56,-47.29,1,0,,23,ARM BALL,44,GLIDE,0,0,5,7,52,2,0,0,1,0,0,0,0,0
+49,6,465,1,35,Gujarat Titans,Shubman Gill,Axar Patel,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,193079,-100.22,116.62,1,0,,10,ORTHODOX,84,FRONTFOOT OFF DRIVE,0,0,6,7,53,2,0,0,1,0,0,0,0,0
+50,1,465,1,35,Gujarat Titans,Shubman Gill,Kuldeep Yadav,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,193080,86.72,146.55,1,0,,34,CHINAMAN,47,FRONTFOOT ON DRIVE,0,0,1,8,54,2,1,0,1,0,0,0,0,0
+51,2,465,1,35,Gujarat Titans,Hardik Pandya,Kuldeep Yadav,,9,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,193081,66.46,70.58,0,0,,34,CHINAMAN,47,FRONTFOOT ON DRIVE,0,0,2,8,54,2,0,0,1,0,0,0,0,0
+52,3,465,1,35,Gujarat Titans,Hardik Pandya,Kuldeep Yadav,,9,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,193082,-91.47,126.75,1,0,,34,CHINAMAN,84,FRONTFOOT OFF DRIVE,0,0,3,8,55,2,0,0,1,0,0,0,0,0
+53,4,465,1,35,Gujarat Titans,Shubman Gill,Kuldeep Yadav,,9,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.4,2,1,0,193083,17.65,76.10,0,0,,34,CHINAMAN,53,FRONTFOOT STRAIGHT DRIVE,0,0,4,8,55,2,0,0,1,0,0,0,0,0
+54,5,465,1,35,Gujarat Titans,Shubman Gill,Kuldeep Yadav,,9,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,8.5,2,1,0,193084,133.68,18.55,2,0,,34,CHINAMAN,97,BACKFOOT PUSH,0,0,5,8,57,2,0,0,1,0,0,0,0,0
+55,6,465,1,35,Gujarat Titans,Shubman Gill,Kuldeep Yadav,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,193085,134.60,-35.78,1,0,,31,WRONG ONE,58,BACKFOOT PULL SHOT,0,0,6,8,58,2,0,0,1,0,0,0,0,0
+56,1,465,1,35,Gujarat Titans,Shubman Gill,Khaleel Ahmed,,10,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,193086,103.75,62.29,1,0,,38,STRAIGHT BALL,47,FRONTFOOT ON DRIVE,0,0,1,9,59,2,1,0,1,0,0,0,0,0
+57,2,465,1,35,Gujarat Titans,Hardik Pandya,Khaleel Ahmed,,10,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,9.2,2,1,0,193087,173.28,116.62,4,0,,38,STRAIGHT BALL,58,BACKFOOT PULL SHOT,0,0,2,9,63,2,0,0,1,0,0,0,0,0
+58,3,465,1,35,Gujarat Titans,Hardik Pandya,Khaleel Ahmed,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,193088,173.28,116.62,0,0,,30,ANGLED ACROSS,84,FRONTFOOT OFF DRIVE,0,0,3,9,63,2,0,0,1,0,0,0,0,0
+59,4,465,1,35,Gujarat Titans,Hardik Pandya,Khaleel Ahmed,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,193089,173.28,116.62,0,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,4,9,63,2,0,0,1,0,0,0,0,0
+60,5,465,1,35,Gujarat Titans,Hardik Pandya,Khaleel Ahmed,,10,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,193090,109.74,-55.58,2,0,,38,STRAIGHT BALL,40,FRONTFOOT FLICK,0,0,5,9,65,2,0,0,1,0,0,0,0,0
+61,6,465,1,35,Gujarat Titans,Hardik Pandya,Khaleel Ahmed,,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,193091,82.11,66.43,1,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,6,9,66,2,0,0,1,0,0,0,0,0
+62,1,465,1,35,Gujarat Titans,Hardik Pandya,Axar Patel,,11,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.1,2,1,0,193092,85.79,119.84,1,0,,23,ARM BALL,47,FRONTFOOT ON DRIVE,0,0,1,10,67,2,1,0,1,0,0,0,0,0
+63,2,465,1,35,Gujarat Titans,Shubman Gill,Axar Patel,,11,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,193093,-144.42,25.45,1,0,,10,ORTHODOX,52,BACKFOOT COVERDRIVE,0,0,2,10,68,2,0,0,1,0,0,0,0,0
+64,3,465,1,35,Gujarat Titans,Hardik Pandya,Axar Patel,,11,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,193094,132.76,12.56,1,0,,10,ORTHODOX,27,FORWARD PUSH,0,0,3,10,69,2,0,0,1,0,0,0,0,0
+65,4,465,1,35,Gujarat Titans,Shubman Gill,Axar Patel,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,193095,85.33,127.67,1,0,,10,ORTHODOX,58,BACKFOOT PULL SHOT,0,0,4,10,70,2,0,0,1,0,0,0,0,0
+66,5,465,1,35,Gujarat Titans,Hardik Pandya,Axar Patel,,11,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,10.5,2,1,0,193096,-166.06,113.40,4,0,,10,ORTHODOX,51,FRONTFOOT COVERDRIVE,0,0,5,10,74,2,0,0,1,0,0,0,0,0
+67,6,465,1,35,Gujarat Titans,Hardik Pandya,Axar Patel,,11,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,193097,80.73,106.95,1,0,,10,ORTHODOX,47,FRONTFOOT ON DRIVE,0,0,6,10,75,2,0,0,1,0,0,0,0,0
+68,1,465,1,35,Gujarat Titans,Hardik Pandya,Shardul Thakur,,12,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.1,2,1,0,193098,149.79,-33.48,2,0,,,Knuckleball,40,FRONTFOOT FLICK,0,0,1,11,77,2,1,0,1,0,0,0,0,0
+69,2,465,1,35,Gujarat Titans,Hardik Pandya,Shardul Thakur,,12,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.2,2,1,0,193099,-155.47,134.12,4,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,2,11,81,2,0,0,1,0,0,0,0,0
+70,3,465,1,35,Gujarat Titans,Hardik Pandya,Shardul Thakur,,12,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,193100,-125.54,22.69,1,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,3,11,82,2,0,0,1,0,0,0,0,0
+71,4,465,1,35,Gujarat Titans,Shubman Gill,Shardul Thakur,,12,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,11.4,2,1,0,193101,-84.10,125.37,2,0,,38,STRAIGHT BALL,84,FRONTFOOT OFF DRIVE,0,0,4,11,84,2,0,0,1,0,0,0,0,0
+72,5,465,1,35,Gujarat Titans,Shubman Gill,Shardul Thakur,,12,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.5,2,1,0,193102,-138.90,146.09,4,0,,38,STRAIGHT BALL,84,FRONTFOOT OFF DRIVE,0,0,5,11,88,2,0,0,1,0,0,0,0,0
+73,6,465,1,35,Gujarat Titans,Shubman Gill,Shardul Thakur,,12,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.6,2,1,0,193103,99.61,66.89,1,0,,38,STRAIGHT BALL,46,FRONTFOOT PULL SHOT,0,0,6,11,89,2,0,0,1,0,0,0,0,0
+74,1,465,1,35,Gujarat Titans,Shubman Gill,Kuldeep Yadav,,13,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,12.1,2,1,0,193104,89.94,-123.73,4,0,,34,CHINAMAN,55,SWEEP SHOT,0,0,1,12,93,2,1,0,1,0,0,0,0,0
+75,2,465,1,35,Gujarat Titans,Shubman Gill,Kuldeep Yadav,,13,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,193105,-2.15,59.99,0,0,,31,WRONG ONE,97,BACKFOOT PUSH,0,0,2,12,93,2,0,0,1,0,0,0,0,0
+76,3,465,1,35,Gujarat Titans,Shubman Gill,Kuldeep Yadav,,13,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,193106,133.68,37.88,2,0,,31,WRONG ONE,97,BACKFOOT PUSH,0,0,3,12,95,2,0,0,1,0,0,0,0,0
+77,4,465,1,35,Gujarat Titans,Shubman Gill,Kuldeep Yadav,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,193107,130.92,68.27,1,0,,34,CHINAMAN,97,BACKFOOT PUSH,0,0,4,12,96,2,0,0,1,0,0,0,0,0
+78,5,465,1,35,Gujarat Titans,Hardik Pandya,Kuldeep Yadav,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,193108,58.63,33.74,0,0,,34,CHINAMAN,50,BACKFOOT DEFENCE,0,0,5,12,96,2,0,0,1,0,0,0,0,0
+79,6,465,1,35,Gujarat Titans,Hardik Pandya,Kuldeep Yadav,,13,6,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,193109,115.72,106.49,2,0,,34,CHINAMAN,47,FRONTFOOT ON DRIVE,0,0,6,12,98,2,0,0,1,0,0,0,0,0
+81,1,465,1,35,Gujarat Titans,Shubman Gill,Khaleel Ahmed,,14,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.1,2,1,0,193110,-172.97,95.44,4,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,1,13,102,2,1,1,2,0,0,1,0,0
+82,2,465,1,35,Gujarat Titans,Shubman Gill,Khaleel Ahmed,,14,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.2,2,1,0,193111,50.34,-138.92,4,0,,30,ANGLED ACROSS,99,SCOOP,0,0,2,13,106,2,0,0,2,0,0,0,0,0
+83,3,465,1,35,Gujarat Titans,Shubman Gill,Khaleel Ahmed,,14,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.3,2,1,0,193112,63.23,146.55,1,0,,30,ANGLED ACROSS,47,FRONTFOOT ON DRIVE,0,0,3,13,107,2,0,0,2,0,0,0,0,0
+84,4,465,1,35,Gujarat Titans,Hardik Pandya,Khaleel Ahmed,,14,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,193113,87.64,-56.50,1,0,,38,STRAIGHT BALL,54,LEG GLANCE,0,0,4,13,108,2,0,0,2,0,0,0,0,0
+85,5,465,1,35,Gujarat Titans,Shubman Gill,Khaleel Ahmed,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,193114,-77.20,51.70,1,0,,8,OFF CUTTER,51,FRONTFOOT COVERDRIVE,0,0,5,13,109,2,0,0,2,0,0,0,0,0
+86,6,465,1,35,Gujarat Titans,Hardik Pandya,Khaleel Ahmed,,14,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,13.6,2,1,0,193115,66.46,135.96,0,0,,38,STRAIGHT BALL,11,LOFTED ON DRIVE,0,0,6,13,109,3,1,0,2,0,0,0,0,0
+87,1,465,1,35,Gujarat Titans,Shubman Gill,Kuldeep Yadav,,15,1,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,14.1,2,1,0,193116,9.82,213.77,6,0,,34,CHINAMAN,13,LOFTED STRAIGHT,0,0,1,14,115,3,2,0,2,0,0,0,0,0
+88,2,465,1,35,Gujarat Titans,Shubman Gill,Kuldeep Yadav,,15,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,193117,112.50,6.12,1,0,,34,CHINAMAN,97,BACKFOOT PUSH,0,0,2,14,116,3,0,0,2,0,0,0,0,0
+89,3,465,1,35,Gujarat Titans,David Miller,Kuldeep Yadav,,15,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.3,2,1,0,193118,65.08,11.64,0,0,,34,CHINAMAN,49,FORWARD DEFENCE,0,0,3,14,116,3,0,0,2,0,0,0,0,0
+90,4,465,1,35,Gujarat Titans,David Miller,Kuldeep Yadav,,15,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.4,2,1,0,193119,162.69,114.78,4,0,,34,CHINAMAN,52,BACKFOOT COVERDRIVE,0,0,4,14,120,3,0,0,2,0,0,0,0,0
+91,5,465,1,35,Gujarat Titans,David Miller,Kuldeep Yadav,,15,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.5,2,1,0,193120,162.69,114.78,0,0,,34,CHINAMAN,97,BACKFOOT PUSH,0,0,5,14,120,3,0,0,2,0,0,0,0,0
+92,6,465,1,35,Gujarat Titans,David Miller,Kuldeep Yadav,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,193121,-18.72,53.08,0,0,,34,CHINAMAN,97,BACKFOOT PUSH,0,0,6,14,120,3,0,0,2,0,0,0,0,0
+93,1,465,1,35,Gujarat Titans,Shubman Gill,Axar Patel,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,193122,-18.72,53.08,0,0,,10,ORTHODOX,56,REVERSE SWEEP,0,0,1,15,120,3,1,0,2,0,0,0,0,0
+94,2,465,1,35,Gujarat Titans,Shubman Gill,Axar Patel,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,193123,92.70,136.88,1,0,,10,ORTHODOX,18,SLOG SHOT,0,0,2,15,121,3,0,0,2,0,0,0,0,0
+95,3,465,1,35,Gujarat Titans,David Miller,Axar Patel,,16,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,193124,-69.83,121.22,1,0,,10,ORTHODOX,47,FRONTFOOT ON DRIVE,0,0,3,15,122,3,0,0,2,0,0,0,0,0
+96,4,465,1,35,Gujarat Titans,Shubman Gill,Axar Patel,,16,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.4,2,1,0,193125,160.38,124.45,6,0,,10,ORTHODOX,95,SLOG SWEEP,0,0,4,15,128,3,0,0,2,0,0,0,0,0
+97,5,465,1,35,Gujarat Titans,Shubman Gill,Axar Patel,,16,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,193126,-146.26,54.92,2,0,,10,ORTHODOX,15,LOFTED COVER DRIVE,0,0,5,15,130,3,0,0,2,0,0,0,0,0
+98,6,465,1,35,Gujarat Titans,Shubman Gill,Axar Patel,,16,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,15.6,2,1,0,193127,-14.12,211.01,6,0,,10,ORTHODOX,13,LOFTED STRAIGHT,0,0,6,15,136,3,0,0,2,0,0,0,0,0
+99,1,465,1,35,Gujarat Titans,David Miller,Mustafizur Rahman,,17,1,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,193128,139.67,59.99,2,0,,38,STRAIGHT BALL,52,BACKFOOT COVERDRIVE,0,0,1,16,138,3,1,0,2,0,0,0,0,0
+100,2,465,1,35,Gujarat Titans,David Miller,Mustafizur Rahman,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,193129,38.83,-44.99,1,0,,39,ANGLED IN,44,GLIDE,0,0,2,16,139,3,0,0,2,0,0,0,0,0
+101,3,465,1,35,Gujarat Titans,Shubman Gill,Mustafizur Rahman,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,193130,78.43,146.55,1,0,,8,OFF CUTTER,11,LOFTED ON DRIVE,0,0,3,16,140,3,0,0,2,0,0,0,0,0
+102,4,465,1,35,Gujarat Titans,David Miller,Mustafizur Rahman,,17,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,193131,140.59,77.48,2,0,,46,LEGCUTTER,52,BACKFOOT COVERDRIVE,0,0,4,16,142,3,0,0,2,0,0,0,0,0
+103,5,465,1,35,Gujarat Titans,David Miller,Mustafizur Rahman,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,193132,55.41,-47.29,1,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,5,16,143,3,0,0,2,0,0,0,0,0
+104,6,465,1,35,Gujarat Titans,Shubman Gill,Mustafizur Rahman,,17,6,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,16.6,2,1,1,193133,55.41,-47.29,1,0,,30,ANGLED ACROSS,105,LEFT ALONE,0,0,6,16,144,3,0,0,2,0,0,0,0,0
+105,7,465,1,35,Gujarat Titans,Shubman Gill,Mustafizur Rahman,,17,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.6,2,1,0,193134,120.79,96.82,1,0,,30,ANGLED ACROSS,97,BACKFOOT PUSH,0,0,7,16,145,3,0,0,2,0,0,0,0,0
+106,1,465,1,35,Gujarat Titans,Shubman Gill,Khaleel Ahmed,,18,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,17.1,2,1,0,193135,123.09,132.27,0,0,,8,OFF CUTTER,46,FRONTFOOT PULL SHOT,0,0,1,17,145,4,1,0,2,0,0,0,0,0
+107,2,465,1,35,Gujarat Titans,Rahul Tewatia,Khaleel Ahmed,,18,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.2,2,1,0,193136,-85.49,-79.99,1,0,,39,ANGLED IN,54,LEG GLANCE,0,0,2,17,146,4,2,0,2,0,0,0,0,0
+108,3,465,1,35,Gujarat Titans,David Miller,Khaleel Ahmed,,18,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.3,2,1,0,193137,57.71,-135.24,4,0,,38,STRAIGHT BALL,35,LATE CUT,0,0,3,17,150,4,0,1,3,0,0,0,0,0
+109,4,465,1,35,Gujarat Titans,David Miller,Khaleel Ahmed,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,193138,40.21,-120.50,1,0,,8,OFF CUTTER,44,GLIDE,0,0,4,17,151,4,0,0,3,0,0,0,0,0
+110,5,465,1,35,Gujarat Titans,Rahul Tewatia,Khaleel Ahmed,,18,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,17.5,2,1,0,193139,-166.06,88.99,4,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,5,17,155,4,0,0,3,0,0,0,0,0
+111,6,465,1,35,Gujarat Titans,Rahul Tewatia,Khaleel Ahmed,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,193140,-166.06,88.99,0,0,,43,NIPBACKER,46,FRONTFOOT PULL SHOT,0,0,6,17,155,4,0,0,3,0,0,0,0,0
+112,1,465,1,35,Gujarat Titans,David Miller,Shardul Thakur,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,193141,89.94,144.24,1,0,,30,ANGLED ACROSS,84,FRONTFOOT OFF DRIVE,0,0,1,18,156,4,1,0,3,0,0,0,0,0
+113,2,465,1,35,Gujarat Titans,Rahul Tewatia,Shardul Thakur,,19,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,193142,69.68,-38.09,1,0,,30,ANGLED ACROSS,49,FORWARD DEFENCE,0,0,2,18,157,4,0,0,3,0,0,0,0,0
+114,3,465,1,35,Gujarat Titans,David Miller,Shardul Thakur,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,193143,62.77,126.29,1,0,,30,ANGLED ACROSS,84,FRONTFOOT OFF DRIVE,0,0,3,18,158,4,0,0,3,0,0,0,0,0
+115,4,465,1,35,Gujarat Titans,Rahul Tewatia,Shardul Thakur,,19,4,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,18.4,2,1,1,193144,62.77,126.29,1,0,,30,ANGLED ACROSS,105,LEFT ALONE,0,0,4,18,159,4,0,0,3,0,0,0,0,0
+116,5,465,1,35,Gujarat Titans,Rahul Tewatia,Shardul Thakur,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,193145,-9.97,-37.63,0,0,,30,ANGLED ACROSS,51,FRONTFOOT COVERDRIVE,0,0,5,18,159,4,0,0,3,0,0,0,0,0
+117,6,465,1,35,Gujarat Titans,Rahul Tewatia,Shardul Thakur,,19,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,18.5,2,1,0,193146,142.89,101.88,2,0,,30,ANGLED ACROSS,15,LOFTED COVER DRIVE,0,0,6,18,161,4,0,0,3,0,0,0,0,0
+118,7,465,1,35,Gujarat Titans,Rahul Tewatia,Shardul Thakur,,19,6,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,18.6,2,1,0,193147,-171.59,-4.47,6,0,,30,ANGLED ACROSS,18,SLOG SHOT,0,0,7,18,167,4,0,0,3,0,0,0,0,0
+119,1,465,1,35,Gujarat Titans,David Miller,Mustafizur Rahman,,20,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.1,2,1,0,193148,66.46,152.07,1,0,,8,OFF CUTTER,5,LOFTED OFF DRIVE,0,0,1,19,168,4,1,0,3,0,0,0,0,0
+120,2,465,1,35,Gujarat Titans,Rahul Tewatia,Mustafizur Rahman,,20,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.2,2,1,0,193149,109.74,71.96,0,0,,8,OFF CUTTER,15,LOFTED COVER DRIVE,0,0,2,19,168,5,2,0,3,0,0,0,0,0
+121,3,465,1,35,Gujarat Titans,Abhinav Manohar,Mustafizur Rahman,,20,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.3,2,1,0,193150,-36.68,137.80,1,0,,30,ANGLED ACROSS,46,FRONTFOOT PULL SHOT,0,0,3,19,169,5,3,0,3,0,0,0,0,0
+122,4,465,1,35,Gujarat Titans,David Miller,Mustafizur Rahman,,20,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.4,2,1,0,193151,-111.27,88.07,1,0,,39,ANGLED IN,47,FRONTFOOT ON DRIVE,0,0,4,19,170,5,0,0,3,0,0,0,0,0
+123,5,465,1,35,Gujarat Titans,Abhinav Manohar,Mustafizur Rahman,,20,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,19.5,2,1,0,193152,-81.34,47.09,0,0,,8,OFF CUTTER,5,LOFTED OFF DRIVE,0,0,5,19,170,6,1,0,3,0,0,0,0,0
+124,6,465,1,35,Gujarat Titans,Rashid Khan,Mustafizur Rahman,,20,6,1 (BY),1,0,0,0,0,1,1,0,0,1,0,0,0,0,,,0,19.6,2,1,1,193153,-81.34,47.09,1,0,,30,ANGLED ACROSS,11,LOFTED ON DRIVE,0,0,6,19,171,6,2,0,3,0,0,0,0,0
+125,1,465,2,14,Delhi Capitals,Prithvi Shaw,Mohammad Shami,,1,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,0.1,2,1,0,193154,-149.95,-67.55,4,0,,38,STRAIGHT BALL,16,BACKFOOT SQUARE DRIVE,0,0,1,0,4,0,1,0,0,0,0,0,0,0
+126,2,465,2,14,Delhi Capitals,Prithvi Shaw,Mohammad Shami,,1,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.2,2,1,0,193155,-68.91,11.64,1,0,,42,OUTSWINGER,50,BACKFOOT DEFENCE,0,0,2,0,5,0,0,0,0,0,0,0,0,0
+127,3,465,2,14,Delhi Capitals,Tim Seifert,Mohammad Shami,,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.3,2,1,0,193156,-47.27,-33.94,0,0,,43,NIPBACKER,50,BACKFOOT DEFENCE,0,0,3,0,5,0,0,0,0,0,0,0,0,0
+128,4,465,2,14,Delhi Capitals,Tim Seifert,Mohammad Shami,,1,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,0.4,2,1,0,193157,151.64,67.35,2,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,4,0,7,0,0,0,0,0,0,0,0,0
+129,5,465,2,14,Delhi Capitals,Tim Seifert,Mohammad Shami,,1,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,0.5,2,1,0,193158,39.75,42.49,0,0,,37,NIPPED AWAY,49,FORWARD DEFENCE,0,0,5,0,7,0,0,0,0,0,0,0,0,0
+130,6,465,2,14,Delhi Capitals,Tim Seifert,Mohammad Shami,,1,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,0.6,2,1,0,193159,-27.01,118.92,1,0,,38,STRAIGHT BALL,13,LOFTED STRAIGHT,0,0,6,0,8,0,0,0,0,0,0,0,0,0
+131,1,465,2,14,Delhi Capitals,Tim Seifert,Hardik Pandya,,2,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,1.1,2,1,0,193160,56.79,54.00,0,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,1,1,8,1,1,0,0,0,0,0,0,0
+132,2,465,2,14,Delhi Capitals,Mandeep Singh,Hardik Pandya,,2,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.2,2,1,0,193161,-37.14,-13.68,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,2,1,8,1,2,0,0,0,0,0,0,0
+133,3,465,2,14,Delhi Capitals,Mandeep Singh,Hardik Pandya,,2,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.3,2,1,0,193162,69.68,-35.78,1,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,3,1,9,1,0,0,0,0,0,0,0,0
+134,4,465,2,14,Delhi Capitals,Prithvi Shaw,Hardik Pandya,,2,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,1.4,2,1,0,193163,-18.26,-44.99,1,0,,38,STRAIGHT BALL,50,BACKFOOT DEFENCE,0,0,4,1,10,1,0,0,0,0,0,0,0,0
+135,5,465,2,14,Delhi Capitals,Mandeep Singh,Hardik Pandya,,2,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.5,2,1,0,193164,72.90,30.06,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,5,1,10,1,0,0,0,0,0,0,0,0
+136,6,465,2,14,Delhi Capitals,Mandeep Singh,Hardik Pandya,,2,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,1.6,2,1,0,193165,-71.67,-33.94,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,6,1,10,1,0,0,0,0,0,0,0,0
+137,1,465,2,14,Delhi Capitals,Prithvi Shaw,Mohammad Shami,,3,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.1,2,1,0,193166,117.10,-6.78,1,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,1,2,11,1,1,0,0,0,0,0,0,0
+138,2,465,2,14,Delhi Capitals,Mandeep Singh,Mohammad Shami,,3,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.2,2,1,0,193167,-49.57,24.07,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,2,2,11,1,0,0,0,0,0,0,0,0
+139,3,465,2,14,Delhi Capitals,Mandeep Singh,Mohammad Shami,,3,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.3,2,1,0,193168,177.88,105.11,4,0,,39,ANGLED IN,11,LOFTED ON DRIVE,0,0,3,2,15,1,0,0,0,0,0,0,0,0
+140,4,465,2,14,Delhi Capitals,Mandeep Singh,Mohammad Shami,,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,2.4,2,1,0,193169,-51.41,-33.94,0,0,,37,NIPPED AWAY,97,BACKFOOT PUSH,0,0,4,2,15,1,0,0,0,0,0,0,0,0
+141,5,465,2,14,Delhi Capitals,Mandeep Singh,Mohammad Shami,,3,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,2.5,2,1,0,193170,-177.57,12.56,4,0,,38,STRAIGHT BALL,15,LOFTED COVER DRIVE,0,0,5,2,19,1,0,0,0,0,0,0,0,0
+142,6,465,2,14,Delhi Capitals,Mandeep Singh,Mohammad Shami,,3,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,2.6,2,1,0,193171,-97.00,-91.96,1,0,,38,STRAIGHT BALL,44,GLIDE,0,0,6,2,20,1,0,0,0,0,0,0,0,0
+143,1,465,2,14,Delhi Capitals,Mandeep Singh,Hardik Pandya,,4,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,3.1,2,1,0,193172,78.43,52.16,0,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,1,3,20,1,1,0,0,0,0,0,0,0
+144,2,465,2,14,Delhi Capitals,Mandeep Singh,Hardik Pandya,,4,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.2,2,1,0,193173,-114.03,-97.48,4,0,,38,STRAIGHT BALL,31,UPPER CUT,0,0,2,3,24,1,0,0,0,0,0,0,0,0
+145,3,465,2,14,Delhi Capitals,Mandeep Singh,Hardik Pandya,,4,3,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,3.3,2,1,1,193174,-114.03,-97.48,1,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,3,3,25,1,0,0,0,0,0,0,0,0
+146,4,465,2,14,Delhi Capitals,Prithvi Shaw,Hardik Pandya,,4,4,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,3.4,2,1,0,193175,116.18,103.73,2,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,4,3,27,1,0,0,0,0,0,0,0,0
+147,5,465,2,14,Delhi Capitals,Prithvi Shaw,Hardik Pandya,,4,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,3.5,2,1,0,193176,-56.48,-42.69,1,0,,38,STRAIGHT BALL,44,GLIDE,0,0,5,3,28,1,0,0,0,0,0,0,0,0
+148,6,465,2,14,Delhi Capitals,Mandeep Singh,Hardik Pandya,,4,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,3.6,2,1,0,193177,140.59,144.24,4,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,6,3,32,1,0,0,0,0,0,0,0,0
+149,1,465,2,14,Delhi Capitals,Prithvi Shaw,Lockie Ferguson,,5,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,4.1,2,1,0,193178,130.00,-13.68,0,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,1,4,32,2,1,0,0,0,0,0,0,0
+150,2,465,2,14,Delhi Capitals,Rishabh Pant,Lockie Ferguson,,5,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,4.2,2,1,0,193179,66.46,-91.50,1,0,,42,OUTSWINGER,50,BACKFOOT DEFENCE,0,0,2,4,33,2,2,0,0,0,0,0,0,0
+151,3,465,2,14,Delhi Capitals,Mandeep Singh,Lockie Ferguson,,5,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.3,2,1,0,193180,-58.78,23.61,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,3,4,33,2,0,0,0,0,0,0,0,0
+152,4,465,2,14,Delhi Capitals,Mandeep Singh,Lockie Ferguson,,5,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.4,2,1,0,193181,-56.94,-12.30,0,0,,39,ANGLED IN,97,BACKFOOT PUSH,0,0,4,4,33,2,0,0,0,0,0,0,0,0
+153,5,465,2,14,Delhi Capitals,Mandeep Singh,Lockie Ferguson,,5,5,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,4.5,2,1,1,193182,-56.94,-12.30,1,0,,36,BOUNCER,31,UPPER CUT,1,0,5,4,34,2,0,0,0,0,0,0,0,0
+154,6,465,2,14,Delhi Capitals,Mandeep Singh,Lockie Ferguson,,5,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,4.5,2,1,0,193183,-56.94,-12.30,0,0,,39,ANGLED IN,44,GLIDE,0,0,6,4,34,3,1,0,0,0,0,0,0,0
+155,7,465,2,14,Delhi Capitals,Lalit Yadav,Lockie Ferguson,,5,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,4.6,2,1,0,193184,66.00,39.73,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,7,4,34,3,2,0,0,0,0,0,0,0
+156,1,465,2,14,Delhi Capitals,Rishabh Pant,Mohammad Shami,,6,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,5.1,2,1,0,193185,-134.75,-35.32,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,1,5,35,3,3,0,0,0,0,0,0,0
+157,2,465,2,14,Delhi Capitals,Lalit Yadav,Mohammad Shami,,6,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.2,2,1,0,193186,-48.19,211.01,4,0,,39,ANGLED IN,5,LOFTED OFF DRIVE,0,0,2,5,39,3,0,0,0,0,0,0,0,0
+158,3,465,2,14,Delhi Capitals,Lalit Yadav,Mohammad Shami,,6,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.3,2,1,0,193187,2.00,6.12,0,0,,43,NIPBACKER,49,FORWARD DEFENCE,0,0,3,5,39,3,0,0,0,0,0,0,0,0
+159,4,465,2,14,Delhi Capitals,Lalit Yadav,Mohammad Shami,,6,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.4,2,1,0,193188,47.58,96.36,0,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,4,5,39,3,0,0,0,0,0,0,0,0
+160,5,465,2,14,Delhi Capitals,Lalit Yadav,Mohammad Shami,,6,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,5.5,2,1,0,193189,164.53,125.37,4,0,,42,OUTSWINGER,11,LOFTED ON DRIVE,0,0,5,5,43,3,0,0,0,0,0,0,0,0
+161,6,465,2,14,Delhi Capitals,Lalit Yadav,Mohammad Shami,,6,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,5.6,2,1,0,193190,66.00,-31.64,0,0,,36,BOUNCER,46,FRONTFOOT PULL SHOT,1,0,6,5,43,3,0,0,0,0,0,0,0,0
+162,1,465,2,14,Delhi Capitals,Rishabh Pant,Lockie Ferguson,,7,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.1,2,1,0,193191,56.79,-122.81,1,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,1,6,44,3,1,0,0,0,0,0,0,0
+163,2,465,2,14,Delhi Capitals,Lalit Yadav,Lockie Ferguson,,7,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,6.2,2,1,0,193192,56.79,-122.81,0,0,,36,BOUNCER,46,FRONTFOOT PULL SHOT,1,0,2,6,44,3,0,0,0,0,0,0,0,0
+164,3,465,2,14,Delhi Capitals,Lalit Yadav,Lockie Ferguson,,7,3,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,6.3,2,1,1,193193,56.79,-122.81,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,3,6,45,3,0,0,0,0,0,0,0,0
+165,4,465,2,14,Delhi Capitals,Rishabh Pant,Lockie Ferguson,,7,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.4,2,1,0,193194,-154.55,115.70,4,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,4,6,49,3,0,0,0,0,0,0,0,0
+166,5,465,2,14,Delhi Capitals,Rishabh Pant,Lockie Ferguson,,7,5,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,6.5,2,1,0,193195,17.19,-145.37,4,0,,38,STRAIGHT BALL,46,FRONTFOOT PULL SHOT,0,0,5,6,53,3,0,1,1,0,1,0,0,0
+167,6,465,2,14,Delhi Capitals,Rishabh Pant,Lockie Ferguson,,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,6.6,2,1,0,193196,128.62,37.42,1,0,,41,INSWINGER,97,BACKFOOT PUSH,0,0,6,6,54,3,0,0,1,0,0,0,0,0
+168,1,465,2,14,Delhi Capitals,Rishabh Pant,Rashid Khan,,8,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,7.1,2,1,0,193197,69.68,-132.01,4,0,,24,LEG SPIN,35,LATE CUT,0,0,1,7,58,3,1,0,1,0,0,0,0,0
+169,2,465,2,14,Delhi Capitals,Rishabh Pant,Rashid Khan,,8,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.2,2,1,0,193198,-123.70,-61.57,1,0,,24,LEG SPIN,58,BACKFOOT PULL SHOT,0,0,2,7,59,3,0,0,1,0,0,0,0,0
+170,3,465,2,14,Delhi Capitals,Lalit Yadav,Rashid Khan,,8,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.3,2,1,0,193199,-140.74,19.93,1,0,,28,GOOGLY,52,BACKFOOT COVERDRIVE,0,0,3,7,60,3,0,0,1,0,0,0,0,0
+171,4,465,2,14,Delhi Capitals,Rishabh Pant,Rashid Khan,,8,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.4,2,1,0,193200,81.65,-19.21,1,0,,28,GOOGLY,49,FORWARD DEFENCE,0,0,4,7,61,3,0,0,1,0,0,0,0,0
+172,5,465,2,14,Delhi Capitals,Lalit Yadav,Rashid Khan,,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.5,2,1,0,193201,77.97,79.78,1,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,5,7,62,3,0,0,1,0,0,0,0,0
+173,6,465,2,14,Delhi Capitals,Rishabh Pant,Rashid Khan,,8,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,7.6,2,1,0,193202,130.00,-44.53,1,0,,24,LEG SPIN,36,CUT SHOT,0,0,6,7,63,3,0,0,1,0,0,0,0,0
+174,1,465,2,14,Delhi Capitals,Rishabh Pant,Varun Aaron,,9,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.1,2,1,0,193203,-128.31,94.52,1,0,,30,ANGLED ACROSS,58,BACKFOOT PULL SHOT,0,0,1,8,64,3,1,0,1,0,0,0,0,0
+175,2,465,2,14,Delhi Capitals,Lalit Yadav,Varun Aaron,,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.2,2,1,0,193204,137.82,-4.94,1,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,2,8,65,3,0,0,1,0,0,0,0,0
+176,3,465,2,14,Delhi Capitals,Rishabh Pant,Varun Aaron,,9,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,8.3,2,1,0,193205,67.84,-36.71,0,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,3,8,65,3,0,0,1,0,0,0,0,0
+177,4,465,2,14,Delhi Capitals,Rishabh Pant,Varun Aaron,,9,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,8.4,2,1,0,193206,160.85,-49.60,4,0,,30,ANGLED ACROSS,36,CUT SHOT,0,0,4,8,69,3,0,0,1,0,0,0,0,0
+178,5,465,2,14,Delhi Capitals,Rishabh Pant,Varun Aaron,,9,5,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,8.5,2,1,1,193207,160.85,-49.60,1,0,,38,STRAIGHT BALL,58,BACKFOOT PULL SHOT,0,0,5,8,70,3,0,0,1,0,0,0,0,0
+179,6,465,2,14,Delhi Capitals,Lalit Yadav,Varun Aaron,,9,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,8.6,2,1,0,193208,52.18,110.63,1,0,,39,ANGLED IN,40,FRONTFOOT FLICK,0,0,6,8,71,3,0,0,1,0,0,0,0,0
+180,1,465,2,14,Delhi Capitals,Lalit Yadav,Rashid Khan,,10,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.1,2,1,0,193209,-79.04,45.71,0,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,1,9,71,3,1,0,1,0,0,0,0,0
+181,2,465,2,14,Delhi Capitals,Lalit Yadav,Rashid Khan,,10,2,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,9.2,2,1,0,193210,176.04,103.73,6,0,,24,LEG SPIN,95,SLOG SWEEP,0,0,2,9,77,3,0,0,1,0,0,0,0,0
+182,3,465,2,14,Delhi Capitals,Lalit Yadav,Rashid Khan,,10,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.3,2,1,0,193211,42.97,40.65,0,0,,24,LEG SPIN,51,FRONTFOOT COVERDRIVE,0,0,3,9,77,3,0,0,1,0,0,0,0,0
+183,4,465,2,14,Delhi Capitals,Lalit Yadav,Rashid Khan,,10,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.4,2,1,0,193212,-42.67,44.79,0,0,,28,GOOGLY,97,BACKFOOT PUSH,0,0,4,9,77,3,0,0,1,0,0,0,0,0
+184,5,465,2,14,Delhi Capitals,Lalit Yadav,Rashid Khan,,10,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,9.5,2,1,0,193213,-98.84,-45.91,2,0,,28,GOOGLY,36,CUT SHOT,0,0,5,9,79,3,0,0,1,0,0,0,0,0
+185,6,465,2,14,Delhi Capitals,Lalit Yadav,Rashid Khan,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,9.6,2,1,0,193214,-46.81,-31.64,0,0,,24,LEG SPIN,49,FORWARD DEFENCE,0,0,6,9,79,3,0,0,1,0,0,0,0,0
+186,1,465,2,14,Delhi Capitals,Rishabh Pant,Hardik Pandya,,11,1,1 (LB),1,0,0,0,0,1,1,0,0,0,1,0,0,0,,,0,10.1,2,1,1,193215,-46.81,-31.64,1,0,,38,STRAIGHT BALL,58,BACKFOOT PULL SHOT,0,0,1,10,80,3,1,0,1,0,0,0,0,0
+187,2,465,2,14,Delhi Capitals,Lalit Yadav,Hardik Pandya,,11,2,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.2,2,1,0,193216,116.64,-46.83,2,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,2,10,82,3,0,0,1,0,0,0,0,0
+188,3,465,2,14,Delhi Capitals,Lalit Yadav,Hardik Pandya,,11,3,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,10.3,2,1,0,193217,118.49,91.76,2,0,,8,OFF CUTTER,46,FRONTFOOT PULL SHOT,0,0,3,10,84,3,0,0,1,0,0,0,0,0
+189,4,465,2,14,Delhi Capitals,Lalit Yadav,Hardik Pandya,,11,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.4,2,1,0,193218,120.79,46.63,1,0,,39,ANGLED IN,46,FRONTFOOT PULL SHOT,0,0,4,10,85,3,0,0,1,0,0,0,0,0
+190,5,465,2,14,Delhi Capitals,Rishabh Pant,Hardik Pandya,,11,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,10.5,2,1,0,193219,-71.67,-83.21,1,0,,38,STRAIGHT BALL,54,LEG GLANCE,0,0,5,10,86,3,0,0,1,0,0,0,0,0
+191,6,465,2,14,Delhi Capitals,Lalit Yadav,Hardik Pandya,,11,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,10.6,2,1,0,193220,71.98,56.76,0,0,,8,OFF CUTTER,27,FORWARD PUSH,0,0,6,10,86,3,0,0,1,0,0,0,0,0
+192,1,465,2,14,Delhi Capitals,Rishabh Pant,Vijay Shankar,,12,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.1,2,1,0,193221,120.79,-99.32,4,0,,43,NIPBACKER,36,CUT SHOT,0,0,1,11,90,3,1,0,1,0,0,0,0,0
+193,2,465,2,14,Delhi Capitals,Rishabh Pant,Vijay Shankar,,12,2,1 (WD),1,0,0,0,0,0,1,1,0,0,0,0,0,0,,,0,11.2,2,1,1,193222,120.79,-99.32,1,0,,38,STRAIGHT BALL,58,BACKFOOT PULL SHOT,0,0,2,11,91,3,0,0,1,0,0,0,0,0
+194,3,465,2,14,Delhi Capitals,Rishabh Pant,Vijay Shankar,,12,2,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.2,2,1,0,193223,-53.26,-141.68,4,0,,38,STRAIGHT BALL,99,SCOOP,0,0,3,11,95,3,0,0,1,0,0,0,0,0
+195,4,465,2,14,Delhi Capitals,Rishabh Pant,Vijay Shankar,,12,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,11.3,2,1,0,193224,-53.26,-141.68,0,0,,8,OFF CUTTER,122,STEP DOWN LOFTED OFF DRIVE,0,0,4,11,95,3,0,0,1,0,0,0,0,0
+196,5,465,2,14,Delhi Capitals,Rishabh Pant,Vijay Shankar,,12,4,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Run Out,WICKET,0,11.4,2,1,0,193225,-90.55,12.56,0,0,,38,STRAIGHT BALL,97,BACKFOOT PUSH,0,0,5,11,95,4,0,0,1,0,0,0,0,0
+197,6,465,2,14,Delhi Capitals,Rishabh Pant,Vijay Shankar,,12,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,11.5,2,1,0,193226,-62.46,27.29,1,0,,38,STRAIGHT BALL,49,FORWARD DEFENCE,0,0,6,11,96,4,0,0,1,0,0,0,0,0
+198,7,465,2,14,Delhi Capitals,Rovman Powell,Vijay Shankar,,12,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,11.6,2,1,0,193227,-153.17,-55.12,4,0,,38,STRAIGHT BALL,36,CUT SHOT,0,0,7,11,100,4,0,1,2,0,0,1,0,0
+199,1,465,2,14,Delhi Capitals,Rishabh Pant,Rashid Khan,,13,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,12.1,2,1,0,193228,-32.54,49.86,0,0,,24,LEG SPIN,58,BACKFOOT PULL SHOT,0,0,1,12,100,4,1,0,2,0,0,0,0,0
+200,2,465,2,14,Delhi Capitals,Rishabh Pant,Rashid Khan,,13,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.2,2,1,0,193229,-148.56,33.28,1,0,,28,GOOGLY,58,BACKFOOT PULL SHOT,0,0,2,12,101,4,0,0,2,0,0,0,0,0
+201,3,465,2,14,Delhi Capitals,Rovman Powell,Rashid Khan,,13,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.3,2,1,0,193230,66.92,-27.96,1,0,,28,GOOGLY,97,BACKFOOT PUSH,0,0,3,12,102,4,0,0,2,0,0,0,0,0
+202,4,465,2,14,Delhi Capitals,Rishabh Pant,Rashid Khan,,13,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.4,2,1,0,193231,-142.12,53.08,1,0,,24,LEG SPIN,58,BACKFOOT PULL SHOT,0,0,4,12,103,4,0,0,2,0,0,0,0,0
+203,5,465,2,14,Delhi Capitals,Rovman Powell,Rashid Khan,,13,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.5,2,1,0,193232,49.88,131.35,1,0,,24,LEG SPIN,27,FORWARD PUSH,0,0,5,12,104,4,0,0,2,0,0,0,0,0
+204,6,465,2,14,Delhi Capitals,Rishabh Pant,Rashid Khan,,13,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,12.6,2,1,0,193233,135.06,-20.13,1,0,,28,GOOGLY,36,CUT SHOT,0,0,6,12,105,4,0,0,2,0,0,0,0,0
+205,1,465,2,14,Delhi Capitals,Rishabh Pant,Rahul Tewatia,,14,1,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,13.1,2,1,0,193234,165.91,-42.69,4,0,,21,SLIDER,36,CUT SHOT,0,0,1,13,109,4,1,0,2,0,0,0,0,0
+206,2,465,2,14,Delhi Capitals,Rishabh Pant,Rahul Tewatia,,14,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.2,2,1,0,193235,-118.64,70.58,1,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,2,13,110,4,0,0,2,0,0,0,0,0
+207,3,465,2,14,Delhi Capitals,Rovman Powell,Rahul Tewatia,,14,3,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,13.3,2,1,0,193236,73.36,202.72,6,0,,24,LEG SPIN,11,LOFTED ON DRIVE,0,0,3,13,116,4,0,0,2,0,0,0,0,0
+208,4,465,2,14,Delhi Capitals,Rovman Powell,Rahul Tewatia,,14,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,13.4,2,1,0,193237,73.36,202.72,0,0,,24,LEG SPIN,11,LOFTED ON DRIVE,0,0,4,13,116,4,0,0,2,0,0,0,0,0
+209,5,465,2,14,Delhi Capitals,Rovman Powell,Rahul Tewatia,,14,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.5,2,1,0,193238,-68.91,35.12,1,0,,24,LEG SPIN,97,BACKFOOT PUSH,0,0,5,13,117,4,0,0,2,0,0,0,0,0
+210,6,465,2,14,Delhi Capitals,Rishabh Pant,Rahul Tewatia,,14,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,13.6,2,1,0,193239,-108.05,88.53,1,0,,28,GOOGLY,47,FRONTFOOT ON DRIVE,0,0,6,13,118,4,0,0,2,0,0,0,0,0
+211,1,465,2,14,Delhi Capitals,Rishabh Pant,Lockie Ferguson,,15,1,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,14.1,2,1,0,193240,-120.48,-52.82,0,0,,37,NIPPED AWAY,46,FRONTFOOT PULL SHOT,0,0,1,14,118,5,1,0,2,0,0,0,0,0
+212,2,465,2,14,Delhi Capitals,Axar Patel,Lockie Ferguson,,15,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.2,2,1,0,193241,30.54,30.98,0,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,2,14,118,5,2,0,2,0,0,0,0,0
+213,3,465,2,14,Delhi Capitals,Axar Patel,Lockie Ferguson,,15,3,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.3,2,1,0,193242,143.81,156.22,4,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,3,14,122,5,0,0,2,0,0,0,0,0
+214,4,465,2,14,Delhi Capitals,Axar Patel,Lockie Ferguson,,15,4,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,14.4,2,1,0,193243,-172.05,100.50,4,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,4,14,126,5,0,0,2,0,0,0,0,0
+215,5,465,2,14,Delhi Capitals,Axar Patel,Lockie Ferguson,,15,5,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,14.5,2,1,0,193244,-172.05,100.50,0,0,,39,ANGLED IN,58,BACKFOOT PULL SHOT,0,0,5,14,126,6,1,0,2,0,0,0,0,0
+216,6,465,2,14,Delhi Capitals,Shardul Thakur,Lockie Ferguson,,15,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,14.6,2,1,0,193245,-80.88,50.78,0,0,,38,STRAIGHT BALL,51,FRONTFOOT COVERDRIVE,0,0,6,14,126,6,2,0,2,0,0,0,0,0
+217,1,465,2,14,Delhi Capitals,Rovman Powell,Rashid Khan,,16,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.1,2,1,0,193246,-80.88,50.78,0,0,,28,GOOGLY,97,BACKFOOT PUSH,0,0,1,15,126,6,3,0,2,0,0,0,0,0
+218,2,465,2,14,Delhi Capitals,Rovman Powell,Rashid Khan,,16,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,15.2,2,1,0,193247,118.03,62.29,1,0,,28,GOOGLY,97,BACKFOOT PUSH,0,0,2,15,127,6,0,0,2,0,0,0,0,0
+219,3,465,2,14,Delhi Capitals,Shardul Thakur,Rashid Khan,,16,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.3,2,1,0,193248,-36.22,-42.23,0,0,,24,LEG SPIN,35,LATE CUT,0,0,3,15,127,6,0,0,2,0,0,0,0,0
+220,4,465,2,14,Delhi Capitals,Shardul Thakur,Rashid Khan,,16,4,5 (WD),5,0,0,0,0,0,5,1,0,0,0,1,0,0,,,0,15.4,2,1,1,193249,-36.22,-42.23,5,0,,28,GOOGLY,54,LEG GLANCE,0,0,4,15,132,6,0,0,2,0,0,0,0,0
+221,5,465,2,14,Delhi Capitals,Shardul Thakur,Rashid Khan,,16,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,15.4,2,1,0,193250,-36.22,-42.23,0,0,,28,GOOGLY,54,LEG GLANCE,0,0,5,15,132,6,0,0,2,0,0,0,0,0
+222,6,465,2,14,Delhi Capitals,Shardul Thakur,Rashid Khan,,16,5,2,2,2,0,1,0,0,0,0,0,0,0,0,0,0,,,0,15.5,2,1,0,193251,100.53,-77.22,2,0,,24,LEG SPIN,58,BACKFOOT PULL SHOT,0,0,6,15,134,6,0,0,2,0,0,0,0,0
+223,7,465,2,14,Delhi Capitals,Shardul Thakur,Rashid Khan,,16,6,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,15.6,2,1,0,193252,100.53,-77.22,0,0,,28,GOOGLY,47,FRONTFOOT ON DRIVE,0,0,7,15,134,7,1,0,2,0,0,0,0,0
+224,1,465,2,14,Delhi Capitals,Rovman Powell,Lockie Ferguson,,17,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.1,2,1,0,193253,45.28,-9.54,1,0,,8,OFF CUTTER,50,BACKFOOT DEFENCE,0,0,1,16,135,7,2,0,2,0,0,0,0,0
+225,2,465,2,14,Delhi Capitals,Kuldeep Yadav,Lockie Ferguson,,17,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.2,2,1,0,193254,-58.78,-9.08,1,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,2,16,136,7,0,0,2,0,0,0,0,0
+226,3,465,2,14,Delhi Capitals,Rovman Powell,Lockie Ferguson,,17,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.3,2,1,0,193255,-78.12,-29.34,1,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,3,16,137,7,0,0,2,0,0,0,0,0
+227,4,465,2,14,Delhi Capitals,Kuldeep Yadav,Lockie Ferguson,,17,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,16.4,2,1,0,193256,-78.12,-29.34,0,0,,37,NIPPED AWAY,49,FORWARD DEFENCE,0,0,4,16,137,7,0,0,2,0,0,0,0,0
+228,5,465,2,14,Delhi Capitals,Kuldeep Yadav,Lockie Ferguson,,17,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,16.5,2,1,0,193257,-113.57,-36.71,1,0,,36,BOUNCER,58,BACKFOOT PULL SHOT,1,0,5,16,138,7,0,0,2,0,0,0,0,0
+229,6,465,2,14,Delhi Capitals,Rovman Powell,Lockie Ferguson,,17,6,4,4,4,0,0,0,0,0,0,0,0,0,1,0,0,,,0,16.6,2,1,0,193258,-96.08,-120.50,4,0,,39,ANGLED IN,44,GLIDE,0,0,6,16,142,7,0,0,2,0,0,0,0,0
+231,1,465,2,14,Delhi Capitals,Kuldeep Yadav,Mohammad Shami,,18,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.1,2,1,0,193259,-85.95,-107.15,1,0,,39,ANGLED IN,49,FORWARD DEFENCE,0,0,1,17,143,7,1,0,2,0,0,0,0,0
+232,2,465,2,14,Delhi Capitals,Rovman Powell,Mohammad Shami,,18,2,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Leg Before Wicket,WICKET,1,17.2,2,1,0,193260,-85.95,-107.15,0,0,,8,OFF CUTTER,46,FRONTFOOT PULL SHOT,0,0,2,17,143,8,2,0,2,0,0,0,0,0
+233,3,465,2,14,Delhi Capitals,Khaleel Ahmed,Mohammad Shami,,18,3,0 WK,W,0,0,0,0,1,0,0,0,0,0,0,0,1,Caught,WICKET,1,17.3,2,1,0,193261,-85.95,-107.15,0,0,,39,ANGLED IN,50,BACKFOOT DEFENCE,0,0,3,17,143,9,0,0,2,0,0,0,0,0
+234,4,465,2,14,Delhi Capitals,Mustafizur Rahman,Mohammad Shami,,18,4,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.4,2,1,0,193262,69.22,59.99,1,0,,39,ANGLED IN,27,FORWARD PUSH,0,0,4,17,144,9,1,0,2,0,0,0,0,0
+235,5,465,2,14,Delhi Capitals,Kuldeep Yadav,Mohammad Shami,,18,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,17.5,2,1,0,193263,69.68,88.53,1,0,,39,ANGLED IN,84,FRONTFOOT OFF DRIVE,0,0,5,17,145,9,0,0,2,0,0,0,0,0
+236,6,465,2,14,Delhi Capitals,Mustafizur Rahman,Mohammad Shami,,18,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,17.6,2,1,0,193264,-50.49,-103.01,0,0,,36,BOUNCER,31,UPPER CUT,1,0,6,17,145,9,0,0,2,0,0,0,0,0
+237,1,465,2,14,Delhi Capitals,Kuldeep Yadav,Hardik Pandya,,19,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.1,2,1,0,193265,-137.51,26.83,1,0,,38,STRAIGHT BALL,58,BACKFOOT PULL SHOT,0,0,1,18,146,9,1,0,2,0,0,0,0,0
+238,2,465,2,14,Delhi Capitals,Mustafizur Rahman,Hardik Pandya,,19,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.2,2,1,0,193266,65.54,-33.02,0,0,,38,STRAIGHT BALL,97,BACKFOOT PUSH,0,0,2,18,146,9,0,0,2,0,0,0,0,0
+239,3,465,2,14,Delhi Capitals,Mustafizur Rahman,Hardik Pandya,,19,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.3,2,1,0,193267,-82.26,148.85,1,0,,38,STRAIGHT BALL,47,FRONTFOOT ON DRIVE,0,0,3,18,147,9,0,0,2,0,0,0,0,0
+240,4,465,2,14,Delhi Capitals,Kuldeep Yadav,Hardik Pandya,,19,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.4,2,1,0,193268,-82.26,148.85,0,0,,36,BOUNCER,105,LEFT ALONE,1,0,4,18,147,9,0,0,2,0,0,0,0,0
+241,5,465,2,14,Delhi Capitals,Kuldeep Yadav,Hardik Pandya,,19,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,18.5,2,1,0,193269,81.65,-32.56,0,0,,8,OFF CUTTER,44,GLIDE,0,0,5,18,147,9,0,0,2,0,0,0,0,0
+242,6,465,2,14,Delhi Capitals,Kuldeep Yadav,Hardik Pandya,,19,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,18.6,2,1,0,193270,-53.72,144.24,1,0,,30,ANGLED ACROSS,58,BACKFOOT PULL SHOT,0,0,6,18,148,9,0,0,2,0,0,0,0,0
+243,1,465,2,14,Delhi Capitals,Kuldeep Yadav,Rahul Tewatia,,20,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.1,2,1,0,193271,-96.54,184.76,0,0,,21,SLIDER,105,LEFT ALONE,0,0,1,19,148,9,1,0,2,0,0,0,0,0
+244,2,465,2,14,Delhi Capitals,Kuldeep Yadav,Rahul Tewatia,,20,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.2,2,1,0,193272,-118.64,-54.66,1,0,,24,LEG SPIN,55,SWEEP SHOT,0,0,2,19,149,9,0,0,2,0,0,0,0,0
+245,3,465,2,14,Delhi Capitals,Mustafizur Rahman,Rahul Tewatia,,20,3,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.3,2,1,0,193273,138.28,61.37,1,0,,28,GOOGLY,52,BACKFOOT COVERDRIVE,0,0,3,19,150,9,0,1,3,0,0,0,0,0
+246,4,465,2,14,Delhi Capitals,Kuldeep Yadav,Rahul Tewatia,,20,4,6,6,6,0,0,0,0,0,0,0,0,0,0,1,0,,,0,19.4,2,1,0,193274,-96.54,184.76,6,0,,24,LEG SPIN,94,STEP DOWN LOFTED ON DRIVE,0,0,4,19,156,9,0,0,3,0,0,0,0,0
+247,5,465,2,14,Delhi Capitals,Kuldeep Yadav,Rahul Tewatia,,20,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,,,0,19.5,2,1,0,193275,71.06,46.17,0,0,,24,LEG SPIN,51,FRONTFOOT COVERDRIVE,0,0,5,19,156,9,0,0,3,0,0,0,0,0
+248,6,465,2,14,Delhi Capitals,Kuldeep Yadav,Rahul Tewatia,,20,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,,,0,19.6,2,1,0,193276,-120.02,-42.69,1,0,,28,GOOGLY,55,SWEEP SHOT,0,0,6,19,157,9,0,0,3,0,0,0,0,0

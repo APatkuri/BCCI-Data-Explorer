@@ -28,17 +28,25 @@ FIELDS = ['MatchID', 'InningsNo', 'BattingTeamID',
           'crease_y', 'crease_z', 'drop_angle', 'stump_x', 'stump_y', 'stump_z', 'swing', 'deviation', 'swing_dist', 'six_dist', 
           'ground', 'date', 'season']
 
-def hawkeye_main(cat, matchid, hawkeyeid):
+def hawkeye_main(cat, matchid, hawkeyeid, bcci_ipl_type):
     placeholder = st.empty()
     # Reading t20bbb for validation since we don't know the max number of balls (extras + legal balls) in an over 
     # MATCH_INFO_FILENAME = 'matches/hawkeye-keydatatest.csv'
     # hawkeye_ids, match_ids, seasons = read_match_ids(MATCH_INFO_FILENAME)
     hawkeye_ids = [hawkeyeid]
     match_ids = [matchid]
-    all_match_info_df = pd.read_csv(f"./bcci_shot_data/{cat}/bcci_match_list.csv")
+
+    if bcci_ipl_type == 'bcci':
+        all_match_info_df = pd.read_csv(f"./bcci_shot_data/{cat}/bcci_match_list.csv")
+    elif bcci_ipl_type == 'ipl':
+        all_match_info_df = pd.read_csv(f"./ipl_shot_data/ipl_match_list.csv")
 
     match_info_df = all_match_info_df[all_match_info_df['MatchID'] == matchid]
-    max_over = match_info_df['MATCH_NO_OF_OVERS'].max().astype(int)
+
+    if bcci_ipl_type == 'ipl':
+        max_over = 20
+    else:
+        max_over = match_info_df['MATCH_NO_OF_OVERS'].max().astype(int)
     seasons = ['']
 
     max_innings = 4 if match_info_df['MATCH_NO_OF_OVERS'].max() == 200 else 2
@@ -46,7 +54,7 @@ def hawkeye_main(cat, matchid, hawkeyeid):
 
     # iterate over the matches
     for i in range(len(hawkeye_ids)):
-        OUT_FILENAME = f"./bcci_hawkeye_data/{match_ids[i]}.csv"
+        OUT_FILENAME = f"./{bcci_ipl_type}_hawkeye_data/{match_ids[i]}.csv"
         ball_data_all = []
 
         hawkID = hawkeye_ids[i]
@@ -55,7 +63,11 @@ def hawkeye_main(cat, matchid, hawkeyeid):
         
         # match_str = "t20s_csv2/" + str(matchID) + ".csv"
         # match_str = "t20_" + str(season) + ".csv"
-        match_str = f"./bcci_shot_data/{cat}/csv/{matchID}.csv"
+
+        if bcci_ipl_type == 'bcci':
+            match_str = f"./bcci_shot_data/{cat}/csv/{matchID}.csv"
+        elif bcci_ipl_type == 'ipl':    
+            match_str = f"./ipl_shot_data/csv/{matchID}.csv"
 
         try:
             t20bbb = pd.read_csv(match_str, dtype={'line': str, 'length': str, 'shot': str})
