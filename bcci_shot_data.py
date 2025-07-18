@@ -5,7 +5,7 @@ import json
 import glob
 import re
 from bs4 import BeautifulSoup
-from line_profiler import LineProfiler
+# from line_profiler import LineProfiler
 
 
 def get_bcci_shot_data(match_id, max_overs, cat):
@@ -22,7 +22,7 @@ def get_bcci_shot_data(match_id, max_overs, cat):
         BCCI_COMMS_URL = f"https://scores.bcci.tv/feeds-international/scoringfeeds/{match_id}-Innings{i}.js"
         
         try:
-            response = requests.get(BCCI_COMMS_URL, timeout=100)
+            response = requests.get(BCCI_COMMS_URL, timeout=5)
             response.raise_for_status()
             data = response.text
             # result = re.sub(r'onScoring\((.*?)\);', r'\1', data)
@@ -82,7 +82,7 @@ def bcci_shot_data_json(cat):
 
     bcci_match_list = []
     for i in BCCI.values():
-        response = requests.get(i, timeout=100)
+        response = requests.get(i, timeout=1)
         data = response.json()
         rows = list(data.keys())
         if(rows[0] == 'recentMatches'):
@@ -264,7 +264,7 @@ def hawkeye_data(cat):
 
         match_center_str = f"https://www.bcci.tv/events/{c_id}/{c_name_new}/match/{m_id}/{m_order_new}"
 
-        response = requests.get(match_center_str, timeout=30)
+        response = requests.get(match_center_str, timeout=5)
         soup = BeautifulSoup(response.text, 'html.parser')
         text = soup.find_all('embed')
         if len(text) != 0:

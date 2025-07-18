@@ -290,7 +290,7 @@ if(format_type and series_name and match_name):
 
     match_df = format_df[(format_df['CompetitionID'] == selected_competition_id) & (format_df['MatchOrder'] == match_name)]
     match_id = match_df['MatchID'].unique()[0]
-    max_overs = match_df['MATCH_NO_OF_OVERS'].unique()[0]
+    max_overs = int(match_df['MATCH_NO_OF_OVERS'].unique()[0])
 
     match_shot_data = shot_data_df[shot_data_df['MatchID'] == match_id]
     batter_list = match_shot_data['BatsManName'].dropna().unique()

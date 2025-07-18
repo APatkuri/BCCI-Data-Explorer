@@ -16,7 +16,7 @@ if parent_dir not in sys.path:
 from bcci_shot_data import main_func
 from bcci_hawkeye_scrapper import hawkeye_main
 from pitch_view.pitch_densitymap import *
-from line_profiler import LineProfiler
+# from line_profiler import LineProfiler
 
 st.title("BCCI Bowling Playground")
 
@@ -397,7 +397,7 @@ if(format_type and series_name and match_name):
     # match_df = format_df[(format_df['CompetitionName'] == series_name) & (format_df['MatchOrder'] == match_name)]
     match_df = format_df[(format_df['CompetitionID'] == selected_competition_id) & (format_df['MatchOrder'] == match_name)]
     match_id = match_df['MatchID'].unique()[0]
-    max_overs = match_df['MATCH_NO_OF_OVERS'].unique()[0]
+    max_overs = int(match_df['MATCH_NO_OF_OVERS'].unique()[0])
     # max_shot_data_inns = shot_data_df[shot_data_df['MatchID'] == match_id]['InningsNo'].max()
     # max_shot_data_overs = shot_data_df[(shot_data_df['MatchID'] == match_id) & (shot_data_df['InningsNo'] == max_shot_data_inns)]['OverNo'].max()
     match_shot_data = shot_data_df[shot_data_df['MatchID'] == match_id]
