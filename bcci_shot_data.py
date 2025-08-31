@@ -82,7 +82,7 @@ def bcci_shot_data_json(cat):
 
     bcci_match_list = []
     for i in BCCI.values():
-        response = requests.get(i, timeout=1)
+        response = requests.get(i, timeout=5)
         data = response.json()
         rows = list(data.keys())
         if(rows[0] == 'recentMatches'):

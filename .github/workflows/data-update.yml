@@ -1,0 +1,50 @@
+name: Weekly Data Update
+
+on:
+  schedule:
+    - cron: '0 9 * * 1' # Every Monday at 09:00 UTC
+  workflow_dispatch:  
+  push:
+    branches:
+      - master
+
+jobs:
+  run-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run script
+      run: |
+        python weekly_data_update.py
+
+    - name: Commit changes
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+        git pull --rebase=merges --autostash origin master
+        
+        git add bcci_hawkeye_data/ bcci_shot_data/
+        
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Weekly Data Update"
+        fi
+        
+        git push
+      env:
+        # Required so Actions can push to the repo
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

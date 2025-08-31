@@ -147,7 +147,10 @@ def processData(ball_data, response):
     trajectory_dict = parse_trajectory_data(match_data['delivery']['trajectory']['trajectoryData'])
     # batball_data = fill_batbowl_data(ball_data_check, matchData)
 
-    batting_team_info = match_data['battingTeam']
+    if 'battingTeam' in match_data:
+        batting_team_info = match_data['battingTeam']
+    else:
+        return
     bowling_team_info = match_data['bowlingTeam']['bowler']
 
     if batting_team_info['batsman']['isRightHanded']:

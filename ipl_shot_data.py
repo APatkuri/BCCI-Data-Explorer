@@ -5,7 +5,7 @@ import json
 import glob
 import re
 from bs4 import BeautifulSoup
-from line_profiler import LineProfiler
+# from line_profiler import LineProfiler
 from bcci_hawkeye_scrapper import hawkeye_main
 
 
@@ -153,35 +153,37 @@ def match_data_procees(ipl_match_list, new_match_list):
     # data_temp_df = temp_df[temp_df['MatchStatus'] == 'Post']
     # live_data_temp_df = temp_df[temp_df['MatchStatus'] == 'Live']
 
-    data_temp_df = new_match_df[new_match_df['MatchStatus'] == 'Post']
-    live_data_temp_df = new_match_df[new_match_df['MatchStatus'] == 'Live']
-
-    for match_id ,max_overs in zip(data_temp_df['MatchID'], data_temp_df['MATCH_NO_OF_OVERS']):
-        temp_file_str = f"./ipl_shot_data/csv/{match_id}.csv"
-
-        # if temp_file_str not in glob.glob(f"./bcci_shot_data/{cat}/csv/*.csv"):
-        if not os.path.exists(temp_file_str):
-            get_bcci_shot_data(match_id, max_overs)
-            csv_to_json(match_id)
-
-        if str(match_id) in existing_ids:
-            get_bcci_shot_data(match_id, max_overs)
-            csv_to_json(match_id)
-            existing_ids.remove(str(match_id))
-
-    # live_match_list = []
-    for match_id ,max_overs in zip(live_data_temp_df['MatchID'], live_data_temp_df['MATCH_NO_OF_OVERS']):
-        # live_match_list.append(match_id)
-        if match_id not in existing_ids:
-            existing_ids.add(match_id)
-
-        get_bcci_shot_data(match_id, max_overs)
-        csv_to_json(match_id)
+    if len(new_match_df)>0:
         
-        # updated_df = pd.DataFrame({'MatchID': list(existing_ids)})
-        # updated_df.to_csv(live_data_file_name, index=False)
-    with open(live_data_file_name, 'w') as file:
-        file.write('\n'.join(str(id) for id in existing_ids))
+        data_temp_df = new_match_df[new_match_df['MatchStatus'] == 'Post']
+        live_data_temp_df = new_match_df[new_match_df['MatchStatus'] == 'Live']
+
+        for match_id ,max_overs in zip(data_temp_df['MatchID'], data_temp_df['MATCH_NO_OF_OVERS']):
+            temp_file_str = f"./ipl_shot_data/csv/{match_id}.csv"
+
+            # if temp_file_str not in glob.glob(f"./bcci_shot_data/{cat}/csv/*.csv"):
+            if not os.path.exists(temp_file_str):
+                get_bcci_shot_data(match_id, max_overs)
+                csv_to_json(match_id)
+
+            if str(match_id) in existing_ids:
+                get_bcci_shot_data(match_id, max_overs)
+                csv_to_json(match_id)
+                existing_ids.remove(str(match_id))
+
+        # live_match_list = []
+        for match_id ,max_overs in zip(live_data_temp_df['MatchID'], live_data_temp_df['MATCH_NO_OF_OVERS']):
+            # live_match_list.append(match_id)
+            if match_id not in existing_ids:
+                existing_ids.add(match_id)
+
+            get_bcci_shot_data(match_id, max_overs)
+            csv_to_json(match_id)
+            
+            # updated_df = pd.DataFrame({'MatchID': list(existing_ids)})
+            # updated_df.to_csv(live_data_file_name, index=False)
+        with open(live_data_file_name, 'w') as file:
+            file.write('\n'.join(str(id) for id in existing_ids))
 
     #####################
 
@@ -296,13 +298,22 @@ def main_func():
     match_data_procees(all_ipl_match_list, new_match_list)
     hawkeye_data()
 
+# from concurrent.futures import ThreadPoolExecutor, as_completed
+
 if __name__ == '__main__':
     main_func()
 
+    # tasks = []
     # with open('./ipl_shot_data/hawkeyeid_matchid.csv', 'r') as f:
     #     next(f)
     #     for l in f:
     #         hawk_match_pair = l.replace(' ', '').strip().split(',')
 
-    #         if int(hawk_match_pair[0]) == 901:
-    #             hawkeye_main('Test', hawk_match_pair[0], hawk_match_pair[1], 'ipl')
+    #         if int(hawk_match_pair[0]) > 1862:
+    #             tasks.append(('Test', hawk_match_pair[0], hawk_match_pair[1], 'ipl'))
+    #             # hawkeye_main('Test', hawk_match_pair[0], hawk_match_pair[1], 'ipl')
+
+    # with ThreadPoolExecutor(max_workers=10) as executor:
+    #     futures = [executor.submit(hawkeye_main, *t) for t in tasks]
+    #     for future in as_completed(futures):
+    #         print(future.result())
