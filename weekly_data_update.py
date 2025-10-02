@@ -33,6 +33,7 @@ def get_hawkeye_data():
             hawkeye_main('Women', match_id, hawkeye_id, 'bcci')
 
 if __name__ ==  "__main__":
+    get_hawkeye_data()
     main_func("Men")
     main_func("Women")
     get_hawkeye_data()
