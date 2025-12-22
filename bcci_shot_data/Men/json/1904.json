@@ -1,0 +1,293 @@
+[
+    {
+        "BattingCard": [
+            {
+                "MatchID": 0,
+                "InningsNo": 0,
+                "TeamID": 0,
+                "PlayerID": "0",
+                "PlayerName": "0",
+                "PlayingOrder": "0",
+                "BowlerName": "0",
+                "OutDesc": "0",
+                "Runs": 0,
+                "Balls": 0,
+                "DotBalls": 0,
+                "Ones": 0,
+                "Twos": 0,
+                "Threes": 0,
+                "Fours": 0,
+                "Sixes": 0,
+                "StrikeRate": "0",
+                "MinOver": 0,
+                "MinStrikerOver": 0,
+                "WicketNo": "0",
+                "AgainstFast": 0,
+                "AgainstFastPercent": "0",
+                "AgainstSpin": 0,
+                "AgainstSpinPercent": "0",
+                "MatchPlayingOrder": 0,
+                "PLAYER_ID": 0,
+                "PlayerImage": "https://scores.bcci.tv/matchcentre/playerimages/"
+            }
+        ],
+        "Extras": [
+            {
+                "MatchID": "0",
+                "InningsNo": 0,
+                "TeamID": "0",
+                "Total": "0",
+                "TotalExtras": "0",
+                "Byes": "0",
+                "LegByes": "0",
+                "NoBalls": "0",
+                "Wides": "0",
+                "Penalty": "0",
+                "CurrentRunRate": "0",
+                "FallScore": "0",
+                "FallWickets": "0",
+                "FallOvers": "0",
+                "BattingTeamName": "0",
+                "BowlingTeamName": "0",
+                "MaxPartnerShipRuns": 0
+            }
+        ],
+        "FallOfWickets": [
+            {
+                "MatchID": "0",
+                "InningsNo": 0,
+                "TeamID": "0",
+                "PlayerID": "0",
+                "PlayerName": "0",
+                "Score": "0",
+                "FallScore": "0",
+                "FallWickets": 0,
+                "FallOvers": "0"
+            }
+        ],
+        "WagonWheel": [
+            {
+                "BallID": "0",
+                "StrikerID": "0",
+                "BowlerID": "0",
+                "FielderAngle": 0,
+                "FielderLengthRation": "0",
+                "Runs": 0,
+                "BatType": "0",
+                "IsFour": 0,
+                "IsSix": 0,
+                "FielderLengthRatio": 0
+            }
+        ],
+        "PartnershipScores": [
+            {
+                "MatchID": 0,
+                "BattingTeamID": 0,
+                "InningsNo": 0,
+                "StrikerID": "0",
+                "Striker": "0",
+                "NonStrikerID": "0",
+                "NonStriker": "0",
+                "PartnershipTotal": 0,
+                "StrikerRuns": 0,
+                "StrikerBalls": 0,
+                "Extras": 0,
+                "NonStrikerRuns": 0,
+                "NonStrikerBalls": 0,
+                "MatchMaxOver": 0,
+                "MatchMinOver": 0,
+                "RowNumber": 0
+            }
+        ],
+        "PartnershipBreak": [
+            {
+                "InningsNo": 0,
+                "OverNo": "0",
+                "WicketNo": 0,
+                "WicketType": "0",
+                "OutBatsmanID": "0"
+            }
+        ],
+        "BowlingCard": [
+            {
+                "MatchID": 0,
+                "InningsNo": 0,
+                "TeamID": 0,
+                "PlayerID": "0",
+                "PlayerName": "0",
+                "PlayerImageName": "https://scores.bcci.tv/matchcentre/playerimages/0",
+                "Overs": 0,
+                "Maidens": 0,
+                "Runs": 0,
+                "Wickets": 0,
+                "Wides": 0,
+                "NoBalls": 0,
+                "Economy": 0,
+                "BowlingOrder": 0,
+                "TotalLegalBallsBowled": 0,
+                "ScoringBalls": 0,
+                "DotBalls": 0,
+                "DBPercent": "0",
+                "DBFrequency": "0",
+                "Ones": 0,
+                "Twos": 0,
+                "Threes": 0,
+                "Fours": 0,
+                "Sixes": 0,
+                "BdryPercent": "0",
+                "BdryFreq": "0",
+                "StrikeRate": "0",
+                "FourPercent": "0",
+                "SixPercent": "0",
+                "PlayerImage": "https://scores.bcci.tv/matchcentre/playerimages/"
+            }
+        ],
+        "ManhattanGraph": [
+            {
+                "InningsNo": 0,
+                "OverNo": 0,
+                "OverRuns": 0,
+                "BowlerRuns": 0,
+                "BowlerID": "0",
+                "Wickets": 0,
+                "Bowler": "0",
+                "BattingTeamID": 0
+            }
+        ],
+        "ManhattanWickets": [
+            {
+                "InningsNo": 0,
+                "OverNo": 0,
+                "OutBatsMan": "0",
+                "OutDesc": "0",
+                "BatsManRuns": "0",
+                "BatsManBalls": "0",
+                "BattingTeamID": 0,
+                "BatsmanRuns": 0,
+                "BatsmanBalls": 0
+            }
+        ],
+        "OverHistory": [
+            {
+                "BallID": "0",
+                "MatchID": "0",
+                "InningsNo": 0,
+                "BattingTeamID": "0",
+                "TeamName": "0",
+                "StrikerID": "0",
+                "NonStrikerID": "0",
+                "BatsManName": "0",
+                "BowlerID": "0",
+                "BowlerName": "0",
+                "BowlerType": "0",
+                "OverNO": "0",
+                "OverName": "0",
+                "BallNo": "0",
+                "Runs": "0",
+                "BallRuns": "0",
+                "RunsText": "0",
+                "ActualRuns": "0",
+                "IsOne": "0",
+                "IsTwo": "0",
+                "IsThree": "0",
+                "IsDotball": "0",
+                "BallCount": "0",
+                "Extras": "0",
+                "IsWide": "0",
+                "IsNoBall": "0",
+                "IsBye": "0",
+                "IsLegBye": "0",
+                "IsFour": "0",
+                "IsSix": "0",
+                "IsWicket": "0",
+                "Wickets": "0",
+                "VideoFile": "0",
+                "CommentOver": "0",
+                "BallName": "0",
+                "CommentStrikers": "0",
+                "Commentry": "0",
+                "IsMaiden": "0",
+                "IsExtra": "0",
+                "OutBatsManID": "0",
+                "WicketType": "0",
+                "TotalRuns": "0",
+                "TotalWickets": "0",
+                "Xpitch": "0",
+                "Ypitch": "0",
+                "OverNo": 0
+            }
+        ],
+        "WagonWheelSummary": [
+            {
+                "MatchID": 0,
+                "BattingTeamID": 0,
+                "InningsNo": 0,
+                "Ones": 0,
+                "Twos": 0,
+                "Threes": 0,
+                "Fours": 0,
+                "Sixes": 0
+            }
+        ],
+        "battingheadtohead": [
+            {
+                "KPI": "0",
+                "BatsManID": "0",
+                "BowlerID": "0",
+                "BatsManName": "0",
+                "BowlerName": "0",
+                "Runs": "0",
+                "RunsThroughtExtras": "0",
+                "TotalRuns": "0",
+                "BallsFaced": "0",
+                "StrikeRate": "0",
+                "DotBalls": "0",
+                "DBPercent": "0",
+                "DotBallFrequency": "0",
+                "ScoringBalls": "0",
+                "Ones": "0",
+                "Twos": "0",
+                "Threes": "0",
+                "Fours": "0",
+                "Sixes": "0",
+                "BdryFreq": "0",
+                "BdryPercent": "0",
+                "WicketLost": "0",
+                "RPSS": "0"
+            }
+        ],
+        "bowlingheadtohead": [
+            {
+                "KPI": "0",
+                "MatchID": "0",
+                "BowlerID": "0",
+                "BowlerName": "0",
+                "StrikerID": "0",
+                "BatsManName": "0",
+                "TotalRunsConceded": "0",
+                "BowlingAverage": "0",
+                "TotalLegalBallsBowled": "0",
+                "BowlingSR": "0",
+                "EconomyRate": "0",
+                "DotBallsBowled": "0",
+                "ScoringBalls": "0",
+                "Ones": "0",
+                "Twoes": "0",
+                "Threes": "0",
+                "Bdry4": "0",
+                "Bdry6": "0",
+                "Wides": "0",
+                "NoBalls": "0",
+                "Wickets": "0",
+                "StumpingsDone": "0",
+                "RunOutsDone": "0",
+                "BowledOutsDone": "0",
+                "StumpingOutsDone": "0",
+                "BowlingDotBallPercent": "0",
+                "BowlingDotBallFrequency": "0",
+                "BowlingBdryPercentage": "0",
+                "BowlingBdryFrequency": "0"
+            }
+        ]
+    }
+]
