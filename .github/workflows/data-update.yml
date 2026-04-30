@@ -28,6 +28,7 @@ jobs:
     - name: Run script
       run: |
         python weekly_data_update.py
+        python ipl_weekly_data_update.py
 
     - name: Commit changes
       run: |
@@ -36,7 +37,7 @@ jobs:
 
         git pull --rebase=merges --autostash origin master
         
-        git add bcci_hawkeye_data/ bcci_shot_data/
+        git add bcci_hawkeye_data/ bcci_shot_data/ ipl_hawkeye_data/ ipl_shot_data/
         
         if git diff --cached --quiet; then
           echo "No changes to commit"

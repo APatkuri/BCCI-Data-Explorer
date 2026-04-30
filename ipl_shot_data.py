@@ -66,7 +66,7 @@ def csv_to_json(match_id):
 
 def ipl_shot_data_json():
     # ipl_comp_list = [10000,10001,10002,10003,10004,10005,10006,10007,10008,10009,10010,10011,10012,10013, 60, 107, 148, 203]
-    ipl_comp_list = [60, 107, 148, 203]
+    ipl_comp_list = [60, 107, 148, 203, 284]
     # BCCI = {"IPL_MATCH_URL": f"https://ipl-stats-sports-mechanic.s3.ap-south-1.amazonaws.com/ipl/feeds/{ipl_comp_id}-matchschedule.js"}
 
     file_path = f"./ipl_shot_data/ipl_match_list.json"
