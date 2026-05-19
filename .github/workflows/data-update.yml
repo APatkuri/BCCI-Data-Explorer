@@ -29,6 +29,7 @@ jobs:
       run: |
         python weekly_data_update.py
         python ipl_weekly_data_update.py
+        python update_missing_hawkeye.py
 
     - name: Commit changes
       run: |
