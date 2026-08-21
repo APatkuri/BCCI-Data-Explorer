@@ -1,0 +1,6 @@
+version: 2
+
+secret:
+  ignored_matches:
+    - name: BCCI public frontend API key (edak)
+      match: dREj-f+6etraCroX6
