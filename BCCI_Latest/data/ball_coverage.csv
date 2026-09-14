@@ -202,14 +202,14 @@ d9d13d73-b3b6-470d-8346-b7c1d5282479,229347,"England v India at Bristol, 4th T20
 613401e4-69dc-459c-b420-85d8cf4741c1,243702,"Sri Lanka Women v UAE W at Dubai, DP World Women's T20 Asia Cup, 29 Aug 2026",Women's T20I,2026-08-29,169,0,0,82,6,False,complete,T20/women_international/613401e4-69dc-459c-b420-85d8cf4741c1.csv
 798bc6ef-7163-46bc-9e39-17a0b602132a,243701,"Thailand Women v Hong Kong Women at Dubai, DP World Women's T20 Asia Cup, 28 Aug 2026",Women's T20I,2026-08-28,249,0,0,129,10,False,complete,T20/women_international/798bc6ef-7163-46bc-9e39-17a0b602132a.csv
 3994ecc2-d4b1-4f9c-8f66-3a5fc783c0d1,242459,"Sri Lanka v India at Colombo (SSC), 2nd Test, 23-27 Aug 2026",Test,2026-08-23,2318,2317,2306,638,19,True,complete,Test/men_international/3994ecc2-d4b1-4f9c-8f66-3a5fc783c0d1.csv
-<<<<<<< HEAD
+<<<<<<< HEAD,,,,,,,,,,,,
 02e5798d-7639-4068-9fe0-a9f0f66f35c9,243998,"Afghanistan v India at Delhi, Afghanistan v India in India, 1st T20I, 13 Sep 2026",Twenty20 international,2026-09-13,216,208,198,115,7,True,complete,T20/men_international/02e5798d-7639-4068-9fe0-a9f0f66f35c9.csv
 cf4c8f23-f13c-416a-94fc-3324227e9775,243714,"Sri Lanka Women v Pakistan Women at Dubai, DP World Women's T20 Asia Cup, Semi-Final, 11 Sep 2026",Women's T20I,2026-09-11,237,0,0,130,8,False,complete,T20/women_international/cf4c8f23-f13c-416a-94fc-3324227e9775.csv
 85a11fbe-b90c-4247-bbba-d33cf24c1500,243713,"India Women v Bangladesh Women at Dubai, DP World Women's T20 Asia Cup, Semi-Final, 10 Sep 2026",Women's T20I,2026-09-10,243,0,0,120,8,False,complete,T20/women_international/85a11fbe-b90c-4247-bbba-d33cf24c1500.csv
 82930cab-9b92-4f10-811b-5d55b3de945d,243712,"Bangladesh Women v UAE W at Dubai, DP World Women's T20 Asia Cup, 8 Sep 2026",Women's T20I,2026-09-08,245,0,0,109,12,False,complete,T20/women_international/82930cab-9b92-4f10-811b-5d55b3de945d.csv
 6c956a22-c6fd-4cee-917d-e3861d52166d,243711,"Pakistan Women v Hong Kong Women at Dubai, DP World Women's T20 Asia Cup, 7 Sep 2026",Women's T20I,2026-09-07,247,0,0,104,6,False,complete,T20/women_international/6c956a22-c6fd-4cee-917d-e3861d52166d.csv
-=======
->>>>>>> e6f1e9ba656b987ffdd51fb5eba1aacb3279b4f8
+=======,,,,,,,,,,,,
+>>>>>>> e6f1e9ba656b987ffdd51fb5eba1aacb3279b4f8,,,,,,,,,,,,
 df91458c-3753-4462-b8d2-737d8e54da6e,243710,"Sri Lanka Women v Bangladesh Women at Dubai, DP World Women's T20 Asia Cup, 6 Sep 2026",Women's T20I,2026-09-06,239,0,0,130,5,False,complete,T20/women_international/df91458c-3753-4462-b8d2-737d8e54da6e.csv
 26093658-07c5-4e85-91f1-4a639adadd14,243709,"India Women v Pakistan Women at Dubai, DP World Women's T20 Asia Cup, 5 Sep 2026",Women's T20I,2026-09-05,164,0,0,56,5,False,complete,T20/women_international/26093658-07c5-4e85-91f1-4a639adadd14.csv
 28804529-8ce3-40f7-840a-89785d897dcd,243708,"UAE W v Indonesia Women at Dubai, DP World Women's T20 Asia Cup, 4 Sep 2026",Women's T20I,2026-09-04,202,0,0,77,6,False,complete,T20/women_international/28804529-8ce3-40f7-840a-89785d897dcd.csv
@@ -217,3 +217,4 @@ df91458c-3753-4462-b8d2-737d8e54da6e,243710,"Sri Lanka Women v Bangladesh Women 
 fc25ba0d-31e7-4df1-9dbb-c2e46c98f17b,243706,"Sri Lanka Women v Indonesia Women at Dubai, DP World Women's T20 Asia Cup, 2 Sep 2026",Women's T20I,2026-09-02,239,0,0,102,5,False,complete,T20/women_international/fc25ba0d-31e7-4df1-9dbb-c2e46c98f17b.csv
 8cac4df4-35b8-43d4-b882-51b524e3a003,243705,"Pakistan Women v Thailand Women at Dubai, DP World Women's T20 Asia Cup, 1 Sep 2026",Women's T20I,2026-09-01,241,0,0,114,8,False,complete,T20/women_international/8cac4df4-35b8-43d4-b882-51b524e3a003.csv
 7eba2f4c-ec4a-44e5-a3b7-58a593533496,243704,"Bangladesh Women v Indonesia Women at Dubai, DP World Women's T20 Asia Cup, 31 Aug 2026",Women's T20I,2026-08-31,231,0,0,104,7,False,complete,T20/women_international/7eba2f4c-ec4a-44e5-a3b7-58a593533496.csv
+e2810dcd-a701-4d6b-8fa9-6a9ef9a045c2,243715,"India Women v Sri Lanka Women at Dubai, DP World Women's T20 Asia Cup, Final, 13 Sep 2026",Women's T20I,2026-09-13,242,0,0,139,8,False,complete,T20/women_international/e2810dcd-a701-4d6b-8fa9-6a9ef9a045c2.csv
