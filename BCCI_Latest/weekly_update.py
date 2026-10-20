@@ -138,7 +138,10 @@ def main():
     print("=" * 60)
     print("STEP 1  match index")
     print("=" * 60)
-    matches_df = update_index(seasons=args.season, all_seasons=args.all_seasons)
+    # Partial failures are carried to the end rather than raised here: whatever
+    # did come back is still worth fetching and committing, but the run should
+    # still exit non-zero so the Action shows red.
+    matches_df, failures = update_index(seasons=args.season, all_seasons=args.all_seasons)
 
     if matches_df.empty:
         print("\nno matches in index -- nothing to do")
@@ -162,12 +165,19 @@ def main():
             print(f"capped at {args.limit} this run; rerun to continue")
         # refresh=True so the stale ones actually get re-fetched rather than
         # skipped as already-present.
-        scrape(gids, raw=args.raw, refresh=True)
+        _, failed_gids = scrape(gids, raw=args.raw, refresh=True)
+        failures += [f"match {gid}" for gid in failed_gids]
 
     print("\n" + "=" * 60)
     print("STEP 3  summary")
     print("=" * 60)
     summarise()
+
+    if failures:
+        print(f"\n{len(failures)} failure(s) this run:")
+        for failure in failures:
+            print(f"  - {failure}")
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":

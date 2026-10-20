@@ -38,6 +38,10 @@ HEADERS = {
 }
 
 
+class FetchError(RuntimeError):
+    """An endpoint stayed unreachable after retries."""
+
+
 def make_session():
     session = requests.Session()
     session.headers.update(HEADERS)
@@ -83,11 +87,15 @@ def available_seasons(config):
     return (config.get("filters") or {}).get("seasonYears", [])
 
 
-def fetch_matches(session, status, comp_gids):
+def fetch_matches(session, status, comp_gids, strict=False):
     """All fixtures or results for the given competitions, following pagination.
 
     Only ``comp_gid`` actually constrains the query -- ``team_gid`` is accepted
     but ignored server-side, so it is not sent.
+
+    A page that cannot be read ends the listing early. With ``strict`` that
+    raises :class:`FetchError` instead, so a failed request is not mistaken for
+    "no matches" (or a truncated season).
     """
     if not comp_gids:
         return []
@@ -102,6 +110,8 @@ def fetch_matches(session, status, comp_gids):
             params=params + [("page", page), ("size", PAGE_SIZE)],
         )
         if not payload:
+            if strict:
+                raise FetchError(f"{status} page {page} unreadable")
             break
 
         batch = payload.get("match") or []

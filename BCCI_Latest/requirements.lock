@@ -1,0 +1,16 @@
+# Exact versions for the scheduled Action (Python 3.11), so a new upstream
+# release cannot change the job's behaviour between runs. requirements.txt
+# stays loose for local use.
+#
+# Regenerate after testing a bump:
+#   pip install -U -r requirements.txt && pip freeze > requirements.lock
+certifi==2026.10.19
+charset-normalizer==3.5.2
+idna==3.20
+numpy==2.4.6
+pandas==3.0.6
+python-dateutil==2.9.0.post0
+requests==2.34.2
+six==1.17.0
+tqdm==4.70.1
+urllib3==2.8.0

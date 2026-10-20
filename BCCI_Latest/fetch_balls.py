@@ -266,14 +266,18 @@ def select_gids(args):
 
 
 def scrape(gids, raw=False, refresh=False):
-    """Fetch, join, parse and write a ball table per gid. Returns coverage rows.
+    """Fetch, join, parse and write a ball table per gid.
+
+    Returns ``(coverage_rows, failed_gids)``. A match that raises is logged and
+    skipped so it cannot take the rest of the batch down with it; it has no
+    coverage row, so the next run picks it up again.
 
     Importable so the weekly update can drive it without shelling out.
     """
     os.makedirs(BALLS_DIR, exist_ok=True)
     session = make_session()
     class_map = load_class_map()
-    coverage_rows = []
+    coverage_rows, failed = [], []
     print(f"{len(gids)} match(es) to fetch\n")
 
     # tqdm owns the last terminal line, so per-match detail has to go through
@@ -289,38 +293,44 @@ def scrape(gids, raw=False, refresh=False):
             log(f"  {gid[:8]} cached, skipping")
             continue
 
-        payloads = fetch_match(session, gid)
+        try:
+            payloads = fetch_match(session, gid)
 
-        if not payloads.get("commentary"):
-            totals["skipped"] += 1
-            log(f"  {gid[:8]} no commentary, skipped")
+            if not payloads.get("commentary"):
+                totals["skipped"] += 1
+                log(f"  {gid[:8]} no commentary, skipped")
+                continue
+
+            df, coverage = build_match_table(gid, payloads)
+            if df.empty:
+                totals["skipped"] += 1
+                log(f"  {gid[:8]} no balls, skipped")
+                continue
+
+            # Parsed inline so each match has exactly one table on disk.
+            # Re-parsing later is parse_balls.py's job, and it rewrites these
+            # same files.
+            df = enrich(df)
+
+            # Index class is richer than the commentary's own label, so prefer it.
+            class_names = class_map.get(gid) or coverage.get("class_name") or ""
+            out_path = ball_path(gid, class_names)
+            os.makedirs(os.path.dirname(out_path), exist_ok=True)
+
+            # A reclassified match must not leave a copy in its old folder.
+            if existing and os.path.abspath(existing) != os.path.abspath(out_path):
+                os.remove(existing)
+
+            df.to_csv(out_path, index=False)
+            coverage["path"] = os.path.relpath(out_path, BALLS_DIR)
+            if raw:
+                write_raw(gid, payloads)
+        except Exception as exc:
+            failed.append(gid)
+            log(f"  {gid[:8]} FAILED: {type(exc).__name__}: {exc}")
             continue
 
-        df, coverage = build_match_table(gid, payloads)
-        if df.empty:
-            totals["skipped"] += 1
-            log(f"  {gid[:8]} no balls, skipped")
-            continue
-
-        # Parsed inline so each match has exactly one table on disk. Re-parsing
-        # later is parse_balls.py's job, and it rewrites these same files.
-        df = enrich(df)
-
-        # Index class is richer than the commentary's own label, so prefer it.
-        class_names = class_map.get(gid) or coverage.get("class_name") or ""
-        out_path = ball_path(gid, class_names)
-        os.makedirs(os.path.dirname(out_path), exist_ok=True)
-
-        # A reclassified match must not leave a copy in its old folder.
-        if existing and os.path.abspath(existing) != os.path.abspath(out_path):
-            os.remove(existing)
-
-        df.to_csv(out_path, index=False)
-        coverage["path"] = os.path.relpath(out_path, BALLS_DIR)
         coverage_rows.append(coverage)
-        if raw:
-            write_raw(gid, payloads)
-
         totals["balls"] += coverage["balls"]
         totals["tracked"] += 1 if coverage["has_tracking"] else 0
 
@@ -341,7 +351,9 @@ def scrape(gids, raw=False, refresh=False):
 
     write_coverage(coverage_rows)
     print(f"ball tables -> {BALLS_DIR}")
-    return coverage_rows
+    if failed:
+        print(f"{len(failed)} match(es) failed: {' '.join(failed)}")
+    return coverage_rows, failed
 
 
 def write_coverage(coverage_rows):
@@ -368,7 +380,9 @@ def main():
     parser.add_argument("--refresh", action="store_true", help="re-scrape matches already on disk")
     args = parser.parse_args()
 
-    scrape(select_gids(args), raw=args.raw, refresh=args.refresh)
+    _, failed = scrape(select_gids(args), raw=args.raw, refresh=args.refresh)
+    if failed:
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":

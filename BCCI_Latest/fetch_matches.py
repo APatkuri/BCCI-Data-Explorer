@@ -26,6 +26,7 @@ import time
 import pandas as pd
 
 from bcci_api import (
+    FetchError,
     available_seasons,
     competition_gids,
     fetch_filter_config,
@@ -135,12 +136,18 @@ def innings_rows(match):
 
 
 def collect(session, match_class, seasons, statuses):
-    all_matches, all_innings, raw_by_key = [], [], {}
+    """Fetch every class/season/status listing.
+
+    A listing that fails is recorded in ``failures`` and skipped rather than
+    treated as empty -- the merge then keeps whatever is already on disk for it.
+    """
+    all_matches, all_innings, raw_by_key, failures = [], [], {}, []
 
     for season in seasons:
         config = fetch_filter_config(session, match_class, season)
         if not config:
-            print(f"  {match_class} {season}: no filter config, skipping")
+            print(f"  ! {match_class} {season}: no filter config, skipping")
+            failures.append(f"{match_class} {season} filter config")
             continue
 
         gids = competition_gids(config)
@@ -149,7 +156,12 @@ def collect(session, match_class, seasons, statuses):
             continue
 
         for status in statuses:
-            matches = fetch_matches(session, status, gids)
+            try:
+                matches = fetch_matches(session, status, gids, strict=True)
+            except FetchError as exc:
+                print(f"  ! {match_class} {season} {status}: {exc}, skipping")
+                failures.append(f"{match_class} {season} {status}")
+                continue
             print(
                 f"  {match_class} {season} {status:8s}: "
                 f"{len(gids):3d} comps -> {len(matches):5d} matches"
@@ -162,7 +174,7 @@ def collect(session, match_class, seasons, statuses):
 
             time.sleep(0.5)
 
-    return all_matches, all_innings, raw_by_key
+    return all_matches, all_innings, raw_by_key, failures
 
 
 def write_raw(raw_by_key):
@@ -174,13 +186,19 @@ def write_raw(raw_by_key):
 
 
 def merge_existing(df, path, subset):
-    """Fold new rows into whatever is already on disk, new rows winning."""
-    if not os.path.exists(path) or df.empty:
+    """Fold new rows into whatever is already on disk, new rows winning.
+
+    Rows are only ever added or replaced, never dropped -- an empty fetch
+    leaves the file as it was rather than wiping it.
+    """
+    if not os.path.exists(path):
         return df
 
     existing = pd.read_csv(path, dtype=str, keep_default_na=False)
     if existing.empty:
         return df
+    if df.empty:
+        return existing
 
     combined = pd.concat([existing, df.astype(str)], ignore_index=True)
     return combined.drop_duplicates(subset=subset, keep="last")
@@ -188,7 +206,12 @@ def merge_existing(df, path, subset):
 
 def update_index(classes=CLASSES, seasons=None, all_seasons=False,
                  statuses=STATUSES, merge=True, raw=False):
-    """Refresh matches.csv / match_innings.csv. Returns the match DataFrame.
+    """Refresh matches.csv / match_innings.csv.
+
+    Returns ``(matches_df, failures)``, where ``failures`` names each listing
+    that could not be fetched. Those are skipped, not fatal, so one flaky class
+    does not hold up the rest -- but if *nothing* comes back, this raises
+    :class:`FetchError` before touching the CSVs.
 
     ``seasons=None`` with ``all_seasons=False`` means the BFF's current default
     season -- the right choice for a scheduled update. Importable so the weekly
@@ -197,7 +220,7 @@ def update_index(classes=CLASSES, seasons=None, all_seasons=False,
     session = make_session()
     os.makedirs(DATA_DIR, exist_ok=True)
 
-    matches, innings, raw_payloads = [], [], {}
+    matches, innings, raw_payloads, failures = [], [], {}, []
 
     for match_class in classes:
         if all_seasons:
@@ -211,12 +234,18 @@ def update_index(classes=CLASSES, seasons=None, all_seasons=False,
             class_seasons = [filters.get("defaultSeasonYear", "2026")]
 
         print(f"{match_class}: {len(class_seasons)} season(s)")
-        cls_matches, cls_innings, cls_raw = collect(
+        cls_matches, cls_innings, cls_raw, cls_failures = collect(
             session, match_class, class_seasons, statuses
         )
         matches.extend(cls_matches)
         innings.extend(cls_innings)
         raw_payloads.update(cls_raw)
+        failures.extend(cls_failures)
+
+    if not matches and failures:
+        raise FetchError(
+            f"no listings fetched ({', '.join(failures)}); existing CSVs left untouched"
+        )
 
     if raw:
         write_raw(raw_payloads)
@@ -246,7 +275,9 @@ def update_index(classes=CLASSES, seasons=None, all_seasons=False,
         f"\n{len(innings_df)} innings -> {innings_path}"
         f"\n{len(bbb)} matches carry ball-by-ball"
     )
-    return matches_df
+    if failures:
+        print(f"{len(failures)} listing(s) failed: {', '.join(failures)}")
+    return matches_df, failures
 
 
 def main():
@@ -260,7 +291,7 @@ def main():
                         help="also keep the raw JSON per class/season/status")
     args = parser.parse_args()
 
-    update_index(
+    _, failures = update_index(
         classes=args.classes,
         seasons=args.season,
         all_seasons=args.all_seasons,
@@ -268,6 +299,8 @@ def main():
         merge=not args.no_merge,
         raw=args.raw,
     )
+    if failures:
+        raise SystemExit(1)
 
 
 if __name__ == "__main__":
