@@ -80,7 +80,21 @@ def fetch_filter_config(session, match_class="international", season="2026"):
 
 
 def competition_gids(config):
-    return [c["externalGid"] for c in (config.get("competitions") or {}).get("data", [])]
+    """``externalGid`` of every competition in the config.
+
+    The CMS occasionally serves a competition entry without one (seen in the
+    2026-10-29 and 2026-11-02 runs). Such an entry cannot be queried, so it is
+    skipped with a warning rather than taking the whole run down; its matches
+    are picked up by a later run once the entry is filled in.
+    """
+    gids = []
+    for comp in (config.get("competitions") or {}).get("data", []):
+        gid = comp.get("externalGid")
+        if gid:
+            gids.append(gid)
+        else:
+            print(f"  ! competition {comp.get('name') or comp.get('id')!r} has no externalGid, skipping")
+    return gids
 
 
 def available_seasons(config):
